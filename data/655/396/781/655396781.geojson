@@ -2,9 +2,14 @@
   "id": 655396781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3716 US Hwy 1 Princeton NJ 08540",
+    "addr:housenumber":"3716",
+    "addr:postcode":"08540",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.632252,40.336059,-74.632252,40.336059",
     "geom:latitude":40.336059,
     "geom:longitude":-74.632252,
@@ -24,7 +29,14 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bGYegIMXiLojXIHkjlG3k_40.336059_-74.632252@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461304492,
     "wof:geomhash":"480761250feace3229ab1869c1e48556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":655396781
+        }
+    ],
     "wof:id":655396781,
-    "wof:lastmodified":1466675411,
+    "wof:lastmodified":1492049444,
     "wof:name":"Carnegie Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

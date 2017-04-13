@@ -2,9 +2,14 @@
   "id": 639338555,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 W 30th St Bayonne NJ 07002",
+    "addr:housenumber":"146",
+    "addr:postcode":"07002",
+    "addr:street":"W 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.119423,40.671616,-74.119423,40.671616",
     "geom:latitude":40.671616,
     "geom:longitude":-74.119423,
@@ -28,7 +33,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZCNmolBVlihuuBXWltJMB_40.671616_-74.119423@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292778,
     "wof:geomhash":"5d4996f83620cb13b19ba2dccc821549",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639338555
+        }
+    ],
     "wof:id":639338555,
-    "wof:lastmodified":1466692313,
+    "wof:lastmodified":1492053309,
     "wof:name":"Dyna Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

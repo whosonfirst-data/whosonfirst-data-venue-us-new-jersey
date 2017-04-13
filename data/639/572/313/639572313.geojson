@@ -2,9 +2,14 @@
   "id": 639572313,
   "type": "Feature",
   "properties": {
+    "addr:full":"591 Glen Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"591",
+    "addr:postcode":"07010",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99068,40.825705,-73.99068,40.825705",
     "geom:latitude":40.825705,
     "geom:longitude":-73.99068,
@@ -28,7 +33,14 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01wR6eyWxEDxHkWei50f5u_40.825705_-73.990680@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300610,
     "wof:geomhash":"770c695b4a2474e585e198d02647303b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639572313
+        }
+    ],
     "wof:id":639572313,
-    "wof:lastmodified":1466696275,
+    "wof:lastmodified":1492049521,
     "wof:name":"DVD Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

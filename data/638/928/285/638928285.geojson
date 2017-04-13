@@ -2,9 +2,14 @@
   "id": 638928285,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Birch Dr Newton NJ 07860",
+    "addr:housenumber":"104",
+    "addr:postcode":"07860",
+    "addr:street":"Birch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.81269,41.049345,-74.81269,41.049345",
     "geom:latitude":41.049345,
     "geom:longitude":-74.81269,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k4mDu944QifxAb9TYGECC_41.049345_-74.812690@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283471,
     "wof:geomhash":"dca9e5e142ae938e45dcfed73af3e57c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":638928285
+        }
+    ],
     "wof:id":638928285,
-    "wof:lastmodified":1466690756,
+    "wof:lastmodified":1492070860,
     "wof:name":"Don Bell",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

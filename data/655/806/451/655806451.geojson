@@ -2,9 +2,14 @@
   "id": 655806451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1112 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"1112",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.879398,40.049014,-74.879398,40.049014",
     "geom:latitude":40.049014,
     "geom:longitude":-74.879398,
@@ -27,7 +32,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AAtFGY1Vmd5th8EnQNkRv_40.049014_-74.879398@1303262274"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321624,
     "wof:geomhash":"0f6856e39c14c6096cdfe6c2e0b2a39c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655806451
+        }
+    ],
     "wof:id":655806451,
-    "wof:lastmodified":1466687136,
+    "wof:lastmodified":1492053425,
     "wof:name":"Sunset Beauty Supply",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

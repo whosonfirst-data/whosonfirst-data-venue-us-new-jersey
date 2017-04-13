@@ -2,9 +2,14 @@
   "id": 639521095,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 Tansboro Rd Berlin NJ 08009",
+    "addr:housenumber":"402",
+    "addr:postcode":"08009",
+    "addr:street":"Tansboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.916397,39.761258,-74.916397,39.761258",
     "geom:latitude":39.761258,
     "geom:longitude":-74.916397,
@@ -29,7 +34,10 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dr8saUfWv1WPmjQIigxjp_39.761258_-74.916397@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461298356,
     "wof:geomhash":"610bde8a3e6f0a398374494e94e069cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639521095
+        }
+    ],
     "wof:id":639521095,
-    "wof:lastmodified":1466695117,
+    "wof:lastmodified":1492043946,
     "wof:name":"Winslow Twp Zoning Board",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

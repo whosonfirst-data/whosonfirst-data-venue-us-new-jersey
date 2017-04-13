@@ -2,9 +2,14 @@
   "id": 639455059,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Shore Rd Andover NJ 07821",
+    "addr:housenumber":"8",
+    "addr:postcode":"07821",
+    "addr:street":"Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.773888,40.955195,-74.773888,40.955195",
     "geom:latitude":40.955195,
     "geom:longitude":-74.773888,
@@ -29,7 +34,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FBqfB1Ik54FDsK8VRecbS_40.955195_-74.773888@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461295614,
     "wof:geomhash":"b7646595a99947aa13852d0082088394",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639455059
+        }
+    ],
     "wof:id":639455059,
-    "wof:lastmodified":1466693624,
+    "wof:lastmodified":1492041621,
     "wof:name":"Network Technologies",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

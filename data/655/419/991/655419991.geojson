@@ -2,9 +2,14 @@
   "id": 655419991,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Wren Ave Brick NJ 08724",
+    "addr:housenumber":"9",
+    "addr:postcode":"08724",
+    "addr:street":"Wren Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130068,40.078755,-74.130068,40.078755",
     "geom:latitude":40.078755,
     "geom:longitude":-74.130068,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vjx1aptNa6q7zr4HpF7KO_40.078755_-74.130068@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305470,
     "wof:geomhash":"b781a8ea891b4aad7e8df1a54c244319",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655419991
+        }
+    ],
     "wof:id":655419991,
-    "wof:lastmodified":1466676228,
+    "wof:lastmodified":1492045256,
     "wof:name":"A M Construction of Ocean Cnty",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655480443,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 E Commodore Blvd Jackson NJ 08527",
+    "addr:housenumber":"133",
+    "addr:postcode":"08527",
+    "addr:street":"E Commodore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331876,40.147471,-74.331876,40.147471",
     "geom:latitude":40.147471,
     "geom:longitude":-74.331876,
@@ -27,7 +32,13 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mW3nMczs7IfQ9JmkrV56y_40.147471_-74.331876@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308028,
     "wof:geomhash":"4b7454d7bf8c5e842fa8a41e70b1eec8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655480443
+        }
+    ],
     "wof:id":655480443,
-    "wof:lastmodified":1466677670,
+    "wof:lastmodified":1492024622,
     "wof:name":"Jackson Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

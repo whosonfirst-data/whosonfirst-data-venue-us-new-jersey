@@ -2,9 +2,14 @@
   "id": 639483631,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Hazel Ct Norwood NJ 07648",
+    "addr:housenumber":"120",
+    "addr:postcode":"07648",
+    "addr:street":"Hazel Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960201,40.990419,-73.960201,40.990419",
     "geom:latitude":40.990419,
     "geom:longitude":-73.960201,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mTcNeC7iBTBSbNtklbKUS_40.990419_-73.960201@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296760,
     "wof:geomhash":"c38f930d07794de18eb652624ff5a08e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639483631
+        }
+    ],
     "wof:id":639483631,
-    "wof:lastmodified":1466694364,
+    "wof:lastmodified":1492049644,
     "wof:name":"Barbara A Dill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

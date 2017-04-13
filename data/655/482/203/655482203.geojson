@@ -2,9 +2,14 @@
   "id": 655482203,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Stuyvesant Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"623",
+    "addr:postcode":"07071",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132582,40.80631,-74.132582,40.80631",
     "geom:latitude":40.80631,
     "geom:longitude":-74.132582,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B9D5jkVsXTO5wy6559JsI_40.806310_-74.132582@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461308096,
     "wof:geomhash":"54151723b7af2fbed5e4bc09bf1f6e6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655482203
+        }
+    ],
     "wof:id":655482203,
-    "wof:lastmodified":1466677615,
+    "wof:lastmodified":1492045027,
     "wof:name":"Perfection Plus Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

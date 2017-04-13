@@ -2,9 +2,14 @@
   "id": 639622329,
   "type": "Feature",
   "properties": {
+    "addr:full":"382 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"382",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.189808,40.695552,-75.189808,40.695552",
     "geom:latitude":40.695552,
     "geom:longitude":-75.189808,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FP7rPocSpNdAVPJ7agLSk_40.695552_-75.189808@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302586,
     "wof:geomhash":"84f07cb06b75ea6c8f3197784c07dabf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639622329
+        }
+    ],
     "wof:id":639622329,
-    "wof:lastmodified":1466697395,
+    "wof:lastmodified":1492025387,
     "wof:name":"Fleet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

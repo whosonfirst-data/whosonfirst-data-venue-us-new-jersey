@@ -2,9 +2,14 @@
   "id": 655528091,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Old Milford Ln West Milford NJ 07480",
+    "addr:housenumber":"45",
+    "addr:postcode":"07480",
+    "addr:street":"Old Milford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.406647,41.102968,-74.406647,41.102968",
     "geom:latitude":41.102968,
     "geom:longitude":-74.406647,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XXC9fz0ehNVEvBBM0FJsf_41.102968_-74.406647@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309967,
     "wof:geomhash":"6559468873171659efedfe2d0857dfa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527495,
+            "venue_id":655528091
+        }
+    ],
     "wof:id":655528091,
-    "wof:lastmodified":1466678905,
+    "wof:lastmodified":1492057940,
     "wof:name":"Elias Graphics",
     "wof:parent_id":420527495,
     "wof:placetype":"venue",

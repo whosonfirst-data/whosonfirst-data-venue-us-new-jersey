@@ -2,9 +2,14 @@
   "id": 639268945,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Drake Rd Somerset NJ 08873",
+    "addr:housenumber":"41",
+    "addr:postcode":"08873",
+    "addr:street":"Drake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.49373,40.498857,-74.49373,40.498857",
     "geom:latitude":40.498857,
     "geom:longitude":-74.49373,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JUYYdPhU3DnnxW65Y9KeB_40.498857_-74.493730@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461291262,
     "wof:geomhash":"d25d38b0e0f060303b41f94829ae500e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639268945
+        }
+    ],
     "wof:id":639268945,
-    "wof:lastmodified":1466690773,
+    "wof:lastmodified":1492049906,
     "wof:name":"Kelly & Sons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

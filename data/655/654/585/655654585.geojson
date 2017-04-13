@@ -2,9 +2,14 @@
   "id": 655654585,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 Ackerman Ave Glen Rock NJ 07452",
+    "addr:housenumber":"507",
+    "addr:postcode":"07452",
+    "addr:street":"Ackerman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.119773,40.964022,-74.119773,40.964022",
     "geom:latitude":40.964022,
     "geom:longitude":-74.119773,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20DY1sFHvBdC2bgiF9kswa_40.964022_-74.119773@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315365,
     "wof:geomhash":"a1b9c985b325dda759223c4c6963750c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655654585
+        }
+    ],
     "wof:id":655654585,
-    "wof:lastmodified":1466682993,
+    "wof:lastmodified":1492027643,
     "wof:name":"Mastrogiovanni Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

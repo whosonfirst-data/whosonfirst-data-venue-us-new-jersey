@@ -2,9 +2,14 @@
   "id": 655396477,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Calhoun St Trenton NJ 08638",
+    "addr:housenumber":"911",
+    "addr:postcode":"08638",
+    "addr:street":"Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764265,40.233355,-74.764265,40.233355",
     "geom:latitude":40.233355,
     "geom:longitude":-74.764265,
@@ -24,7 +29,13 @@
     "sg:postcode":"08638",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478249,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OJmf6aOxRKdenYLNQHqiQ_40.233355_-74.764265@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461304481,
     "wof:geomhash":"1d6b72ef4b19c3d6ee7607525c06c193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478249,
+            "region_id":85688607,
+            "venue_id":655396477
+        }
+    ],
     "wof:id":655396477,
-    "wof:lastmodified":1466675332,
+    "wof:lastmodified":1492065598,
     "wof:name":"Clahoun Street Cutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655363033,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ranch Blvd Barnegat NJ 08050",
+    "addr:housenumber":"9",
+    "addr:postcode":"08050",
+    "addr:street":"Ranch Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255026,39.736793,-74.255026,39.736793",
     "geom:latitude":39.736793,
     "geom:longitude":-74.255026,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ML5I5lluVJee5usQAZvrO_39.736793_-74.255026@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303142,
     "wof:geomhash":"79bc65085043a37c34c26c04f0c7e2cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":655363033
+        }
+    ],
     "wof:id":655363033,
-    "wof:lastmodified":1466674404,
+    "wof:lastmodified":1492050818,
     "wof:name":"Sue S Cleaning Service",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

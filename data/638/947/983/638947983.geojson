@@ -2,9 +2,14 @@
   "id": 638947983,
   "type": "Feature",
   "properties": {
+    "addr:full":"857 Valley St Vauxhall NJ 07088",
+    "addr:housenumber":"857",
+    "addr:postcode":"07088",
+    "addr:street":"Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288377,40.720116,-74.288377,40.720116",
     "geom:latitude":40.720116,
     "geom:longitude":-74.288377,
@@ -27,7 +32,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07T1oBqyPURkaz36meAVRW_40.720116_-74.288377@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461283981,
     "wof:geomhash":"4152c618155552df94797eb626c0ea7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":638947983
+        }
+    ],
     "wof:id":638947983,
-    "wof:lastmodified":1466691350,
+    "wof:lastmodified":1492055312,
     "wof:name":"George's General Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

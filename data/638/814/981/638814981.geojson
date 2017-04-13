@@ -2,9 +2,14 @@
   "id": 638814981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2137 US Hwy 1 Rahway NJ 07065",
+    "addr:housenumber":"2137",
+    "addr:postcode":"07065",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259878,40.608446,-74.259878,40.608446",
     "geom:latitude":40.608446,
     "geom:longitude":-74.259878,
@@ -27,7 +32,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iwU0IJURGHxxxl1rzyKS2_40.608446_-74.259878@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280579,
     "wof:geomhash":"5f6138ca36cc5b4c619581fb7fbeefcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638814981
+        }
+    ],
     "wof:id":638814981,
-    "wof:lastmodified":1466687513,
+    "wof:lastmodified":1492049065,
     "wof:name":"American Plastic Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

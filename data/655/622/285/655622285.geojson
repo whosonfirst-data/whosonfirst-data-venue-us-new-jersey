@@ -2,9 +2,14 @@
   "id": 655622285,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Church Rd Morganville NJ 07751",
+    "addr:housenumber":"25",
+    "addr:postcode":"07751",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289166,40.340081,-74.289166,40.340081",
     "geom:latitude":40.340081,
     "geom:longitude":-74.289166,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44k5wZ5d6SavUM6DMqprUf_40.340081_-74.289166@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313986,
     "wof:geomhash":"2a2669cf34020f8c692e109122ef498d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":655622285
+        }
+    ],
     "wof:id":655622285,
-    "wof:lastmodified":1466681798,
+    "wof:lastmodified":1492028695,
     "wof:name":"Comfort Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639512185,
   "type": "Feature",
   "properties": {
+    "addr:full":"468 Irvington Ave Maplewood NJ 07040",
+    "addr:housenumber":"468",
+    "addr:postcode":"07040",
+    "addr:street":"Irvington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252006,40.738458,-74.252006,40.738458",
     "geom:latitude":40.738458,
     "geom:longitude":-74.252006,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983,
+        420526937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41WisJSQF4YBdka3frtWzL_40.738458_-74.252006@1294171694"
@@ -36,11 +48,25 @@
     "wof:country":"US",
     "wof:created":1461297955,
     "wof:geomhash":"4845e87b081d2dd2d7c0a430011acf76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639512185
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526937,
+            "venue_id":639512185
+        }
+    ],
     "wof:id":639512185,
-    "wof:lastmodified":1466694981,
+    "wof:lastmodified":1491938443,
     "wof:name":"MGM Properties Inc",
-    "wof:parent_id":420526937,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

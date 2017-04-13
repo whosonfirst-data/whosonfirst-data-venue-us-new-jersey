@@ -2,9 +2,14 @@
   "id": 655592587,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Mount Hermon Rd Blairstown NJ 07825",
+    "addr:housenumber":"119",
+    "addr:postcode":"07825",
+    "addr:street":"Mount Hermon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.009853,40.932489,-75.009853,40.932489",
     "geom:latitude":40.932489,
     "geom:longitude":-75.009853,
@@ -27,7 +32,10 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xK2nc6fSsonk2S8SP7htX_40.932489_-75.009853@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312694,
     "wof:geomhash":"1437678160502388037d0c4e1fd30dee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655592587
+        }
+    ],
     "wof:id":655592587,
-    "wof:lastmodified":1466680818,
+    "wof:lastmodified":1492048108,
     "wof:name":"Stonehedge Kennel",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

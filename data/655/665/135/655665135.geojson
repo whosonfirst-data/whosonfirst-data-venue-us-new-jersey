@@ -2,9 +2,14 @@
   "id": 655665135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 High St Pennsauken NJ 08110",
+    "addr:housenumber":"4601",
+    "addr:postcode":"08110",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.069199,39.958099,-75.069199,39.958099",
     "geom:latitude":39.958099,
     "geom:longitude":-75.069199,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hgYsVLcOJTVL1iGejdsK5_39.958476_-75.068547@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315817,
     "wof:geomhash":"f0e13a36c8eb1a0790ad6c790b499097",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655665135
+        }
+    ],
     "wof:id":655665135,
-    "wof:lastmodified":1466683247,
+    "wof:lastmodified":1492049231,
     "wof:name":"Penn Garden Apts",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639445623,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Vanderbilt Ave Leonardo NJ 07737",
+    "addr:housenumber":"17",
+    "addr:postcode":"07737",
+    "addr:street":"Vanderbilt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.056168,40.414992,-74.056168,40.414992",
     "geom:latitude":40.414992,
     "geom:longitude":-74.056168,
@@ -28,7 +33,10 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xmOS0VTMlw91ivZJdPO3t_40.414992_-74.056168@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295244,
     "wof:geomhash":"f048a16caabed7a609e50edd4545d191",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639445623
+        }
+    ],
     "wof:id":639445623,
-    "wof:lastmodified":1466693586,
+    "wof:lastmodified":1492051789,
     "wof:name":"Three E Plumbing & Heating",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

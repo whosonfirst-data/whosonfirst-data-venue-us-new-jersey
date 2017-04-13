@@ -2,9 +2,14 @@
   "id": 655501859,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Woodglen Rd Glen Gardner NJ 08826",
+    "addr:housenumber":"600",
+    "addr:postcode":"08826",
+    "addr:street":"Woodglen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.881214,40.731423,-74.881214,40.731423",
     "geom:latitude":40.731423,
     "geom:longitude":-74.881214,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85830887,
-        102085997
+        85858631,
+        102085997,
+        85830887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085997,
+            "neighbourhood_id":85858631,
+            "region_id":85688607,
+            "venue_id":655501859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
             "neighbourhood_id":85830887,
             "region_id":85688607,
             "venue_id":655501859
         }
     ],
     "wof:id":655501859,
-    "wof:lastmodified":1466678305,
+    "wof:lastmodified":1492028434,
     "wof:name":"GPN Svc",
-    "wof:parent_id":85830887,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

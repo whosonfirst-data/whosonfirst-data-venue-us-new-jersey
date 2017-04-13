@@ -2,9 +2,14 @@
   "id": 655479605,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Troy Hills Rd Whippany NJ 07981",
+    "addr:housenumber":"14",
+    "addr:postcode":"07981",
+    "addr:street":"Troy Hills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.406858,40.821093,-74.406858,40.821093",
     "geom:latitude":40.821093,
     "geom:longitude":-74.406858,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85806163,
-        102087413
+        85831997,
+        102087413,
+        85806163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85831997,
+            "region_id":85688607,
+            "venue_id":655479605
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "neighbourhood_id":85806163,
             "region_id":85688607,
             "venue_id":655479605
         }
     ],
     "wof:id":655479605,
-    "wof:lastmodified":1466677713,
+    "wof:lastmodified":1492029500,
     "wof:name":"Fu WEI Corporation",
-    "wof:parent_id":85806163,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

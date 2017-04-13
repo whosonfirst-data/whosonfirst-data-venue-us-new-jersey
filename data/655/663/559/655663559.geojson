@@ -2,9 +2,14 @@
   "id": 655663559,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Harrison St Frenchtown NJ 08825",
+    "addr:housenumber":"203",
+    "addr:postcode":"08825",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061801,40.52737,-75.061801,40.52737",
     "geom:latitude":40.52737,
     "geom:longitude":-75.061801,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"http://www.thevalleyflorist.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20G0pfuU02yB4vpZOXYJn2_40.527691_-75.061927@1293134755"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461315757,
     "wof:geomhash":"2b35b22bd258c5eb32f8cb7fb2471cd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":655663559
+        }
+    ],
     "wof:id":655663559,
-    "wof:lastmodified":1466683324,
+    "wof:lastmodified":1492023424,
     "wof:name":"Valley Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

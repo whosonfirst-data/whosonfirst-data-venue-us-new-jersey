@@ -2,9 +2,14 @@
   "id": 639012641,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Decatur St Columbia NJ 07832",
+    "addr:housenumber":"34",
+    "addr:postcode":"07832",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.094343,40.926992,-75.094343,40.926992",
     "geom:latitude":40.926992,
     "geom:longitude":-75.094343,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478431,
+        85633793,
+        85976437,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CTTfXTTpx3oSFFtu3iVXs_40.926992_-75.094343@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285399,
     "wof:geomhash":"765c1bc8d335f797866558dfec5b40d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478431,
+            "locality_id":85976437,
+            "region_id":85688607,
+            "venue_id":639012641
+        }
+    ],
     "wof:id":639012641,
-    "wof:lastmodified":1466673370,
+    "wof:lastmodified":1492050759,
     "wof:name":"Envision Technologies Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

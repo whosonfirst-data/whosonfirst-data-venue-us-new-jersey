@@ -2,9 +2,14 @@
   "id": 655870449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Corporate Place South Piscataway NJ 08854",
+    "addr:housenumber":"1",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Place",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.458571,40.548159,-74.458571,40.548159",
     "geom:latitude":40.548159,
     "geom:longitude":-74.458571,
@@ -32,7 +37,10 @@
     ],
     "sg:website":"http://www.marlabs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OTxWTwJL5Ixs5PPTobMWW_40.548159_-74.458571@1308186499"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461615350,
     "wof:geomhash":"83a14a52c835876ae318c973106c6c5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":655870449
+        }
+    ],
     "wof:id":655870449,
-    "wof:lastmodified":1466688010,
+    "wof:lastmodified":1492065229,
     "wof:name":"Marlabs Inc",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

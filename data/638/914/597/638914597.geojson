@@ -2,9 +2,14 @@
   "id": 638914597,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Huron Dr Chatham NJ 07928",
+    "addr:housenumber":"51",
+    "addr:postcode":"07928",
+    "addr:street":"Huron Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.408774,40.718309,-74.408774,40.718309",
     "geom:latitude":40.718309,
     "geom:longitude":-74.408774,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nnIFbkqFXPuYjqUgvRL7Z_40.718309_-74.408774@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283130,
     "wof:geomhash":"f4cf254953eff308b88e2c9ca9d0011f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":638914597
+        }
+    ],
     "wof:id":638914597,
-    "wof:lastmodified":1466690391,
+    "wof:lastmodified":1492024424,
     "wof:name":"Shl Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639176339,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Mapletree Rd Toms River NJ 08753",
+    "addr:housenumber":"101",
+    "addr:postcode":"08753",
+    "addr:street":"Mapletree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.192691,39.977169,-74.192691,39.977169",
     "geom:latitude":39.977169,
     "geom:longitude":-74.192691,
@@ -35,7 +40,8 @@
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        85844849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":420527467,
             "region_id":85688607,
             "venue_id":639176339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":85844849,
+            "region_id":85688607,
+            "venue_id":639176339
         }
     ],
     "wof:id":639176339,
-    "wof:lastmodified":1466685349,
+    "wof:lastmodified":1492051497,
     "wof:name":"Sales Dept",
-    "wof:parent_id":420527467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

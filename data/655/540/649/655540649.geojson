@@ -2,9 +2,14 @@
   "id": 655540649,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 US Hwy 130 Bordentown NJ 08505",
+    "addr:housenumber":"228",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.702273,40.144176,-74.702273,40.144176",
     "geom:latitude":40.144176,
     "geom:longitude":-74.702273,
@@ -27,7 +32,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3usnTQk757sqyls5Ps6LNU_40.144176_-74.702273@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310450,
     "wof:geomhash":"ae005dc7e741510a324ab6f097396bfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655540649
+        }
+    ],
     "wof:id":655540649,
-    "wof:lastmodified":1466679321,
+    "wof:lastmodified":1492036267,
     "wof:name":"Village Truck Sales",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

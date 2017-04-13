@@ -2,9 +2,14 @@
   "id": 638651787,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Peach Rd Beverly NJ 08010",
+    "addr:housenumber":"211",
+    "addr:postcode":"08010",
+    "addr:street":"Peach Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919789,40.040482,-74.919789,40.040482",
     "geom:latitude":40.040482,
     "geom:longitude":-74.919789,
@@ -27,7 +32,10 @@
         "gift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vU8hjiexnDbWi9k16zAWt_40.040482_-74.919789@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275855,
     "wof:geomhash":"6bc2e79b8954323d5a3b89feaeadad23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":638651787
+        }
+    ],
     "wof:id":638651787,
-    "wof:lastmodified":1466673923,
+    "wof:lastmodified":1492052270,
     "wof:name":"Freedmans Gift & Hobby Shop",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

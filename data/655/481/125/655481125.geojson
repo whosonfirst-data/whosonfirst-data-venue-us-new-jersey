@@ -2,9 +2,14 @@
   "id": 655481125,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Brookview Ct Atco NJ 08004",
+    "addr:housenumber":"13",
+    "addr:postcode":"08004",
+    "addr:street":"Brookview Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.904672,39.759932,-74.904672,39.759932",
     "geom:latitude":39.759932,
     "geom:longitude":-74.904672,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hQX9ckWWYyF7YHNVZsZYg_39.759932_-74.904672@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308052,
     "wof:geomhash":"d5c17c3ccdb4155c4f4aaa2cc1dda86a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655481125
+        }
+    ],
     "wof:id":655481125,
-    "wof:lastmodified":1466677586,
+    "wof:lastmodified":1492057079,
     "wof:name":"Garden State Decks",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

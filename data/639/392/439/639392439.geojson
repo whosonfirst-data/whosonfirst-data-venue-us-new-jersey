@@ -2,9 +2,14 @@
   "id": 639392439,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 Fort Plains Rd Howell NJ 07731",
+    "addr:housenumber":"850",
+    "addr:postcode":"07731",
+    "addr:street":"Fort Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256404,40.16325,-74.256404,40.16325",
     "geom:latitude":40.16325,
     "geom:longitude":-74.256404,
@@ -28,7 +33,10 @@
         "memorabilia"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33nvhbr1qu8m6aMIWSSl5o_40.163250_-74.256404@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461293919,
     "wof:geomhash":"374fbd4ad8c13130de16dc28502d597c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":639392439
+        }
+    ],
     "wof:id":639392439,
-    "wof:lastmodified":1466692868,
+    "wof:lastmodified":1492047990,
     "wof:name":"Surety Holdings Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655647613,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"340",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987664,40.811636,-73.987664,40.811636",
     "geom:latitude":40.811636,
     "geom:longitude":-73.987664,
@@ -24,7 +29,14 @@
     "sg:postcode":"07020",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m4zgy4bfjg0GhTIzWiLZX_40.811636_-73.987664@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461315076,
     "wof:geomhash":"6253473d0c77c8560cb83a6b37a6f702",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655647613
+        }
+    ],
     "wof:id":655647613,
-    "wof:lastmodified":1466682878,
+    "wof:lastmodified":1492026743,
     "wof:name":"Madison House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

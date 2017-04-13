@@ -2,9 +2,14 @@
   "id": 655790801,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Belvidere Ave Washington NJ 07882",
+    "addr:housenumber":"345",
+    "addr:postcode":"07882",
+    "addr:street":"Belvidere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.986968,40.7678,-74.986968,40.7678",
     "geom:latitude":40.7678,
     "geom:longitude":-74.986968,
@@ -27,7 +32,10 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oXBPDtN8YcTUMlmfH5Yp7_40.767800_-74.986968@1303262271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321006,
     "wof:geomhash":"29f2922bf6c51104fe36b4fa33106c2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655790801
+        }
+    ],
     "wof:id":655790801,
-    "wof:lastmodified":1466686727,
+    "wof:lastmodified":1492061320,
     "wof:name":"And Electric",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639337917,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Woodbine Dr Keyport NJ 07735",
+    "addr:housenumber":"324",
+    "addr:postcode":"07735",
+    "addr:street":"Woodbine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21428,40.443822,-74.21428,40.443822",
     "geom:latitude":40.443822,
     "geom:longitude":-74.21428,
@@ -27,7 +32,14 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AE0E63l8zMcgBzcpw11nR_40.443822_-74.214280@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292766,
     "wof:geomhash":"9c410ae33305d624160df03fbfd5b716",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":639337917
+        }
+    ],
     "wof:id":639337917,
-    "wof:lastmodified":1466692360,
+    "wof:lastmodified":1492040490,
     "wof:name":"Inca Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

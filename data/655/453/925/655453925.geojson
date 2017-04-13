@@ -2,9 +2,14 @@
   "id": 655453925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1161 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"1161",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220287,40.056201,-74.220287,40.056201",
     "geom:latitude":40.056201,
     "geom:longitude":-74.220287,
@@ -28,7 +33,10 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ch8AJDMmzclYpk5IJbfoP_40.056201_-74.220287@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306865,
     "wof:geomhash":"b868258745dcdf30064dd696a10a379c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655453925
+        }
+    ],
     "wof:id":655453925,
-    "wof:lastmodified":1466677016,
+    "wof:lastmodified":1492053710,
     "wof:name":"Cleveland Electric",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

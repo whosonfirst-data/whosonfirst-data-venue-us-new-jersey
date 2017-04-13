@@ -2,9 +2,14 @@
   "id": 639483521,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Saxby Ter Cherry Hill NJ 08003",
+    "addr:housenumber":"6",
+    "addr:postcode":"08003",
+    "addr:street":"Saxby Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.941135,39.88524,-74.941135,39.88524",
     "geom:latitude":39.88524,
     "geom:longitude":-74.941135,
@@ -28,7 +33,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_108By8UZF3govm4YHo5u0A_39.885240_-74.941135@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296756,
     "wof:geomhash":"56d5b6644536940a6c6854df4bcadab4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":639483521
+        }
+    ],
     "wof:id":639483521,
-    "wof:lastmodified":1466694457,
+    "wof:lastmodified":1492048463,
     "wof:name":"East & West Lm Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

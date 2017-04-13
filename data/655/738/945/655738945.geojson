@@ -2,9 +2,14 @@
   "id": 655738945,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Morris Ave Ste 2 Springfield NJ 07081",
+    "addr:housenumber":"485",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3212,40.7151,-74.3212,40.7151",
     "geom:latitude":40.7151,
     "geom:longitude":-74.3212,
@@ -27,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K80i4xSF0xOhW9kfSxo0u_40.715100_-74.321200@1303262258"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318878,
     "wof:geomhash":"144967684ccf322319236cc75aa6bc06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655738945
+        }
+    ],
     "wof:id":655738945,
-    "wof:lastmodified":1466685450,
+    "wof:lastmodified":1492076956,
     "wof:name":"Cannone Nicholas A CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

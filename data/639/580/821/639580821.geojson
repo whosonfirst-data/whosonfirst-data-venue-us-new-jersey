@@ -2,9 +2,14 @@
   "id": 639580821,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Knight Rd Wayne NJ 07470",
+    "addr:housenumber":"23",
+    "addr:postcode":"07470",
+    "addr:street":"Knight Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27302,40.957644,-74.27302,40.957644",
     "geom:latitude":40.957644,
     "geom:longitude":-74.27302,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bWwWiycbhOqW8MXwRiXGV_40.957644_-74.273020@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300936,
     "wof:geomhash":"ecc766631bde869254e3e64798ab3989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639580821
+        }
+    ],
     "wof:id":639580821,
-    "wof:lastmodified":1466696662,
+    "wof:lastmodified":1492051013,
     "wof:name":"Jeca Associates",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

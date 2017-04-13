@@ -2,9 +2,14 @@
   "id": 655692841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"3100",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.686501,40.246893,-74.686501,40.246893",
     "geom:latitude":40.246893,
     "geom:longitude":-74.686501,
@@ -35,7 +40,10 @@
         "hoagy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BW5eSNi8Gkhxb5EPmmGra_40.246893_-74.686501@1299784598"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461316972,
     "wof:geomhash":"afe9395760b111b0e1dbf6b686c4b1ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655692841
+        }
+    ],
     "wof:id":655692841,
-    "wof:lastmodified":1466684169,
+    "wof:lastmodified":1492043315,
     "wof:name":"Slack's Hoagie Shack",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655687819,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Chestnut St Union NJ 07083",
+    "addr:housenumber":"345",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268073,40.678263,-74.268073,40.678263",
     "geom:latitude":40.678263,
     "geom:longitude":-74.268073,
@@ -30,7 +35,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MvP7YMyDkWO3YBZfkNsOj_40.678263_-74.268073@1299784598"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461316770,
     "wof:geomhash":"594d2abb26215d67e67a4aadbc8b7bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655687819
+        }
+    ],
     "wof:id":655687819,
-    "wof:lastmodified":1466684107,
+    "wof:lastmodified":1492028539,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

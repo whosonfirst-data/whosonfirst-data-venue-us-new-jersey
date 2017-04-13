@@ -2,9 +2,14 @@
   "id": 639164993,
   "type": "Feature",
   "properties": {
+    "addr:full":"3146 US Hwy 206 Columbus NJ 08022",
+    "addr:housenumber":"3146",
+    "addr:postcode":"08022",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.715786,40.085293,-74.715786,40.085293",
     "geom:latitude":40.085293,
     "geom:longitude":-74.715786,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TUPvb4swWBJXKvr3AnHO0_40.085293_-74.715786@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288860,
     "wof:geomhash":"19ddbc4a15d62186ada68e4494385884",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639164993
+        }
+    ],
     "wof:id":639164993,
-    "wof:lastmodified":1466683786,
+    "wof:lastmodified":1492051306,
     "wof:name":"Texaco",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639528071,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Five Points Rd Freehold NJ 07728",
+    "addr:housenumber":"22",
+    "addr:postcode":"07728",
+    "addr:street":"Five Points Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.227025,40.243262,-74.227025,40.243262",
     "geom:latitude":40.243262,
     "geom:longitude":-74.227025,
@@ -33,8 +38,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85803415,
-        102085049
+        85976029,
+        102085049,
+        85851127,
+        85803415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +54,23 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "locality_id":85976029,
+            "neighbourhood_id":85851127,
+            "region_id":85688607,
+            "venue_id":639528071
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "neighbourhood_id":85803415,
             "region_id":85688607,
             "venue_id":639528071
         }
     ],
     "wof:id":639528071,
-    "wof:lastmodified":1466695332,
+    "wof:lastmodified":1492048455,
     "wof:name":"East Coast Sheet Metal",
-    "wof:parent_id":85803415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

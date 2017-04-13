@@ -2,9 +2,14 @@
   "id": 638684633,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 State Rte 70 Brick NJ 08724",
+    "addr:housenumber":"809",
+    "addr:postcode":"08724",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131716,40.067432,-74.131716,40.067432",
     "geom:latitude":40.067432,
     "geom:longitude":-74.131716,
@@ -29,7 +34,10 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MsJfhoZCcrIPxV8REQj7s_40.067432_-74.131716@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461276890,
     "wof:geomhash":"a1b63b829e16b0913a195eeee15d7b43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":638684633
+        }
+    ],
     "wof:id":638684633,
-    "wof:lastmodified":1466688161,
+    "wof:lastmodified":1492062472,
     "wof:name":"C & J's Boat Detailing",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

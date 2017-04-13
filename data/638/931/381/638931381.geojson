@@ -2,9 +2,14 @@
   "id": 638931381,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Fountain Dr Somerset NJ 08873",
+    "addr:housenumber":"13",
+    "addr:postcode":"08873",
+    "addr:street":"Fountain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524578,40.527215,-74.524578,40.527215",
     "geom:latitude":40.527215,
     "geom:longitude":-74.524578,
@@ -31,7 +36,14 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ee7jIzTl4NKQ2GvAJS3mh_40.527215_-74.524578@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461283544,
     "wof:geomhash":"f11b72cf353735eab73889c2f4de04f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":638931381
+        }
+    ],
     "wof:id":638931381,
-    "wof:lastmodified":1466690901,
+    "wof:lastmodified":1492052156,
     "wof:name":"Web Craft One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

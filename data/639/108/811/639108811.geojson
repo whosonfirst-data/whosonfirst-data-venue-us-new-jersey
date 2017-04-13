@@ -2,9 +2,14 @@
   "id": 639108811,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 Parker Ave Maplewood NJ 07040",
+    "addr:housenumber":"276",
+    "addr:postcode":"07040",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246855,40.731068,-74.246855,40.731068",
     "geom:latitude":40.731068,
     "geom:longitude":-74.246855,
@@ -24,7 +29,15 @@
     "sg:postcode":"07040",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526933,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FtdhKB1BvsUUITswhfhCn_40.731068_-74.246855@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461287543,
     "wof:geomhash":"d035035bb87b71f7bc58d4600d87c488",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":420526933,
+            "region_id":85688607,
+            "venue_id":639108811
+        }
+    ],
     "wof:id":639108811,
-    "wof:lastmodified":1466675506,
+    "wof:lastmodified":1492024337,
     "wof:name":"Immaculate Heart Mary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

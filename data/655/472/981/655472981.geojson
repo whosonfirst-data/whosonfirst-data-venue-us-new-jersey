@@ -2,9 +2,14 @@
   "id": 655472981,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Co Rd 530 Whiting NJ 08759",
+    "addr:housenumber":"505",
+    "addr:postcode":"08759",
+    "addr:street":"Co Rd 530",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352303,39.946856,-74.352303,39.946856",
     "geom:latitude":39.946856,
     "geom:longitude":-74.352303,
@@ -24,7 +29,14 @@
     "sg:postcode":"08759",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        85976365,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DOHO9i0JLD483IrfPpxcY_39.946856_-74.352303@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461307715,
     "wof:geomhash":"7f940f8d008f2ece42b2156fed73fe15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "locality_id":85976365,
+            "region_id":85688607,
+            "venue_id":655472981
+        }
+    ],
     "wof:id":655472981,
-    "wof:lastmodified":1466677557,
+    "wof:lastmodified":1492072521,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

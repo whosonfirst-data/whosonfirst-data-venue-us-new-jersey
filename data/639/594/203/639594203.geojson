@@ -2,9 +2,14 @@
   "id": 639594203,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Airport Rd Lakewood NJ 08701",
+    "addr:housenumber":"735",
+    "addr:postcode":"08701",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175216,40.059026,-74.175216,40.059026",
     "geom:latitude":40.059026,
     "geom:longitude":-74.175216,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x7Umy401GL9zys0mYKN4E_40.059026_-74.175216@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301523,
     "wof:geomhash":"55020a0122ff0bfcaa80cb1410328dee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639594203
+        }
+    ],
     "wof:id":639594203,
-    "wof:lastmodified":1466696757,
+    "wof:lastmodified":1492070972,
     "wof:name":"Bennett Development",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

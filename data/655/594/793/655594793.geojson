@@ -2,9 +2,14 @@
   "id": 655594793,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Millstone Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"50",
+    "addr:postcode":"08550",
+    "addr:street":"Millstone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.607984,40.321089,-74.607984,40.321089",
     "geom:latitude":40.321089,
     "geom:longitude":-74.607984,
@@ -27,7 +32,10 @@
         "chemical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jfQXjTwXpH6d5YtpB7PHX_40.321089_-74.607984@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312780,
     "wof:geomhash":"b9c5990c802834ed6b2497f510a0d14a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655594793
+        }
+    ],
     "wof:id":655594793,
-    "wof:lastmodified":1466680922,
+    "wof:lastmodified":1492022701,
     "wof:name":"On Board Chemical Corp",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

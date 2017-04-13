@@ -2,9 +2,14 @@
   "id": 655660609,
   "type": "Feature",
   "properties": {
+    "addr:full":"256 Paul St Belvidere NJ 07823",
+    "addr:housenumber":"256",
+    "addr:postcode":"07823",
+    "addr:street":"Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080498,40.831699,-75.080498,40.831699",
     "geom:latitude":40.831699,
     "geom:longitude":-75.080498,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cwUM862hzZcERCvLwg9PG_40.831849_-75.079908@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315642,
     "wof:geomhash":"cb15eab58a37bc88c3df4aaf00d2fed5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655660609
+        }
+    ],
     "wof:id":655660609,
-    "wof:lastmodified":1466683257,
+    "wof:lastmodified":1492048111,
     "wof:name":"Not Just Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

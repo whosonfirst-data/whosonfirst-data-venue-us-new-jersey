@@ -2,9 +2,14 @@
   "id": 655394521,
   "type": "Feature",
   "properties": {
+    "addr:full":"3051 Chapel Ave W Cherry Hill NJ 08002",
+    "addr:housenumber":"3051",
+    "addr:postcode":"08002",
+    "addr:street":"Chapel Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.999436,39.925441,-74.999436,39.925441",
     "geom:latitude":39.925441,
     "geom:longitude":-74.999436,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976227,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZtEi7yma7sloGXR0DXVez_39.925441_-74.999436@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304396,
     "wof:geomhash":"39cdece323f945a7f94866abf055806e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976227,
+            "region_id":85688607,
+            "venue_id":655394521
+        }
+    ],
     "wof:id":655394521,
-    "wof:lastmodified":1466675333,
+    "wof:lastmodified":1492025564,
     "wof:name":"Jewish Fed of APT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

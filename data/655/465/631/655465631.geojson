@@ -2,9 +2,14 @@
   "id": 655465631,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Red Fox Run Englishtown NJ 07726",
+    "addr:housenumber":"19",
+    "addr:postcode":"07726",
+    "addr:street":"Red Fox Run",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343416,40.241927,-74.343416,40.241927",
     "geom:latitude":40.241927,
     "geom:longitude":-74.343416,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dRPHy0dqPNPa0lC9szKAo_40.241927_-74.343416@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307407,
     "wof:geomhash":"a77564fb4cd25f31c170970925bfbe15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655465631
+        }
+    ],
     "wof:id":655465631,
-    "wof:lastmodified":1466677203,
+    "wof:lastmodified":1492053649,
     "wof:name":"Leap Strategies LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

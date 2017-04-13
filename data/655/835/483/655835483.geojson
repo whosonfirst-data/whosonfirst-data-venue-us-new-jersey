@@ -2,9 +2,14 @@
   "id": 655835483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1118 Route 88 Lakewood NJ 08701",
+    "addr:housenumber":"1118",
+    "addr:postcode":"08701",
+    "addr:street":"Route 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.173014,40.083596,-74.173014,40.083596",
     "geom:latitude":40.083596,
     "geom:longitude":-74.173014,
@@ -28,7 +33,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_029peb40gN8npQNCwM4hLs_40.083596_-74.173014@1303262282"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322885,
     "wof:geomhash":"9e8862aa5df2ad893fe5b55ee633a44f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655835483
+        }
+    ],
     "wof:id":655835483,
-    "wof:lastmodified":1466687915,
+    "wof:lastmodified":1492065595,
     "wof:name":"Toyota World of Lakewood",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

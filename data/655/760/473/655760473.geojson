@@ -2,9 +2,14 @@
   "id": 655760473,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Main St Bloomingdale NJ 07403",
+    "addr:housenumber":"53",
+    "addr:postcode":"07403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.327003,41.001999,-74.327003,41.001999",
     "geom:latitude":41.001999,
     "geom:longitude":-74.327003,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.tresschic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X2yo9CNM49G6OtcwC9xWU_41.001999_-74.327003@1303262263"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461319668,
     "wof:geomhash":"fb766cb19e0f8ab1403cb10230f71328",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760473
+        }
+    ],
     "wof:id":655760473,
-    "wof:lastmodified":1466685858,
+    "wof:lastmodified":1492080181,
     "wof:name":"Tress Chic'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

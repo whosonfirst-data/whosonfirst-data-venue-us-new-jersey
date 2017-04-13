@@ -2,9 +2,14 @@
   "id": 655789845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Swartswood Rd Newton NJ 07860",
+    "addr:housenumber":"2",
+    "addr:postcode":"07860",
+    "addr:street":"Swartswood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.756348,41.064869,-74.756348,41.064869",
     "geom:latitude":41.064869,
     "geom:longitude":-74.756348,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78yNB24WNzufat6ifUB4ES_41.064869_-74.756348@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320972,
     "wof:geomhash":"94862ad918595f476ce6155edb1f91c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789845
+        }
+    ],
     "wof:id":655789845,
-    "wof:lastmodified":1466686735,
+    "wof:lastmodified":1492058490,
     "wof:name":"Swartswood Gardens",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

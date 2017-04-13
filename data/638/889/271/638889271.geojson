@@ -2,9 +2,14 @@
   "id": 638889271,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Salem Rd Union NJ 07083",
+    "addr:housenumber":"933",
+    "addr:postcode":"07083",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.24247,40.686434,-74.24247,40.686434",
     "geom:latitude":40.686434,
     "geom:longitude":-74.24247,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Xz2BtJSufe7Utur1yZJn_40.686434_-74.242470@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282470,
     "wof:geomhash":"60cdec62637b2c07b3f4baaf276101d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":638889271
+        }
+    ],
     "wof:id":638889271,
-    "wof:lastmodified":1466689837,
+    "wof:lastmodified":1492024116,
     "wof:name":"Mgi Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

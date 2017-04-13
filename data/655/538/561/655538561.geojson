@@ -2,9 +2,14 @@
   "id": 655538561,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 Harriot Ave Harrington Park NJ 07640",
+    "addr:housenumber":"227",
+    "addr:postcode":"07640",
+    "addr:street":"Harriot Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.984726,40.98516,-73.984726,40.98516",
     "geom:latitude":40.98516,
     "geom:longitude":-73.984726,
@@ -28,7 +33,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BZMeNecSA0Ih6gpBfKlIR_40.985160_-73.984726@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310370,
     "wof:geomhash":"54414a575288c01ec6bc67d311ca3a79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655538561
+        }
+    ],
     "wof:id":655538561,
-    "wof:lastmodified":1466679293,
+    "wof:lastmodified":1492047575,
     "wof:name":"Imagination Frontier Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

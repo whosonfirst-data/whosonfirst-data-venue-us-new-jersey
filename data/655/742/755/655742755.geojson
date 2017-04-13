@@ -2,9 +2,14 @@
   "id": 655742755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2147 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2147",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281403,40.7188,-74.281403,40.7188",
     "geom:latitude":40.7188,
     "geom:longitude":-74.281403,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rcxdBvx4ivvEOFNOEbpEx_40.718800_-74.281403@1303262259"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319017,
     "wof:geomhash":"cc9b19a44f389fa5cde3e00928827fb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655742755
+        }
+    ],
     "wof:id":655742755,
-    "wof:lastmodified":1466685447,
+    "wof:lastmodified":1492056789,
     "wof:name":"Kelly's Kids Daycare Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

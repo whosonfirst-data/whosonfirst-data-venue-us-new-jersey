@@ -2,9 +2,14 @@
   "id": 639111121,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Koeck Rd Columbia NJ 07832",
+    "addr:housenumber":"37",
+    "addr:postcode":"07832",
+    "addr:street":"Koeck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031633,40.896633,-75.031633,40.896633",
     "geom:latitude":40.896633,
     "geom:longitude":-75.031633,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DeMVnkDtxz5tkPD6hBXTA_40.896633_-75.031633@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287587,
     "wof:geomhash":"97ae2e7a2fdae80fe4a45006282d4247",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":639111121
+        }
+    ],
     "wof:id":639111121,
-    "wof:lastmodified":1466675824,
+    "wof:lastmodified":1492076652,
     "wof:name":"Casa Country Homes Inc",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

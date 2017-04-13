@@ -2,9 +2,14 @@
   "id": 639410437,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Province Line Rd Allentown NJ 08501",
+    "addr:housenumber":"719",
+    "addr:postcode":"08501",
+    "addr:street":"Province Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.582546,40.128952,-74.582546,40.128952",
     "geom:latitude":40.128952,
     "geom:longitude":-74.582546,
@@ -24,7 +29,12 @@
     "sg:postcode":"08501",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85854311,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sZ8xdEXpFO2Exve2TtzXO_40.128952_-74.582546@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461294497,
     "wof:geomhash":"468b778ee9c9b3fc47729b53b93a5f20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85854311,
+            "region_id":85688607,
+            "venue_id":639410437
+        }
+    ],
     "wof:id":639410437,
-    "wof:lastmodified":1466693127,
+    "wof:lastmodified":1492049533,
     "wof:name":"Roberts Custom Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

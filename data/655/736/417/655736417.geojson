@@ -2,9 +2,14 @@
   "id": 655736417,
   "type": "Feature",
   "properties": {
+    "addr:full":"483 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"483",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136071,40.812892,-74.136071,40.812892",
     "geom:latitude":40.812892,
     "geom:longitude":-74.136071,
@@ -27,7 +32,13 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37f4I3SvleQsJD7f5O1GFL_40.812892_-74.136071@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318783,
     "wof:geomhash":"27aea6a134446c3e4b8afaf6163400f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655736417
+        }
+    ],
     "wof:id":655736417,
-    "wof:lastmodified":1466685303,
+    "wof:lastmodified":1492028024,
     "wof:name":"Emergency 24 Hour 7 Day Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

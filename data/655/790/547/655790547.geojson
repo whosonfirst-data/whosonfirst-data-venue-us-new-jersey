@@ -2,9 +2,14 @@
   "id": 655790547,
   "type": "Feature",
   "properties": {
+    "addr:full":"247 S Salem St Randolph NJ 07869",
+    "addr:housenumber":"247",
+    "addr:postcode":"07869",
+    "addr:street":"S Salem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535296,40.874845,-74.535296,40.874845",
     "geom:latitude":40.874845,
     "geom:longitude":-74.535296,
@@ -38,7 +43,10 @@
     ],
     "sg:website":"http://www.mcdonalds.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fqD8dg6YCwe9Eg28NcIDc_40.874845_-74.535296@1303262271"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461320997,
     "wof:geomhash":"a561dbd1dc11472ef7c847621538506e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790547
+        }
+    ],
     "wof:id":655790547,
-    "wof:lastmodified":1466686662,
+    "wof:lastmodified":1492068619,
     "wof:name":"McDonald's",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

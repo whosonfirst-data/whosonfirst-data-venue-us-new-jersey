@@ -2,9 +2,14 @@
   "id": 655543811,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Hopewell Wertsville Rd Hopewell NJ 08525",
+    "addr:housenumber":"203",
+    "addr:postcode":"08525",
+    "addr:street":"Hopewell Wertsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.787217,40.418349,-74.787217,40.418349",
     "geom:latitude":40.418349,
     "geom:longitude":-74.787217,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MbKcGtzfCILbOKecMXO5b_40.418349_-74.787217@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310571,
     "wof:geomhash":"e146eeabe51e3e8c3b83d0f9aa45a27d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":655543811
+        }
+    ],
     "wof:id":655543811,
-    "wof:lastmodified":1466679362,
+    "wof:lastmodified":1492070362,
     "wof:name":"Todd S Wagner Excavation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

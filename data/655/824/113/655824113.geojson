@@ -2,9 +2,14 @@
   "id": 655824113,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 S Dudley St Camden NJ 08105",
+    "addr:housenumber":"50",
+    "addr:postcode":"08105",
+    "addr:street":"S Dudley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080498,39.946201,-75.080498,39.946201",
     "geom:latitude":39.946201,
     "geom:longitude":-75.080498,
@@ -24,7 +29,15 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55l5Q6u4Fm89XT2ck6XxM2_39.946201_-75.080498@1303262279"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1461322416,
     "wof:geomhash":"ae81babeca12849a22aead69d0b27a3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655824113
+        }
+    ],
     "wof:id":655824113,
-    "wof:lastmodified":1466687504,
+    "wof:lastmodified":1492056469,
     "wof:name":"Franklin Grocery",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

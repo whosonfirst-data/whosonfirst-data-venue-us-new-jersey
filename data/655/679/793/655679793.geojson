@@ -2,9 +2,14 @@
   "id": 655679793,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"401",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989166,40.948551,-73.989166,40.948551",
     "geom:latitude":40.948551,
     "geom:longitude":-73.989166,
@@ -28,7 +33,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61uMBW2z7HJ7fWdC2Y6TX1_40.948833_-73.988481@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316401,
     "wof:geomhash":"5240a8c78db7bf5a8628f6314a028668",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655679793
+        }
+    ],
     "wof:id":655679793,
-    "wof:lastmodified":1466683847,
+    "wof:lastmodified":1492025602,
     "wof:name":"Edward Caslin Lcsw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

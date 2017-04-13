@@ -2,9 +2,14 @@
   "id": 638822819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Taylors Ln Riverton NJ 08077",
+    "addr:housenumber":"1601",
+    "addr:postcode":"08077",
+    "addr:street":"Taylors Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978798,40.017004,-74.978798,40.017004",
     "geom:latitude":40.017004,
     "geom:longitude":-74.978798,
@@ -30,7 +35,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526651,
+        102191575,
+        404477315,
+        85633793,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AhXAVTgJqRZhYM5qY0pa8_40.017004_-74.978798@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461280803,
     "wof:geomhash":"6950256130a56bf361804948bf99a78d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477315,
+            "neighbourhood_id":420526651,
+            "region_id":85688607,
+            "venue_id":638822819
+        }
+    ],
     "wof:id":638822819,
-    "wof:lastmodified":1466688460,
+    "wof:lastmodified":1492082023,
     "wof:name":"U S Filter Iron/Pure Inc",
     "wof:parent_id":420526651,
     "wof:placetype":"venue",

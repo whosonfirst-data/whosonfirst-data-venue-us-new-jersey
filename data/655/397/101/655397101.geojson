@@ -2,9 +2,14 @@
   "id": 655397101,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Ronan Way Neshanic Station NJ 08853",
+    "addr:housenumber":"234",
+    "addr:postcode":"08853",
+    "addr:street":"Ronan Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.740681,40.531239,-74.740681,40.531239",
     "geom:latitude":40.531239,
     "geom:longitude":-74.740681,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ChuAPkIyftkx374WABtMw_40.531239_-74.740681@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304504,
     "wof:geomhash":"f8e82ab3390c41f9b83f5bc093e1f289",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":655397101
+        }
+    ],
     "wof:id":655397101,
-    "wof:lastmodified":1466675273,
+    "wof:lastmodified":1492056700,
     "wof:name":"Rocco Properties LLC",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

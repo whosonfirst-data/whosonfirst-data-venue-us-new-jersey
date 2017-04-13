@@ -2,9 +2,14 @@
   "id": 638747305,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Scott Ave Princeton Junction NJ 08550",
+    "addr:housenumber":"38",
+    "addr:postcode":"08550",
+    "addr:street":"Scott Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.62436,40.312579,-74.62436,40.312579",
     "geom:latitude":40.312579,
     "geom:longitude":-74.62436,
@@ -24,7 +29,14 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e6HgLhGcaGyZp2Rw0HTfr_40.312579_-74.624360@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461278937,
     "wof:geomhash":"dd43b2cdf8a95881ea5a46452fadb4e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":638747305
+        }
+    ],
     "wof:id":638747305,
-    "wof:lastmodified":1466677727,
+    "wof:lastmodified":1492056745,
     "wof:name":"Contemporary Integrated Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

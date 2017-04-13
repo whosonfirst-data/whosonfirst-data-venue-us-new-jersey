@@ -2,9 +2,14 @@
   "id": 655437731,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 Co Rd 645 Branchville NJ 07826",
+    "addr:housenumber":"182",
+    "addr:postcode":"645;07826",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.803072,41.254864,-74.803072,41.254864",
     "geom:latitude":41.254864,
     "geom:longitude":-74.803072,
@@ -28,7 +33,12 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85852853,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XCVCi4AvlZIkxZzpC2etg_41.254864_-74.803072@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461306208,
     "wof:geomhash":"b8b5f7e0080740629acbf4b48c7434f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85852853,
+            "region_id":85688607,
+            "venue_id":655437731
+        }
+    ],
     "wof:id":655437731,
-    "wof:lastmodified":1466676519,
+    "wof:lastmodified":1492056319,
     "wof:name":"B & L Medical Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

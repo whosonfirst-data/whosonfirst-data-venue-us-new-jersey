@@ -2,9 +2,14 @@
   "id": 655535039,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 White Ave Northvale NJ 07647",
+    "addr:housenumber":"522",
+    "addr:postcode":"07647",
+    "addr:street":"White Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960134,41.01129,-73.960134,41.01129",
     "geom:latitude":41.01129,
     "geom:longitude":-73.960134,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UNZ9BCwSnu18gYGeCKMSl_41.011290_-73.960134@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310242,
     "wof:geomhash":"90870a33170c8c561cf66178831ac1f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655535039
+        }
+    ],
     "wof:id":655535039,
-    "wof:lastmodified":1466678972,
+    "wof:lastmodified":1492076932,
     "wof:name":"JC Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655378399,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Chancellor Ave Irvington NJ 07111",
+    "addr:housenumber":"701",
+    "addr:postcode":"07111",
+    "addr:street":"Chancellor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238022,40.715779,-74.238022,40.715779",
     "geom:latitude":40.715779,
     "geom:longitude":-74.238022,
@@ -28,7 +33,13 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VD063nr9Y2Q0vakdRO2tT_40.715779_-74.238022@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303748,
     "wof:geomhash":"a46979a4b6cb407f63bd5490414f5a65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655378399
+        }
+    ],
     "wof:id":655378399,
-    "wof:lastmodified":1466674905,
+    "wof:lastmodified":1492051133,
     "wof:name":"Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639625165,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Hillside Ter Newark NJ 07106",
+    "addr:housenumber":"31",
+    "addr:postcode":"07106",
+    "addr:street":"Hillside Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23471,40.736092,-74.23471,40.736092",
     "geom:latitude":40.736092,
     "geom:longitude":-74.23471,
@@ -30,7 +35,13 @@
         "package"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P8WcjiK7Cn4QReYcu9vco_40.736092_-74.234710@1294171694"
@@ -38,11 +49,20 @@
     "wof:country":"US",
     "wof:created":1461302685,
     "wof:geomhash":"00fe0eb0a448d6a59933c9508dfa8069",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639625165
+        }
+    ],
     "wof:id":639625165,
-    "wof:lastmodified":1466697354,
+    "wof:lastmodified":1491938451,
     "wof:name":"Millenium 2000",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

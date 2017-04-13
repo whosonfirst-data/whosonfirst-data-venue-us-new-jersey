@@ -2,9 +2,14 @@
   "id": 655806779,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Grayson Pl Burlington NJ 08016",
+    "addr:housenumber":"17",
+    "addr:postcode":"08016",
+    "addr:street":"Grayson Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.883003,40.065102,-74.883003,40.065102",
     "geom:latitude":40.065102,
     "geom:longitude":-74.883003,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.jfkplumbing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ymAV9ULZMDLpejOFfTTnE_40.065102_-74.883003@1303262275"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321641,
     "wof:geomhash":"ba02ab3317f6daf1bcc1446828307bd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655806779
+        }
+    ],
     "wof:id":655806779,
-    "wof:lastmodified":1466687222,
+    "wof:lastmodified":1492027527,
     "wof:name":"J F K Plumbing Heating & Drain Cleaning",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

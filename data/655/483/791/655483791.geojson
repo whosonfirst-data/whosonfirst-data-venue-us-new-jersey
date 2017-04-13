@@ -2,9 +2,14 @@
   "id": 655483791,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 W Maple Ave Bound Brook NJ 08805",
+    "addr:housenumber":"129",
+    "addr:postcode":"08805",
+    "addr:street":"W Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535727,40.568245,-74.535727,40.568245",
     "geom:latitude":40.568245,
     "geom:longitude":-74.535727,
@@ -29,7 +34,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85806805,
+        102191575,
+        404477917,
+        85633793,
+        85976151,
+        102085045,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PQ159vLg3lkbYTtSP2eOJ_40.568245_-74.535727@1294171694"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461308155,
     "wof:geomhash":"636a9d51f4cedf0835f177d303f76bc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976151,
+            "neighbourhood_id":85806805,
+            "region_id":85688607,
+            "venue_id":655483791
+        }
+    ],
     "wof:id":655483791,
-    "wof:lastmodified":1466677770,
+    "wof:lastmodified":1492057038,
     "wof:name":"Raketic Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

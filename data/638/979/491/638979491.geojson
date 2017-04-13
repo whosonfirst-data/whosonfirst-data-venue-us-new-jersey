@@ -2,9 +2,14 @@
   "id": 638979491,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Mount Horeb Rd Warren NJ 07059",
+    "addr:housenumber":"104",
+    "addr:postcode":"07059",
+    "addr:street":"Mount Horeb Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530662,40.622088,-74.530662,40.622088",
     "geom:latitude":40.622088,
     "geom:longitude":-74.530662,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.templeharshalom.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eBWK85mRlhxY9bTbPc5Rr_40.622088_-74.530662@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461284638,
     "wof:geomhash":"fa6a53e439e58ac3a81904294cfc760f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527597,
+            "venue_id":638979491
+        }
+    ],
     "wof:id":638979491,
-    "wof:lastmodified":1466691887,
+    "wof:lastmodified":1492051223,
     "wof:name":"Temple Har Shalom",
     "wof:parent_id":420527597,
     "wof:placetype":"venue",

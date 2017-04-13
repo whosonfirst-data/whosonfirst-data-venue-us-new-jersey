@@ -2,9 +2,14 @@
   "id": 638880553,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 Paulding Ave Northvale NJ 07647",
+    "addr:housenumber":"402",
+    "addr:postcode":"07647",
+    "addr:street":"Paulding Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.950903,41.017856,-73.950903,41.017856",
     "geom:latitude":41.017856,
     "geom:longitude":-73.950903,
@@ -33,7 +38,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BYM7ZjqFiIl0rHlj0xh0D_41.017856_-73.950903@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461282217,
     "wof:geomhash":"bbceb1f43d0c19605afa80cbd62973ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":638880553
+        }
+    ],
     "wof:id":638880553,
-    "wof:lastmodified":1466689757,
+    "wof:lastmodified":1492029343,
     "wof:name":"Rubix Information Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

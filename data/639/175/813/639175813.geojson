@@ -2,9 +2,14 @@
   "id": 639175813,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 John St Lake Hopatcong NJ 07849",
+    "addr:housenumber":"18",
+    "addr:postcode":"07849",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.604938,40.983075,-74.604938,40.983075",
     "geom:latitude":40.983075,
     "geom:longitude":-74.604938,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vMbaOMg8OcxPr4TCL6JZh_40.983075_-74.604938@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461289096,
     "wof:geomhash":"a1990a1f65b1c0576667057634d61a0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":639175813
+        }
+    ],
     "wof:id":639175813,
-    "wof:lastmodified":1466685250,
+    "wof:lastmodified":1492043953,
     "wof:name":"Quality Paving of Lk Hopatcong",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

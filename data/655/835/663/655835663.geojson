@@ -2,9 +2,14 @@
   "id": 655835663,
   "type": "Feature",
   "properties": {
+    "addr:full":"1109 Milford Warren Glen Rd Bloomsbury NJ 08804",
+    "addr:housenumber":"1109",
+    "addr:postcode":"08804",
+    "addr:street":"Milford Warren Glen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.125486,40.619901,-75.125486,40.619901",
     "geom:latitude":40.619901,
     "geom:longitude":-75.125486,
@@ -46,7 +51,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kf1jfIyxqR6OfpZibkoxj_40.619901_-75.125486@1303262282"
@@ -54,11 +62,17 @@
     "wof:country":"US",
     "wof:created":1461322892,
     "wof:geomhash":"fc3386fcfe70365a55b919c22c97ba9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527793,
+            "venue_id":655835663
+        }
+    ],
     "wof:id":655835663,
-    "wof:lastmodified":1466687962,
+    "wof:lastmodified":1492070335,
     "wof:name":"J Miller Richard & Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

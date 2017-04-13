@@ -2,9 +2,14 @@
   "id": 639254611,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 W Rayburn Rd Millington NJ 07946",
+    "addr:housenumber":"10",
+    "addr:postcode":"07946",
+    "addr:street":"W Rayburn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526448,40.684354,-74.526448,40.684354",
     "geom:latitude":40.684354,
     "geom:longitude":-74.526448,
@@ -27,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478437,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vc5vrQ6zsYBmWSs770Ra7_40.684354_-74.526448@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461290929,
     "wof:geomhash":"39033d3e1f1de1681710bdf8ac6a16eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478437,
+            "region_id":85688607,
+            "venue_id":639254611
+        }
+    ],
     "wof:id":639254611,
-    "wof:lastmodified":1466690479,
+    "wof:lastmodified":1492044137,
     "wof:name":"Camilla T Morch Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

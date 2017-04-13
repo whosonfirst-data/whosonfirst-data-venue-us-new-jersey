@@ -2,9 +2,14 @@
   "id": 655427503,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1731",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263744,40.721523,-74.263744,40.721523",
     "geom:latitude":40.721523,
     "geom:longitude":-74.263744,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526931,
+        85688607,
         85892405,
         102085043
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655427503
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85892405,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":655427503,
-    "wof:lastmodified":1466676197,
+    "wof:lastmodified":1492028649,
     "wof:name":"Fantasy Hair Inc",
-    "wof:parent_id":85892405,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

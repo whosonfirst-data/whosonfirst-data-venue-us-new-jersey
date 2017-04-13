@@ -2,9 +2,14 @@
   "id": 639081319,
   "type": "Feature",
   "properties": {
+    "addr:full":"629 Milford Warren Glen Rd Milford NJ 08848",
+    "addr:housenumber":"629",
+    "addr:postcode":"08848",
+    "addr:street":"Milford Warren Glen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.116154,40.592774,-75.116154,40.592774",
     "geom:latitude":40.592774,
     "geom:longitude":-75.116154,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ev7GTpY3kqbEN5hyali1Q_40.592774_-75.116154@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286944,
     "wof:geomhash":"abd111048b105ede15c440afe9a0a3cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":639081319
+        }
+    ],
     "wof:id":639081319,
-    "wof:lastmodified":1466688615,
+    "wof:lastmodified":1492043863,
     "wof:name":"Thomas B Evers DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

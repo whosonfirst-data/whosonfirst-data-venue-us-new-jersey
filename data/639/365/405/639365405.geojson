@@ -2,9 +2,14 @@
   "id": 639365405,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Spring Hill Rd Annandale NJ 08801",
+    "addr:housenumber":"50",
+    "addr:postcode":"08801",
+    "addr:street":"Spring Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901153,40.584258,-74.901153,40.584258",
     "geom:latitude":40.584258,
     "geom:longitude":-74.901153,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vU3vOKTMud9Vaya6Nzs7h_40.584258_-74.901153@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461293339,
     "wof:geomhash":"ca885a340e656b8e5dc8c2869fc5c630",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527119,
+            "venue_id":639365405
+        }
+    ],
     "wof:id":639365405,
-    "wof:lastmodified":1466692589,
+    "wof:lastmodified":1492053530,
     "wof:name":"Chandoha Photography",
     "wof:parent_id":420527119,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639375639,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Dulles Dr Dumont NJ 07628",
+    "addr:housenumber":"36",
+    "addr:postcode":"07628",
+    "addr:street":"Dulles Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988252,40.937279,-73.988252,40.937279",
     "geom:latitude":40.937279,
     "geom:longitude":-73.988252,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75jWv7ntQVQAQ1uxBY0Yus_40.937279_-73.988252@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293552,
     "wof:geomhash":"e1bf42860aea34b579bffb13cadba6d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639375639
+        }
+    ],
     "wof:id":639375639,
-    "wof:lastmodified":1466692712,
+    "wof:lastmodified":1492028010,
     "wof:name":"H Hofmeister & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

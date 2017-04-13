@@ -2,9 +2,14 @@
   "id": 655640537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1130",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237854,40.684368,-74.237854,40.684368",
     "geom:latitude":40.684368,
     "geom:longitude":-74.237854,
@@ -29,7 +34,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vcoaxiDTjtuyZqZtwPI0s_40.684368_-74.237854@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461314781,
     "wof:geomhash":"c7e6e72916274f9b49490c5966861b59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655640537
+        }
+    ],
     "wof:id":655640537,
-    "wof:lastmodified":1466682488,
+    "wof:lastmodified":1492039439,
     "wof:name":"Morris American Service Stn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639292209,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Pond St Cliffwood NJ 07721",
+    "addr:housenumber":"203",
+    "addr:postcode":"07721",
+    "addr:street":"Pond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226294,40.439011,-74.226294,40.439011",
     "geom:latitude":40.439011,
     "geom:longitude":-74.226294,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IY5IFKz7gt6IWQ3sljUzm_40.439011_-74.226294@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461291811,
     "wof:geomhash":"5b7056e149c6d9c2871b43b122217f5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":639292209
+        }
+    ],
     "wof:id":639292209,
-    "wof:lastmodified":1466691295,
+    "wof:lastmodified":1492030507,
     "wof:name":"DJO Mason Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

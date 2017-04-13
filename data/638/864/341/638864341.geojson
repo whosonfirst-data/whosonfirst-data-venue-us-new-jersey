@@ -2,9 +2,14 @@
   "id": 638864341,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Saxton Dr Hackettstown NJ 07840",
+    "addr:housenumber":"116",
+    "addr:postcode":"07840",
+    "addr:street":"Saxton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.808732,40.862223,-74.808732,40.862223",
     "geom:latitude":40.862223,
     "geom:longitude":-74.808732,
@@ -28,7 +33,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bt7GdVeY14YpEcazyfrRj_40.862223_-74.808732@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281848,
     "wof:geomhash":"8753881caf704cb46886c642372b8779",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":638864341
+        }
+    ],
     "wof:id":638864341,
-    "wof:lastmodified":1466689506,
+    "wof:lastmodified":1492076983,
     "wof:name":"Continental Auto Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

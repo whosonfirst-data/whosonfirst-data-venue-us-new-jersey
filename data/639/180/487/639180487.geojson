@@ -2,9 +2,14 @@
   "id": 639180487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2427 Riverside Ter Manasquan NJ 08736",
+    "addr:housenumber":"2427",
+    "addr:postcode":"08736",
+    "addr:street":"Riverside Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.091237,40.118138,-74.091237,40.118138",
     "geom:latitude":40.118138,
     "geom:longitude":-74.091237,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478291,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QFKs8696cWtRugMNU6KsY_40.118138_-74.091237@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289201,
     "wof:geomhash":"4d36081a1723df721c25e0f6cb42a27b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478291,
+            "region_id":85688607,
+            "venue_id":639180487
+        }
+    ],
     "wof:id":639180487,
-    "wof:lastmodified":1466685870,
+    "wof:lastmodified":1492069345,
     "wof:name":"DJL Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

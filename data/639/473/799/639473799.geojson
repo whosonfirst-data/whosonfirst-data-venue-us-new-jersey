@@ -2,9 +2,14 @@
   "id": 639473799,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Mill Rd Marlton NJ 08053",
+    "addr:housenumber":"180",
+    "addr:postcode":"08053",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882479,39.789631,-74.882479,39.789631",
     "geom:latitude":39.789631,
     "geom:longitude":-74.882479,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QZcUSInOIFbQyM0Z2SCvz_39.789631_-74.882479@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296352,
     "wof:geomhash":"fc2e67f9e5ab55e6de2e72c1f0a261f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526659,
+            "venue_id":639473799
+        }
+    ],
     "wof:id":639473799,
-    "wof:lastmodified":1466693803,
+    "wof:lastmodified":1492047192,
     "wof:name":"Abbamondi Builder",
     "wof:parent_id":420526659,
     "wof:placetype":"venue",

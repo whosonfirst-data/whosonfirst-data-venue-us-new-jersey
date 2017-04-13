@@ -2,9 +2,14 @@
   "id": 639573207,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Anita Dr East Hanover NJ 07936",
+    "addr:housenumber":"11",
+    "addr:postcode":"07936",
+    "addr:street":"Anita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.372961,40.801238,-74.372961,40.801238",
     "geom:latitude":40.801238,
     "geom:longitude":-74.372961,
@@ -28,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478309,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xTmlwb7n8gjGz2EGoiSv9_40.801238_-74.372961@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300642,
     "wof:geomhash":"70a1c20914b2b3b49b4ed898d7cd8558",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478309,
+            "region_id":85688607,
+            "venue_id":639573207
+        }
+    ],
     "wof:id":639573207,
-    "wof:lastmodified":1466696326,
+    "wof:lastmodified":1492025274,
     "wof:name":"Nethorizon Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655717101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 W Edgar Rd Linden NJ 07036",
+    "addr:housenumber":"1601",
+    "addr:postcode":"07036",
+    "addr:street":"W Edgar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255699,40.612999,-74.255699,40.612999",
     "geom:latitude":40.612999,
     "geom:longitude":-74.255699,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.modells.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tfcli1sSkqOWVByHsUTyg_40.612999_-74.255699@1303262253"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461318046,
     "wof:geomhash":"26fc64d410ca77f3f4c167f858ffed5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655717101
+        }
+    ],
     "wof:id":655717101,
-    "wof:lastmodified":1466684705,
+    "wof:lastmodified":1492068913,
     "wof:name":"Modell's Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

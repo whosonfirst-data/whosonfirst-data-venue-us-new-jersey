@@ -2,9 +2,14 @@
   "id": 655476123,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Ridge Rd Branchville NJ 07826",
+    "addr:housenumber":"17",
+    "addr:postcode":"07826",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.763179,41.164202,-74.763179,41.164202",
     "geom:latitude":41.164202,
     "geom:longitude":-74.763179,
@@ -31,7 +36,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Atzd10LiWgS0bm5oY6C09_41.164202_-74.763179@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461307841,
     "wof:geomhash":"ab6c9277081c13450d791a001991af63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655476123
+        }
+    ],
     "wof:id":655476123,
-    "wof:lastmodified":1466677416,
+    "wof:lastmodified":1492048095,
     "wof:name":"Behringer Corp",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

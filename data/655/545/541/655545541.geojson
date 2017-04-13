@@ -2,9 +2,14 @@
   "id": 655545541,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Mill Rd Marlton NJ 08053",
+    "addr:housenumber":"139",
+    "addr:postcode":"08053",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.879448,39.788205,-74.879448,39.788205",
     "geom:latitude":39.788205,
     "geom:longitude":-74.879448,
@@ -24,7 +29,11 @@
     "sg:postcode":"08053",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526659,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mOHtaTKyiBqUwIhA1vfR8_39.788205_-74.879448@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461310634,
     "wof:geomhash":"83054c9d5425ebf41693883c9f5742a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526659,
+            "venue_id":655545541
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":655545541
+        }
+    ],
     "wof:id":655545541,
-    "wof:lastmodified":1466679367,
+    "wof:lastmodified":1492040549,
     "wof:name":"David H Tocher CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655788115,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Mount Hermon Rd Blairstown NJ 07825",
+    "addr:housenumber":"75",
+    "addr:postcode":"07825",
+    "addr:street":"Mount Hermon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019145,40.942175,-75.019145,40.942175",
     "geom:latitude":40.942175,
     "geom:longitude":-75.019145,
@@ -30,7 +35,10 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05bUaRN8N2hP0x8QelVfx3_40.942175_-75.019145@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320897,
     "wof:geomhash":"3afb188ebbe37f2209f81ec05e0505a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655788115
+        }
+    ],
     "wof:id":655788115,
-    "wof:lastmodified":1466686541,
+    "wof:lastmodified":1492048123,
     "wof:name":"John Hovell, Illustrator",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

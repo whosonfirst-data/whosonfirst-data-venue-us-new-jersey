@@ -2,9 +2,14 @@
   "id": 639020587,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Ridgedale Ave Florham Park NJ 07932",
+    "addr:housenumber":"193",
+    "addr:postcode":"07932",
+    "addr:street":"Ridgedale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.39063,40.78728,-74.39063,40.78728",
     "geom:latitude":40.78728,
     "geom:longitude":-74.39063,
@@ -29,7 +34,14 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y2YQV7x2IhKKBI41NfmBC_40.787280_-74.390630@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461285562,
     "wof:geomhash":"0c284ce09c9737c69edf2aff7409218c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639020587
+        }
+    ],
     "wof:id":639020587,
-    "wof:lastmodified":1466673595,
+    "wof:lastmodified":1492054481,
     "wof:name":"Speedex Sales & Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

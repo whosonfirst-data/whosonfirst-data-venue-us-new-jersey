@@ -2,9 +2,14 @@
   "id": 655543309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Edison Pl Springfield NJ 07081",
+    "addr:housenumber":"2",
+    "addr:postcode":"07081",
+    "addr:street":"Edison Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306108,40.712767,-74.306108,40.712767",
     "geom:latitude":40.712767,
     "geom:longitude":-74.306108,
@@ -28,7 +33,10 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OEZk8VQGOc76LzQkZIcXS_40.712767_-74.306108@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461310554,
     "wof:geomhash":"08f27569539614a9b4f5960d8cd796f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655543309
+        }
+    ],
     "wof:id":655543309,
-    "wof:lastmodified":1466679230,
+    "wof:lastmodified":1492028981,
     "wof:name":"Jenny Environmental Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

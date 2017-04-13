@@ -2,9 +2,14 @@
   "id": 639313717,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Patrick Dr Pittstown NJ 08867",
+    "addr:housenumber":"18",
+    "addr:postcode":"08867",
+    "addr:street":"Patrick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.939387,40.622384,-74.939387,40.622384",
     "geom:latitude":40.622384,
     "geom:longitude":-74.939387,
@@ -27,7 +32,10 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fwgP31dSkrfYJGMLPu9cr_40.622384_-74.939387@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292248,
     "wof:geomhash":"15b7093485d6c80dca796b9febe129ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":639313717
+        }
+    ],
     "wof:id":639313717,
-    "wof:lastmodified":1466691876,
+    "wof:lastmodified":1492030955,
     "wof:name":"Skelton Bryan CPA & Co",
     "wof:parent_id":420527125,
     "wof:placetype":"venue",

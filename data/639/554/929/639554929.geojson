@@ -2,9 +2,14 @@
   "id": 639554929,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Spring Mills Rd Milford NJ 08848",
+    "addr:housenumber":"517",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077254,40.607036,-75.077254,40.607036",
     "geom:latitude":40.607036,
     "geom:longitude":-75.077254,
@@ -28,7 +33,13 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PlODPfWlUwqFZVnvUC6OW_40.607036_-75.077254@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299934,
     "wof:geomhash":"5d067e24cb0ef340ea331b484087fc72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":639554929
+        }
+    ],
     "wof:id":639554929,
-    "wof:lastmodified":1466696222,
+    "wof:lastmodified":1492025433,
     "wof:name":"George's TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639088935,
   "type": "Feature",
   "properties": {
+    "addr:full":"1343 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1343",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264217,40.701599,-74.264217,40.701599",
     "geom:latitude":40.701599,
     "geom:longitude":-74.264217,
@@ -29,7 +34,10 @@
         "drycleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02izUPot830YfT2qp3n4ps_40.701599_-74.264217@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461287124,
     "wof:geomhash":"be838554ae65bdb9ecfe6f2d73705e55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639088935
+        }
+    ],
     "wof:id":639088935,
-    "wof:lastmodified":1466688830,
+    "wof:lastmodified":1492050548,
     "wof:name":"Royal Tailors Cleaners",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

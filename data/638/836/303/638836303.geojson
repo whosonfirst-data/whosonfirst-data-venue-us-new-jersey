@@ -2,9 +2,14 @@
   "id": 638836303,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 Glen Ave Glen Rock NJ 07452",
+    "addr:housenumber":"165",
+    "addr:postcode":"07452",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127792,40.954856,-74.127792,40.954856",
     "geom:latitude":40.954856,
     "geom:longitude":-74.127792,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sd41fJUt15DsA18M6m2kR_40.954856_-74.127792@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461281146,
     "wof:geomhash":"7fb1e9316cb0e7496741607fbb5983fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":638836303
+        }
+    ],
     "wof:id":638836303,
-    "wof:lastmodified":1466688997,
+    "wof:lastmodified":1492076617,
     "wof:name":"Life Safety Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

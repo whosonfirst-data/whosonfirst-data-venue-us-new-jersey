@@ -2,9 +2,14 @@
   "id": 655537845,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Virginia St Westfield NJ 07090",
+    "addr:housenumber":"110",
+    "addr:postcode":"07090",
+    "addr:street":"Virginia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.315982,40.63571,-74.315982,40.63571",
     "geom:latitude":40.63571,
     "geom:longitude":-74.315982,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478409,
+        85633793,
+        85975827,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FYgH1GEjbRW4r0bfAGHEK_40.635710_-74.315982@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310345,
     "wof:geomhash":"cf04574ded1dbd153e5c8f96b923f9b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478409,
+            "locality_id":85975827,
+            "region_id":85688607,
+            "venue_id":655537845
+        }
+    ],
     "wof:id":655537845,
-    "wof:lastmodified":1466679294,
+    "wof:lastmodified":1492048182,
     "wof:name":"Richard Pilecki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

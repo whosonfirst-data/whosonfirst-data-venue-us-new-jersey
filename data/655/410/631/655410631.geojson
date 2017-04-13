@@ -2,9 +2,14 @@
   "id": 655410631,
   "type": "Feature",
   "properties": {
+    "addr:full":"2314 Church Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"2314",
+    "addr:postcode":"08002",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.013888,39.941853,-75.013888,39.941853",
     "geom:latitude":39.941853,
     "geom:longitude":-75.013888,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76WEXxBzWB7zO8H5A9MvGt_39.941853_-75.013888@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305077,
     "wof:geomhash":"c307456bf7c26246dae7317754c61936",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":655410631
+        }
+    ],
     "wof:id":655410631,
-    "wof:lastmodified":1466675870,
+    "wof:lastmodified":1492027930,
     "wof:name":"Vu-Nguyen Nguyet DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

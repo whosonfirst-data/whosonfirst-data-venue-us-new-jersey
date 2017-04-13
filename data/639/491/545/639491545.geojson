@@ -2,9 +2,14 @@
   "id": 639491545,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Terrace Dr Newton NJ 07860",
+    "addr:housenumber":"17",
+    "addr:postcode":"07860",
+    "addr:street":"Terrace Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.702545,41.041281,-74.702545,41.041281",
     "geom:latitude":41.041281,
     "geom:longitude":-74.702545,
@@ -28,7 +33,10 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eU80zgDM2Jw5kJ3I8JFU7_41.041281_-74.702545@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297082,
     "wof:geomhash":"65c0ab8aa2a3a9af9c24ffccc81a7b7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":639491545
+        }
+    ],
     "wof:id":639491545,
-    "wof:lastmodified":1466694570,
+    "wof:lastmodified":1492042345,
     "wof:name":"United Water New Jersey",
     "wof:parent_id":420527663,
     "wof:placetype":"venue",

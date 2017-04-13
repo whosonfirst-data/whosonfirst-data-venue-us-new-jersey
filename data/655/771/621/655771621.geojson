@@ -2,9 +2,14 @@
   "id": 655771621,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"775",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.230797,40.8867,-74.230797,40.8867",
     "geom:latitude":40.8867,
     "geom:longitude":-74.230797,
@@ -24,7 +29,14 @@
     "sg:postcode":"07512",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N9VXUR6zN9iazZ3kgS2un_40.886700_-74.230797@1303262266"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461320162,
     "wof:geomhash":"86563d3f85cf785814f849112fce785d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655771621
+        }
+    ],
     "wof:id":655771621,
-    "wof:lastmodified":1466686161,
+    "wof:lastmodified":1492041959,
     "wof:name":"Salvador Victor DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

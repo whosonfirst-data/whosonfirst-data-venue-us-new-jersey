@@ -2,9 +2,14 @@
   "id": 639403557,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Mountain View Rd E Asbury NJ 08802",
+    "addr:housenumber":"117",
+    "addr:postcode":"08802",
+    "addr:street":"Mountain View Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.009644,40.723898,-75.009644,40.723898",
     "geom:latitude":40.723898,
     "geom:longitude":-75.009644,
@@ -33,7 +38,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ev0euo7FBomTtMwNlqJwg_40.723898_-75.009644@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461294307,
     "wof:geomhash":"a62ca7880aa015619a9a3406a3f83908",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":639403557
+        }
+    ],
     "wof:id":639403557,
-    "wof:lastmodified":1466693026,
+    "wof:lastmodified":1492056057,
     "wof:name":"Construction Consulting Inc",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

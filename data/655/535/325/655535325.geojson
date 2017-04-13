@@ -2,9 +2,14 @@
   "id": 655535325,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Glasgow Ter Mahwah NJ 07430",
+    "addr:housenumber":"95",
+    "addr:postcode":"07430",
+    "addr:street":"Glasgow Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.162768,41.092495,-74.162768,41.092495",
     "geom:latitude":41.092495,
     "geom:longitude":-74.162768,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A0x4vMLoILTNjBfcobzWj_41.092495_-74.162768@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310251,
     "wof:geomhash":"3b200e0e290247ba7304f40e3a0a5089",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655535325
+        }
+    ],
     "wof:id":655535325,
-    "wof:lastmodified":1466679049,
+    "wof:lastmodified":1492051743,
     "wof:name":"Tevis Drywall Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

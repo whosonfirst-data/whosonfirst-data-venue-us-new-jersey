@@ -2,9 +2,14 @@
   "id": 639465137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3438 Palace Ct Merchantville NJ 08109",
+    "addr:housenumber":"3438",
+    "addr:postcode":"08109",
+    "addr:street":"Palace Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021957,39.964323,-75.021957,39.964323",
     "geom:latitude":39.964323,
     "geom:longitude":-75.021957,
@@ -24,7 +29,13 @@
     "sg:postcode":"08109",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i3kkhyGD4tDsIM7ZwzHCz_39.964323_-75.021957@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461296003,
     "wof:geomhash":"6fe7d3546286a0cf7ebe45261c1195df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":639465137
+        }
+    ],
     "wof:id":639465137,
-    "wof:lastmodified":1466693895,
+    "wof:lastmodified":1492045147,
     "wof:name":"Housing Finance Corp of Towns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

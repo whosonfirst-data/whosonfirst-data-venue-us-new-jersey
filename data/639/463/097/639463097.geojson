@@ -2,9 +2,14 @@
   "id": 639463097,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"575",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989374,40.823134,-73.989374,40.823134",
     "geom:latitude":40.823134,
     "geom:longitude":-73.989374,
@@ -27,7 +32,14 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wTMa5gxJcWamEJ7FZbfIl_40.823134_-73.989374@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295927,
     "wof:geomhash":"ebbb60b8ffb3629d299e9b971226a220",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639463097
+        }
+    ],
     "wof:id":639463097,
-    "wof:lastmodified":1466693830,
+    "wof:lastmodified":1492041468,
     "wof:name":"Young's Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

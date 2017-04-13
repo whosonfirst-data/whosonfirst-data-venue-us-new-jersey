@@ -2,9 +2,14 @@
   "id": 655374455,
   "type": "Feature",
   "properties": {
+    "addr:full":"469 Newtons Corner Rd Howell NJ 07731",
+    "addr:housenumber":"469",
+    "addr:postcode":"07731",
+    "addr:street":"Newtons Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142599,40.129283,-74.142599,40.129283",
     "geom:latitude":40.129283,
     "geom:longitude":-74.142599,
@@ -28,7 +33,13 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uZp2fTyBJXIcNy2wkVlKm_40.129283_-74.142599@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303601,
     "wof:geomhash":"8a5b05f6b293b2e569d85f975215966d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":655374455
+        }
+    ],
     "wof:id":655374455,
-    "wof:lastmodified":1466674793,
+    "wof:lastmodified":1492056022,
     "wof:name":"Paul's Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

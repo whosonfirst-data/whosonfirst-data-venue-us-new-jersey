@@ -2,9 +2,14 @@
   "id": 638925053,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 River Rd Fair Lawn NJ 07410",
+    "addr:housenumber":"10",
+    "addr:postcode":"07410",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130355,40.923441,-74.130355,40.923441",
     "geom:latitude":40.923441,
     "geom:longitude":-74.130355,
@@ -24,7 +29,14 @@
     "sg:postcode":"07410",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qQ3NyCR8ec8FgC9laDvYE_40.923441_-74.130355@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461283395,
     "wof:geomhash":"af26e42047ac2f36b37df67b9a03e6c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":638925053
+        }
+    ],
     "wof:id":638925053,
-    "wof:lastmodified":1466690716,
+    "wof:lastmodified":1492029448,
     "wof:name":"Commerce Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

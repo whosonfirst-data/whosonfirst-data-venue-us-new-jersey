@@ -2,9 +2,14 @@
   "id": 655789719,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"120",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.730949,41.089978,-74.730949,41.089978",
     "geom:latitude":41.089978,
     "geom:longitude":-74.730949,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"http://www.bostonfinancialmanagement.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fj1coInKlnSeYH0rgXInJ_41.089978_-74.730949@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320967,
     "wof:geomhash":"19ce4a19c114d3bb721066e92f36951c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655789719
+        }
+    ],
     "wof:id":655789719,
-    "wof:lastmodified":1466686703,
+    "wof:lastmodified":1492070866,
     "wof:name":"The Bank Of New York",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

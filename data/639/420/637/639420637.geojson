@@ -2,9 +2,14 @@
   "id": 639420637,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Overlook Dr Jackson NJ 08527",
+    "addr:housenumber":"42",
+    "addr:postcode":"08527",
+    "addr:street":"Overlook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.379156,40.128569,-74.379156,40.128569",
     "geom:latitude":40.128569,
     "geom:longitude":-74.379156,
@@ -28,7 +33,10 @@
         "investigation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527427
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ToJDEIojY2oXTJmzMaDGq_40.128569_-74.379156@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461294728,
     "wof:geomhash":"e56f1a960be160ac977938c18f7633bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527427,
+            "venue_id":639420637
+        }
+    ],
     "wof:id":639420637,
-    "wof:lastmodified":1466693180,
+    "wof:lastmodified":1492047508,
     "wof:name":"Garden State Invstigations SEC",
     "wof:parent_id":420527427,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639399587,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 18th Ave Newark NJ 07108",
+    "addr:housenumber":"413",
+    "addr:postcode":"07108",
+    "addr:street":"18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.201837,40.731278,-74.201837,40.731278",
     "geom:latitude":40.731278,
     "geom:longitude":-74.201837,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0omeZszMFzXQWaE3InE2jU_40.731278_-74.201837@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294179,
     "wof:geomhash":"f19ff67479261f99c0953c5f6b47040e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639399587
+        }
+    ],
     "wof:id":639399587,
-    "wof:lastmodified":1466693027,
+    "wof:lastmodified":1492055943,
     "wof:name":"RRR Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

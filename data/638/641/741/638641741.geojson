@@ -2,9 +2,14 @@
   "id": 638641741,
   "type": "Feature",
   "properties": {
+    "addr:full":"4620 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4620",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067478,39.957184,-75.067478,39.957184",
     "geom:latitude":39.957184,
     "geom:longitude":-75.067478,
@@ -28,7 +33,14 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jok5jZXs2wMH8uKsadsdB_39.957184_-75.067478@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461275572,
     "wof:geomhash":"7fd5f45a1b1f84b5382dc2b5471ee12c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638641741
+        }
+    ],
     "wof:id":638641741,
-    "wof:lastmodified":1466673554,
+    "wof:lastmodified":1492062567,
     "wof:name":"Bill's Electronics",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639450637,
   "type": "Feature",
   "properties": {
+    "addr:full":"1571 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1571",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252262,40.691273,-74.252262,40.691273",
     "geom:latitude":40.691273,
     "geom:longitude":-74.252262,
@@ -28,7 +33,13 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t6CK3OXhkLqLMMbD84JEc_40.691273_-74.252262@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461295429,
     "wof:geomhash":"e034cdfca259b673aa2612b5cb6cafcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639450637
+        }
+    ],
     "wof:id":639450637,
-    "wof:lastmodified":1466693731,
+    "wof:lastmodified":1492056144,
     "wof:name":"Aladdin Hookah Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

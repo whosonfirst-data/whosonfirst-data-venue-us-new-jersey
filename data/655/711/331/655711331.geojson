@@ -2,9 +2,14 @@
   "id": 655711331,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 River Dr Garfield NJ 07026",
+    "addr:housenumber":"800",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123612,40.88321,-74.123612,40.88321",
     "geom:latitude":40.88321,
     "geom:longitude":-74.123612,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.spencersavings.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SU7A2qOSAFv19mW1WtCtu_40.883210_-74.123612@1303262251"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461317818,
     "wof:geomhash":"f2c3eee2c659ac47a76678ca5e9a6f83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655711331
+        }
+    ],
     "wof:id":655711331,
-    "wof:lastmodified":1466684522,
+    "wof:lastmodified":1492058375,
     "wof:name":"Spencer Savings Bank Sla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

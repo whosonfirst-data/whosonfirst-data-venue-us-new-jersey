@@ -2,9 +2,14 @@
   "id": 639239405,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 Spook Hollow Rd Far Hills NJ 07931",
+    "addr:housenumber":"280",
+    "addr:postcode":"07931",
+    "addr:street":"Spook Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.683737,40.694784,-74.683737,40.694784",
     "geom:latitude":40.694784,
     "geom:longitude":-74.683737,
@@ -28,7 +33,13 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477909,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YpMDibsbnvWsdl7GhsiVA_40.694784_-74.683737@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461290592,
     "wof:geomhash":"de5f3e9025072c1c57b240d328881a3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477909,
+            "region_id":85688607,
+            "venue_id":639239405
+        }
+    ],
     "wof:id":639239405,
-    "wof:lastmodified":1466689933,
+    "wof:lastmodified":1492025703,
     "wof:name":"Hyde Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

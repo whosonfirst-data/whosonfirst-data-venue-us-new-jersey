@@ -2,9 +2,14 @@
   "id": 639582379,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 W Oakland Ave Oakland NJ 07436",
+    "addr:housenumber":"231",
+    "addr:postcode":"07436",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256338,41.024024,-74.256338,41.024024",
     "geom:latitude":41.024024,
     "geom:longitude":-74.256338,
@@ -27,7 +32,14 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y6LvBsxEa6zAJIPthwoxt_41.024024_-74.256338@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300996,
     "wof:geomhash":"207b206770dd6fcaad819752a7563a09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639582379
+        }
+    ],
     "wof:id":639582379,
-    "wof:lastmodified":1466696634,
+    "wof:lastmodified":1492057017,
     "wof:name":"Arco Building Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

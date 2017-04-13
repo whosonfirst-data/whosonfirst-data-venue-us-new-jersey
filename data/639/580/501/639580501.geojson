@@ -2,9 +2,14 @@
   "id": 639580501,
   "type": "Feature",
   "properties": {
+    "addr:full":"947 Lehigh Ave Union NJ 07083",
+    "addr:housenumber":"947",
+    "addr:postcode":"07083",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245266,40.681215,-74.245266,40.681215",
     "geom:latitude":40.681215,
     "geom:longitude":-74.245266,
@@ -27,7 +32,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34n7BkxKQjnwAQsZSqLTWk_40.681215_-74.245266@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300924,
     "wof:geomhash":"69fd897c1543a91e0acec79c58863871",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639580501
+        }
+    ],
     "wof:id":639580501,
-    "wof:lastmodified":1466696513,
+    "wof:lastmodified":1492050924,
     "wof:name":"Lincoln Electric Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

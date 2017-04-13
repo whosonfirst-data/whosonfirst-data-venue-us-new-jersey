@@ -2,9 +2,14 @@
   "id": 639402433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Great Rd Princeton NJ 08540",
+    "addr:housenumber":"1107",
+    "addr:postcode":"08540",
+    "addr:street":"Great Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.696022,40.374676,-74.696022,40.374676",
     "geom:latitude":40.374676,
     "geom:longitude":-74.696022,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IqKD2L5qq3qW638IvNW35_40.374676_-74.696022@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461294272,
     "wof:geomhash":"084cc299ff00edbb640b3d7dc81ffaaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639402433
+        }
+    ],
     "wof:id":639402433,
-    "wof:lastmodified":1466693001,
+    "wof:lastmodified":1492051528,
     "wof:name":"University Orthopaedic Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

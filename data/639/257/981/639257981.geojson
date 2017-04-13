@@ -2,9 +2,14 @@
   "id": 639257981,
   "type": "Feature",
   "properties": {
+    "addr:full":"1532 Gregory Ave Union NJ 07083",
+    "addr:housenumber":"1532",
+    "addr:postcode":"07083",
+    "addr:street":"Gregory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256563,40.704575,-74.256563,40.704575",
     "geom:latitude":40.704575,
     "geom:longitude":-74.256563,
@@ -29,7 +34,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40uRIykldIJAn0D00wlng4_40.704575_-74.256563@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461291014,
     "wof:geomhash":"4c50cc993939bf00c121304ac404ea9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639257981
+        }
+    ],
     "wof:id":639257981,
-    "wof:lastmodified":1466690580,
+    "wof:lastmodified":1492057638,
     "wof:name":"Pure Air Technology",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

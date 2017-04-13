@@ -2,9 +2,14 @@
   "id": 655584045,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Livingston St Norwood NJ 07648",
+    "addr:housenumber":"425",
+    "addr:postcode":"07648",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954784,40.998158,-73.954784,40.998158",
     "geom:latitude":40.998158,
     "geom:longitude":-73.954784,
@@ -34,7 +39,14 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G5HmL28vQOixiji34pwoB_40.998158_-73.954784@1294171694"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461312341,
     "wof:geomhash":"89949a9e589b7ea9d157b7920849b547",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655584045
+        }
+    ],
     "wof:id":655584045,
-    "wof:lastmodified":1466680299,
+    "wof:lastmodified":1492053732,
     "wof:name":"SRI Vastava Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655703835,
   "type": "Feature",
   "properties": {
+    "addr:full":"596 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"596",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988602,40.824402,-73.988602,40.824402",
     "geom:latitude":40.824402,
     "geom:longitude":-73.988602,
@@ -28,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZiI2Er1PpwZ1bjUbdtfG8_40.824402_-73.988602@1303262249"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317529,
     "wof:geomhash":"16753d36bb97c7aafab8cece34a1d7f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703835
+        }
+    ],
     "wof:id":655703835,
-    "wof:lastmodified":1466684452,
+    "wof:lastmodified":1492070828,
     "wof:name":"Metropolitan Mortgage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

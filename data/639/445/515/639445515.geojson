@@ -2,9 +2,14 @@
   "id": 639445515,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Hawthorne Ln Hightstown NJ 08520",
+    "addr:housenumber":"22",
+    "addr:postcode":"08520",
+    "addr:street":"Hawthorne Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.562854,40.258604,-74.562854,40.258604",
     "geom:latitude":40.258604,
     "geom:longitude":-74.562854,
@@ -27,7 +32,13 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1musBahj664DDhvPVi4wWm_40.258604_-74.562854@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295240,
     "wof:geomhash":"1595ca1e824ee610033e4218f32b4a2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639445515
+        }
+    ],
     "wof:id":639445515,
-    "wof:lastmodified":1466693581,
+    "wof:lastmodified":1492053501,
     "wof:name":"Brandone Media Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

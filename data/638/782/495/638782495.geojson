@@ -2,9 +2,14 @@
   "id": 638782495,
   "type": "Feature",
   "properties": {
+    "addr:full":"289 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"289",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.195427,40.686959,-75.195427,40.686959",
     "geom:latitude":40.686959,
     "geom:longitude":-75.195427,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.noto-wynkoop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AFV6MtXmvi6KuK1NlHFxP_40.686959_-75.195427@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461279856,
     "wof:geomhash":"3978b47b66790b5ebc301d631a556ce0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638782495
+        }
+    ],
     "wof:id":638782495,
-    "wof:lastmodified":1466683311,
+    "wof:lastmodified":1492041825,
     "wof:name":"Noto-Wynkoop Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

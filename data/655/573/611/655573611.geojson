@@ -2,9 +2,14 @@
   "id": 655573611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1555 Oakland Ave Union NJ 07083",
+    "addr:housenumber":"1555",
+    "addr:postcode":"07083",
+    "addr:street":"Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25874,40.705173,-74.25874,40.705173",
     "geom:latitude":40.705173,
     "geom:longitude":-74.25874,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DrYjysnAPmyenLXjM2FA9_40.705173_-74.258740@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461311890,
     "wof:geomhash":"bc9dcc98bd914cfcd3da3bfcbe7e2da2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655573611
+        }
+    ],
     "wof:id":655573611,
-    "wof:lastmodified":1466680173,
+    "wof:lastmodified":1492069847,
     "wof:name":"New Jersey Realty Firm",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

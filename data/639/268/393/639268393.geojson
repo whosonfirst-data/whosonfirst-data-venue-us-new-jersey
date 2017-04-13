@@ -2,9 +2,14 @@
   "id": 639268393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1961 Raritan Rd Scotch Plains NJ 07076",
+    "addr:housenumber":"1961",
+    "addr:postcode":"07076",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.349042,40.624457,-74.349042,40.624457",
     "geom:latitude":40.624457,
     "geom:longitude":-74.349042,
@@ -24,7 +29,12 @@
     "sg:postcode":"07076",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892503,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TaHqJtJVaXoSwGGJjvVIp_40.624457_-74.349042@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461291244,
     "wof:geomhash":"0ed2e0624e319b2d9bfeb7ac9fe6bddb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892503,
+            "region_id":85688607,
+            "venue_id":639268393
+        }
+    ],
     "wof:id":639268393,
-    "wof:lastmodified":1466690644,
+    "wof:lastmodified":1492076863,
     "wof:name":"Iselin Christian Assembly",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

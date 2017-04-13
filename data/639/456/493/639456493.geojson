@@ -2,9 +2,14 @@
   "id": 639456493,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Wilrue Pkwy Pompton Plains NJ 07444",
+    "addr:housenumber":"19",
+    "addr:postcode":"07444",
+    "addr:street":"Wilrue Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297006,40.965372,-74.297006,40.965372",
     "geom:latitude":40.965372,
     "geom:longitude":-74.297006,
@@ -28,7 +33,13 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LBwv3Kkz1HbPeDbRyxRnR_40.965372_-74.297006@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461295666,
     "wof:geomhash":"8fae439dc8bbe71ea9e5dd60f7a82e30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":639456493
+        }
+    ],
     "wof:id":639456493,
-    "wof:lastmodified":1466693676,
+    "wof:lastmodified":1492041627,
     "wof:name":"K & G Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

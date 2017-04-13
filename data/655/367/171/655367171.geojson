@@ -2,9 +2,14 @@
   "id": 655367171,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Kennedy Blvd West New York NJ 07093",
+    "addr:housenumber":"6500",
+    "addr:postcode":"07093",
+    "addr:street":"Kennedy Blvd West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.01687,40.795218,-74.01687,40.795218",
     "geom:latitude":40.795218,
     "geom:longitude":-74.01687,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85804149,
+        102191575,
+        404477447,
         85633793,
-        85826425,
-        102080719
+        85975291,
+        102080719,
+        85688607,
+        85826425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +52,16 @@
     "wof:geomhash":"638a9537c363f7e22a4e9c2f10d448bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85804149,
+            "region_id":85688607,
+            "venue_id":655367171
+        },
+        {
             "country_id":85633793,
             "county_id":102080719,
             "neighbourhood_id":85826425,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":655367171,
-    "wof:lastmodified":1466674497,
+    "wof:lastmodified":1492051435,
     "wof:name":"Pacific Dental Lab",
-    "wof:parent_id":85826425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

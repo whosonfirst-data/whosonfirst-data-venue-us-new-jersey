@@ -2,9 +2,14 @@
   "id": 639622477,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Heckman St Phillipsburg NJ 08865",
+    "addr:housenumber":"301",
+    "addr:postcode":"08865",
+    "addr:street":"Heckman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.184437,40.691511,-75.184437,40.691511",
     "geom:latitude":40.691511,
     "geom:longitude":-75.184437,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07ehWnqE03UNOhzHGmhgPD_40.691511_-75.184437@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302591,
     "wof:geomhash":"f6e1c56f0bccd1399332a93322e8633a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639622477
+        }
+    ],
     "wof:id":639622477,
-    "wof:lastmodified":1466697422,
+    "wof:lastmodified":1492025387,
     "wof:name":"Executive Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

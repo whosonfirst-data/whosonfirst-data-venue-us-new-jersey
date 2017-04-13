@@ -2,9 +2,14 @@
   "id": 639422591,
   "type": "Feature",
   "properties": {
+    "addr:full":"891 Mount Lucas Rd Princeton NJ 08540",
+    "addr:housenumber":"891",
+    "addr:postcode":"08540",
+    "addr:street":"Mount Lucas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652542,40.387682,-74.652542,40.387682",
     "geom:latitude":40.387682,
     "geom:longitude":-74.652542,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qiGTljH8QcDv4iUAiePUM_40.387682_-74.652542@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294764,
     "wof:geomhash":"115e6804ac6713548a4ff0170757834f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639422591
+        }
+    ],
     "wof:id":639422591,
-    "wof:lastmodified":1466693278,
+    "wof:lastmodified":1492051833,
     "wof:name":"All In A Childs Day Fmly Day C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655487713,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 E Front St Washington NJ 07882",
+    "addr:housenumber":"22",
+    "addr:postcode":"07882",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.969863,40.760968,-74.969863,40.760968",
     "geom:latitude":40.760968,
     "geom:longitude":-74.969863,
@@ -29,7 +34,10 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ygSFw4cK8DaQCOj9d5UPE_40.760968_-74.969863@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461308311,
     "wof:geomhash":"00d75e5445a46c9e9f9e6a79bb6e91bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655487713
+        }
+    ],
     "wof:id":655487713,
-    "wof:lastmodified":1466677927,
+    "wof:lastmodified":1492028388,
     "wof:name":"Washington Township Road Dept",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

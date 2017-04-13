@@ -2,9 +2,14 @@
   "id": 639449607,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 John F Kennedy Way Willingboro NJ 08046",
+    "addr:housenumber":"420",
+    "addr:postcode":"08046",
+    "addr:street":"John F Kennedy Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880432,40.029478,-74.880432,40.029478",
     "geom:latitude":40.029478,
     "geom:longitude":-74.880432,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_142QRZBhB8TnDtvtlsITCq_40.029478_-74.880432@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295392,
     "wof:geomhash":"f193c6a36589e8f4d83c928b4cbb99d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639449607
+        }
+    ],
     "wof:id":639449607,
-    "wof:lastmodified":1466693732,
+    "wof:lastmodified":1492047350,
     "wof:name":"Getty",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

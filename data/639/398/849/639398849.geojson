@@ -2,9 +2,14 @@
   "id": 639398849,
   "type": "Feature",
   "properties": {
+    "addr:full":"385 Maxim Dr Andover NJ 07821",
+    "addr:housenumber":"385",
+    "addr:postcode":"07821",
+    "addr:street":"Maxim Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.661182,40.954929,-74.661182,40.954929",
     "geom:latitude":40.954929,
     "geom:longitude":-74.661182,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527629,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iCK0tj4frV3KPwkVaINxn_40.954929_-74.661182@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461294148,
     "wof:geomhash":"d6aced43d248bb48858031727f4e9c25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "neighbourhood_id":420527629,
+            "region_id":85688607,
+            "venue_id":639398849
+        }
+    ],
     "wof:id":639398849,
-    "wof:lastmodified":1466693055,
+    "wof:lastmodified":1492049457,
     "wof:name":"J Trimble",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

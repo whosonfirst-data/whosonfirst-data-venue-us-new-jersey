@@ -2,9 +2,14 @@
   "id": 655629673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 Swarthmore Ave Lakewood NJ 08701",
+    "addr:housenumber":"1825",
+    "addr:postcode":"08701",
+    "addr:street":"Swarthmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179096,40.080599,-74.179096,40.080599",
     "geom:latitude":40.080599,
     "geom:longitude":-74.179096,
@@ -27,7 +32,10 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h5n4GVQv5LbRLBwNcB8un_40.080599_-74.179096@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314302,
     "wof:geomhash":"6779e3b73c46467b1679323eef57e468",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655629673
+        }
+    ],
     "wof:id":655629673,
-    "wof:lastmodified":1466682176,
+    "wof:lastmodified":1492070606,
     "wof:name":"Relief Resources",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

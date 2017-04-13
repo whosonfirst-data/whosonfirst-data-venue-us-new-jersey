@@ -2,9 +2,14 @@
   "id": 638861201,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Georgetown Wrightstown Rd Wrightstown NJ 08562",
+    "addr:housenumber":"207",
+    "addr:postcode":"08562",
+    "addr:street":"Georgetown Wrightstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.632007,40.060055,-74.632007,40.060055",
     "geom:latitude":40.060055,
     "geom:longitude":-74.632007,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06TkYCMjqICTCX2qcSyXOI_40.060055_-74.632007@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461281781,
     "wof:geomhash":"3230fc36fb6da3d94a73f9b2c33e60c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":638861201
+        }
+    ],
     "wof:id":638861201,
-    "wof:lastmodified":1466689337,
+    "wof:lastmodified":1492048487,
     "wof:name":"Surgical Pathology Assoc",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

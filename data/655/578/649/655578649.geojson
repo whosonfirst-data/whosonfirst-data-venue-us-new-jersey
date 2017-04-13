@@ -2,9 +2,14 @@
   "id": 655578649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Pine Pl Newark NJ 07111",
+    "addr:housenumber":"3",
+    "addr:postcode":"07111",
+    "addr:street":"Pine Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241035,40.718222,-74.241035,40.718222",
     "geom:latitude":40.718222,
     "geom:longitude":-74.241035,
@@ -28,7 +33,13 @@
         "doughnut"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MX8VPoNHCLb5mZZvoWH7Y_40.718222_-74.241035@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312099,
     "wof:geomhash":"bf8b0a2e9f0e5f7b8110b954028df950",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655578649
+        }
+    ],
     "wof:id":655578649,
-    "wof:lastmodified":1466680410,
+    "wof:lastmodified":1492053690,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638751919,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Macintosh Dr Mahwah NJ 07430",
+    "addr:housenumber":"143",
+    "addr:postcode":"07430",
+    "addr:street":"Macintosh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120779,41.088522,-74.120779,41.088522",
     "geom:latitude":41.088522,
     "geom:longitude":-74.120779,
@@ -28,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VXmV3BoVLTi1XCj12QESW_41.088522_-74.120779@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279075,
     "wof:geomhash":"26e64149df1e4f99e69e67e0bb865cd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638751919
+        }
+    ],
     "wof:id":638751919,
-    "wof:lastmodified":1466678396,
+    "wof:lastmodified":1492022067,
     "wof:name":"Sports Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639571183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1064 State Rte 173 Asbury NJ 08802",
+    "addr:housenumber":"1064",
+    "addr:postcode":"08802",
+    "addr:street":"State Rte 173",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035133,40.662788,-75.035133,40.662788",
     "geom:latitude":40.662788,
     "geom:longitude":-75.035133,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527783,
+        85688607,
         85856189,
         102085997
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639571183
+        },
+        {
+            "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85856189,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":639571183,
-    "wof:lastmodified":1466696323,
+    "wof:lastmodified":1492045583,
     "wof:name":"Antiques In Frenchtown",
-    "wof:parent_id":85856189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

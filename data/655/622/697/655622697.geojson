@@ -2,9 +2,14 @@
   "id": 655622697,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Linden Ave Kearny NJ 07032",
+    "addr:housenumber":"27",
+    "addr:postcode":"07032",
+    "addr:street":"Linden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145042,40.7769,-74.145042,40.7769",
     "geom:latitude":40.7769,
     "geom:longitude":-74.145042,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xmxrf8YGMv50unXBNjH70_40.776900_-74.145042@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314002,
     "wof:geomhash":"26d29ce154819a59774889e213b57923",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655622697
+        }
+    ],
     "wof:id":655622697,
-    "wof:lastmodified":1466681914,
+    "wof:lastmodified":1492030566,
     "wof:name":"Anselmo Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655836319,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 Creek Rd Frenchtown NJ 08825",
+    "addr:housenumber":"334",
+    "addr:postcode":"08825",
+    "addr:street":"Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.037491,40.54877,-75.037491,40.54877",
     "geom:latitude":40.54877,
     "geom:longitude":-75.037491,
@@ -27,7 +32,13 @@
         "gardener"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lQAKRNjtO2mSAWihMnMMh_40.548770_-75.037491@1303262282"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461322920,
     "wof:geomhash":"65d2d8885bbf8905172719686550418c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":655836319
+        }
+    ],
     "wof:id":655836319,
-    "wof:lastmodified":1466687886,
+    "wof:lastmodified":1492065227,
     "wof:name":"Judy Glattstein Garden Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

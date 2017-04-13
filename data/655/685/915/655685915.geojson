@@ -2,9 +2,14 @@
   "id": 655685915,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Broad St Washington NJ 07882",
+    "addr:housenumber":"11",
+    "addr:postcode":"07882",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.979412,40.757904,-74.979412,40.757904",
     "geom:latitude":40.757904,
     "geom:longitude":-74.979412,
@@ -28,7 +33,10 @@
         "syndicate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MEcEiPaEHGF56uiS6wZ2d_40.757945_-74.979568@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316672,
     "wof:geomhash":"a0a43e9c8a274f1e6aef04591876b0a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655685915
+        }
+    ],
     "wof:id":655685915,
-    "wof:lastmodified":1466684009,
+    "wof:lastmodified":1492029639,
     "wof:name":"Express Times",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

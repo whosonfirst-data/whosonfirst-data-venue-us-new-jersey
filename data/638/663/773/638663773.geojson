@@ -2,9 +2,14 @@
   "id": 638663773,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 Cass St Trenton NJ 08611",
+    "addr:housenumber":"751",
+    "addr:postcode":"08611",
+    "addr:street":"Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751478,40.206419,-74.751478,40.206419",
     "geom:latitude":40.206419,
     "geom:longitude":-74.751478,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iy3x5k2x3uzIJup1S3AA8_40.206419_-74.751478@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461276250,
     "wof:geomhash":"e39f01e9de65d8a227df840db8f2cbc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638663773
+        }
+    ],
     "wof:id":638663773,
-    "wof:lastmodified":1466674239,
+    "wof:lastmodified":1492062589,
     "wof:name":"Northeast Communications Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

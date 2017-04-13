@@ -2,9 +2,14 @@
   "id": 638859421,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Wyndemere Rd Marlton NJ 08053",
+    "addr:housenumber":"114",
+    "addr:postcode":"08053",
+    "addr:street":"Wyndemere Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.900881,39.901624,-74.900881,39.901624",
     "geom:latitude":39.901624,
     "geom:longitude":-74.900881,
@@ -27,7 +32,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XZtkZlAuFS2KFQkUKroB9_39.901624_-74.900881@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281745,
     "wof:geomhash":"42211e87caed02fb2c2fdf77348e5436",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638859421
+        }
+    ],
     "wof:id":638859421,
-    "wof:lastmodified":1466689369,
+    "wof:lastmodified":1492082017,
     "wof:name":"Mtg Enterprises",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

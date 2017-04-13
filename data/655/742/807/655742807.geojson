@@ -2,9 +2,14 @@
   "id": 655742807,
   "type": "Feature",
   "properties": {
+    "addr:full":"2933 Vauxhall Rd Ste 10 Vauxhall NJ 07088",
+    "addr:housenumber":"2933;10",
+    "addr:postcode":"07088",
+    "addr:street":"Vauxhall Rd Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288585,40.720267,-74.288585,40.720267",
     "geom:latitude":40.720267,
     "geom:longitude":-74.288585,
@@ -24,7 +29,10 @@
     "sg:postcode":"07088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MvItfxUnR2NzQ60WnAz8L_40.720267_-74.288585@1303262259"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319018,
     "wof:geomhash":"fa83efd30fcd20f9250c66233ebb483a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742807
+        }
+    ],
     "wof:id":655742807,
-    "wof:lastmodified":1466685460,
+    "wof:lastmodified":1492027701,
     "wof:name":"Union Center National Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

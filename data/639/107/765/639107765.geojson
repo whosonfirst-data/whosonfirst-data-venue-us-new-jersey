@@ -2,9 +2,14 @@
   "id": 639107765,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Milford Rd Frenchtown NJ 08825",
+    "addr:housenumber":"305",
+    "addr:postcode":"08825",
+    "addr:street":"Milford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.059972,40.528809,-75.059972,40.528809",
     "geom:latitude":40.528809,
     "geom:longitude":-75.059972,
@@ -27,7 +32,14 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eQkrrotD9iUpLRQSuwN5k_40.528809_-75.059972@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287519,
     "wof:geomhash":"8cd411b1ae3c2b689d413102aa0b6c5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":639107765
+        }
+    ],
     "wof:id":639107765,
-    "wof:lastmodified":1466675369,
+    "wof:lastmodified":1492053526,
     "wof:name":"Advoserv Programs Of Nj Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

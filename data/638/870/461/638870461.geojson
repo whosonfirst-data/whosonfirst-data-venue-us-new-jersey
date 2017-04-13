@@ -2,9 +2,14 @@
   "id": 638870461,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N Franklin Tpke Ramsey NJ 07446",
+    "addr:housenumber":"500",
+    "addr:postcode":"07446",
+    "addr:street":"N Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136704,41.071635,-74.136704,41.071635",
     "geom:latitude":41.071635,
     "geom:longitude":-74.136704,
@@ -24,7 +29,14 @@
     "sg:postcode":"07446",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hJiEixaEw8a133QHJFjN2_41.071635_-74.136704@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461281977,
     "wof:geomhash":"96b5f095d1e803135833f64417682def",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":638870461
+        }
+    ],
     "wof:id":638870461,
-    "wof:lastmodified":1466689556,
+    "wof:lastmodified":1492058458,
     "wof:name":"Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

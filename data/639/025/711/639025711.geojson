@@ -2,9 +2,14 @@
   "id": 639025711,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Creek Rd Andover NJ 07821",
+    "addr:housenumber":"100",
+    "addr:postcode":"07821",
+    "addr:street":"Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800556,40.963065,-74.800556,40.963065",
     "geom:latitude":40.963065,
     "geom:longitude":-74.800556,
@@ -29,7 +34,13 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478461,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tl0hnFBQTSq0lPM0O4MQj_40.963065_-74.800556@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461285689,
     "wof:geomhash":"0043270e57d7497b6e058f2de0b417f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478461,
+            "region_id":85688607,
+            "venue_id":639025711
+        }
+    ],
     "wof:id":639025711,
-    "wof:lastmodified":1466673695,
+    "wof:lastmodified":1492054543,
     "wof:name":"Street-Wise Performance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

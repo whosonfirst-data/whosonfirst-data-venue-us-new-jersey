@@ -2,9 +2,14 @@
   "id": 639477165,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"764",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232935,40.708654,-74.232935,40.708654",
     "geom:latitude":40.708654,
     "geom:longitude":-74.232935,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R3T656HJ30hd5wcPA6qnb_40.708654_-74.232935@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461296487,
     "wof:geomhash":"d3d8040bef02fc6a427f078e03f26297",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639477165
+        }
+    ],
     "wof:id":639477165,
-    "wof:lastmodified":1466694246,
+    "wof:lastmodified":1492049735,
     "wof:name":"Unilab Quest Diagnostics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

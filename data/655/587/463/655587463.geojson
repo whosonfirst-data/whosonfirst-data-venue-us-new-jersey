@@ -2,9 +2,14 @@
   "id": 655587463,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Ramapo Valley Rd Oakland NJ 07436",
+    "addr:housenumber":"195",
+    "addr:postcode":"07436",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253135,41.015228,-74.253135,41.015228",
     "geom:latitude":41.015228,
     "geom:longitude":-74.253135,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ypCqCQtfrzNr2VobQmuJE_41.015228_-74.253135@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312486,
     "wof:geomhash":"a4796bd632d1f0c827b2fdb3a5fa3e51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655587463
+        }
+    ],
     "wof:id":655587463,
-    "wof:lastmodified":1466680696,
+    "wof:lastmodified":1492068717,
     "wof:name":"Oakland Music Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

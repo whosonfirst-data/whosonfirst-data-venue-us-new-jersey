@@ -2,9 +2,14 @@
   "id": 655787805,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Front St Belvidere NJ 07823",
+    "addr:housenumber":"405",
+    "addr:postcode":"07823",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.07734,40.828481,-75.07734,40.828481",
     "geom:latitude":40.828481,
     "geom:longitude":-75.07734,
@@ -30,7 +35,14 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C8Z6SLNYaEjJ0lG3CtQsE_40.828481_-75.077340@1303262270"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461320886,
     "wof:geomhash":"f2dd331c06a14c7e28a115708c3d3c4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787805
+        }
+    ],
     "wof:id":655787805,
-    "wof:lastmodified":1466686716,
+    "wof:lastmodified":1492029611,
     "wof:name":"Blue Moon Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

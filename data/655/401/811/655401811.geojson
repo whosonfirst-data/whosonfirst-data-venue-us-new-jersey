@@ -2,9 +2,14 @@
   "id": 655401811,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Cardinal Dr Jackson NJ 08527",
+    "addr:housenumber":"81",
+    "addr:postcode":"08527",
+    "addr:street":"Cardinal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.367942,40.131314,-74.367942,40.131314",
     "geom:latitude":40.131314,
     "geom:longitude":-74.367942,
@@ -29,7 +34,13 @@
         "cd"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WkNE521HrIEPrQ2O2xJgJ_40.131314_-74.367942@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461304711,
     "wof:geomhash":"eab377fbfd52cd16061d6da6309449ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655401811
+        }
+    ],
     "wof:id":655401811,
-    "wof:lastmodified":1466675658,
+    "wof:lastmodified":1492051155,
     "wof:name":"Vitaletech LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

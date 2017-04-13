@@ -2,9 +2,14 @@
   "id": 639435175,
   "type": "Feature",
   "properties": {
+    "addr:full":"2112 Beverly Rd Burlington NJ 08016",
+    "addr:housenumber":"2112",
+    "addr:postcode":"08016",
+    "addr:street":"Beverly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.895586,40.066172,-74.895586,40.066172",
     "geom:latitude":40.066172,
     "geom:longitude":-74.895586,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85809415,
-        102087415
+        102087415,
+        420526649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,17 @@
             "neighbourhood_id":85809415,
             "region_id":85688607,
             "venue_id":639435175
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":639435175
         }
     ],
     "wof:id":639435175,
-    "wof:lastmodified":1466693466,
+    "wof:lastmodified":1492040330,
     "wof:name":"RLK Industries Inc",
-    "wof:parent_id":85809415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

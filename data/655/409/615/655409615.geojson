@@ -2,9 +2,14 @@
   "id": 655409615,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 Lisa Pl North Brunswick NJ 08902",
+    "addr:housenumber":"615",
+    "addr:postcode":"08902",
+    "addr:street":"Lisa Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.49132,40.436256,-74.49132,40.436256",
     "geom:latitude":40.436256,
     "geom:longitude":-74.49132,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I6iKKPtmGu6pfjqoAC5tV_40.436256_-74.491320@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305039,
     "wof:geomhash":"8209f6cfc4e253809865972f3fbdc283",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655409615
+        }
+    ],
     "wof:id":655409615,
-    "wof:lastmodified":1466675832,
+    "wof:lastmodified":1492045278,
     "wof:name":"Pixel Systems Inc",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

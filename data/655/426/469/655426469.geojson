@@ -2,9 +2,14 @@
   "id": 655426469,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Lake Shore Dr Haworth NJ 07641",
+    "addr:housenumber":"5",
+    "addr:postcode":"07641",
+    "addr:street":"Lake Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.018477,40.957902,-74.018477,40.957902",
     "geom:latitude":40.957902,
     "geom:longitude":-74.018477,
@@ -28,7 +33,14 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G31vW4iG3zj8qUheRicGP_40.957902_-74.018477@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461305729,
     "wof:geomhash":"045f7a70cc8b61995e0a9b45961a41a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":655426469
+        }
+    ],
     "wof:id":655426469,
-    "wof:lastmodified":1466676156,
+    "wof:lastmodified":1492021351,
     "wof:name":"Rexford Links Management Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655620635,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"69",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258013,40.745819,-74.258013,40.745819",
     "geom:latitude":40.745819,
     "geom:longitude":-74.258013,
@@ -28,7 +33,10 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qTmd9OglJcNPIduIWxIhO_40.745819_-74.258013@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313922,
     "wof:geomhash":"0c78d6482d2ab7b5ffccad1d32e1f9d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655620635
+        }
+    ],
     "wof:id":655620635,
-    "wof:lastmodified":1466681837,
+    "wof:lastmodified":1492045934,
     "wof:name":"Afex Construction",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

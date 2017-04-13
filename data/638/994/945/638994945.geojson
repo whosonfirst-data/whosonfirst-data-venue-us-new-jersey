@@ -2,9 +2,14 @@
   "id": 638994945,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 Willowbrook Blvd Wayne NJ 07470",
+    "addr:housenumber":"79",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251907,40.888083,-74.251907,40.888083",
     "geom:latitude":40.888083,
     "geom:longitude":-74.251907,
@@ -27,7 +32,13 @@
         "consumer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74SW9635uv7tLCEZOkzdvb_40.888083_-74.251907@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285007,
     "wof:geomhash":"0e01f546c6013d9de905debe7e0699ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":638994945
+        }
+    ],
     "wof:id":638994945,
-    "wof:lastmodified":1466692226,
+    "wof:lastmodified":1492041305,
     "wof:name":"Electronics Expo LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

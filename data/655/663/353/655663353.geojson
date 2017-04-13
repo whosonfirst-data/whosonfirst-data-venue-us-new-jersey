@@ -2,9 +2,14 @@
   "id": 655663353,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Southern Blvd Chatham NJ 07928",
+    "addr:housenumber":"234",
+    "addr:postcode":"07928",
+    "addr:street":"Southern Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.417198,40.7313,-74.417198,40.7313",
     "geom:latitude":40.7313,
     "geom:longitude":-74.417198,
@@ -30,7 +35,13 @@
     ],
     "sg:website":"www.ginghamgiraffe.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yiKGj1hTVPbh4SXt86EgE_40.731056_-74.416887@1293134755"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461315748,
     "wof:geomhash":"165004b84aff72bbd663b214d87c0b05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":655663353
+        }
+    ],
     "wof:id":655663353,
-    "wof:lastmodified":1466683254,
+    "wof:lastmodified":1492027513,
     "wof:name":"The Gingham Giraffe Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

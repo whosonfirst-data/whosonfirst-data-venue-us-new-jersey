@@ -2,9 +2,14 @@
   "id": 638678591,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Prospect Point Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"128",
+    "addr:postcode":"07849",
+    "addr:street":"Prospect Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.62096,40.979885,-74.62096,40.979885",
     "geom:latitude":40.979885,
     "geom:longitude":-74.62096,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GtIijCySNcJV1caDlWCDP_40.979885_-74.620960@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461276719,
     "wof:geomhash":"b185ace8b6ec61995e7580adc8ff4540",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":638678591
+        }
+    ],
     "wof:id":638678591,
-    "wof:lastmodified":1466687901,
+    "wof:lastmodified":1492068729,
     "wof:name":"Driftwood Landscaping Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

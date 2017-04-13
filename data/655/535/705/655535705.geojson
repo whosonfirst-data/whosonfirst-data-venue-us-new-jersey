@@ -2,9 +2,14 @@
   "id": 655535705,
   "type": "Feature",
   "properties": {
+    "addr:full":"198 Walnut St Northvale NJ 07647",
+    "addr:housenumber":"198",
+    "addr:postcode":"07647",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.94612,41.003879,-73.94612,41.003879",
     "geom:latitude":41.003879,
     "geom:longitude":-73.94612,
@@ -28,7 +33,14 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZJKVS3pE2Z50jUZ2tkNWN_41.003879_-73.946120@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310264,
     "wof:geomhash":"caa0490d1fb414b854edc7413040fd23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655535705
+        }
+    ],
     "wof:id":655535705,
-    "wof:lastmodified":1466679149,
+    "wof:lastmodified":1492022096,
     "wof:name":"24 Hour Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

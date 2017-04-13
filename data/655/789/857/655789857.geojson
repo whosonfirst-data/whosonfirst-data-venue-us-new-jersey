@@ -2,9 +2,14 @@
   "id": 655789857,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"43",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.737877,41.076462,-74.737877,41.076462",
     "geom:latitude":41.076462,
     "geom:longitude":-74.737877,
@@ -28,7 +33,10 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fyat1pY0JNbyaVeL5xZVN_41.076462_-74.737877@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320972,
     "wof:geomhash":"668faef3143146e2df10a5121f089408",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655789857
+        }
+    ],
     "wof:id":655789857,
-    "wof:lastmodified":1466686738,
+    "wof:lastmodified":1492070867,
     "wof:name":"Zika Sylvia DMD NW Dental Care",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

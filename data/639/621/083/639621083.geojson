@@ -2,9 +2,14 @@
   "id": 639621083,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Washington Ave Leonardo NJ 07737",
+    "addr:housenumber":"13",
+    "addr:postcode":"07737",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059084,40.416352,-74.059084,40.416352",
     "geom:latitude":40.416352,
     "geom:longitude":-74.059084,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d7ojahgSLvi4HOA94TXk9_40.416352_-74.059084@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302541,
     "wof:geomhash":"c607eb672c3800ea2e51b2c4b56273b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639621083
+        }
+    ],
     "wof:id":639621083,
-    "wof:lastmodified":1466697465,
+    "wof:lastmodified":1492021492,
     "wof:name":"One Smart Cookie",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

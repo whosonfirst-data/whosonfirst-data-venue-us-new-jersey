@@ -2,9 +2,14 @@
   "id": 655450535,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Carl Hasselhan Dr Atco NJ 08004",
+    "addr:housenumber":"318",
+    "addr:postcode":"08004",
+    "addr:street":"Carl Hasselhan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.894108,39.770009,-74.894108,39.770009",
     "geom:latitude":39.770009,
     "geom:longitude":-74.894108,
@@ -27,7 +32,10 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21UIbhE4qsugkm9JWpUgFF_39.770009_-74.894108@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306716,
     "wof:geomhash":"e5280fa5f31521c4ee39e77e2b82be78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655450535
+        }
+    ],
     "wof:id":655450535,
-    "wof:lastmodified":1466676895,
+    "wof:lastmodified":1492057075,
     "wof:name":"John O'Leary",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

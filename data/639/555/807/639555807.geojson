@@ -2,9 +2,14 @@
   "id": 639555807,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Columbia Tpke Florham Park NJ 07932",
+    "addr:housenumber":"176",
+    "addr:postcode":"07932",
+    "addr:street":"Columbia Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388469,40.787635,-74.388469,40.787635",
     "geom:latitude":40.787635,
     "geom:longitude":-74.388469,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I0yZJQgAycicR8ZAQ7Ltv_40.787635_-74.388469@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299975,
     "wof:geomhash":"dabfe784d8f3412d084ed9398b415b9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639555807
+        }
+    ],
     "wof:id":639555807,
-    "wof:lastmodified":1466695866,
+    "wof:lastmodified":1492065280,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638663617,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Gemeinhardt Pl Haledon NJ 07508",
+    "addr:housenumber":"55",
+    "addr:postcode":"07508",
+    "addr:street":"Gemeinhardt Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175024,40.961171,-74.175024,40.961171",
     "geom:latitude":40.961171,
     "geom:longitude":-74.175024,
@@ -24,7 +29,14 @@
     "sg:postcode":"07508",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478537,
+        85633793,
+        85975485,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_205PGmpseL0Qsbh4kjeMrD_40.961171_-74.175024@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461276246,
     "wof:geomhash":"3d09769f4570b690c0b2c3477d8f3319",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404478537,
+            "locality_id":85975485,
+            "region_id":85688607,
+            "venue_id":638663617
+        }
+    ],
     "wof:id":638663617,
-    "wof:lastmodified":1466674218,
+    "wof:lastmodified":1492062241,
     "wof:name":"Castle Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

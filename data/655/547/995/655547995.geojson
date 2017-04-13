@@ -2,9 +2,14 @@
   "id": 655547995,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Lee Dr Vincentown NJ 08088",
+    "addr:housenumber":"45",
+    "addr:postcode":"08088",
+    "addr:street":"Lee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.745775,39.864003,-74.745775,39.864003",
     "geom:latitude":39.864003,
     "geom:longitude":-74.745775,
@@ -27,7 +32,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Cny4f96vCcMx03hI2beJh_39.864003_-74.745775@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310743,
     "wof:geomhash":"b0516cc93c64b38d398cbad1a547af06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":655547995
+        }
+    ],
     "wof:id":655547995,
-    "wof:lastmodified":1466679600,
+    "wof:lastmodified":1492045144,
     "wof:name":"Stone Soup Band",
     "wof:parent_id":420526585,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655364173,
   "type": "Feature",
   "properties": {
+    "addr:full":"494 Piel Ave Brick NJ 08723",
+    "addr:housenumber":"494",
+    "addr:postcode":"08723",
+    "addr:street":"Piel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.125832,40.050298,-74.125832,40.050298",
     "geom:latitude":40.050298,
     "geom:longitude":-74.125832,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iYOk0HDNFEvkWDfwqpLY9_40.050298_-74.125832@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461303188,
     "wof:geomhash":"8e32532138a5bf648533e57e3e728c4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655364173
+        }
+    ],
     "wof:id":655364173,
-    "wof:lastmodified":1466674444,
+    "wof:lastmodified":1492045211,
     "wof:name":"Air Control Heating & Cooling",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

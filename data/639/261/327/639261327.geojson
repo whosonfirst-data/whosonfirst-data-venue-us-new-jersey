@@ -2,9 +2,14 @@
   "id": 639261327,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Berger St Somerset NJ 08873",
+    "addr:housenumber":"231",
+    "addr:postcode":"08873",
+    "addr:street":"Berger St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.50441,40.493665,-74.50441,40.493665",
     "geom:latitude":40.493665,
     "geom:longitude":-74.50441,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dxJT56YPfIo1T5KgpsImn_40.493665_-74.504410@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291086,
     "wof:geomhash":"9e783fa4cdea9767fcd502a1dbb26d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639261327
+        }
+    ],
     "wof:id":639261327,
-    "wof:lastmodified":1466690562,
+    "wof:lastmodified":1492050822,
     "wof:name":"Szabolcs S Nagy Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

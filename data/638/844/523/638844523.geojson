@@ -2,9 +2,14 @@
   "id": 638844523,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Passaic Ave Fairfield NJ 07004",
+    "addr:housenumber":"120",
+    "addr:postcode":"07004",
+    "addr:street":"Passaic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280924,40.86836,-74.280924,40.86836",
     "geom:latitude":40.86836,
     "geom:longitude":-74.280924,
@@ -28,7 +33,13 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478111,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32RWJrcG8EYiOQpb6FZ4LZ_40.868360_-74.280924@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281352,
     "wof:geomhash":"6d680a842bfdf26a57764580ef94066c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478111,
+            "region_id":85688607,
+            "venue_id":638844523
+        }
+    ],
     "wof:id":638844523,
-    "wof:lastmodified":1466689182,
+    "wof:lastmodified":1492023495,
     "wof:name":"Kearny MHC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

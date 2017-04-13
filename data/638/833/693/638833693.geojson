@@ -2,9 +2,14 @@
   "id": 638833693,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Sunny Ln Andover NJ 07821",
+    "addr:housenumber":"8",
+    "addr:postcode":"07821",
+    "addr:street":"Sunny Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.768971,40.961931,-74.768971,40.961931",
     "geom:latitude":40.961931,
     "geom:longitude":-74.768971,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WwBhjVRGX5dmW0peUrGEK_40.961931_-74.768971@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461281079,
     "wof:geomhash":"fc5eedba2d6c6ca5c1acc6fa539ac1f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":638833693
+        }
+    ],
     "wof:id":638833693,
-    "wof:lastmodified":1466689030,
+    "wof:lastmodified":1492053420,
     "wof:name":"A Plus Inc",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

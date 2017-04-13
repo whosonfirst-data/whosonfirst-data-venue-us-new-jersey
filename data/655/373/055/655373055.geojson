@@ -2,9 +2,14 @@
   "id": 655373055,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Main St Maple Shade NJ 08052",
+    "addr:housenumber":"101",
+    "addr:postcode":"08052",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.005748,39.954966,-75.005748,39.954966",
     "geom:latitude":39.954966,
     "geom:longitude":-75.005748,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976241,
+        85827045,
         102081131,
+        85976241,
         85824725
     ],
     "wof:breaches":[],
@@ -42,6 +48,13 @@
         {
             "country_id":85633793,
             "county_id":102081131,
+            "neighbourhood_id":85827045,
+            "region_id":85688607,
+            "venue_id":655373055
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081131,
             "locality_id":85976241,
             "neighbourhood_id":85824725,
             "region_id":85688607,
@@ -49,9 +62,9 @@
         }
     ],
     "wof:id":655373055,
-    "wof:lastmodified":1466674680,
+    "wof:lastmodified":1492024061,
     "wof:name":"Good Spirits",
-    "wof:parent_id":85824725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

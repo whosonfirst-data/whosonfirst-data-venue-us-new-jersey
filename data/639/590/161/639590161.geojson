@@ -2,9 +2,14 @@
   "id": 639590161,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Davos Rd Brick NJ 08724",
+    "addr:housenumber":"33",
+    "addr:postcode":"08724",
+    "addr:street":"Davos Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106488,40.058812,-74.106488,40.058812",
     "geom:latitude":40.058812,
     "geom:longitude":-74.106488,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TxGCCEIERnCj4LHCm3SoK_40.058812_-74.106488@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301345,
     "wof:geomhash":"3064cba510807fbddfa5c4627de7db83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639590161
+        }
+    ],
     "wof:id":639590161,
-    "wof:lastmodified":1466696743,
+    "wof:lastmodified":1492061268,
     "wof:name":"Jerry Ott Roofing",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

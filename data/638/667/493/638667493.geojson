@@ -2,9 +2,14 @@
   "id": 638667493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1379 US Hwy 130 East Windsor NJ 08520",
+    "addr:housenumber":"1379",
+    "addr:postcode":"08520",
+    "addr:street":"Us Hwy 130 East",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485995,40.234363,-74.485995,40.234363",
     "geom:latitude":40.234363,
     "geom:longitude":-74.485995,
@@ -28,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UdnRY26gknJawyh4w2gfS_40.234363_-74.485995@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461276386,
     "wof:geomhash":"4ec11362ac784d169638d61c7a2c7f41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":638667493
+        }
+    ],
     "wof:id":638667493,
-    "wof:lastmodified":1466674320,
+    "wof:lastmodified":1492028612,
     "wof:name":"Kauffman's Pet Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

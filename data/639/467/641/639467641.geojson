@@ -2,9 +2,14 @@
   "id": 639467641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1990 Swarthmore Ave Lakewood NJ 08701",
+    "addr:housenumber":"1990",
+    "addr:postcode":"08701",
+    "addr:street":"Swarthmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168848,40.071709,-74.168848,40.071709",
     "geom:latitude":40.071709,
     "geom:longitude":-74.168848,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.dpfdata.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uD2UPUuidiohbmgO2PJ90_40.071709_-74.168848@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461296094,
     "wof:geomhash":"70f8d853770490afa91dba9a8d200e94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639467641
+        }
+    ],
     "wof:id":639467641,
-    "wof:lastmodified":1466694025,
+    "wof:lastmodified":1492052301,
     "wof:name":"DPF",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

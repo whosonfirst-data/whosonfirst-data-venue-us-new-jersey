@@ -2,9 +2,14 @@
   "id": 638627627,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 Ohio Ave Atco NJ 08004",
+    "addr:housenumber":"2017",
+    "addr:postcode":"08004",
+    "addr:street":"Ohio Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878232,39.748018,-74.878232,39.748018",
     "geom:latitude":39.748018,
     "geom:longitude":-74.878232,
@@ -28,7 +33,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KfLbziDWgRaTTnFPs2vLA_39.748018_-74.878232@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461275155,
     "wof:geomhash":"d5f3b180ae563cf523a7f544577590fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":638627627
+        }
+    ],
     "wof:id":638627627,
-    "wof:lastmodified":1466673209,
+    "wof:lastmodified":1492040546,
     "wof:name":"Environmental Erosion Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639490901,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Russell Ave Wyckoff NJ 07481",
+    "addr:housenumber":"525",
+    "addr:postcode":"07481",
+    "addr:street":"Russell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.181649,40.995974,-74.181649,40.995974",
     "geom:latitude":40.995974,
     "geom:longitude":-74.181649,
@@ -29,7 +34,13 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XE79bjWPUhzDfBD24tCXf_40.995974_-74.181649@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461297060,
     "wof:geomhash":"a26641893af38264e68611fe74cae53c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":639490901
+        }
+    ],
     "wof:id":639490901,
-    "wof:lastmodified":1466694595,
+    "wof:lastmodified":1492076610,
     "wof:name":"Bergen Pump Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

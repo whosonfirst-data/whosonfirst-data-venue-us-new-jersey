@@ -2,9 +2,14 @@
   "id": 655804871,
   "type": "Feature",
   "properties": {
+    "addr:full":"2156 6th St Atco NJ 08004",
+    "addr:housenumber":"2156",
+    "addr:postcode":"08004",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.863244,39.765413,-74.863244,39.765413",
     "geom:latitude":39.765413,
     "geom:longitude":-74.863244,
@@ -28,7 +33,13 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wDfeopGMFrtJ8Y9lPVsPC_39.765413_-74.863244@1303262274"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461321563,
     "wof:geomhash":"3169946440dadcbeac0fd454424b7077",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":655804871
+        }
+    ],
     "wof:id":655804871,
-    "wof:lastmodified":1466687180,
+    "wof:lastmodified":1492040551,
     "wof:name":"U Name It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

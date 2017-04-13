@@ -2,9 +2,14 @@
   "id": 638753527,
   "type": "Feature",
   "properties": {
+    "addr:full":"388 Chestnut St Norwood NJ 07648",
+    "addr:housenumber":"388",
+    "addr:postcode":"07648",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954194,40.993056,-73.954194,40.993056",
     "geom:latitude":40.993056,
     "geom:longitude":-73.954194,
@@ -29,7 +34,14 @@
         "liquid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CRonhyAnUHe7a9jH5wBSj_40.993056_-73.954194@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461279115,
     "wof:geomhash":"f0ed464b283f8a7ac2dc2da5047e5266",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":638753527
+        }
+    ],
     "wof:id":638753527,
-    "wof:lastmodified":1466678638,
+    "wof:lastmodified":1492071457,
     "wof:name":"Flavor Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

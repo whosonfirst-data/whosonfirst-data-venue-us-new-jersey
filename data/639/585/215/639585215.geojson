@@ -2,9 +2,14 @@
   "id": 639585215,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Everett Dr Princeton Jct NJ 08550",
+    "addr:housenumber":"39",
+    "addr:postcode":"08550",
+    "addr:street":"Everett Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.638006,40.30261,-74.638006,40.30261",
     "geom:latitude":40.30261,
     "geom:longitude":-74.638006,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"www.princetonair.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hJ6ecYsSYpDysURmkYwDg_40.302610_-74.638006@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461301129,
     "wof:geomhash":"2cdaf195c58bc7d9538be416ddc8f066",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639585215
+        }
+    ],
     "wof:id":639585215,
-    "wof:lastmodified":1466696435,
+    "wof:lastmodified":1492055626,
     "wof:name":"Princeton Air Conditioning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

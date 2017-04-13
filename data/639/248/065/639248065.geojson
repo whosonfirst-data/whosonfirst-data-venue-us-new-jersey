@@ -2,9 +2,14 @@
   "id": 639248065,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 la Tourette Rd White House Station NJ 08889",
+    "addr:housenumber":"8",
+    "addr:postcode":"08889",
+    "addr:street":"La Tourette Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.399384,40.421271,-74.399384,40.421271",
     "geom:latitude":40.421271,
     "geom:longitude":-74.399384,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
-        85892361,
-        102087417
+        420527173,
+        85688607,
+        85892363,
+        102087417,
+        85892361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +50,18 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527173,
+            "venue_id":639248065
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85892363,
+            "region_id":85688607,
+            "venue_id":639248065
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85892361,
             "region_id":85688607,
@@ -50,9 +69,9 @@
         }
     ],
     "wof:id":639248065,
-    "wof:lastmodified":1466690405,
+    "wof:lastmodified":1492052545,
     "wof:name":"Something Special",
-    "wof:parent_id":85892361,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

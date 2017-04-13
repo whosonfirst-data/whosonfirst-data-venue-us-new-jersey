@@ -2,9 +2,14 @@
   "id": 639517847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1084 Ringwood Ave Haskell NJ 07420",
+    "addr:housenumber":"1084",
+    "addr:postcode":"07420",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.296838,41.028786,-74.296838,41.028786",
     "geom:latitude":41.028786,
     "geom:longitude":-74.296838,
@@ -28,7 +33,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11zSdWb2vKEqtd8Qux3bcu_41.028786_-74.296838@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298198,
     "wof:geomhash":"df9df60c0a4162f5a8e2634650b420bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639517847
+        }
+    ],
     "wof:id":639517847,
-    "wof:lastmodified":1466695003,
+    "wof:lastmodified":1492075459,
     "wof:name":"D R Leisman & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

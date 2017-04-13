@@ -2,9 +2,14 @@
   "id": 639412323,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Union Ave Union NJ 07083",
+    "addr:housenumber":"103",
+    "addr:postcode":"07083",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249667,40.706005,-74.249667,40.706005",
     "geom:latitude":40.706005,
     "geom:longitude":-74.249667,
@@ -28,7 +33,10 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pbVA5w54hOXXi42xISaPk_40.706005_-74.249667@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461294539,
     "wof:geomhash":"1b7fd357ecc5e267d0f52900d3754bdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639412323
+        }
+    ],
     "wof:id":639412323,
-    "wof:lastmodified":1466693136,
+    "wof:lastmodified":1492057640,
     "wof:name":"A24 7 Emergency A Locksmith",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

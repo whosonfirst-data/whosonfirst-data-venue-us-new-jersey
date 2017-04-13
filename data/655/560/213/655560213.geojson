@@ -2,9 +2,14 @@
   "id": 655560213,
   "type": "Feature",
   "properties": {
+    "addr:full":"571 Monmouth Rd Cream Ridge NJ 08514",
+    "addr:housenumber":"571",
+    "addr:postcode":"08514",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.428393,40.157168,-74.428393,40.157168",
     "geom:latitude":40.157168,
     "geom:longitude":-74.428393,
@@ -24,7 +29,12 @@
     "sg:postcode":"08514",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85808485,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L8PAbOolzMdNusI6GIbzq_40.157168_-74.428393@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461311285,
     "wof:geomhash":"806a9afc96cf6536113d8cb58de24389",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85808485,
+            "region_id":85688607,
+            "venue_id":655560213
+        }
+    ],
     "wof:id":655560213,
-    "wof:lastmodified":1466679729,
+    "wof:lastmodified":1492045055,
     "wof:name":"El Paso",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

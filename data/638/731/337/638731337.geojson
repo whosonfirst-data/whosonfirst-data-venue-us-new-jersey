@@ -2,9 +2,14 @@
   "id": 638731337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 McBride Ave Little Falls NJ 07424",
+    "addr:housenumber":"1113",
+    "addr:postcode":"07424",
+    "addr:street":"Mcbride Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21009,40.892708,-74.21009,40.892708",
     "geom:latitude":40.892708,
     "geom:longitude":-74.21009,
@@ -28,7 +33,14 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Szz8iRiIuTAv7yiKO0gFp_40.892708_-74.210090@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278517,
     "wof:geomhash":"87b7b1691a2734e1f15db84c1ea7664a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":638731337
+        }
+    ],
     "wof:id":638731337,
-    "wof:lastmodified":1466675596,
+    "wof:lastmodified":1492070702,
     "wof:name":"Affiliation U S A Hockey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

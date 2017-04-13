@@ -2,9 +2,14 @@
   "id": 639494285,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Castle Rd Secaucus NJ 07094",
+    "addr:housenumber":"100",
+    "addr:postcode":"07094",
+    "addr:street":"Castle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.084437,40.773456,-74.084437,40.773456",
     "geom:latitude":40.773456,
     "geom:longitude":-74.084437,
@@ -27,7 +32,14 @@
         "bookbinding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YfOer9enwMzy6GfYSZX9C_40.773456_-74.084437@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297186,
     "wof:geomhash":"ca17a872791041b0243ef91a85e6aedc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":639494285
+        }
+    ],
     "wof:id":639494285,
-    "wof:lastmodified":1466694459,
+    "wof:lastmodified":1492041426,
     "wof:name":"Bind-Rite Graphics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

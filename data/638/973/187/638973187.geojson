@@ -2,9 +2,14 @@
   "id": 638973187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Yvette Dr East Hanover NJ 07936",
+    "addr:housenumber":"5",
+    "addr:postcode":"07936",
+    "addr:street":"Yvette Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.39477,40.805511,-74.39477,40.805511",
     "geom:latitude":40.805511,
     "geom:longitude":-74.39477,
@@ -27,7 +32,13 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478309,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NmcM4NMXhtf6X1oOUpdVf_40.805511_-74.394770@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461284521,
     "wof:geomhash":"05975137250681454210492eee5a3316",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478309,
+            "region_id":85688607,
+            "venue_id":638973187
+        }
+    ],
     "wof:id":638973187,
-    "wof:lastmodified":1466691715,
+    "wof:lastmodified":1492042857,
     "wof:name":"Jean Berberian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

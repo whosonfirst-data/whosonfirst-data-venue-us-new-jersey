@@ -2,9 +2,14 @@
   "id": 639082075,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Hopewell Wertsville Rd Hopewell NJ 08525",
+    "addr:housenumber":"212",
+    "addr:postcode":"08525",
+    "addr:street":"Hopewell Wertsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.785976,40.416849,-74.785976,40.416849",
     "geom:latitude":40.416849,
     "geom:longitude":-74.785976,
@@ -27,7 +32,13 @@
         "broadcast"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dTl6ciw3t6CNVNAwU22jH_40.416849_-74.785976@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286973,
     "wof:geomhash":"eec1b0e042121cc33d53961594478be9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":639082075
+        }
+    ],
     "wof:id":639082075,
-    "wof:lastmodified":1466688602,
+    "wof:lastmodified":1492049186,
     "wof:name":"Heartlands Network Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655663269,
   "type": "Feature",
   "properties": {
+    "addr:full":"2177 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"2177",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279404,40.622101,-74.279404,40.622101",
     "geom:latitude":40.622101,
     "geom:longitude":-74.279404,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xV6SxTY8F4y5VpcNxaWP8_40.621950_-74.279090@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461315746,
     "wof:geomhash":"652add413f4b87d82bcd16ad86a7ffd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655663269
+        }
+    ],
     "wof:id":655663269,
-    "wof:lastmodified":1466683225,
+    "wof:lastmodified":1492042837,
     "wof:name":"Delicious Subs and Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

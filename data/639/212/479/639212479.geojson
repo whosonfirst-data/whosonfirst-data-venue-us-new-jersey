@@ -2,9 +2,14 @@
   "id": 639212479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1665 Derousse Ave Delair NJ 08110",
+    "addr:housenumber":"1665",
+    "addr:postcode":"08110",
+    "addr:street":"Derousse Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.048989,39.971615,-75.048989,39.971615",
     "geom:latitude":39.971615,
     "geom:longitude":-75.048989,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B7MOJJ8WW3vveVrKi3G5W_39.971615_-75.048989@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289970,
     "wof:geomhash":"c35331c41ead2cac0737e94897094db9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639212479
+        }
+    ],
     "wof:id":639212479,
-    "wof:lastmodified":1466689369,
+    "wof:lastmodified":1492069352,
     "wof:name":"St Matthew's United Methodist",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

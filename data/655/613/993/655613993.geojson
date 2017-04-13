@@ -2,9 +2,14 @@
   "id": 655613993,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Wexford Way Basking Ridge NJ 07920",
+    "addr:housenumber":"113",
+    "addr:postcode":"07920",
+    "addr:street":"Wexford Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.573367,40.674816,-74.573367,40.674816",
     "geom:latitude":40.674816,
     "geom:longitude":-74.573367,
@@ -28,7 +33,13 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ng4x4KXEHU0a949Cptk1o_40.674816_-74.573367@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313614,
     "wof:geomhash":"daff96e10e73391b28504f8dd97a129b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":655613993
+        }
+    ],
     "wof:id":655613993,
-    "wof:lastmodified":1466681730,
+    "wof:lastmodified":1492025609,
     "wof:name":"Sedgefield Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655791261,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Rymon Rd Washington NJ 07882",
+    "addr:housenumber":"100",
+    "addr:postcode":"07882",
+    "addr:street":"Rymon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.990303,40.734501,-74.990303,40.734501",
     "geom:latitude":40.734501,
     "geom:longitude":-74.990303,
@@ -28,7 +33,10 @@
         "gardening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YvZajaB5tIZ3A7hX2J5y8_40.734501_-74.990303@1303262271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321028,
     "wof:geomhash":"2cb1334f90ccac4467215c82f589114f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655791261
+        }
+    ],
     "wof:id":655791261,
-    "wof:lastmodified":1466686588,
+    "wof:lastmodified":1492046031,
     "wof:name":"Washington Nursery",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655787915,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Mansfield St Belvidere NJ 07823",
+    "addr:housenumber":"111",
+    "addr:postcode":"07823",
+    "addr:street":"Mansfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077319,40.828124,-75.077319,40.828124",
     "geom:latitude":40.828124,
     "geom:longitude":-75.077319,
@@ -27,7 +32,14 @@
         "government-state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w8esLuvhYJaQlv5jLuSff_40.828124_-75.077319@1303262270"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320890,
     "wof:geomhash":"9fc591a39803138d2fdee73394e1caad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787915
+        }
+    ],
     "wof:id":655787915,
-    "wof:lastmodified":1466686745,
+    "wof:lastmodified":1492048119,
     "wof:name":"State of Nj Courts-Formerly Under County Superior Court-Warren County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655600165,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Hollybrook Dr Tuckerton NJ 08087",
+    "addr:housenumber":"103",
+    "addr:postcode":"08087",
+    "addr:street":"Hollybrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.35913,39.575199,-74.35913,39.575199",
     "geom:latitude":39.575199,
     "geom:longitude":-74.35913,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wYqCid0iFnfqxgtsbigcY_39.575199_-74.359130@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313019,
     "wof:geomhash":"3ce137fa2f9c505f2c3282cdee056e24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527413,
+            "venue_id":655600165
+        }
+    ],
     "wof:id":655600165,
-    "wof:lastmodified":1466680948,
+    "wof:lastmodified":1492018172,
     "wof:name":"Pelican Property LLC",
     "wof:parent_id":420527413,
     "wof:placetype":"venue",

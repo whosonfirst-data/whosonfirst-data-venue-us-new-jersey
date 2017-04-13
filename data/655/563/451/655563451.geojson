@@ -2,9 +2,14 @@
   "id": 655563451,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Maltbie Ave Ridgewood NJ 07450",
+    "addr:housenumber":"10",
+    "addr:postcode":"07450",
+    "addr:street":"Maltbie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134954,40.983366,-74.134954,40.983366",
     "geom:latitude":40.983366,
     "geom:longitude":-74.134954,
@@ -24,7 +29,14 @@
     "sg:postcode":"07450",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ht4jEadY1ATNe3vizvfak_40.983366_-74.134954@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311431,
     "wof:geomhash":"5df8220ecd157c3acd511f6d0e109ece",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":655563451
+        }
+    ],
     "wof:id":655563451,
-    "wof:lastmodified":1466679795,
+    "wof:lastmodified":1492051763,
     "wof:name":"Goodren Sales Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

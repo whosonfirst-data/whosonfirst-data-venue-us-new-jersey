@@ -2,9 +2,14 @@
   "id": 638682243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Manor Pl East Brunswick NJ 08816",
+    "addr:housenumber":"2",
+    "addr:postcode":"08816",
+    "addr:street":"Manor Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.411206,40.474865,-74.411206,40.474865",
     "geom:latitude":40.474865,
     "geom:longitude":-74.411206,
@@ -24,7 +29,14 @@
     "sg:postcode":"08816",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527221,
+        85688607,
+        85975739,
+        102087417,
+        85857065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mNtysmvwherS6Sg3Kklfs_40.474865_-74.411206@1294171694"
@@ -32,11 +44,25 @@
     "wof:country":"US",
     "wof:created":1461276824,
     "wof:geomhash":"d556df814d6910fb189e6d0061608f13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527221,
+            "venue_id":638682243
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "locality_id":85975739,
+            "neighbourhood_id":85857065,
+            "region_id":85688607,
+            "venue_id":638682243
+        }
+    ],
     "wof:id":638682243,
-    "wof:lastmodified":1466688096,
+    "wof:lastmodified":1492049904,
     "wof:name":"Akita Rescue Society Inc",
-    "wof:parent_id":420527221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

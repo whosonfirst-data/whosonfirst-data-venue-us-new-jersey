@@ -2,9 +2,14 @@
   "id": 638942969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Cedar St Bloomingdale NJ 07403",
+    "addr:housenumber":"2",
+    "addr:postcode":"07403",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.344683,41.012549,-74.344683,41.012549",
     "geom:latitude":41.012549,
     "geom:longitude":-74.344683,
@@ -29,7 +34,14 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78c9N1nCqFnDN0AS8wkSVW_41.012549_-74.344683@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283868,
     "wof:geomhash":"dbc925e8dd4868f15a08c4db193bf1ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":638942969
+        }
+    ],
     "wof:id":638942969,
-    "wof:lastmodified":1466691331,
+    "wof:lastmodified":1492040999,
     "wof:name":"Mirror Image Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

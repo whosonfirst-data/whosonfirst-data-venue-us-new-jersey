@@ -2,9 +2,14 @@
   "id": 639566005,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Chestnut Ridge Rd Montvale NJ 07645",
+    "addr:housenumber":"102",
+    "addr:postcode":"07645",
+    "addr:street":"Chestnut Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.068894,41.053222,-74.068894,41.053222",
     "geom:latitude":41.053222,
     "geom:longitude":-74.068894,
@@ -36,7 +41,14 @@
         "physician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_140bn0vz9KWg6NjAHoLVNv_41.053222_-74.068894@1294171694"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461300346,
     "wof:geomhash":"03c94ffbd05467c7fd25c770690dd3ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639566005
+        }
+    ],
     "wof:id":639566005,
-    "wof:lastmodified":1466696051,
+    "wof:lastmodified":1492053972,
     "wof:name":"Pentax Medical Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639575691,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Brookside Ave Demarest NJ 07627",
+    "addr:housenumber":"32",
+    "addr:postcode":"07627",
+    "addr:street":"Brookside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.968674,40.954631,-73.968674,40.954631",
     "geom:latitude":40.954631,
     "geom:longitude":-73.968674,
@@ -28,7 +33,14 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tpOT99PBbHN72QL2MTfqR_40.954631_-73.968674@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300730,
     "wof:geomhash":"3793718e36ae9ea00298bf3e8cd8a472",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":639575691
+        }
+    ],
     "wof:id":639575691,
-    "wof:lastmodified":1466696373,
+    "wof:lastmodified":1492029425,
     "wof:name":"No 1 Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

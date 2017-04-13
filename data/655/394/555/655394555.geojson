@@ -2,9 +2,14 @@
   "id": 655394555,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 Somerset Ln Marlton NJ 08053",
+    "addr:housenumber":"218",
+    "addr:postcode":"08053",
+    "addr:street":"Somerset Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876204,39.892402,-74.876204,39.892402",
     "geom:latitude":39.892402,
     "geom:longitude":-74.876204,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31EU8cEcSpf01pdoRHK78J_39.892402_-74.876204@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304397,
     "wof:geomhash":"8c4439e00d78466ab2f78d314d0ff9c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655394555
+        }
+    ],
     "wof:id":655394555,
-    "wof:lastmodified":1466675342,
+    "wof:lastmodified":1492024299,
     "wof:name":"Collegiate Construction Co",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

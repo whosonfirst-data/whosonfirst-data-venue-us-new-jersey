@@ -2,9 +2,14 @@
   "id": 638904935,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Thomas Dr Clark NJ 07066",
+    "addr:housenumber":"102",
+    "addr:postcode":"07066",
+    "addr:street":"Thomas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.322568,40.615937,-74.322568,40.615937",
     "geom:latitude":40.615937,
     "geom:longitude":-74.322568,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l8FlnpUJrYHl9KOKVdx3e_40.615937_-74.322568@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282874,
     "wof:geomhash":"00ff9d263260f4f586c00311b7c81d4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638904935
+        }
+    ],
     "wof:id":638904935,
-    "wof:lastmodified":1466690230,
+    "wof:lastmodified":1492076761,
     "wof:name":"Rmr Contractors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

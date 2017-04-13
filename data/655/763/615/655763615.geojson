@@ -2,9 +2,14 @@
   "id": 655763615,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 E Ramapo Ave Mahwah NJ 07430",
+    "addr:housenumber":"8",
+    "addr:postcode":"07430",
+    "addr:street":"E Ramapo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145933,41.093931,-74.145933,41.093931",
     "geom:latitude":41.093931,
     "geom:longitude":-74.145933,
@@ -28,7 +33,13 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j4aV4qjgfYrvFSKT6DPG5_41.093931_-74.145933@1303262264"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461319796,
     "wof:geomhash":"e4950705690f9d2ecd300f980f64790a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763615
+        }
+    ],
     "wof:id":655763615,
-    "wof:lastmodified":1466685960,
+    "wof:lastmodified":1492066656,
     "wof:name":"Cherry's Bar & Grill L L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

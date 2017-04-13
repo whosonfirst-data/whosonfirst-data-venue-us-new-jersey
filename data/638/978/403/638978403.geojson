@@ -2,9 +2,14 @@
   "id": 638978403,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Herbert Ave Closter NJ 07624",
+    "addr:housenumber":"132",
+    "addr:postcode":"07624",
+    "addr:street":"Herbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.958822,40.978633,-73.958822,40.978633",
     "geom:latitude":40.978633,
     "geom:longitude":-73.958822,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ONA3qKr2KGvwYYnOEqKgD_40.978633_-73.958822@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284618,
     "wof:geomhash":"438a23f36a706b4487be0dc5f00ac46a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638978403
+        }
+    ],
     "wof:id":638978403,
-    "wof:lastmodified":1466691879,
+    "wof:lastmodified":1492075811,
     "wof:name":"Shamrock Construction Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

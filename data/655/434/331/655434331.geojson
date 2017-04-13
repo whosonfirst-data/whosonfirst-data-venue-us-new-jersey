@@ -2,9 +2,14 @@
   "id": 655434331,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Highwood Dr Dumont NJ 07628",
+    "addr:housenumber":"47",
+    "addr:postcode":"07628",
+    "addr:street":"Highwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.981159,40.941706,-73.981159,40.941706",
     "geom:latitude":40.941706,
     "geom:longitude":-73.981159,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k4CYCmadW4V5eExlsoS0s_40.941706_-73.981159@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306067,
     "wof:geomhash":"8bfd94d325471da6105126a2e34492b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655434331
+        }
+    ],
     "wof:id":655434331,
-    "wof:lastmodified":1466676338,
+    "wof:lastmodified":1492072404,
     "wof:name":"A Fresh Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

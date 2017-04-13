@@ -2,9 +2,14 @@
   "id": 639604261,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Rosemont Ringoes Rd Sergeantsville NJ 08559",
+    "addr:housenumber":"501",
+    "addr:postcode":"08559",
+    "addr:street":"Ringoes Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.936539,40.446764,-74.936539,40.446764",
     "geom:latitude":40.446764,
     "geom:longitude":-74.936539,
@@ -25,7 +30,11 @@
     "sg:province":"NJ",
     "sg:website":"www.dtsk8.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135,
+        420527105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AVlfeMRWewD3gRklrCFiH_40.446764_-74.936539@1294171694"
@@ -33,11 +42,22 @@
     "wof:country":"US",
     "wof:created":1461301901,
     "wof:geomhash":"965598b2ddcf87bcc9d00f1f4cd15318",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":639604261
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527105,
+            "venue_id":639604261
+        }
+    ],
     "wof:id":639604261,
-    "wof:lastmodified":1466697147,
+    "wof:lastmodified":1492048129,
     "wof:name":"Delaware Board Of Education",
-    "wof:parent_id":420527105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

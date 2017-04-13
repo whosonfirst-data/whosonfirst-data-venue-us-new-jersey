@@ -2,9 +2,14 @@
   "id": 655695593,
   "type": "Feature",
   "properties": {
+    "addr:full":"267 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"267",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960023,40.971655,-73.960023,40.971655",
     "geom:latitude":40.971655,
     "geom:longitude":-73.960023,
@@ -29,7 +34,14 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F3REdqZdAvJgF7xqhvTbS_40.971713_-73.959936@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461317118,
     "wof:geomhash":"5456f1bb351c199aa0be84da5f3f6180",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655695593
+        }
+    ],
     "wof:id":655695593,
-    "wof:lastmodified":1466684186,
+    "wof:lastmodified":1492027644,
     "wof:name":"Valley Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

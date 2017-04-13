@@ -2,9 +2,14 @@
   "id": 639540355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Lakewood Farmingdale Rd Howell NJ 07731",
+    "addr:housenumber":"1120",
+    "addr:postcode":"07731",
+    "addr:street":"Lakewood Farmingdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.190409,40.121737,-74.190409,40.121737",
     "geom:latitude":40.121737,
     "geom:longitude":-74.190409,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o1kRVKuWrSzzbICunv2AI_40.121737_-74.190409@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461299318,
     "wof:geomhash":"b68eb390ba2b893de62e2d47e0160035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":639540355
+        }
+    ],
     "wof:id":639540355,
-    "wof:lastmodified":1466695628,
+    "wof:lastmodified":1492049696,
     "wof:name":"Northeast Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

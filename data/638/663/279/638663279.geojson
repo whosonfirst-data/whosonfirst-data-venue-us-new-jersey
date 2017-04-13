@@ -2,9 +2,14 @@
   "id": 638663279,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S New Prospect Rd Jackson NJ 08527",
+    "addr:housenumber":"300",
+    "addr:postcode":"08527",
+    "addr:street":"S New Prospect Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255061,40.126936,-74.255061,40.126936",
     "geom:latitude":40.126936,
     "geom:longitude":-74.255061,
@@ -24,7 +29,10 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3781HWiGeeatL7uFZSgHBR_40.126936_-74.255061@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461276238,
     "wof:geomhash":"29285f9da0d022ec2e4060fed1da5692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":638663279
+        }
+    ],
     "wof:id":638663279,
-    "wof:lastmodified":1466674173,
+    "wof:lastmodified":1492043901,
     "wof:name":"Hunan Wok",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

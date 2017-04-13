@@ -2,9 +2,14 @@
   "id": 639220289,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Woodland Ave Summit NJ 07901",
+    "addr:housenumber":"220",
+    "addr:postcode":"07901",
+    "addr:street":"Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.367473,40.732058,-74.367473,40.732058",
     "geom:latitude":40.732058,
     "geom:longitude":-74.367473,
@@ -28,7 +33,14 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XbIjKkLCOEHXJM8dOO3yb_40.732058_-74.367473@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290150,
     "wof:geomhash":"31a459cb5bd5e4ec52ae3863ed99ad9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639220289
+        }
+    ],
     "wof:id":639220289,
-    "wof:lastmodified":1466689580,
+    "wof:lastmodified":1492076788,
     "wof:name":"Dun Rite Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

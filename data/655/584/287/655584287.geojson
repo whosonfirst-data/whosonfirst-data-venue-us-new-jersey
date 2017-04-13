@@ -2,9 +2,14 @@
   "id": 655584287,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 Hillcrest Rd Newton NJ 07860",
+    "addr:housenumber":"914",
+    "addr:postcode":"07860",
+    "addr:street":"Hillcrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.828061,41.068164,-74.828061,41.068164",
     "geom:latitude":41.068164,
     "geom:longitude":-74.828061,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZXWZDSYLnJxb911zdfhYU_41.068164_-74.828061@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461312355,
     "wof:geomhash":"4741e09cd13e1263c93e5be414a38125",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655584287
+        }
+    ],
     "wof:id":655584287,
-    "wof:lastmodified":1466680374,
+    "wof:lastmodified":1492047570,
     "wof:name":"DJT Construction",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

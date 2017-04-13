@@ -2,9 +2,14 @@
   "id": 638827015,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Cypress Ave Caldwell NJ 07006",
+    "addr:housenumber":"37",
+    "addr:postcode":"07006",
+    "addr:street":"Cypress Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260878,40.85231,-74.260878,40.85231",
     "geom:latitude":40.85231,
     "geom:longitude":-74.260878,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xMZCntCtLlAMbvqCzyrL1_40.852310_-74.260878@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461280912,
     "wof:geomhash":"f1917d61c3783d0c99928d930c1262c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638827015
+        }
+    ],
     "wof:id":638827015,
-    "wof:lastmodified":1466688832,
+    "wof:lastmodified":1492030667,
     "wof:name":"Sj Promotions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638912533,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Brandon Ave Monroe Township NJ 08831",
+    "addr:housenumber":"42",
+    "addr:postcode":"08831",
+    "addr:street":"Brandon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.409774,40.362328,-74.409774,40.362328",
     "geom:latitude":40.362328,
     "geom:longitude":-74.409774,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18ry6zHn3XzkJZHV3PBsQC_40.362328_-74.409774@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283065,
     "wof:geomhash":"c2bdeb1665d61d8ac9369724c375cef1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638912533
+        }
+    ],
     "wof:id":638912533,
-    "wof:lastmodified":1466690064,
+    "wof:lastmodified":1492042560,
     "wof:name":"Smith & Son Contractors",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

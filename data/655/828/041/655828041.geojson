@@ -2,9 +2,14 @@
   "id": 655828041,
   "type": "Feature",
   "properties": {
+    "addr:full":"2591 Haddonfield Rd Pennsauken NJ 08110",
+    "addr:housenumber":"2591",
+    "addr:postcode":"08110",
+    "addr:street":"Haddonfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02286,39.973688,-75.02286,39.973688",
     "geom:latitude":39.973688,
     "geom:longitude":-75.02286,
@@ -29,7 +34,14 @@
         "spanish"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uXVU6GBdGL9BsbH1StKtn_39.973688_-75.022860@1303262280"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461322563,
     "wof:geomhash":"a66f371e5702e9245a53b33117610c37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828041
+        }
+    ],
     "wof:id":655828041,
-    "wof:lastmodified":1466687559,
+    "wof:lastmodified":1492056558,
     "wof:name":"Cookie's Kitchen",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639193739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 River Ave Camden NJ 08105",
+    "addr:housenumber":"3125",
+    "addr:postcode":"08105",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.087382,39.95949,-75.087382,39.95949",
     "geom:latitude":39.95949,
     "geom:longitude":-75.087382,
@@ -24,7 +29,14 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526751,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01EhiJzMVDQccvPsLeaijk_39.959490_-75.087382@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461289489,
     "wof:geomhash":"aca11cba890b070f0b137ba2e815b13c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526751,
+            "region_id":85688607,
+            "venue_id":639193739
+        }
+    ],
     "wof:id":639193739,
-    "wof:lastmodified":1466687690,
+    "wof:lastmodified":1492069352,
     "wof:name":"Decisions Beauty Salon",
     "wof:parent_id":420526751,
     "wof:placetype":"venue",

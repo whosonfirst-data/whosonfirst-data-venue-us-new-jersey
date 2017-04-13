@@ -2,9 +2,14 @@
   "id": 655602179,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Gorge Rd Cliffside Park NJ 07010",
+    "addr:housenumber":"623",
+    "addr:postcode":"07010",
+    "addr:street":"Gorge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987497,40.825442,-73.987497,40.825442",
     "geom:latitude":40.825442,
     "geom:longitude":-73.987497,
@@ -27,7 +32,14 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Nqg9IbSvNJuFrD0rNSoou_40.825442_-73.987497@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313097,
     "wof:geomhash":"74d1b58e34f87e1ad9f4ccebb68c018f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655602179
+        }
+    ],
     "wof:id":655602179,
-    "wof:lastmodified":1466681029,
+    "wof:lastmodified":1492044208,
     "wof:name":"Roc Ice Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

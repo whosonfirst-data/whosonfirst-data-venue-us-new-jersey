@@ -2,9 +2,14 @@
   "id": 655812769,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Campbell Dr Willingboro NJ 08046",
+    "addr:housenumber":"321",
+    "addr:postcode":"08046",
+    "addr:street":"Campbell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.892037,40.052576,-74.892037,40.052576",
     "geom:latitude":40.052576,
     "geom:longitude":-74.892037,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.allieddental.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_437T6yFG6c8fZflE5uTXHL_40.052576_-74.892037@1303262276"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321929,
     "wof:geomhash":"72bcef83991116f8f90359362fcfbf81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655812769
+        }
+    ],
     "wof:id":655812769,
-    "wof:lastmodified":1466687266,
+    "wof:lastmodified":1492070321,
     "wof:name":"Willingboro Family Dental",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

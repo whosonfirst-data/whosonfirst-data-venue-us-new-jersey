@@ -2,9 +2,14 @@
   "id": 639559405,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Palisade Ave Emerson NJ 07630",
+    "addr:housenumber":"124",
+    "addr:postcode":"07630",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.022369,40.972037,-74.022369,40.972037",
     "geom:latitude":40.972037,
     "geom:longitude":-74.022369,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MtvWrE4KvW9A7wxUfc13S_40.972037_-74.022369@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300108,
     "wof:geomhash":"ba23fdc88edc6b0e0a7b82f837d5ae8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":639559405
+        }
+    ],
     "wof:id":639559405,
-    "wof:lastmodified":1466695966,
+    "wof:lastmodified":1492047593,
     "wof:name":"Paragon Siding & Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

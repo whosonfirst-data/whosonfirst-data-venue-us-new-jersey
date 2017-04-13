@@ -2,9 +2,14 @@
   "id": 639630065,
   "type": "Feature",
   "properties": {
+    "addr:full":"371 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"371",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.51154,40.374763,-74.51154,40.374763",
     "geom:latitude":40.374763,
     "geom:longitude":-74.51154,
@@ -27,7 +32,10 @@
         "video"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SO6wV8K6KpNaMD340nGEO_40.374763_-74.511540@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302931,
     "wof:geomhash":"aed4a193d543d4782fcf4bcced509856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639630065
+        }
+    ],
     "wof:id":639630065,
-    "wof:lastmodified":1466697436,
+    "wof:lastmodified":1492029458,
     "wof:name":"Dayton Video",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

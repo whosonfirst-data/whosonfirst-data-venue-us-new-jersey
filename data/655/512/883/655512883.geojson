@@ -2,9 +2,14 @@
   "id": 655512883,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Parkside Dr Union NJ 07083",
+    "addr:housenumber":"109",
+    "addr:postcode":"07083",
+    "addr:street":"Parkside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252988,40.702445,-74.252988,40.702445",
     "geom:latitude":40.702445,
     "geom:longitude":-74.252988,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uI2E4VKPKg9eggogiPpio_40.702445_-74.252988@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461309404,
     "wof:geomhash":"bb743b6253e72055b2c4fc9d1ce99b99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655512883
+        }
+    ],
     "wof:id":655512883,
-    "wof:lastmodified":1466678588,
+    "wof:lastmodified":1492053915,
     "wof:name":"Book Hut Corp",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

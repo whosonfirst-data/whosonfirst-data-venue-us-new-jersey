@@ -2,9 +2,14 @@
   "id": 639510771,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Industrial Ave Mahwah NJ 07430",
+    "addr:housenumber":"14",
+    "addr:postcode":"07430",
+    "addr:street":"Industrial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141253,41.081629,-74.141253,41.081629",
     "geom:latitude":41.081629,
     "geom:longitude":-74.141253,
@@ -27,7 +32,13 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0noo6Hv3avwPPJmMAtrGLK_41.081629_-74.141253@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297883,
     "wof:geomhash":"04858facc7ef8fa84a2f3e7a5a92309a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639510771
+        }
+    ],
     "wof:id":639510771,
-    "wof:lastmodified":1466695090,
+    "wof:lastmodified":1492081989,
     "wof:name":"AGEM Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

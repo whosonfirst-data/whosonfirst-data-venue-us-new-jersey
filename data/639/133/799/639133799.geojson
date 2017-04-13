@@ -2,9 +2,14 @@
   "id": 639133799,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 School House Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"204",
+    "addr:postcode":"07438",
+    "addr:street":"School House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.509788,41.051365,-74.509788,41.051365",
     "geom:latitude":41.051365,
     "geom:longitude":-74.509788,
@@ -27,7 +32,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478317,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WQ7ZmU4GzEea7t9w1GxO9_41.051365_-74.509788@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288155,
     "wof:geomhash":"b9452aa7d80c16efdbc6271cc8f1284c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478317,
+            "region_id":85688607,
+            "venue_id":639133799
+        }
+    ],
     "wof:id":639133799,
-    "wof:lastmodified":1466678879,
+    "wof:lastmodified":1492036272,
     "wof:name":"H I S General Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639482479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 Oak Tree Rd Edison NJ 08820",
+    "addr:housenumber":"1730",
+    "addr:postcode":"08820",
+    "addr:street":"Oak Tree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.347624,40.572515,-74.347624,40.572515",
     "geom:latitude":40.572515,
     "geom:longitude":-74.347624,
@@ -30,7 +35,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EUz9XCTkD4yxvzfrOomcS_40.572515_-74.347624@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461296711,
     "wof:geomhash":"c9177d65b4cc8daa1e583b9dec0a5547",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":639482479
+        }
+    ],
     "wof:id":639482479,
-    "wof:lastmodified":1466694444,
+    "wof:lastmodified":1492042513,
     "wof:name":"PNC",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

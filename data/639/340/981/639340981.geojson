@@ -2,9 +2,14 @@
   "id": 639340981,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 State Rte 179 Lambertville NJ 08530",
+    "addr:housenumber":"1500",
+    "addr:postcode":"08530",
+    "addr:street":"State Rte 179",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.933859,40.37521,-74.933859,40.37521",
     "geom:latitude":40.37521,
     "geom:longitude":-74.933859,
@@ -30,7 +35,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478245,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WmuqaV6s8LxPepVZDXvZ7_40.375210_-74.933859@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461292830,
     "wof:geomhash":"b7234832892e1d569db27d2339ce5998",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478245,
+            "region_id":85688607,
+            "venue_id":639340981
+        }
+    ],
     "wof:id":639340981,
-    "wof:lastmodified":1466692573,
+    "wof:lastmodified":1492030805,
     "wof:name":"Munds Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

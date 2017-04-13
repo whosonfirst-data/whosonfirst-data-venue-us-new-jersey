@@ -2,9 +2,14 @@
   "id": 639542743,
   "type": "Feature",
   "properties": {
+    "addr:full":"8307 River Rd Pennsauken NJ 08110",
+    "addr:housenumber":"8307",
+    "addr:postcode":"08110",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049275,39.984326,-75.049275,39.984326",
     "geom:latitude":39.984326,
     "geom:longitude":-75.049275,
@@ -33,7 +38,13 @@
         "fabricating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NAfXEBxrLQNUJpkprFu2c_39.984326_-75.049275@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461299447,
     "wof:geomhash":"af0b9a0b8bd4340b01a757c42cf79b49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":639542743
+        }
+    ],
     "wof:id":639542743,
-    "wof:lastmodified":1466695712,
+    "wof:lastmodified":1492025428,
     "wof:name":"Delaer Fabricators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

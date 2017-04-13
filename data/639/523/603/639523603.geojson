@@ -2,9 +2,14 @@
   "id": 639523603,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Hornerstown Arneytown Rd Allentown NJ 08501",
+    "addr:housenumber":"99",
+    "addr:postcode":"08501",
+    "addr:street":"Hornerstown Arneytown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.549824,40.102304,-74.549824,40.102304",
     "geom:latitude":40.102304,
     "geom:longitude":-74.549824,
@@ -24,7 +29,12 @@
     "sg:postcode":"08501",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85854311,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wCntrbKS195EalQV6ruNd_40.102304_-74.549824@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461298487,
     "wof:geomhash":"4823dbdcebd96791471cafc612a910ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85854311,
+            "region_id":85688607,
+            "venue_id":639523603
+        }
+    ],
     "wof:id":639523603,
-    "wof:lastmodified":1466695287,
+    "wof:lastmodified":1492049534,
     "wof:name":"Blaso Family Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

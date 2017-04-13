@@ -2,9 +2,14 @@
   "id": 639626131,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Kings Rd Madison NJ 07940",
+    "addr:housenumber":"41",
+    "addr:postcode":"07940",
+    "addr:street":"Kings Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.417034,40.759169,-74.417034,40.759169",
     "geom:latitude":40.759169,
     "geom:longitude":-74.417034,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812897,
+        85818819,
         102191575,
         404477521,
         85633793,
         85975549,
         102087413,
-        85688607
+        85688607,
+        85812897,
+        85831887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,35 @@
             "county_id":102087413,
             "localadmin_id":404477521,
             "locality_id":85975549,
+            "neighbourhood_id":85818819,
+            "region_id":85688607,
+            "venue_id":639626131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477521,
+            "locality_id":85975549,
             "neighbourhood_id":85812897,
+            "region_id":85688607,
+            "venue_id":639626131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477521,
+            "locality_id":85975549,
+            "neighbourhood_id":85831887,
             "region_id":85688607,
             "venue_id":639626131
         }
     ],
     "wof:id":639626131,
-    "wof:lastmodified":1466697521,
+    "wof:lastmodified":1492051422,
     "wof:name":"Countryside Studios Inc",
-    "wof:parent_id":85812897,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

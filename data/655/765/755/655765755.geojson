@@ -2,9 +2,14 @@
   "id": 655765755,
   "type": "Feature",
   "properties": {
+    "addr:full":"72 Hamburg Tpke Riverdale NJ 07457",
+    "addr:housenumber":"72",
+    "addr:postcode":"07457",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303902,40.998402,-74.303902,40.998402",
     "geom:latitude":40.998402,
     "geom:longitude":-74.303902,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xWSx5Rr9o8szQKnI445QE_40.998402_-74.303902@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319885,
     "wof:geomhash":"192270ecfc0331c8cd6e1d476c5f20e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":655765755
+        }
+    ],
     "wof:id":655765755,
-    "wof:lastmodified":1466686170,
+    "wof:lastmodified":1492058421,
     "wof:name":"Sonny's Pasta & Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

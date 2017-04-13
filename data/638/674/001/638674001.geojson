@@ -2,9 +2,14 @@
   "id": 638674001,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Pine Hill Rd Annandale NJ 08801",
+    "addr:housenumber":"11",
+    "addr:postcode":"08801",
+    "addr:street":"Pine Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.909652,40.59699,-74.909652,40.59699",
     "geom:latitude":40.59699,
     "geom:longitude":-74.909652,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zvyGCFBKlFX3hQNrfqYMO_40.596990_-74.909652@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461276586,
     "wof:geomhash":"9d8fae1b96a254ae7754bd7bcbfb922c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527051,
+            "venue_id":638674001
+        }
+    ],
     "wof:id":638674001,
-    "wof:lastmodified":1466688839,
+    "wof:lastmodified":1492076982,
     "wof:name":"Foursome Builders",
     "wof:parent_id":420527051,
     "wof:placetype":"venue",

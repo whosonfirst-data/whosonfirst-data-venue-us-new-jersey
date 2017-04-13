@@ -2,9 +2,14 @@
   "id": 655625057,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Boom Way Little Egg Hbr NJ 08087",
+    "addr:housenumber":"123",
+    "addr:postcode":"08087",
+    "addr:street":"Boom Way Little",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.347648,39.585395,-74.347648,39.585395",
     "geom:latitude":39.585395,
     "geom:longitude":-74.347648,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MndLgsKMR43e4N8fg4dnN_39.585395_-74.347648@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314115,
     "wof:geomhash":"b5b66a3c9c37ab28816806262a3d4e86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527413,
+            "venue_id":655625057
+        }
+    ],
     "wof:id":655625057,
-    "wof:lastmodified":1466681810,
+    "wof:lastmodified":1492068326,
     "wof:name":"Capital Drywall",
     "wof:parent_id":420527413,
     "wof:placetype":"venue",

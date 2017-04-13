@@ -2,9 +2,14 @@
   "id": 639087743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 Windsor Rd East Windsor NJ 08520",
+    "addr:housenumber":"1009",
+    "addr:postcode":"08520",
+    "addr:street":"Windsor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500697,40.233023,-74.500697,40.233023",
     "geom:latitude":40.233023,
     "geom:longitude":-74.500697,
@@ -28,7 +33,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cSKX2KhWgbUIDaZfpxQdS_40.233023_-74.500697@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287097,
     "wof:geomhash":"74ebd36fbd20e79fb2dc06e80bec530e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":639087743
+        }
+    ],
     "wof:id":639087743,
-    "wof:lastmodified":1466688800,
+    "wof:lastmodified":1492045869,
     "wof:name":"H & J Nursery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

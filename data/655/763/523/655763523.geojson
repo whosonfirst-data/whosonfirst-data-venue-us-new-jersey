@@ -2,9 +2,14 @@
   "id": 655763523,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 State Rt 17 Ste 4 Mahwah NJ 07430",
+    "addr:housenumber":"185",
+    "addr:postcode":"07430",
+    "addr:street":"State Rt 17 Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.158356,41.097179,-74.158356,41.097179",
     "geom:latitude":41.097179,
     "geom:longitude":-74.158356,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"http://www.micromat.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GUPSnqLTw7EQnDYz9KFDY_41.097179_-74.158356@1303262264"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461319788,
     "wof:geomhash":"f806406899ea0c700407510d44336f69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763523
+        }
+    ],
     "wof:id":655763523,
-    "wof:lastmodified":1466685935,
+    "wof:lastmodified":1492058466,
     "wof:name":"Micromat Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638812839,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 E High St Bound Brook NJ 08805",
+    "addr:housenumber":"402",
+    "addr:postcode":"08805",
+    "addr:street":"E High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528429,40.563304,-74.528429,40.563304",
     "geom:latitude":40.563304,
     "geom:longitude":-74.528429,
@@ -24,7 +29,14 @@
     "sg:postcode":"08805",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UQWPHSotW2wuFU6QRtcGh_40.563304_-74.528429@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461280509,
     "wof:geomhash":"c823f78eef2581f4f0d18be39a3c36e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":638812839
+        }
+    ],
     "wof:id":638812839,
-    "wof:lastmodified":1466687241,
+    "wof:lastmodified":1492042960,
     "wof:name":"Boundbrook Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

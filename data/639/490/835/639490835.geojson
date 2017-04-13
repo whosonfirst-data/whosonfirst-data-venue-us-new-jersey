@@ -2,9 +2,14 @@
   "id": 639490835,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Birch Trl Andover NJ 07821",
+    "addr:housenumber":"8",
+    "addr:postcode":"07821",
+    "addr:street":"Birch Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.757632,40.94605,-74.757632,40.94605",
     "geom:latitude":40.94605,
     "geom:longitude":-74.757632,
@@ -27,7 +32,13 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XgaD3iTWoZDBSdKHW9DcT_40.946050_-74.757632@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297058,
     "wof:geomhash":"12c3215a693298852f9aa49b99c6636b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":639490835
+        }
+    ],
     "wof:id":639490835,
-    "wof:lastmodified":1466694525,
+    "wof:lastmodified":1492049458,
     "wof:name":"A American Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

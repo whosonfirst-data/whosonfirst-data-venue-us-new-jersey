@@ -2,9 +2,14 @@
   "id": 655481635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Suffolk Ln Princeton Jct NJ 08550",
+    "addr:housenumber":"1",
+    "addr:postcode":"08550",
+    "addr:street":"Suffolk Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.614132,40.31539,-74.614132,40.31539",
     "geom:latitude":40.31539,
     "geom:longitude":-74.614132,
@@ -29,7 +34,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VCUD6LNyCQQzNEBpNuJCu_40.315390_-74.614132@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461308073,
     "wof:geomhash":"237a812a60c643401e7f2def93938405",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655481635
+        }
+    ],
     "wof:id":655481635,
-    "wof:lastmodified":1466677721,
+    "wof:lastmodified":1492021491,
     "wof:name":"Forms Specialist Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

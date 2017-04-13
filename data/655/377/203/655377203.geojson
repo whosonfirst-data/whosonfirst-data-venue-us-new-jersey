@@ -2,9 +2,14 @@
   "id": 655377203,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Willowbrook Blvd Wayne NJ 07470",
+    "addr:housenumber":"1",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248547,40.889894,-74.248547,40.889894",
     "geom:latitude":40.889894,
     "geom:longitude":-74.248547,
@@ -28,7 +33,13 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QBvjYu3BH8cc4q0XJ4bSo_40.889894_-74.248547@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303706,
     "wof:geomhash":"3f47cfe78ee857c24f72d6262ced6296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655377203
+        }
+    ],
     "wof:id":655377203,
-    "wof:lastmodified":1466674777,
+    "wof:lastmodified":1492056086,
     "wof:name":"T-Mobile Willowbrook Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

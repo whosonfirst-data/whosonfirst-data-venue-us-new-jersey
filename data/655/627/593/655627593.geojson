@@ -2,9 +2,14 @@
   "id": 655627593,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Airport Rd Lakewood NJ 08701",
+    "addr:housenumber":"999",
+    "addr:postcode":"08701",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179943,40.058648,-74.179943,40.058648",
     "geom:latitude":40.058648,
     "geom:longitude":-74.179943,
@@ -28,7 +33,10 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45oA3lhn73jnYY0Ila8dwC_40.058648_-74.179943@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314224,
     "wof:geomhash":"8853bda9e777fb4687a84cdd1ebf3798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655627593
+        }
+    ],
     "wof:id":655627593,
-    "wof:lastmodified":1466682141,
+    "wof:lastmodified":1492042989,
     "wof:name":"Environmental Remediation&",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

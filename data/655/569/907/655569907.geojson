@@ -2,9 +2,14 @@
   "id": 655569907,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Varsity Ave Princeton NJ 08540",
+    "addr:housenumber":"201",
+    "addr:postcode":"08540",
+    "addr:street":"Varsity Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.635537,40.327805,-74.635537,40.327805",
     "geom:latitude":40.327805,
     "geom:longitude":-74.635537,
@@ -24,7 +29,14 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OJHEW2Ls4Inycmhuioa3c_40.327805_-74.635537@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311706,
     "wof:geomhash":"b2504f7f9a6c250512e57173241e20ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":655569907
+        }
+    ],
     "wof:id":655569907,
-    "wof:lastmodified":1466680187,
+    "wof:lastmodified":1492021005,
     "wof:name":"T P Moeller PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

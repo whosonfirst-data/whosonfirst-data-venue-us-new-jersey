@@ -2,9 +2,14 @@
   "id": 639463331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2343 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"2343",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277091,40.623603,-74.277091,40.623603",
     "geom:latitude":40.623603,
     "geom:longitude":-74.277091,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66l13WLIPHwgANxPrb4UT9_40.623603_-74.277091@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295935,
     "wof:geomhash":"1985c05cd0a7c417baff7614d86b6181",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639463331
+        }
+    ],
     "wof:id":639463331,
-    "wof:lastmodified":1466693863,
+    "wof:lastmodified":1492074590,
     "wof:name":"CTVS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655537747,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Fern St Fair Lawn NJ 07410",
+    "addr:housenumber":"18",
+    "addr:postcode":"07410",
+    "addr:street":"Fern St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135785,40.944452,-74.135785,40.944452",
     "geom:latitude":40.944452,
     "geom:longitude":-74.135785,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ox3fRa153AqO6RVYkjMmU_40.944452_-74.135785@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310341,
     "wof:geomhash":"53690da6d813f98cd269b7c5d5b7e40d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":655537747
+        }
+    ],
     "wof:id":655537747,
-    "wof:lastmodified":1466679267,
+    "wof:lastmodified":1492047644,
     "wof:name":"M Bergen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

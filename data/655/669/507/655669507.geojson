@@ -2,9 +2,14 @@
   "id": 655669507,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Sarepta Rd Belvidere NJ 07823",
+    "addr:housenumber":"178",
+    "addr:postcode":"07823",
+    "addr:street":"Sarepta Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028572,40.856579,-75.028572,40.856579",
     "geom:latitude":40.856579,
     "geom:longitude":-75.028572,
@@ -31,7 +36,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JgquZ0p7qOvUZRgIBPcMY_40.857023_-75.027871@1293134755"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461315974,
     "wof:geomhash":"154a358cd597c989e6004c768d91ee7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527779,
+            "venue_id":655669507
+        }
+    ],
     "wof:id":655669507,
-    "wof:lastmodified":1466683508,
+    "wof:lastmodified":1492048112,
     "wof:name":"Matrix Orthotic Lab",
     "wof:parent_id":420527779,
     "wof:placetype":"venue",

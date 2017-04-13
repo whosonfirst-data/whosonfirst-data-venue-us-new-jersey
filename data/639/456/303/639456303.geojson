@@ -2,9 +2,14 @@
   "id": 639456303,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Sheffield Ave Monroe Twp NJ 08831",
+    "addr:housenumber":"5",
+    "addr:postcode":"08831",
+    "addr:street":"Sheffield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.380353,40.37019,-74.380353,40.37019",
     "geom:latitude":40.37019,
     "geom:longitude":-74.380353,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85851979,
-        102087417
+        85850507,
+        102087417,
+        85851979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102087417,
+            "neighbourhood_id":85850507,
+            "region_id":85688607,
+            "venue_id":639456303
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
             "neighbourhood_id":85851979,
             "region_id":85688607,
             "venue_id":639456303
         }
     ],
     "wof:id":639456303,
-    "wof:lastmodified":1466693526,
+    "wof:lastmodified":1492042566,
     "wof:name":"Andy's Barber Shop",
-    "wof:parent_id":85851979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

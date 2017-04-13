@@ -2,9 +2,14 @@
   "id": 639115941,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Everitt Rd Ringoes NJ 08551",
+    "addr:housenumber":"18",
+    "addr:postcode":"08551",
+    "addr:street":"Everitt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.834304,40.470667,-74.834304,40.470667",
     "geom:latitude":40.470667,
     "geom:longitude":-74.834304,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85812239,
-        102085997
+        85843949,
+        102085997,
+        85812239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085997,
+            "neighbourhood_id":85843949,
+            "region_id":85688607,
+            "venue_id":639115941
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
             "neighbourhood_id":85812239,
             "region_id":85688607,
             "venue_id":639115941
         }
     ],
     "wof:id":639115941,
-    "wof:lastmodified":1466676500,
+    "wof:lastmodified":1492030598,
     "wof:name":"Ryan Homes",
-    "wof:parent_id":85812239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639216147,
   "type": "Feature",
   "properties": {
+    "addr:full":"482 Ridgewood Rd Maplewood NJ 07040",
+    "addr:housenumber":"482",
+    "addr:postcode":"07040",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277479,40.7372,-74.277479,40.7372",
     "geom:latitude":40.7372,
     "geom:longitude":-74.277479,
@@ -31,9 +36,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85892401,
+        85892403,
         102085043,
-        85892403
+        85892401,
+        85892407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +52,13 @@
         {
             "country_id":85633793,
             "county_id":102085043,
+            "neighbourhood_id":85892403,
+            "region_id":85688607,
+            "venue_id":639216147
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085043,
             "neighbourhood_id":85892401,
             "region_id":85688607,
             "venue_id":639216147
@@ -53,15 +66,15 @@
         {
             "country_id":85633793,
             "county_id":102085043,
-            "neighbourhood_id":85892403,
+            "neighbourhood_id":85892407,
             "region_id":85688607,
             "venue_id":639216147
         }
     ],
     "wof:id":639216147,
-    "wof:lastmodified":1466689453,
+    "wof:lastmodified":1492030459,
     "wof:name":"Koch Conservation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

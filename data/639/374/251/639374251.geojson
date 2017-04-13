@@ -2,9 +2,14 @@
   "id": 639374251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1272 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1272",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240703,40.724714,-74.240703,40.724714",
     "geom:latitude":40.724714,
     "geom:longitude":-74.240703,
@@ -27,7 +32,10 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aXH90P8TAVsMOtU4g1ngX_40.724714_-74.240703@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461293514,
     "wof:geomhash":"56ee43679b9102f392385eb2fbb173a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639374251
+        }
+    ],
     "wof:id":639374251,
-    "wof:lastmodified":1466692671,
+    "wof:lastmodified":1492048819,
     "wof:name":"Marlo Travel Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

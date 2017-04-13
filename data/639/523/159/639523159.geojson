@@ -2,9 +2,14 @@
   "id": 639523159,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Poplar Ct Princeton Jct NJ 08550",
+    "addr:housenumber":"10",
+    "addr:postcode":"08550",
+    "addr:street":"Poplar Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.628546,40.28444,-74.628546,40.28444",
     "geom:latitude":40.28444,
     "geom:longitude":-74.628546,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j5v8i9Zacjr2hRkTSxTgF_40.284440_-74.628546@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298464,
     "wof:geomhash":"4e78be5dbdefb3adca13cfed0e2fd931",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":639523159
+        }
+    ],
     "wof:id":639523159,
-    "wof:lastmodified":1466695170,
+    "wof:lastmodified":1492039448,
     "wof:name":"RCR",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

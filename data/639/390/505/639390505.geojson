@@ -2,9 +2,14 @@
   "id": 639390505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1484 US Hwy 206 Tabernacle NJ 08088",
+    "addr:housenumber":"1484",
+    "addr:postcode":"08088",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735109,39.844238,-74.735109,39.844238",
     "geom:latitude":39.844238,
     "geom:longitude":-74.735109,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.fmsbank.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585,
+        85688607,
+        85839773,
+        102087415,
+        85806961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iReIDwHw8zKHHBIQJPlPe_39.844238_-74.735109@1294171694"
@@ -33,11 +45,31 @@
     "wof:country":"US",
     "wof:created":1461293862,
     "wof:geomhash":"2d3092c06e808f05a5d6ebcfb629d48a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":639390505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85839773,
+            "region_id":85688607,
+            "venue_id":639390505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85806961,
+            "region_id":85688607,
+            "venue_id":639390505
+        }
+    ],
     "wof:id":639390505,
-    "wof:lastmodified":1466692916,
+    "wof:lastmodified":1492059960,
     "wof:name":"Farmers & Mechanics Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

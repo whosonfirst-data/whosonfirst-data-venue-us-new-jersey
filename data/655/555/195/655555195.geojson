@@ -2,9 +2,14 @@
   "id": 655555195,
   "type": "Feature",
   "properties": {
+    "addr:full":"7427 Harvey Ave Merchantville NJ 08109",
+    "addr:housenumber":"7427",
+    "addr:postcode":"08109",
+    "addr:street":"Harvey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.038169,39.964,-75.038169,39.964",
     "geom:latitude":39.964,
     "geom:longitude":-75.038169,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ILNWCzQWEfFdERslck20s_39.964000_-75.038169@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311036,
     "wof:geomhash":"34e53d17629dbf43329b920f8d97167e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655555195
+        }
+    ],
     "wof:id":655555195,
-    "wof:lastmodified":1466679539,
+    "wof:lastmodified":1492068332,
     "wof:name":"John Korinthios Remodeling",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

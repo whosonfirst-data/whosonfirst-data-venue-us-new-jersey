@@ -2,9 +2,14 @@
   "id": 655379759,
   "type": "Feature",
   "properties": {
+    "addr:full":"777 Corporate Dr Mahwah NJ 07430",
+    "addr:housenumber":"777",
+    "addr:postcode":"07430",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.158926,41.082227,-74.158926,41.082227",
     "geom:latitude":41.082227,
     "geom:longitude":-74.158926,
@@ -38,7 +43,13 @@
     ],
     "sg:website":"www.telecom-support.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MkPA6zDjpIttYuMc0dyor_41.082227_-74.158926@1294171694"
@@ -46,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1461303798,
     "wof:geomhash":"341fcf184271a34c1575be95c9ff81ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655379759
+        }
+    ],
     "wof:id":655379759,
-    "wof:lastmodified":1466675079,
+    "wof:lastmodified":1492037507,
     "wof:name":"Telecom Support Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

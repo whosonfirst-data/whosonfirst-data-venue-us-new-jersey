@@ -2,9 +2,14 @@
   "id": 639500203,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Sandra Pl Brick NJ 08724",
+    "addr:housenumber":"417",
+    "addr:postcode":"08724",
+    "addr:street":"Sandra Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149459,40.091723,-74.149459,40.091723",
     "geom:latitude":40.091723,
     "geom:longitude":-74.149459,
@@ -27,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_244a4GbL3zjNAIBpgcj1xQ_40.091723_-74.149459@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297419,
     "wof:geomhash":"cc72b792788e786c480d6196b17893f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639500203
+        }
+    ],
     "wof:id":639500203,
-    "wof:lastmodified":1466694689,
+    "wof:lastmodified":1492042709,
     "wof:name":"Gabrie",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

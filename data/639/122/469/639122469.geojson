@@ -2,9 +2,14 @@
   "id": 639122469,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 Madison Ave Elizabeth NJ 07201",
+    "addr:housenumber":"960",
+    "addr:postcode":"07201",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.201047,40.682588,-74.201047,40.682588",
     "geom:latitude":40.682588,
     "geom:longitude":-74.201047,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cl37wV95rBkglKHE690fN_40.682588_-74.201047@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287888,
     "wof:geomhash":"73bf6edb56a82be9cd730396ad9e76c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":639122469
+        }
+    ],
     "wof:id":639122469,
-    "wof:lastmodified":1466677401,
+    "wof:lastmodified":1492047102,
     "wof:name":"Elimike Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

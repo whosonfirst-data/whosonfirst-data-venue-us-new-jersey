@@ -2,9 +2,14 @@
   "id": 639509887,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Heather Hills Dr Oak Ridge NJ 07438",
+    "addr:housenumber":"23",
+    "addr:postcode":"07438",
+    "addr:street":"Heather Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.490175,41.033735,-74.490175,41.033735",
     "geom:latitude":41.033735,
     "geom:longitude":-74.490175,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LYIe4nNY0YxoWcVV7tQOs_41.033735_-74.490175@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297846,
     "wof:geomhash":"ce22443eecb2fb479cda00221e2d0964",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527329,
+            "venue_id":639509887
+        }
+    ],
     "wof:id":639509887,
-    "wof:lastmodified":1466694949,
+    "wof:lastmodified":1492076673,
     "wof:name":"J & S Siding",
     "wof:parent_id":420527329,
     "wof:placetype":"venue",

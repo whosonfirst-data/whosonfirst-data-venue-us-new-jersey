@@ -2,9 +2,14 @@
   "id": 639347809,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 Hyde Park Rd Somerset NJ 08873",
+    "addr:housenumber":"249",
+    "addr:postcode":"08873",
+    "addr:street":"Hyde Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.516213,40.522243,-74.516213,40.522243",
     "geom:latitude":40.522243,
     "geom:longitude":-74.516213,
@@ -28,7 +33,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ymdLjTY8i06Q7C64hQbXc_40.522243_-74.516213@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292975,
     "wof:geomhash":"ed0600817b9bd1591c73ff91353ab0d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639347809
+        }
+    ],
     "wof:id":639347809,
-    "wof:lastmodified":1466692456,
+    "wof:lastmodified":1492069475,
     "wof:name":"AZ System Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

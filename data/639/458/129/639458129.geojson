@@ -2,9 +2,14 @@
   "id": 639458129,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Chatham Ct Cranbury NJ 08520",
+    "addr:housenumber":"82",
+    "addr:postcode":"08520",
+    "addr:street":"Chatham Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.543443,40.263657,-74.543443,40.263657",
     "geom:latitude":40.263657,
     "geom:longitude":-74.543443,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51Sf7ovn6zauoSPedC4KAG_40.263657_-74.543443@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295730,
     "wof:geomhash":"740ab236d1a3c79decedabc729ceba45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639458129
+        }
+    ],
     "wof:id":639458129,
-    "wof:lastmodified":1466693798,
+    "wof:lastmodified":1492023420,
     "wof:name":"East Coast Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655812119,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 Waterford Rd Hammonton NJ 08037",
+    "addr:housenumber":"299",
+    "addr:postcode":"08037",
+    "addr:street":"Waterford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.857566,39.714433,-74.857566,39.714433",
     "geom:latitude":39.714433,
     "geom:longitude":-74.857566,
@@ -27,7 +32,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w47q2Jbq31cS0zBPBNxYq_39.714433_-74.857566@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321907,
     "wof:geomhash":"08758b30b2a4e0129ee6140cb0dc8cc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526735,
+            "venue_id":655812119
+        }
+    ],
     "wof:id":655812119,
-    "wof:lastmodified":1466687095,
+    "wof:lastmodified":1492040552,
     "wof:name":"Long Haul Brokerage",
     "wof:parent_id":420526735,
     "wof:placetype":"venue",

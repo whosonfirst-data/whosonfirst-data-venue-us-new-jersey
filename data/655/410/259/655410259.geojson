@@ -2,9 +2,14 @@
   "id": 655410259,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Summit Dr Vincentown NJ 08088",
+    "addr:housenumber":"77",
+    "addr:postcode":"08088",
+    "addr:street":"Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750527,39.856725,-74.750527,39.856725",
     "geom:latitude":39.856725,
     "geom:longitude":-74.750527,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3odT3eAoMfHhaRF3HvrdII_39.856725_-74.750527@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305063,
     "wof:geomhash":"ba1d6e3b8f94b5eb875bf73c44aa3a7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":655410259
+        }
+    ],
     "wof:id":655410259,
-    "wof:lastmodified":1466675774,
+    "wof:lastmodified":1492027929,
     "wof:name":"Alliances Trading Company",
     "wof:parent_id":420526585,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638755779,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"278",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987973,40.811131,-73.987973,40.811131",
     "geom:latitude":40.811131,
     "geom:longitude":-73.987973,
@@ -27,7 +32,14 @@
         "brush"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q3SjUMLBrz8kyAr3LGSrW_40.811131_-73.987973@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279163,
     "wof:geomhash":"b4f52c67f60ba83c18f89b2ce2423e2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":638755779
+        }
+    ],
     "wof:id":638755779,
-    "wof:lastmodified":1466678935,
+    "wof:lastmodified":1492062392,
     "wof:name":"C & K Gugenheimer Brush Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

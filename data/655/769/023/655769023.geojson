@@ -2,9 +2,14 @@
   "id": 655769023,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Village Pl Wyckoff NJ 07481",
+    "addr:housenumber":"307",
+    "addr:postcode":"07481",
+    "addr:street":"Village Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167406,41.00509,-74.167406,41.00509",
     "geom:latitude":41.00509,
     "geom:longitude":-74.167406,
@@ -32,7 +37,10 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52MVj2cWqR8nhngSkkY5k8_41.005090_-74.167406@1303262265"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461320038,
     "wof:geomhash":"cd0cd87907cb63d66b20d436d255e625",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":655769023
+        }
+    ],
     "wof:id":655769023,
-    "wof:lastmodified":1466685998,
+    "wof:lastmodified":1492058290,
     "wof:name":"Follow Leader Dog Training",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

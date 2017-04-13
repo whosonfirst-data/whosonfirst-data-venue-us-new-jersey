@@ -2,9 +2,14 @@
   "id": 655695147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Park Ave South Plainfield NJ 07080",
+    "addr:housenumber":"2000",
+    "addr:postcode":"07080",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.400463,40.595783,-74.400463,40.595783",
     "geom:latitude":40.595783,
     "geom:longitude":-74.400463,
@@ -29,7 +34,14 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478213,
+        85633793,
+        85975729,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f8EIhB5zk5xWfPyIQ1wdv_40.595261_-74.400137@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461317091,
     "wof:geomhash":"f28dfda74ac647097a2f08c10fa8fcef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "region_id":85688607,
+            "venue_id":655695147
+        }
+    ],
     "wof:id":655695147,
-    "wof:lastmodified":1466684070,
+    "wof:lastmodified":1492024270,
     "wof:name":"China Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

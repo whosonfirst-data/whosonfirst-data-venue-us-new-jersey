@@ -2,9 +2,14 @@
   "id": 639577419,
   "type": "Feature",
   "properties": {
+    "addr:full":"496 Matawan Ave Keyport NJ 07735",
+    "addr:housenumber":"496",
+    "addr:postcode":"07735",
+    "addr:street":"Matawan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229483,40.432063,-74.229483,40.432063",
     "geom:latitude":40.432063,
     "geom:longitude":-74.229483,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TGfs4LaCUgMlv1Gd1X4fc_40.432063_-74.229483@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300800,
     "wof:geomhash":"b6c6f90a7c4783720bcf53785743bbae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":639577419
+        }
+    ],
     "wof:id":639577419,
-    "wof:lastmodified":1466696415,
+    "wof:lastmodified":1492049732,
     "wof:name":"Extreme Air Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639420807,
   "type": "Feature",
   "properties": {
+    "addr:full":"371 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"371",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191967,40.686128,-75.191967,40.686128",
     "geom:latitude":40.686128,
     "geom:longitude":-75.191967,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.auntedna.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dPSKMGe8iRL5Ucb2corEp_40.686128_-75.191967@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294731,
     "wof:geomhash":"3267ab6231ae8819d843f1e1e89a5ad6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639420807
+        }
+    ],
     "wof:id":639420807,
-    "wof:lastmodified":1466693193,
+    "wof:lastmodified":1492053532,
     "wof:name":"Ryan's Park Side Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

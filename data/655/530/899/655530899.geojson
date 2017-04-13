@@ -2,9 +2,14 @@
   "id": 655530899,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Brookhill Pl Little Falls NJ 07424",
+    "addr:housenumber":"5",
+    "addr:postcode":"07424",
+    "addr:street":"Brookhill Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.224816,40.872811,-74.224816,40.872811",
     "geom:latitude":40.872811,
     "geom:longitude":-74.224816,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d60t1TMgv9VnmMGFnWSaS_40.872811_-74.224816@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310083,
     "wof:geomhash":"14562a7a8a98164c85c560167076b785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655530899
+        }
+    ],
     "wof:id":655530899,
-    "wof:lastmodified":1466679121,
+    "wof:lastmodified":1492047312,
     "wof:name":"Murray Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

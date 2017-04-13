@@ -2,9 +2,14 @@
   "id": 655529731,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Knowlton St Belvidere NJ 07823",
+    "addr:housenumber":"320",
+    "addr:postcode":"07823",
+    "addr:street":"Knowlton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.073548,40.825362,-75.073548,40.825362",
     "geom:latitude":40.825362,
     "geom:longitude":-75.073548,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54c8EvtqjAAA1DMxlbgu3y_40.825362_-75.073548@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310033,
     "wof:geomhash":"cfaf0164e470eb28980e85c6818dbf89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655529731
+        }
+    ],
     "wof:id":655529731,
-    "wof:lastmodified":1466679074,
+    "wof:lastmodified":1492048104,
     "wof:name":"Alliance Church The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

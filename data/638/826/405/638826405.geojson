@@ -2,9 +2,14 @@
   "id": 638826405,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 New Hampshire Ave Lakewood NJ 08701",
+    "addr:housenumber":"611",
+    "addr:postcode":"08701",
+    "addr:street":"New Hampshire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.190108,40.067417,-74.190108,40.067417",
     "geom:latitude":40.067417,
     "geom:longitude":-74.190108,
@@ -27,7 +32,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ye6eciUnn05pQvqTkMSaB_40.067417_-74.190108@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280898,
     "wof:geomhash":"43e2698cfbb75ff8bd09d3a661398b17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":638826405
+        }
+    ],
     "wof:id":638826405,
-    "wof:lastmodified":1466689255,
+    "wof:lastmodified":1492056571,
     "wof:name":"Waste Management",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

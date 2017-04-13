@@ -2,9 +2,14 @@
   "id": 639241295,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 State Rte 72 Vincentown NJ 08088",
+    "addr:housenumber":"38",
+    "addr:postcode":"08088",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.588106,39.894974,-74.588106,39.894974",
     "geom:latitude":39.894974,
     "geom:longitude":-74.588106,
@@ -24,7 +29,11 @@
     "sg:postcode":"08088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526715,
+        420526717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vSJzbPtShe6Wl0rBkh0SP_39.894974_-74.588106@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461290636,
     "wof:geomhash":"3ee210256a61c9b3f89361dfea5720ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526715,
+            "venue_id":639241295
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526717,
+            "venue_id":639241295
+        }
+    ],
     "wof:id":639241295,
-    "wof:lastmodified":1466690260,
+    "wof:lastmodified":1492030769,
     "wof:name":"Romanza Pizza & Pasta",
-    "wof:parent_id":420526715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

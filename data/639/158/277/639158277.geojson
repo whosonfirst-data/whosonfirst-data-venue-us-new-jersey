@@ -2,9 +2,14 @@
   "id": 639158277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Nature Blvd Jackson NJ 08527",
+    "addr:housenumber":"1",
+    "addr:postcode":"08527",
+    "addr:street":"Nature Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268591,40.114657,-74.268591,40.114657",
     "geom:latitude":40.114657,
     "geom:longitude":-74.268591,
@@ -34,7 +39,12 @@
     ],
     "sg:website":"www.60acre.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85805747,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EsnTrKGLjHYLsFsJyciro_40.114657_-74.268591@1294171694"
@@ -42,11 +52,19 @@
     "wof:country":"US",
     "wof:created":1461288717,
     "wof:geomhash":"697c42041e33b0f8c787c506adb35823",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85805747,
+            "region_id":85688607,
+            "venue_id":639158277
+        }
+    ],
     "wof:id":639158277,
-    "wof:lastmodified":1466682712,
+    "wof:lastmodified":1492080210,
     "wof:name":"60 Acre Reserve Condo Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

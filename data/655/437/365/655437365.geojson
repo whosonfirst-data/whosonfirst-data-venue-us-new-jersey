@@ -2,9 +2,14 @@
   "id": 655437365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1346 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1346",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263976,40.701896,-74.263976,40.701896",
     "geom:latitude":40.701896,
     "geom:longitude":-74.263976,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vM4IigXM5Srbr41VTXSkN_40.701896_-74.263976@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306194,
     "wof:geomhash":"469bbd2eed887d9efe770fd5e4c9aaab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655437365
+        }
+    ],
     "wof:id":655437365,
-    "wof:lastmodified":1466676424,
+    "wof:lastmodified":1492039838,
     "wof:name":"Lube Shop",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

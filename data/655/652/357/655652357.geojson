@@ -2,9 +2,14 @@
   "id": 655652357,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 US Hwy 46 Columbia NJ 07832",
+    "addr:housenumber":"32",
+    "addr:postcode":"07832",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.047649,40.863782,-75.047649,40.863782",
     "geom:latitude":40.863782,
     "geom:longitude":-75.047649,
@@ -27,7 +32,13 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478431,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LDPcgRx9ZW6c3qmvVgD6G_40.863782_-75.047649@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461315275,
     "wof:geomhash":"93bfea3c13dc0bf8736da55d93ff7163",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478431,
+            "region_id":85688607,
+            "venue_id":655652357
+        }
+    ],
     "wof:id":655652357,
-    "wof:lastmodified":1466682868,
+    "wof:lastmodified":1492048110,
     "wof:name":"Creative Entertainment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

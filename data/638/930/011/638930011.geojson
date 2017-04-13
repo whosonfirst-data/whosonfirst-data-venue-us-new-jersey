@@ -2,9 +2,14 @@
   "id": 638930011,
   "type": "Feature",
   "properties": {
+    "addr:full":"8290 National Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"8290",
+    "addr:postcode":"08110",
+    "addr:street":"National Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033744,39.981815,-75.033744,39.981815",
     "geom:latitude":39.981815,
     "geom:longitude":-75.033744,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55ozLB60mOvCHBvwsQs9jZ_39.981815_-75.033744@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283512,
     "wof:geomhash":"ebbd4dff8cb07788b8c7823fc70b996d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638930011
+        }
+    ],
     "wof:id":638930011,
-    "wof:lastmodified":1466690872,
+    "wof:lastmodified":1492053765,
     "wof:name":"Hartt Transportation Systems",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639543811,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Orchard Meadows Dr Union NJ 07083",
+    "addr:housenumber":"502",
+    "addr:postcode":"07083",
+    "addr:street":"Orchard Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248325,40.71087,-74.248325,40.71087",
     "geom:latitude":40.71087,
     "geom:longitude":-74.248325,
@@ -27,7 +32,10 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7esg3SQBklF8X3wPyI71EQ_40.710870_-74.248325@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299488,
     "wof:geomhash":"ed7a5e2f61c0768a00e47826658311fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639543811
+        }
+    ],
     "wof:id":639543811,
-    "wof:lastmodified":1466695721,
+    "wof:lastmodified":1492076687,
     "wof:name":"Skyline P C S Communications",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

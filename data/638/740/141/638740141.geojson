@@ -2,9 +2,14 @@
   "id": 638740141,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 High St Closter NJ 07624",
+    "addr:housenumber":"220",
+    "addr:postcode":"07624",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.969752,40.975259,-73.969752,40.975259",
     "geom:latitude":40.975259,
     "geom:longitude":-73.969752,
@@ -27,7 +32,14 @@
         "typing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78FlAvXejIpVqK2XWb4C7i_40.975259_-73.969752@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278734,
     "wof:geomhash":"9c258372fc8759d7ed1b01a9ff05c5fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638740141
+        }
+    ],
     "wof:id":638740141,
-    "wof:lastmodified":1466676862,
+    "wof:lastmodified":1492062272,
     "wof:name":"Professional Typing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

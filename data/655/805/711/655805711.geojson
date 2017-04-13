@@ -2,9 +2,14 @@
   "id": 655805711,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Delanco Rd Beverly NJ 08010",
+    "addr:housenumber":"300",
+    "addr:postcode":"08010",
+    "addr:street":"Delanco Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.911903,40.045101,-74.911903,40.045101",
     "geom:latitude":40.045101,
     "geom:longitude":-74.911903,
@@ -27,7 +32,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UZso2DkUPAMEF8B9VVtvb_40.045101_-74.911903@1303262274"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321593,
     "wof:geomhash":"6214161bc104fef0df2799c4a82e28ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655805711
+        }
+    ],
     "wof:id":655805711,
-    "wof:lastmodified":1466687192,
+    "wof:lastmodified":1492049200,
     "wof:name":"Edgewater Park Township of",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

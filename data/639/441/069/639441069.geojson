@@ -2,9 +2,14 @@
   "id": 639441069,
   "type": "Feature",
   "properties": {
+    "addr:full":"781 Somerset St Somerset NJ 08873",
+    "addr:housenumber":"781",
+    "addr:postcode":"08873",
+    "addr:street":"Somerset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.479172,40.483686,-74.479172,40.483686",
     "geom:latitude":40.483686,
     "geom:longitude":-74.479172,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_019p4SfrzQl0MeG3L0UZSd_40.483686_-74.479172@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295134,
     "wof:geomhash":"dd69b00d679c852203d1c12c84b5b119",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639441069
+        }
+    ],
     "wof:id":639441069,
-    "wof:lastmodified":1466693509,
+    "wof:lastmodified":1492040978,
     "wof:name":"Picken Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

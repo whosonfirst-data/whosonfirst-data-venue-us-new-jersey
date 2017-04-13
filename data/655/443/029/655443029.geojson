@@ -2,9 +2,14 @@
   "id": 655443029,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Zion Rd Hillsborough NJ 08844",
+    "addr:housenumber":"203",
+    "addr:postcode":"08844",
+    "addr:street":"Zion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718899,40.494371,-74.718899,40.494371",
     "geom:latitude":40.494371,
     "geom:longitude":-74.718899,
@@ -28,7 +33,13 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621,
+        85688607,
+        85842149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U2Af7tBdX74Qnv5SIPdeO_40.494371_-74.718899@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461306397,
     "wof:geomhash":"0ef893c7947fd720f5c02e7ff9a71dcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":655443029
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85842149,
+            "region_id":85688607,
+            "venue_id":655443029
+        }
+    ],
     "wof:id":655443029,
-    "wof:lastmodified":1466676518,
+    "wof:lastmodified":1492070327,
     "wof:name":"Douglas Home Improvements",
-    "wof:parent_id":420527621,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

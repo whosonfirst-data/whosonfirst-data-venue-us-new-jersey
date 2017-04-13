@@ -2,9 +2,14 @@
   "id": 638790087,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 Federal St Camden NJ 08105",
+    "addr:housenumber":"3404",
+    "addr:postcode":"08105",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.073539,39.947766,-75.073539,39.947766",
     "geom:latitude":39.947766,
     "geom:longitude":-75.073539,
@@ -24,7 +29,17 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607,
+        420526785,
+        404477989,
+        85975673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x2unWF84a2rKjjwnzR7YM_39.947766_-75.073539@1294171694"
@@ -32,11 +47,31 @@
     "wof:country":"US",
     "wof:created":1461280022,
     "wof:geomhash":"ff24da1922a1f6cb9530469224850fa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638790087
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":638790087
+        }
+    ],
     "wof:id":638790087,
-    "wof:lastmodified":1466684306,
+    "wof:lastmodified":1492052214,
     "wof:name":"Khmer Kampuchea Krom Assn NJ",
-    "wof:parent_id":420526785,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

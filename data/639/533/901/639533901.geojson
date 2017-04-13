@@ -2,9 +2,14 @@
   "id": 639533901,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 N Longview Rd Howell NJ 07731",
+    "addr:housenumber":"15",
+    "addr:postcode":"07731",
+    "addr:street":"N Longview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223795,40.149579,-74.223795,40.149579",
     "geom:latitude":40.149579,
     "geom:longitude":-74.223795,
@@ -27,7 +32,10 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iZ4HOpQBm0vWeG8gXF0cT_40.149579_-74.223795@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299013,
     "wof:geomhash":"355aff0e53982261027abe421086621d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527251,
+            "venue_id":639533901
+        }
+    ],
     "wof:id":639533901,
-    "wof:lastmodified":1466695577,
+    "wof:lastmodified":1492049930,
     "wof:name":"Lawyers Internet Guide",
     "wof:parent_id":420527251,
     "wof:placetype":"venue",

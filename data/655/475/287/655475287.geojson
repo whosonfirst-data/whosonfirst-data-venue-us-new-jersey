@@ -2,9 +2,14 @@
   "id": 655475287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1006 Main St Belmar NJ 07719",
+    "addr:housenumber":"1006",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025634,40.179294,-74.025634,40.179294",
     "geom:latitude":40.179294,
     "geom:longitude":-74.025634,
@@ -24,7 +29,14 @@
     "sg:postcode":"07719",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07b8WlZEUfI0ncoRCEId6z_40.179294_-74.025634@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461307803,
     "wof:geomhash":"9663c575c793441129a31ec2f8e0fee1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655475287
+        }
+    ],
     "wof:id":655475287,
-    "wof:lastmodified":1466677377,
+    "wof:lastmodified":1492053242,
     "wof:name":"Lavender Moon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

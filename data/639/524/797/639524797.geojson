@@ -2,9 +2,14 @@
   "id": 639524797,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Broadway Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"200",
+    "addr:postcode":"08742",
+    "addr:street":"Broadway Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.042434,40.100525,-74.042434,40.100525",
     "geom:latitude":40.100525,
     "geom:longitude":-74.042434,
@@ -35,7 +40,14 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QlceW1rnfJ509JontvIRd_40.100525_-74.042434@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461298549,
     "wof:geomhash":"005a02f7893ee4ed46fc62cfa12ad5cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639524797
+        }
+    ],
     "wof:id":639524797,
-    "wof:lastmodified":1466695213,
+    "wof:lastmodified":1492047139,
     "wof:name":"Arbee Marketing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

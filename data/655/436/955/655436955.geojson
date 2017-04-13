@@ -2,9 +2,14 @@
   "id": 655436955,
   "type": "Feature",
   "properties": {
+    "addr:full":"3549 US Hwy 22 Branchburg NJ 08876",
+    "addr:housenumber":"3549",
+    "addr:postcode":"08876",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.728876,40.612481,-74.728876,40.612481",
     "geom:latitude":40.612481,
     "geom:longitude":-74.728876,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rspm20NAaPZQNAulbG6Kq_40.612481_-74.728876@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306180,
     "wof:geomhash":"54daae85561d9f5978fdbce10bba93ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":655436955
+        }
+    ],
     "wof:id":655436955,
-    "wof:lastmodified":1466676542,
+    "wof:lastmodified":1492055781,
     "wof:name":"X G Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

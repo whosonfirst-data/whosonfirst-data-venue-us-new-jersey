@@ -2,9 +2,14 @@
   "id": 655474911,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Amwell Rd Flemington NJ 08822",
+    "addr:housenumber":"94",
+    "addr:postcode":"08822",
+    "addr:street":"Amwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.793282,40.484307,-74.793282,40.484307",
     "geom:latitude":40.484307,
     "geom:longitude":-74.793282,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HmlZyPo27aKDsq6KdwCRY_40.484307_-74.793282@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461307787,
     "wof:geomhash":"adf6bb8ed6cea739d79541b06bfa22bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":655474911
+        }
+    ],
     "wof:id":655474911,
-    "wof:lastmodified":1466677541,
+    "wof:lastmodified":1492048130,
     "wof:name":"Barnett Healthcare Consultants",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

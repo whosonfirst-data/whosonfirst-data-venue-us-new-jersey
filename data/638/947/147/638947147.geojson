@@ -2,9 +2,14 @@
   "id": 638947147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1475 Franklin St Rahway NJ 07065",
+    "addr:housenumber":"1475",
+    "addr:postcode":"07065",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292791,40.618428,-74.292791,40.618428",
     "geom:latitude":40.618428,
     "geom:longitude":-74.292791,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uH12J7NIvYkja4a6lIu1s_40.618428_-74.292791@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283966,
     "wof:geomhash":"84bf915aa179129b6d4e32c921bdc6a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638947147
+        }
+    ],
     "wof:id":638947147,
-    "wof:lastmodified":1466691287,
+    "wof:lastmodified":1492041295,
     "wof:name":"Flower Loft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

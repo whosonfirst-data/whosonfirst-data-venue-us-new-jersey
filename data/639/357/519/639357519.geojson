@@ -2,9 +2,14 @@
   "id": 639357519,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Sunset Rd Willingboro NJ 08046",
+    "addr:housenumber":"219",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882898,40.048616,-74.882898,40.048616",
     "geom:latitude":40.048616,
     "geom:longitude":-74.882898,
@@ -34,7 +39,10 @@
         "physician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q4KBZi9V6fGn70aOcvpUM_40.048616_-74.882898@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461293181,
     "wof:geomhash":"28609157c61261022b74a8391aaac4e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639357519
+        }
+    ],
     "wof:id":639357519,
-    "wof:lastmodified":1466692479,
+    "wof:lastmodified":1492040329,
     "wof:name":"Larchmont Imaging Assoc LLC",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

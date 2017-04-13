@@ -2,9 +2,14 @@
   "id": 655636947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Robin Dr Oak Ridge NJ 07438",
+    "addr:housenumber":"1",
+    "addr:postcode":"07438",
+    "addr:street":"Robin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5189,41.042271,-74.5189,41.042271",
     "geom:latitude":41.042271,
     "geom:longitude":-74.5189,
@@ -28,7 +33,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cvMwiiaeNli4qEqZBtGAo_41.042271_-74.518900@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461314644,
     "wof:geomhash":"337eaf1d19c3287ad6d88fc33de7c017",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":655636947
+        }
+    ],
     "wof:id":655636947,
-    "wof:lastmodified":1466682451,
+    "wof:lastmodified":1492046266,
     "wof:name":"Stack Pharmaceuticals Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

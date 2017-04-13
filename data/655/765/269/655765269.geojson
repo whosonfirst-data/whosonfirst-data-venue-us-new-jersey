@@ -2,9 +2,14 @@
   "id": 655765269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 State Rt 17 Ramsey NJ 07446",
+    "addr:housenumber":"1300",
+    "addr:postcode":"07446",
+    "addr:street":"State Rt 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.13863,41.070915,-74.13863,41.070915",
     "geom:latitude":41.070915,
     "geom:longitude":-74.13863,
@@ -64,7 +69,14 @@
     ],
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VDPdWfwj76BuvXJiCxvqv_41.070915_-74.138630@1303262264"
@@ -72,9 +84,19 @@
     "wof:country":"US",
     "wof:created":1461319862,
     "wof:geomhash":"d2da06cede5de52cfe68ef4dc829c43c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655765269
+        }
+    ],
     "wof:id":655765269,
-    "wof:lastmodified":1466686044,
+    "wof:lastmodified":1492058154,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

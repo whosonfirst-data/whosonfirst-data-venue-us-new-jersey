@@ -2,9 +2,14 @@
   "id": 655648213,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 E Hill Rd Glen Gardner NJ 08826",
+    "addr:housenumber":"585",
+    "addr:postcode":"08826",
+    "addr:street":"E Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.871873,40.726472,-74.871873,40.726472",
     "geom:latitude":40.726472,
     "geom:longitude":-74.871873,
@@ -34,7 +39,15 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85831595,
+        102191575,
+        404478157,
+        85633793,
+        85975701,
+        102085997,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eNrBW3Jl5xlkHZnL4kSc4_40.726472_-74.871873@1294171694"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1461315104,
     "wof:geomhash":"152c42a60038b99f89062dc272ba78b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478157,
+            "locality_id":85975701,
+            "neighbourhood_id":85831595,
+            "region_id":85688607,
+            "venue_id":655648213
+        }
+    ],
     "wof:id":655648213,
-    "wof:lastmodified":1466682741,
+    "wof:lastmodified":1492048099,
     "wof:name":"Califon Mobile Glass Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

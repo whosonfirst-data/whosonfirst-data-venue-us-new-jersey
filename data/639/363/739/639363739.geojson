@@ -2,9 +2,14 @@
   "id": 639363739,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Elm St Butler NJ 07405",
+    "addr:housenumber":"26",
+    "addr:postcode":"07405",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.344743,40.999732,-74.344743,40.999732",
     "geom:latitude":40.999732,
     "geom:longitude":-74.344743,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HQ2idiWChQteN18ZcB9de_40.999732_-74.344743@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293310,
     "wof:geomhash":"e284cf684cd6c864c7a7afdc854d4dbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":639363739
+        }
+    ],
     "wof:id":639363739,
-    "wof:lastmodified":1466692586,
+    "wof:lastmodified":1492042435,
     "wof:name":"V F M Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

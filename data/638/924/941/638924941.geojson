@@ -2,9 +2,14 @@
   "id": 638924941,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Merlot Ct Marlton NJ 08053",
+    "addr:housenumber":"12",
+    "addr:postcode":"08053",
+    "addr:street":"Merlot Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919238,39.90831,-74.919238,39.90831",
     "geom:latitude":39.90831,
     "geom:longitude":-74.919238,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.travelhub.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7afvchLilkLoAaDF1oHkFY_39.908310_-74.919238@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283393,
     "wof:geomhash":"f7f4210e090417de5a7b8c27c95b5a5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638924941
+        }
+    ],
     "wof:id":638924941,
-    "wof:lastmodified":1466690841,
+    "wof:lastmodified":1492052219,
     "wof:name":"Travel Hub",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655687555,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Us Highway 46 Pine Brook NJ 07058",
+    "addr:housenumber":"23",
+    "addr:postcode":"07058",
+    "addr:street":"Us Highway 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.340945,40.858154,-74.340945,40.858154",
     "geom:latitude":40.858154,
     "geom:longitude":-74.340945,
@@ -30,7 +35,13 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jbftduB7R544uSd2R7Jwt_40.858154_-74.340945@1299784598"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461316760,
     "wof:geomhash":"f9b27588de41cf4490bdbe91fad33a02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":655687555
+        }
+    ],
     "wof:id":655687555,
-    "wof:lastmodified":1466684037,
+    "wof:lastmodified":1492068618,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

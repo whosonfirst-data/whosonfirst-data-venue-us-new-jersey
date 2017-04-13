@@ -2,9 +2,14 @@
   "id": 639005831,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Hawthorne Dr Clark NJ 07066",
+    "addr:housenumber":"204",
+    "addr:postcode":"07066",
+    "addr:street":"Hawthorne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.333916,40.607622,-74.333916,40.607622",
     "geom:latitude":40.607622,
     "geom:longitude":-74.333916,
@@ -30,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eMVKAzX8JUNHFBEclB6Bh_40.607622_-74.333916@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461285227,
     "wof:geomhash":"0a0d9c11308341553aadb3da7dc4da4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639005831
+        }
+    ],
     "wof:id":639005831,
-    "wof:lastmodified":1466673154,
+    "wof:lastmodified":1492041673,
     "wof:name":"D & B Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

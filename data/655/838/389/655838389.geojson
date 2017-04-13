@@ -2,9 +2,14 @@
   "id": 655838389,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 Spring Mills Rd Milford NJ 08848",
+    "addr:housenumber":"531",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077828,40.6053,-75.077828,40.6053",
     "geom:latitude":40.6053,
     "geom:longitude":-75.077828,
@@ -32,7 +37,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zOfYszTksaIMafmoifBT7_40.605300_-75.077828@1303262283"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461323004,
     "wof:geomhash":"7cc0222de057d08e87bb1f4ea4ede63a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655838389
+        }
+    ],
     "wof:id":655838389,
-    "wof:lastmodified":1466687913,
+    "wof:lastmodified":1492070335,
     "wof:name":"Walter B Melvin Aia Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

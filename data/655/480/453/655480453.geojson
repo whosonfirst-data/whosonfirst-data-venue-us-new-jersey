@@ -2,9 +2,14 @@
   "id": 655480453,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Pine Blvd Lakewood NJ 08701",
+    "addr:housenumber":"21",
+    "addr:postcode":"08701",
+    "addr:street":"Pine Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220775,40.065902,-74.220775,40.065902",
     "geom:latitude":40.065902,
     "geom:longitude":-74.220775,
@@ -28,7 +33,10 @@
         "converting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FCTjlaQgEK9emUCK9Syjn_40.065902_-74.220775@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308028,
     "wof:geomhash":"82be1c46276c270715d43001b3fe9192",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655480453
+        }
+    ],
     "wof:id":655480453,
-    "wof:lastmodified":1466677672,
+    "wof:lastmodified":1492024130,
     "wof:name":"M Associates Inc",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

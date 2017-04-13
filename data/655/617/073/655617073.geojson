@@ -2,9 +2,14 @@
   "id": 655617073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2385 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2385",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289295,40.717522,-74.289295,40.717522",
     "geom:latitude":40.717522,
     "geom:longitude":-74.289295,
@@ -27,7 +32,10 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UqmQqCLiLIH0rQJEJLVj7_40.717522_-74.289295@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461313756,
     "wof:geomhash":"9d70154a821e045d00b7ed0dc08a12bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655617073
+        }
+    ],
     "wof:id":655617073,
-    "wof:lastmodified":1466681674,
+    "wof:lastmodified":1492056784,
     "wof:name":"South Mountain Rehab Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

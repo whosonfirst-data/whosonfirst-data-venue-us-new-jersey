@@ -2,9 +2,14 @@
   "id": 639174029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1499 US Hwy 1 Rahway NJ 07065",
+    "addr:housenumber":"1499",
+    "addr:postcode":"07065",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269071,40.601729,-74.269071,40.601729",
     "geom:latitude":40.601729,
     "geom:longitude":-74.269071,
@@ -28,7 +33,14 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4USawkoc45aP3Zlw7MMUNR_40.601729_-74.269071@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289055,
     "wof:geomhash":"0574eba6c882a7a20faf440c40fb5f8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639174029
+        }
+    ],
     "wof:id":639174029,
-    "wof:lastmodified":1466685002,
+    "wof:lastmodified":1492076836,
     "wof:name":"Covanta Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

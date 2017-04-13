@@ -2,9 +2,14 @@
   "id": 655667753,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 49th St Pennsauken NJ 08110",
+    "addr:housenumber":"500",
+    "addr:postcode":"08110",
+    "addr:street":"49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.070801,39.964802,-75.070801,39.964802",
     "geom:latitude":39.964802,
     "geom:longitude":-75.070801,
@@ -29,7 +34,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33Eql85zNjKCkI6mQdcygn_39.964310_-75.070155@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315913,
     "wof:geomhash":"c9a1859aef6fb65fd9dee686b89d828a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655667753
+        }
+    ],
     "wof:id":655667753,
-    "wof:lastmodified":1466683567,
+    "wof:lastmodified":1492050446,
     "wof:name":"Mark's Automotive",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

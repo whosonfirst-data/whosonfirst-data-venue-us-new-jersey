@@ -2,9 +2,14 @@
   "id": 655538477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1603 Beverly Rd Burlington NJ 08016",
+    "addr:housenumber":"1603",
+    "addr:postcode":"08016",
+    "addr:street":"Beverly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.884103,40.06659,-74.884103,40.06659",
     "geom:latitude":40.06659,
     "geom:longitude":-74.884103,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nNNnKFUPn3TC3sQMt2Zsj_40.066590_-74.884103@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310367,
     "wof:geomhash":"b9e77335e19921934d874efced1bbdb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655538477
+        }
+    ],
     "wof:id":655538477,
-    "wof:lastmodified":1466679271,
+    "wof:lastmodified":1492025872,
     "wof:name":"A Jolly Jumps",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

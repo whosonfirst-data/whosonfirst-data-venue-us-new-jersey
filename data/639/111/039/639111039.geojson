@@ -2,9 +2,14 @@
   "id": 639111039,
   "type": "Feature",
   "properties": {
+    "addr:full":"332 Main St Whitehouse Sta NJ 08889",
+    "addr:housenumber":"332",
+    "addr:postcode":"08889",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.771128,40.614356,-74.771128,40.614356",
     "geom:latitude":40.614356,
     "geom:longitude":-74.771128,
@@ -24,7 +29,14 @@
     "sg:postcode":"08889",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        85976249,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wgXtb9boiRTkcy2onbrv4_40.614356_-74.771128@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461287585,
     "wof:geomhash":"9dbd764f57131f0533d6eae6c43f6e74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "locality_id":85976249,
+            "region_id":85688607,
+            "venue_id":639111039
+        }
+    ],
     "wof:id":639111039,
-    "wof:lastmodified":1466675813,
+    "wof:lastmodified":1492076763,
     "wof:name":"Buyers Resource-Golden Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

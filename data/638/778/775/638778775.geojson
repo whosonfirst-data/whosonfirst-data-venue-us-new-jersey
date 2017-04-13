@@ -2,9 +2,14 @@
   "id": 638778775,
   "type": "Feature",
   "properties": {
+    "addr:full":"4771 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"4771",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223645,40.132606,-74.223645,40.132606",
     "geom:latitude":40.132606,
     "geom:longitude":-74.223645,
@@ -28,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85850237,
-        102085049,
         420527425,
         102191575,
         404477773,
+        85633793,
         85976347,
-        102081485
+        102081485,
+        85688607,
+        85850237,
+        102085049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +52,6 @@
     "wof:geomhash":"eb94f10965a1755bb309c5ee765867fa",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085049,
-            "neighbourhood_id":85850237,
-            "region_id":85688607,
-            "venue_id":638778775
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -62,12 +60,19 @@
             "neighbourhood_id":420527425,
             "region_id":85688607,
             "venue_id":638778775
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85850237,
+            "region_id":85688607,
+            "venue_id":638778775
         }
     ],
     "wof:id":638778775,
-    "wof:lastmodified":1466682674,
+    "wof:lastmodified":1492069339,
     "wof:name":"Linens 'n Things",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

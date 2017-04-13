@@ -2,9 +2,14 @@
   "id": 655611071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1048 US Hwy 206 Bordentown NJ 08505",
+    "addr:housenumber":"1048",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.705649,40.12835,-74.705649,40.12835",
     "geom:latitude":40.12835,
     "geom:longitude":-74.705649,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85832203,
-        102087415
+        102087415,
+        420526703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,17 @@
             "neighbourhood_id":85832203,
             "region_id":85688607,
             "venue_id":655611071
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655611071
         }
     ],
     "wof:id":655611071,
-    "wof:lastmodified":1466681310,
+    "wof:lastmodified":1492049099,
     "wof:name":"Army National Guard Recruiter",
-    "wof:parent_id":85832203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

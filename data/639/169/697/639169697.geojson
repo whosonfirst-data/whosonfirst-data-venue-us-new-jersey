@@ -2,9 +2,14 @@
   "id": 639169697,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Tillman St Westwood NJ 07675",
+    "addr:housenumber":"40",
+    "addr:postcode":"07675",
+    "addr:street":"Tillman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.010182,40.979799,-74.010182,40.979799",
     "geom:latitude":40.979799,
     "geom:longitude":-74.010182,
@@ -27,7 +32,15 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85825599,
+        102191575,
+        404477551,
+        85633793,
+        85975989,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BPG5Hun8qBR7X8fpXEEx4_40.979799_-74.010182@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461288959,
     "wof:geomhash":"7789d7f91ad239b1c990655833c4da69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477551,
+            "locality_id":85975989,
+            "neighbourhood_id":85825599,
+            "region_id":85688607,
+            "venue_id":639169697
+        }
+    ],
     "wof:id":639169697,
-    "wof:lastmodified":1466684450,
+    "wof:lastmodified":1492038144,
     "wof:name":"Prefabulous Bagel Stores",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

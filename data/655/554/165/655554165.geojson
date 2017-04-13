@@ -2,9 +2,14 @@
   "id": 655554165,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Lester St Wallington NJ 07057",
+    "addr:housenumber":"75",
+    "addr:postcode":"07057",
+    "addr:street":"Lester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116224,40.858,-74.116224,40.858",
     "geom:latitude":40.858,
     "geom:longitude":-74.116224,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477745,
+        85633793,
+        85975889,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3J5S094lfAmlAxJ1GUELjC_40.858000_-74.116224@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310989,
     "wof:geomhash":"270206304600074f59addba9f6a9a8e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477745,
+            "locality_id":85975889,
+            "region_id":85688607,
+            "venue_id":655554165
+        }
+    ],
     "wof:id":655554165,
-    "wof:lastmodified":1466679518,
+    "wof:lastmodified":1492046925,
     "wof:name":"Anthony Groger Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

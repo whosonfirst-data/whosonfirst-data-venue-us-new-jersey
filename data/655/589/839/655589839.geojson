@@ -2,9 +2,14 @@
   "id": 655589839,
   "type": "Feature",
   "properties": {
+    "addr:full":"268 Cliffwood Ave Cliffwood NJ 07721",
+    "addr:housenumber":"268",
+    "addr:postcode":"07721",
+    "addr:street":"Cliffwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235686,40.434805,-74.235686,40.434805",
     "geom:latitude":40.434805,
     "geom:longitude":-74.235686,
@@ -29,7 +34,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wBfr03xsDBrVzItzYa1cW_40.434805_-74.235686@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461312580,
     "wof:geomhash":"dd0d1934baf123ffa7669d123f9b3aaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655589839
+        }
+    ],
     "wof:id":655589839,
-    "wof:lastmodified":1466680826,
+    "wof:lastmodified":1492051782,
     "wof:name":"Strategic Security Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

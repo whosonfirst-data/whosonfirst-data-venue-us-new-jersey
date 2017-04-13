@@ -2,9 +2,14 @@
   "id": 655790875,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 State Route 31 S Washington NJ 07882",
+    "addr:housenumber":"315",
+    "addr:postcode":"07882",
+    "addr:street":"State Route 31 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975403,40.753101,-74.975403,40.753101",
     "geom:latitude":40.753101,
     "geom:longitude":-74.975403,
@@ -28,7 +33,10 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_303SPBcrtTU8WupOqQbj3M_40.753101_-74.975403@1303262271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321014,
     "wof:geomhash":"21b9bb1506aa4e73ba52189ddb85f790",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655790875
+        }
+    ],
     "wof:id":655790875,
-    "wof:lastmodified":1466686745,
+    "wof:lastmodified":1492030761,
     "wof:name":"Warren Hills Family Practice",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

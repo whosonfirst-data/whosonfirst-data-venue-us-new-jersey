@@ -2,9 +2,14 @@
   "id": 639049799,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Aldrich Dr Howell NJ 07731",
+    "addr:housenumber":"21",
+    "addr:postcode":"07731",
+    "addr:street":"Aldrich Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247589,40.147752,-74.247589,40.147752",
     "geom:latitude":40.147752,
     "geom:longitude":-74.247589,
@@ -28,7 +33,10 @@
         "registry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LTbKwIwQq1TtyJzFb6fDt_40.147752_-74.247589@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461286268,
     "wof:geomhash":"5a8cd87283d8665ac703db97a187ff60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639049799
+        }
+    ],
     "wof:id":639049799,
-    "wof:lastmodified":1466674228,
+    "wof:lastmodified":1492080209,
     "wof:name":"Bert De Ridder",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

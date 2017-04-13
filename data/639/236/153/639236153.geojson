@@ -2,9 +2,14 @@
   "id": 639236153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Washington Ave Summit NJ 07901",
+    "addr:housenumber":"3",
+    "addr:postcode":"07901",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.337809,40.716782,-74.337809,40.716782",
     "geom:latitude":40.716782,
     "geom:longitude":-74.337809,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fnBoce6331EFsCBtoqAK8_40.716782_-74.337809@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290504,
     "wof:geomhash":"b3068b1c6adf3746713e3166502f3fc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639236153
+        }
+    ],
     "wof:id":639236153,
-    "wof:lastmodified":1466690011,
+    "wof:lastmodified":1492068184,
     "wof:name":"Classic Protective Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

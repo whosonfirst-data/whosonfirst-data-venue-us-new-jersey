@@ -2,9 +2,14 @@
   "id": 639604255,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 Boulevard Elmwood Park NJ 07407",
+    "addr:housenumber":"236",
+    "addr:postcode":"07407",
+    "addr:street":"Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120704,40.910242,-74.120704,40.910242",
     "geom:latitude":40.910242,
     "geom:longitude":-74.120704,
@@ -24,7 +29,12 @@
     "sg:postcode":"07407",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85840881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_191Cp6zFxiqaw5tGphNizy_40.910242_-74.120704@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461301901,
     "wof:geomhash":"820eaa11a8881a2da26c6a669d50c17c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85840881,
+            "region_id":85688607,
+            "venue_id":639604255
+        }
+    ],
     "wof:id":639604255,
-    "wof:lastmodified":1466697147,
+    "wof:lastmodified":1492050951,
     "wof:name":"Boulevard Audit & Review Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639335303,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Camplain Rd Hillsborough NJ 08844",
+    "addr:housenumber":"2200",
+    "addr:postcode":"08844",
+    "addr:street":"Camplain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620807,40.533538,-74.620807,40.533538",
     "geom:latitude":40.533538,
     "geom:longitude":-74.620807,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85823663,
-        102085045
+        85846331,
+        102085045,
+        85823663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85846331,
+            "region_id":85688607,
+            "venue_id":639335303
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85823663,
             "region_id":85688607,
             "venue_id":639335303
         }
     ],
     "wof:id":639335303,
-    "wof:lastmodified":1466692141,
+    "wof:lastmodified":1492051263,
     "wof:name":"STS Tire & Auto Center",
-    "wof:parent_id":85823663,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655446151,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Braemar Dr Wayne NJ 07470",
+    "addr:housenumber":"66",
+    "addr:postcode":"07470",
+    "addr:street":"Braemar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264948,40.954546,-74.264948,40.954546",
     "geom:latitude":40.954546,
     "geom:longitude":-74.264948,
@@ -28,7 +33,10 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lkrA6LP4nk3l13VmLkNh4_40.954546_-74.264948@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306525,
     "wof:geomhash":"1f8ba1b8a4bc1956ff5a033084f41770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655446151
+        }
+    ],
     "wof:id":655446151,
-    "wof:lastmodified":1466676628,
+    "wof:lastmodified":1492029396,
     "wof:name":"1275 Rte 23 Inc",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

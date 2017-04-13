@@ -2,9 +2,14 @@
   "id": 639371375,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Harrington Ave Closter NJ 07624",
+    "addr:housenumber":"55",
+    "addr:postcode":"07624",
+    "addr:street":"Harrington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.971149,40.98139,-73.971149,40.98139",
     "geom:latitude":40.98139,
     "geom:longitude":-73.971149,
@@ -28,7 +33,14 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F5EcnsupatffAhARjilLS_40.981390_-73.971149@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461293457,
     "wof:geomhash":"8d13f296ba9d96d152ad92795c6e8b69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639371375
+        }
+    ],
     "wof:id":639371375,
-    "wof:lastmodified":1466692612,
+    "wof:lastmodified":1492042578,
     "wof:name":"J & C Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

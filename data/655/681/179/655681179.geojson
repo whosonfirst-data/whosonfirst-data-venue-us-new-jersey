@@ -2,9 +2,14 @@
   "id": 655681179,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Newark Pompton Tpke Pequannock NJ 07440",
+    "addr:housenumber":"120",
+    "addr:postcode":"07440",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285698,40.946201,-74.285698,40.946201",
     "geom:latitude":40.946201,
     "geom:longitude":-74.285698,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6grmfRbnxG8so4cq1dhMoU_40.946141_-74.285702@1293134755"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461316459,
     "wof:geomhash":"29fdaa1560775c87401537a03ceba373",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655681179
+        }
+    ],
     "wof:id":655681179,
-    "wof:lastmodified":1466683700,
+    "wof:lastmodified":1492023050,
     "wof:name":"Sayeg Michael",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

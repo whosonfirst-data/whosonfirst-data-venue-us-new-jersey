@@ -2,9 +2,14 @@
   "id": 639506013,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Witherspoon St Princeton NJ 08542",
+    "addr:housenumber":"300",
+    "addr:postcode":"08542",
+    "addr:street":"Witherspoon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.663336,40.357974,-74.663336,40.357974",
     "geom:latitude":40.357974,
     "geom:longitude":-74.663336,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.princetonbusinessjournal.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XkT2ioOE3ZjP9hDbumrcv_40.357974_-74.663336@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297680,
     "wof:geomhash":"4f2f5079111e9e6d152ea773e8eafc4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639506013
+        }
+    ],
     "wof:id":639506013,
-    "wof:lastmodified":1466694647,
+    "wof:lastmodified":1492041615,
     "wof:name":"Princeton Packet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638780505,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Lowell Dr Marlton NJ 08053",
+    "addr:housenumber":"8",
+    "addr:postcode":"08053",
+    "addr:street":"Lowell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.870868,39.899686,-74.870868,39.899686",
     "geom:latitude":39.899686,
     "geom:longitude":-74.870868,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pB4GXKAMw1IdmClbuut9b_39.899686_-74.870868@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279812,
     "wof:geomhash":"1bccee74acd510ef5a77c161ec0c4588",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":638780505
+        }
+    ],
     "wof:id":638780505,
-    "wof:lastmodified":1466682989,
+    "wof:lastmodified":1492053621,
     "wof:name":"Legacy Oaks Design Center",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

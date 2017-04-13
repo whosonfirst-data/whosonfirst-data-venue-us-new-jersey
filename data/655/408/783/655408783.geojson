@@ -2,9 +2,14 @@
   "id": 655408783,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 S 10th St Newark NJ 07103",
+    "addr:housenumber":"404",
+    "addr:postcode":"07103",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.201586,40.737685,-74.201586,40.737685",
     "geom:latitude":40.737685,
     "geom:longitude":-74.201586,
@@ -34,7 +39,14 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ad1Ij9CbcigwLdlPehUOY_40.737685_-74.201586@1294171694"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461304997,
     "wof:geomhash":"99dbf3a6590372fe3c3787c24d96ea1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":655408783
+        }
+    ],
     "wof:id":655408783,
-    "wof:lastmodified":1466675798,
+    "wof:lastmodified":1492068605,
     "wof:name":"Fernandez Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

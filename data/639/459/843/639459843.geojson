@@ -2,9 +2,14 @@
   "id": 639459843,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 W Stevens Ave Wyckoff NJ 07481",
+    "addr:housenumber":"325",
+    "addr:postcode":"07481",
+    "addr:street":"W Stevens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.165802,41.001348,-74.165802,41.001348",
     "geom:latitude":41.001348,
     "geom:longitude":-74.165802,
@@ -29,7 +34,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526559
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AyLct5zbueiDX2elWKeUI_41.001348_-74.165802@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461295796,
     "wof:geomhash":"ad956aa51f7e4634afaef0578c6341d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526559,
+            "venue_id":639459843
+        }
+    ],
     "wof:id":639459843,
-    "wof:lastmodified":1466693989,
+    "wof:lastmodified":1492042438,
     "wof:name":"M C Communications",
     "wof:parent_id":420526559,
     "wof:placetype":"venue",

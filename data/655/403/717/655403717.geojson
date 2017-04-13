@@ -2,9 +2,14 @@
   "id": 655403717,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Lakeside Dr Atco NJ 08004",
+    "addr:housenumber":"117",
+    "addr:postcode":"08004",
+    "addr:street":"Lakeside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.895493,39.758795,-74.895493,39.758795",
     "geom:latitude":39.758795,
     "geom:longitude":-74.895493,
@@ -27,7 +32,13 @@
         "fastener"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wMiUfonk1ZUGna9fvkttJ_39.758795_-74.895493@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304783,
     "wof:geomhash":"03abc44efdbc40ff8a54a2c81de1136b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":655403717
+        }
+    ],
     "wof:id":655403717,
-    "wof:lastmodified":1466675644,
+    "wof:lastmodified":1492051047,
     "wof:name":"Ebony LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

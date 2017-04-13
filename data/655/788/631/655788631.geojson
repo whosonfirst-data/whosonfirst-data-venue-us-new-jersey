@@ -2,9 +2,14 @@
   "id": 655788631,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Palmer Rd Denville NJ 07834",
+    "addr:housenumber":"305",
+    "addr:postcode":"07834",
+    "addr:street":"Palmer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523499,40.879002,-74.523499,40.879002",
     "geom:latitude":40.879002,
     "geom:longitude":-74.523499,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qIQyyBRYABtPEdQwMOCwm_40.879002_-74.523499@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320926,
     "wof:geomhash":"f664b99bdaa7afba5ced130fd0c2f5a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655788631
+        }
+    ],
     "wof:id":655788631,
-    "wof:lastmodified":1466686676,
+    "wof:lastmodified":1492046256,
     "wof:name":"Radler Paul B & Associates",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639569579,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Karen Dr Mahwah NJ 07430",
+    "addr:housenumber":"33",
+    "addr:postcode":"07430",
+    "addr:street":"Karen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149765,41.090973,-74.149765,41.090973",
     "geom:latitude":41.090973,
     "geom:longitude":-74.149765,
@@ -27,7 +32,13 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2piIoyN0mEEQP2CbcBU2fa_41.090973_-74.149765@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300496,
     "wof:geomhash":"0de5b9b6ea8f6b650cb552c48256c018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639569579
+        }
+    ],
     "wof:id":639569579,
-    "wof:lastmodified":1466696303,
+    "wof:lastmodified":1492040120,
     "wof:name":"Gipetto's Handyman Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

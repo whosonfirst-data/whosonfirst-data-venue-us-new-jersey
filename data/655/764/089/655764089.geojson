@@ -2,9 +2,14 @@
   "id": 655764089,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Wright Way Oakland NJ 07436",
+    "addr:housenumber":"12",
+    "addr:postcode":"07436",
+    "addr:street":"Wright Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247642,41.006573,-74.247642,41.006573",
     "geom:latitude":41.006573,
     "geom:longitude":-74.247642,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.sports-conditioning.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EsZybWPuvhFUSHHb6q6c8_41.006573_-74.247642@1303262264"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319812,
     "wof:geomhash":"9e03e31a59a01606867837d53237a0b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655764089
+        }
+    ],
     "wof:id":655764089,
-    "wof:lastmodified":1466685841,
+    "wof:lastmodified":1492048313,
     "wof:name":"Sports Conditioning Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

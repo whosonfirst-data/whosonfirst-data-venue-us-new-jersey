@@ -2,9 +2,14 @@
   "id": 639526397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Race St Belvidere NJ 07823",
+    "addr:housenumber":"4",
+    "addr:postcode":"07823",
+    "addr:street":"Race St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072015,40.828379,-75.072015,40.828379",
     "geom:latitude":40.828379,
     "geom:longitude":-75.072015,
@@ -30,7 +35,14 @@
         "show"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eigrVH3RgdvCWWI9AhWVi_40.828379_-75.072015@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461298663,
     "wof:geomhash":"ad8887693bd6581782e4bf3787f79e7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":639526397
+        }
+    ],
     "wof:id":639526397,
-    "wof:lastmodified":1466695310,
+    "wof:lastmodified":1492043517,
     "wof:name":"Knowlton Township Expo Filed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

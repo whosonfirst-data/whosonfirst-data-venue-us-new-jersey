@@ -2,9 +2,14 @@
   "id": 655807735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 Cedar Ln Burlington NJ 08016",
+    "addr:housenumber":"1012",
+    "addr:postcode":"08016",
+    "addr:street":"Cedar Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.793305,40.098756,-74.793305,40.098756",
     "geom:latitude":40.098756,
     "geom:longitude":-74.793305,
@@ -24,7 +29,10 @@
     "sg:postcode":"08016",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yUscrfl4z6spPDD5B9Ubt_40.098756_-74.793305@1303262275"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321691,
     "wof:geomhash":"f0e9c026bd7a21f5fa8fdb0a5e041e68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":655807735
+        }
+    ],
     "wof:id":655807735,
-    "wof:lastmodified":1466687217,
+    "wof:lastmodified":1492065371,
     "wof:name":"Burlington Plumbing Heating & Drain Cleaning",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655432895,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Long Ln Far Hills NJ 07931",
+    "addr:housenumber":"660",
+    "addr:postcode":"07931",
+    "addr:street":"Long Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.696111,40.694539,-74.696111,40.694539",
     "geom:latitude":40.694539,
     "geom:longitude":-74.696111,
@@ -29,7 +34,10 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50FvdIX7zPSXNz6YmNRhNN_40.694539_-74.696111@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461306018,
     "wof:geomhash":"2ebde67ea8ad7f4ccc258c566bf9f507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527617,
+            "venue_id":655432895
+        }
+    ],
     "wof:id":655432895,
-    "wof:lastmodified":1466676487,
+    "wof:lastmodified":1492028433,
     "wof:name":"Dunwalte Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

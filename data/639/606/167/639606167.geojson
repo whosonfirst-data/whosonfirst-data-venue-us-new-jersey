@@ -2,9 +2,14 @@
   "id": 639606167,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 School Rd Whitehouse Sta NJ 08889",
+    "addr:housenumber":"43",
+    "addr:postcode":"08889",
+    "addr:street":"School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.759638,40.612828,-74.759638,40.612828",
     "geom:latitude":40.612828,
     "geom:longitude":-74.759638,
@@ -30,7 +35,14 @@
         "bu"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        85976249,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25b4ewAOMHsZF7o3CGrkdt_40.612828_-74.759638@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461301969,
     "wof:geomhash":"657888a7f84ad1b5ae130a7ec62d2acd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "locality_id":85976249,
+            "region_id":85688607,
+            "venue_id":639606167
+        }
+    ],
     "wof:id":639606167,
-    "wof:lastmodified":1466697051,
+    "wof:lastmodified":1492076774,
     "wof:name":"D & M Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

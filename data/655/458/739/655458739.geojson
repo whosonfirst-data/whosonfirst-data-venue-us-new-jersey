@@ -2,9 +2,14 @@
   "id": 655458739,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Titus Rd Skillman NJ 08558",
+    "addr:housenumber":"36",
+    "addr:postcode":"08558",
+    "addr:street":"Titus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.688284,40.42423,-74.688284,40.42423",
     "geom:latitude":40.42423,
     "geom:longitude":-74.688284,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wpo6te3uTJwfM0clxI6gt_40.424230_-74.688284@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307096,
     "wof:geomhash":"58198b2a16a4787ee303cbca5b6be2f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655458739
+        }
+    ],
     "wof:id":655458739,
-    "wof:lastmodified":1466677176,
+    "wof:lastmodified":1492033867,
     "wof:name":"Earth Mechanical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

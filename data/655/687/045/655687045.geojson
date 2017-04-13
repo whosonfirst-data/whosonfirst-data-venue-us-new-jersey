@@ -2,9 +2,14 @@
   "id": 655687045,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"252",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992089,40.805975,-73.992089,40.805975",
     "geom:latitude":40.805975,
     "geom:longitude":-73.992089,
@@ -32,7 +37,14 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XzJtowbM1KtL8vOP5qskc_40.805975_-73.992089@1299784598"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461316732,
     "wof:geomhash":"04ec21cb4abacc322f0031fb43d675aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655687045
+        }
+    ],
     "wof:id":655687045,
-    "wof:lastmodified":1466683905,
+    "wof:lastmodified":1492043293,
     "wof:name":"Yapple's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

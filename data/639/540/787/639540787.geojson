@@ -2,9 +2,14 @@
   "id": 639540787,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 N Washington Ave Bergenfield NJ 07621",
+    "addr:housenumber":"250",
+    "addr:postcode":"07621",
+    "addr:street":"N Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994879,40.935723,-73.994879,40.935723",
     "geom:latitude":40.935723,
     "geom:longitude":-73.994879,
@@ -24,7 +29,14 @@
     "sg:postcode":"07621",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YFTNKSgSxbLXjowQYSV7s_40.935723_-73.994879@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461299333,
     "wof:geomhash":"f7b02bb3edebef6c70247160b8ef25c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639540787
+        }
+    ],
     "wof:id":639540787,
-    "wof:lastmodified":1466695720,
+    "wof:lastmodified":1492049651,
     "wof:name":"Bergenfield Restaurant Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

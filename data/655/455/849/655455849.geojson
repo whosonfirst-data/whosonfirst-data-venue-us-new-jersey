@@ -2,9 +2,14 @@
   "id": 655455849,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Brunswick Ave Edison NJ 08817",
+    "addr:housenumber":"28",
+    "addr:postcode":"08817",
+    "addr:street":"Brunswick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.404004,40.533985,-74.404004,40.533985",
     "geom:latitude":40.533985,
     "geom:longitude":-74.404004,
@@ -30,10 +35,14 @@
     "sg:website":"www.daminsales.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85836613,
+        102191575,
+        404478213,
         85633793,
-        85829039,
-        102087417
+        85975729,
+        102087417,
+        85688607,
+        85829039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"a10f27582794bcf3ad40eb429fbd17d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "neighbourhood_id":85836613,
+            "region_id":85688607,
+            "venue_id":655455849
+        },
+        {
             "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85829039,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":655455849,
-    "wof:lastmodified":1466676995,
+    "wof:lastmodified":1492057036,
     "wof:name":"Damin Sales Inc",
-    "wof:parent_id":85829039,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

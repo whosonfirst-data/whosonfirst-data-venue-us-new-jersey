@@ -2,9 +2,14 @@
   "id": 639340553,
   "type": "Feature",
   "properties": {
+    "addr:full":"194 Princeton Ave Brick NJ 08724",
+    "addr:housenumber":"194",
+    "addr:postcode":"08724",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115124,40.06178,-74.115124,40.06178",
     "geom:latitude":40.06178,
     "geom:longitude":-74.115124,
@@ -24,7 +29,13 @@
     "sg:postcode":"08724",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85829965,
+        102081485,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2owbHj6hrz1THiI172TlbT_40.061780_-74.115124@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461292821,
     "wof:geomhash":"64beb376a943f7b6fc4e915b134a3543",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85829965,
+            "region_id":85688607,
+            "venue_id":639340553
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639340553
+        }
+    ],
     "wof:id":639340553,
-    "wof:lastmodified":1466692331,
+    "wof:lastmodified":1492053279,
     "wof:name":"Hbwk Corporation",
-    "wof:parent_id":420527381,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

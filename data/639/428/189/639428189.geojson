@@ -2,9 +2,14 @@
   "id": 639428189,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"115",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991339,40.806422,-73.991339,40.806422",
     "geom:latitude":40.806422,
     "geom:longitude":-73.991339,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a6IvfkcJCtyBSDnU6AaPY_40.806422_-73.991339@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294880,
     "wof:geomhash":"005116b8991c186f0d8f58eace339d22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":639428189
+        }
+    ],
     "wof:id":639428189,
-    "wof:lastmodified":1466693256,
+    "wof:lastmodified":1492049512,
     "wof:name":"Transworld Intl Trdg Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

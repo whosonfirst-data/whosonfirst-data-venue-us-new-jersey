@@ -2,9 +2,14 @@
   "id": 655742793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2195 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2195",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283311,40.718455,-74.283311,40.718455",
     "geom:latitude":40.718455,
     "geom:longitude":-74.283311,
@@ -24,7 +29,10 @@
     "sg:postcode":"07088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G1kthBzn968pXK4h3exEx_40.718455_-74.283311@1303262259"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319018,
     "wof:geomhash":"8326b17b65c36f3bc852e4fcca4f962a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742793
+        }
+    ],
     "wof:id":655742793,
-    "wof:lastmodified":1466685457,
+    "wof:lastmodified":1492050587,
     "wof:name":"Vauxhall Bp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

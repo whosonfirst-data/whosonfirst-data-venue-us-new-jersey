@@ -2,9 +2,14 @@
   "id": 639381107,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Demarest Rd Sparta NJ 07871",
+    "addr:housenumber":"28",
+    "addr:postcode":"07871",
+    "addr:street":"Demarest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.662412,41.067623,-74.662412,41.067623",
     "geom:latitude":41.067623,
     "geom:longitude":-74.662412,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70nkPBzqk4Pp2VtdoTCfi2_41.067623_-74.662412@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293657,
     "wof:geomhash":"f9295bd1836959589201cd70fdc5f980",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527665,
+            "venue_id":639381107
+        }
+    ],
     "wof:id":639381107,
-    "wof:lastmodified":1466692770,
+    "wof:lastmodified":1492047289,
     "wof:name":"Hayden's Towing Svc",
     "wof:parent_id":420527665,
     "wof:placetype":"venue",

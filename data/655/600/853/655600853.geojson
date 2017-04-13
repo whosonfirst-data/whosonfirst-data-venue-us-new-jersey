@@ -2,9 +2,14 @@
   "id": 655600853,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 Prospect Point Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"226",
+    "addr:postcode":"07849",
+    "addr:street":"Prospect Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617969,40.985481,-74.617969,40.985481",
     "geom:latitude":40.985481,
     "geom:longitude":-74.617969,
@@ -29,7 +34,10 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72rN8dVKivStBEIPIWDSDb_40.985481_-74.617969@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461313047,
     "wof:geomhash":"d99fabc0192881d2882530c9da0152fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":655600853
+        }
+    ],
     "wof:id":655600853,
-    "wof:lastmodified":1466681221,
+    "wof:lastmodified":1492047577,
     "wof:name":"Soil Rich Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

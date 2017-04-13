@@ -2,9 +2,14 @@
   "id": 639050925,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 Ocean Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"136",
+    "addr:postcode":"08742",
+    "addr:street":"Ocean Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.036265,40.0995,-74.036265,40.0995",
     "geom:latitude":40.0995,
     "geom:longitude":-74.036265,
@@ -27,7 +32,14 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RWVI7jzeKfBy8BRhYMgrl_40.099500_-74.036265@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286293,
     "wof:geomhash":"1fd76bff41a429d20872de02c24da92b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639050925
+        }
+    ],
     "wof:id":639050925,
-    "wof:lastmodified":1466674328,
+    "wof:lastmodified":1492049948,
     "wof:name":"Muellers Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

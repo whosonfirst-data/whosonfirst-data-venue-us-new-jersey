@@ -2,9 +2,14 @@
   "id": 638868293,
   "type": "Feature",
   "properties": {
+    "addr:full":"11902 Long Beach Blvd Beach Haven NJ 08008",
+    "addr:housenumber":"11902",
+    "addr:postcode":"08008",
+    "addr:street":"Long Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219334,39.592104,-74.219334,39.592104",
     "geom:latitude":39.592104,
     "geom:longitude":-74.219334,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XRwiMOa61vl6Fb9rmK6ib_39.592104_-74.219334@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281922,
     "wof:geomhash":"09b9d9f0052c5b8f1033826f9a9472ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527377,
+            "venue_id":638868293
+        }
+    ],
     "wof:id":638868293,
-    "wof:lastmodified":1466689492,
+    "wof:lastmodified":1492028449,
     "wof:name":"Mario's Barber Shop",
     "wof:parent_id":420527377,
     "wof:placetype":"venue",

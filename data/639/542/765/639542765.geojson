@@ -2,9 +2,14 @@
   "id": 639542765,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"485",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517607,40.382994,-74.517607,40.382994",
     "geom:latitude":40.382994,
     "geom:longitude":-74.517607,
@@ -24,7 +29,11 @@
     "sg:postcode":"08810",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21snbVrkZfuzKEPp5XCQ0U_40.382994_-74.517607@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461299448,
     "wof:geomhash":"bb5161f3ee224e8b95e44c2680be7257",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639542765
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639542765
+        }
+    ],
     "wof:id":639542765,
-    "wof:lastmodified":1466695717,
+    "wof:lastmodified":1492049591,
     "wof:name":"Fuji Japanese Restaurant",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

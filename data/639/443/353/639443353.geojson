@@ -2,9 +2,14 @@
   "id": 639443353,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Washington St Clark NJ 07066",
+    "addr:housenumber":"60",
+    "addr:postcode":"07066",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297608,40.617796,-74.297608,40.617796",
     "geom:latitude":40.617796,
     "geom:longitude":-74.297608,
@@ -29,7 +34,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vzJ6dkyhSUYJc15Ug8cCa_40.617796_-74.297608@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461295178,
     "wof:geomhash":"1bb107afa982e48c24a52ec5f1a4fbb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639443353
+        }
+    ],
     "wof:id":639443353,
-    "wof:lastmodified":1466693522,
+    "wof:lastmodified":1492076768,
     "wof:name":"Nu Plan Business Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

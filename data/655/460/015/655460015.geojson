@@ -2,9 +2,14 @@
   "id": 655460015,
   "type": "Feature",
   "properties": {
+    "addr:full":"582 Georges Rd Monmouth Junction NJ 08852",
+    "addr:housenumber":"582",
+    "addr:postcode":"08852",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52083,40.387051,-74.52083,40.387051",
     "geom:latitude":40.387051,
     "geom:longitude":-74.52083,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TqL4dx7HGSwxU0pxGZlz3_40.387051_-74.520830@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307158,
     "wof:geomhash":"972b61a0a24bb5198f0a930686fb952a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655460015
+        }
+    ],
     "wof:id":655460015,
-    "wof:lastmodified":1466677022,
+    "wof:lastmodified":1492039033,
     "wof:name":"Pierres Resturant",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

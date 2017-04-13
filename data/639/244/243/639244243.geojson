@@ -2,9 +2,14 @@
   "id": 639244243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2704 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"2704",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240219,40.172031,-74.240219,40.172031",
     "geom:latitude":40.172031,
     "geom:longitude":-74.240219,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u8nVbjvfTZ7Wl8ahlmVnB_40.172031_-74.240219@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461290702,
     "wof:geomhash":"9b3299a5087197c2b5706a0235e54d40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":639244243
+        }
+    ],
     "wof:id":639244243,
-    "wof:lastmodified":1466690377,
+    "wof:lastmodified":1492051513,
     "wof:name":"Body Jewelry Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

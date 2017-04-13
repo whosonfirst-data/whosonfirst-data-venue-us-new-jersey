@@ -2,9 +2,14 @@
   "id": 655643165,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Summerfield Rd Belvidere NJ 07823",
+    "addr:housenumber":"57",
+    "addr:postcode":"07823",
+    "addr:street":"Summerfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039992,40.788423,-75.039992,40.788423",
     "geom:latitude":40.788423,
     "geom:longitude":-75.039992,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XiVhnd97d9EupRIFUzBro_40.788423_-75.039992@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461314899,
     "wof:geomhash":"8c1452b6edf982d90d33299e61db980b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527801,
+            "venue_id":655643165
+        }
+    ],
     "wof:id":655643165,
-    "wof:lastmodified":1466682449,
+    "wof:lastmodified":1492028578,
     "wof:name":"Scott's Mountain Heating & AC",
     "wof:parent_id":420527801,
     "wof:placetype":"venue",

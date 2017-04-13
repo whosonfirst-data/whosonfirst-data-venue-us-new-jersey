@@ -2,9 +2,14 @@
   "id": 655594457,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Hill Rd Allentown NJ 08501",
+    "addr:housenumber":"12",
+    "addr:postcode":"08501",
+    "addr:street":"Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.548814,40.107188,-74.548814,40.107188",
     "geom:latitude":40.107188,
     "geom:longitude":-74.548814,
@@ -24,7 +29,12 @@
     "sg:postcode":"08501",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85854311,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vTE7jV7cbsxJOEnUbQzKG_40.107188_-74.548814@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461312767,
     "wof:geomhash":"ba97dfda51b266978befd7474db7fa22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85854311,
+            "region_id":85688607,
+            "venue_id":655594457
+        }
+    ],
     "wof:id":655594457,
-    "wof:lastmodified":1466680796,
+    "wof:lastmodified":1492049098,
     "wof:name":"Rhythm & Blues Stables",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

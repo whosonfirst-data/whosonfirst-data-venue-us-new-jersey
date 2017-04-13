@@ -2,9 +2,14 @@
   "id": 638750549,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Lorrie Ln Princeton Jct NJ 08550",
+    "addr:housenumber":"25",
+    "addr:postcode":"08550",
+    "addr:street":"Lorrie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.629871,40.294424,-74.629871,40.294424",
     "geom:latitude":40.294424,
     "geom:longitude":-74.629871,
@@ -27,7 +32,10 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pI7xiDGfMDaPU5JH48Ne1_40.294424_-74.629871@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279034,
     "wof:geomhash":"031f21dee623c28dfcabc7e74c23b4bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":638750549
+        }
+    ],
     "wof:id":638750549,
-    "wof:lastmodified":1466678174,
+    "wof:lastmodified":1492056745,
     "wof:name":"Fabric Science",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639535611,
   "type": "Feature",
   "properties": {
+    "addr:full":"965 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"965",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169115,40.698491,-75.169115,40.698491",
     "geom:latitude":40.698491,
     "geom:longitude":-75.169115,
@@ -24,7 +29,13 @@
     "sg:postcode":"08865",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UCC0Cubv0r25tK1qvKkFJ_40.698491_-75.169115@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461299084,
     "wof:geomhash":"cef4d3f5091bb23d12c1aa7a430bbe62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":639535611
+        }
+    ],
     "wof:id":639535611,
-    "wof:lastmodified":1466695508,
+    "wof:lastmodified":1492076805,
     "wof:name":"Drakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

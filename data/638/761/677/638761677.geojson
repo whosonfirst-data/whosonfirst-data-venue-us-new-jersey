@@ -2,9 +2,14 @@
   "id": 638761677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Locust Ave Middlesex NJ 08846",
+    "addr:housenumber":"1",
+    "addr:postcode":"08846",
+    "addr:street":"Locust Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.505185,40.580352,-74.505185,40.580352",
     "geom:latitude":40.580352,
     "geom:longitude":-74.505185,
@@ -38,7 +43,14 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478283,
+        85633793,
+        85975743,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vaRa8ioNutqiXUEXKCOHd_40.580352_-74.505185@1294171694"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461279334,
     "wof:geomhash":"3999ba24586172c6043f263d2b877226",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478283,
+            "locality_id":85975743,
+            "region_id":85688607,
+            "venue_id":638761677
+        }
+    ],
     "wof:id":638761677,
-    "wof:lastmodified":1466679663,
+    "wof:lastmodified":1492027704,
     "wof:name":"Clearview Pool & Spa Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639489281,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 3rd St South Orange NJ 07079",
+    "addr:housenumber":"66",
+    "addr:postcode":"07079",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259761,40.743097,-74.259761,40.743097",
     "geom:latitude":40.743097,
     "geom:longitude":-74.259761,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RmuzUaVZaM3gigmsTPw20_40.743097_-74.259761@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297002,
     "wof:geomhash":"185be85ed0f93396b4fbd3e1592257c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639489281
+        }
+    ],
     "wof:id":639489281,
-    "wof:lastmodified":1466694550,
+    "wof:lastmodified":1492039808,
     "wof:name":"Clean & Clear",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

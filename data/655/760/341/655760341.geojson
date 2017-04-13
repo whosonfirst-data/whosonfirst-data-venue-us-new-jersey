@@ -2,9 +2,14 @@
   "id": 655760341,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Main St Bloomingdale NJ 07403",
+    "addr:housenumber":"49",
+    "addr:postcode":"07403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.326897,41.001999,-74.326897,41.001999",
     "geom:latitude":41.001999,
     "geom:longitude":-74.326897,
@@ -24,7 +29,14 @@
     "sg:postcode":"07403",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GLzeTScaeNpMO0YDyX2SJ_41.001999_-74.326897@1303262263"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319664,
     "wof:geomhash":"148480a863bfc5938bceb896f85c11fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760341
+        }
+    ],
     "wof:id":655760341,
-    "wof:lastmodified":1466685824,
+    "wof:lastmodified":1492046268,
     "wof:name":"Lina's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

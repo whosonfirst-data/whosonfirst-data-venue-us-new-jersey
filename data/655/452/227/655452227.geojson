@@ -2,9 +2,14 @@
   "id": 655452227,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Lenox Ave Dumont NJ 07628",
+    "addr:housenumber":"31",
+    "addr:postcode":"07628",
+    "addr:street":"Lenox Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986469,40.949541,-73.986469,40.949541",
     "geom:latitude":40.949541,
     "geom:longitude":-73.986469,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZNKr9Tu8ZFkA50UyqcqiB_40.949541_-73.986469@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306785,
     "wof:geomhash":"517301ed7bc4ae5f9144455b7c54bf43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655452227
+        }
+    ],
     "wof:id":655452227,
-    "wof:lastmodified":1466676831,
+    "wof:lastmodified":1492029430,
     "wof:name":"Aci Elect Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

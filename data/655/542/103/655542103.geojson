@@ -2,9 +2,14 @@
   "id": 655542103,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Summit Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"9",
+    "addr:postcode":"07407",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127227,40.904214,-74.127227,40.904214",
     "geom:latitude":40.904214,
     "geom:longitude":-74.127227,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6daChY642N8WjRMZgJUbcS_40.904214_-74.127227@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310510,
     "wof:geomhash":"1ec38a050cd36748597f374414ab8e41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655542103
+        }
+    ],
     "wof:id":655542103,
-    "wof:lastmodified":1466679173,
+    "wof:lastmodified":1492053702,
     "wof:name":"Mastercom Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

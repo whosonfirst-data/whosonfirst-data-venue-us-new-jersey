@@ -2,9 +2,14 @@
   "id": 639423955,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 Franklin Ave Nutley NJ 07110",
+    "addr:housenumber":"516",
+    "addr:postcode":"07110",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.156252,40.822911,-74.156252,40.822911",
     "geom:latitude":40.822911,
     "geom:longitude":-74.156252,
@@ -27,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892429,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rcs1rotWK1XzdXuv9LBvW_40.822911_-74.156252@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461294799,
     "wof:geomhash":"b747b2a1e2db03acc6d16ee495add1d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892429,
+            "region_id":85688607,
+            "venue_id":639423955
+        }
+    ],
     "wof:id":639423955,
-    "wof:lastmodified":1466693339,
+    "wof:lastmodified":1492070464,
     "wof:name":"Studio Worshop",
-    "wof:parent_id":420526923,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

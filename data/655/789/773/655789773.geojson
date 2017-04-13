@@ -2,9 +2,14 @@
   "id": 655789773,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Water St Newton NJ 07860",
+    "addr:housenumber":"101",
+    "addr:postcode":"07860",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749062,41.063031,-74.749062,41.063031",
     "geom:latitude":41.063031,
     "geom:longitude":-74.749062,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.napaautoparts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vBNpfhU7gM6uSiiHcQS1a_41.063031_-74.749062@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320969,
     "wof:geomhash":"52a2dc569afd795e303458b340a0aab1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789773
+        }
+    ],
     "wof:id":655789773,
-    "wof:lastmodified":1466686717,
+    "wof:lastmodified":1492068282,
     "wof:name":"Koch Auto Parts Inc",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

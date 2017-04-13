@@ -2,9 +2,14 @@
   "id": 655732921,
   "type": "Feature",
   "properties": {
+    "addr:full":"497 W Scott Ave Rahway NJ 07065",
+    "addr:housenumber":"497",
+    "addr:postcode":"07065",
+    "addr:street":"W Scott Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275939,40.617995,-74.275939,40.617995",
     "geom:latitude":40.617995,
     "geom:longitude":-74.275939,
@@ -32,7 +37,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57xChnCcTWGV917GKNbV9V_40.617995_-74.275939@1303262257"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461318643,
     "wof:geomhash":"8df1d5150174ace6c0d8217f0ea5af18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732921
+        }
+    ],
     "wof:id":655732921,
-    "wof:lastmodified":1466685231,
+    "wof:lastmodified":1492023416,
     "wof:name":"Scott Ave Grocery and Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

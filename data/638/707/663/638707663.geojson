@@ -2,9 +2,14 @@
   "id": 638707663,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 Lakeview Ave Clifton NJ 07011",
+    "addr:housenumber":"244",
+    "addr:postcode":"07011",
+    "addr:street":"Lakeview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.137902,40.883973,-74.137902,40.883973",
     "geom:latitude":40.883973,
     "geom:longitude":-74.137902,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829243,
+        85892349,
         102191575,
         404477809,
         85633793,
         85975493,
         102081133,
-        85688607
+        85688607,
+        85829243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102081133,
             "localadmin_id":404477809,
             "locality_id":85975493,
+            "neighbourhood_id":85892349,
+            "region_id":85688607,
+            "venue_id":638707663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
             "neighbourhood_id":85829243,
             "region_id":85688607,
             "venue_id":638707663
         }
     ],
     "wof:id":638707663,
-    "wof:lastmodified":1466688764,
+    "wof:lastmodified":1492070702,
     "wof:name":"244 Lakeview Corp",
-    "wof:parent_id":85829243,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

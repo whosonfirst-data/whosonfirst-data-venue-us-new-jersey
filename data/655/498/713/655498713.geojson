@@ -2,9 +2,14 @@
   "id": 655498713,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Park Pl Irvington NJ 07111",
+    "addr:housenumber":"195",
+    "addr:postcode":"07111",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240633,40.720035,-74.240633,40.720035",
     "geom:latitude":40.720035,
     "geom:longitude":-74.240633,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lZxRIN335Mjyp0OpuUWID_40.720035_-74.240633@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461308781,
     "wof:geomhash":"a9eb0b0e6256e6a13ea9a5e5972991c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655498713
+        }
+    ],
     "wof:id":655498713,
-    "wof:lastmodified":1466678225,
+    "wof:lastmodified":1492028656,
     "wof:name":"R J Building Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

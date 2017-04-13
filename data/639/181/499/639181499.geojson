@@ -2,9 +2,14 @@
   "id": 639181499,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Ryle Park Ave Little Falls NJ 07424",
+    "addr:housenumber":"93",
+    "addr:postcode":"07424",
+    "addr:street":"Ryle Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.211093,40.895004,-74.211093,40.895004",
     "geom:latitude":40.895004,
     "geom:longitude":-74.211093,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AWtvJpPcapYfxT4z2MCpd_40.895004_-74.211093@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289220,
     "wof:geomhash":"af3af3f96dd289b6690bd7aedb25dc53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":639181499
+        }
+    ],
     "wof:id":639181499,
-    "wof:lastmodified":1466686005,
+    "wof:lastmodified":1492061324,
     "wof:name":"Aegean Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

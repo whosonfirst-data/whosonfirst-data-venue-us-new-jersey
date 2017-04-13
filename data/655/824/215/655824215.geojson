@@ -2,9 +2,14 @@
   "id": 655824215,
   "type": "Feature",
   "properties": {
+    "addr:full":"3156 River Rd Camden NJ 08105",
+    "addr:housenumber":"3156",
+    "addr:postcode":"08105",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.086502,39.959801,-75.086502,39.959801",
     "geom:latitude":39.959801,
     "geom:longitude":-75.086502,
@@ -28,7 +33,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526751,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XsDBLa29HyhqMYV6cfzVF_39.959801_-75.086502@1303262279"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322420,
     "wof:geomhash":"9a410c3ab0e638fbf9e53457754554c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526751,
+            "region_id":85688607,
+            "venue_id":655824215
+        }
+    ],
     "wof:id":655824215,
-    "wof:lastmodified":1466687531,
+    "wof:lastmodified":1492042016,
     "wof:name":"Brenner Jeffrey MD",
     "wof:parent_id":420526751,
     "wof:placetype":"venue",

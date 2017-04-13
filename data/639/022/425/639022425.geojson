@@ -2,9 +2,14 @@
   "id": 639022425,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Titman Rd Belvidere NJ 07823",
+    "addr:housenumber":"73",
+    "addr:postcode":"07823",
+    "addr:street":"Titman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026988,40.835376,-75.026988,40.835376",
     "geom:latitude":40.835376,
     "geom:longitude":-75.026988,
@@ -27,7 +32,14 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        85976491,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jC679cltSo94pEXhlEHbQ_40.835376_-75.026988@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285596,
     "wof:geomhash":"18ed27d3703ad1b7d9802d140ff50ad1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "locality_id":85976491,
+            "region_id":85688607,
+            "venue_id":639022425
+        }
+    ],
     "wof:id":639022425,
-    "wof:lastmodified":1466673615,
+    "wof:lastmodified":1492030557,
     "wof:name":"Flannery's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

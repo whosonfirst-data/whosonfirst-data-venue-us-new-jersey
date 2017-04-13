@@ -2,9 +2,14 @@
   "id": 638865813,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Co Rd 539 Whiting NJ 08759",
+    "addr:housenumber":"121;539",
+    "addr:postcode":"08759",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.391555,39.955044,-74.391555,39.955044",
     "geom:latitude":39.955044,
     "geom:longitude":-74.391555,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.manchestertwp.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NInn9epORQYgHype0CkPp_39.955044_-74.391555@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461281876,
     "wof:geomhash":"13e7aebe0114467834acef7a3e981a34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":638865813
+        }
+    ],
     "wof:id":638865813,
-    "wof:lastmodified":1466689526,
+    "wof:lastmodified":1492069454,
     "wof:name":"Manchester Board Of Education",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

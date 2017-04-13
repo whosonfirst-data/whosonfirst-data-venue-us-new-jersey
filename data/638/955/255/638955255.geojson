@@ -2,9 +2,14 @@
   "id": 638955255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1091 Bayview Ave Bayville NJ 08721",
+    "addr:housenumber":"1091",
+    "addr:postcode":"08721",
+    "addr:street":"Bayview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145333,39.881575,-74.145333,39.881575",
     "geom:latitude":39.881575,
     "geom:longitude":-74.145333,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85809865,
-        102081485
+        102081485,
+        85821667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85809865,
             "region_id":85688607,
             "venue_id":638955255
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85821667,
+            "region_id":85688607,
+            "venue_id":638955255
         }
     ],
     "wof:id":638955255,
-    "wof:lastmodified":1466691827,
+    "wof:lastmodified":1492053614,
     "wof:name":"Mobile Diagnostic X-Ray",
-    "wof:parent_id":85809865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

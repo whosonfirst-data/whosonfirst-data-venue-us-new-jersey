@@ -2,9 +2,14 @@
   "id": 655584545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1171 Lake Ave Clark NJ 07066",
+    "addr:housenumber":"1171",
+    "addr:postcode":"07066",
+    "addr:street":"Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.337246,40.614654,-74.337246,40.614654",
     "geom:latitude":40.614654,
     "geom:longitude":-74.337246,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nqU1Y9TagUWv1YD8robAQ_40.614654_-74.337246@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461312365,
     "wof:geomhash":"13b451b22cc3051b53a361557d949f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655584545
+        }
+    ],
     "wof:id":655584545,
-    "wof:lastmodified":1466680469,
+    "wof:lastmodified":1492024946,
     "wof:name":"Clark Technologies LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639323771,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 East Rd Belford NJ 07718",
+    "addr:housenumber":"161",
+    "addr:postcode":"07718",
+    "addr:street":"East Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.087134,40.42173,-74.087134,40.42173",
     "geom:latitude":40.42173,
     "geom:longitude":-74.087134,
@@ -28,7 +33,10 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sULf4uO6tgZwdc2I2sbpN_40.421730_-74.087134@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292477,
     "wof:geomhash":"d45010352aa5a738dd570451901acae5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":639323771
+        }
+    ],
     "wof:id":639323771,
-    "wof:lastmodified":1466691941,
+    "wof:lastmodified":1492047129,
     "wof:name":"Oswald Sewer Svc",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

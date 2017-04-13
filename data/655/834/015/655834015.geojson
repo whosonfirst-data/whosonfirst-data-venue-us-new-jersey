@@ -2,9 +2,14 @@
   "id": 655834015,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Risler St Stockton NJ 08559",
+    "addr:housenumber":"10",
+    "addr:postcode":"08559",
+    "addr:street":"Risler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.9804,40.407299,-74.9804,40.407299",
     "geom:latitude":40.407299,
     "geom:longitude":-74.9804,
@@ -27,7 +32,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477461,
+        85633793,
+        85975679,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O0b6kgrpwReW6UFH1oWzt_40.407299_-74.980400@1303262282"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322825,
     "wof:geomhash":"02aed883ccc085ae6d1506352d905636",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477461,
+            "locality_id":85975679,
+            "region_id":85688607,
+            "venue_id":655834015
+        }
+    ],
     "wof:id":655834015,
-    "wof:lastmodified":1466687740,
+    "wof:lastmodified":1492086057,
     "wof:name":"Fabulous Feast Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

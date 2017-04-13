@@ -2,9 +2,14 @@
   "id": 639501779,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Bush Pl Fair Lawn NJ 07410",
+    "addr:housenumber":"8",
+    "addr:postcode":"07410",
+    "addr:street":"Bush Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.140019,40.926916,-74.140019,40.926916",
     "geom:latitude":40.926916,
     "geom:longitude":-74.140019,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h7fQu47exVQA4r0DYeaDE_40.926916_-74.140019@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297485,
     "wof:geomhash":"99778fbc3373f8dd98a28957fd6523f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639501779
+        }
+    ],
     "wof:id":639501779,
-    "wof:lastmodified":1466694816,
+    "wof:lastmodified":1492076546,
     "wof:name":"Cardiology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

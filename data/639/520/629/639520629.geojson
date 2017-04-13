@@ -2,9 +2,14 @@
   "id": 639520629,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Tuckerton Rd Vincentown NJ 08088",
+    "addr:housenumber":"56",
+    "addr:postcode":"08088",
+    "addr:street":"Tuckerton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764629,39.825678,-74.764629,39.825678",
     "geom:latitude":39.825678,
     "geom:longitude":-74.764629,
@@ -27,7 +32,12 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85819705,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64JbFQrGICfTt4C2hfdZuq_39.825678_-74.764629@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461298329,
     "wof:geomhash":"1a2e930ebd0b7eea3c53d891f0db5191",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85819705,
+            "region_id":85688607,
+            "venue_id":639520629
+        }
+    ],
     "wof:id":639520629,
-    "wof:lastmodified":1466695205,
+    "wof:lastmodified":1492023800,
     "wof:name":"John Shaver Instrumentation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

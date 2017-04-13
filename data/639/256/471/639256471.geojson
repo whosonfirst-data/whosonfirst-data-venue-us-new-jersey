@@ -2,9 +2,14 @@
   "id": 639256471,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Washington Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"19",
+    "addr:postcode":"08550",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.621664,40.318607,-74.621664,40.318607",
     "geom:latitude":40.318607,
     "geom:longitude":-74.621664,
@@ -24,7 +29,14 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NMw1NEDnU9O6IdKjl65rQ_40.318607_-74.621664@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461290979,
     "wof:geomhash":"b998d31d1d2dd87b525ccc382eea8cb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":639256471
+        }
+    ],
     "wof:id":639256471,
-    "wof:lastmodified":1466690454,
+    "wof:lastmodified":1492047903,
     "wof:name":"RMF Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

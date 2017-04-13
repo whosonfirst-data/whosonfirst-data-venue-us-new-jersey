@@ -2,9 +2,14 @@
   "id": 655479379,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Pequest Rd Andover NJ 07821",
+    "addr:housenumber":"211",
+    "addr:postcode":"07821",
+    "addr:street":"Pequest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.780873,40.981528,-74.780873,40.981528",
     "geom:latitude":40.981528,
     "geom:longitude":-74.780873,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W25JjigmqBXcBVPDL8ynj_40.981528_-74.780873@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461307989,
     "wof:geomhash":"782934910423edf83723d9391fcaaef0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655479379
+        }
+    ],
     "wof:id":655479379,
-    "wof:lastmodified":1466677653,
+    "wof:lastmodified":1492051674,
     "wof:name":"Betty Toussaint Bookkeeping",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655517689,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Central Blvd Bayville NJ 08721",
+    "addr:housenumber":"321",
+    "addr:postcode":"08721",
+    "addr:street":"Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.185184,39.894571,-74.185184,39.894571",
     "geom:latitude":39.894571,
     "geom:longitude":-74.185184,
@@ -27,7 +32,10 @@
         "engraver"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527389
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nmOqum50DpgWf7qBuZydz_39.894571_-74.185184@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309590,
     "wof:geomhash":"2844690fdbde387ac81dd75581c62964",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527389,
+            "venue_id":655517689
+        }
+    ],
     "wof:id":655517689,
-    "wof:lastmodified":1466678724,
+    "wof:lastmodified":1492051983,
     "wof:name":"B & B Engraving",
     "wof:parent_id":420527389,
     "wof:placetype":"venue",

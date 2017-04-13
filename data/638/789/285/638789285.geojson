@@ -2,9 +2,14 @@
   "id": 638789285,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Wyckoff Dr Pittstown NJ 08867",
+    "addr:housenumber":"10",
+    "addr:postcode":"08867",
+    "addr:street":"Wyckoff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.962618,40.5972,-74.962618,40.5972",
     "geom:latitude":40.5972,
     "geom:longitude":-74.962618,
@@ -28,7 +33,10 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e3c9vZy9s5kEWN8m9APER_40.597200_-74.962618@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280003,
     "wof:geomhash":"a7a09b586bc3355c37f5243b5afed19f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527107,
+            "venue_id":638789285
+        }
+    ],
     "wof:id":638789285,
-    "wof:lastmodified":1466684226,
+    "wof:lastmodified":1492050430,
     "wof:name":"Mac Software Inc",
     "wof:parent_id":420527107,
     "wof:placetype":"venue",

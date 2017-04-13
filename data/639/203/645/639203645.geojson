@@ -2,9 +2,14 @@
   "id": 639203645,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Riverview Dr Totowa NJ 07512",
+    "addr:housenumber":"500",
+    "addr:postcode":"07512",
+    "addr:street":"Riverview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219619,40.891937,-74.219619,40.891937",
     "geom:latitude":40.891937,
     "geom:longitude":-74.219619,
@@ -31,7 +36,14 @@
         "cyclic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ArGco7dmZqPEEZoVadyRh_40.891937_-74.219619@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461289732,
     "wof:geomhash":"4df4a3a7c897aa64be5e9d5407701218",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":639203645
+        }
+    ],
     "wof:id":639203645,
-    "wof:lastmodified":1466689000,
+    "wof:lastmodified":1492061326,
     "wof:name":"Totowa Precision Tooling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

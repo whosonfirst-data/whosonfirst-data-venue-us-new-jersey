@@ -2,9 +2,14 @@
   "id": 639045311,
   "type": "Feature",
   "properties": {
+    "addr:full":"1229 Salem Rd Plainfield NJ 07060",
+    "addr:housenumber":"1229",
+    "addr:postcode":"07060",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.399384,40.604376,-74.399384,40.604376",
     "geom:latitude":40.604376,
     "geom:longitude":-74.399384,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zTjeHVDzNH0biQg7mUMjL_40.604376_-74.399384@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286163,
     "wof:geomhash":"3cb85982d1eee512af21bf28f6654ebb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639045311
+        }
+    ],
     "wof:id":639045311,
-    "wof:lastmodified":1466674151,
+    "wof:lastmodified":1492040352,
     "wof:name":"Daisy-Haircuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

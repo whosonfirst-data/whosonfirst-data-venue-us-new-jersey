@@ -2,9 +2,14 @@
   "id": 655507169,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Terrapin Ln Trenton NJ 08619",
+    "addr:housenumber":"73",
+    "addr:postcode":"08619",
+    "addr:street":"Terrapin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.673596,40.258447,-74.673596,40.258447",
     "geom:latitude":40.258447,
     "geom:longitude":-74.673596,
@@ -28,7 +33,10 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tc2Zm9ZzYX1xhY1W1YOmU_40.258447_-74.673596@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309167,
     "wof:geomhash":"1a10e0e0e6cb9b239ecb8b45ae01acbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655507169
+        }
+    ],
     "wof:id":655507169,
-    "wof:lastmodified":1466678308,
+    "wof:lastmodified":1492082102,
     "wof:name":"Little League Baseball Inc",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

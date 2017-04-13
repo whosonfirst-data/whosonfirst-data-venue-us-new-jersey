@@ -2,9 +2,14 @@
   "id": 638964111,
   "type": "Feature",
   "properties": {
+    "addr:full":"871 Cooper Landing Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"871",
+    "addr:postcode":"08002",
+    "addr:street":"Cooper Landing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.009928,39.939724,-75.009928,39.939724",
     "geom:latitude":39.939724,
     "geom:longitude":-75.009928,
@@ -30,7 +35,14 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HEqy32T5VWjIjBA9UweGX_39.939724_-75.009928@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461284327,
     "wof:geomhash":"75bfe9c4b70d84c19f742b805772fc92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":638964111
+        }
+    ],
     "wof:id":638964111,
-    "wof:lastmodified":1466691551,
+    "wof:lastmodified":1492069443,
     "wof:name":"Super Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

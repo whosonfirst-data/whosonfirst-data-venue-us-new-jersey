@@ -2,9 +2,14 @@
   "id": 655529745,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"51",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.999999,40.81145,-73.999999,40.81145",
     "geom:latitude":40.81145,
     "geom:longitude":-73.999999,
@@ -27,7 +32,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32s5ftQwH8dyzPdnTKZvTL_40.811450_-73.999999@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310034,
     "wof:geomhash":"55a082c79ba445baff6fe8cef20f05a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655529745
+        }
+    ],
     "wof:id":655529745,
-    "wof:lastmodified":1466679078,
+    "wof:lastmodified":1492023712,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

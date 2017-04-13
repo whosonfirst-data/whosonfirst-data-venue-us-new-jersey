@@ -2,9 +2,14 @@
   "id": 655588787,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ferry St Trenton NJ 08611",
+    "addr:housenumber":"9",
+    "addr:postcode":"08611",
+    "addr:street":"Ferry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.76481,40.209204,-74.76481,40.209204",
     "geom:latitude":40.209204,
     "geom:longitude":-74.76481,
@@ -27,7 +32,14 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32qa0dHHASwxdrmj9NBN0s_40.209204_-74.764810@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312541,
     "wof:geomhash":"787aa35fd021669163108298cfd8b5c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655588787
+        }
+    ],
     "wof:id":655588787,
-    "wof:lastmodified":1466680805,
+    "wof:lastmodified":1492045007,
     "wof:name":"Robinson Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

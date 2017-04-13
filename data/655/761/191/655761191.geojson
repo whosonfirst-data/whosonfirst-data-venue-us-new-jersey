@@ -2,9 +2,14 @@
   "id": 655761191,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Park Pl Butler NJ 07405",
+    "addr:housenumber":"10",
+    "addr:postcode":"07405",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.340282,41.001852,-74.340282,41.001852",
     "geom:latitude":41.001852,
     "geom:longitude":-74.340282,
@@ -24,7 +29,14 @@
     "sg:postcode":"07405",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zuwsp2cbvpcVfMssimAUX_41.001852_-74.340282@1303262263"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319692,
     "wof:geomhash":"9af1e083ec139a7379a262e86f612707",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655761191
+        }
+    ],
     "wof:id":655761191,
-    "wof:lastmodified":1466685787,
+    "wof:lastmodified":1492027591,
     "wof:name":"Precise Termite & Pest Control La Wayne Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

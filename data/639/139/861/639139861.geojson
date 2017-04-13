@@ -2,9 +2,14 @@
   "id": 639139861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Magpie Ct Jackson NJ 08527",
+    "addr:housenumber":"4",
+    "addr:postcode":"08527",
+    "addr:street":"Magpie Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352762,40.128904,-74.352762,40.128904",
     "geom:latitude":40.128904,
     "geom:longitude":-74.352762,
@@ -24,7 +29,10 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EGHyczm7X0AnQva6W1ZWF_40.128904_-74.352762@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461288288,
     "wof:geomhash":"336d60fc491c84cc256347cb31e3bb0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527423,
+            "venue_id":639139861
+        }
+    ],
     "wof:id":639139861,
-    "wof:lastmodified":1466679766,
+    "wof:lastmodified":1492043910,
     "wof:name":"Master Sewer & Water Mains",
     "wof:parent_id":420527423,
     "wof:placetype":"venue",

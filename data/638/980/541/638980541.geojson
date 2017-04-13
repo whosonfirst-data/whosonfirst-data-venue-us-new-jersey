@@ -2,9 +2,14 @@
   "id": 638980541,
   "type": "Feature",
   "properties": {
+    "addr:full":"645 W 7th St Plainfield NJ 07060",
+    "addr:housenumber":"645",
+    "addr:postcode":"07060",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.425542,40.608122,-74.425542,40.608122",
     "geom:latitude":40.608122,
     "geom:longitude":-74.425542,
@@ -28,7 +33,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mh0qm4g5xU3YyGG7LwQBt_40.608122_-74.425542@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284657,
     "wof:geomhash":"acbfc9a65229ebdeeab3cce52d928797",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":638980541
+        }
+    ],
     "wof:id":638980541,
-    "wof:lastmodified":1466691888,
+    "wof:lastmodified":1492050430,
     "wof:name":"Wilson Protective Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

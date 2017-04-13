@@ -2,9 +2,14 @@
   "id": 638945419,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Fox St Phillipsburg NJ 08865",
+    "addr:housenumber":"56",
+    "addr:postcode":"08865",
+    "addr:street":"Fox St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191971,40.685876,-75.191971,40.685876",
     "geom:latitude":40.685876,
     "geom:longitude":-75.191971,
@@ -29,7 +34,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r1tp3vdl4Uoh8lSUmqERU_40.685876_-75.191971@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283933,
     "wof:geomhash":"9570d4afedf3dc7eb0083eb383e32e4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638945419
+        }
+    ],
     "wof:id":638945419,
-    "wof:lastmodified":1466691364,
+    "wof:lastmodified":1492050570,
     "wof:name":"Rusty's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

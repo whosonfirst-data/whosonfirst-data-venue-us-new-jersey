@@ -2,9 +2,14 @@
   "id": 639580003,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Ringwood Ave Ringwood NJ 07456",
+    "addr:housenumber":"58",
+    "addr:postcode":"07456",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282158,41.069677,-74.282158,41.069677",
     "geom:latitude":41.069677,
     "geom:longitude":-74.282158,
@@ -24,7 +29,14 @@
     "sg:postcode":"07456",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tujIw1ZhHnb0Hk6g3pQR4_41.069677_-74.282158@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461300901,
     "wof:geomhash":"cc6b263289094ad77a1d138f97d23255",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":639580003
+        }
+    ],
     "wof:id":639580003,
-    "wof:lastmodified":1466696411,
+    "wof:lastmodified":1492051050,
     "wof:name":"Morning Mist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

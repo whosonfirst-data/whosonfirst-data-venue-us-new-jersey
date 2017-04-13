@@ -2,9 +2,14 @@
   "id": 655383245,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"103",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143343,40.030364,-74.143343,40.030364",
     "geom:latitude":40.030364,
     "geom:longitude":-74.143343,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dOB3D6Jnz1y1n2bbY2mT0_40.030364_-74.143343@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303926,
     "wof:geomhash":"06bfb53c31ff0eec8d55fad90ae3e765",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655383245
+        }
+    ],
     "wof:id":655383245,
-    "wof:lastmodified":1466674997,
+    "wof:lastmodified":1492051153,
     "wof:name":"Chicken Town",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

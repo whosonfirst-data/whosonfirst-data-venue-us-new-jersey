@@ -2,9 +2,14 @@
   "id": 655787873,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Hope Crossing Rd Belvidere NJ 07823",
+    "addr:housenumber":"78",
+    "addr:postcode":"07823",
+    "addr:street":"Hope Crossing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027854,40.850051,-75.027854,40.850051",
     "geom:latitude":40.850051,
     "geom:longitude":-75.027854,
@@ -24,7 +29,10 @@
     "sg:postcode":"07823",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TaKVZztl0TP2VMX81ggUS_40.850051_-75.027854@1303262270"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461320888,
     "wof:geomhash":"0d4f349e8d3e5a5e820b0399496136b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527779,
+            "venue_id":655787873
+        }
+    ],
     "wof:id":655787873,
-    "wof:lastmodified":1466686733,
+    "wof:lastmodified":1492029612,
     "wof:name":"American Quoit",
     "wof:parent_id":420527779,
     "wof:placetype":"venue",

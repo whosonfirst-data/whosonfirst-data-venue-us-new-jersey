@@ -2,9 +2,14 @@
   "id": 638766703,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 White Pine Rd Columbus NJ 08515",
+    "addr:housenumber":"150",
+    "addr:postcode":"08515",
+    "addr:street":"White Pine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660958,40.102956,-74.660958,40.102956",
     "geom:latitude":40.102956,
     "geom:longitude":-74.660958,
@@ -28,7 +33,10 @@
         "convent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3otPhjm8vzviwLAUlM7TFL_40.102956_-74.660958@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279468,
     "wof:geomhash":"a809dd1686460ffc82fe060c80a0ee81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":638766703
+        }
+    ],
     "wof:id":638766703,
-    "wof:lastmodified":1466680435,
+    "wof:lastmodified":1492082155,
     "wof:name":"Franciscan Monastery St Clare",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

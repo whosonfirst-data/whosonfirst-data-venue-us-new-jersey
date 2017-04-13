@@ -2,9 +2,14 @@
   "id": 655388147,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Indian Mills Rd Vincentown NJ 08088",
+    "addr:housenumber":"408",
+    "addr:postcode":"08088",
+    "addr:street":"Indian Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.78063,39.830664,-74.78063,39.830664",
     "geom:latitude":39.830664,
     "geom:longitude":-74.78063,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477963,
+        85633793,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lAdI0q5bFZ8zgxU0legCv_39.830664_-74.780630@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304128,
     "wof:geomhash":"7a07a4250d8679dab1c6ced83d735e6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477963,
+            "region_id":85688607,
+            "venue_id":655388147
+        }
+    ],
     "wof:id":655388147,
-    "wof:lastmodified":1466675103,
+    "wof:lastmodified":1492024062,
     "wof:name":"Dino Mario Jakovasic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

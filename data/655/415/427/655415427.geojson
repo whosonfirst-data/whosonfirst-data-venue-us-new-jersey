@@ -2,9 +2,14 @@
   "id": 655415427,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 W Delaware Ave Pennington NJ 08534",
+    "addr:housenumber":"234",
+    "addr:postcode":"08534",
+    "addr:street":"W Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.799751,40.327102,-74.799751,40.327102",
     "geom:latitude":40.327102,
     "geom:longitude":-74.799751,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ize4DY9JRThZ8PHKaNFDw_40.327102_-74.799751@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305282,
     "wof:geomhash":"4f60b38271193022964fde633f46d788",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":655415427
+        }
+    ],
     "wof:id":655415427,
-    "wof:lastmodified":1466675843,
+    "wof:lastmodified":1492056098,
     "wof:name":"Baxter Partners LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

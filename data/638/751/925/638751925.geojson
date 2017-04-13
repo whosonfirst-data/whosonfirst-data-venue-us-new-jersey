@@ -2,9 +2,14 @@
   "id": 638751925,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Broadway Elmwood Park NJ 07407",
+    "addr:housenumber":"314",
+    "addr:postcode":"07407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.119248,40.920652,-74.119248,40.920652",
     "geom:latitude":40.920652,
     "geom:longitude":-74.119248,
@@ -30,7 +35,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fSqLxMwJNeiQHS6P4ZeTP_40.920652_-74.119248@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461279075,
     "wof:geomhash":"5dd2c050dfaef283c4850700b7b9791c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638751925
+        }
+    ],
     "wof:id":638751925,
-    "wof:lastmodified":1466678397,
+    "wof:lastmodified":1492040815,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

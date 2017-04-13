@@ -2,9 +2,14 @@
   "id": 655386181,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Lafayette Ave Summit NJ 07901",
+    "addr:housenumber":"15",
+    "addr:postcode":"07901",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.373911,40.726139,-74.373911,40.726139",
     "geom:latitude":40.726139,
     "geom:longitude":-74.373911,
@@ -24,7 +29,14 @@
     "sg:postcode":"07901",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OWiY0bPiQ9Ju9W4V3CEvD_40.726139_-74.373911@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461304037,
     "wof:geomhash":"20d3b3e623c03496552ae03adcb821f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655386181
+        }
+    ],
     "wof:id":655386181,
-    "wof:lastmodified":1466674992,
+    "wof:lastmodified":1492039799,
     "wof:name":"County Transport Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

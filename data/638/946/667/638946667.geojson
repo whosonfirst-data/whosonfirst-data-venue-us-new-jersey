@@ -2,9 +2,14 @@
   "id": 638946667,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 Allen Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"177",
+    "addr:postcode":"07920",
+    "addr:street":"Allen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.582492,40.651705,-74.582492,40.651705",
     "geom:latitude":40.651705,
     "geom:longitude":-74.582492,
@@ -29,7 +34,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AT8QlQtVOiPM7XWDkPzZm_40.651705_-74.582492@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461283958,
     "wof:geomhash":"8cba1a951778bd3151fe0dc6562d764c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":638946667
+        }
+    ],
     "wof:id":638946667,
-    "wof:lastmodified":1466691255,
+    "wof:lastmodified":1492050004,
     "wof:name":"Sky Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

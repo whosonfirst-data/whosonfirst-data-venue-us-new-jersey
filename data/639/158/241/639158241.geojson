@@ -2,9 +2,14 @@
   "id": 639158241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1381 Tuckerton Ave Lakehurst NJ 08759",
+    "addr:housenumber":"1381",
+    "addr:postcode":"08759",
+    "addr:street":"Tuckerton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.355405,39.929311,-74.355405,39.929311",
     "geom:latitude":39.929311,
     "geom:longitude":-74.355405,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X0ddCriMVeQHyrYvi3vv2_39.929311_-74.355405@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288716,
     "wof:geomhash":"42d48f4f4163411897d021b3522f0d5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":639158241
+        }
+    ],
     "wof:id":639158241,
-    "wof:lastmodified":1466682704,
+    "wof:lastmodified":1492030498,
     "wof:name":"Tabussi Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

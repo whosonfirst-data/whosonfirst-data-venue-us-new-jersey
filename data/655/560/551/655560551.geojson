@@ -2,9 +2,14 @@
   "id": 655560551,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Franklin St Hightstown NJ 08520",
+    "addr:housenumber":"105",
+    "addr:postcode":"08520",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.521723,40.270531,-74.521723,40.270531",
     "geom:latitude":40.270531,
     "geom:longitude":-74.521723,
@@ -27,7 +32,14 @@
         "bagel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zj7hkl7q1RFhTjfk6Cu60_40.270531_-74.521723@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311301,
     "wof:geomhash":"b881f670871420bb0dcf4d5979ecb7e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655560551
+        }
+    ],
     "wof:id":655560551,
-    "wof:lastmodified":1466679817,
+    "wof:lastmodified":1492057928,
     "wof:name":"Hightstown Hot Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

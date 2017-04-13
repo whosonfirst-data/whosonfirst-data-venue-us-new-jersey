@@ -2,9 +2,14 @@
   "id": 655714259,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"159",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135597,40.785599,-74.135597,40.785599",
     "geom:latitude":40.785599,
     "geom:longitude":-74.135597,
@@ -24,7 +29,14 @@
     "sg:postcode":"07031",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LxUUeOeMkREqJonU5dv6h_40.785599_-74.135597@1303262252"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317932,
     "wof:geomhash":"d6df63eeee5ceaf7ccc7140df2ad742b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714259
+        }
+    ],
     "wof:id":655714259,
-    "wof:lastmodified":1466684578,
+    "wof:lastmodified":1492076162,
     "wof:name":"Mr Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

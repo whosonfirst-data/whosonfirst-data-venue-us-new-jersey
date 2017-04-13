@@ -2,9 +2,14 @@
   "id": 638767887,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Wilson Ave Hightstown NJ 08520",
+    "addr:housenumber":"220",
+    "addr:postcode":"08520",
+    "addr:street":"Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523269,40.275277,-74.523269,40.275277",
     "geom:latitude":40.275277,
     "geom:longitude":-74.523269,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E5VoZ5MTzGCrpK234jajr_40.275277_-74.523269@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279500,
     "wof:geomhash":"ee23c6f7bc0343c2c67d95c9746cfc6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":638767887
+        }
+    ],
     "wof:id":638767887,
-    "wof:lastmodified":1466680644,
+    "wof:lastmodified":1492083438,
     "wof:name":"Mjs Mechanical LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

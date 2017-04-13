@@ -2,9 +2,14 @@
   "id": 655766111,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 State Rt 284 Sussex NJ 07461",
+    "addr:housenumber":"299",
+    "addr:postcode":"07461",
+    "addr:street":"State Rt 284",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.571307,41.252808,-74.571307,41.252808",
     "geom:latitude":41.252808,
     "geom:longitude":-74.571307,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HL04OhR9KjchPTmlLPpIT_41.252808_-74.571307@1303262265"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461319897,
     "wof:geomhash":"099b3a120d09236f2dcb7b1c6d783fd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527675,
+            "venue_id":655766111
+        }
+    ],
     "wof:id":655766111,
-    "wof:lastmodified":1466686009,
+    "wof:lastmodified":1492041935,
     "wof:name":"Galesi-Hoehn Agency Inc",
     "wof:parent_id":420527675,
     "wof:placetype":"venue",

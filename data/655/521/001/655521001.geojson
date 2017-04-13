@@ -2,9 +2,14 @@
   "id": 655521001,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 Dutch Neck Rd Hightstown NJ 08520",
+    "addr:housenumber":"539",
+    "addr:postcode":"08520",
+    "addr:street":"Dutch Neck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.570209,40.267592,-74.570209,40.267592",
     "geom:latitude":40.267592,
     "geom:longitude":-74.570209,
@@ -28,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R3r5dEs6Cj1MkCq3DldWj_40.267592_-74.570209@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461309708,
     "wof:geomhash":"d5578d2ae44d1a71b42ac61b9c4e136e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":655521001
+        }
+    ],
     "wof:id":655521001,
-    "wof:lastmodified":1466688837,
+    "wof:lastmodified":1492039451,
     "wof:name":"Stewart Software Solut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

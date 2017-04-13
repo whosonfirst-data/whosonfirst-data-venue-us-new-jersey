@@ -2,9 +2,14 @@
   "id": 639534767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Sachem Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"3",
+    "addr:postcode":"07849",
+    "addr:street":"Sachem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.602059,40.991721,-74.602059,40.991721",
     "geom:latitude":40.991721,
     "geom:longitude":-74.602059,
@@ -27,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_083irleJjpc8qXzKZXGvMP_40.991721_-74.602059@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461299053,
     "wof:geomhash":"3d810fb726305f5eb966cf756e4c611e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":639534767
+        }
+    ],
     "wof:id":639534767,
-    "wof:lastmodified":1466695772,
+    "wof:lastmodified":1492082034,
     "wof:name":"Creative Evolution",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

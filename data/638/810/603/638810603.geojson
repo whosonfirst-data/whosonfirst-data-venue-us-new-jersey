@@ -2,9 +2,14 @@
   "id": 638810603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cumberland Rd Hillsborough NJ 08844",
+    "addr:housenumber":"1",
+    "addr:postcode":"08844",
+    "addr:street":"Cumberland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.644913,40.508043,-74.644913,40.508043",
     "geom:latitude":40.508043,
     "geom:longitude":-74.644913,
@@ -33,8 +38,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85806449,
-        102085045
+        85858977,
+        102085045,
+        85806449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85858977,
+            "region_id":85688607,
+            "venue_id":638810603
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85806449,
             "region_id":85688607,
             "venue_id":638810603
         }
     ],
     "wof:id":638810603,
-    "wof:lastmodified":1466686963,
+    "wof:lastmodified":1492055210,
     "wof:name":"Santonastaso Electric",
-    "wof:parent_id":85806449,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

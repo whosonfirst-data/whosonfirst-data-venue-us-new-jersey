@@ -2,9 +2,14 @@
   "id": 639423865,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Olive St Branchburg NJ 08853",
+    "addr:housenumber":"405",
+    "addr:postcode":"08853",
+    "addr:street":"Olive St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.730943,40.509722,-74.730943,40.509722",
     "geom:latitude":40.509722,
     "geom:longitude":-74.730943,
@@ -27,7 +32,10 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xI23YXRct7za9LROZl8Ck_40.509722_-74.730943@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461294797,
     "wof:geomhash":"9f812f15d0297beeac870e38928ea68a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639423865
+        }
+    ],
     "wof:id":639423865,
-    "wof:lastmodified":1466693331,
+    "wof:lastmodified":1492056112,
     "wof:name":"First Clean",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639619123,
   "type": "Feature",
   "properties": {
+    "addr:full":"991 Clinton Ave Irvington NJ 07111",
+    "addr:housenumber":"991",
+    "addr:postcode":"07111",
+    "addr:street":"Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244017,40.730689,-74.244017,40.730689",
     "geom:latitude":40.730689,
     "geom:longitude":-74.244017,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zjr38WU73PMguObyd3ZmG_40.730689_-74.244017@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461302475,
     "wof:geomhash":"88a1b5ce14cc7333b00738ef3b2f969d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":639619123
+        }
+    ],
     "wof:id":639619123,
-    "wof:lastmodified":1466697391,
+    "wof:lastmodified":1492076689,
     "wof:name":"Clinton Auto & Truck Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

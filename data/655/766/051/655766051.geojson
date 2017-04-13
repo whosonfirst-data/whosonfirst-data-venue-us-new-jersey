@@ -2,9 +2,14 @@
   "id": 655766051,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Silver Fox Ln Sussex NJ 07461",
+    "addr:housenumber":"10",
+    "addr:postcode":"07461",
+    "addr:street":"Silver Fox Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.529313,41.221654,-74.529313,41.221654",
     "geom:latitude":41.221654,
     "geom:longitude":-74.529313,
@@ -27,7 +32,10 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QumJYe5jq3dhQJ7I5VOUe_41.221654_-74.529313@1303262265"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461319895,
     "wof:geomhash":"b3fd90ec2f581924f14702fad2134b79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":655766051
+        }
+    ],
     "wof:id":655766051,
-    "wof:lastmodified":1466685993,
+    "wof:lastmodified":1492058467,
     "wof:name":"Abco Electric Co",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

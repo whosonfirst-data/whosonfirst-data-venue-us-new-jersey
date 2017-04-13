@@ -2,9 +2,14 @@
   "id": 638668831,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Adams Dr Totowa NJ 07512",
+    "addr:housenumber":"40",
+    "addr:postcode":"07512",
+    "addr:street":"Adams Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225456,40.887584,-74.225456,40.887584",
     "geom:latitude":40.887584,
     "geom:longitude":-74.225456,
@@ -30,7 +35,14 @@
         "enclosure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ze24fjxcAdZeMtuAodgwP_40.887584_-74.225456@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461276427,
     "wof:geomhash":"38f4a1fb17b8d197e34de8d3e58bc2b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":638668831
+        }
+    ],
     "wof:id":638668831,
-    "wof:lastmodified":1466674372,
+    "wof:lastmodified":1492046335,
     "wof:name":"Patio Enclosures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

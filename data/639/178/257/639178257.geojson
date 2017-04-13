@@ -2,9 +2,14 @@
   "id": 639178257,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 Pinewald Keswick Rd Bayville NJ 08759",
+    "addr:housenumber":"627",
+    "addr:postcode":"08759",
+    "addr:street":"Pinewald Keswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.346105,39.947452,-74.346105,39.947452",
     "geom:latitude":39.947452,
     "geom:longitude":-74.346105,
@@ -27,7 +32,10 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eBYXiAWneUMLNf1yvMNY5_39.947452_-74.346105@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461289157,
     "wof:geomhash":"c90ac7caf7fecd5325b09ad073cb9cb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527465,
+            "venue_id":639178257
+        }
+    ],
     "wof:id":639178257,
-    "wof:lastmodified":1466685581,
+    "wof:lastmodified":1492069458,
     "wof:name":"Berkeley Twp Adm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

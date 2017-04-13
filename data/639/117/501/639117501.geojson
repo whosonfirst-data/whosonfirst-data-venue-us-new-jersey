@@ -2,9 +2,14 @@
   "id": 639117501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1230",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238332,40.725173,-74.238332,40.725173",
     "geom:latitude":40.725173,
     "geom:longitude":-74.238332,
@@ -28,7 +33,10 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tSWExPVxxkh6rzrgIF27N_40.725173_-74.238332@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461287730,
     "wof:geomhash":"4c7856a8f3d8593753c472f0e6ab8a14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639117501
+        }
+    ],
     "wof:id":639117501,
-    "wof:lastmodified":1466676717,
+    "wof:lastmodified":1492050539,
     "wof:name":"Noblehouse Financial",
     "wof:parent_id":420526925,
     "wof:placetype":"venue",

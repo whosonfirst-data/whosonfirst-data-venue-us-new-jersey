@@ -2,9 +2,14 @@
   "id": 655733153,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 E Cherry St Rahway NJ 07065",
+    "addr:housenumber":"95",
+    "addr:postcode":"07065",
+    "addr:street":"E Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273971,40.606774,-74.273971,40.606774",
     "geom:latitude":40.606774,
     "geom:longitude":-74.273971,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y2Rb0qipnOhhhtQ4DU9bC_40.606774_-74.273971@1303262257"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318651,
     "wof:geomhash":"dd99c1e82ff26a46e0840b0393e93bde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733153
+        }
+    ],
     "wof:id":655733153,
-    "wof:lastmodified":1466685054,
+    "wof:lastmodified":1492024397,
     "wof:name":"A 24-7 Emergency A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

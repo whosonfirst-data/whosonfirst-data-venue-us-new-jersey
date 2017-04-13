@@ -2,9 +2,14 @@
   "id": 639477347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1770 Burnet Ave Union NJ 07083",
+    "addr:housenumber":"1770",
+    "addr:postcode":"07083",
+    "addr:street":"Burnet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268881,40.715367,-74.268881,40.715367",
     "geom:latitude":40.715367,
     "geom:longitude":-74.268881,
@@ -27,7 +32,13 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zMRZII9Bnd2k8tpacpGDa_40.715367_-74.268881@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296494,
     "wof:geomhash":"726116d7169367e57e84e843028c40a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639477347
+        }
+    ],
     "wof:id":639477347,
-    "wof:lastmodified":1466694258,
+    "wof:lastmodified":1492057135,
     "wof:name":"Diaz Cleaners Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655553501,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Village Rd E Princeton Jct NJ 08550",
+    "addr:housenumber":"401",
+    "addr:postcode":"08550",
+    "addr:street":"Village Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.609759,40.280454,-74.609759,40.280454",
     "geom:latitude":40.280454,
     "geom:longitude":-74.609759,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85822195,
-        102081129
+        102081129,
+        420527153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,17 @@
             "neighbourhood_id":85822195,
             "region_id":85688607,
             "venue_id":655553501
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":655553501
         }
     ],
     "wof:id":655553501,
-    "wof:lastmodified":1466679544,
+    "wof:lastmodified":1492071989,
     "wof:name":"Windsor Chapel",
-    "wof:parent_id":85822195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

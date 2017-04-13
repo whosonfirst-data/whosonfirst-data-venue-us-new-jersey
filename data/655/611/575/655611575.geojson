@@ -2,9 +2,14 @@
   "id": 655611575,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Summit Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"63",
+    "addr:postcode":"07438",
+    "addr:street":"Summit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523069,41.035456,-74.523069,41.035456",
     "geom:latitude":41.035456,
     "geom:longitude":-74.523069,
@@ -27,7 +32,13 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478317,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dEwloIQ4lEmrI0RVpprOB_41.035456_-74.523069@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461313497,
     "wof:geomhash":"e6524d4f45381aa0a6cb9bf411fea57f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478317,
+            "region_id":85688607,
+            "venue_id":655611575
+        }
+    ],
     "wof:id":655611575,
-    "wof:lastmodified":1466681500,
+    "wof:lastmodified":1492047572,
     "wof:name":"Morris County Tax Assoc LI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655763847,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Silver Birch Ave Oakland NJ 07436",
+    "addr:housenumber":"17",
+    "addr:postcode":"07436",
+    "addr:street":"Silver Birch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246173,41.026922,-74.246173,41.026922",
     "geom:latitude":41.026922,
     "geom:longitude":-74.246173,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VuBg2DScog7OgmDlvcXTK_41.026922_-74.246173@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319804,
     "wof:geomhash":"1f98734422190a7e400c86044a13c4c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655763847
+        }
+    ],
     "wof:id":655763847,
-    "wof:lastmodified":1466686023,
+    "wof:lastmodified":1492054068,
     "wof:name":"Windmill Originals Custom Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

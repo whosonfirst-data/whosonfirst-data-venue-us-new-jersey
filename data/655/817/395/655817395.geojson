@@ -2,9 +2,14 @@
   "id": 655817395,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Route 130 Apt 50C Delran NJ 08075",
+    "addr:housenumber":"3001",
+    "addr:postcode":"08075",
+    "addr:street":"Route 130 Apt;Delran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.963036,40.011627,-74.963036,40.011627",
     "geom:latitude":40.011627,
     "geom:longitude":-74.963036,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aRcu1sdJ6lDFAYw63M0WE_40.011627_-74.963036@1303262277"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461322170,
     "wof:geomhash":"bf1add3b3ec38f41e67b81e9d6f6e575",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":655817395
+        }
+    ],
     "wof:id":655817395,
-    "wof:lastmodified":1466687389,
+    "wof:lastmodified":1492043097,
     "wof:name":"Nurettin Ouzturk Painting",
     "wof:parent_id":420526595,
     "wof:placetype":"venue",

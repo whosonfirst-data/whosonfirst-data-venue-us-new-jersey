@@ -2,9 +2,14 @@
   "id": 655787825,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Greenwich St Ste A Belvidere NJ 07823",
+    "addr:housenumber":"234",
+    "addr:postcode":"07823",
+    "addr:street":"Greenwich St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078775,40.826663,-75.078775,40.826663",
     "geom:latitude":40.826663,
     "geom:longitude":-75.078775,
@@ -28,7 +33,14 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L9aPWPlAW24Hw2JoKnrb9_40.826663_-75.078775@1303262270"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461320887,
     "wof:geomhash":"7e0fde08d3c251acf7fd6b5ac703f182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787825
+        }
+    ],
     "wof:id":655787825,
-    "wof:lastmodified":1466686721,
+    "wof:lastmodified":1492048118,
     "wof:name":"Reddy Muralidhar G MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

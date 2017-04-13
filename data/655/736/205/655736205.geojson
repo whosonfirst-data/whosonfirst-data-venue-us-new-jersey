@@ -2,9 +2,14 @@
   "id": 655736205,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Marginal Rd Rutherford NJ 07070",
+    "addr:housenumber":"4",
+    "addr:postcode":"07070",
+    "addr:street":"Marginal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120514,40.821396,-74.120514,40.821396",
     "geom:latitude":40.821396,
     "geom:longitude":-74.120514,
@@ -35,7 +40,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477727,
+        85633793,
+        85975923,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4taNNDbG4aKftVu9dFuGLg_40.821396_-74.120514@1303262257"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461318775,
     "wof:geomhash":"5c15ac8a49b98de1d8b723db3cd383b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477727,
+            "locality_id":85975923,
+            "region_id":85688607,
+            "venue_id":655736205
+        }
+    ],
     "wof:id":655736205,
-    "wof:lastmodified":1466685247,
+    "wof:lastmodified":1492041257,
     "wof:name":"Tile Craft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

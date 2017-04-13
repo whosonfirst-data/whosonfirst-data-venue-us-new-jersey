@@ -2,9 +2,14 @@
   "id": 638627333,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Seber Rd Hackettstown NJ 07840",
+    "addr:housenumber":"3",
+    "addr:postcode":"07840",
+    "addr:street":"Seber Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.817088,40.857421,-74.817088,40.857421",
     "geom:latitude":40.857421,
     "geom:longitude":-74.817088,
@@ -30,7 +35,14 @@
         "child"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YIBpHqVX1KkB3RoPajmA2_40.857421_-74.817088@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461275142,
     "wof:geomhash":"1ca53da8da901409db2fa2cffdb68fac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":638627333
+        }
+    ],
     "wof:id":638627333,
-    "wof:lastmodified":1466673171,
+    "wof:lastmodified":1492076982,
     "wof:name":"Skyland Cntr Off Autisum Prg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

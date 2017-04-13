@@ -2,9 +2,14 @@
   "id": 639023669,
   "type": "Feature",
   "properties": {
+    "addr:full":"482 Summit Ave Maplewood NJ 07040",
+    "addr:housenumber":"482",
+    "addr:postcode":"07040",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262332,40.733533,-74.262332,40.733533",
     "geom:latitude":40.733533,
     "geom:longitude":-74.262332,
@@ -27,7 +32,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CGMLX0tqchxajSkvVDNvT_40.733533_-74.262332@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461285624,
     "wof:geomhash":"5b0e5f088644b90e247df1b1620beb56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526955,
+            "venue_id":639023669
+        }
+    ],
     "wof:id":639023669,
-    "wof:lastmodified":1466673674,
+    "wof:lastmodified":1492039805,
     "wof:name":"Our House Production Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

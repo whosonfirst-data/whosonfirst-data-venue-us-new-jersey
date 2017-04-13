@@ -2,9 +2,14 @@
   "id": 639571465,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 N Bayard Ln Mahwah NJ 07430",
+    "addr:housenumber":"5",
+    "addr:postcode":"07430",
+    "addr:street":"N Bayard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132218,41.082553,-74.132218,41.082553",
     "geom:latitude":41.082553,
     "geom:longitude":-74.132218,
@@ -32,7 +37,13 @@
         "lease"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dYQqOeHDF2Qd4J8vZITaz_41.082553_-74.132218@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461300577,
     "wof:geomhash":"29c13db3cc2c2b8daec4c3f101ca1105",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639571465
+        }
+    ],
     "wof:id":639571465,
-    "wof:lastmodified":1466696336,
+    "wof:lastmodified":1492076246,
     "wof:name":"Assured Solutions Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

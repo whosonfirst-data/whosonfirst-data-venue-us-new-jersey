@@ -2,9 +2,14 @@
   "id": 655704359,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Chelsea Rd. Clifton NJ 07011",
+    "addr:housenumber":"100",
+    "addr:postcode":"07011",
+    "addr:street":"Chelsea Rd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.16351,40.847592,-74.16351,40.847592",
     "geom:latitude":40.847592,
     "geom:longitude":-74.16351,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.allwoodcommunitychurch.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5haENoJHk33CvMNDI7eHA8_40.847592_-74.163510@1303262250"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461317547,
     "wof:geomhash":"95632965d47de49eca7b1675e04b734e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655704359
+        }
+    ],
     "wof:id":655704359,
-    "wof:lastmodified":1466684346,
+    "wof:lastmodified":1492045546,
     "wof:name":"Allwood Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

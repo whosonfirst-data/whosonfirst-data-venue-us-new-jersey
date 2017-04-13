@@ -2,9 +2,14 @@
   "id": 638662361,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 N Maple Ave Tuckerton NJ 08087",
+    "addr:housenumber":"113",
+    "addr:postcode":"08087",
+    "addr:street":"N Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.449868,39.610699,-74.449868,39.610699",
     "geom:latitude":39.610699,
     "geom:longitude":-74.449868,
@@ -27,7 +32,10 @@
         "bulkhead"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7maCJHW5OaoxcY2UT9D2vW_39.610699_-74.449868@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461276211,
     "wof:geomhash":"ded234158052fc516b50e2cc85f1ed2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526669,
+            "venue_id":638662361
+        }
+    ],
     "wof:id":638662361,
-    "wof:lastmodified":1466674181,
+    "wof:lastmodified":1492062445,
     "wof:name":"J & M Marine Construction",
     "wof:parent_id":420526669,
     "wof:placetype":"venue",

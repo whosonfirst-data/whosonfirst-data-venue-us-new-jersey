@@ -2,9 +2,14 @@
   "id": 639126557,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 Rock Rd Glen Rock NJ 07452",
+    "addr:housenumber":"242",
+    "addr:postcode":"07452",
+    "addr:street":"Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130752,40.962436,-74.130752,40.962436",
     "geom:latitude":40.962436,
     "geom:longitude":-74.130752,
@@ -28,7 +33,14 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V6IWGFT85N1TRCA8CT34K_40.962436_-74.130752@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461287999,
     "wof:geomhash":"135c44718ae547e9bac42e81f8242fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639126557
+        }
+    ],
     "wof:id":639126557,
-    "wof:lastmodified":1466677905,
+    "wof:lastmodified":1492054523,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

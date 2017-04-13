@@ -2,9 +2,14 @@
   "id": 639307585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Stephanie Ln Trenton NJ 08691",
+    "addr:housenumber":"1",
+    "addr:postcode":"08691",
+    "addr:street":"Stephanie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.648651,40.170232,-74.648651,40.170232",
     "geom:latitude":40.170232,
     "geom:longitude":-74.648651,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976385,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SxiNkCsbXSmcPfl8jJ8GO_40.170232_-74.648651@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292121,
     "wof:geomhash":"5a91dc4cd8a110f9f70896ae0b17c274",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976385,
+            "region_id":85688607,
+            "venue_id":639307585
+        }
+    ],
     "wof:id":639307585,
-    "wof:lastmodified":1466691645,
+    "wof:lastmodified":1492049532,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

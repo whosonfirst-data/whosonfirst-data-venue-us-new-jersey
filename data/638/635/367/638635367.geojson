@@ -2,9 +2,14 @@
   "id": 638635367,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Walnut Ave Somerset NJ 08873",
+    "addr:housenumber":"14",
+    "addr:postcode":"08873",
+    "addr:street":"Walnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500086,40.529429,-74.500086,40.529429",
     "geom:latitude":40.529429,
     "geom:longitude":-74.500086,
@@ -27,7 +32,14 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fzwpNqWuE8kQ7n8OWfmBA_40.529429_-74.500086@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275383,
     "wof:geomhash":"6176db3b78920168b67bc29632f1dfd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":638635367
+        }
+    ],
     "wof:id":638635367,
-    "wof:lastmodified":1466673353,
+    "wof:lastmodified":1492062300,
     "wof:name":"Barbara Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

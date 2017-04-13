@@ -2,9 +2,14 @@
   "id": 638831479,
   "type": "Feature",
   "properties": {
+    "addr:full":"558 E Crescent Ave Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"558",
+    "addr:postcode":"07458",
+    "addr:street":"E Crescent Ave Upper Saddle Rvr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.121782,41.064011,-74.121782,41.064011",
     "geom:latitude":41.064011,
     "geom:longitude":-74.121782,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MKXJrrBqIzfFsQLFB3Qnq_41.064011_-74.121782@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281028,
     "wof:geomhash":"918676fa575b8973e6c4eeb8309231a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":638831479
+        }
+    ],
     "wof:id":638831479,
-    "wof:lastmodified":1466688927,
+    "wof:lastmodified":1492026226,
     "wof:name":"Saddle River Landscape Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655391751,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Trensch Dr New Milford NJ 07646",
+    "addr:housenumber":"336",
+    "addr:postcode":"07646",
+    "addr:street":"Trensch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.011344,40.950488,-74.011344,40.950488",
     "geom:latitude":40.950488,
     "geom:longitude":-74.011344,
@@ -29,7 +34,14 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477695,
+        85633793,
+        85975969,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HSf02CObi8TQM7iRMMKB7_40.950488_-74.011344@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461304291,
     "wof:geomhash":"387cf8aaecaa54c93edb5729da9edfee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477695,
+            "locality_id":85975969,
+            "region_id":85688607,
+            "venue_id":655391751
+        }
+    ],
     "wof:id":655391751,
-    "wof:lastmodified":1466675378,
+    "wof:lastmodified":1492081980,
     "wof:name":"S K Knight & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639328495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3122 State Rte 88 Point Pleasant NJ 08742",
+    "addr:housenumber":"3122",
+    "addr:postcode":"08742",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.084364,40.089161,-74.084364,40.089161",
     "geom:latitude":40.089161,
     "geom:longitude":-74.084364,
@@ -28,7 +33,14 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Wu0ay517m8r9G19dHiW5_40.089161_-74.084364@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292573,
     "wof:geomhash":"198d38373d43cd93fdd01a45cec06c25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639328495
+        }
+    ],
     "wof:id":639328495,
-    "wof:lastmodified":1466692090,
+    "wof:lastmodified":1492051328,
     "wof:name":"Cingular Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

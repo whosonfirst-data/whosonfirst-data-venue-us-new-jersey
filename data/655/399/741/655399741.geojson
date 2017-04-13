@@ -2,9 +2,14 @@
   "id": 655399741,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Broad St Norwood NJ 07648",
+    "addr:housenumber":"13",
+    "addr:postcode":"07648",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.966923,40.999824,-73.966923,40.999824",
     "geom:latitude":40.999824,
     "geom:longitude":-73.966923,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77f72QXvqiFiw0mspt6MGy_40.999824_-73.966923@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304623,
     "wof:geomhash":"13252c8c4cd9f82a5abeffb3c7c39f2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655399741
+        }
+    ],
     "wof:id":655399741,
-    "wof:lastmodified":1466675601,
+    "wof:lastmodified":1492040089,
     "wof:name":"Treasures By Terry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655638979,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Mill St Belvidere NJ 07823",
+    "addr:housenumber":"311",
+    "addr:postcode":"07823",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077942,40.828633,-75.077942,40.828633",
     "geom:latitude":40.828633,
     "geom:longitude":-75.077942,
@@ -27,7 +32,14 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1utbODvzWKgADFLFIaNU49_40.828633_-75.077942@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314724,
     "wof:geomhash":"61558e27d55354ba46c225982d0b8447",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655638979
+        }
+    ],
     "wof:id":655638979,
-    "wof:lastmodified":1466682651,
+    "wof:lastmodified":1492048109,
     "wof:name":"American Bail & Process Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655468435,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Co Rd 539 Lakehurst NJ 08759",
+    "addr:housenumber":"180;539",
+    "addr:postcode":"08759",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.392663,39.951962,-74.392663,39.951962",
     "geom:latitude":39.951962,
     "geom:longitude":-74.392663,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SQGtgwH2FaL1Bq4NA8FuO_39.951962_-74.392663@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307520,
     "wof:geomhash":"88ff495c60e19497f1ed2c9e82520bd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":655468435
+        }
+    ],
     "wof:id":655468435,
-    "wof:lastmodified":1466677363,
+    "wof:lastmodified":1492045222,
     "wof:name":"St Stephens Episcopal Church",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

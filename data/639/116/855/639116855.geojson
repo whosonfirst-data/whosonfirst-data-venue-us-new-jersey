@@ -2,9 +2,14 @@
   "id": 639116855,
   "type": "Feature",
   "properties": {
+    "addr:full":"5757 S Broad St Trenton NJ 08620",
+    "addr:housenumber":"5757",
+    "addr:postcode":"08620",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.65086,40.160027,-74.65086,40.160027",
     "geom:latitude":40.160027,
     "geom:longitude":-74.65086,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976385,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gJupfXaGqRYzx9iafzFgc_40.160027_-74.650860@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287714,
     "wof:geomhash":"2d3849180721e6472160e6e1d4a27047",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976385,
+            "region_id":85688607,
+            "venue_id":639116855
+        }
+    ],
     "wof:id":639116855,
-    "wof:lastmodified":1466676639,
+    "wof:lastmodified":1492069449,
     "wof:name":"Ford Brothers Bldrs & Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

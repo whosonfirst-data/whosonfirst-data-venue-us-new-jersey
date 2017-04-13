@@ -2,9 +2,14 @@
   "id": 655375137,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Robbins St Brick NJ 08724",
+    "addr:housenumber":"59",
+    "addr:postcode":"08724",
+    "addr:street":"Robbins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1231,40.06646,-74.1231,40.06646",
     "geom:latitude":40.06646,
     "geom:longitude":-74.1231,
@@ -24,7 +29,13 @@
     "sg:postcode":"08724",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85829965,
+        102081485,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NnLMEOOScCS4CQ2ZRBTS8_40.066460_-74.123100@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461303628,
     "wof:geomhash":"7dfa867b538403e62fdaed3ecac28434",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85829965,
+            "region_id":85688607,
+            "venue_id":655375137
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655375137
+        }
+    ],
     "wof:id":655375137,
-    "wof:lastmodified":1466674714,
+    "wof:lastmodified":1492054892,
     "wof:name":"Gioia Trading Partnership",
-    "wof:parent_id":420527381,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

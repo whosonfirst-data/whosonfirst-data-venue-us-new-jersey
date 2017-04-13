@@ -2,9 +2,14 @@
   "id": 655560655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 Burnet Ave Union NJ 07083",
+    "addr:housenumber":"1420",
+    "addr:postcode":"07083",
+    "addr:street":"Burnet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279881,40.711738,-74.279881,40.711738",
     "geom:latitude":40.711738,
     "geom:longitude":-74.279881,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38lZedx8fKFrLurwqPj1Ps_40.711738_-74.279881@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461311305,
     "wof:geomhash":"e5aeb621d028e94f032b7e4b5a0638e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655560655
+        }
+    ],
     "wof:id":655560655,
-    "wof:lastmodified":1466679845,
+    "wof:lastmodified":1492022668,
     "wof:name":"Richard A Lomakin Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

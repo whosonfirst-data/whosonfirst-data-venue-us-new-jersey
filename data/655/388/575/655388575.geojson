@@ -2,9 +2,14 @@
   "id": 655388575,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Wyoming Ave Millburn NJ 07041",
+    "addr:housenumber":"360",
+    "addr:postcode":"07041",
+    "addr:street":"Wyoming Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289092,40.732081,-74.289092,40.732081",
     "geom:latitude":40.732081,
     "geom:longitude":-74.289092,
@@ -27,6 +32,8 @@
     "wof:belongsto":[
         85688607,
         85633793,
+        85892403,
+        102085043,
         85892411,
         102085995
     ],
@@ -40,6 +47,13 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892403,
+            "region_id":85688607,
+            "venue_id":655388575
+        },
+        {
+            "country_id":85633793,
             "county_id":102085995,
             "neighbourhood_id":85892411,
             "region_id":85688607,
@@ -47,9 +61,9 @@
         }
     ],
     "wof:id":655388575,
-    "wof:lastmodified":1466675217,
+    "wof:lastmodified":1492045933,
     "wof:name":"Frank Dasti",
-    "wof:parent_id":85892411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

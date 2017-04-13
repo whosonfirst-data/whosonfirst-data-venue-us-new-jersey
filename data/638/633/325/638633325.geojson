@@ -2,9 +2,14 @@
   "id": 638633325,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Daisy Ct Jackson NJ 08527",
+    "addr:housenumber":"408",
+    "addr:postcode":"08527",
+    "addr:street":"Daisy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28236,40.118396,-74.28236,40.118396",
     "geom:latitude":40.118396,
     "geom:longitude":-74.28236,
@@ -27,7 +32,13 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wwGDG8oSr78Hq7poSn7xi_40.118396_-74.282360@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461275319,
     "wof:geomhash":"14e6774bc33385931aa2b18aa7b960e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638633325
+        }
+    ],
     "wof:id":638633325,
-    "wof:lastmodified":1466673336,
+    "wof:lastmodified":1492056265,
     "wof:name":"Warrens Sales/Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655804855,
   "type": "Feature",
   "properties": {
+    "addr:full":"289 White Horse Pike Atco NJ 08004",
+    "addr:housenumber":"289",
+    "addr:postcode":"08004",
+    "addr:street":"White Horse Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901299,39.771999,-74.901299,39.771999",
     "geom:latitude":39.771999,
     "geom:longitude":-74.901299,
@@ -28,7 +33,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wCDV2XnNL2O3lcPYkhBK4_39.771999_-74.901299@1303262274"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321562,
     "wof:geomhash":"c75f566ae7c2cf95fe56d6961462d0b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655804855
+        }
+    ],
     "wof:id":655804855,
-    "wof:lastmodified":1466687176,
+    "wof:lastmodified":1492040550,
     "wof:name":"Atlantic Orthopedic & Sports Physical Therapy",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

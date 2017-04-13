@@ -2,9 +2,14 @@
   "id": 639194313,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Kuhl Rd Flemington NJ 08822",
+    "addr:housenumber":"119",
+    "addr:postcode":"08822",
+    "addr:street":"Kuhl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.82048,40.482692,-74.82048,40.482692",
     "geom:latitude":40.482692,
     "geom:longitude":-74.82048,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85843949,
-        102085997
+        102085997,
+        85845461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85843949,
             "region_id":85688607,
             "venue_id":639194313
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85845461,
+            "region_id":85688607,
+            "venue_id":639194313
         }
     ],
     "wof:id":639194313,
-    "wof:lastmodified":1466687748,
+    "wof:lastmodified":1492040977,
     "wof:name":"Sound Images",
-    "wof:parent_id":85843949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

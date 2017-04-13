@@ -2,9 +2,14 @@
   "id": 639261785,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Post Rd Clark NJ 07066",
+    "addr:housenumber":"80",
+    "addr:postcode":"07066",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307629,40.614014,-74.307629,40.614014",
     "geom:latitude":40.614014,
     "geom:longitude":-74.307629,
@@ -34,7 +39,13 @@
         "seminar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qD67QkyCIZHR73jGd57I9_40.614014_-74.307629@1294171694"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461291094,
     "wof:geomhash":"0640bd8be7edaaaa1fa344cff96f6e44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639261785
+        }
+    ],
     "wof:id":639261785,
-    "wof:lastmodified":1466690606,
+    "wof:lastmodified":1492044195,
     "wof:name":"Directions For Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

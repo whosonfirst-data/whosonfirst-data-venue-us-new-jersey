@@ -2,9 +2,14 @@
   "id": 639319883,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Hope Pl Ringwood NJ 07456",
+    "addr:housenumber":"18",
+    "addr:postcode":"07456",
+    "addr:street":"Hope Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25868,41.100083,-74.25868,41.100083",
     "geom:latitude":41.100083,
     "geom:longitude":-74.25868,
@@ -24,7 +29,14 @@
     "sg:postcode":"07456",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hpYLEmmfeEq7v1Pyj3ZpD_41.100083_-74.258680@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461292389,
     "wof:geomhash":"d9b56758ee4a34c6598b100092cd5377",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":639319883
+        }
+    ],
     "wof:id":639319883,
-    "wof:lastmodified":1466691718,
+    "wof:lastmodified":1492047515,
     "wof:name":"Applied Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

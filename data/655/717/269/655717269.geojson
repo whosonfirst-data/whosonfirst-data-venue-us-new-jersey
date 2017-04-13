@@ -2,9 +2,14 @@
   "id": 655717269,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Bradford Ave Linden NJ 07036",
+    "addr:housenumber":"109",
+    "addr:postcode":"07036",
+    "addr:street":"Bradford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.265589,40.618254,-74.265589,40.618254",
     "geom:latitude":40.618254,
     "geom:longitude":-74.265589,
@@ -55,7 +60,14 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R6VzgGlmYseYkOnz5KRKo_40.618254_-74.265589@1303262253"
@@ -63,9 +75,19 @@
     "wof:country":"US",
     "wof:created":1461318051,
     "wof:geomhash":"ab25637a75d786953d7152c02824409c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655717269
+        }
+    ],
     "wof:id":655717269,
-    "wof:lastmodified":1466684750,
+    "wof:lastmodified":1492065175,
     "wof:name":"Republic Mold & Tool Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655689109,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"209",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962568,40.974146,-73.962568,40.974146",
     "geom:latitude":40.974146,
     "geom:longitude":-73.962568,
@@ -29,7 +34,14 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LZOVwny9nN0Dh9KZ7DZDE_40.974146_-73.962568@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316826,
     "wof:geomhash":"9cbd6e439be6e4c4936ce3315c5553ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655689109
+        }
+    ],
     "wof:id":655689109,
-    "wof:lastmodified":1466683928,
+    "wof:lastmodified":1492052124,
     "wof:name":"Dong Hea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639282773,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 E Stewart St Washington NJ 07882",
+    "addr:housenumber":"50",
+    "addr:postcode":"07882",
+    "addr:street":"E Stewart St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.979411,40.761621,-74.979411,40.761621",
     "geom:latitude":40.761621,
     "geom:longitude":-74.979411,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.henkelsandmccoy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uGcg0CkTARclm4rXiXQXn_40.761621_-74.979411@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461291605,
     "wof:geomhash":"98a08fabbeaf6f28a0483f610c5df926",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639282773
+        }
+    ],
     "wof:id":639282773,
-    "wof:lastmodified":1466691100,
+    "wof:lastmodified":1492042481,
     "wof:name":"Henkels & Mc Coy Inc",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

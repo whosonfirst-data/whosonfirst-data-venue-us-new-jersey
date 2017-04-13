@@ -2,9 +2,14 @@
   "id": 655673363,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Wilson Ave Totowa NJ 07512",
+    "addr:housenumber":"6",
+    "addr:postcode":"07512",
+    "addr:street":"Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219122,40.898637,-74.219122,40.898637",
     "geom:latitude":40.898637,
     "geom:longitude":-74.219122,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iIlvVZoHlFI3ZIq9kae3L_40.898780_-74.219118@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316159,
     "wof:geomhash":"38ba16fd43f7a23370e8a319b9633c5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655673363
+        }
+    ],
     "wof:id":655673363,
-    "wof:lastmodified":1466683544,
+    "wof:lastmodified":1492029628,
     "wof:name":"Greg Expert Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

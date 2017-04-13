@@ -2,9 +2,14 @@
   "id": 655447715,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Broad Ave Fairview NJ 07022",
+    "addr:housenumber":"125",
+    "addr:postcode":"07022",
+    "addr:street":"Broad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.008008,40.817261,-74.008008,40.817261",
     "geom:latitude":40.817261,
     "geom:longitude":-74.008008,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u7AnuOZAxntKH1GBaS4zu_40.817261_-74.008008@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306592,
     "wof:geomhash":"05e6fe64cf737227b48d4b06702ba958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655447715
+        }
+    ],
     "wof:id":655447715,
-    "wof:lastmodified":1466676875,
+    "wof:lastmodified":1492048335,
     "wof:name":"Horizon Home Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

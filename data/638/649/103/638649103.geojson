@@ -2,9 +2,14 @@
   "id": 638649103,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 W Factory Rd Berlin NJ 08009",
+    "addr:housenumber":"19",
+    "addr:postcode":"08009",
+    "addr:street":"W Factory Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.920448,39.760117,-74.920448,39.760117",
     "geom:latitude":39.760117,
     "geom:longitude":-74.920448,
@@ -24,7 +29,11 @@
     "sg:postcode":"08009",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526747,
+        420526739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fld25ozTmHFKAHnzZSTYD_39.760117_-74.920448@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461275775,
     "wof:geomhash":"e55d237d09a974d5540cdce865ebf5bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526747,
+            "venue_id":638649103
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526739,
+            "venue_id":638649103
+        }
+    ],
     "wof:id":638649103,
-    "wof:lastmodified":1466673736,
+    "wof:lastmodified":1492068646,
     "wof:name":"Riding Ir Dnosauras Motorcycle",
-    "wof:parent_id":420526739,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

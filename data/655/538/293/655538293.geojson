@@ -2,9 +2,14 @@
   "id": 655538293,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"62",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994518,40.937677,-73.994518,40.937677",
     "geom:latitude":40.937677,
     "geom:longitude":-73.994518,
@@ -34,7 +39,14 @@
     ],
     "sg:website":"www.davemurphy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RvUXfDdEkkSHocSzfVFGr_40.937677_-73.994518@1294171694"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461310361,
     "wof:geomhash":"d8144525cef9d47d8e85616bafd10af1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655538293
+        }
+    ],
     "wof:id":655538293,
-    "wof:lastmodified":1466679223,
+    "wof:lastmodified":1492051927,
     "wof:name":"David Murphy & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655756109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 Kilsyth Rd Elizabeth NJ 07208",
+    "addr:housenumber":"1026",
+    "addr:postcode":"07208",
+    "addr:street":"Kilsyth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.208917,40.686942,-74.208917,40.686942",
     "geom:latitude":40.686942,
     "geom:longitude":-74.208917,
@@ -38,7 +43,14 @@
     ],
     "sg:website":"http://www.accuratefence.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mTLB0mTWvJjZAJ7zhD4o8_40.686942_-74.208917@1303262262"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461319502,
     "wof:geomhash":"0c7e84961399f62cbef62c131906d5bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655756109
+        }
+    ],
     "wof:id":655756109,
-    "wof:lastmodified":1466685744,
+    "wof:lastmodified":1492049003,
     "wof:name":"Accurate Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

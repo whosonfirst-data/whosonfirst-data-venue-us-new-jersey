@@ -2,9 +2,14 @@
   "id": 639399511,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Legion Pl Closter NJ 07624",
+    "addr:housenumber":"20",
+    "addr:postcode":"07624",
+    "addr:street":"Legion Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.965679,40.972777,-73.965679,40.972777",
     "geom:latitude":40.972777,
     "geom:longitude":-73.965679,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.stmarycloster.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FkzryniqyJdwUMZcXqcp2_40.972777_-73.965679@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294176,
     "wof:geomhash":"4adad064a75a34ae8b24bf07767d5427",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639399511
+        }
+    ],
     "wof:id":639399511,
-    "wof:lastmodified":1466693012,
+    "wof:lastmodified":1492066265,
     "wof:name":"St Mary's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

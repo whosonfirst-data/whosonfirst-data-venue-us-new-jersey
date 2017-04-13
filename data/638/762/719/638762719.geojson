@@ -2,9 +2,14 @@
   "id": 638762719,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Holland Rd Far Hills NJ 07931",
+    "addr:housenumber":"440",
+    "addr:postcode":"07931",
+    "addr:street":"Holland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.671415,40.686866,-74.671415,40.686866",
     "geom:latitude":40.686866,
     "geom:longitude":-74.671415,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477909,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yXWtNvS5KbYx6pnfjmISS_40.686866_-74.671415@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461279369,
     "wof:geomhash":"08cd928dcb9dd76530fdfd004b067254",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477909,
+            "region_id":85688607,
+            "venue_id":638762719
+        }
+    ],
     "wof:id":638762719,
-    "wof:lastmodified":1466679808,
+    "wof:lastmodified":1492050518,
     "wof:name":"O D Philly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

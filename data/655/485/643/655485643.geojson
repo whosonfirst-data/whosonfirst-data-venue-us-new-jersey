@@ -2,9 +2,14 @@
   "id": 655485643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1513 Long Beach Ave Lakewood NJ 08701",
+    "addr:housenumber":"1513",
+    "addr:postcode":"08701",
+    "addr:street":"Long Beach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167822,40.094587,-74.167822,40.094587",
     "geom:latitude":40.094587,
     "geom:longitude":-74.167822,
@@ -27,7 +32,11 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sr1bLKCeQCKHNcO3BN5ST_40.094587_-74.167822@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461308227,
     "wof:geomhash":"1286de9d350c6285d6cf6377390634d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655485643
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655485643
+        }
+    ],
     "wof:id":655485643,
-    "wof:lastmodified":1466677732,
+    "wof:lastmodified":1492054890,
     "wof:name":"Unity Deliverance Ministries",
-    "wof:parent_id":420527315,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

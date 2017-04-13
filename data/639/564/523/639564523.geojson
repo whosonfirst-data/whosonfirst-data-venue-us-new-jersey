@@ -2,9 +2,14 @@
   "id": 639564523,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Elm St Dumont NJ 07628",
+    "addr:housenumber":"58",
+    "addr:postcode":"07628",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979381,40.939597,-73.979381,40.939597",
     "geom:latitude":40.939597,
     "geom:longitude":-73.979381,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MEeXx6lygQ731Dql8lOhz_40.939597_-73.979381@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461300291,
     "wof:geomhash":"edaaa45e52c926d280dd02172b139ceb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639564523
+        }
+    ],
     "wof:id":639564523,
-    "wof:lastmodified":1466696156,
+    "wof:lastmodified":1492081975,
     "wof:name":"Alpha Graphix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

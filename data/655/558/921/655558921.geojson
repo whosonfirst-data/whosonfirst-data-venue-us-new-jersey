@@ -2,9 +2,14 @@
   "id": 655558921,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Nomoco Rd Freehold NJ 07728",
+    "addr:housenumber":"66",
+    "addr:postcode":"07728",
+    "addr:street":"Nomoco Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314214,40.181275,-74.314214,40.181275",
     "geom:latitude":40.181275,
     "geom:longitude":-74.314214,
@@ -24,7 +29,10 @@
     "sg:postcode":"07728",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OVi7Q5790skpN6UDdrydT_40.181275_-74.314214@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461311214,
     "wof:geomhash":"64275d7fec7a6ff0554009e0a763c401",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527379,
+            "venue_id":655558921
+        }
+    ],
     "wof:id":655558921,
-    "wof:lastmodified":1466679913,
+    "wof:lastmodified":1492039451,
     "wof:name":"Turkey Swamp Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

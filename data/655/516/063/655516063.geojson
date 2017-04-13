@@ -2,9 +2,14 @@
   "id": 655516063,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Georgia Rd Freehold NJ 07728",
+    "addr:housenumber":"185",
+    "addr:postcode":"07728",
+    "addr:street":"Georgia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297432,40.194391,-74.297432,40.194391",
     "geom:latitude":40.194391,
     "geom:longitude":-74.297432,
@@ -27,7 +32,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dPsgPYwfiKWI2Z78Azh2d_40.194391_-74.297432@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309530,
     "wof:geomhash":"c3f574f11dcd867d5dea3fe5f91a2e24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":655516063
+        }
+    ],
     "wof:id":655516063,
-    "wof:lastmodified":1466678503,
+    "wof:lastmodified":1492020016,
     "wof:name":"Anza Inc",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

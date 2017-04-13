@@ -2,9 +2,14 @@
   "id": 655834679,
   "type": "Feature",
   "properties": {
+    "addr:full":"899 Parkway Ave Ewing NJ 08618",
+    "addr:housenumber":"899",
+    "addr:postcode":"08618",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.791641,40.254379,-74.791641,40.254379",
     "geom:latitude":40.254379,
     "geom:longitude":-74.791641,
@@ -34,7 +39,10 @@
     ],
     "sg:website":"http://www.actionusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zBkSF5m0Wgekcwu3fvORe_40.254379_-74.791641@1303262282"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461322852,
     "wof:geomhash":"18e618ba8878b1e0d80c11a8ff517b67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655834679
+        }
+    ],
     "wof:id":655834679,
-    "wof:lastmodified":1466687917,
+    "wof:lastmodified":1492020183,
     "wof:name":"Action USA-Market Realtors",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639512105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Marlton Pike E Cherry Hill NJ 08034",
+    "addr:housenumber":"1200",
+    "addr:postcode":"08034",
+    "addr:street":"Marlton Pike E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.993785,39.910925,-74.993785,39.910925",
     "geom:latitude":39.910925,
     "geom:longitude":-74.993785,
@@ -25,13 +30,15 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804463,
+        420526805,
         102191575,
         404477993,
         85633793,
-        85976245,
+        85976225,
         102081131,
-        85688607
+        85688607,
+        85804463,
+        85976245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +53,16 @@
             "country_id":85633793,
             "county_id":102081131,
             "localadmin_id":404477993,
+            "locality_id":85976225,
+            "neighbourhood_id":420526805,
+            "region_id":85688607,
+            "venue_id":639512105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
             "locality_id":85976245,
             "neighbourhood_id":85804463,
             "region_id":85688607,
@@ -53,9 +70,9 @@
         }
     ],
     "wof:id":639512105,
-    "wof:lastmodified":1466694968,
+    "wof:lastmodified":1492056737,
     "wof:name":"Blaker Selma M",
-    "wof:parent_id":85804463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

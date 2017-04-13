@@ -2,9 +2,14 @@
   "id": 655485989,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Fieldstone Dr Lebanon NJ 08833",
+    "addr:housenumber":"5",
+    "addr:postcode":"08833",
+    "addr:street":"Fieldstone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.843712,40.681068,-74.843712,40.681068",
     "geom:latitude":40.681068,
     "geom:longitude":-74.843712,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s9ZC2l1Npm0hpeaxtQzZd_40.681068_-74.843712@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308240,
     "wof:geomhash":"9ff7a0465023a5635487b1ed80156cc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655485989
+        }
+    ],
     "wof:id":655485989,
-    "wof:lastmodified":1466677823,
+    "wof:lastmodified":1492057072,
     "wof:name":"Jack Cuozzo MD",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

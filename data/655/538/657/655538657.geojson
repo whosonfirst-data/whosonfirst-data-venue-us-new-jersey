@@ -2,9 +2,14 @@
   "id": 655538657,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Vermont Ave Jackson NJ 08527",
+    "addr:housenumber":"48",
+    "addr:postcode":"08527",
+    "addr:street":"Vermont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260193,40.139633,-74.260193,40.139633",
     "geom:latitude":40.139633,
     "geom:longitude":-74.260193,
@@ -29,7 +34,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ALd5Nqwv1Ehe5Jyryh8tX_40.139633_-74.260193@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461310374,
     "wof:geomhash":"7368b194032a8908b0d1a84fd67c2ecd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655538657
+        }
+    ],
     "wof:id":655538657,
-    "wof:lastmodified":1466679319,
+    "wof:lastmodified":1492042923,
     "wof:name":"S W Stamps",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

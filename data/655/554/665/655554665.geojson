@@ -2,9 +2,14 @@
   "id": 655554665,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Piermont Rd Closter NJ 07624",
+    "addr:housenumber":"510",
+    "addr:postcode":"07624",
+    "addr:street":"Piermont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951456,40.969281,-73.951456,40.969281",
     "geom:latitude":40.969281,
     "geom:longitude":-73.951456,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CA92cWIxlkV0YEcv7VXjT_40.969281_-73.951456@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311017,
     "wof:geomhash":"8ced5b2d261f224259452b4696f8ed30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655554665
+        }
+    ],
     "wof:id":655554665,
-    "wof:lastmodified":1466679651,
+    "wof:lastmodified":1492057509,
     "wof:name":"Re/Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

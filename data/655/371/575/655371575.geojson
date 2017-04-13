@@ -2,9 +2,14 @@
   "id": 655371575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Vauxhall Rd Union NJ 07083",
+    "addr:housenumber":"1001",
+    "addr:postcode":"07083",
+    "addr:street":"Vauxhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2416,40.689502,-74.2416,40.689502",
     "geom:latitude":40.689502,
     "geom:longitude":-74.2416,
@@ -24,7 +29,13 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hf8ycba724pwA6FkF5NcC_40.689502_-74.241600@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461303482,
     "wof:geomhash":"4164fbf5547e0153e08a6e21e7173460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655371575
+        }
+    ],
     "wof:id":655371575,
-    "wof:lastmodified":1466674800,
+    "wof:lastmodified":1492055794,
     "wof:name":"Gabriel Colino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

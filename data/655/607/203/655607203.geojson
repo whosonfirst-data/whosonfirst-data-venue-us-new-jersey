@@ -2,9 +2,14 @@
   "id": 655607203,
   "type": "Feature",
   "properties": {
+    "addr:full":"2280 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2280",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.487141,40.434451,-74.487141,40.434451",
     "geom:latitude":40.434451,
     "geom:longitude":-74.487141,
@@ -29,7 +34,10 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BxcLZsZFzcMAmRYLf5FJl_40.434451_-74.487141@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461313311,
     "wof:geomhash":"1661e34d1b11487f43bd10ca92d1a8b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655607203
+        }
+    ],
     "wof:id":655607203,
-    "wof:lastmodified":1466681353,
+    "wof:lastmodified":1492045283,
     "wof:name":"Prodelca",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

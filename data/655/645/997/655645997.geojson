@@ -2,9 +2,14 @@
   "id": 655645997,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"232;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.649664,41.181213,-74.649664,41.181213",
     "geom:latitude":41.181213,
     "geom:longitude":-74.649664,
@@ -27,7 +32,10 @@
         "wholesaler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69TXEDThVUHcfEcgfHusFy_41.181213_-74.649664@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315014,
     "wof:geomhash":"9a3f721eee19daa0803f66873b521e19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":655645997
+        }
+    ],
     "wof:id":655645997,
-    "wof:lastmodified":1466682836,
+    "wof:lastmodified":1492048443,
     "wof:name":"John A Price Co Inc",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655366345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Blossom Cir Dayton NJ 08810",
+    "addr:housenumber":"1201",
+    "addr:postcode":"08810",
+    "addr:street":"Blossom Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.507713,40.380177,-74.507713,40.380177",
     "geom:latitude":40.380177,
     "geom:longitude":-74.507713,
@@ -24,7 +29,10 @@
     "sg:postcode":"08810",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tn4TCYws2mvt4B5BBIYT2_40.380177_-74.507713@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461303276,
     "wof:geomhash":"1c1677914ed6e379ce9049c5b43a790a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655366345
+        }
+    ],
     "wof:id":655366345,
-    "wof:lastmodified":1466674497,
+    "wof:lastmodified":1492029459,
     "wof:name":"Sharbell Development Crop",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

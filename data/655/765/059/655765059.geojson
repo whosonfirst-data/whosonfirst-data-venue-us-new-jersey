@@ -2,9 +2,14 @@
   "id": 655765059,
   "type": "Feature",
   "properties": {
+    "addr:full":"574 Newark Pompton Tpke Pompton Plains NJ 07444",
+    "addr:housenumber":"574",
+    "addr:postcode":"07444",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29555,40.967386,-74.29555,40.967386",
     "geom:latitude":40.967386,
     "geom:longitude":-74.29555,
@@ -27,7 +32,13 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UdnnFj1ScrFcFIufNU2vC_40.967386_-74.295550@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319855,
     "wof:geomhash":"0b210870bed754ba7f1753867159e018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":655765059
+        }
+    ],
     "wof:id":655765059,
-    "wof:lastmodified":1466685988,
+    "wof:lastmodified":1492027645,
     "wof:name":"Tas Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

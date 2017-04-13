@@ -2,9 +2,14 @@
   "id": 639275513,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Mine Rd Asbury NJ 08802",
+    "addr:housenumber":"440",
+    "addr:postcode":"08802",
+    "addr:street":"Mine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008765,40.671398,-75.008765,40.671398",
     "geom:latitude":40.671398,
     "geom:longitude":-75.008765,
@@ -28,7 +33,10 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1drRtU1QHpTPVKknZVwVu8_40.671398_-75.008765@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461291444,
     "wof:geomhash":"d712a14297fc05ca31b4b35f3a48ad90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639275513
+        }
+    ],
     "wof:id":639275513,
-    "wof:lastmodified":1466690889,
+    "wof:lastmodified":1492047194,
     "wof:name":"Terminal Velocity Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655697995,
   "type": "Feature",
   "properties": {
+    "addr:full":"561 Broadway Ste 1 Bayonne NJ 07002",
+    "addr:housenumber":"561",
+    "addr:postcode":"07002",
+    "addr:street":"Broadway Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.11643,40.666322,-74.11643,40.666322",
     "geom:latitude":40.666322,
     "geom:longitude":-74.11643,
@@ -24,7 +29,14 @@
     "sg:postcode":"07002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05SCuXJeDsYjH1D4MMMLOA_40.666322_-74.116430@1303262248"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317257,
     "wof:geomhash":"3392eccef2cc686201e7232bbd82ea9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655697995
+        }
+    ],
     "wof:id":655697995,
-    "wof:lastmodified":1466684412,
+    "wof:lastmodified":1492050565,
     "wof:name":"Star Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

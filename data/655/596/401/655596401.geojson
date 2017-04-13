@@ -2,9 +2,14 @@
   "id": 655596401,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 High St Closter NJ 07624",
+    "addr:housenumber":"300",
+    "addr:postcode":"07624",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.968128,40.974928,-73.968128,40.974928",
     "geom:latitude":40.974928,
     "geom:longitude":-73.968128,
@@ -28,7 +33,14 @@
         "religious"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J6iBbPRQFhbBTVAWnqrHh_40.974928_-73.968128@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312853,
     "wof:geomhash":"fe76d3a57327b7b389179729f532c857",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655596401
+        }
+    ],
     "wof:id":655596401,
-    "wof:lastmodified":1466680847,
+    "wof:lastmodified":1492047597,
     "wof:name":"Catholic Academy Northern Vly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

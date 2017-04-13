@@ -2,9 +2,14 @@
   "id": 655380725,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Arnold Blvd Howell NJ 07731",
+    "addr:housenumber":"69",
+    "addr:postcode":"07731",
+    "addr:street":"Arnold Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.176249,40.11301,-74.176249,40.11301",
     "geom:latitude":40.11301,
     "geom:longitude":-74.176249,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kEOCsclu1tnMm0hnhqYlB_40.113010_-74.176249@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303833,
     "wof:geomhash":"82218c2b3360f9f5d6ad8e3ce8dce3b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655380725
+        }
+    ],
     "wof:id":655380725,
-    "wof:lastmodified":1466675104,
+    "wof:lastmodified":1492064848,
     "wof:name":"Hubit Plumbing & Heating",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

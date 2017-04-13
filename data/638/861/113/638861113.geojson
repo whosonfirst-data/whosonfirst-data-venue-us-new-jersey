@@ -2,9 +2,14 @@
   "id": 638861113,
   "type": "Feature",
   "properties": {
+    "addr:full":"588 Glasmere Rd Mahwah NJ 07430",
+    "addr:housenumber":"588",
+    "addr:postcode":"07430",
+    "addr:street":"Glasmere Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.166869,41.078735,-74.166869,41.078735",
     "geom:latitude":41.078735,
     "geom:longitude":-74.166869,
@@ -27,7 +32,13 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eL8B60utJE2SF6kuavdqe_41.078735_-74.166869@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461281779,
     "wof:geomhash":"b3de48db07942847e7e3b5afbd68425c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638861113
+        }
+    ],
     "wof:id":638861113,
-    "wof:lastmodified":1466689326,
+    "wof:lastmodified":1492022088,
     "wof:name":"41 Pleasant Entertainment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655591415,
   "type": "Feature",
   "properties": {
+    "addr:full":"74 Butler Rd Asbury NJ 08802",
+    "addr:housenumber":"74",
+    "addr:postcode":"08802",
+    "addr:street":"Butler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.045405,40.692236,-75.045405,40.692236",
     "geom:latitude":40.692236,
     "geom:longitude":-75.045405,
@@ -31,7 +36,10 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uGGQELCPHANVxDLruMkUa_40.692236_-75.045405@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461312650,
     "wof:geomhash":"3f90994dc84836aabbfc9d4bb9e1c362",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":655591415
+        }
+    ],
     "wof:id":655591415,
-    "wof:lastmodified":1466680685,
+    "wof:lastmodified":1492028435,
     "wof:name":"Optilight Inc",
     "wof:parent_id":420527783,
     "wof:placetype":"venue",

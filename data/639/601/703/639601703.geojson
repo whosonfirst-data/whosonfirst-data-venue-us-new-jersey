@@ -2,9 +2,14 @@
   "id": 639601703,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Georgetown Rd Wrightstown NJ 08562",
+    "addr:housenumber":"42",
+    "addr:postcode":"08562",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620417,40.044393,-74.620417,40.044393",
     "geom:latitude":40.044393,
     "geom:longitude":-74.620417,
@@ -27,7 +32,11 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663,
+        420526599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kt4uuKWuAm47ovpVqP0zq_40.044393_-74.620417@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461301800,
     "wof:geomhash":"c7cde932d16f1fb99b98964c1c55c68c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639601703
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526599,
+            "venue_id":639601703
+        }
+    ],
     "wof:id":639601703,
-    "wof:lastmodified":1466697135,
+    "wof:lastmodified":1492057064,
     "wof:name":"Royal Motel",
-    "wof:parent_id":420526663,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

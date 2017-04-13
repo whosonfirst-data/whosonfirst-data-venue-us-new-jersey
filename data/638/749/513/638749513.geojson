@@ -2,9 +2,14 @@
   "id": 638749513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 Cumberland Ct Mahwah NJ 07430",
+    "addr:housenumber":"1008",
+    "addr:postcode":"07430",
+    "addr:street":"Cumberland Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145255,41.104611,-74.145255,41.104611",
     "geom:latitude":41.104611,
     "geom:longitude":-74.145255,
@@ -28,7 +33,13 @@
         "for"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QUDztXsVM7d0K1SHMmal6_41.104611_-74.145255@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279003,
     "wof:geomhash":"549ee0bcf5a9961e76c5d2568963bfee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638749513
+        }
+    ],
     "wof:id":638749513,
-    "wof:lastmodified":1466678022,
+    "wof:lastmodified":1492052340,
     "wof:name":"System One Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

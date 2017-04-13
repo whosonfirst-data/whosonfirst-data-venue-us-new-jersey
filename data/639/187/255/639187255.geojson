@@ -2,9 +2,14 @@
   "id": 639187255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 Maple Ave Atco NJ 08004",
+    "addr:housenumber":"1117",
+    "addr:postcode":"08004",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.836182,39.758044,-74.836182,39.758044",
     "geom:latitude":39.758044,
     "geom:longitude":-74.836182,
@@ -24,7 +29,13 @@
     "sg:postcode":"08004",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YBIIz5aZOjvJlqAMnfDdX_39.758044_-74.836182@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461289349,
     "wof:geomhash":"cb6400c03af911eea65049e9ba99155c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":639187255
+        }
+    ],
     "wof:id":639187255,
-    "wof:lastmodified":1466686825,
+    "wof:lastmodified":1492052361,
     "wof:name":"Unique Balloons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638652801,
   "type": "Feature",
   "properties": {
+    "addr:full":"196 Co Rd 519 Newton NJ 07860",
+    "addr:housenumber":"196;519",
+    "addr:postcode":"07860",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.83245,40.999465,-74.83245,40.999465",
     "geom:latitude":40.999465,
     "geom:longitude":-74.83245,
@@ -27,7 +32,10 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gWo70JioPwoqC14xFJJEO_40.999465_-74.832450@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275880,
     "wof:geomhash":"e1615fd2cdd364d39be42fa76a4d9018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":638652801
+        }
+    ],
     "wof:id":638652801,
-    "wof:lastmodified":1466673927,
+    "wof:lastmodified":1492082182,
     "wof:name":"Richard Plog",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655833487,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 Alexander Rd Ste 115 Princeton NJ 08540",
+    "addr:housenumber":"821",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Rd Ste 115",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.632538,40.315842,-74.632538,40.315842",
     "geom:latitude":40.315842,
     "geom:longitude":-74.632538,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ocjHWa87pc1S31XgxxaPX_40.315842_-74.632538@1303262281"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461322804,
     "wof:geomhash":"a186977c1a03147c860aee7c6463f8e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655833487
+        }
+    ],
     "wof:id":655833487,
-    "wof:lastmodified":1466687767,
+    "wof:lastmodified":1492025803,
     "wof:name":"Hilton Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

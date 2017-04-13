@@ -2,9 +2,14 @@
   "id": 655679239,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Oberly Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"275",
+    "addr:postcode":"08865",
+    "addr:street":"Oberly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175768,40.656123,-75.175768,40.656123",
     "geom:latitude":40.656123,
     "geom:longitude":-75.175768,
@@ -25,7 +30,10 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wc76sEZ5p9uCpmTVIF4cD_40.656123_-75.175768@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461316382,
     "wof:geomhash":"0177f2e82b50e0fc1ea88883c395d6b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527789,
+            "venue_id":655679239
+        }
+    ],
     "wof:id":655679239,
-    "wof:lastmodified":1466683698,
+    "wof:lastmodified":1492041142,
     "wof:name":"Jack Oberly",
     "wof:parent_id":420527789,
     "wof:placetype":"venue",

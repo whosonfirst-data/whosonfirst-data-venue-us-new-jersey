@@ -2,9 +2,14 @@
   "id": 639561883,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 US Hwy 206 Stanhope NJ 07874",
+    "addr:housenumber":"10",
+    "addr:postcode":"07874",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718574,40.925323,-74.718574,40.925323",
     "geom:latitude":40.925323,
     "geom:longitude":-74.718574,
@@ -27,7 +32,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zcxi8z6iXSGUFrqZBO8lR_40.925323_-74.718574@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300195,
     "wof:geomhash":"4f516518920ec18a4151a58af65a1cf2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":639561883
+        }
+    ],
     "wof:id":639561883,
-    "wof:lastmodified":1466696043,
+    "wof:lastmodified":1492076833,
     "wof:name":"Pavlov Printing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

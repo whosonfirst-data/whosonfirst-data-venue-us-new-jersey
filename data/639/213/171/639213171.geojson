@@ -2,9 +2,14 @@
   "id": 639213171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Doral Blvd Washington NJ 07882",
+    "addr:housenumber":"1",
+    "addr:postcode":"07882",
+    "addr:street":"Doral Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987222,40.775341,-74.987222,40.775341",
     "geom:latitude":40.775341,
     "geom:longitude":-74.987222,
@@ -27,7 +32,16 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807129,
+        102191575,
+        404478533,
+        85633793,
+        85976419,
+        102083873,
+        85688607,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KlXqLv01u1T6RNuOezUzA_40.775341_-74.987222@1294171694"
@@ -35,11 +49,27 @@
     "wof:country":"US",
     "wof:created":1461289985,
     "wof:geomhash":"57c22d541265ae05c6fb63fee3cf3a9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478533,
+            "locality_id":85976419,
+            "neighbourhood_id":85807129,
+            "region_id":85688607,
+            "venue_id":639213171
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639213171
+        }
+    ],
     "wof:id":639213171,
-    "wof:lastmodified":1466689345,
+    "wof:lastmodified":1492039931,
     "wof:name":"Wls Consulting Inc",
-    "wof:parent_id":420527795,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

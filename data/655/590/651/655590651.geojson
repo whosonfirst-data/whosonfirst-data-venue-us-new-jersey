@@ -2,9 +2,14 @@
   "id": 655590651,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Broadway Cresskill NJ 07626",
+    "addr:housenumber":"17",
+    "addr:postcode":"07626",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962012,40.939084,-73.962012,40.939084",
     "geom:latitude":40.939084,
     "geom:longitude":-73.962012,
@@ -36,7 +41,14 @@
         "distributes"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6maDpWeFVq3tuIfxJrRdVQ_40.939084_-73.962012@1294171694"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461312622,
     "wof:geomhash":"7476f16e29fcfb17bdc1ebe0bb853feb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655590651
+        }
+    ],
     "wof:id":655590651,
-    "wof:lastmodified":1466680763,
+    "wof:lastmodified":1492034247,
     "wof:name":"American Milk Products Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

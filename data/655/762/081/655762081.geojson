@@ -2,9 +2,14 @@
   "id": 655762081,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Jenkins Ave Haskell NJ 07420",
+    "addr:housenumber":"8",
+    "addr:postcode":"07420",
+    "addr:street":"Jenkins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29591,41.036289,-74.29591,41.036289",
     "geom:latitude":41.036289,
     "geom:longitude":-74.29591,
@@ -37,7 +42,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dzMdsW7TkvOTdPPPVIaxV_41.036289_-74.295910@1303262264"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461319734,
     "wof:geomhash":"03aaa0df8b5811c99b8e1ca11cb6d272",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655762081
+        }
+    ],
     "wof:id":655762081,
-    "wof:lastmodified":1466685792,
+    "wof:lastmodified":1492050719,
     "wof:name":"Indoor Environmental Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

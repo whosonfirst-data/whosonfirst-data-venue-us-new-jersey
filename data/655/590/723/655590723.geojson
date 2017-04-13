@@ -2,9 +2,14 @@
   "id": 655590723,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 N 5th St Park Ridge NJ 07656",
+    "addr:housenumber":"89",
+    "addr:postcode":"07656",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.043079,41.045556,-74.043079,41.045556",
     "geom:latitude":41.045556,
     "geom:longitude":-74.043079,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477711,
+        85633793,
+        85975949,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mDuZsfmraN4D1D0BncyWn_41.045556_-74.043079@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312625,
     "wof:geomhash":"76a6cf4f0e3727a1988a21ff9b0a9056",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477711,
+            "locality_id":85975949,
+            "region_id":85688607,
+            "venue_id":655590723
+        }
+    ],
     "wof:id":655590723,
-    "wof:lastmodified":1466680788,
+    "wof:lastmodified":1492051747,
     "wof:name":"Barry D Christen Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

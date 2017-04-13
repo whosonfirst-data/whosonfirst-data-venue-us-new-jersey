@@ -2,9 +2,14 @@
   "id": 655376551,
   "type": "Feature",
   "properties": {
+    "addr:full":"4739 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"4739",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223516,40.131787,-74.223516,40.131787",
     "geom:latitude":40.131787,
     "geom:longitude":-74.223516,
@@ -28,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85850237,
-        102085049,
         420527425,
         102191575,
         404477773,
+        85633793,
         85976347,
-        102081485
+        102081485,
+        85688607,
+        85850237,
+        102085049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +52,6 @@
     "wof:geomhash":"7c918202633e28981623257b025dad15",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085049,
-            "neighbourhood_id":85850237,
-            "region_id":85688607,
-            "venue_id":655376551
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -62,12 +60,19 @@
             "neighbourhood_id":420527425,
             "region_id":85688607,
             "venue_id":655376551
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85850237,
+            "region_id":85688607,
+            "venue_id":655376551
         }
     ],
     "wof:id":655376551,
-    "wof:lastmodified":1466674827,
+    "wof:lastmodified":1492068841,
     "wof:name":"Benderson Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

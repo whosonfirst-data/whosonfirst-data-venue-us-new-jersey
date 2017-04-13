@@ -2,9 +2,14 @@
   "id": 639213303,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Cherry Hill Rd Princeton NJ 08540",
+    "addr:housenumber":"50",
+    "addr:postcode":"08540",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.665422,40.362739,-74.665422,40.362739",
     "geom:latitude":40.362739,
     "geom:longitude":-74.665422,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h0BhLzorkfApJLLia8gI8_40.362739_-74.665422@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461289988,
     "wof:geomhash":"bcdb0a4d622860e7b235a96b4aa8a273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639213303
+        }
+    ],
     "wof:id":639213303,
-    "wof:lastmodified":1466689361,
+    "wof:lastmodified":1492076443,
     "wof:name":"Princeton Memorial Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

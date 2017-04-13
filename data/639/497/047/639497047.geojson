@@ -2,9 +2,14 @@
   "id": 639497047,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Majesty Ln Somerset NJ 08873",
+    "addr:housenumber":"101",
+    "addr:postcode":"08873",
+    "addr:street":"Majesty Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.531502,40.451001,-74.531502,40.451001",
     "geom:latitude":40.451001,
     "geom:longitude":-74.531502,
@@ -27,7 +32,14 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1twghjbGNYSkoDWcQlScBf_40.451001_-74.531502@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297292,
     "wof:geomhash":"59bc34509d332c8deec1bb99aa57861a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639497047
+        }
+    ],
     "wof:id":639497047,
-    "wof:lastmodified":1466694653,
+    "wof:lastmodified":1492042263,
     "wof:name":"J W Distr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

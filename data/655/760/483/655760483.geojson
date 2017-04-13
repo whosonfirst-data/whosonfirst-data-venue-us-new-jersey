@@ -2,9 +2,14 @@
   "id": 655760483,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Forest Dr Ste 48A Bloomingdale NJ 07403",
+    "addr:housenumber":"77;48a",
+    "addr:postcode":"07403",
+    "addr:street":"Forest Dr Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.324608,41.009314,-74.324608,41.009314",
     "geom:latitude":41.009314,
     "geom:longitude":-74.324608,
@@ -36,7 +41,14 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZKbN3tmSI0YXeH8gw7NRa_41.009314_-74.324608@1303262263"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461319669,
     "wof:geomhash":"db5a3fd59936292bc5d3d7395c8e7f27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760483
+        }
+    ],
     "wof:id":655760483,
-    "wof:lastmodified":1466685861,
+    "wof:lastmodified":1492043213,
     "wof:name":"Mountain Top Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

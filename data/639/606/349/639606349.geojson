@@ -2,9 +2,14 @@
   "id": 639606349,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Maiden Ln Bound Brook NJ 08805",
+    "addr:housenumber":"18",
+    "addr:postcode":"08805",
+    "addr:street":"Maiden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530553,40.562368,-74.530553,40.562368",
     "geom:latitude":40.562368,
     "geom:longitude":-74.530553,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gEZQfigs53fvEcRlUggRD_40.562368_-74.530553@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301975,
     "wof:geomhash":"81c0ea4d7e7e1d201f5734f96098a029",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639606349
+        }
+    ],
     "wof:id":639606349,
-    "wof:lastmodified":1466697073,
+    "wof:lastmodified":1492061672,
     "wof:name":"Gold Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

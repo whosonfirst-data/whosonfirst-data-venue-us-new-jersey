@@ -2,9 +2,14 @@
   "id": 639316677,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Walnut St Northvale NJ 07647",
+    "addr:housenumber":"147",
+    "addr:postcode":"07647",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948558,41.000551,-73.948558,41.000551",
     "geom:latitude":41.000551,
     "geom:longitude":-73.948558,
@@ -27,7 +32,14 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TWSbq2oSSNelB0nTBLsgC_41.000551_-73.948558@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292320,
     "wof:geomhash":"3daf1292a2b212ff1f810f22e3ea843b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639316677
+        }
+    ],
     "wof:id":639316677,
-    "wof:lastmodified":1466691777,
+    "wof:lastmodified":1492041702,
     "wof:name":"Bob Kilpatrick Moving & Stge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

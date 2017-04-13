@@ -2,9 +2,14 @@
   "id": 655539625,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 White Pine Ln Princeton NJ 08540",
+    "addr:housenumber":"26",
+    "addr:postcode":"08540",
+    "addr:street":"White Pine Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.634426,40.360945,-74.634426,40.360945",
     "geom:latitude":40.360945,
     "geom:longitude":-74.634426,
@@ -27,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mxrqVScEDFYhPhdtXv3YV_40.360945_-74.634426@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310414,
     "wof:geomhash":"bb37ccb97d9ee585f0cd8fa5cea31e6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655539625
+        }
+    ],
     "wof:id":655539625,
-    "wof:lastmodified":1466679310,
+    "wof:lastmodified":1492070362,
     "wof:name":"G Weinstein MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

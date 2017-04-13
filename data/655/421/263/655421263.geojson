@@ -2,9 +2,14 @@
   "id": 655421263,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Springwood Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"12",
+    "addr:postcode":"08550",
+    "addr:street":"Springwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620055,40.30888,-74.620055,40.30888",
     "geom:latitude":40.30888,
     "geom:longitude":-74.620055,
@@ -27,7 +32,10 @@
         "technical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bGYdu9g5sGAv1twtbuGy5_40.308880_-74.620055@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305524,
     "wof:geomhash":"aca84ea6422c7de7e9704b1e7a373d9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655421263
+        }
+    ],
     "wof:id":655421263,
-    "wof:lastmodified":1466676052,
+    "wof:lastmodified":1492057101,
     "wof:name":"Martin Edenbaum Technical Cons",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

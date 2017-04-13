@@ -2,9 +2,14 @@
   "id": 655391783,
   "type": "Feature",
   "properties": {
+    "addr:full":"439 Wyckoff Ave Wyckoff NJ 07481",
+    "addr:housenumber":"439",
+    "addr:postcode":"07481",
+    "addr:street":"Wyckoff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.171488,40.998512,-74.171488,40.998512",
     "geom:latitude":40.998512,
     "geom:longitude":-74.171488,
@@ -24,7 +29,11 @@
     "sg:postcode":"07481",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526559,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l219RltbfIlv7FiIHHhez_40.998512_-74.171488@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461304292,
     "wof:geomhash":"08b4f12248426c6a5dd44bc7481f3046",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526559,
+            "venue_id":655391783
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":655391783
+        }
+    ],
     "wof:id":655391783,
-    "wof:lastmodified":1466675386,
+    "wof:lastmodified":1492081980,
     "wof:name":"Stealthbits Technologies",
-    "wof:parent_id":420526559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

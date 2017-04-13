@@ -2,9 +2,14 @@
   "id": 639455647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3974 US Hwy 1 Monmouth Jct NJ 08852",
+    "addr:housenumber":"3974",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.550035,40.404356,-74.550035,40.404356",
     "geom:latitude":40.404356,
     "geom:longitude":-74.550035,
@@ -28,7 +33,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SZJ1Rh75DeA13XPSE95mJ_40.404356_-74.550035@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295635,
     "wof:geomhash":"84feef4bef92bf4cd0e6d975d2ee17e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639455647
+        }
+    ],
     "wof:id":639455647,
-    "wof:lastmodified":1466693768,
+    "wof:lastmodified":1492042255,
     "wof:name":"Major Car Wash",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655788169,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Wantage Ave Branchville NJ 07826",
+    "addr:housenumber":"6",
+    "addr:postcode":"07826",
+    "addr:street":"Wantage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752218,41.146542,-74.752218,41.146542",
     "geom:latitude":41.146542,
     "geom:longitude":-74.752218,
@@ -35,7 +40,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IMUBOPFSAt17rka06SLms_41.146542_-74.752218@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320904,
     "wof:geomhash":"30e53dd07035161d86527b7bf8defdb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788169
+        }
+    ],
     "wof:id":655788169,
-    "wof:lastmodified":1466686555,
+    "wof:lastmodified":1492048141,
     "wof:name":"Partytime Tents & Rental",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

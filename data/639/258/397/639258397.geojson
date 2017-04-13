@@ -2,9 +2,14 @@
   "id": 639258397,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 US Hwy 46 Columbia NJ 07833",
+    "addr:housenumber":"77",
+    "addr:postcode":"07833",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.059214,40.883526,-75.059214,40.883526",
     "geom:latitude":40.883526,
     "geom:longitude":-75.059214,
@@ -24,7 +29,13 @@
     "sg:postcode":"07833",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478431,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i9gmEXqjYBXBRai0DZ5C9_40.883526_-75.059214@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461291023,
     "wof:geomhash":"48d0b37f178b7506a947b60982ad3f01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478431,
+            "region_id":85688607,
+            "venue_id":639258397
+        }
+    ],
     "wof:id":639258397,
-    "wof:lastmodified":1466690507,
+    "wof:lastmodified":1492043956,
     "wof:name":"F & M Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

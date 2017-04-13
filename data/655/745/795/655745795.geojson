@@ -2,9 +2,14 @@
   "id": 655745795,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Front St Secaucus NJ 07094",
+    "addr:housenumber":"300",
+    "addr:postcode":"07094",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.064073,40.794066,-74.064073,40.794066",
     "geom:latitude":40.794066,
     "geom:longitude":-74.064073,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U5rZDq6IVDTjsIUHbjhEC_40.794066_-74.064073@1303262260"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319128,
     "wof:geomhash":"dd896cf49cdab8c2776535b8e94cbdca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":655745795
+        }
+    ],
     "wof:id":655745795,
-    "wof:lastmodified":1466685654,
+    "wof:lastmodified":1492048976,
     "wof:name":"Emergency 24 Hour 7 Day Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

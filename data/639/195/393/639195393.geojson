@@ -2,9 +2,14 @@
   "id": 639195393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1323 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1323",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2636,40.702373,-74.2636,40.702373",
     "geom:latitude":40.702373,
     "geom:longitude":-74.2636,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05609B4OSdfnXFNoU42a2M_40.702373_-74.263600@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289526,
     "wof:geomhash":"014900322f4320f17f24d2ce76e7ba1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639195393
+        }
+    ],
     "wof:id":639195393,
-    "wof:lastmodified":1466687903,
+    "wof:lastmodified":1492068401,
     "wof:name":"Union Ob-Gyn Infertility Group",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

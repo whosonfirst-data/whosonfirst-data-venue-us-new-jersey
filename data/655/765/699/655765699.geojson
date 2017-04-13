@@ -2,9 +2,14 @@
   "id": 655765699,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Erskine Rd Ringwood NJ 07456",
+    "addr:housenumber":"112",
+    "addr:postcode":"07456",
+    "addr:street":"Erskine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264142,41.092797,-74.264142,41.092797",
     "geom:latitude":41.092797,
     "geom:longitude":-74.264142,
@@ -41,7 +46,14 @@
     ],
     "sg:website":"http://www.ourladyofmercyparish.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OcPuN6RJV7EOoOLrwpu8z_41.092797_-74.264142@1303262264"
@@ -49,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1461319883,
     "wof:geomhash":"3921e861f0b4892c1884aa39933cd05d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":655765699
+        }
+    ],
     "wof:id":655765699,
-    "wof:lastmodified":1466686155,
+    "wof:lastmodified":1492054068,
     "wof:name":"St Catherine Of Bologna School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

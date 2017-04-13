@@ -2,9 +2,14 @@
   "id": 655827951,
   "type": "Feature",
   "properties": {
+    "addr:full":"8301 National Hwy Sectb Pennsauken NJ 08110",
+    "addr:housenumber":"8301",
+    "addr:postcode":"08110",
+    "addr:street":"National Hwy Sectb",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030823,39.983501,-75.030823,39.983501",
     "geom:latitude":39.983501,
     "geom:longitude":-75.030823,
@@ -27,7 +32,14 @@
         "labeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yyT4FhhaH8lSgvzeOxDLs_39.983501_-75.030823@1303262280"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322559,
     "wof:geomhash":"2a7153e1155cd9d2ab80955fdbd5bbfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827951
+        }
+    ],
     "wof:id":655827951,
-    "wof:lastmodified":1466687794,
+    "wof:lastmodified":1492039036,
     "wof:name":"Federated Dist Mkg Svc Div",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

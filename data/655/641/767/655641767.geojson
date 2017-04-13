@@ -2,9 +2,14 @@
   "id": 655641767,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Indian Trl Matawan NJ 07747",
+    "addr:housenumber":"16",
+    "addr:postcode":"07747",
+    "addr:street":"Indian Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244494,40.422979,-74.244494,40.422979",
     "geom:latitude":40.422979,
     "geom:longitude":-74.244494,
@@ -28,7 +33,14 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478367,
+        85633793,
+        85975419,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AxsCQWXKcKbQKAPl2a8w0_40.422979_-74.244494@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314829,
     "wof:geomhash":"e7f939e49ae1cc555833863ff132d80e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478367,
+            "locality_id":85975419,
+            "region_id":85688607,
+            "venue_id":655641767
+        }
+    ],
     "wof:id":655641767,
-    "wof:lastmodified":1466682580,
+    "wof:lastmodified":1492056933,
     "wof:name":"P B & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638846565,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 Kearny Ave Kearny NJ 07032",
+    "addr:housenumber":"745",
+    "addr:postcode":"07032",
+    "addr:street":"Kearny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141679,40.777477,-74.141679,40.777477",
     "geom:latitude":40.777477,
     "geom:longitude":-74.141679,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wFc0U3USteDypCT03XJfQ_40.777477_-74.141679@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281401,
     "wof:geomhash":"8ef82b393e0d5fcfaa65029d4db5cdfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":638846565
+        }
+    ],
     "wof:id":638846565,
-    "wof:lastmodified":1466689188,
+    "wof:lastmodified":1492076438,
     "wof:name":"Above All Chimneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

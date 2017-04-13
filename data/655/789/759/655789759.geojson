@@ -2,9 +2,14 @@
   "id": 655789759,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Fredon Marksboro Rd Newton NJ 07860",
+    "addr:housenumber":"18",
+    "addr:postcode":"07860",
+    "addr:street":"Fredon Marksboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.827881,41.038399,-74.827881,41.038399",
     "geom:latitude":41.038399,
     "geom:longitude":-74.827881,
@@ -31,7 +36,10 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PnpiAlqJNA9iSjwr4G8MI_41.038399_-74.827881@1303262270"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461320969,
     "wof:geomhash":"a9660324a2d5fab922a4a7df13726bb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655789759
+        }
+    ],
     "wof:id":655789759,
-    "wof:lastmodified":1466686714,
+    "wof:lastmodified":1492070866,
     "wof:name":"Statewide Temperature Control",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

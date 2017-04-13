@@ -2,9 +2,14 @@
   "id": 639557137,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Stephanie Dr Caldwell NJ 07006",
+    "addr:housenumber":"315",
+    "addr:postcode":"07006",
+    "addr:street":"Stephanie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250844,40.880671,-74.250844,40.880671",
     "geom:latitude":40.880671,
     "geom:longitude":-74.250844,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WU5dtqiUJY0UiHFDBkYMs_40.880671_-74.250844@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300026,
     "wof:geomhash":"0c6d99075fd281e782b3c9d50ff87fac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":639557137
+        }
+    ],
     "wof:id":639557137,
-    "wof:lastmodified":1466695904,
+    "wof:lastmodified":1492056079,
     "wof:name":"ISI Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

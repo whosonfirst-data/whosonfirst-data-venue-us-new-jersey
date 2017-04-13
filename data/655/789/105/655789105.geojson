@@ -2,9 +2,14 @@
   "id": 655789105,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 State Route 10 Denville NJ 07834",
+    "addr:housenumber":"3125",
+    "addr:postcode":"07834",
+    "addr:street":"State Route 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517511,40.870483,-74.517511,40.870483",
     "geom:latitude":40.870483,
     "geom:longitude":-74.517511,
@@ -27,7 +32,10 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kewT1kNxpe08p8s0qC8v6_40.870483_-74.517511@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320943,
     "wof:geomhash":"b64941646bcf5a612740ddc9bc5004b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655789105
+        }
+    ],
     "wof:id":655789105,
-    "wof:lastmodified":1466686543,
+    "wof:lastmodified":1492027615,
     "wof:name":"Axiom Technology Inc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

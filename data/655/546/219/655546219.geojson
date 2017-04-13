@@ -2,9 +2,14 @@
   "id": 655546219,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 N Vivyen St Bergenfield NJ 07621",
+    "addr:housenumber":"203",
+    "addr:postcode":"07621",
+    "addr:street":"N Vivyen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.008416,40.934451,-74.008416,40.934451",
     "geom:latitude":40.934451,
     "geom:longitude":-74.008416,
@@ -28,7 +33,14 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TW66ZheyUIOfTcsPTGMz9_40.934451_-74.008416@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310660,
     "wof:geomhash":"90959a794aa71c92871f25437a1f6772",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655546219
+        }
+    ],
     "wof:id":655546219,
-    "wof:lastmodified":1466679338,
+    "wof:lastmodified":1492051928,
     "wof:name":"Paul Howard Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

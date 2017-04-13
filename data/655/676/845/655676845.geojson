@@ -2,9 +2,14 @@
   "id": 655676845,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Harrison Ave Garfield NJ 07026",
+    "addr:housenumber":"221",
+    "addr:postcode":"07026",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.098028,40.873669,-74.098028,40.873669",
     "geom:latitude":40.873669,
     "geom:longitude":-74.098028,
@@ -22,7 +27,14 @@
         "diesel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477681,
+        85633793,
+        85975979,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DO2EhcVYvmrsuWHTEP2hc_40.873669_-74.098028@1294171694"
@@ -30,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461316292,
     "wof:geomhash":"344e44a6c297361130e8e5e9eb151eb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477681,
+            "locality_id":85975979,
+            "region_id":85688607,
+            "venue_id":655676845
+        }
+    ],
     "wof:id":655676845,
-    "wof:lastmodified":1466683846,
+    "wof:lastmodified":1492068953,
     "wof:name":"Super Quality Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

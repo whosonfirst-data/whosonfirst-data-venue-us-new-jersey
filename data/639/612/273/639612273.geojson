@@ -2,9 +2,14 @@
   "id": 639612273,
   "type": "Feature",
   "properties": {
+    "addr:full":"7360 N Crescent Blvd Pennsauken NJ 08110",
+    "addr:housenumber":"7360",
+    "addr:postcode":"08110",
+    "addr:street":"N Crescent Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044444,39.969037,-75.044444,39.969037",
     "geom:latitude":39.969037,
     "geom:longitude":-75.044444,
@@ -27,7 +32,14 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tBa8tIr9JVJoGda4AUysk_39.969037_-75.044444@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302209,
     "wof:geomhash":"e19623c62908dacc1e0b6e5c572efcf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639612273
+        }
+    ],
     "wof:id":639612273,
-    "wof:lastmodified":1466697140,
+    "wof:lastmodified":1492025430,
     "wof:name":"Miller Truck Leasing",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

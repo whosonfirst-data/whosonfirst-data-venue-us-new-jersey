@@ -2,9 +2,14 @@
   "id": 655400929,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Powder Horn Dr Middlesex NJ 08865",
+    "addr:housenumber":"6",
+    "addr:postcode":"08865",
+    "addr:street":"Powder Horn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167501,40.707786,-75.167501,40.707786",
     "geom:latitude":40.707786,
     "geom:longitude":-75.167501,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y62zNOosDkxJ9U3gtnQ3L_40.707786_-75.167501@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304673,
     "wof:geomhash":"f7cbceb0736eb8e4c28afbe139616116",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":655400929
+        }
+    ],
     "wof:id":655400929,
-    "wof:lastmodified":1466675687,
+    "wof:lastmodified":1492018245,
     "wof:name":"Chromis Fiberoptics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

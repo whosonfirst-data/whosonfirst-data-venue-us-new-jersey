@@ -2,9 +2,14 @@
   "id": 639177637,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Williams Dr Little Falls NJ 07424",
+    "addr:housenumber":"35",
+    "addr:postcode":"07424",
+    "addr:street":"Williams Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.203133,40.888235,-74.203133,40.888235",
     "geom:latitude":40.888235,
     "geom:longitude":-74.203133,
@@ -28,7 +33,14 @@
         "masonry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ofHik7i5RfOOFfxZToP9v_40.888235_-74.203133@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289140,
     "wof:geomhash":"020c7ec9f1808314821d4fae217b863a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":639177637
+        }
+    ],
     "wof:id":639177637,
-    "wof:lastmodified":1466685495,
+    "wof:lastmodified":1492083559,
     "wof:name":"Universal Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639453613,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Moore St Princeton NJ 08540",
+    "addr:housenumber":"107",
+    "addr:postcode":"08540",
+    "addr:street":"Moore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.655896,40.354207,-74.655896,40.354207",
     "geom:latitude":40.354207,
     "geom:longitude":-74.655896,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54kj0laeQMzZnvculqH5tH_40.354207_-74.655896@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295561,
     "wof:geomhash":"bd22d61225e453f854abb57f3cabef35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639453613
+        }
+    ],
     "wof:id":639453613,
-    "wof:lastmodified":1466693768,
+    "wof:lastmodified":1492051469,
     "wof:name":"Peter Marks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

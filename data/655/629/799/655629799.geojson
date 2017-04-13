@@ -2,9 +2,14 @@
   "id": 655629799,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Pearl Rd Closter NJ 07624",
+    "addr:housenumber":"18",
+    "addr:postcode":"07624",
+    "addr:street":"Pearl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979742,40.969314,-73.979742,40.969314",
     "geom:latitude":40.969314,
     "geom:longitude":-73.979742,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r1AhgiunHEPqHyRhvB4Gm_40.969314_-73.979742@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314307,
     "wof:geomhash":"ab62535d3825fb61b5e9af265b48c225",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655629799
+        }
+    ],
     "wof:id":655629799,
-    "wof:lastmodified":1466682226,
+    "wof:lastmodified":1492024294,
     "wof:name":"ALZ General Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

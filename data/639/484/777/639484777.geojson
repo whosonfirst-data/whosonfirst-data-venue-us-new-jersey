@@ -2,9 +2,14 @@
   "id": 639484777,
   "type": "Feature",
   "properties": {
+    "addr:full":"732 Van Houten Ave Franklin Lakes NJ 07417",
+    "addr:housenumber":"732",
+    "addr:postcode":"07417",
+    "addr:street":"Van Houten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.193525,40.992478,-74.193525,40.992478",
     "geom:latitude":40.992478,
     "geom:longitude":-74.193525,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KibtVvMLw5CUwX49NCe60_40.992478_-74.193525@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296805,
     "wof:geomhash":"54a9aa12080f445b80c81bdda289c0ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":639484777
+        }
+    ],
     "wof:id":639484777,
-    "wof:lastmodified":1466694348,
+    "wof:lastmodified":1492042585,
     "wof:name":"Quality Plus Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

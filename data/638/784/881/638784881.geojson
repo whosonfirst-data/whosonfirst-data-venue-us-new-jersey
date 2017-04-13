@@ -2,9 +2,14 @@
   "id": 638784881,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Walnut Ave Clark NJ 07066",
+    "addr:housenumber":"27",
+    "addr:postcode":"07066",
+    "addr:street":"Walnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301857,40.630275,-74.301857,40.630275",
     "geom:latitude":40.630275,
     "geom:longitude":-74.301857,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vcTUh740BvzeKjF1Dp0Lz_40.630275_-74.301857@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279910,
     "wof:geomhash":"7b819c3ce87418f3455744a8b9964f2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638784881
+        }
+    ],
     "wof:id":638784881,
-    "wof:lastmodified":1466683651,
+    "wof:lastmodified":1492023643,
     "wof:name":"Hansen Machine & Tool Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

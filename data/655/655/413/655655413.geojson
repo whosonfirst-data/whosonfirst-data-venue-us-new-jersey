@@ -2,9 +2,14 @@
   "id": 655655413,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Godwin Ave Midland Park NJ 07432",
+    "addr:housenumber":"119",
+    "addr:postcode":"07432",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139206,40.985921,-74.139206,40.985921",
     "geom:latitude":40.985921,
     "geom:longitude":-74.139206,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qiADcs0kbu7NBEMJ3wh9p_40.985921_-74.139206@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315404,
     "wof:geomhash":"db46f694f92bad6e0078035f489e6c77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":655655413
+        }
+    ],
     "wof:id":655655413,
-    "wof:lastmodified":1466682980,
+    "wof:lastmodified":1492028014,
     "wof:name":"Route 28 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639466783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1865 New Bedford Rd Belmar NJ 07719",
+    "addr:housenumber":"1865",
+    "addr:postcode":"07719",
+    "addr:street":"New Bedford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.062348,40.162707,-74.062348,40.162707",
     "geom:latitude":40.162707,
     "geom:longitude":-74.062348,
@@ -30,10 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527307,
         85839881,
         102191575,
         404478395,
-        85633793,
         85975395,
         102085049,
         85688607
@@ -47,6 +53,11 @@
     "wof:geomhash":"43537cb8bfcccd4d242b87d23f934ec2",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":639466783
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085049,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":639466783,
-    "wof:lastmodified":1466694063,
+    "wof:lastmodified":1492052382,
     "wof:name":"Ideas Unlimited Corp",
-    "wof:parent_id":85839881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

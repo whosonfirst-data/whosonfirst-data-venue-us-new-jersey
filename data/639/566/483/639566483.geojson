@@ -2,9 +2,14 @@
   "id": 639566483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 Chestnut Ave Hillside NJ 07205",
+    "addr:housenumber":"1430",
+    "addr:postcode":"07205",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233843,40.704299,-74.233843,40.704299",
     "geom:latitude":40.704299,
     "geom:longitude":-74.233843,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h6wq49c7uOVZDBSym5D5d_40.704299_-74.233843@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300364,
     "wof:geomhash":"7cdf26b117de0d404fd606ab061da86e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639566483
+        }
+    ],
     "wof:id":639566483,
-    "wof:lastmodified":1466696248,
+    "wof:lastmodified":1492076648,
     "wof:name":"Pepco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655387721,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Hudson St Garfield NJ 07026",
+    "addr:housenumber":"95",
+    "addr:postcode":"07026",
+    "addr:street":"Hudson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106842,40.868366,-74.106842,40.868366",
     "geom:latitude":40.868366,
     "geom:longitude":-74.106842,
@@ -27,7 +32,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JjIUd2ebNE24CJZEw2aoe_40.868366_-74.106842@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304113,
     "wof:geomhash":"7f25213d6d22c0c2331c05a3a1001196",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655387721
+        }
+    ],
     "wof:id":655387721,
-    "wof:lastmodified":1466675173,
+    "wof:lastmodified":1492053866,
     "wof:name":"Staals Fuel and Feed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

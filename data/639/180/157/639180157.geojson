@@ -2,9 +2,14 @@
   "id": 639180157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 Galloping Hill Rd Union NJ 07083",
+    "addr:housenumber":"1350",
+    "addr:postcode":"07083",
+    "addr:street":"Galloping Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.270781,40.678912,-74.270781,40.678912",
     "geom:latitude":40.678912,
     "geom:longitude":-74.270781,
@@ -27,7 +32,10 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52ueSIoIGG41GJ07Bc9eNw_40.678912_-74.270781@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289193,
     "wof:geomhash":"95d8488ba5b8c0a068de3bff6d090a7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639180157
+        }
+    ],
     "wof:id":639180157,
-    "wof:lastmodified":1466685821,
+    "wof:lastmodified":1492074777,
     "wof:name":"Diamond Cleaners & Laundromat",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655767911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1341 Hamburg Tpke Ste 2-7 Wayne NJ 07470",
+    "addr:housenumber":"1341",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke Ste 2-7",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248853,40.961749,-74.248853,40.961749",
     "geom:latitude":40.961749,
     "geom:longitude":-74.248853,
@@ -27,7 +32,10 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79FniXjAXRWXUChrZDHKVz_40.961749_-74.248853@1303262265"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461319979,
     "wof:geomhash":"eac5bcebeba58b482225726f32809c42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655767911
+        }
+    ],
     "wof:id":655767911,
-    "wof:lastmodified":1466686222,
+    "wof:lastmodified":1492058427,
     "wof:name":"Franklin Learning",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

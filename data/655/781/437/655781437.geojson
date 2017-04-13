@@ -2,9 +2,14 @@
   "id": 655781437,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Paris Ave Northvale NJ 07647",
+    "addr:housenumber":"200",
+    "addr:postcode":"07647",
+    "addr:street":"Paris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.943628,41.00443,-73.943628,41.00443",
     "geom:latitude":41.00443,
     "geom:longitude":-73.943628,
@@ -32,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c88fMrQDaaGXiunpb9QAD_41.004430_-73.943628@1303262268"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461320611,
     "wof:geomhash":"36b5514c98817d1dfbe0f78142d4d3fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655781437
+        }
+    ],
     "wof:id":655781437,
-    "wof:lastmodified":1466686375,
+    "wof:lastmodified":1492018823,
     "wof:name":"J&B Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

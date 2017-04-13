@@ -2,9 +2,14 @@
   "id": 639162555,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Elmwood Ave Maplewood NJ 07040",
+    "addr:housenumber":"333",
+    "addr:postcode":"07040",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256802,40.728486,-74.256802,40.728486",
     "geom:latitude":40.728486,
     "geom:longitude":-74.256802,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YszY5E2zJipXY0XyHEWkO_40.728486_-74.256802@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288807,
     "wof:geomhash":"96b11b94b196b83f3ea5e1f7d0c1de8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":639162555
+        }
+    ],
     "wof:id":639162555,
-    "wof:lastmodified":1466683491,
+    "wof:lastmodified":1492060911,
     "wof:name":"William Milford DDS",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

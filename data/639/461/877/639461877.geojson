@@ -2,9 +2,14 @@
   "id": 639461877,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Church St Trenton NJ 08620",
+    "addr:housenumber":"480",
+    "addr:postcode":"08620",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.673111,40.173271,-74.673111,40.173271",
     "geom:latitude":40.173271,
     "geom:longitude":-74.673111,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976385,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dsnstgD45AXaoq2k3WBHD_40.173271_-74.673111@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295874,
     "wof:geomhash":"631183b35b1ff33c4e1a53a44f15c438",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976385,
+            "region_id":85688607,
+            "venue_id":639461877
+        }
+    ],
     "wof:id":639461877,
-    "wof:lastmodified":1466694022,
+    "wof:lastmodified":1492049533,
     "wof:name":"Joann's Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

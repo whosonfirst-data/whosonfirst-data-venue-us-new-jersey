@@ -2,9 +2,14 @@
   "id": 639166233,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Augusta St Monroe Township NJ 08831",
+    "addr:housenumber":"",
+    "addr:postcode":"08831",
+    "addr:street":"13 Augusta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.438952,40.351409,-74.438952,40.351409",
     "geom:latitude":40.351409,
     "geom:longitude":-74.438952,
@@ -24,7 +29,13 @@
     "sg:postcode":"08831",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85865299,
+        102087417,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v5xCvLvg07ss3UfQu50ya_40.351409_-74.438952@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461288883,
     "wof:geomhash":"2081c4679d9de72b942017697d56f3f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85865299,
+            "region_id":85688607,
+            "venue_id":639166233
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639166233
+        }
+    ],
     "wof:id":639166233,
-    "wof:lastmodified":1466683951,
+    "wof:lastmodified":1492054833,
     "wof:name":"Grace M Breckwedel Middle Schl",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

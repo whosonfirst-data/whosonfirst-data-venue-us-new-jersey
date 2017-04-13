@@ -2,9 +2,14 @@
   "id": 639621435,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Co Rd 579 Pittstown NJ 08867",
+    "addr:housenumber":"700",
+    "addr:postcode":"08867",
+    "addr:street":"Co Rd 579",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.977426,40.600049,-74.977426,40.600049",
     "geom:latitude":40.600049,
     "geom:longitude":-74.977426,
@@ -28,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85831045,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bnEpDerpsotHxpsFrczIC_40.600049_-74.977426@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461302553,
     "wof:geomhash":"be77017e59a2f3b464f80d21a252e6fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85831045,
+            "region_id":85688607,
+            "venue_id":639621435
+        }
+    ],
     "wof:id":639621435,
-    "wof:lastmodified":1466697505,
+    "wof:lastmodified":1492028566,
     "wof:name":"KFS Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

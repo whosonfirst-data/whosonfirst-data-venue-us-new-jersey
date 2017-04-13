@@ -2,9 +2,14 @@
   "id": 655476087,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Odonnells Ln Riverton NJ 08077",
+    "addr:housenumber":"312",
+    "addr:postcode":"08077",
+    "addr:street":"Odonnells Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.010037,39.973856,-75.010037,39.973856",
     "geom:latitude":39.973856,
     "geom:longitude":-75.010037,
@@ -24,7 +29,10 @@
     "sg:postcode":"08077",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HIUVUOmEg2uCRNKwmn1U7_39.973856_-75.010037@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461307838,
     "wof:geomhash":"04e3a5beb8c23189cd821d688e901d72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526797,
+            "venue_id":655476087
+        }
+    ],
     "wof:id":655476087,
-    "wof:lastmodified":1466677407,
+    "wof:lastmodified":1492045152,
     "wof:name":"Camden County Hog Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

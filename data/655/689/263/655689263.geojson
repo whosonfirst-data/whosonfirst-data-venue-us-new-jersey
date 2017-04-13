@@ -2,9 +2,14 @@
   "id": 655689263,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Laroche Ave Harrington Park NJ 07640",
+    "addr:housenumber":"90",
+    "addr:postcode":"07640",
+    "addr:street":"Laroche Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979182,40.984004,-73.979182,40.984004",
     "geom:latitude":40.984004,
     "geom:longitude":-73.979182,
@@ -28,7 +33,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4abod8bX2URMttRBd1ZRaU_40.984004_-73.979182@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316832,
     "wof:geomhash":"fab3a4b13f329460c1d31d7a4191a463",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655689263
+        }
+    ],
     "wof:id":655689263,
-    "wof:lastmodified":1466683967,
+    "wof:lastmodified":1492052290,
     "wof:name":"Vera's Trattoria Ristorante & Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

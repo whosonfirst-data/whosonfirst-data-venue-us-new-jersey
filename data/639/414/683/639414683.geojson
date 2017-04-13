@@ -2,9 +2,14 @@
   "id": 639414683,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"115",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.993776,40.940296,-73.993776,40.940296",
     "geom:latitude":40.940296,
     "geom:longitude":-73.993776,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h2rz6rNRyGkhudvSiyt62_40.940296_-73.993776@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294596,
     "wof:geomhash":"571b102e75967a559dc5b7c7d8f69d79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639414683
+        }
+    ],
     "wof:id":639414683,
-    "wof:lastmodified":1466693099,
+    "wof:lastmodified":1492040077,
     "wof:name":"Gifted Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

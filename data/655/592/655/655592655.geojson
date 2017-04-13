@@ -2,9 +2,14 @@
   "id": 655592655,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Glenwild Ave Bloomingdale NJ 07403",
+    "addr:housenumber":"125",
+    "addr:postcode":"07403",
+    "addr:street":"Glenwild Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.336379,41.014334,-74.336379,41.014334",
     "geom:latitude":41.014334,
     "geom:longitude":-74.336379,
@@ -24,7 +29,13 @@
     "sg:postcode":"07403",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975491,
+        102081133,
+        85803301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IkWL18CWAA9SVfWAw8Hi3_41.014334_-74.336379@1294171694"
@@ -32,11 +43,20 @@
     "wof:country":"US",
     "wof:created":1461312697,
     "wof:geomhash":"f25f6dc6fc115a323f92e613fa618595",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081133,
+            "locality_id":85975491,
+            "neighbourhood_id":85803301,
+            "region_id":85688607,
+            "venue_id":655592655
+        }
+    ],
     "wof:id":655592655,
-    "wof:lastmodified":1466680844,
+    "wof:lastmodified":1492053853,
     "wof:name":"Insurance Training Institute",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

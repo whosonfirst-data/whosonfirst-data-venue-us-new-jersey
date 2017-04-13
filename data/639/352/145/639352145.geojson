@@ -2,9 +2,14 @@
   "id": 639352145,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 London Rd Brick NJ 08723",
+    "addr:housenumber":"33",
+    "addr:postcode":"08723",
+    "addr:street":"London Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114888,40.050511,-74.114888,40.050511",
     "geom:latitude":40.050511,
     "geom:longitude":-74.114888,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N3SSiwQ3tBSZlGsxMwQv6_40.050511_-74.114888@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293068,
     "wof:geomhash":"65fd8180c91814433db76a3c2e13fac8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639352145
+        }
+    ],
     "wof:id":639352145,
-    "wof:lastmodified":1466692408,
+    "wof:lastmodified":1492061266,
     "wof:name":"Stephen Lamm Painting & Wallco",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

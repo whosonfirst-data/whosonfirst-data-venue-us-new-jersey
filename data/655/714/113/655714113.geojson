@@ -2,9 +2,14 @@
   "id": 655714113,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Stratford Pl North Arlington NJ 07031",
+    "addr:housenumber":"30",
+    "addr:postcode":"07031",
+    "addr:street":"Stratford Pl North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126775,40.780047,-74.126775,40.780047",
     "geom:latitude":40.780047,
     "geom:longitude":-74.126775,
@@ -28,7 +33,14 @@
         "team"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A8ys7WfgXrSWgRnl5fADy_40.780047_-74.126775@1303262252"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317928,
     "wof:geomhash":"0daf893e3d47035e9f3fb0b72f9388b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714113
+        }
+    ],
     "wof:id":655714113,
-    "wof:lastmodified":1466684540,
+    "wof:lastmodified":1492048513,
     "wof:name":"North Arlington Recreation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

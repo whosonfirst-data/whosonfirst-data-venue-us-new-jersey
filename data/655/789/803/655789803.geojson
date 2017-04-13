@@ -2,9 +2,14 @@
   "id": 655789803,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Main St Newton NJ 07860",
+    "addr:housenumber":"97",
+    "addr:postcode":"07860",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755524,41.054199,-74.755524,41.054199",
     "geom:latitude":41.054199,
     "geom:longitude":-74.755524,
@@ -34,7 +39,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mva6viooiCtv1Bz8wGeIZ_41.054199_-74.755524@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320970,
     "wof:geomhash":"fb2701baa2a31b6405c9745458991544",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789803
+        }
+    ],
     "wof:id":655789803,
-    "wof:lastmodified":1466686724,
+    "wof:lastmodified":1492070866,
     "wof:name":"Triple Crown Realtors",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638716425,
   "type": "Feature",
   "properties": {
+    "addr:full":"72 Tenby Ln Marlton NJ 08053",
+    "addr:housenumber":"72",
+    "addr:postcode":"08053",
+    "addr:street":"Tenby Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.914925,39.911663,-74.914925,39.911663",
     "geom:latitude":39.911663,
     "geom:longitude":-74.914925,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0po37velqWdLTCW0OW3PX4_39.911663_-74.914925@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461278090,
     "wof:geomhash":"392f9c15c60d79c52f0b64dda3c8be40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638716425
+        }
+    ],
     "wof:id":638716425,
-    "wof:lastmodified":1466673497,
+    "wof:lastmodified":1492030660,
     "wof:name":"Runner Mechanical",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

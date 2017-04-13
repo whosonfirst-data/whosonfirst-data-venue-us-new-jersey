@@ -2,9 +2,14 @@
   "id": 639542195,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Broad St Norwood NJ 07648",
+    "addr:housenumber":"14",
+    "addr:postcode":"07648",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.966801,40.999737,-73.966801,40.999737",
     "geom:latitude":40.999737,
     "geom:longitude":-73.966801,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q2g4aZwnYrvJUxXKjbSy1_40.999737_-73.966801@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299417,
     "wof:geomhash":"6b6fbec365b7b93dce26a35a80898744",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639542195
+        }
+    ],
     "wof:id":639542195,
-    "wof:lastmodified":1466695595,
+    "wof:lastmodified":1492049651,
     "wof:name":"MDC Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639501879,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Mill Rd Marlton NJ 08053",
+    "addr:housenumber":"130",
+    "addr:postcode":"08053",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.88912,39.787778,-74.88912,39.787778",
     "geom:latitude":39.787778,
     "geom:longitude":-74.88912,
@@ -29,7 +34,10 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03lb8SR6OmQiWpBf0NpGPG_39.787778_-74.889120@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461297493,
     "wof:geomhash":"d8424a89c05a0c25c8aec505d06920a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526659,
+            "venue_id":639501879
+        }
+    ],
     "wof:id":639501879,
-    "wof:lastmodified":1466694914,
+    "wof:lastmodified":1492047506,
     "wof:name":"J Daraio Chimney Svc",
     "wof:parent_id":420526659,
     "wof:placetype":"venue",

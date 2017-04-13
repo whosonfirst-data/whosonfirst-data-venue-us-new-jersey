@@ -2,9 +2,14 @@
   "id": 638993947,
   "type": "Feature",
   "properties": {
+    "addr:full":"194 10th Ave Hawthorne NJ 07506",
+    "addr:housenumber":"194",
+    "addr:postcode":"07506",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147962,40.962563,-74.147962,40.962563",
     "geom:latitude":40.962563,
     "geom:longitude":-74.147962,
@@ -28,7 +33,14 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L94mkqvSoL2jfc6Oz2JdO_40.962563_-74.147962@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284979,
     "wof:geomhash":"5aa28a988b0fb2765eaf9089a07863bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":638993947
+        }
+    ],
     "wof:id":638993947,
-    "wof:lastmodified":1466692176,
+    "wof:lastmodified":1492027640,
     "wof:name":"Herbert Roman Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639502151,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Hoagland Rd Flemington NJ 08822",
+    "addr:housenumber":"13",
+    "addr:postcode":"08822",
+    "addr:street":"Hoagland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.771547,40.549595,-74.771547,40.549595",
     "geom:latitude":40.549595,
     "geom:longitude":-74.771547,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iInXOv0cS5ErcnzX9mxzM_40.549595_-74.771547@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297508,
     "wof:geomhash":"e35c584d8141129007594dfff0ae65a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639502151
+        }
+    ],
     "wof:id":639502151,
-    "wof:lastmodified":1466694681,
+    "wof:lastmodified":1492068769,
     "wof:name":"Infinity Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

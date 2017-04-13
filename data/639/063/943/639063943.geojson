@@ -2,9 +2,14 @@
   "id": 639063943,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Co Rd 526 Allentown NJ 08501",
+    "addr:housenumber":"86;526",
+    "addr:postcode":"08501",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.588605,40.180731,-74.588605,40.180731",
     "geom:latitude":40.180731,
     "geom:longitude":-74.588605,
@@ -40,7 +45,9 @@
         85633793,
         85975379,
         102085049,
-        85850617
+        85850617,
+        85836583,
+        102081129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +64,19 @@
             "neighbourhood_id":85850617,
             "region_id":85688607,
             "venue_id":639063943
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85836583,
+            "region_id":85688607,
+            "venue_id":639063943
         }
     ],
     "wof:id":639063943,
-    "wof:lastmodified":1466688203,
+    "wof:lastmodified":1492056062,
     "wof:name":"Comm Corp Inc",
-    "wof:parent_id":85850617,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

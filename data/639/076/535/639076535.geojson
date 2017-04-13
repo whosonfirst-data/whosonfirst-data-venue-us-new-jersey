@@ -2,9 +2,14 @@
   "id": 639076535,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Bayard Ln Princeton NJ 08540",
+    "addr:housenumber":"163",
+    "addr:postcode":"08540",
+    "addr:street":"Bayard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.669467,40.355432,-74.669467,40.355432",
     "geom:latitude":40.355432,
     "geom:longitude":-74.669467,
@@ -31,7 +36,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SHPhbs3jzVxaR4TOE3JFi_40.355432_-74.669467@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461286850,
     "wof:geomhash":"e8ecfbea50195ccb2108a5931bbb79ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639076535
+        }
+    ],
     "wof:id":639076535,
-    "wof:lastmodified":1466688525,
+    "wof:lastmodified":1492047763,
     "wof:name":"Stefanellis Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

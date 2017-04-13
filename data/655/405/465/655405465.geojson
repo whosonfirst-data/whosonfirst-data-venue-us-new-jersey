@@ -2,9 +2,14 @@
   "id": 655405465,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 North Rd Califon NJ 07830",
+    "addr:housenumber":"402",
+    "addr:postcode":"07830",
+    "addr:street":"North Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880329,40.704955,-74.880329,40.704955",
     "geom:latitude":40.704955,
     "geom:longitude":-74.880329,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85808433,
-        102085997
+        85825839,
+        102085997,
+        85808433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085997,
+            "neighbourhood_id":85825839,
+            "region_id":85688607,
+            "venue_id":655405465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
             "neighbourhood_id":85808433,
             "region_id":85688607,
             "venue_id":655405465
         }
     ],
     "wof:id":655405465,
-    "wof:lastmodified":1466675587,
+    "wof:lastmodified":1492065460,
     "wof:name":"Polt Bus Svc",
-    "wof:parent_id":85808433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

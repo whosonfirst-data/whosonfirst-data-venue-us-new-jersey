@@ -2,9 +2,14 @@
   "id": 655444769,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Sherwood Ct Newfoundland NJ 07435",
+    "addr:housenumber":"34",
+    "addr:postcode":"07435",
+    "addr:street":"Sherwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.403168,41.071348,-74.403168,41.071348",
     "geom:latitude":41.071348,
     "geom:longitude":-74.403168,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pXJXONrvfVow3CRz52qiF_41.071348_-74.403168@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306466,
     "wof:geomhash":"9fd5cc3f77215a964bdc84999ca8d196",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527481,
+            "venue_id":655444769
+        }
+    ],
     "wof:id":655444769,
-    "wof:lastmodified":1466676713,
+    "wof:lastmodified":1492047690,
     "wof:name":"Resource Capital Cor",
     "wof:parent_id":420527481,
     "wof:placetype":"venue",

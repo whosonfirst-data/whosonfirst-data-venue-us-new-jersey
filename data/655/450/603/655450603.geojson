@@ -2,9 +2,14 @@
   "id": 655450603,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 N Franklin Tpke Ramsey NJ 07446",
+    "addr:housenumber":"116",
+    "addr:postcode":"07446",
+    "addr:street":"N Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132927,41.061551,-74.132927,41.061551",
     "geom:latitude":41.061551,
     "geom:longitude":-74.132927,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kpruCn80npzemYh2Eo3Hc_41.061551_-74.132927@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306720,
     "wof:geomhash":"1e9a05560f2ea7a2696ec2d75e058591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655450603
+        }
+    ],
     "wof:id":655450603,
-    "wof:lastmodified":1466676913,
+    "wof:lastmodified":1492040124,
     "wof:name":"KTI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

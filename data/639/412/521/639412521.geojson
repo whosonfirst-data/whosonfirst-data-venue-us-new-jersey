@@ -2,9 +2,14 @@
   "id": 639412521,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Cooper Folly Rd Atco NJ 08004",
+    "addr:housenumber":"30",
+    "addr:postcode":"08004",
+    "addr:street":"Cooper Folly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.895749,39.758835,-74.895749,39.758835",
     "geom:latitude":39.758835,
     "geom:longitude":-74.895749,
@@ -27,7 +32,13 @@
         "board"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51JaQTArRxM2XKtEtS9Iz7_39.758835_-74.895749@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294544,
     "wof:geomhash":"e96705b310d5a6e78e1c5b63c32f8a60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":639412521
+        }
+    ],
     "wof:id":639412521,
-    "wof:lastmodified":1466693158,
+    "wof:lastmodified":1492040547,
     "wof:name":"Winslow Township Board Educatn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

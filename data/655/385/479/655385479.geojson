@@ -2,9 +2,14 @@
   "id": 655385479,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Centennial Ave Piscataway NJ 08854",
+    "addr:housenumber":"200",
+    "addr:postcode":"08854",
+    "addr:street":"Centennial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.491228,40.546442,-74.491228,40.546442",
     "geom:latitude":40.546442,
     "geom:longitude":-74.491228,
@@ -27,6 +32,8 @@
     "wof:belongsto":[
         85688607,
         85633793,
+        85842907,
+        102087417,
         85976155,
         102085045,
         85819251
@@ -41,6 +48,13 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85842907,
+            "region_id":85688607,
+            "venue_id":655385479
+        },
+        {
+            "country_id":85633793,
             "county_id":102085045,
             "locality_id":85976155,
             "neighbourhood_id":85819251,
@@ -49,9 +63,9 @@
         }
     ],
     "wof:id":655385479,
-    "wof:lastmodified":1466675071,
+    "wof:lastmodified":1492061676,
     "wof:name":"Houston Colliers & Co",
-    "wof:parent_id":85819251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

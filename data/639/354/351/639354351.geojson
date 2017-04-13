@@ -2,9 +2,14 @@
   "id": 639354351,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Brick Rd Cherry Hill NJ 08003",
+    "addr:housenumber":"86",
+    "addr:postcode":"08003",
+    "addr:street":"Brick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.938314,39.872424,-74.938314,39.872424",
     "geom:latitude":39.872424,
     "geom:longitude":-74.938314,
@@ -27,7 +32,14 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976229,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i1eAtOpmiq9B9kTaKkFup_39.872424_-74.938314@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293116,
     "wof:geomhash":"62d3c908c89df49ec5e00602d3b0ae0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976229,
+            "region_id":85688607,
+            "venue_id":639354351
+        }
+    ],
     "wof:id":639354351,
-    "wof:lastmodified":1466692452,
+    "wof:lastmodified":1492069464,
     "wof:name":"Buddy Walton Orchestra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655835957,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Ridge Rd Dayton NJ 08810",
+    "addr:housenumber":"412",
+    "addr:postcode":"08810",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.512217,40.374835,-74.512217,40.374835",
     "geom:latitude":40.374835,
     "geom:longitude":-74.512217,
@@ -43,7 +48,10 @@
     ],
     "sg:website":"http://www.drainking.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kKegw97xS7TAcKT1eVWvN_40.374835_-74.512217@1303262282"
@@ -51,9 +59,15 @@
     "wof:country":"US",
     "wof:created":1461322902,
     "wof:geomhash":"3c285bfc4fc33d2cd98da4d70bca68ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655835957
+        }
+    ],
     "wof:id":655835957,
-    "wof:lastmodified":1466688038,
+    "wof:lastmodified":1492039034,
     "wof:name":"Drain King",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

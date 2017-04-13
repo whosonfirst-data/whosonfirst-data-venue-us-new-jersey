@@ -2,9 +2,14 @@
   "id": 639529049,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 US Hwy 202 Ringoes NJ 08551",
+    "addr:housenumber":"176",
+    "addr:postcode":"08551",
+    "addr:street":"Us Hwy 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8638,40.479692,-74.8638,40.479692",
     "geom:latitude":40.479692,
     "geom:longitude":-74.8638,
@@ -33,7 +38,11 @@
         85688607,
         85633793,
         85812239,
-        102085997
+        102085997,
+        85819609,
+        102191575,
+        404477453,
+        85975697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +58,22 @@
             "neighbourhood_id":85812239,
             "region_id":85688607,
             "venue_id":639529049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477453,
+            "locality_id":85975697,
+            "neighbourhood_id":85819609,
+            "region_id":85688607,
+            "venue_id":639529049
         }
     ],
     "wof:id":639529049,
-    "wof:lastmodified":1466695653,
+    "wof:lastmodified":1492047223,
     "wof:name":"Bath Fitter",
-    "wof:parent_id":85812239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

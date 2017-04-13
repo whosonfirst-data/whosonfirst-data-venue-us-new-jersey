@@ -2,9 +2,14 @@
   "id": 655401173,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Cambridge Way Princeton Junction NJ 08550",
+    "addr:housenumber":"12",
+    "addr:postcode":"08550",
+    "addr:street":"Cambridge Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620944,40.288535,-74.620944,40.288535",
     "geom:latitude":40.288535,
     "geom:longitude":-74.620944,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uPT7bFn0cJpZrSKqdXncV_40.288535_-74.620944@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304682,
     "wof:geomhash":"0d7ed5e949215fb5f820185a64d8cc21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":655401173
+        }
+    ],
     "wof:id":655401173,
-    "wof:lastmodified":1466675489,
+    "wof:lastmodified":1492023422,
     "wof:name":"Infotree Solution Inc",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

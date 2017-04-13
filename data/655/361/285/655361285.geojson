@@ -2,9 +2,14 @@
   "id": 655361285,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Lark Ln Montvale NJ 07645",
+    "addr:housenumber":"9",
+    "addr:postcode":"07645",
+    "addr:street":"Lark Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059341,41.066376,-74.059341,41.066376",
     "geom:latitude":41.066376,
     "geom:longitude":-74.059341,
@@ -27,7 +32,14 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VQCXAP2dR6h3oR8lixd6z_41.066376_-74.059341@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303053,
     "wof:geomhash":"fc0c51ac6d8d3bc74f477a7fd803f57b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":655361285
+        }
+    ],
     "wof:id":655361285,
-    "wof:lastmodified":1466674452,
+    "wof:lastmodified":1492081996,
     "wof:name":"An Unltd Portfolio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

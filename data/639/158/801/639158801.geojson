@@ -2,9 +2,14 @@
   "id": 639158801,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 S Broad St Trenton NJ 08608",
+    "addr:housenumber":"314",
+    "addr:postcode":"08608",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.760701,40.214472,-74.760701,40.214472",
     "geom:latitude":40.214472,
     "geom:longitude":-74.760701,
@@ -32,7 +37,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sXAJIvi99OJ0irbch4qCl_40.214472_-74.760701@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461288727,
     "wof:geomhash":"0e82e9d9f1abcdd8ff5fb7e52cc7a693",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639158801
+        }
+    ],
     "wof:id":639158801,
-    "wof:lastmodified":1466682815,
+    "wof:lastmodified":1492046320,
     "wof:name":"Felix's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

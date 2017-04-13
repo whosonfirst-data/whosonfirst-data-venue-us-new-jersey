@@ -2,9 +2,14 @@
   "id": 638762763,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"181",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.30199,40.62162,-74.30199,40.62162",
     "geom:latitude":40.62162,
     "geom:longitude":-74.30199,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.jca.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vdMFgyUBnMfodTQesQZQJ_40.621620_-74.301990@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279370,
     "wof:geomhash":"aa2c1c60b8d3b785301cb5018a95992b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638762763
+        }
+    ],
     "wof:id":638762763,
-    "wof:lastmodified":1466679820,
+    "wof:lastmodified":1492023624,
     "wof:name":"JCA Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

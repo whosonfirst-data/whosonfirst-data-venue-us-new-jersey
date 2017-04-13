@@ -2,9 +2,14 @@
   "id": 639466973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Weldon Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"1033",
+    "addr:postcode":"07438",
+    "addr:street":"Weldon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.548083,41.019415,-74.548083,41.019415",
     "geom:latitude":41.019415,
     "geom:longitude":-74.548083,
@@ -24,7 +29,10 @@
     "sg:postcode":"07438",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05GDxE8cp2MYiQXtBSnWDY_41.019415_-74.548083@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461296072,
     "wof:geomhash":"299569131df9f7c63d6e286fd201be84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":639466973
+        }
+    ],
     "wof:id":639466973,
-    "wof:lastmodified":1466694100,
+    "wof:lastmodified":1492042439,
     "wof:name":"Jefferson Twp Patrolmen's Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

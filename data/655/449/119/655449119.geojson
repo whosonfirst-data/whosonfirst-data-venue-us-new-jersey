@@ -2,9 +2,14 @@
   "id": 655449119,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Mount Airy Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"211",
+    "addr:postcode":"07920",
+    "addr:street":"Mount Airy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.578152,40.692758,-74.578152,40.692758",
     "geom:latitude":40.692758,
     "geom:longitude":-74.578152,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"www.avaya.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UeZZvfewWJV2MJjl7SNEC_40.692758_-74.578152@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461306650,
     "wof:geomhash":"883fe6cd09ba29ea13caff40a0e3a030",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":655449119
+        }
+    ],
     "wof:id":655449119,
-    "wof:lastmodified":1466676785,
+    "wof:lastmodified":1492048422,
     "wof:name":"Avaya Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

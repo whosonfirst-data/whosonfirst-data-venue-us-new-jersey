@@ -2,9 +2,14 @@
   "id": 639297327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2412 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"2412",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255116,40.889524,-74.255116,40.889524",
     "geom:latitude":40.889524,
     "geom:longitude":-74.255116,
@@ -30,7 +35,13 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dTMbTI9ANR2The4kqLyOb_40.889524_-74.255116@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461291913,
     "wof:geomhash":"d0471c78277f8e8db45c44f8aa09284b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639297327
+        }
+    ],
     "wof:id":639297327,
-    "wof:lastmodified":1466691146,
+    "wof:lastmodified":1492041737,
     "wof:name":"Trans World Entertainment Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

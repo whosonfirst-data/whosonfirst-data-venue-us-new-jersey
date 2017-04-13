@@ -2,9 +2,14 @@
   "id": 638884039,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Church St Bound Brook NJ 08805",
+    "addr:housenumber":"425",
+    "addr:postcode":"08805",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533004,40.567702,-74.533004,40.567702",
     "geom:latitude":40.567702,
     "geom:longitude":-74.533004,
@@ -35,7 +40,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zwYU5K6XpeiNyhlNhnlcW_40.567702_-74.533004@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461282303,
     "wof:geomhash":"b4eef48980a8fc27dcaec38c05d65d1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":638884039
+        }
+    ],
     "wof:id":638884039,
-    "wof:lastmodified":1466689785,
+    "wof:lastmodified":1492068934,
     "wof:name":"Golf Net Simulators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

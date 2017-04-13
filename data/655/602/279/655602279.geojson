@@ -2,9 +2,14 @@
   "id": 655602279,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 Dewey Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"516",
+    "addr:postcode":"07010",
+    "addr:street":"Dewey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991133,40.822438,-73.991133,40.822438",
     "geom:latitude":40.822438,
     "geom:longitude":-73.991133,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hqvekv0LmI4prqtmycNH1_40.822438_-73.991133@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313100,
     "wof:geomhash":"e745befce0856b377baa4803d02ba531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655602279
+        }
+    ],
     "wof:id":655602279,
-    "wof:lastmodified":1466681073,
+    "wof:lastmodified":1492045079,
     "wof:name":"Edward Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

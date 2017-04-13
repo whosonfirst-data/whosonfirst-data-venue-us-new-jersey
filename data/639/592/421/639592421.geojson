@@ -2,9 +2,14 @@
   "id": 639592421,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Warwick Dr Cream Ridge NJ 08514",
+    "addr:housenumber":"318",
+    "addr:postcode":"08514",
+    "addr:street":"Warwick Dr Cream Ridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.496718,40.090573,-74.496718,40.090573",
     "geom:latitude":40.090573,
     "geom:longitude":-74.496718,
@@ -27,7 +32,10 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527451
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74LpgBsLtf6Wmc6jFvhy6T_40.090573_-74.496718@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301457,
     "wof:geomhash":"91da7f44f67045c719699ee2b3eb99ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527451,
+            "venue_id":639592421
+        }
+    ],
     "wof:id":639592421,
-    "wof:lastmodified":1466696814,
+    "wof:lastmodified":1492047158,
     "wof:name":"Accu Chek Home Inspections",
     "wof:parent_id":420527451,
     "wof:placetype":"venue",

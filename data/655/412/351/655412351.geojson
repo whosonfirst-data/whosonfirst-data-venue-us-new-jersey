@@ -2,9 +2,14 @@
   "id": 655412351,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Hampton Rd Pittstown NJ 08867",
+    "addr:housenumber":"44",
+    "addr:postcode":"08867",
+    "addr:street":"Hampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987249,40.548365,-74.987249,40.548365",
     "geom:latitude":40.548365,
     "geom:longitude":-74.987249,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oTIZpj78OUROekHjr43j8_40.548365_-74.987249@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461305165,
     "wof:geomhash":"94fb52cd2fb22a49b88b95b9e3ab490b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":655412351
+        }
+    ],
     "wof:id":655412351,
-    "wof:lastmodified":1466675811,
+    "wof:lastmodified":1492068332,
     "wof:name":"Jcs Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639510951,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Pequest Dr Belvidere NJ 07823",
+    "addr:housenumber":"13",
+    "addr:postcode":"07823",
+    "addr:street":"Pequest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05828,40.828998,-75.05828,40.828998",
     "geom:latitude":40.828998,
     "geom:longitude":-75.05828,
@@ -28,7 +33,13 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AakJlZ2XULliofhYwIWSr_40.828998_-75.058280@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297894,
     "wof:geomhash":"fefb7dfcaa9466145d3473e5b5fae4e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":639510951
+        }
+    ],
     "wof:id":639510951,
-    "wof:lastmodified":1466695137,
+    "wof:lastmodified":1492025902,
     "wof:name":"Weidlicks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

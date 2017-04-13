@@ -2,9 +2,14 @@
   "id": 638903525,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Union Ave Bound Brook NJ 08805",
+    "addr:housenumber":"200",
+    "addr:postcode":"08805",
+    "addr:street":"E Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.529615,40.566427,-74.529615,40.566427",
     "geom:latitude":40.566427,
     "geom:longitude":-74.529615,
@@ -28,7 +33,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g4r2uxvg1cska0hBnZoGV_40.566427_-74.529615@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282839,
     "wof:geomhash":"3900bd375b89ae4d2bf223b156f3a77a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":638903525
+        }
+    ],
     "wof:id":638903525,
-    "wof:lastmodified":1466690177,
+    "wof:lastmodified":1492042967,
     "wof:name":"Susan Slater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

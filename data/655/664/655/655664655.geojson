@@ -2,9 +2,14 @@
   "id": 655664655,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Harrison Dr Willingboro NJ 08046",
+    "addr:housenumber":"69",
+    "addr:postcode":"08046",
+    "addr:street":"Harrison Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.87542,40.029638,-74.87542,40.029638",
     "geom:latitude":40.029638,
     "geom:longitude":-74.87542,
@@ -30,7 +35,10 @@
         "cd"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dPx0sTXVESqSpVHZq0g5I_40.029492_-74.875157@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461315796,
     "wof:geomhash":"34bd0876b7ed5589b60eb2dc888a15c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655664655
+        }
+    ],
     "wof:id":655664655,
-    "wof:lastmodified":1466683377,
+    "wof:lastmodified":1492045548,
     "wof:name":"Word For Word Productions",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

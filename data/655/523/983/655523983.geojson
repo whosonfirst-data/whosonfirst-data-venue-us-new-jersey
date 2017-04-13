@@ -2,9 +2,14 @@
   "id": 655523983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Center St Ramsey NJ 07446",
+    "addr:housenumber":"1",
+    "addr:postcode":"07446",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.15181,41.050339,-74.15181,41.050339",
     "geom:latitude":41.050339,
     "geom:longitude":-74.15181,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.commerceonline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975945,
+        102086773,
+        85818913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VnoRhokYQExsbxeeU4puU_41.050339_-74.151810@1294171694"
@@ -37,11 +48,20 @@
     "wof:country":"US",
     "wof:created":1461309818,
     "wof:geomhash":"75a710e0afdd7367756b18a7833f4f14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "locality_id":85975945,
+            "neighbourhood_id":85818913,
+            "region_id":85688607,
+            "venue_id":655523983
+        }
+    ],
     "wof:id":655523983,
-    "wof:lastmodified":1466678879,
+    "wof:lastmodified":1492052110,
     "wof:name":"Commerce Bank NA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

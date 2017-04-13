@@ -2,9 +2,14 @@
   "id": 655738061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Passaic St Wood Ridge NJ 07075",
+    "addr:housenumber":"4",
+    "addr:postcode":"07075",
+    "addr:street":"Passaic St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.109383,40.865334,-74.109383,40.865334",
     "geom:latitude":40.865334,
     "geom:longitude":-74.109383,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04djm9RqL5kmrsRufcViMH_40.865334_-74.109383@1303262258"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318847,
     "wof:geomhash":"42b83eeb20a0a4d75dcb281daacfbc98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655738061
+        }
+    ],
     "wof:id":655738061,
-    "wof:lastmodified":1466685218,
+    "wof:lastmodified":1492027609,
     "wof:name":"Hertz Furniture Systems Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

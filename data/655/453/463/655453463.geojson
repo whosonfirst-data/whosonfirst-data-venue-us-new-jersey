@@ -2,9 +2,14 @@
   "id": 655453463,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Overbrook Rd Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"12",
+    "addr:postcode":"07458",
+    "addr:street":"Overbrook Rd Upper Saddle Rvr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.111024,41.054272,-74.111024,41.054272",
     "geom:latitude":41.054272,
     "geom:longitude":-74.111024,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.departurespa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26Mcq85kHKQfHyg4QfmVXm_41.054272_-74.111024@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461306845,
     "wof:geomhash":"6217275fe9fa6fbdd8a0210fe0a20cd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655453463
+        }
+    ],
     "wof:id":655453463,
-    "wof:lastmodified":1466676895,
+    "wof:lastmodified":1492039210,
     "wof:name":"Departure Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

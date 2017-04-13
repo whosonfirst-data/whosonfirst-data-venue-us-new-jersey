@@ -2,9 +2,14 @@
   "id": 655490321,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Sutton Rd Lebanon NJ 08833",
+    "addr:housenumber":"11",
+    "addr:postcode":"08833",
+    "addr:street":"Sutton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.837032,40.706348,-74.837032,40.706348",
     "geom:latitude":40.706348,
     "geom:longitude":-74.837032,
@@ -24,7 +29,10 @@
     "sg:postcode":"08833",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MSMrVJ58DIaV7uY91JSNZ_40.706348_-74.837032@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461308429,
     "wof:geomhash":"0423d8d70ab557bdb39b8aaf19d706cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655490321
+        }
+    ],
     "wof:id":655490321,
-    "wof:lastmodified":1466677902,
+    "wof:lastmodified":1492024053,
     "wof:name":"Edward A Nugent CPA PC",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

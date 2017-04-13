@@ -2,9 +2,14 @@
   "id": 655625711,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Ridge Rd Brick NJ 08724",
+    "addr:housenumber":"505",
+    "addr:postcode":"08724",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116537,40.122621,-74.116537,40.122621",
     "geom:latitude":40.122621,
     "geom:longitude":-74.116537,
@@ -29,7 +34,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ql9l2gMjkyjW9hRQmXzzw_40.122621_-74.116537@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461314143,
     "wof:geomhash":"2deef709df348f865f3e897fc47ceb0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":655625711
+        }
+    ],
     "wof:id":655625711,
-    "wof:lastmodified":1466682011,
+    "wof:lastmodified":1492056933,
     "wof:name":"Lighthouse Marine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

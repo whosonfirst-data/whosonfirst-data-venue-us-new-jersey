@@ -2,9 +2,14 @@
   "id": 639475265,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Birch Dr Jackson NJ 08527",
+    "addr:housenumber":"21",
+    "addr:postcode":"08527",
+    "addr:street":"Birch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264001,40.150436,-74.264001,40.150436",
     "geom:latitude":40.150436,
     "geom:longitude":-74.264001,
@@ -28,7 +33,10 @@
         "reconstruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2udjTGI0sU2Tan1u35bbev_40.150436_-74.264001@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461296406,
     "wof:geomhash":"8dce7b058c226c85c9fc5bbd3735777c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639475265
+        }
+    ],
     "wof:id":639475265,
-    "wof:lastmodified":1466694155,
+    "wof:lastmodified":1492047666,
     "wof:name":"Wreck Check",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

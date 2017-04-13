@@ -2,9 +2,14 @@
   "id": 655365367,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Tillman St Westwood NJ 07675",
+    "addr:housenumber":"11",
+    "addr:postcode":"07675",
+    "addr:street":"Tillman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.010243,40.97931,-74.010243,40.97931",
     "geom:latitude":40.97931,
     "geom:longitude":-74.010243,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477747,
+        85633793,
+        85975887,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76lt61mY9h9ABZcJJEfVAy_40.979310_-74.010243@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303235,
     "wof:geomhash":"d5b4a28145e1d3a3b41bdfe339b17b66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477747,
+            "locality_id":85975887,
+            "region_id":85688607,
+            "venue_id":655365367
+        }
+    ],
     "wof:id":655365367,
-    "wof:lastmodified":1466674505,
+    "wof:lastmodified":1492047583,
     "wof:name":"Anthony Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

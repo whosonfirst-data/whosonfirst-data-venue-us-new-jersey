@@ -2,9 +2,14 @@
   "id": 639215387,
   "type": "Feature",
   "properties": {
+    "addr:full":"845 Alexander Rd Princeton NJ 08540",
+    "addr:housenumber":"845",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.632545,40.315815,-74.632545,40.315815",
     "geom:latitude":40.315815,
     "geom:longitude":-74.632545,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpK3cWWpLfk4N9yFhLk2D_40.315815_-74.632545@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461290035,
     "wof:geomhash":"86ee98d45b0f647362715ad005fda4a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639215387
+        }
+    ],
     "wof:id":639215387,
-    "wof:lastmodified":1466689460,
+    "wof:lastmodified":1492041602,
     "wof:name":"US Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

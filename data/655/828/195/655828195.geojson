@@ -2,9 +2,14 @@
   "id": 655828195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1165 Thomas Busch Memorial Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"1165",
+    "addr:postcode":"08110",
+    "addr:street":"Thomas Busch Memorial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033986,39.985869,-75.033986,39.985869",
     "geom:latitude":39.985869,
     "geom:longitude":-75.033986,
@@ -30,7 +35,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62HBqj2VqQ9vVxImyppzbT_39.985869_-75.033986@1303262280"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461322570,
     "wof:geomhash":"42bd71092e99edb770f703535067f312",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":655828195
+        }
+    ],
     "wof:id":655828195,
-    "wof:lastmodified":1466687599,
+    "wof:lastmodified":1492027532,
     "wof:name":"Disc Makers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

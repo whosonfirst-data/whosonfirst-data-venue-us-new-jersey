@@ -2,9 +2,14 @@
   "id": 655781479,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 Summit St Norwood NJ 07648",
+    "addr:housenumber":"177",
+    "addr:postcode":"07648",
+    "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961302,40.995419,-73.961302,40.995419",
     "geom:latitude":40.995419,
     "geom:longitude":-73.961302,
@@ -24,7 +29,14 @@
     "sg:postcode":"07648",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68QKD1t8x1nz0SpFm59Paw_40.995419_-73.961302@1303262268"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461320612,
     "wof:geomhash":"9aede5c5aa0e76275e1993016e47db8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655781479
+        }
+    ],
     "wof:id":655781479,
-    "wof:lastmodified":1466686386,
+    "wof:lastmodified":1492068304,
     "wof:name":"Norwood Public School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655828531,
   "type": "Feature",
   "properties": {
+    "addr:full":"6825 Westfield Ave A&B Pennsauken NJ 08110",
+    "addr:housenumber":"6825",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave A & B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052274,39.966394,-75.052274,39.966394",
     "geom:latitude":39.966394,
     "geom:longitude":-75.052274,
@@ -37,7 +42,14 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pr1AdKtGFAeuPmbIRdKRs_39.966394_-75.052274@1303262280"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461322587,
     "wof:geomhash":"59807e2015a5cc5aacf5c24fbdfe29d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828531
+        }
+    ],
     "wof:id":655828531,
-    "wof:lastmodified":1466687690,
+    "wof:lastmodified":1492056541,
     "wof:name":"M & C Insurance Agency, Inc.",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

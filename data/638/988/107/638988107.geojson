@@ -2,9 +2,14 @@
   "id": 638988107,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Paterson Ave Midland Park NJ 07432",
+    "addr:housenumber":"11",
+    "addr:postcode":"07432",
+    "addr:street":"Paterson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141139,40.985485,-74.141139,40.985485",
     "geom:latitude":40.985485,
     "geom:longitude":-74.141139,
@@ -28,7 +33,14 @@
         "practitioner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yZrIBk03hReyN00jx17xw_40.985485_-74.141139@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284834,
     "wof:geomhash":"ba99063e012ee661090edf503e9122e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":638988107
+        }
+    ],
     "wof:id":638988107,
-    "wof:lastmodified":1466692082,
+    "wof:lastmodified":1492076289,
     "wof:name":"DOGCA Universal Wellness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

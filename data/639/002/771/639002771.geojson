@@ -2,9 +2,14 @@
   "id": 639002771,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Old Tappan Rd Westwood NJ 07675",
+    "addr:housenumber":"195",
+    "addr:postcode":"07675",
+    "addr:street":"Old Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979324,41.015214,-73.979324,41.015214",
     "geom:latitude":41.015214,
     "geom:longitude":-73.979324,
@@ -30,7 +35,14 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33cFTC5p8ct8rgqVlvIzo5_41.015214_-73.979324@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461285172,
     "wof:geomhash":"dd37cea3128cd94ed8a566d7a002f2ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639002771
+        }
+    ],
     "wof:id":639002771,
-    "wof:lastmodified":1466673151,
+    "wof:lastmodified":1492039101,
     "wof:name":"Sunrise Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655611959,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Merlin Dr Lakewood NJ 08701",
+    "addr:housenumber":"25",
+    "addr:postcode":"08701",
+    "addr:street":"Merlin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168391,40.104198,-74.168391,40.104198",
     "geom:latitude":40.104198,
     "geom:longitude":-74.168391,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f4bUxoG9yEUkAY65uEHbq_40.104198_-74.168391@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313510,
     "wof:geomhash":"0eb70652027de6f0f3cb8913de5c3bd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655611959
+        }
+    ],
     "wof:id":655611959,
-    "wof:lastmodified":1466681641,
+    "wof:lastmodified":1492042989,
     "wof:name":"Atz Construction",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

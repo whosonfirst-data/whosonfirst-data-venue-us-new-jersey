@@ -2,9 +2,14 @@
   "id": 639001769,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Medford Mount Holly Rd Medford NJ 08055",
+    "addr:housenumber":"107",
+    "addr:postcode":"08055",
+    "addr:street":"Medford Mount Holly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.824589,39.905217,-74.824589,39.905217",
     "geom:latitude":39.905217,
     "geom:longitude":-74.824589,
@@ -30,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526561,
+        85688607,
         85848433,
         102087415
     ],
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526561,
+            "venue_id":639001769
+        },
+        {
+            "country_id":85633793,
             "county_id":102087415,
             "neighbourhood_id":85848433,
             "region_id":85688607,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":639001769,
-    "wof:lastmodified":1466673130,
+    "wof:lastmodified":1492052222,
     "wof:name":"MGM Landscaping",
-    "wof:parent_id":85848433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

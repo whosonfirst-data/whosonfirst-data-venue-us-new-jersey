@@ -2,9 +2,14 @@
   "id": 638891283,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 State Rte 27 Franklin Park NJ 08823",
+    "addr:housenumber":"3175",
+    "addr:postcode":"08823",
+    "addr:street":"State Rte 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.544365,40.43472,-74.544365,40.43472",
     "geom:latitude":40.43472,
     "geom:longitude":-74.544365,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Da0kJ0Jj2P2dGhajQNauM_40.434720_-74.544365@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282528,
     "wof:geomhash":"e6d01a934a29465151a2513f5422e2c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":638891283
+        }
+    ],
     "wof:id":638891283,
-    "wof:lastmodified":1466689901,
+    "wof:lastmodified":1492052155,
     "wof:name":"Santa Fe Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

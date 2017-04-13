@@ -2,9 +2,14 @@
   "id": 639495199,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Dawn Cypress Ln Jackson NJ 08527",
+    "addr:housenumber":"42",
+    "addr:postcode":"08527",
+    "addr:street":"Dawn Cypress Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257243,40.147456,-74.257243,40.147456",
     "geom:latitude":40.147456,
     "geom:longitude":-74.257243,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76sfv95VxSWSQmRK2mypMn_40.147456_-74.257243@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461297218,
     "wof:geomhash":"b43a47bf02d7f9fa7dd828d49a6f6b98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639495199
+        }
+    ],
     "wof:id":639495199,
-    "wof:lastmodified":1466694788,
+    "wof:lastmodified":1492056013,
     "wof:name":"Cagno Trucking Co",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

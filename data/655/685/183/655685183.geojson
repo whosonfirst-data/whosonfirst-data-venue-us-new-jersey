@@ -2,9 +2,14 @@
   "id": 655685183,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Garland Ln Willingboro NJ 08046",
+    "addr:housenumber":"77",
+    "addr:postcode":"08046",
+    "addr:street":"Garland Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878898,40.02784,-74.878898,40.02784",
     "geom:latitude":40.02784,
     "geom:longitude":-74.878898,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GpcQVUf9rLLbLQg4N3yRG_40.027845_-74.878507@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316646,
     "wof:geomhash":"2485b0635f764cda464aa69d38221299",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655685183
+        }
+    ],
     "wof:id":655685183,
-    "wof:lastmodified":1466683812,
+    "wof:lastmodified":1492049102,
     "wof:name":"Sunset Family Dental",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

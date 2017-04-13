@@ -2,9 +2,14 @@
   "id": 639452791,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Southard St Trenton NJ 08609",
+    "addr:housenumber":"10",
+    "addr:postcode":"08609",
+    "addr:street":"Southard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755384,40.223998,-74.755384,40.223998",
     "geom:latitude":40.223998,
     "geom:longitude":-74.755384,
@@ -27,7 +32,14 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00YmkE0EYqSn9i8RAhj7Or_40.223998_-74.755384@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295531,
     "wof:geomhash":"4553cc2278d57e7ab5a2b18b4dee57de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639452791
+        }
+    ],
     "wof:id":639452791,
-    "wof:lastmodified":1466693600,
+    "wof:lastmodified":1492047121,
     "wof:name":"Gathering Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

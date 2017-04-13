@@ -2,9 +2,14 @@
   "id": 639382965,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"220",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.973396,40.759799,-74.973396,40.759799",
     "geom:latitude":40.759799,
     "geom:longitude":-74.973396,
@@ -28,7 +33,10 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qF5DMl3tEADQ7IgXhIL7k_40.759799_-74.973396@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293702,
     "wof:geomhash":"09dba71ee862aaa739c9e0215bc1c8ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639382965
+        }
+    ],
     "wof:id":639382965,
-    "wof:lastmodified":1466692829,
+    "wof:lastmodified":1492056056,
     "wof:name":"Advance Auto Parts Inc",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

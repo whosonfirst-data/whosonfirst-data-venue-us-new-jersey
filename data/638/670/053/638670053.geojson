@@ -2,9 +2,14 @@
   "id": 638670053,
   "type": "Feature",
   "properties": {
+    "addr:full":"893 S Broad St Trenton NJ 08611",
+    "addr:housenumber":"893",
+    "addr:postcode":"08611",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749297,40.206697,-74.749297,40.206697",
     "geom:latitude":40.206697,
     "geom:longitude":-74.749297,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.expresspersonnel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21Y3VEbNh1tLEGlL0S9TO9_40.206697_-74.749297@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461276462,
     "wof:geomhash":"6a45e39ef66ac67a9512450c4523ae41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638670053
+        }
+    ],
     "wof:id":638670053,
-    "wof:lastmodified":1466674375,
+    "wof:lastmodified":1492082104,
     "wof:name":"Express Personnel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

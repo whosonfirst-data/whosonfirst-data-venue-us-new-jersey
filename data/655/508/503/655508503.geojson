@@ -2,9 +2,14 @@
   "id": 655508503,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Hageman Ln Princeton NJ 08540",
+    "addr:housenumber":"25",
+    "addr:postcode":"08540",
+    "addr:street":"Hageman Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.714239,40.365463,-74.714239,40.365463",
     "geom:latitude":40.365463,
     "geom:longitude":-74.714239,
@@ -28,7 +33,13 @@
         "surety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LUtuLPXVtuAMGSG8PoQuu_40.365463_-74.714239@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461309226,
     "wof:geomhash":"bc3870757bf03f85d214484f396e4a27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655508503
+        }
+    ],
     "wof:id":655508503,
-    "wof:lastmodified":1466678480,
+    "wof:lastmodified":1492070090,
     "wof:name":"Astons Jazz Ltd Liability Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

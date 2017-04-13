@@ -2,9 +2,14 @@
   "id": 655565959,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Gorge Rd Edgewater NJ 07020",
+    "addr:housenumber":"53",
+    "addr:postcode":"07020",
+    "addr:street":"Gorge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991385,40.809092,-73.991385,40.809092",
     "geom:latitude":40.809092,
     "geom:longitude":-73.991385,
@@ -24,7 +29,14 @@
     "sg:postcode":"07020",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pMqP7RDqqMGN0SIDfZmtZ_40.809092_-73.991385@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311538,
     "wof:geomhash":"120b0e9e42e726806295425f1039959a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655565959
+        }
+    ],
     "wof:id":655565959,
-    "wof:lastmodified":1466680007,
+    "wof:lastmodified":1492044392,
     "wof:name":"Edgewater Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655833047,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Columbia Ave Hopewell NJ 08525",
+    "addr:housenumber":"81",
+    "addr:postcode":"08525",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.754565,40.390024,-74.754565,40.390024",
     "geom:latitude":40.390024,
     "geom:longitude":-74.754565,
@@ -27,7 +32,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7248UUeklg6pWNCPWCDHW8_40.390024_-74.754565@1303262281"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322788,
     "wof:geomhash":"1fe3b1a5e5f8ce845c50ce2c08efd862",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":655833047
+        }
+    ],
     "wof:id":655833047,
-    "wof:lastmodified":1466687651,
+    "wof:lastmodified":1492043316,
     "wof:name":"Site Science Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

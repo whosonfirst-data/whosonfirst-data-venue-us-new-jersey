@@ -2,9 +2,14 @@
   "id": 655426379,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 N Boston Rd Jackson NJ 08527",
+    "addr:housenumber":"61",
+    "addr:postcode":"08527",
+    "addr:street":"N Boston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301225,40.118535,-74.301225,40.118535",
     "geom:latitude":40.118535,
     "geom:longitude":-74.301225,
@@ -24,7 +29,13 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uu0eOjg8yOrsfYSyR7fjJ_40.118535_-74.301225@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461305726,
     "wof:geomhash":"9f86d9f7c4121494404ff0b755998583",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655426379
+        }
+    ],
     "wof:id":655426379,
-    "wof:lastmodified":1466676134,
+    "wof:lastmodified":1492045904,
     "wof:name":"Bread Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

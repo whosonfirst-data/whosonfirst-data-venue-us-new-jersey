@@ -2,9 +2,14 @@
   "id": 638881673,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Industrial Ave Mahwah NJ 07430",
+    "addr:housenumber":"18",
+    "addr:postcode":"07430",
+    "addr:street":"Industrial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142043,41.081524,-74.142043,41.081524",
     "geom:latitude":41.081524,
     "geom:longitude":-74.142043,
@@ -28,7 +33,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UKDm7RIbe1aNLVQD6dtpZ_41.081524_-74.142043@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282240,
     "wof:geomhash":"aadce99b452fc852288a1a0027bc1c99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638881673
+        }
+    ],
     "wof:id":638881673,
-    "wof:lastmodified":1466689760,
+    "wof:lastmodified":1492069670,
     "wof:name":"Valley Paper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655733787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1073 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1073",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.31495,40.6276,-74.31495,40.6276",
     "geom:latitude":40.6276,
     "geom:longitude":-74.31495,
@@ -27,7 +32,13 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JO4J01UpEoqsssFj8P2ua_40.627600_-74.314950@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318678,
     "wof:geomhash":"2a8574a4b27b25c620722c4805542a67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733787
+        }
+    ],
     "wof:id":655733787,
-    "wof:lastmodified":1466685221,
+    "wof:lastmodified":1492027233,
     "wof:name":"A 24 All Day Emergency A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

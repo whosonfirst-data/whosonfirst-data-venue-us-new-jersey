@@ -2,9 +2,14 @@
   "id": 639623419,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Prospect Hill Ave Summit NJ 07901",
+    "addr:housenumber":"80",
+    "addr:postcode":"07901",
+    "addr:street":"Prospect Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343117,40.72026,-74.343117,40.72026",
     "geom:latitude":40.72026,
     "geom:longitude":-74.343117,
@@ -28,7 +33,14 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A3XawpfcDyTrhdbIOV0DH_40.720260_-74.343117@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302623,
     "wof:geomhash":"e9ddc7e3cfd37fe4293d064b7873917b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639623419
+        }
+    ],
     "wof:id":639623419,
-    "wof:lastmodified":1466697399,
+    "wof:lastmodified":1492051417,
     "wof:name":"Alinco Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

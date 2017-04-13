@@ -2,9 +2,14 @@
   "id": 655550097,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Pine Brook Rd Montville NJ 07045",
+    "addr:housenumber":"145",
+    "addr:postcode":"07045",
+    "addr:street":"Pine Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34073,40.894794,-74.34073,40.894794",
     "geom:latitude":40.894794,
     "geom:longitude":-74.34073,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HHDKZt69nYOH9iRNjeSwM_40.894794_-74.340730@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310824,
     "wof:geomhash":"b3c07ef0b12fdc8bbec9b7ce740f7b7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":655550097
+        }
+    ],
     "wof:id":655550097,
-    "wof:lastmodified":1466679435,
+    "wof:lastmodified":1492029367,
     "wof:name":"J & R Drywall Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639344495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Village Rd Pompton Plains NJ 07444",
+    "addr:housenumber":"1",
+    "addr:postcode":"07444",
+    "addr:street":"Village Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291792,40.967333,-74.291792,40.967333",
     "geom:latitude":40.967333,
     "geom:longitude":-74.291792,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YdePLVDWg6XBe35R6ALQD_40.967333_-74.291792@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461292903,
     "wof:geomhash":"850222bcf6d4a39c3b48c214c3e50ee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639344495
+        }
+    ],
     "wof:id":639344495,
-    "wof:lastmodified":1466692314,
+    "wof:lastmodified":1492058411,
     "wof:name":"Tocci Building Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

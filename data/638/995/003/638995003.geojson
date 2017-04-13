@@ -2,9 +2,14 @@
   "id": 638995003,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Agate Rd East Brunswick NJ 08816",
+    "addr:housenumber":"56",
+    "addr:postcode":"08816",
+    "addr:street":"Agate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.416206,40.467949,-74.416206,40.467949",
     "geom:latitude":40.467949,
     "geom:longitude":-74.416206,
@@ -29,7 +34,10 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ups9cfEG2ngl5Anzu2qKN_40.467949_-74.416206@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461285009,
     "wof:geomhash":"b2d06e0f69a69e007a27219bec5c742f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527221,
+            "venue_id":638995003
+        }
+    ],
     "wof:id":638995003,
-    "wof:lastmodified":1466692523,
+    "wof:lastmodified":1492030952,
     "wof:name":"Xpress Medical Billing Center",
     "wof:parent_id":420527221,
     "wof:placetype":"venue",

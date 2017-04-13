@@ -2,9 +2,14 @@
   "id": 639271697,
   "type": "Feature",
   "properties": {
+    "addr:full":"2596 Allen Ave Union NJ 07083",
+    "addr:housenumber":"2596",
+    "addr:postcode":"07083",
+    "addr:street":"Allen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287028,40.710593,-74.287028,40.710593",
     "geom:latitude":40.710593,
     "geom:longitude":-74.287028,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KkSblQg55fu6RRILC48dn_40.710593_-74.287028@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461291341,
     "wof:geomhash":"4a50e4fc902295ff572572851bb9317b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639271697
+        }
+    ],
     "wof:id":639271697,
-    "wof:lastmodified":1466690667,
+    "wof:lastmodified":1492076779,
     "wof:name":"Phone Mate Auth Parts Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

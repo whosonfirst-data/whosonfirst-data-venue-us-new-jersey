@@ -2,9 +2,14 @@
   "id": 638996529,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 S Clinton Ave Trenton NJ 08609",
+    "addr:housenumber":"22",
+    "addr:postcode":"08609",
+    "addr:street":"S Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75505,40.219548,-74.75505,40.219548",
     "geom:latitude":40.219548,
     "geom:longitude":-74.75505,
@@ -28,7 +33,14 @@
         "counsel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RxqjXfFD4GIuy9kzgPUKQ_40.219548_-74.755050@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285039,
     "wof:geomhash":"c2fd575dd3840ff04d9e5089dbbed145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638996529
+        }
+    ],
     "wof:id":638996529,
-    "wof:lastmodified":1466692216,
+    "wof:lastmodified":1492052152,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

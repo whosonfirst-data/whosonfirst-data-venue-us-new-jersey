@@ -2,9 +2,14 @@
   "id": 639498333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Liberty St Trenton NJ 08629",
+    "addr:housenumber":"1801",
+    "addr:postcode":"08629",
+    "addr:street":"Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732408,40.214276,-74.732408,40.214276",
     "geom:latitude":40.214276,
     "geom:longitude":-74.732408,
@@ -27,7 +32,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826675,
+        102191575,
+        404478251,
+        85633793,
+        85976399,
+        102081129,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yBnXEPJ6kYgKFxgot2HhF_40.214276_-74.732408@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461297343,
     "wof:geomhash":"e436a922098d1e6d9aed339ae3613064",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976399,
+            "neighbourhood_id":85826675,
+            "region_id":85688607,
+            "venue_id":639498333
+        }
+    ],
     "wof:id":639498333,
-    "wof:lastmodified":1466694893,
+    "wof:lastmodified":1492047615,
     "wof:name":"Widmanns Garage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

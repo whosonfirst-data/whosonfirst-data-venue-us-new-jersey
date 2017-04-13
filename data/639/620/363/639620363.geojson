@@ -2,9 +2,14 @@
   "id": 639620363,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 State Rte 35 Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"405",
+    "addr:postcode":"08742",
+    "addr:street":"State Rte 35 Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.050054,40.093485,-74.050054,40.093485",
     "geom:latitude":40.093485,
     "geom:longitude":-74.050054,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lu96nPlOw2MTI69wmRKEC_40.093485_-74.050054@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302516,
     "wof:geomhash":"f944545c1c94e2e3aa8ea5961135c54a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639620363
+        }
+    ],
     "wof:id":639620363,
-    "wof:lastmodified":1466697317,
+    "wof:lastmodified":1492056020,
     "wof:name":"Coastal Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638999323,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Meeker Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"80",
+    "addr:postcode":"07920",
+    "addr:street":"Meeker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.587193,40.69586,-74.587193,40.69586",
     "geom:latitude":40.69586,
     "geom:longitude":-74.587193,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iM1k8UxU6TXHebqjfSxsz_40.695860_-74.587193@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461285089,
     "wof:geomhash":"6118f885d71cbbaed90adea3add593e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":638999323
+        }
+    ],
     "wof:id":638999323,
-    "wof:lastmodified":1466692258,
+    "wof:lastmodified":1492050513,
     "wof:name":"Stuart J White MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639303207,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Frontage Rd Newark NJ 07114",
+    "addr:housenumber":"168",
+    "addr:postcode":"07114",
+    "addr:street":"Frontage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.158009,40.711799,-74.158009,40.711799",
     "geom:latitude":40.711799,
     "geom:longitude":-74.158009,
@@ -29,13 +34,14 @@
     "sg:website":"www.gatewayfoundation.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838783,
+        85873015,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85838783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873015,
+            "region_id":85688607,
+            "venue_id":639303207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85838783,
             "region_id":85688607,
             "venue_id":639303207
         }
     ],
     "wof:id":639303207,
-    "wof:lastmodified":1466691778,
+    "wof:lastmodified":1491934041,
     "wof:name":"Gateway Foundation Inc",
-    "wof:parent_id":85838783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

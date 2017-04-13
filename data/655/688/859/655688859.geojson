@@ -2,9 +2,14 @@
   "id": 655688859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3115 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"3115",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259818,40.890512,-74.259818,40.890512",
     "geom:latitude":40.890512,
     "geom:longitude":-74.259818,
@@ -29,7 +34,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DpVK6Pk1zR6MgEjPK3t7b_40.890512_-74.259818@1299784598"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316808,
     "wof:geomhash":"08b7179b8232c5eb3e72dd8391d0e5e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655688859
+        }
+    ],
     "wof:id":655688859,
-    "wof:lastmodified":1466684123,
+    "wof:lastmodified":1492041306,
     "wof:name":"Arby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

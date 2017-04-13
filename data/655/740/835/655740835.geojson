@@ -2,9 +2,14 @@
   "id": 655740835,
   "type": "Feature",
   "properties": {
+    "addr:full":"2933 Vauxhill Rd Union NJ 07083",
+    "addr:housenumber":"2933",
+    "addr:postcode":"07083",
+    "addr:street":"Vauxhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288414,40.720835,-74.288414,40.720835",
     "geom:latitude":40.720835,
     "geom:longitude":-74.288414,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mg0UMfSkcXl6D4eW51Zhb_40.720835_-74.288414@1303262258"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461318945,
     "wof:geomhash":"47ae0be5f424bf1f5334357304397170",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655740835
+        }
+    ],
     "wof:id":655740835,
-    "wof:lastmodified":1466685433,
+    "wof:lastmodified":1492050473,
     "wof:name":"Lighthouse Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

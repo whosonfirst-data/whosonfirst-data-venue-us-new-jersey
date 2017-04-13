@@ -2,9 +2,14 @@
   "id": 639553403,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Westbrook Dr Toms River NJ 08757",
+    "addr:housenumber":"145",
+    "addr:postcode":"08757",
+    "addr:street":"Westbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26181,39.959756,-74.26181,39.959756",
     "geom:latitude":39.959756,
     "geom:longitude":-74.26181,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477833,
+        85633793,
+        85976353,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uPxHflkjNWrnv7kXCZzMu_39.959756_-74.261810@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299883,
     "wof:geomhash":"a2663202e6ceba1421fc8e27dbc0d273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477833,
+            "locality_id":85976353,
+            "region_id":85688607,
+            "venue_id":639553403
+        }
+    ],
     "wof:id":639553403,
-    "wof:lastmodified":1466695913,
+    "wof:lastmodified":1492049931,
     "wof:name":"Silver Ridge Park West Clbhs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

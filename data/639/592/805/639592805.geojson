@@ -2,9 +2,14 @@
   "id": 639592805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1695 Oak St Lakewood NJ 08701",
+    "addr:housenumber":"1695",
+    "addr:postcode":"08701",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.189979,40.059983,-74.189979,40.059983",
     "geom:latitude":40.059983,
     "geom:longitude":-74.189979,
@@ -27,7 +32,10 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CbqPckpJ4KB9HGqSEm37Z_40.059983_-74.189979@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301476,
     "wof:geomhash":"ef4de28f6c39d38a7b3f5908f6b8960f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639592805
+        }
+    ],
     "wof:id":639592805,
-    "wof:lastmodified":1466696915,
+    "wof:lastmodified":1492046163,
     "wof:name":"Unicco",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

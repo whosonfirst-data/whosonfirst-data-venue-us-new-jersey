@@ -2,9 +2,14 @@
   "id": 655536687,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Brookview Dr Haledon NJ 07508",
+    "addr:housenumber":"38",
+    "addr:postcode":"07508",
+    "addr:street":"Brookview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.184334,40.957871,-74.184334,40.957871",
     "geom:latitude":40.957871,
     "geom:longitude":-74.184334,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478537,
+        85633793,
+        85975485,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BUfCq2rxlLblHD3Xnq1At_40.957871_-74.184334@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310300,
     "wof:geomhash":"adcd6c514974b2678de98e477a69a493",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404478537,
+            "locality_id":85975485,
+            "region_id":85688607,
+            "venue_id":655536687
+        }
+    ],
     "wof:id":655536687,
-    "wof:lastmodified":1466679196,
+    "wof:lastmodified":1492023563,
     "wof:name":"Hook Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639047257,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Greenway Rd Glen Rock NJ 07452",
+    "addr:housenumber":"163",
+    "addr:postcode":"07452",
+    "addr:street":"Greenway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138714,40.968348,-74.138714,40.968348",
     "geom:latitude":40.968348,
     "geom:longitude":-74.138714,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_595tAGTQTvNsXyx6ZXFDCC_40.968348_-74.138714@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286211,
     "wof:geomhash":"64c4ca08dfd85b77d3ac417fa91e1f59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639047257
+        }
+    ],
     "wof:id":639047257,
-    "wof:lastmodified":1466674148,
+    "wof:lastmodified":1492070295,
     "wof:name":"Elite Provisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

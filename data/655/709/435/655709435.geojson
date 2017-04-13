@@ -2,9 +2,14 @@
   "id": 655709435,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"103",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992586,40.804556,-73.992586,40.804556",
     "geom:latitude":40.804556,
     "geom:longitude":-73.992586,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R7HKoDGT2w4U4Svm0vcoN_40.804556_-73.992586@1303262251"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317737,
     "wof:geomhash":"9069dc10755be2bdcbfe87840b8ddc09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655709435
+        }
+    ],
     "wof:id":655709435,
-    "wof:lastmodified":1466684533,
+    "wof:lastmodified":1492048561,
     "wof:name":"AAA Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

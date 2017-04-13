@@ -2,9 +2,14 @@
   "id": 655573247,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Walnut Valley Rd Columbia NJ 07832",
+    "addr:housenumber":"55",
+    "addr:postcode":"07832",
+    "addr:street":"Walnut Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039146,40.979807,-75.039146,40.979807",
     "geom:latitude":40.979807,
     "geom:longitude":-75.039146,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527807,
+        85688607,
         85976447,
         102083873,
         85823511
@@ -41,6 +47,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527807,
+            "venue_id":655573247
+        },
+        {
+            "country_id":85633793,
             "county_id":102083873,
             "locality_id":85976447,
             "neighbourhood_id":85823511,
@@ -49,9 +60,9 @@
         }
     ],
     "wof:id":655573247,
-    "wof:lastmodified":1466680071,
+    "wof:lastmodified":1492047576,
     "wof:name":"Dick Yurga",
-    "wof:parent_id":85823511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

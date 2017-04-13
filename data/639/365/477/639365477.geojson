@@ -2,9 +2,14 @@
   "id": 639365477,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 N 33rd St Camden NJ 08105",
+    "addr:housenumber":"120",
+    "addr:postcode":"08105",
+    "addr:street":"N 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077433,39.950625,-75.077433,39.950625",
     "geom:latitude":39.950625,
     "geom:longitude":-75.077433,
@@ -29,7 +34,14 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rbRYGUYept1NIBPcbWZZA_39.950625_-75.077433@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461293340,
     "wof:geomhash":"7f4631bf858c59f3497981a482d9009d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639365477
+        }
+    ],
     "wof:id":639365477,
-    "wof:lastmodified":1466692592,
+    "wof:lastmodified":1492051430,
     "wof:name":"PNR Auto Body Repair",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638921103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1401",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248572,40.723639,-74.248572,40.723639",
     "geom:latitude":40.723639,
     "geom:longitude":-74.248572,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EBGXf7lyvSXdBpTJn3tTD_40.723639_-74.248572@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283294,
     "wof:geomhash":"2661727760425e0c75bea0c1b8eb864c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638921103
+        }
+    ],
     "wof:id":638921103,
-    "wof:lastmodified":1466690542,
+    "wof:lastmodified":1492041339,
     "wof:name":"Jose Koremba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

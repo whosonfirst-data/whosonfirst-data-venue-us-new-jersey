@@ -2,9 +2,14 @@
   "id": 638917851,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Mason St Lake Hopatcong NJ 07849",
+    "addr:housenumber":"24",
+    "addr:postcode":"07849",
+    "addr:street":"Mason St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617992,40.977644,-74.617992,40.977644",
     "geom:latitude":40.977644,
     "geom:longitude":-74.617992,
@@ -24,7 +29,10 @@
     "sg:postcode":"07849",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01aw7nxTkZqYT8JO7FRZGC_40.977644_-74.617992@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461283206,
     "wof:geomhash":"f8f05d169be3fa56102629a332fd37d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527353,
+            "venue_id":638917851
+        }
+    ],
     "wof:id":638917851,
-    "wof:lastmodified":1466690556,
+    "wof:lastmodified":1492050726,
     "wof:name":"Mason Street Pub",
     "wof:parent_id":420527353,
     "wof:placetype":"venue",

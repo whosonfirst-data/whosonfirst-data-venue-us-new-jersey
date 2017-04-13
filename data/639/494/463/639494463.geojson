@@ -2,9 +2,14 @@
   "id": 639494463,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Lynn St Harrington Park NJ 07640",
+    "addr:housenumber":"435",
+    "addr:postcode":"07640",
+    "addr:street":"Lynn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.982016,40.996655,-73.982016,40.996655",
     "geom:latitude":40.996655,
     "geom:longitude":-73.982016,
@@ -28,7 +33,14 @@
         "glue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W6fDBFFqGxZvMKQjIIRSJ_40.996655_-73.982016@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297193,
     "wof:geomhash":"5c2d72eaeff80fe5cd392b92b2ab478f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":639494463
+        }
+    ],
     "wof:id":639494463,
-    "wof:lastmodified":1466694563,
+    "wof:lastmodified":1492075577,
     "wof:name":"Salmon Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

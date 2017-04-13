@@ -2,9 +2,14 @@
   "id": 638633443,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Summerbell Ln Lincoln Park NJ 07035",
+    "addr:housenumber":"12",
+    "addr:postcode":"07035",
+    "addr:street":"Summerbell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301271,40.922169,-74.301271,40.922169",
     "geom:latitude":40.922169,
     "geom:longitude":-74.301271,
@@ -24,7 +29,14 @@
     "sg:postcode":"07035",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TOfWeBE2upmoruJCV7ffT_40.922169_-74.301271@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461275323,
     "wof:geomhash":"1b5a0568a969e969d20b2766172eb2fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":638633443
+        }
+    ],
     "wof:id":638633443,
-    "wof:lastmodified":1466673352,
+    "wof:lastmodified":1492046328,
     "wof:name":"New Jersey State Firemens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

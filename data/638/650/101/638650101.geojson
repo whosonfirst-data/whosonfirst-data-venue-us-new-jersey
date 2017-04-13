@@ -2,9 +2,14 @@
   "id": 638650101,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 Mill Ln W Columbus NJ 08022",
+    "addr:housenumber":"243",
+    "addr:postcode":"08022",
+    "addr:street":"Mill Ln W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73423,40.086727,-74.73423,40.086727",
     "geom:latitude":40.086727,
     "geom:longitude":-74.73423,
@@ -27,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aF7fNooT6CXItfHGeZHT4_40.086727_-74.734230@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275808,
     "wof:geomhash":"108615851a522e19af306e4b5d81ae7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526685,
+            "venue_id":638650101
+        }
+    ],
     "wof:id":638650101,
-    "wof:lastmodified":1466673791,
+    "wof:lastmodified":1492062249,
     "wof:name":"ABC Nursery School",
     "wof:parent_id":420526685,
     "wof:placetype":"venue",

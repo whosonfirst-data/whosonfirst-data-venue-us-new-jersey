@@ -2,9 +2,14 @@
   "id": 655378247,
   "type": "Feature",
   "properties": {
+    "addr:full":"198 Stryker Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"198",
+    "addr:postcode":"08865",
+    "addr:street":"Stryker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154945,40.699967,-75.154945,40.699967",
     "geom:latitude":40.699967,
     "geom:longitude":-75.154945,
@@ -28,7 +33,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85851059,
+        102083873,
+        85842849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NPMF6vwSrR6boBnkRvGgA_40.699967_-75.154945@1294171694"
@@ -36,11 +47,26 @@
     "wof:country":"US",
     "wof:created":1461303743,
     "wof:geomhash":"7decaa31a238b701c03b9aa0db23fea5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85851059,
+            "region_id":85688607,
+            "venue_id":655378247
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85842849,
+            "region_id":85688607,
+            "venue_id":655378247
+        }
+    ],
     "wof:id":655378247,
-    "wof:lastmodified":1466674864,
+    "wof:lastmodified":1492041832,
     "wof:name":"On Site Brake & Spindle Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

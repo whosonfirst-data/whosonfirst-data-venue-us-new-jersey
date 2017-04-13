@@ -2,9 +2,14 @@
   "id": 638871629,
   "type": "Feature",
   "properties": {
+    "addr:full":"451 7th St Fairview NJ 07022",
+    "addr:housenumber":"451",
+    "addr:postcode":"07022",
+    "addr:street":"7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994517,40.821512,-73.994517,40.821512",
     "geom:latitude":40.821512,
     "geom:longitude":-73.994517,
@@ -27,7 +32,14 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ncSp6JjKqKwrJJcO3O0Qm_40.821512_-73.994517@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282003,
     "wof:geomhash":"d6512e45db9b4a8f7ae1c6f70e28a861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":638871629
+        }
+    ],
     "wof:id":638871629,
-    "wof:lastmodified":1466689712,
+    "wof:lastmodified":1492045076,
     "wof:name":"Alpha Trade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

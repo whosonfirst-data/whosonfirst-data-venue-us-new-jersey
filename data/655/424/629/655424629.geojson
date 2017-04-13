@@ -2,9 +2,14 @@
   "id": 655424629,
   "type": "Feature",
   "properties": {
+    "addr:full":"4004 US Hwy 130 Delran NJ 08075",
+    "addr:housenumber":"4004",
+    "addr:postcode":"08075",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.956794,40.014558,-74.956794,40.014558",
     "geom:latitude":40.014558,
     "geom:longitude":-74.956794,
@@ -28,7 +33,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85818669,
+        102087415,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3flMKkyhGWZEe6s6yNDviN_40.014558_-74.956794@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461305647,
     "wof:geomhash":"139cb2fc1509490abc2977a09d169d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85818669,
+            "region_id":85688607,
+            "venue_id":655424629
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":655424629
+        }
+    ],
     "wof:id":655424629,
-    "wof:lastmodified":1466676153,
+    "wof:lastmodified":1492055586,
     "wof:name":"Great Taste Chinese Food",
-    "wof:parent_id":420526595,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

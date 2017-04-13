@@ -2,9 +2,14 @@
   "id": 639609851,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Oberlin Ave N Lakewood NJ 08701",
+    "addr:housenumber":"150",
+    "addr:postcode":"08701",
+    "addr:street":"Oberlin Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175307,40.078392,-74.175307,40.078392",
     "geom:latitude":40.078392,
     "geom:longitude":-74.175307,
@@ -24,7 +29,10 @@
     "sg:postcode":"08701",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hev7gkkYGBwMQnnICQl3y_40.078392_-74.175307@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461302101,
     "wof:geomhash":"2b97d2f17fd03c42297913896491e273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639609851
+        }
+    ],
     "wof:id":639609851,
-    "wof:lastmodified":1466696805,
+    "wof:lastmodified":1492051148,
     "wof:name":"Easter Seals",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

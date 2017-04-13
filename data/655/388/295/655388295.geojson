@@ -2,9 +2,14 @@
   "id": 655388295,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Bernard Rd East Brunswick NJ 08816",
+    "addr:housenumber":"23",
+    "addr:postcode":"08816",
+    "addr:street":"Bernard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.422943,40.466091,-74.422943,40.466091",
     "geom:latitude":40.466091,
     "geom:longitude":-74.422943,
@@ -30,7 +35,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iNrVbb8CaVGw6OuNrnHZn_40.466091_-74.422943@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461304133,
     "wof:geomhash":"9632d134d7be8f70e0c1988f3330c2e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527221,
+            "venue_id":655388295
+        }
+    ],
     "wof:id":655388295,
-    "wof:lastmodified":1466675142,
+    "wof:lastmodified":1492041862,
     "wof:name":"Absolute Moving Company",
     "wof:parent_id":420527221,
     "wof:placetype":"venue",

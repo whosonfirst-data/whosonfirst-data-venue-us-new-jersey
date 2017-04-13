@@ -2,9 +2,14 @@
   "id": 655493743,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 Buckhorn Dr Belvidere NJ 07823",
+    "addr:housenumber":"434",
+    "addr:postcode":"07823",
+    "addr:street":"Buckhorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0437,40.788152,-75.0437,40.788152",
     "geom:latitude":40.788152,
     "geom:longitude":-75.0437,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fIB1oEz5elmAW4eVk3LTW_40.788152_-75.043700@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308566,
     "wof:geomhash":"eb237d556b396d6d18b54ef79ceed5bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527801,
+            "venue_id":655493743
+        }
+    ],
     "wof:id":655493743,
-    "wof:lastmodified":1466678019,
+    "wof:lastmodified":1492048102,
     "wof:name":"Warren Thompson & Son Cntrctrs",
     "wof:parent_id":420527801,
     "wof:placetype":"venue",

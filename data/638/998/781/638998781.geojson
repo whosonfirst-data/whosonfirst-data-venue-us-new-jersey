@@ -2,9 +2,14 @@
   "id": 638998781,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"1045",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249666,40.715304,-74.249666,40.715304",
     "geom:latitude":40.715304,
     "geom:longitude":-74.249666,
@@ -27,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OuoO951kypdBkbdY3Now6_40.715304_-74.249666@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285079,
     "wof:geomhash":"976b65afea8aa2670f4b4a0f6a64c475",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638998781
+        }
+    ],
     "wof:id":638998781,
-    "wof:lastmodified":1466692140,
+    "wof:lastmodified":1492076643,
     "wof:name":"Irvington House Of Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

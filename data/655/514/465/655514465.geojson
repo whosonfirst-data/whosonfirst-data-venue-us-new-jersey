@@ -2,9 +2,14 @@
   "id": 655514465,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Forest Rd Demarest NJ 07627",
+    "addr:housenumber":"51",
+    "addr:postcode":"07627",
+    "addr:street":"Forest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951539,40.95758,-73.951539,40.95758",
     "geom:latitude":40.95758,
     "geom:longitude":-73.951539,
@@ -28,7 +33,14 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cZQ2HX9FDHwwA4TWckfiC_40.957580_-73.951539@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309463,
     "wof:geomhash":"558fe0989198ac7e77792cf53c5d08f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655514465
+        }
+    ],
     "wof:id":655514465,
-    "wof:lastmodified":1466678544,
+    "wof:lastmodified":1492027641,
     "wof:name":"Aar Zenorini Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

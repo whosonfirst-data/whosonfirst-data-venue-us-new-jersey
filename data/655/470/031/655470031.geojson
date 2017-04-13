@@ -2,9 +2,14 @@
   "id": 655470031,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Industrial E Clifton NJ 07012",
+    "addr:housenumber":"115",
+    "addr:postcode":"07012",
+    "addr:street":"Industrial E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.154313,40.845494,-74.154313,40.845494",
     "geom:latitude":40.845494,
     "geom:longitude":-74.154313,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RN6Ht3KCE5Av69uPDumxk_40.845494_-74.154313@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461307585,
     "wof:geomhash":"09db4e61d430224fd5530f5f55dbbfda",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655470031
+        }
+    ],
     "wof:id":655470031,
-    "wof:lastmodified":1466677296,
+    "wof:lastmodified":1492016971,
     "wof:name":"Plasma Microfilms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

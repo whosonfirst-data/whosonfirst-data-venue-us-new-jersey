@@ -2,9 +2,14 @@
   "id": 655652591,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Walter St Trenton NJ 08628",
+    "addr:housenumber":"53",
+    "addr:postcode":"08628",
+    "addr:street":"Walter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.802106,40.261308,-74.802106,40.261308",
     "geom:latitude":40.261308,
     "geom:longitude":-74.802106,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.greenwoodhouse.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nTi5LUsU1IEyk5Yzgdm6i_40.261308_-74.802106@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461315284,
     "wof:geomhash":"7638176c28b307170edecf30bd580373",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655652591
+        }
+    ],
     "wof:id":655652591,
-    "wof:lastmodified":1466682948,
+    "wof:lastmodified":1492053589,
     "wof:name":"Greenwood House",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655452127,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 S Creek Dr West Creek NJ 08092",
+    "addr:housenumber":"145",
+    "addr:postcode":"08092",
+    "addr:street":"S Creek Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28249,39.621499,-74.28249,39.621499",
     "geom:latitude":39.621499,
     "geom:longitude":-74.28249,
@@ -29,7 +34,10 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LCY699Ga4einDcDUS9F0J_39.621499_-74.282490@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461306782,
     "wof:geomhash":"25a29b800ec8da09f41757e682133c11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527409,
+            "venue_id":655452127
+        }
+    ],
     "wof:id":655452127,
-    "wof:lastmodified":1466676805,
+    "wof:lastmodified":1492057076,
     "wof:name":"Progressive Dimensions",
     "wof:parent_id":420527409,
     "wof:placetype":"venue",

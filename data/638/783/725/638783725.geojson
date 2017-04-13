@@ -2,9 +2,14 @@
   "id": 638783725,
   "type": "Feature",
   "properties": {
+    "addr:full":"676 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"676",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235203,40.708214,-74.235203,40.708214",
     "geom:latitude":40.708214,
     "geom:longitude":-74.235203,
@@ -28,7 +33,10 @@
         "rewinding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m22i3PwohIScoCStcS82s_40.708214_-74.235203@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461279885,
     "wof:geomhash":"c4e2e1e6185ff49f8f8fa5985c02b126",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":638783725
+        }
+    ],
     "wof:id":638783725,
-    "wof:lastmodified":1466683512,
+    "wof:lastmodified":1492042749,
     "wof:name":"Electro Mechanical Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655812931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Hospital Dr Ste 106 Willingboro NJ 08046",
+    "addr:housenumber":"1113",
+    "addr:postcode":"08046",
+    "addr:street":"Hospital Dr Ste 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882101,40.048512,-74.882101,40.048512",
     "geom:latitude":40.048512,
     "geom:longitude":-74.882101,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aWkFX0xC0LviWP51kjL36_40.048512_-74.882101@1303262276"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321935,
     "wof:geomhash":"2d2d9ff6b0e1aa92a7149abf7fa86dd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812931
+        }
+    ],
     "wof:id":655812931,
-    "wof:lastmodified":1466687308,
+    "wof:lastmodified":1492070322,
     "wof:name":"Askin Stanley MD",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

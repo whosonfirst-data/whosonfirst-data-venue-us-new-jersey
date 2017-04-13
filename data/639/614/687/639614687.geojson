@@ -2,9 +2,14 @@
   "id": 639614687,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 Mount Bethel Rd Port Murray NJ 07865",
+    "addr:housenumber":"233",
+    "addr:postcode":"07865",
+    "addr:street":"Mount Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901412,40.826807,-74.901412,40.826807",
     "geom:latitude":40.826807,
     "geom:longitude":-74.901412,
@@ -28,7 +33,10 @@
         "component"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ro5YBWCL781wd8bns7r6U_40.826807_-74.901412@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461302304,
     "wof:geomhash":"a085052879fff675aaaf1dd5882153e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527785,
+            "venue_id":639614687
+        }
+    ],
     "wof:id":639614687,
-    "wof:lastmodified":1466697206,
+    "wof:lastmodified":1492050969,
     "wof:name":"Js Company",
     "wof:parent_id":420527785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655652395,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 W 17th St Bayonne NJ 07002",
+    "addr:housenumber":"63",
+    "addr:postcode":"07002",
+    "addr:street":"W 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.12633,40.661903,-74.12633,40.661903",
     "geom:latitude":40.661903,
     "geom:longitude":-74.12633,
@@ -29,7 +34,14 @@
         "pumping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hgcYrov0zNmoTBd7fiHD8_40.661903_-74.126330@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315277,
     "wof:geomhash":"ee607ce6967ccce296b7877f7b7f97bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655652395
+        }
+    ],
     "wof:id":655652395,
-    "wof:lastmodified":1466682881,
+    "wof:lastmodified":1492057467,
     "wof:name":"Under Pressure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638865971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1688 Van Ness Ter Union NJ 07083",
+    "addr:housenumber":"1688",
+    "addr:postcode":"07083",
+    "addr:street":"Van Ness Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259189,40.713169,-74.259189,40.713169",
     "geom:latitude":40.713169,
     "geom:longitude":-74.259189,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OUgrSSwECPGl1LNEmJNue_40.713169_-74.259189@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461281879,
     "wof:geomhash":"2c9db1c3c74dcfe7007db28f5dbef94b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":638865971
+        }
+    ],
     "wof:id":638865971,
-    "wof:lastmodified":1466689539,
+    "wof:lastmodified":1492027785,
     "wof:name":"Beau MO Records Barry Moo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

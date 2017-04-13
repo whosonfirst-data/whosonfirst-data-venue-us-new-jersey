@@ -2,9 +2,14 @@
   "id": 655507623,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Blueberry Ln Stockholm NJ 07460",
+    "addr:housenumber":"10",
+    "addr:postcode":"07460",
+    "addr:street":"Blueberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.483535,41.105838,-74.483535,41.105838",
     "geom:latitude":41.105838,
     "geom:longitude":-74.483535,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478483,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XlocK0C9MyU8hafBH1ECw_41.105838_-74.483535@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461309190,
     "wof:geomhash":"725e47966c439aa039c8c277245c3801",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478483,
+            "region_id":85688607,
+            "venue_id":655507623
+        }
+    ],
     "wof:id":655507623,
-    "wof:lastmodified":1466678434,
+    "wof:lastmodified":1492047691,
     "wof:name":"Kenny Kuhrt Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

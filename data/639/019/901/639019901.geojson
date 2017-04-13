@@ -2,9 +2,14 @@
   "id": 639019901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1465 Easton Ave Somerset NJ 08873",
+    "addr:housenumber":"1465",
+    "addr:postcode":"08873",
+    "addr:street":"Easton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500232,40.530809,-74.500232,40.530809",
     "geom:latitude":40.530809,
     "geom:longitude":-74.500232,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wIxCreDPlf0fUyyPTCKKv_40.530809_-74.500232@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285547,
     "wof:geomhash":"875b9c6adf3fc11c35ebf0caa97bea21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639019901
+        }
+    ],
     "wof:id":639019901,
-    "wof:lastmodified":1466673595,
+    "wof:lastmodified":1492069469,
     "wof:name":"Stanley Bresticker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

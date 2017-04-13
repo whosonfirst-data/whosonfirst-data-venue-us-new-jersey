@@ -2,9 +2,14 @@
   "id": 639455879,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Cabinet St Newark NJ 07107",
+    "addr:housenumber":"150",
+    "addr:postcode":"07107",
+    "addr:street":"Cabinet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.192432,40.744325,-74.192432,40.744325",
     "geom:latitude":40.744325,
     "geom:longitude":-74.192432,
@@ -25,7 +30,16 @@
     "sg:province":"NJ",
     "sg:website":"www.njdcj.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872989,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607,
+        85836779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u71xOnDdVHl9t9lXGC0H1_40.744325_-74.192432@1294171694"
@@ -33,11 +47,32 @@
     "wof:country":"US",
     "wof:created":1461295643,
     "wof:geomhash":"4c279e1fc461b206a925c6701215f3d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85872989,
+            "region_id":85688607,
+            "venue_id":639455879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85836779,
+            "region_id":85688607,
+            "venue_id":639455879
+        }
+    ],
     "wof:id":639455879,
-    "wof:lastmodified":1466693716,
+    "wof:lastmodified":1492041593,
     "wof:name":"State Reg Med Examiner Ofc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

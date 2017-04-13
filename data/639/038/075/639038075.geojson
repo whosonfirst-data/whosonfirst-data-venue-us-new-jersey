@@ -2,9 +2,14 @@
   "id": 639038075,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Spring Valley Rd Montvale NJ 07645",
+    "addr:housenumber":"115",
+    "addr:postcode":"07645",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.052415,41.06074,-74.052415,41.06074",
     "geom:latitude":41.06074,
     "geom:longitude":-74.052415,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B9GgAIDctUmpRnNTSBxQf_41.060740_-74.052415@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285988,
     "wof:geomhash":"5102c1f0bfbff8116ac721df8c94d392",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639038075
+        }
+    ],
     "wof:id":639038075,
-    "wof:lastmodified":1466673918,
+    "wof:lastmodified":1492069832,
     "wof:name":"ABC Enrichment Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638774115,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Hunter Ave Fanwood NJ 07023",
+    "addr:housenumber":"103",
+    "addr:postcode":"07023",
+    "addr:street":"Hunter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.394578,40.642525,-74.394578,40.642525",
     "geom:latitude":40.642525,
     "geom:longitude":-74.394578,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477583,
+        85633793,
+        85975845,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fDB5QnOnaPfbqa5rwVNXm_40.642525_-74.394578@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279651,
     "wof:geomhash":"44597c3f557d2d9c86e188772e9bd9a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404477583,
+            "locality_id":85975845,
+            "region_id":85688607,
+            "venue_id":638774115
+        }
+    ],
     "wof:id":638774115,
-    "wof:lastmodified":1466681810,
+    "wof:lastmodified":1492076862,
     "wof:name":"A J Doyle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

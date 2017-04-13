@@ -2,9 +2,14 @@
   "id": 655475413,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 S Warren St Trenton NJ 08608",
+    "addr:housenumber":"119",
+    "addr:postcode":"08608",
+    "addr:street":"S Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.766054,40.218589,-74.766054,40.218589",
     "geom:latitude":40.218589,
     "geom:longitude":-74.766054,
@@ -29,7 +34,14 @@
     "sg:postcode":"08608",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vTkzK7soScy6Adxv3AsWu_40.218589_-74.766054@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461307807,
     "wof:geomhash":"efd3dda5a6f8ef993f753e8d311d1d5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655475413
+        }
+    ],
     "wof:id":655475413,
-    "wof:lastmodified":1466677411,
+    "wof:lastmodified":1492028669,
     "wof:name":"Market Place Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

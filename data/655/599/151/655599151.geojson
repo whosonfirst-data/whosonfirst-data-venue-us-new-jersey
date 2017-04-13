@@ -2,9 +2,14 @@
   "id": 655599151,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 US Hwy 1 Fairview NJ 07022",
+    "addr:housenumber":"195",
+    "addr:postcode":"07022",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00771,40.819642,-74.00771,40.819642",
     "geom:latitude":40.819642,
     "geom:longitude":-74.00771,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cNTAtkn6FzH5MRZpevcUt_40.819642_-74.007710@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312971,
     "wof:geomhash":"ec598bdee9b5571bd0c9cb51660fabdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655599151
+        }
+    ],
     "wof:id":655599151,
-    "wof:lastmodified":1466680941,
+    "wof:lastmodified":1492053629,
     "wof:name":"F & H Import Export Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

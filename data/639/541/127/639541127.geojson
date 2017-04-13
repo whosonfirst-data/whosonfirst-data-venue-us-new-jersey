@@ -2,9 +2,14 @@
   "id": 639541127,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Boulder Run Oakland NJ 07436",
+    "addr:housenumber":"26",
+    "addr:postcode":"07436",
+    "addr:street":"Boulder Run",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239616,41.041152,-74.239616,41.041152",
     "geom:latitude":41.041152,
     "geom:longitude":-74.239616,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lq0dE3rp7NA65yNMIIFzw_41.041152_-74.239616@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299356,
     "wof:geomhash":"f02b504c48efa73ddc89d4d27ac28e0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639541127
+        }
+    ],
     "wof:id":639541127,
-    "wof:lastmodified":1466695575,
+    "wof:lastmodified":1492051048,
     "wof:name":"Raymond Edelman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638716231,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Churchill Ct Morganville NJ 07751",
+    "addr:housenumber":"16",
+    "addr:postcode":"07751",
+    "addr:street":"Churchill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277183,40.339321,-74.277183,40.339321",
     "geom:latitude":40.339321,
     "geom:longitude":-74.277183,
@@ -28,7 +33,14 @@
         "interpreter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pqBdjQeC71XBkLZeW0LhF_40.339321_-74.277183@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278085,
     "wof:geomhash":"591b6a065ca16991ab5f2b472c3129f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":638716231
+        }
+    ],
     "wof:id":638716231,
-    "wof:lastmodified":1466673472,
+    "wof:lastmodified":1492062498,
     "wof:name":"Union Translation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

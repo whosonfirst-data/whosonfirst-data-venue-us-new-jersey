@@ -2,9 +2,14 @@
   "id": 655620477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Frenchtown Rd Milford NJ 08848",
+    "addr:housenumber":"1002",
+    "addr:postcode":"08848",
+    "addr:street":"Frenchtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.065133,40.542174,-75.065133,40.542174",
     "geom:latitude":40.542174,
     "geom:longitude":-75.065133,
@@ -24,7 +29,13 @@
     "sg:postcode":"08848",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EB3ZmISqhmMwxyBoBIYNt_40.542174_-75.065133@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461313912,
     "wof:geomhash":"b86ff27f4eb539c856a18be0ec0f270d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":655620477
+        }
+    ],
     "wof:id":655620477,
-    "wof:lastmodified":1466681793,
+    "wof:lastmodified":1492060336,
     "wof:name":"Milford Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

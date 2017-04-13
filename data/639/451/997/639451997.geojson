@@ -2,9 +2,14 @@
   "id": 639451997,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Franklin Square Dr Somerset NJ 08873",
+    "addr:housenumber":"200",
+    "addr:postcode":"08873",
+    "addr:street":"Franklin Square Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52662,40.536612,-74.52662,40.536612",
     "geom:latitude":40.536612,
     "geom:longitude":-74.52662,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27hCKHbxTVSKsWlkR2PIL0_40.536612_-74.526620@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295501,
     "wof:geomhash":"b374cebd17ce3a22bbe1ca0710f8ae53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":639451997
+        }
+    ],
     "wof:id":639451997,
-    "wof:lastmodified":1466693681,
+    "wof:lastmodified":1492050340,
     "wof:name":"American Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

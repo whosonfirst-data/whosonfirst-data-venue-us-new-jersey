@@ -2,9 +2,14 @@
   "id": 655644799,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Stephen Dr Riverton NJ 08077",
+    "addr:housenumber":"101",
+    "addr:postcode":"08077",
+    "addr:street":"Stephen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003309,39.984663,-75.003309,39.984663",
     "geom:latitude":39.984663,
     "geom:longitude":-75.003309,
@@ -24,7 +29,10 @@
     "sg:postcode":"08077",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526563
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l75He3axMpLHd8qbQafWq_39.984663_-75.003309@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461314964,
     "wof:geomhash":"d81e339f3ed85d2b4015d2dd2ab355d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526563,
+            "venue_id":655644799
+        }
+    ],
     "wof:id":655644799,
-    "wof:lastmodified":1466682709,
+    "wof:lastmodified":1492028407,
     "wof:name":"George Katsikis",
-    "wof:parent_id":420526563,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

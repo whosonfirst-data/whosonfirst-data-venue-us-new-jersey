@@ -2,9 +2,14 @@
   "id": 655360253,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Lenape Trl Chatham NJ 07928",
+    "addr:housenumber":"35",
+    "addr:postcode":"07928",
+    "addr:street":"Lenape Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.398004,40.737239,-74.398004,40.737239",
     "geom:latitude":40.737239,
     "geom:longitude":-74.398004,
@@ -27,7 +32,13 @@
         "gift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46OKqGKhHDlY2rb6TSOhx6_40.737239_-74.398004@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303015,
     "wof:geomhash":"2056da3d0150bee225c2c99aa41809a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":655360253
+        }
+    ],
     "wof:id":655360253,
-    "wof:lastmodified":1466674436,
+    "wof:lastmodified":1492039490,
     "wof:name":"Sweet Tooth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

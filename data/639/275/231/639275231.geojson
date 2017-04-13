@@ -2,9 +2,14 @@
   "id": 639275231,
   "type": "Feature",
   "properties": {
+    "addr:full":"5017 Washington Ave Pennsauken NJ 08110",
+    "addr:housenumber":"5017",
+    "addr:postcode":"08110",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.062849,39.959031,-75.062849,39.959031",
     "geom:latitude":39.959031,
     "geom:longitude":-75.062849,
@@ -28,7 +33,14 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yC2ezHR8V6lBm9Iu083cL_39.959031_-75.062849@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461291438,
     "wof:geomhash":"8d4548ae2c978a0e12226b3b979c2d25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639275231
+        }
+    ],
     "wof:id":639275231,
-    "wof:lastmodified":1466690876,
+    "wof:lastmodified":1492018354,
     "wof:name":"Money Works LLC",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

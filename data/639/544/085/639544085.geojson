@@ -2,9 +2,14 @@
   "id": 639544085,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Redwood Pl Jackson NJ 08527",
+    "addr:housenumber":"51",
+    "addr:postcode":"08527",
+    "addr:street":"Redwood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255615,40.143857,-74.255615,40.143857",
     "geom:latitude":40.143857,
     "geom:longitude":-74.255615,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mkxnM6tSdLKexefYUOMaq_40.143857_-74.255615@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299499,
     "wof:geomhash":"687a7d4891319a1cc572bca83705ead0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639544085
+        }
+    ],
     "wof:id":639544085,
-    "wof:lastmodified":1466695777,
+    "wof:lastmodified":1492049698,
     "wof:name":"Electrical Precision Contrs",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

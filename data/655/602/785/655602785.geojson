@@ -2,9 +2,14 @@
   "id": 655602785,
   "type": "Feature",
   "properties": {
+    "addr:full":"478 Contant Ave Haworth NJ 07641",
+    "addr:housenumber":"478",
+    "addr:postcode":"07641",
+    "addr:street":"Contant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994992,40.965787,-73.994992,40.965787",
     "geom:latitude":40.965787,
     "geom:longitude":-73.994992,
@@ -27,7 +32,14 @@
         "piece"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TxwW5WD9KdJj7bfqPWzPX_40.965787_-73.994992@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313128,
     "wof:geomhash":"3bcc0e25f1b354d95bf391b1ad3f4c20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":655602785
+        }
+    ],
     "wof:id":655602785,
-    "wof:lastmodified":1466681284,
+    "wof:lastmodified":1492076971,
     "wof:name":"Blitzer Import Export Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

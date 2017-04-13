@@ -2,9 +2,14 @@
   "id": 655379339,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Yellowbrook Rd Farmingdale NJ 07727",
+    "addr:housenumber":"127",
+    "addr:postcode":"07727",
+    "addr:street":"Yellowbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.190833,40.212043,-74.190833,40.212043",
     "geom:latitude":40.212043,
     "geom:longitude":-74.190833,
@@ -29,7 +34,10 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7D6Uv3tEHFi2gqcoLrj7bV_40.212043_-74.190833@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461303782,
     "wof:geomhash":"147bbe9b00307cb9bc701c502aa1d313",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527275,
+            "venue_id":655379339
+        }
+    ],
     "wof:id":655379339,
-    "wof:lastmodified":1466674969,
+    "wof:lastmodified":1492051005,
     "wof:name":"Monmouth Council Of Girlscouts",
     "wof:parent_id":420527275,
     "wof:placetype":"venue",

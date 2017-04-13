@@ -2,9 +2,14 @@
   "id": 639431867,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Hibler Rd Newton NJ 07860",
+    "addr:housenumber":"101",
+    "addr:postcode":"07860",
+    "addr:street":"Hibler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.815563,40.989817,-74.815563,40.989817",
     "geom:latitude":40.989817,
     "geom:longitude":-74.815563,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fp0w1oiDrsARMmyQ6Hmtw_40.989817_-74.815563@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461294953,
     "wof:geomhash":"ed0c2983af471d2aba325742350d9d8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":639431867
+        }
+    ],
     "wof:id":639431867,
-    "wof:lastmodified":1466693319,
+    "wof:lastmodified":1492051796,
     "wof:name":"Duffy Roofing",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

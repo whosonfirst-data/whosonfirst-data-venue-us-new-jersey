@@ -2,9 +2,14 @@
   "id": 639293155,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Harmony Ave Middletown NJ 07748",
+    "addr:housenumber":"101",
+    "addr:postcode":"07748",
+    "addr:street":"Harmony Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128793,40.426578,-74.128793,40.426578",
     "geom:latitude":40.426578,
     "geom:longitude":-74.128793,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85841489,
+        102085049,
         85824055,
         102191575,
         404478371,
-        85633793,
-        85976043,
-        102085049,
-        85688607
+        85976043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +52,13 @@
     "wof:created":1461291828,
     "wof:geomhash":"a430bfb35285ef9dcad04453884633e9",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85841489,
+            "region_id":85688607,
+            "venue_id":639293155
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":639293155,
-    "wof:lastmodified":1466691142,
+    "wof:lastmodified":1492049726,
     "wof:name":"Bernard Keelen & Son Inc",
-    "wof:parent_id":85824055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

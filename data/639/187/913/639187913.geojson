@@ -2,9 +2,14 @@
   "id": 639187913,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Bryan Dr Voorhees NJ 08043",
+    "addr:housenumber":"12",
+    "addr:postcode":"08043",
+    "addr:street":"Bryan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.928789,39.868822,-74.928789,39.868822",
     "geom:latitude":39.868822,
     "geom:longitude":-74.928789,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59tYtPfsuJI5vSok0vUR6n_39.868822_-74.928789@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461289369,
     "wof:geomhash":"1015304cea7e965ea04bc9a847e5c435",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":639187913
+        }
+    ],
     "wof:id":639187913,
-    "wof:lastmodified":1466686894,
+    "wof:lastmodified":1492069357,
     "wof:name":"Jonathan Deacon PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

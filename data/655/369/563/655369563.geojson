@@ -2,9 +2,14 @@
   "id": 655369563,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Corey Ln Mendham NJ 07945",
+    "addr:housenumber":"24",
+    "addr:postcode":"07945",
+    "addr:street":"Corey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.561261,40.774232,-74.561261,40.774232",
     "geom:latitude":40.774232,
     "geom:longitude":-74.561261,
@@ -33,7 +38,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85854675,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aYpcQgdnKo2HKEymsAjpv_40.774232_-74.561261@1294171694"
@@ -41,11 +51,19 @@
     "wof:country":"US",
     "wof:created":1461303403,
     "wof:geomhash":"461da69fe61293f28bebe189d922d65e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85854675,
+            "region_id":85688607,
+            "venue_id":655369563
+        }
+    ],
     "wof:id":655369563,
-    "wof:lastmodified":1466674767,
+    "wof:lastmodified":1492051172,
     "wof:name":"J A F Equipment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

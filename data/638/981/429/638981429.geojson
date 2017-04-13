@@ -2,9 +2,14 @@
   "id": 638981429,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 N Hill Rd Ringoes NJ 08551",
+    "addr:housenumber":"45",
+    "addr:postcode":"08551",
+    "addr:street":"N Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.779721,40.453363,-74.779721,40.453363",
     "geom:latitude":40.453363,
     "geom:longitude":-74.779721,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_259zyDFdZtSqltcH90hLx4_40.453363_-74.779721@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461284674,
     "wof:geomhash":"2619740372a1b591b8a306aa2a8e0aa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527071,
+            "venue_id":638981429
+        }
+    ],
     "wof:id":638981429,
-    "wof:lastmodified":1466691883,
+    "wof:lastmodified":1492019949,
     "wof:name":"E Davies Plumbing & Heating",
     "wof:parent_id":420527071,
     "wof:placetype":"venue",

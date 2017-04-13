@@ -2,9 +2,14 @@
   "id": 655543121,
   "type": "Feature",
   "properties": {
+    "addr:full":"787 Oneida Trl Franklin Lakes NJ 07417",
+    "addr:housenumber":"787",
+    "addr:postcode":"07417",
+    "addr:street":"Oneida Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.20288,41.000283,-74.20288,41.000283",
     "geom:latitude":41.000283,
     "geom:longitude":-74.20288,
@@ -27,7 +32,14 @@
         "engineering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W74oovqvCShJDmdr3PM8S_41.000283_-74.202880@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310548,
     "wof:geomhash":"90e2b69ca6425dec9af826e839af2489",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":655543121
+        }
+    ],
     "wof:id":655543121,
-    "wof:lastmodified":1466679179,
+    "wof:lastmodified":1492047630,
     "wof:name":"Pride Consulting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

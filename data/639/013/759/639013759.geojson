@@ -2,9 +2,14 @@
   "id": 639013759,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Ardsly Pl Morganville NJ 07751",
+    "addr:housenumber":"31",
+    "addr:postcode":"07751",
+    "addr:street":"Ardsly Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257988,40.354229,-74.257988,40.354229",
     "geom:latitude":40.354229,
     "geom:longitude":-74.257988,
@@ -28,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DUIgGMEpo2SCkYx3bbEMI_40.354229_-74.257988@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461285425,
     "wof:geomhash":"8a31cc1368381dda86ec044ee7058426",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":639013759
+        }
+    ],
     "wof:id":639013759,
-    "wof:lastmodified":1466673399,
+    "wof:lastmodified":1492030626,
     "wof:name":"Precision Numerical Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

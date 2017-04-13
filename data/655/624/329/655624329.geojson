@@ -2,9 +2,14 @@
   "id": 655624329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Main St Belmar NJ 07719",
+    "addr:housenumber":"1200",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.026322,40.177386,-74.026322,40.177386",
     "geom:latitude":40.177386,
     "geom:longitude":-74.026322,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KBzcOUAg5HY6yAb0wTanq_40.177386_-74.026322@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314078,
     "wof:geomhash":"3e84e93fc0a366cc1f020e3336d3f8c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655624329
+        }
+    ],
     "wof:id":655624329,
-    "wof:lastmodified":1466681841,
+    "wof:lastmodified":1492056071,
     "wof:name":"Belmar Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

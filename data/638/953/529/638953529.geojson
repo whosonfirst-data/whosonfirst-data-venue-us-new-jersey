@@ -2,9 +2,14 @@
   "id": 638953529,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Columbia Tpke Florham Park NJ 07932",
+    "addr:housenumber":"123",
+    "addr:postcode":"07932",
+    "addr:street":"Columbia Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388303,40.787532,-74.388303,40.787532",
     "geom:latitude":40.787532,
     "geom:longitude":-74.388303,
@@ -28,7 +33,14 @@
         "garden"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ASNIIuoI8ShYNdHeQDypl_40.787532_-74.388303@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284102,
     "wof:geomhash":"4a98d86a10458d126fb62fcaaa3a483a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":638953529
+        }
+    ],
     "wof:id":638953529,
-    "wof:lastmodified":1466691384,
+    "wof:lastmodified":1492028576,
     "wof:name":"Peter Dolan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

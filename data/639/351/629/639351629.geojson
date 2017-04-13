@@ -2,9 +2,14 @@
   "id": 639351629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1170 Old Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1170",
+    "addr:postcode":"07066",
+    "addr:street":"Old Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.320408,40.626117,-74.320408,40.626117",
     "geom:latitude":40.626117,
     "geom:longitude":-74.320408,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r17VPbV1Ap9IZMnlBkJ9n_40.626117_-74.320408@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293059,
     "wof:geomhash":"466c782f958299d3303710ba668f6542",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639351629
+        }
+    ],
     "wof:id":639351629,
-    "wof:lastmodified":1466692471,
+    "wof:lastmodified":1492017066,
     "wof:name":"Jehovah's Witnesses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

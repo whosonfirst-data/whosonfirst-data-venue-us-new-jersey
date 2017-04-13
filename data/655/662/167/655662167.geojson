@@ -2,9 +2,14 @@
   "id": 655662167,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Homans Ave Closter NJ 07624",
+    "addr:housenumber":"340",
+    "addr:postcode":"07624",
+    "addr:street":"Homans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948488,40.966775,-73.948488,40.966775",
     "geom:latitude":40.966775,
     "geom:longitude":-73.948488,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.nvnet.org/k8/closter/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pB3qGbLNXC1YEcy9zf2O1_40.967001_-73.948833@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315699,
     "wof:geomhash":"9abe1340829681ef1f6fe5ac6521c0a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655662167
+        }
+    ],
     "wof:id":655662167,
-    "wof:lastmodified":1466683157,
+    "wof:lastmodified":1492052073,
     "wof:name":"Hillside Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

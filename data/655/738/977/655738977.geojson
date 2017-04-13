@@ -2,9 +2,14 @@
   "id": 655738977,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Cleveland Pl Springfield NJ 07081",
+    "addr:housenumber":"11",
+    "addr:postcode":"07081",
+    "addr:street":"Cleveland Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329606,40.71823,-74.329606,40.71823",
     "geom:latitude":40.71823,
     "geom:longitude":-74.329606,
@@ -24,7 +29,13 @@
     "sg:postcode":"07081",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JauhOIQD8MqeHn0BFc26e_40.718230_-74.329606@1303262258"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318879,
     "wof:geomhash":"c34eb11be389c9d2fe6b2f8883fc3f69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655738977
+        }
+    ],
     "wof:id":655738977,
-    "wof:lastmodified":1466685458,
+    "wof:lastmodified":1492050473,
     "wof:name":"Medical Group Springfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638983843,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 E Fox Chase Rd Chester NJ 07930",
+    "addr:housenumber":"48",
+    "addr:postcode":"07930",
+    "addr:street":"E Fox Chase Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66017,40.765118,-74.66017,40.765118",
     "geom:latitude":40.765118,
     "geom:longitude":-74.66017,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478303,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x5KgsaKsYg3k7A8dh0AbQ_40.765118_-74.660170@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461284723,
     "wof:geomhash":"acab7140efcdbd83ee9af9099a1cb3af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478303,
+            "region_id":85688607,
+            "venue_id":638983843
+        }
+    ],
     "wof:id":638983843,
-    "wof:lastmodified":1466691916,
+    "wof:lastmodified":1492070239,
     "wof:name":"Stoehr Oil Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

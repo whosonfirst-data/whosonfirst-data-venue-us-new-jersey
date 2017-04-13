@@ -2,9 +2,14 @@
   "id": 638898559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2269 Mill Rd Marlton NJ 08053",
+    "addr:housenumber":"2269",
+    "addr:postcode":"08053",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.883836,39.789669,-74.883836,39.789669",
     "geom:latitude":39.789669,
     "geom:longitude":-74.883836,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ryWJ5GnOlZl2syReK2SOb_39.789669_-74.883836@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461282713,
     "wof:geomhash":"8662d145d0850de36b3f75fccec7b242",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":638898559
+        }
+    ],
     "wof:id":638898559,
-    "wof:lastmodified":1466690115,
+    "wof:lastmodified":1492042251,
     "wof:name":"Trade Secret",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

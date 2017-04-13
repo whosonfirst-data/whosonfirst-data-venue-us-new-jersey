@@ -2,9 +2,14 @@
   "id": 655692629,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Harrison St Princeton NJ 08540",
+    "addr:housenumber":"301",
+    "addr:postcode":"08540",
+    "addr:street":"N Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.651262,40.364045,-74.651262,40.364045",
     "geom:latitude":40.364045,
     "geom:longitude":-74.651262,
@@ -28,7 +33,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50jXRMkddIJwlZIakVQCmJ_40.364045_-74.651262@1299784598"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461316961,
     "wof:geomhash":"77522345af204ce81c7aa0e780dfab56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655692629
+        }
+    ],
     "wof:id":655692629,
-    "wof:lastmodified":1466684111,
+    "wof:lastmodified":1492070369,
     "wof:name":"Main Street Bistro & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

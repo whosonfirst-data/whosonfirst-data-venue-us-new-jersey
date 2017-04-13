@@ -2,9 +2,14 @@
   "id": 655440443,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 Old Tappan Rd Westwood NJ 07675",
+    "addr:housenumber":"183",
+    "addr:postcode":"07675",
+    "addr:street":"Old Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.978209,41.016196,-73.978209,41.016196",
     "geom:latitude":41.016196,
     "geom:longitude":-73.978209,
@@ -27,7 +32,14 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41jGoWzip4tWOEeQpl5hQj_41.016196_-73.978209@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306300,
     "wof:geomhash":"e56759fd4e829ae3091e55e772e35ce2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":655440443
+        }
+    ],
     "wof:id":655440443,
-    "wof:lastmodified":1466676608,
+    "wof:lastmodified":1492071461,
     "wof:name":"Confettis Ristorante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639448495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1895 Lake Ave Scotch Plains NJ 07076",
+    "addr:housenumber":"1895",
+    "addr:postcode":"07076",
+    "addr:street":"Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.342736,40.620747,-74.342736,40.620747",
     "geom:latitude":40.620747,
     "geom:longitude":-74.342736,
@@ -27,7 +32,13 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fl2Tprft22UjwD6XAhiR6_40.620747_-74.342736@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295354,
     "wof:geomhash":"99c11c4a03a0db9d178e818eca3a24f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639448495
+        }
+    ],
     "wof:id":639448495,
-    "wof:lastmodified":1466693592,
+    "wof:lastmodified":1492041679,
     "wof:name":"Rittenhouse Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

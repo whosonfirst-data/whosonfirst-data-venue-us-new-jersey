@@ -2,9 +2,14 @@
   "id": 638624173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1718 E 2nd St Scotch Plains NJ 07076",
+    "addr:housenumber":"1718",
+    "addr:postcode":"07076",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.399871,40.645386,-74.399871,40.645386",
     "geom:latitude":40.645386,
     "geom:longitude":-74.399871,
@@ -35,7 +40,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ctw7wTzuxOahMA5dCWjho_40.645386_-74.399871@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461275034,
     "wof:geomhash":"99ea520ebce23cc148010d2f9b95d94c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":638624173
+        }
+    ],
     "wof:id":638624173,
-    "wof:lastmodified":1466673048,
+    "wof:lastmodified":1492023621,
     "wof:name":"Athletic Edge LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638836575,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Overlook Dr Jackson NJ 08527",
+    "addr:housenumber":"52",
+    "addr:postcode":"08527",
+    "addr:street":"Overlook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.378482,40.128791,-74.378482,40.128791",
     "geom:latitude":40.128791,
     "geom:longitude":-74.378482,
@@ -32,7 +37,10 @@
         "fragrance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527427
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g5HVV0ST4OZ1hF087yN5c_40.128791_-74.378482@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461281152,
     "wof:geomhash":"6fd2b740a55333ac1748a6b21b7f3ad3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527427,
+            "venue_id":638836575
+        }
+    ],
     "wof:id":638836575,
-    "wof:lastmodified":1466689035,
+    "wof:lastmodified":1492056267,
     "wof:name":"LOreal USA Inc",
     "wof:parent_id":420527427,
     "wof:placetype":"venue",

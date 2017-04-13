@@ -2,9 +2,14 @@
   "id": 639043503,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 E Broad St Hopewell NJ 08525",
+    "addr:housenumber":"62",
+    "addr:postcode":"08525",
+    "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.7563,40.390804,-74.7563,40.390804",
     "geom:latitude":40.390804,
     "geom:longitude":-74.7563,
@@ -27,7 +32,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LHfnnshIifwUfWg2micQM_40.390804_-74.756300@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286122,
     "wof:geomhash":"5a0bfac2a7605d39bd8bce2d75c27958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":639043503
+        }
+    ],
     "wof:id":639043503,
-    "wof:lastmodified":1466674070,
+    "wof:lastmodified":1492049185,
     "wof:name":"PNC Financial Services Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

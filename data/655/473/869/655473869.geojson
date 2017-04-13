@@ -2,9 +2,14 @@
   "id": 655473869,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 High St Norwood NJ 07648",
+    "addr:housenumber":"523",
+    "addr:postcode":"07648",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.955797,40.999375,-73.955797,40.999375",
     "geom:latitude":40.999375,
     "geom:longitude":-73.955797,
@@ -27,7 +32,14 @@
         "welder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iRKtOTPrxJTKB2aZm4c7M_40.999375_-73.955797@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461307747,
     "wof:geomhash":"90b1e7eba298ea5d55bcd8639186cfa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655473869
+        }
+    ],
     "wof:id":655473869,
-    "wof:lastmodified":1466677529,
+    "wof:lastmodified":1492039108,
     "wof:name":"Bergen & Hudson Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

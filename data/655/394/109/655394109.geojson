@@ -2,9 +2,14 @@
   "id": 655394109,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Providence Ln Howell NJ 07731",
+    "addr:housenumber":"37",
+    "addr:postcode":"07731",
+    "addr:street":"Providence Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245499,40.143172,-74.245499,40.143172",
     "geom:latitude":40.143172,
     "geom:longitude":-74.245499,
@@ -27,7 +32,10 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wd0OItFnwUGa3XH9Pr3nE_40.143172_-74.245499@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461304376,
     "wof:geomhash":"3c50b5a412c29da64f597e117197fa64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655394109
+        }
+    ],
     "wof:id":655394109,
-    "wof:lastmodified":1466675227,
+    "wof:lastmodified":1492039449,
     "wof:name":"C & JB Express Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

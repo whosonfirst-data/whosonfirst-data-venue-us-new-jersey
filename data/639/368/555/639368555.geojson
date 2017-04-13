@@ -2,9 +2,14 @@
   "id": 639368555,
   "type": "Feature",
   "properties": {
+    "addr:full":"963 Ocean Ave Lakewood NJ 08701",
+    "addr:housenumber":"963",
+    "addr:postcode":"08701",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179138,40.086797,-74.179138,40.086797",
     "geom:latitude":40.086797,
     "geom:longitude":-74.179138,
@@ -28,7 +33,10 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wdqmpU1hcKhavjGirrb1v_40.086797_-74.179138@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293400,
     "wof:geomhash":"6800109ffccc3eda869bd3e7dfc63bdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639368555
+        }
+    ],
     "wof:id":639368555,
-    "wof:lastmodified":1466692645,
+    "wof:lastmodified":1492045050,
     "wof:name":"Lakeview Ctr",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

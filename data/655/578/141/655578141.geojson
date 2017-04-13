@@ -2,9 +2,14 @@
   "id": 655578141,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Arnold Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"10",
+    "addr:postcode":"08550",
+    "addr:street":"Arnold Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.626786,40.30235,-74.626786,40.30235",
     "geom:latitude":40.30235,
     "geom:longitude":-74.626786,
@@ -24,7 +29,10 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_138gCjAUsmmrK379bYwmvY_40.302350_-74.626786@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461312080,
     "wof:geomhash":"51931a4cb53b50717d6d3d3f31013ca6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655578141
+        }
+    ],
     "wof:id":655578141,
-    "wof:lastmodified":1466680251,
+    "wof:lastmodified":1492051670,
     "wof:name":"Akt Inc",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

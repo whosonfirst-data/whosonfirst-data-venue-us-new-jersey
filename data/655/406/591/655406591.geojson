@@ -2,9 +2,14 @@
   "id": 655406591,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Mercer St Hightstown NJ 08520",
+    "addr:housenumber":"110",
+    "addr:postcode":"08520",
+    "addr:street":"Mercer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523709,40.268904,-74.523709,40.268904",
     "geom:latitude":40.268904,
     "geom:longitude":-74.523709,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xa79K0umLLsaTR2z2ooCJ_40.268904_-74.523709@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304899,
     "wof:geomhash":"08af73a306f9d4cc3e3c7695275ca216",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655406591
+        }
+    ],
     "wof:id":655406591,
-    "wof:lastmodified":1466675623,
+    "wof:lastmodified":1492049301,
     "wof:name":"Slowdown Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

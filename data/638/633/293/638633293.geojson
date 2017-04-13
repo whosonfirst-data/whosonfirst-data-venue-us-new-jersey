@@ -2,9 +2,14 @@
   "id": 638633293,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 W Shenendoah Rd Howell NJ 07731",
+    "addr:housenumber":"62",
+    "addr:postcode":"07731",
+    "addr:street":"W Shenendoah Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.154661,40.128186,-74.154661,40.128186",
     "geom:latitude":40.128186,
     "geom:longitude":-74.154661,
@@ -32,7 +37,13 @@
         "energy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P8ETPzrGNYrtHE1jO1bcG_40.128186_-74.154661@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461275319,
     "wof:geomhash":"d06e9503197d56bb2324debe0606a993",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":638633293
+        }
+    ],
     "wof:id":638633293,
-    "wof:lastmodified":1466673332,
+    "wof:lastmodified":1492062556,
     "wof:name":"All American Gas & Energy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655569407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 W County Line Rd Jackson NJ 08527",
+    "addr:housenumber":"2010",
+    "addr:postcode":"08527",
+    "addr:street":"W County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252271,40.116777,-74.252271,40.116777",
     "geom:latitude":40.116777,
     "geom:longitude":-74.252271,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dRVT0QpB5Xiyzy12jCM99_40.116777_-74.252271@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311686,
     "wof:geomhash":"c83e00286393ee01bc69784c843240d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655569407
+        }
+    ],
     "wof:id":655569407,
-    "wof:lastmodified":1466680050,
+    "wof:lastmodified":1492080217,
     "wof:name":"Hunan Wok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639500549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Ashwood Ter Annandale NJ 08844",
+    "addr:housenumber":"1",
+    "addr:postcode":"08844",
+    "addr:street":"Ashwood Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658092,40.484213,-74.658092,40.484213",
     "geom:latitude":40.484213,
     "geom:longitude":-74.658092,
@@ -27,7 +32,12 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85806449,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mJdqnANN5Xxaj11WzwEpU_40.484213_-74.658092@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461297435,
     "wof:geomhash":"b647212e336bd7077fd1e35d567a8e68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85806449,
+            "region_id":85688607,
+            "venue_id":639500549
+        }
+    ],
     "wof:id":639500549,
-    "wof:lastmodified":1466694902,
+    "wof:lastmodified":1492025380,
     "wof:name":"Mews At Annandale Leasing",
-    "wof:parent_id":420527613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

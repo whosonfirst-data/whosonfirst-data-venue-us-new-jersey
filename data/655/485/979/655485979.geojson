@@ -2,9 +2,14 @@
   "id": 655485979,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Madison St Hoboken NJ 07030",
+    "addr:housenumber":"801",
+    "addr:postcode":"07030",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.036187,40.748649,-74.036187,40.748649",
     "geom:latitude":40.748649,
     "geom:longitude":-74.036187,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892529,
+        102080719,
         85878421,
         102191575,
         404478139,
-        85633793,
-        85975295,
-        102080719,
-        85688607
+        85975295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +47,13 @@
     "wof:created":1461308240,
     "wof:geomhash":"23e420c9d381cf5cac6f1aa4f94f0d5b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080719,
+            "neighbourhood_id":85892529,
+            "region_id":85688607,
+            "venue_id":655485979
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":655485979,
-    "wof:lastmodified":1466677820,
+    "wof:lastmodified":1492024499,
     "wof:name":"DMA Insurance Housing",
-    "wof:parent_id":85878421,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

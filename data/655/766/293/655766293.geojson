@@ -2,9 +2,14 @@
   "id": 655766293,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 County Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"360;565",
+    "addr:postcode":"07461",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652046,41.181152,-74.652046,41.181152",
     "geom:latitude":41.181152,
     "geom:longitude":-74.652046,
@@ -35,7 +40,10 @@
         "online"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E4C0FEtkHVR9Wb297gvP5_41.181152_-74.652046@1303262265"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461319903,
     "wof:geomhash":"ce2f30b45174b0829f0998c9db709bb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":655766293
+        }
+    ],
     "wof:id":655766293,
-    "wof:lastmodified":1466686057,
+    "wof:lastmodified":1492027681,
     "wof:name":"Ross Wiessmann",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

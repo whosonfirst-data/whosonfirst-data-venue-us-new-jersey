@@ -2,9 +2,14 @@
   "id": 655679563,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Bartell Pl Clark NJ 07066",
+    "addr:housenumber":"75",
+    "addr:postcode":"07066",
+    "addr:street":"Bartell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303703,40.619202,-74.303703,40.619202",
     "geom:latitude":40.619202,
     "geom:longitude":-74.303703,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.centerfordanceeducation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yyS2OlRArmaluBLbBE1x2_40.619788_-74.303292@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316393,
     "wof:geomhash":"c2e0012f436a2f1f6da97386c62c24a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655679563
+        }
+    ],
     "wof:id":655679563,
-    "wof:lastmodified":1466683785,
+    "wof:lastmodified":1492048164,
     "wof:name":"Center For Dance Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

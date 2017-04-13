@@ -2,9 +2,14 @@
   "id": 655418283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2206 Lacey Rd Forked River NJ 08731",
+    "addr:housenumber":"2206",
+    "addr:postcode":"08731",
+    "addr:street":"Lacey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304036,39.890166,-74.304036,39.890166",
     "geom:latitude":39.890166,
     "geom:longitude":-74.304036,
@@ -27,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85814979,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yAWBEfIFm53ExZl0Nu2GO_39.890166_-74.304036@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461305398,
     "wof:geomhash":"71e06835bcd1bfebe9814b04db31124e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85814979,
+            "region_id":85688607,
+            "venue_id":655418283
+        }
+    ],
     "wof:id":655418283,
-    "wof:lastmodified":1466676006,
+    "wof:lastmodified":1492065184,
     "wof:name":"Lacey Christian Assembly",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

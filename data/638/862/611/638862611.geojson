@@ -2,9 +2,14 @@
   "id": 638862611,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Homestead Dr Columbus NJ 08022",
+    "addr:housenumber":"45",
+    "addr:postcode":"08022",
+    "addr:street":"Homestead Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.74629,40.073192,-74.74629,40.073192",
     "geom:latitude":40.073192,
     "geom:longitude":-74.74629,
@@ -30,7 +35,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CiFaM8juzeouOUs18WfeG_40.073192_-74.746290@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461281809,
     "wof:geomhash":"8f7056f88422d1a9002d2742e9cb886a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":638862611
+        }
+    ],
     "wof:id":638862611,
-    "wof:lastmodified":1466689459,
+    "wof:lastmodified":1492052164,
     "wof:name":"Ashurst Family Physicians PA",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

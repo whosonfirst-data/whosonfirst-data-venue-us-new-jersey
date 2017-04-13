@@ -2,9 +2,14 @@
   "id": 638867627,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"202",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.805168,40.275991,-74.805168,40.275991",
     "geom:latitude":40.275991,
     "geom:longitude":-74.805168,
@@ -28,7 +33,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147,
+        85688607,
+        85818373,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xn9q3GLWTq4MEHhmSY2bH_40.275991_-74.805168@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461281910,
     "wof:geomhash":"e4b171f992817b8b01d7b5a0b4ead7fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":638867627
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85818373,
+            "region_id":85688607,
+            "venue_id":638867627
+        }
+    ],
     "wof:id":638867627,
-    "wof:lastmodified":1466689654,
+    "wof:lastmodified":1492042784,
     "wof:name":"Stella's Pizza",
-    "wof:parent_id":420527147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

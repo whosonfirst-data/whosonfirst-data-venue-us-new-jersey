@@ -2,9 +2,14 @@
   "id": 655625839,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Dena Dr Wanaque NJ 07465",
+    "addr:housenumber":"21",
+    "addr:postcode":"07465",
+    "addr:street":"Dena Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288897,41.047422,-74.288897,41.047422",
     "geom:latitude":41.047422,
     "geom:longitude":-74.288897,
@@ -27,7 +32,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wWtfqQHAgHmutPl7elTd9_41.047422_-74.288897@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314147,
     "wof:geomhash":"9f8ebeabe4578cf3d0efc24ff9af71ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655625839
+        }
+    ],
     "wof:id":655625839,
-    "wof:lastmodified":1466682051,
+    "wof:lastmodified":1492036271,
     "wof:name":"James R Buckley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

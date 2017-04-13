@@ -2,9 +2,14 @@
   "id": 655733027,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 E Stearns St Rahway NJ 07065",
+    "addr:housenumber":"203",
+    "addr:postcode":"07065",
+    "addr:street":"E Stearns St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279973,40.599507,-74.279973,40.599507",
     "geom:latitude":40.599507,
     "geom:longitude":-74.279973,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VFgp4wrliZMsy8lfJen0C_40.599507_-74.279973@1303262257"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318646,
     "wof:geomhash":"94aea354a44fcff058db30378dff93b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733027
+        }
+    ],
     "wof:id":655733027,
-    "wof:lastmodified":1466685021,
+    "wof:lastmodified":1492043874,
     "wof:name":"Tribbett Maintenance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

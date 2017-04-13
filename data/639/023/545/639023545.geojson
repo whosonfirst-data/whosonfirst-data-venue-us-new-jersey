@@ -2,9 +2,14 @@
   "id": 639023545,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Holly Blvd Southampton NJ 08088",
+    "addr:housenumber":"4",
+    "addr:postcode":"08088",
+    "addr:street":"Holly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.709656,39.88713,-74.709656,39.88713",
     "geom:latitude":39.88713,
     "geom:longitude":-74.709656,
@@ -27,7 +32,10 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56JnNgOmZvwObTpDi8J0xd_39.887130_-74.709656@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285620,
     "wof:geomhash":"2eeaf3dcab0a5b96862f4ead59578244",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639023545
+        }
+    ],
     "wof:id":639023545,
-    "wof:lastmodified":1466673641,
+    "wof:lastmodified":1492069354,
     "wof:name":"Hampton Lakes Emergency Squad",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

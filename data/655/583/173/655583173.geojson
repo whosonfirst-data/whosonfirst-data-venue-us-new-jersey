@@ -2,9 +2,14 @@
   "id": 655583173,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Tappan Rd Norwood NJ 07648",
+    "addr:housenumber":"518",
+    "addr:postcode":"07648",
+    "addr:street":"Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954711,41.006679,-73.954711,41.006679",
     "geom:latitude":41.006679,
     "geom:longitude":-73.954711,
@@ -29,7 +34,14 @@
         "nursery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vLMBKQ7AxIuk8Yh7eyn7Y_41.006679_-73.954711@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461312304,
     "wof:geomhash":"d92026ce7490d2845478c867cb72f7a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655583173
+        }
+    ],
     "wof:id":655583173,
-    "wof:lastmodified":1466680328,
+    "wof:lastmodified":1492029353,
     "wof:name":"DErcole Farm & Garden Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

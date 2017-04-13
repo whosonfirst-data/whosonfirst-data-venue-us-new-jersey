@@ -2,9 +2,14 @@
   "id": 638901843,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Orchard Pl Irvington NJ 07111",
+    "addr:housenumber":"45",
+    "addr:postcode":"07111",
+    "addr:street":"Orchard Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246085,40.714456,-74.246085,40.714456",
     "geom:latitude":40.714456,
     "geom:longitude":-74.246085,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jJ9k1rzmenXd06Jv3Svnk_40.714456_-74.246085@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282794,
     "wof:geomhash":"e0f0292ef10a4f87ab7eca101ebba29f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638901843
+        }
+    ],
     "wof:id":638901843,
-    "wof:lastmodified":1466690367,
+    "wof:lastmodified":1492041318,
     "wof:name":"Jabb Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

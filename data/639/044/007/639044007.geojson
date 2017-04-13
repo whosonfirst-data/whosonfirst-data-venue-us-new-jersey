@@ -2,9 +2,14 @@
   "id": 639044007,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Chestnut Ridge Rd Montvale NJ 07645",
+    "addr:housenumber":"50",
+    "addr:postcode":"07645",
+    "addr:street":"Chestnut Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.070284,41.048567,-74.070284,41.048567",
     "geom:latitude":41.048567,
     "geom:longitude":-74.070284,
@@ -27,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62JeWv8iUSo3DqlDd4xt7K_41.048567_-74.070284@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286136,
     "wof:geomhash":"2b688beb545ab8b47eac071af93937ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639044007
+        }
+    ],
     "wof:id":639044007,
-    "wof:lastmodified":1466674096,
+    "wof:lastmodified":1492069673,
     "wof:name":"Natural & Technological Hazard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

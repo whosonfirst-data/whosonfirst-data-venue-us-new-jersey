@@ -2,9 +2,14 @@
   "id": 639117637,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 Water St Belvidere NJ 07823",
+    "addr:housenumber":"633",
+    "addr:postcode":"07823",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.065979,40.832784,-75.065979,40.832784",
     "geom:latitude":40.832784,
     "geom:longitude":-75.065979,
@@ -28,7 +33,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W3VOIzKw10UjJhHkUE329_40.832784_-75.065979@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461287733,
     "wof:geomhash":"70896408ae13ac956242dcfb0cbfd3dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":639117637
+        }
+    ],
     "wof:id":639117637,
-    "wof:lastmodified":1466676735,
+    "wof:lastmodified":1492048012,
     "wof:name":"Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

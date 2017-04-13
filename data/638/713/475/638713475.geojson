@@ -2,9 +2,14 @@
   "id": 638713475,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 Carroll St Trenton NJ 08609",
+    "addr:housenumber":"98",
+    "addr:postcode":"08609",
+    "addr:street":"Carroll St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75711,40.222752,-74.75711,40.222752",
     "geom:latitude":40.222752,
     "geom:longitude":-74.75711,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nrMjFSlm9hsHqJgQRprJx_40.222752_-74.757110@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278011,
     "wof:geomhash":"5849a73ecfcdd7863af8b3493aea1c98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638713475
+        }
+    ],
     "wof:id":638713475,
-    "wof:lastmodified":1466673142,
+    "wof:lastmodified":1492062437,
     "wof:name":"Rescue Mission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

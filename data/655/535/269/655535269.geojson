@@ -2,9 +2,14 @@
   "id": 655535269,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Mount Pleasant Rd Morristown NJ 07960",
+    "addr:housenumber":"37",
+    "addr:postcode":"07960",
+    "addr:street":"Mount Pleasant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.55077,40.816936,-74.55077,40.816936",
     "geom:latitude":40.816936,
     "geom:longitude":-74.55077,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85854675,
-        102087413
+        85848511,
+        102087413,
+        85854675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85848511,
+            "region_id":85688607,
+            "venue_id":655535269
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "neighbourhood_id":85854675,
             "region_id":85688607,
             "venue_id":655535269
         }
     ],
     "wof:id":655535269,
-    "wof:lastmodified":1466679034,
+    "wof:lastmodified":1492048424,
     "wof:name":"Morris Cnty Surgical Assoc PC",
-    "wof:parent_id":85854675,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

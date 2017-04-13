@@ -2,9 +2,14 @@
   "id": 639554417,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"157",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.199759,40.689147,-75.199759,40.689147",
     "geom:latitude":40.689147,
     "geom:longitude":-75.199759,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nrDcacjOOzB67jg9a7Qor_40.689147_-75.199759@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299917,
     "wof:geomhash":"1342442daaadb470b05c01d00ff94285",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639554417
+        }
+    ],
     "wof:id":639554417,
-    "wof:lastmodified":1466695912,
+    "wof:lastmodified":1492041831,
     "wof:name":"Warren I Taylor DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

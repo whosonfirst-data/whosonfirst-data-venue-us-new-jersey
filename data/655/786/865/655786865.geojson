@@ -2,9 +2,14 @@
   "id": 655786865,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Harold St Tenafly NJ 07670",
+    "addr:housenumber":"39",
+    "addr:postcode":"07670",
+    "addr:street":"Harold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962506,40.929234,-73.962506,40.929234",
     "geom:latitude":40.929234,
     "geom:longitude":-73.962506,
@@ -34,7 +39,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S8HDMRHHiR52ILegwz1fW_40.929234_-73.962506@1303262270"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461320848,
     "wof:geomhash":"ebd0c30bcadfabf7e346f7b22e7c2d81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":655786865
+        }
+    ],
     "wof:id":655786865,
-    "wof:lastmodified":1466686726,
+    "wof:lastmodified":1492072405,
     "wof:name":"Midas Designs Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

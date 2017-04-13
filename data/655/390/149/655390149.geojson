@@ -2,9 +2,14 @@
   "id": 655390149,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 Pleasant Hill Rd Chester NJ 07930",
+    "addr:housenumber":"85",
+    "addr:postcode":"07930",
+    "addr:street":"Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.698736,40.805589,-74.698736,40.805589",
     "geom:latitude":40.805589,
     "geom:longitude":-74.698736,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85842223,
-        102087413
+        85804649,
+        102087413,
+        85842223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85804649,
+            "region_id":85688607,
+            "venue_id":655390149
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "neighbourhood_id":85842223,
             "region_id":85688607,
             "venue_id":655390149
         }
     ],
     "wof:id":655390149,
-    "wof:lastmodified":1466675217,
+    "wof:lastmodified":1492050971,
     "wof:name":"Pleasant Hill Cemetery",
-    "wof:parent_id":85842223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655764951,
   "type": "Feature",
   "properties": {
+    "addr:full":"381 State Rt 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"381",
+    "addr:postcode":"07444",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285004,40.965599,-74.285004,40.965599",
     "geom:latitude":40.965599,
     "geom:longitude":-74.285004,
@@ -28,7 +33,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F4uNdxjV5JGBF7eMtBrbR_40.965599_-74.285004@1303262264"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461319851,
     "wof:geomhash":"414590665de3912f3cf538dec6129ff2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764951
+        }
+    ],
     "wof:id":655764951,
-    "wof:lastmodified":1466686068,
+    "wof:lastmodified":1492058420,
     "wof:name":"Sports Rx",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

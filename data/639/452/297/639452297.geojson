@@ -2,9 +2,14 @@
   "id": 639452297,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 River Rd Flemington NJ 08822",
+    "addr:housenumber":"45",
+    "addr:postcode":"08822",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.838223,40.524437,-74.838223,40.524437",
     "geom:latitude":40.524437,
     "geom:longitude":-74.838223,
@@ -35,7 +40,8 @@
         85633793,
         85975697,
         102085997,
-        85688607
+        85688607,
+        420527069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,17 @@
             "neighbourhood_id":85819609,
             "region_id":85688607,
             "venue_id":639452297
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527069,
+            "venue_id":639452297
         }
     ],
     "wof:id":639452297,
-    "wof:lastmodified":1466693558,
+    "wof:lastmodified":1492044273,
     "wof:name":"Special T's",
-    "wof:parent_id":85819609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

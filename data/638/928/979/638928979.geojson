@@ -2,9 +2,14 @@
   "id": 638928979,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Glasgow Ter Mahwah NJ 07430",
+    "addr:housenumber":"41",
+    "addr:postcode":"07430",
+    "addr:street":"Glasgow Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.165214,41.09288,-74.165214,41.09288",
     "geom:latitude":41.09288,
     "geom:longitude":-74.165214,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mPjV3CqoFOZ0HdIDLGYin_41.092880_-74.165214@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283488,
     "wof:geomhash":"87d9579b7fd5c6d845b8d6c63c0875da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638928979
+        }
+    ],
     "wof:id":638928979,
-    "wof:lastmodified":1466690794,
+    "wof:lastmodified":1492026227,
     "wof:name":"Ram Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

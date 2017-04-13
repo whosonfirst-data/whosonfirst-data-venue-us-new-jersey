@@ -2,9 +2,14 @@
   "id": 655838431,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Rick Rd Milford NJ 08848",
+    "addr:housenumber":"274",
+    "addr:postcode":"08848",
+    "addr:street":"Rick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021772,40.605507,-75.021772,40.605507",
     "geom:latitude":40.605507,
     "geom:longitude":-75.021772,
@@ -37,7 +42,10 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tg1Vp9DtwyfX5rnO5a3OX_40.605507_-75.021772@1303262283"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461323006,
     "wof:geomhash":"6bba58d1f71a25b5e1d331d06c50824b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527041,
+            "venue_id":655838431
+        }
+    ],
     "wof:id":655838431,
-    "wof:lastmodified":1466687925,
+    "wof:lastmodified":1492070336,
     "wof:name":"Deerwood Auto Body",
     "wof:parent_id":420527041,
     "wof:placetype":"venue",

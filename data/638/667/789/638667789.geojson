@@ -2,9 +2,14 @@
   "id": 638667789,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Country Ln Howell NJ 07731",
+    "addr:housenumber":"6",
+    "addr:postcode":"07731",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170378,40.111599,-74.170378,40.111599",
     "geom:latitude":40.111599,
     "geom:longitude":-74.170378,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Pcw4IC3AARV61UjbWR2E_40.111599_-74.170378@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461276396,
     "wof:geomhash":"31dfe8aac9e41d19e6532ef1d90a60d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":638667789
+        }
+    ],
     "wof:id":638667789,
-    "wof:lastmodified":1466674372,
+    "wof:lastmodified":1492047732,
     "wof:name":"Tom Petersen",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

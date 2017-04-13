@@ -2,9 +2,14 @@
   "id": 655459999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1859 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1859",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267724,40.720911,-74.267724,40.720911",
     "geom:latitude":40.720911,
     "geom:longitude":-74.267724,
@@ -29,7 +34,10 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3isngwq6NDIAgZiv6L6fKd_40.720911_-74.267724@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461307158,
     "wof:geomhash":"0138b937e14c83737f0fbc533ad23433",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655459999
+        }
+    ],
     "wof:id":655459999,
-    "wof:lastmodified":1466677288,
+    "wof:lastmodified":1492028652,
     "wof:name":"Mr Gus Cleaners & Tailoring Sp",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

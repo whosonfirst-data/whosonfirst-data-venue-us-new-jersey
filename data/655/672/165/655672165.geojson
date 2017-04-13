@@ -2,9 +2,14 @@
   "id": 655672165,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Market St Belvidere NJ 07823",
+    "addr:housenumber":"8",
+    "addr:postcode":"07823",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0783,40.8297,-75.0783,40.8297",
     "geom:latitude":40.8297,
     "geom:longitude":-75.0783,
@@ -29,7 +34,14 @@
         "medium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4712DcollnKBLy2Wdhx0ZY_40.829783_-75.078366@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316103,
     "wof:geomhash":"d0b5274078a47d1210339fafb5b5a70a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655672165
+        }
+    ],
     "wof:id":655672165,
-    "wof:lastmodified":1466683471,
+    "wof:lastmodified":1492048112,
     "wof:name":"Express-Times the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

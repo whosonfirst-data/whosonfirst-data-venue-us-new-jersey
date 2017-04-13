@@ -2,9 +2,14 @@
   "id": 639360971,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Denise Dr Jackson NJ 08527",
+    "addr:housenumber":"10",
+    "addr:postcode":"08527",
+    "addr:street":"Denise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.299455,40.121258,-74.299455,40.121258",
     "geom:latitude":40.121258,
     "geom:longitude":-74.299455,
@@ -27,7 +32,13 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p6kp10ViuK6jPxje3Toz9_40.121258_-74.299455@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293252,
     "wof:geomhash":"ca1400b22ea22962012e1241beddbf82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639360971
+        }
+    ],
     "wof:id":639360971,
-    "wof:lastmodified":1466692185,
+    "wof:lastmodified":1492019950,
     "wof:name":"Lamonaca Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

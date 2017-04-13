@@ -2,9 +2,14 @@
   "id": 638631759,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Rymon Rd Washington NJ 07882",
+    "addr:housenumber":"111",
+    "addr:postcode":"07882",
+    "addr:street":"Rymon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.980769,40.732402,-74.980769,40.732402",
     "geom:latitude":40.732402,
     "geom:longitude":-74.980769,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_441awQVRGgx6oO6FagB8SW_40.732402_-74.980769@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275273,
     "wof:geomhash":"586b9d797a7821357279f12870335fc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638631759
+        }
+    ],
     "wof:id":638631759,
-    "wof:lastmodified":1466673280,
+    "wof:lastmodified":1492046035,
     "wof:name":"C H Paving LLC",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

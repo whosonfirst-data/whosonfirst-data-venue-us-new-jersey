@@ -2,9 +2,14 @@
   "id": 655433407,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Coryell St Lambertville NJ 08530",
+    "addr:housenumber":"63",
+    "addr:postcode":"08530",
+    "addr:street":"Coryell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.944553,40.367464,-74.944553,40.367464",
     "geom:latitude":40.367464,
     "geom:longitude":-74.944553,
@@ -28,7 +33,14 @@
         "leaded"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12hM7oKow3zZf8qOeIgR7e_40.367464_-74.944553@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306036,
     "wof:geomhash":"677a0ab9e54745152f0351fe5efadb40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655433407
+        }
+    ],
     "wof:id":655433407,
-    "wof:lastmodified":1466676357,
+    "wof:lastmodified":1492047777,
     "wof:name":"Magic Glass Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

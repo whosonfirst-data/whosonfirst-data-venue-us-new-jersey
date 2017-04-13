@@ -2,9 +2,14 @@
   "id": 639012751,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Hamburg Tpke Riverdale NJ 07457",
+    "addr:housenumber":"81",
+    "addr:postcode":"07457",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304471,40.998272,-74.304471,40.998272",
     "geom:latitude":40.998272,
     "geom:longitude":-74.304471,
@@ -24,7 +29,14 @@
     "sg:postcode":"07457",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tNEpaZvELF90T8A94QPu8_40.998272_-74.304471@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461285406,
     "wof:geomhash":"0372a5b9442b497a01c2bf404b814d07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":639012751
+        }
+    ],
     "wof:id":639012751,
-    "wof:lastmodified":1466673385,
+    "wof:lastmodified":1492041001,
     "wof:name":"Dwellings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

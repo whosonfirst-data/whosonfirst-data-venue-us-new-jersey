@@ -2,9 +2,14 @@
   "id": 638802791,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 Maple Ter Newton NJ 07860",
+    "addr:housenumber":"904",
+    "addr:postcode":"07860",
+    "addr:street":"Maple Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.828128,41.055468,-74.828128,41.055468",
     "geom:latitude":41.055468,
     "geom:longitude":-74.828128,
@@ -24,7 +29,10 @@
     "sg:postcode":"07860",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eXBKfCsmi9jYdQsx40Lko_41.055468_-74.828128@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461280291,
     "wof:geomhash":"c0bb085ed84a2915fcad3c382968b5e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":638802791
+        }
+    ],
     "wof:id":638802791,
-    "wof:lastmodified":1466685938,
+    "wof:lastmodified":1492046264,
     "wof:name":"Stone Tree II",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

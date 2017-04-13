@@ -2,9 +2,14 @@
   "id": 639260995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1053 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1053",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314221,40.628375,-74.314221,40.628375",
     "geom:latitude":40.628375,
     "geom:longitude":-74.314221,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QWdUbituOcF5e3SbIiYW3_40.628375_-74.314221@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291080,
     "wof:geomhash":"624799fe662f507ad85fc0c91785338a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639260995
+        }
+    ],
     "wof:id":639260995,
-    "wof:lastmodified":1466690623,
+    "wof:lastmodified":1492043016,
     "wof:name":"Vall Sg LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

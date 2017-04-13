@@ -2,9 +2,14 @@
   "id": 639420131,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Sugar Maple Ave Newfoundland NJ 07435",
+    "addr:housenumber":"41",
+    "addr:postcode":"07435",
+    "addr:street":"Sugar Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.440511,41.066408,-74.440511,41.066408",
     "geom:latitude":41.066408,
     "geom:longitude":-74.440511,
@@ -29,7 +34,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EXU1utiEmvYO9IfWTnqw2_41.066408_-74.440511@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461294717,
     "wof:geomhash":"3564a078722aa1278edf1cbdfcdc5ee7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":639420131
+        }
+    ],
     "wof:id":639420131,
-    "wof:lastmodified":1466693136,
+    "wof:lastmodified":1492047562,
     "wof:name":"EP Landscape Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

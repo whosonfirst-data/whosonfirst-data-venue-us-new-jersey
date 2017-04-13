@@ -2,9 +2,14 @@
   "id": 655807711,
   "type": "Feature",
   "properties": {
+    "addr:full":"4525 Route 130 S Burlington NJ 08016",
+    "addr:housenumber":"4525",
+    "addr:postcode":"08016",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889163,40.055965,-74.889163,40.055965",
     "geom:latitude":40.055965,
     "geom:longitude":-74.889163,
@@ -27,7 +32,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pa4TO6dUvhhkjmmhUnj2h_40.055965_-74.889163@1303262275"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321690,
     "wof:geomhash":"b2b7f1ee8108b35fd9cd6552a39e7596",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655807711
+        }
+    ],
     "wof:id":655807711,
-    "wof:lastmodified":1466687210,
+    "wof:lastmodified":1492070318,
     "wof:name":"Penn Pizza Palace",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

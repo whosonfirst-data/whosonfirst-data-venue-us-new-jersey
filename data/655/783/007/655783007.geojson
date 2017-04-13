@@ -2,9 +2,14 @@
   "id": 655783007,
   "type": "Feature",
   "properties": {
+    "addr:full":"577 Bergen Blvd Ridgefield NJ 07657",
+    "addr:housenumber":"577",
+    "addr:postcode":"07657",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.995555,40.827449,-73.995555,40.827449",
     "geom:latitude":40.827449,
     "geom:longitude":-73.995555,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iarnRPeBlnJS1V6dP9cwH_40.827449_-73.995555@1303262269"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320682,
     "wof:geomhash":"2c34c18f0e03b5f68ef91e71c1b0d1a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":655783007
+        }
+    ],
     "wof:id":655783007,
-    "wof:lastmodified":1466686340,
+    "wof:lastmodified":1492041068,
     "wof:name":"A 24 Hour Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

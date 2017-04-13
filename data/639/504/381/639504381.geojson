@@ -2,9 +2,14 @@
   "id": 639504381,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 Roosevelt Ave Carteret NJ 07008",
+    "addr:housenumber":"1506",
+    "addr:postcode":"07008",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252049,40.595637,-74.252049,40.595637",
     "geom:latitude":40.595637,
     "geom:longitude":-74.252049,
@@ -38,7 +43,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478217,
+        85633793,
+        85976297,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_254iAzMrEAtMOqUb3pBAC1_40.595637_-74.252049@1294171694"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461297598,
     "wof:geomhash":"a77d3c76e57dde33a5dcad6e0de8bc0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976297,
+            "region_id":85688607,
+            "venue_id":639504381
+        }
+    ],
     "wof:id":639504381,
-    "wof:lastmodified":1466694735,
+    "wof:lastmodified":1492042311,
     "wof:name":"Ja Brea Financial Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

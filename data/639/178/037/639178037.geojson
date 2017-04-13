@@ -2,9 +2,14 @@
   "id": 639178037,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Old Tavern Rd Howell NJ 07731",
+    "addr:housenumber":"58",
+    "addr:postcode":"07731",
+    "addr:street":"Old Tavern Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.166219,40.16458,-74.166219,40.16458",
     "geom:latitude":40.16458,
     "geom:longitude":-74.166219,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527301,
+        85688607,
+        85838667,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g0tX8f8g0tCAB5JwdpAu9_40.164580_-74.166219@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461289153,
     "wof:geomhash":"8e694e115901c18ed7e9cd9d7d8a26ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527301,
+            "venue_id":639178037
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85838667,
+            "region_id":85688607,
+            "venue_id":639178037
+        }
+    ],
     "wof:id":639178037,
-    "wof:lastmodified":1466685550,
+    "wof:lastmodified":1492069372,
     "wof:name":"Carpenter Construction Inc",
-    "wof:parent_id":420527301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

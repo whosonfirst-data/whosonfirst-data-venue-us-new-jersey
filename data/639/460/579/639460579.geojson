@@ -2,9 +2,14 @@
   "id": 639460579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Old York Rd Bordentown NJ 08505",
+    "addr:housenumber":"2216",
+    "addr:postcode":"08505",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751968,40.101411,-74.751968,40.101411",
     "geom:latitude":40.101411,
     "geom:longitude":-74.751968,
@@ -34,7 +39,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gGIFUuYVckNr9iEqbuSR5_40.101411_-74.751968@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461295824,
     "wof:geomhash":"ec266ec8dd1e531c80d6a89b215d03c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526685,
+            "venue_id":639460579
+        }
+    ],
     "wof:id":639460579,
-    "wof:lastmodified":1466693923,
+    "wof:lastmodified":1492023845,
     "wof:name":"Active Auto Sales",
     "wof:parent_id":420526685,
     "wof:placetype":"venue",

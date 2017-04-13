@@ -2,9 +2,14 @@
   "id": 655870715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Mountain View Road 3rd Floor Warren NJ 07059",
+    "addr:housenumber":"3;3rd floor",
+    "addr:postcode":"07059",
+    "addr:street":"Mountain View Road;Warren",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.55971,40.641138,-74.55971,40.641138",
     "geom:latitude":40.641138,
     "geom:longitude":-74.55971,
@@ -34,7 +39,13 @@
     ],
     "sg:website":"http://www.lightspeedresearch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478447,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79eOt8WfATd0eFEvWfuKXm_40.641138_-74.559710@1308186501"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461615358,
     "wof:geomhash":"9510db246e9dbf26e037d03a31ed4ee9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404478447,
+            "region_id":85688607,
+            "venue_id":655870715
+        }
+    ],
     "wof:id":655870715,
-    "wof:lastmodified":1466688076,
+    "wof:lastmodified":1492050012,
     "wof:name":"Lightspeed Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

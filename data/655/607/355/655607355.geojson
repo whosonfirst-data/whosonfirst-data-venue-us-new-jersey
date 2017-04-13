@@ -2,9 +2,14 @@
   "id": 655607355,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Franklin Ave Nutley NJ 07110",
+    "addr:housenumber":"733",
+    "addr:postcode":"07110",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148419,40.829828,-74.148419,40.829828",
     "geom:latitude":40.829828,
     "geom:longitude":-74.148419,
@@ -24,7 +29,13 @@
     "sg:postcode":"07110",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478051,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_208BrG9DFBziaFQMJu2snx_40.829828_-74.148419@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461313316,
     "wof:geomhash":"14d58e5cc5f13fe6bbf474fbca3c2654",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478051,
+            "region_id":85688607,
+            "venue_id":655607355
+        }
+    ],
     "wof:id":655607355,
-    "wof:lastmodified":1466681410,
+    "wof:lastmodified":1492040417,
     "wof:name":"Atlantic Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

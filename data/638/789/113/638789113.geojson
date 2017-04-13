@@ -2,9 +2,14 @@
   "id": 638789113,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 Hartshorn Dr Short Hills NJ 07078",
+    "addr:housenumber":"407",
+    "addr:postcode":"07078",
+    "addr:street":"Hartshorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.340266,40.733163,-74.340266,40.733163",
     "geom:latitude":40.733163,
     "geom:longitude":-74.340266,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807121,
+        85857457,
         102191575,
         404478043,
         85633793,
         85976003,
         102085043,
-        85688607
+        85688607,
+        85807121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102085043,
             "localadmin_id":404478043,
             "locality_id":85976003,
+            "neighbourhood_id":85857457,
+            "region_id":85688607,
+            "venue_id":638789113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "locality_id":85976003,
             "neighbourhood_id":85807121,
             "region_id":85688607,
             "venue_id":638789113
         }
     ],
     "wof:id":638789113,
-    "wof:lastmodified":1466684191,
+    "wof:lastmodified":1492050605,
     "wof:name":"Explosives Bureau",
-    "wof:parent_id":85807121,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

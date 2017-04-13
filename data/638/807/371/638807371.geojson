@@ -2,9 +2,14 @@
   "id": 638807371,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 Herbert Ave Closter NJ 07624",
+    "addr:housenumber":"141",
+    "addr:postcode":"07624",
+    "addr:street":"Herbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.958821,40.977907,-73.958821,40.977907",
     "geom:latitude":40.977907,
     "geom:longitude":-73.958821,
@@ -27,7 +32,14 @@
         "landscaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77dleEyzbqQtGT9lf0N2pk_40.977907_-73.958821@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280389,
     "wof:geomhash":"39f29ff7b46fb0e8bd8abeab37d3cfba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638807371
+        }
+    ],
     "wof:id":638807371,
-    "wof:lastmodified":1466686576,
+    "wof:lastmodified":1492039101,
     "wof:name":"Greer Landscape Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

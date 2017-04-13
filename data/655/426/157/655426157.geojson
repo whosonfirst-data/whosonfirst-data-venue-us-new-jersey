@@ -2,9 +2,14 @@
   "id": 655426157,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Hudson St Trenton NJ 08611",
+    "addr:housenumber":"401",
+    "addr:postcode":"08611",
+    "addr:street":"Hudson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750329,40.211835,-74.750329,40.211835",
     "geom:latitude":40.211835,
     "geom:longitude":-74.750329,
@@ -27,7 +32,14 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zzAHXIp3jtwi51LAkwO4k_40.211835_-74.750329@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305714,
     "wof:geomhash":"792c4014906b3ab857ba58f5761207c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655426157
+        }
+    ],
     "wof:id":655426157,
-    "wof:lastmodified":1466676078,
+    "wof:lastmodified":1492020649,
     "wof:name":"Italian American National Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

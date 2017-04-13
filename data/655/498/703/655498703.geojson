@@ -2,9 +2,14 @@
   "id": 655498703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2276 US Hwy 130 Dayton NJ 08810",
+    "addr:housenumber":"2276",
+    "addr:postcode":"08810",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500711,40.375537,-74.500711,40.375537",
     "geom:latitude":40.375537,
     "geom:longitude":-74.500711,
@@ -33,7 +38,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nqjc1azjBHgf1S8pOZVXw_40.375537_-74.500711@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461308781,
     "wof:geomhash":"7d60a6db171f84c7e0e9c572d47b197b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655498703
+        }
+    ],
     "wof:id":655498703,
-    "wof:lastmodified":1466678222,
+    "wof:lastmodified":1492057925,
     "wof:name":"Edison Generator Tire Auto Ctr",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

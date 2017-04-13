@@ -2,9 +2,14 @@
   "id": 639293853,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"70",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.97626,40.761826,-74.97626,40.761826",
     "geom:latitude":40.761826,
     "geom:longitude":-74.97626,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.101foundation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QAdiXIbHNvTB6YjjbFPfj_40.761826_-74.976260@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461291840,
     "wof:geomhash":"2420ed5b85bce4be8fe453fb5a77909f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639293853
+        }
+    ],
     "wof:id":639293853,
-    "wof:lastmodified":1466691325,
+    "wof:lastmodified":1492056054,
     "wof:name":"101 Foundation Inc",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

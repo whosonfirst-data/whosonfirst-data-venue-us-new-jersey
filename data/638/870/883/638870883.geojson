@@ -2,9 +2,14 @@
   "id": 638870883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Whittier St Rahway NJ 07065",
+    "addr:housenumber":"2007",
+    "addr:postcode":"07065",
+    "addr:street":"Whittier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275374,40.615678,-74.275374,40.615678",
     "geom:latitude":40.615678,
     "geom:longitude":-74.275374,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PhX887UeBO7PxteeRFUc7_40.615678_-74.275374@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281985,
     "wof:geomhash":"27995e9249e2c3dbeba1a34c6b1d97d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638870883
+        }
+    ],
     "wof:id":638870883,
-    "wof:lastmodified":1466689583,
+    "wof:lastmodified":1492024138,
     "wof:name":"Allfix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

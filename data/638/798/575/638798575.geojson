@@ -2,9 +2,14 @@
   "id": 638798575,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Pine Ridge Blvd Lakehurst NJ 08759",
+    "addr:housenumber":"52",
+    "addr:postcode":"08759",
+    "addr:street":"Pine Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329414,39.94166,-74.329414,39.94166",
     "geom:latitude":39.94166,
     "geom:longitude":-74.329414,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n2NQYbhImmz3QvhX5UxDJ_39.941660_-74.329414@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461280198,
     "wof:geomhash":"bfe3b4436960325c47bd0515c79fea14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":638798575
+        }
+    ],
     "wof:id":638798575,
-    "wof:lastmodified":1466685371,
+    "wof:lastmodified":1492028402,
     "wof:name":"Jgr Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

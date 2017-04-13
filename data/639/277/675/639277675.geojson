@@ -2,9 +2,14 @@
   "id": 639277675,
   "type": "Feature",
   "properties": {
+    "addr:full":"581 Bergen Blvd Ridgefield NJ 07657",
+    "addr:housenumber":"581",
+    "addr:postcode":"07657",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994995,40.827909,-73.994995,40.827909",
     "geom:latitude":40.827909,
     "geom:longitude":-73.994995,
@@ -27,7 +32,14 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ARP1sMsosfBdR4TNiC5hb_40.827909_-73.994995@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291494,
     "wof:geomhash":"f554c7d3e02e86d726ce463e842dc590",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":639277675
+        }
+    ],
     "wof:id":639277675,
-    "wof:lastmodified":1466691032,
+    "wof:lastmodified":1492044207,
     "wof:name":"N John Lombardi PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

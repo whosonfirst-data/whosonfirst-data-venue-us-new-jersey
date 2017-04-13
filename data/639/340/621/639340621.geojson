@@ -2,9 +2,14 @@
   "id": 639340621,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Marc Dr Dayton NJ 08810",
+    "addr:housenumber":"23",
+    "addr:postcode":"08810",
+    "addr:street":"Marc Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.527105,40.378166,-74.527105,40.378166",
     "geom:latitude":40.378166,
     "geom:longitude":-74.527105,
@@ -27,7 +32,10 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kIMavpt2I55GX7JKWzjmd_40.378166_-74.527105@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292823,
     "wof:geomhash":"27a256aad8c79231af04e69614212419",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639340621
+        }
+    ],
     "wof:id":639340621,
-    "wof:lastmodified":1466692341,
+    "wof:lastmodified":1492039029,
     "wof:name":"Ebony Investment Club",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

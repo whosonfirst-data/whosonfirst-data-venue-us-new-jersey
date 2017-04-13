@@ -2,9 +2,14 @@
   "id": 638706189,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Boyden Ave Maplewood NJ 07040",
+    "addr:housenumber":"180",
+    "addr:postcode":"07040",
+    "addr:street":"Boyden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252746,40.724524,-74.252746,40.724524",
     "geom:latitude":40.724524,
     "geom:longitude":-74.252746,
@@ -28,7 +33,10 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fxPQ14NhWpz8ldQwul3pX_40.724524_-74.252746@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461277774,
     "wof:geomhash":"47452203d41e94382514910b665acef1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":638706189
+        }
+    ],
     "wof:id":638706189,
-    "wof:lastmodified":1466688665,
+    "wof:lastmodified":1492027753,
     "wof:name":"New Jersey Transit",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

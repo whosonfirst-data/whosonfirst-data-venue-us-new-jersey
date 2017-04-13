@@ -2,9 +2,14 @@
   "id": 655382487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1081 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"1081",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252406,40.715263,-74.252406,40.715263",
     "geom:latitude":40.715263,
     "geom:longitude":-74.252406,
@@ -28,7 +33,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FS8YLF7hfoMl36CDv4o6k_40.715263_-74.252406@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303893,
     "wof:geomhash":"0626672013a2cd4c11bbc49875f417cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655382487
+        }
+    ],
     "wof:id":655382487,
-    "wof:lastmodified":1466675055,
+    "wof:lastmodified":1492057140,
     "wof:name":"Hot Pot Caribbean Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

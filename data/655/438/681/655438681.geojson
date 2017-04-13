@@ -2,9 +2,14 @@
   "id": 655438681,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Hollywood Ave Somerset NJ 08873",
+    "addr:housenumber":"54",
+    "addr:postcode":"08873",
+    "addr:street":"Hollywood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500053,40.524677,-74.500053,40.524677",
     "geom:latitude":40.524677,
     "geom:longitude":-74.500053,
@@ -30,7 +35,14 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sgrAN4ekLgck0z1rh5HQL_40.524677_-74.500053@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461306241,
     "wof:geomhash":"f81ed6e714ff8d20ac94075d835dd2af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":655438681
+        }
+    ],
     "wof:id":655438681,
-    "wof:lastmodified":1466676634,
+    "wof:lastmodified":1492023718,
     "wof:name":"Colonial Waterbird Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

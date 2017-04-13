@@ -2,9 +2,14 @@
   "id": 655791401,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 W Washington Ave Washington NJ 07882",
+    "addr:housenumber":"21",
+    "addr:postcode":"07882",
+    "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.982399,40.757702,-74.982399,40.757702",
     "geom:latitude":40.757702,
     "geom:longitude":-74.982399,
@@ -27,7 +32,10 @@
         "nightlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pntVLi8DNMcKQMVx4iOQv_40.757702_-74.982399@1303262271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321033,
     "wof:geomhash":"c76053538f4307dd9ac8e5ad8a223f39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791401
+        }
+    ],
     "wof:id":655791401,
-    "wof:lastmodified":1466686625,
+    "wof:lastmodified":1492061320,
     "wof:name":"The Social Club",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

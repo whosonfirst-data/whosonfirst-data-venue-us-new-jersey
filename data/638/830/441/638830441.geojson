@@ -2,9 +2,14 @@
   "id": 638830441,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Suttons Rd Califon NJ 07830",
+    "addr:housenumber":"81",
+    "addr:postcode":"07830",
+    "addr:street":"Suttons Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.806383,40.712357,-74.806383,40.712357",
     "geom:latitude":40.712357,
     "geom:longitude":-74.806383,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30oV7cP8NCgyarUkuZXLJk_40.712357_-74.806383@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461281003,
     "wof:geomhash":"42e1e0b4503c081342de279764c771de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":638830441
+        }
+    ],
     "wof:id":638830441,
-    "wof:lastmodified":1466688945,
+    "wof:lastmodified":1492050511,
     "wof:name":"Pettegrove Consulting LLC",
     "wof:parent_id":420527075,
     "wof:placetype":"venue",

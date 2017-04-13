@@ -2,9 +2,14 @@
   "id": 655365175,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Grove St Mahwah NJ 07430",
+    "addr:housenumber":"119",
+    "addr:postcode":"07430",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.156023,41.100259,-74.156023,41.100259",
     "geom:latitude":41.100259,
     "geom:longitude":-74.156023,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oAwnpJx5VGiBCUuPrjUti_41.100259_-74.156023@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303228,
     "wof:geomhash":"8452df8c83cd21c9429846ce15e547c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655365175
+        }
+    ],
     "wof:id":655365175,
-    "wof:lastmodified":1466674453,
+    "wof:lastmodified":1492021713,
     "wof:name":"Kanebridge Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

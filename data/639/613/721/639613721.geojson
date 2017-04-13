@@ -2,9 +2,14 @@
   "id": 639613721,
   "type": "Feature",
   "properties": {
+    "addr:full":"259 State Rte 31 Hackettstown NJ 07863",
+    "addr:housenumber":"259",
+    "addr:postcode":"07863",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.994524,40.812194,-74.994524,40.812194",
     "geom:latitude":40.812194,
     "geom:longitude":-74.994524,
@@ -29,7 +34,13 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478525,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3esDAPZ0y3tNTv5pDY4mfl_40.812194_-74.994524@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461302271,
     "wof:geomhash":"e3815d8052ddd6e55d568609005b8147",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478525,
+            "region_id":85688607,
+            "venue_id":639613721
+        }
+    ],
     "wof:id":639613721,
-    "wof:lastmodified":1466697203,
+    "wof:lastmodified":1492055454,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

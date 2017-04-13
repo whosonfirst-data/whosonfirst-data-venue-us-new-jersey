@@ -2,9 +2,14 @@
   "id": 655715141,
   "type": "Feature",
   "properties": {
+    "addr:full":"670 Belleville Tpke Kearny NJ 07032",
+    "addr:housenumber":"670",
+    "addr:postcode":"07032",
+    "addr:street":"Belleville Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.124761,40.768321,-74.124761,40.768321",
     "geom:latitude":40.768321,
     "geom:longitude":-74.124761,
@@ -27,7 +32,14 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iBzMbpAHQu2bjbePPWKm2_40.768321_-74.124761@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317974,
     "wof:geomhash":"44944551ad3d1b990d807ff3c887afdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655715141
+        }
+    ],
     "wof:id":655715141,
-    "wof:lastmodified":1466684701,
+    "wof:lastmodified":1492041037,
     "wof:name":"H D Smith Wholesale Drugs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

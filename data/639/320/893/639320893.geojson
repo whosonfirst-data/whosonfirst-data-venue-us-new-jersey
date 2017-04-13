@@ -2,9 +2,14 @@
   "id": 639320893,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 The Orchards of East Windsor Cranbury NJ 08512",
+    "addr:housenumber":"115;of",
+    "addr:postcode":"08512",
+    "addr:street":"The Orchards",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.544238,40.279514,-74.544238,40.279514",
     "geom:latitude":40.279514,
     "geom:longitude":-74.544238,
@@ -29,7 +34,13 @@
         "scalpel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23uzyiuaL0Sa47hdR5yo2U_40.279514_-74.544238@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461292417,
     "wof:geomhash":"64de817d5e2cba6276133e6a391832ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639320893
+        }
+    ],
     "wof:id":639320893,
-    "wof:lastmodified":1466691908,
+    "wof:lastmodified":1492051296,
     "wof:name":"Summit Surgical International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638732949,
   "type": "Feature",
   "properties": {
+    "addr:full":"387 Coit St Irvington NJ 07111",
+    "addr:housenumber":"387",
+    "addr:postcode":"07111",
+    "addr:street":"Coit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231127,40.711927,-74.231127,40.711927",
     "geom:latitude":40.711927,
     "geom:longitude":-74.231127,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b3pAYstFu5s3KULPsXOBM_40.711927_-74.231127@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278567,
     "wof:geomhash":"d38dfb06d4f5c70bca66d0efa0227b82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638732949
+        }
+    ],
     "wof:id":638732949,
-    "wof:lastmodified":1466675877,
+    "wof:lastmodified":1492081919,
     "wof:name":"Collision Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

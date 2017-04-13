@@ -2,9 +2,14 @@
   "id": 639591105,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Kingsley Rd Ringwood NJ 07456",
+    "addr:housenumber":"11",
+    "addr:postcode":"07456",
+    "addr:street":"Kingsley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252858,41.101892,-74.252858,41.101892",
     "geom:latitude":41.101892,
     "geom:longitude":-74.252858,
@@ -27,7 +32,15 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85848887,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QQbPXOZWJ2qekccsJjPSH_41.101892_-74.252858@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461301402,
     "wof:geomhash":"f24e14e05375f31eb34cd5752f9b5906",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "neighbourhood_id":85848887,
+            "region_id":85688607,
+            "venue_id":639591105
+        }
+    ],
     "wof:id":639591105,
-    "wof:lastmodified":1466696732,
+    "wof:lastmodified":1492051051,
     "wof:name":"Frank Loscalzo & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

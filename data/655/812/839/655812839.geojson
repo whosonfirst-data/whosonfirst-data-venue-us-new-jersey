@@ -2,9 +2,14 @@
   "id": 655812839,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Potter Ln Willingboro NJ 08046",
+    "addr:housenumber":"52",
+    "addr:postcode":"08046",
+    "addr:street":"Potter Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.899771,40.035646,-74.899771,40.035646",
     "geom:latitude":40.035646,
     "geom:longitude":-74.899771,
@@ -33,7 +38,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jLtM8jo0jlIL1xtGds87f_40.035646_-74.899771@1303262276"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461321931,
     "wof:geomhash":"3250c5eac39e9cf9f32f5d80325477cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655812839
+        }
+    ],
     "wof:id":655812839,
-    "wof:lastmodified":1466687283,
+    "wof:lastmodified":1492024087,
     "wof:name":"M B D Associates",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

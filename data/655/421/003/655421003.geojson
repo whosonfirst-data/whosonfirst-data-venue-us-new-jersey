@@ -2,9 +2,14 @@
   "id": 655421003,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Hickory Rd Somerset NJ 08873",
+    "addr:housenumber":"121",
+    "addr:postcode":"08873",
+    "addr:street":"Hickory Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500596,40.507124,-74.500596,40.507124",
     "geom:latitude":40.507124,
     "geom:longitude":-74.500596,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Nx9W8ktLhdRIrRfZ0cBH_40.507124_-74.500596@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305515,
     "wof:geomhash":"83753f941c9d0ce617a935c41bf6f1bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":655421003
+        }
+    ],
     "wof:id":655421003,
-    "wof:lastmodified":1466675984,
+    "wof:lastmodified":1492055643,
     "wof:name":"Quality Personal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

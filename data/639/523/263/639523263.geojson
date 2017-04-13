@@ -2,9 +2,14 @@
   "id": 639523263,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Oak Grove Rd Pittstown NJ 08867",
+    "addr:housenumber":"275",
+    "addr:postcode":"08867",
+    "addr:street":"Oak Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.958426,40.534234,-74.958426,40.534234",
     "geom:latitude":40.534234,
     "geom:longitude":-74.958426,
@@ -28,7 +33,13 @@
         "mechanic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478167,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wrFlFNQhOrzwB0ehhu09M_40.534234_-74.958426@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298468,
     "wof:geomhash":"d819861a31bddc8e5ee961ee1c879ad5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478167,
+            "region_id":85688607,
+            "venue_id":639523263
+        }
+    ],
     "wof:id":639523263,
-    "wof:lastmodified":1466695263,
+    "wof:lastmodified":1492042401,
     "wof:name":"T & C Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

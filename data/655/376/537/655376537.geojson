@@ -2,9 +2,14 @@
   "id": 655376537,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Petticoat Ln Annandale NJ 08801",
+    "addr:housenumber":"109",
+    "addr:postcode":"08801",
+    "addr:street":"Petticoat Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.853804,40.669291,-74.853804,40.669291",
     "geom:latitude":40.669291,
     "geom:longitude":-74.853804,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HqdmUK9XupCqkC4ZJBtk3_40.669291_-74.853804@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303681,
     "wof:geomhash":"cdbcf7b7c6023f14038644d284ea70e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655376537
+        }
+    ],
     "wof:id":655376537,
-    "wof:lastmodified":1466674823,
+    "wof:lastmodified":1492070122,
     "wof:name":"AMD Tech",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

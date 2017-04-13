@@ -2,9 +2,14 @@
   "id": 638788643,
   "type": "Feature",
   "properties": {
+    "addr:full":"935 Co Rd 517 Hackettstown NJ 07840",
+    "addr:housenumber":"935",
+    "addr:postcode":"07840",
+    "addr:street":"Co Rd 517",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.823146,40.874666,-74.823146,40.874666",
     "geom:latitude":40.874666,
     "geom:longitude":-74.823146,
@@ -29,7 +34,13 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85976453,
+        102083873,
+        85854991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QlbKQjsP7OBOWr2ZOmWCU_40.874666_-74.823146@1294171694"
@@ -37,11 +48,20 @@
     "wof:country":"US",
     "wof:created":1461279986,
     "wof:geomhash":"0a4c4bb96a42a4e188586dcd3c3a882b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "locality_id":85976453,
+            "neighbourhood_id":85854991,
+            "region_id":85688607,
+            "venue_id":638788643
+        }
+    ],
     "wof:id":638788643,
-    "wof:lastmodified":1466684142,
+    "wof:lastmodified":1492029917,
     "wof:name":"K & L Home Improvements",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

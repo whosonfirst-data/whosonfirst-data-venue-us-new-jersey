@@ -2,9 +2,14 @@
   "id": 639326585,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 W Ramapo Ave Mahwah NJ 07430",
+    "addr:housenumber":"176",
+    "addr:postcode":"07430",
+    "addr:street":"W Ramapo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.161274,41.094807,-74.161274,41.094807",
     "geom:latitude":41.094807,
     "geom:longitude":-74.161274,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N1BKpIKG2N92MNXA738ED_41.094807_-74.161274@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461292533,
     "wof:geomhash":"476047afab230abc068d21dc6674b964",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639326585
+        }
+    ],
     "wof:id":639326585,
-    "wof:lastmodified":1466692121,
+    "wof:lastmodified":1492042283,
     "wof:name":"H & S Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

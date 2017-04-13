@@ -2,9 +2,14 @@
   "id": 639118871,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Co Rd 513 Pittstown NJ 08867",
+    "addr:housenumber":"625",
+    "addr:postcode":"513;08867",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.006936,40.573254,-75.006936,40.573254",
     "geom:latitude":40.573254,
     "geom:longitude":-75.006936,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4om0tEKO9Uh9JwxPyiLEvX_40.573254_-75.006936@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287759,
     "wof:geomhash":"023f201d1b5a8b87e1cd996c7ee7031c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639118871
+        }
+    ],
     "wof:id":639118871,
-    "wof:lastmodified":1466676900,
+    "wof:lastmodified":1492057202,
     "wof:name":"Charles Mann General Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

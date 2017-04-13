@@ -2,9 +2,14 @@
   "id": 639598901,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Pleasant Ln Newfoundland NJ 07435",
+    "addr:housenumber":"32",
+    "addr:postcode":"07435",
+    "addr:street":"Pleasant Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.476689,41.015875,-74.476689,41.015875",
     "geom:latitude":41.015875,
     "geom:longitude":-74.476689,
@@ -27,7 +32,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UR6dBWhewnGuKyXbLP0x5_41.015875_-74.476689@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301695,
     "wof:geomhash":"be74fdeaad6e23dc1dfbc8d6604ce065",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527329,
+            "venue_id":639598901
+        }
+    ],
     "wof:id":639598901,
-    "wof:lastmodified":1466696940,
+    "wof:lastmodified":1492082036,
     "wof:name":"Roesler Inc",
     "wof:parent_id":420527329,
     "wof:placetype":"venue",

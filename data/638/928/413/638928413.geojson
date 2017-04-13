@@ -2,9 +2,14 @@
   "id": 638928413,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Greentree Rd Marlton NJ 08053",
+    "addr:housenumber":"300",
+    "addr:postcode":"08053",
+    "addr:street":"E Greentree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919393,39.916529,-74.919393,39.916529",
     "geom:latitude":39.916529,
     "geom:longitude":-74.919393,
@@ -29,7 +34,10 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IWhIN3r5KXFNAQseUfcc1_39.916529_-74.919393@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461283476,
     "wof:geomhash":"f13405cefb36fc07fcdcbbf2ac6c902c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638928413
+        }
+    ],
     "wof:id":638928413,
-    "wof:lastmodified":1466690767,
+    "wof:lastmodified":1492030762,
     "wof:name":"Ian Hanley",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

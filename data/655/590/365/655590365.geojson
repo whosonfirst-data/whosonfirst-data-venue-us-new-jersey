@@ -2,9 +2,14 @@
   "id": 655590365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1367 State Rte 35 Middletown NJ 07748",
+    "addr:housenumber":"1367",
+    "addr:postcode":"07748",
+    "addr:street":"State Rte 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.124556,40.402818,-74.124556,40.402818",
     "geom:latitude":40.402818,
     "geom:longitude":-74.124556,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85852425,
-        102085049
+        85824605,
+        102085049,
+        85852425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85824605,
+            "region_id":85688607,
+            "venue_id":655590365
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "neighbourhood_id":85852425,
             "region_id":85688607,
             "venue_id":655590365
         }
     ],
     "wof:id":655590365,
-    "wof:lastmodified":1466680666,
+    "wof:lastmodified":1492052227,
     "wof:name":"Art Nails",
-    "wof:parent_id":85852425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639558795,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Campus Dr Mount Holly NJ 08060",
+    "addr:housenumber":"500",
+    "addr:postcode":"08060",
+    "addr:street":"Campus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.730708,39.998148,-74.730708,39.998148",
     "geom:latitude":39.998148,
     "geom:longitude":-74.730708,
@@ -24,7 +29,10 @@
     "sg:postcode":"08060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hDJoIqTomuKDuxVC0upiF_39.998148_-74.730708@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461300088,
     "wof:geomhash":"b01d90ab9b12aab6940b4c4583b1b3b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526619,
+            "venue_id":639558795
+        }
+    ],
     "wof:id":639558795,
-    "wof:lastmodified":1466696059,
+    "wof:lastmodified":1492047604,
     "wof:name":"Vibra-Tech",
     "wof:parent_id":420526619,
     "wof:placetype":"venue",

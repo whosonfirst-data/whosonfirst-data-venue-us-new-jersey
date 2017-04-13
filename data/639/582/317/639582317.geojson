@@ -2,9 +2,14 @@
   "id": 639582317,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Mountain Ave Pompton Plains NJ 07444",
+    "addr:housenumber":"78",
+    "addr:postcode":"07444",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.30478,40.9768,-74.30478,40.9768",
     "geom:latitude":40.9768,
     "geom:longitude":-74.30478,
@@ -24,7 +29,13 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OVL6HiMpTVUEC3SMAvKUd_40.976800_-74.304780@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461300993,
     "wof:geomhash":"885e3c687e299ce8b1473d183937a650",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":639582317
+        }
+    ],
     "wof:id":639582317,
-    "wof:lastmodified":1466696474,
+    "wof:lastmodified":1492021836,
     "wof:name":"Performance Landscape Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

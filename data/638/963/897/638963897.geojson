@@ -2,9 +2,14 @@
   "id": 638963897,
   "type": "Feature",
   "properties": {
+    "addr:full":"7349 US Hwy 130 Pennsauken NJ 08110",
+    "addr:housenumber":"7349",
+    "addr:postcode":"08110",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.04281,39.971115,-75.04281,39.971115",
     "geom:latitude":39.971115,
     "geom:longitude":-75.04281,
@@ -27,7 +32,14 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76W4TAS5zCtFuvRthGlxmx_39.971115_-75.042810@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284323,
     "wof:geomhash":"1035b6a64acd99fa6845f52ab92bc39c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638963897
+        }
+    ],
     "wof:id":638963897,
-    "wof:lastmodified":1466691642,
+    "wof:lastmodified":1492052220,
     "wof:name":"Penn Queen Diner Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655596865,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Oneida Ave Dumont NJ 07628",
+    "addr:housenumber":"64",
+    "addr:postcode":"07628",
+    "addr:street":"Oneida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00765,40.944614,-74.00765,40.944614",
     "geom:latitude":40.944614,
     "geom:longitude":-74.00765,
@@ -28,7 +33,14 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1shgRLFN2JvjjbluMkq1Po_40.944614_-74.007650@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312877,
     "wof:geomhash":"5d181312dde7002b80cc0bace581c9a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655596865
+        }
+    ],
     "wof:id":655596865,
-    "wof:lastmodified":1466681006,
+    "wof:lastmodified":1492047695,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

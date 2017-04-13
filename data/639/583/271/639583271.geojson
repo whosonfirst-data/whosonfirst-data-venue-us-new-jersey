@@ -2,9 +2,14 @@
   "id": 639583271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Hampton Rd Pittstown NJ 08867",
+    "addr:housenumber":"2",
+    "addr:postcode":"08867",
+    "addr:street":"Hampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.985953,40.539434,-74.985953,40.539434",
     "geom:latitude":40.539434,
     "geom:longitude":-74.985953,
@@ -30,7 +35,13 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IuOijiLEsbXMhClQ65oC5_40.539434_-74.985953@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461301038,
     "wof:geomhash":"b1cf42182abb4709bd15a9f473ab4160",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":639583271
+        }
+    ],
     "wof:id":639583271,
-    "wof:lastmodified":1466696469,
+    "wof:lastmodified":1492025435,
     "wof:name":"Darla Forman Decorating Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655781505,
   "type": "Feature",
   "properties": {
+    "addr:full":"386 Tappan Rd Norwood NJ 07648",
+    "addr:housenumber":"386",
+    "addr:postcode":"07648",
+    "addr:street":"Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.958641,41.002359,-73.958641,41.002359",
     "geom:latitude":41.002359,
     "geom:longitude":-73.958641,
@@ -30,7 +35,14 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ct5T7gMVmqHNjr40wEG97_41.002359_-73.958641@1303262268"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461320613,
     "wof:geomhash":"9c0f4cfd79a9f94cca7dcf8b808ce6cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655781505
+        }
+    ],
     "wof:id":655781505,
-    "wof:lastmodified":1466686393,
+    "wof:lastmodified":1492022099,
     "wof:name":"Global Motor Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

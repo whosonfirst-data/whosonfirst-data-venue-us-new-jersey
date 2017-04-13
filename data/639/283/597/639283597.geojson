@@ -2,9 +2,14 @@
   "id": 639283597,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Park Ave Rutherford NJ 07070",
+    "addr:housenumber":"176",
+    "addr:postcode":"07070",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.107136,40.826204,-74.107136,40.826204",
     "geom:latitude":40.826204,
     "geom:longitude":-74.107136,
@@ -35,7 +40,10 @@
         85633793,
         85975923,
         102086773,
-        85688607
+        85688607,
+        85809517,
+        404477745,
+        85975889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +62,22 @@
             "neighbourhood_id":85828433,
             "region_id":85688607,
             "venue_id":639283597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477745,
+            "locality_id":85975889,
+            "neighbourhood_id":85809517,
+            "region_id":85688607,
+            "venue_id":639283597
         }
     ],
     "wof:id":639283597,
-    "wof:lastmodified":1466691019,
+    "wof:lastmodified":1492053171,
     "wof:name":"Rutherford Purchasing Dept",
-    "wof:parent_id":85828433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

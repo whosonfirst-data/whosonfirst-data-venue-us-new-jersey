@@ -2,9 +2,14 @@
   "id": 655439109,
   "type": "Feature",
   "properties": {
+    "addr:full":"263 Frohlin Dr Basking Ridge NJ 07920",
+    "addr:housenumber":"263",
+    "addr:postcode":"07920",
+    "addr:street":"Frohlin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.616374,40.639676,-74.616374,40.639676",
     "geom:latitude":40.639676,
     "geom:longitude":-74.616374,
@@ -29,7 +34,14 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WbddGBKW1rz8atwT9VYUi_40.639676_-74.616374@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461306256,
     "wof:geomhash":"4ec81274d37c2ef440802cf5c31d6c97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":655439109
+        }
+    ],
     "wof:id":655439109,
-    "wof:lastmodified":1466676518,
+    "wof:lastmodified":1492061064,
     "wof:name":"Cunico Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

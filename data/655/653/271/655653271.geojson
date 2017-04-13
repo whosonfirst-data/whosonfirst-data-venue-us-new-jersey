@@ -2,9 +2,14 @@
   "id": 655653271,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Quiet Ln Howell NJ 07731",
+    "addr:housenumber":"11",
+    "addr:postcode":"07731",
+    "addr:street":"Quiet Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150339,40.127339,-74.150339,40.127339",
     "geom:latitude":40.127339,
     "geom:longitude":-74.150339,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R8Z0c8UqNf0VQkTDm7ufs_40.127339_-74.150339@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461315308,
     "wof:geomhash":"6cb881b4a00f7f0f02ed288056f52a9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":655653271
+        }
+    ],
     "wof:id":655653271,
-    "wof:lastmodified":1466682861,
+    "wof:lastmodified":1492042991,
     "wof:name":"Aspen Contracting Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

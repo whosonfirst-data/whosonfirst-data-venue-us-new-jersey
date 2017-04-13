@@ -2,9 +2,14 @@
   "id": 655827137,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 S Crescent Blvd Pennsauken NJ 08109",
+    "addr:housenumber":"5600",
+    "addr:postcode":"08109",
+    "addr:street":"S Crescent Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.069588,39.94466,-75.069588,39.94466",
     "geom:latitude":39.94466,
     "geom:longitude":-75.069588,
@@ -36,7 +41,15 @@
     ],
     "sg:website":"http://www.tlcpweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2muYzsyJthD7Tl2TfI6NST_39.944660_-75.069588@1303262280"
@@ -44,9 +57,20 @@
     "wof:country":"US",
     "wof:created":1461322529,
     "wof:geomhash":"003241883f963247c149c6684e9b00bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655827137
+        }
+    ],
     "wof:id":655827137,
-    "wof:lastmodified":1466687581,
+    "wof:lastmodified":1492056539,
     "wof:name":"Temple Lutheran Church",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655578989,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Frost Ave Phillipsburg NJ 08865",
+    "addr:housenumber":"235",
+    "addr:postcode":"08865",
+    "addr:street":"Frost Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.179774,40.699895,-75.179774,40.699895",
     "geom:latitude":40.699895,
     "geom:longitude":-75.179774,
@@ -27,7 +32,14 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZVvn6k1w5lWBiWyEZzmr_40.699895_-75.179774@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312118,
     "wof:geomhash":"cf5fac7aae7a08b8a4a0977e959e0ca1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655578989
+        }
+    ],
     "wof:id":655578989,
-    "wof:lastmodified":1466680532,
+    "wof:lastmodified":1492041836,
     "wof:name":"Adopt-Fit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

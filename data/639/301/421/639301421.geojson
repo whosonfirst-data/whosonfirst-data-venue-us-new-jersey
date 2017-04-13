@@ -2,9 +2,14 @@
   "id": 639301421,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 W Veterans Hwy Jackson NJ 08527",
+    "addr:housenumber":"335",
+    "addr:postcode":"08527",
+    "addr:street":"W Veterans Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.372084,40.111022,-74.372084,40.111022",
     "geom:latitude":40.111022,
     "geom:longitude":-74.372084,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527441,
+        85688607,
+        85846731,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h1t4W8gIxD1jl2uYvynIY_40.111022_-74.372084@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461291997,
     "wof:geomhash":"50204a89daf09159d7f38bb8f8b0c60d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527441,
+            "venue_id":639301421
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85846731,
+            "region_id":85688607,
+            "venue_id":639301421
+        }
+    ],
     "wof:id":639301421,
-    "wof:lastmodified":1466691359,
+    "wof:lastmodified":1492051142,
     "wof:name":"Cruz Construction",
-    "wof:parent_id":420527441,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

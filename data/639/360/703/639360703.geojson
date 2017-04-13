@@ -2,9 +2,14 @@
   "id": 639360703,
   "type": "Feature",
   "properties": {
+    "addr:full":"394 S 6th St Newark NJ 07103",
+    "addr:housenumber":"394",
+    "addr:postcode":"07103",
+    "addr:street":"S 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.199469,40.733166,-74.199469,40.733166",
     "geom:latitude":40.733166,
     "geom:longitude":-74.199469,
@@ -29,7 +34,14 @@
         "lightning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BiiPRY3BnEgRQt4byWaBC_40.733166_-74.199469@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461293247,
     "wof:geomhash":"f0b60f10d13d91ae898317d159d75d80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639360703
+        }
+    ],
     "wof:id":639360703,
-    "wof:lastmodified":1466692521,
+    "wof:lastmodified":1492061010,
     "wof:name":"A & A Installations Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

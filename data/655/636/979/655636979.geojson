@@ -2,9 +2,14 @@
   "id": 655636979,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Perryville Rd Pittstown NJ 08867",
+    "addr:housenumber":"97",
+    "addr:postcode":"08867",
+    "addr:street":"Perryville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.958454,40.618584,-74.958454,40.618584",
     "geom:latitude":40.618584,
     "geom:longitude":-74.958454,
@@ -24,7 +29,12 @@
     "sg:postcode":"08867",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85822475,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GdrtrXpxqaVJefe0wAnG0_40.618584_-74.958454@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461314645,
     "wof:geomhash":"9e4fe477779f892eac5ecd149976ede8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85822475,
+            "region_id":85688607,
+            "venue_id":655636979
+        }
+    ],
     "wof:id":655636979,
-    "wof:lastmodified":1466682461,
+    "wof:lastmodified":1492048422,
     "wof:name":"Maintenance Spectrum",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

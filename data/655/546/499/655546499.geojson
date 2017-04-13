@@ -2,9 +2,14 @@
   "id": 655546499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2815 John F Kennedy Blvd Jersey City NJ 07306",
+    "addr:housenumber":"2815",
+    "addr:postcode":"07306",
+    "addr:street":"John F Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067819,40.731365,-74.067819,40.731365",
     "geom:latitude":40.731365,
     "geom:longitude":-74.067819,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805809,
+        85878425,
         102191575,
         404478139,
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        85805809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102080719,
             "localadmin_id":404478139,
             "locality_id":85975295,
+            "neighbourhood_id":85878425,
+            "region_id":85688607,
+            "venue_id":655546499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
             "neighbourhood_id":85805809,
             "region_id":85688607,
             "venue_id":655546499
         }
     ],
     "wof:id":655546499,
-    "wof:lastmodified":1466679411,
+    "wof:lastmodified":1492023503,
     "wof:name":"Extreme",
-    "wof:parent_id":85805809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639594119,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Cliffside Ter Sussex NJ 07461",
+    "addr:housenumber":"12",
+    "addr:postcode":"07461",
+    "addr:street":"Cliffside Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.513437,41.231166,-74.513437,41.231166",
     "geom:latitude":41.231166,
     "geom:longitude":-74.513437,
@@ -24,7 +29,13 @@
     "sg:postcode":"07461",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478483,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UIH0qdqcUKyKpIJOGm0sa_41.231166_-74.513437@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461301520,
     "wof:geomhash":"5917ab96f7b16861d5b4c010f2fa2453",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478483,
+            "region_id":85688607,
+            "venue_id":639594119
+        }
+    ],
     "wof:id":639594119,
-    "wof:lastmodified":1466696736,
+    "wof:lastmodified":1492048026,
     "wof:name":"Mohr Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

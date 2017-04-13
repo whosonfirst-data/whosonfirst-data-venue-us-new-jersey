@@ -2,9 +2,14 @@
   "id": 655807775,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Amherst Dr Burlington NJ 08016",
+    "addr:housenumber":"34",
+    "addr:postcode":"08016",
+    "addr:street":"Amherst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.866257,40.044121,-74.866257,40.044121",
     "geom:latitude":40.044121,
     "geom:longitude":-74.866257,
@@ -28,7 +33,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w2HEyrhaaRkD0oeOkYQNl_40.044121_-74.866257@1303262275"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321692,
     "wof:geomhash":"e1806f53f500bc04ea108b2a6f075dba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655807775
+        }
+    ],
     "wof:id":655807775,
-    "wof:lastmodified":1466687228,
+    "wof:lastmodified":1492053425,
     "wof:name":"Young Hearts Child Care Center",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

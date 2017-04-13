@@ -2,9 +2,14 @@
   "id": 655792131,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 Morris Ave Summit NJ 07901",
+    "addr:housenumber":"519",
+    "addr:postcode":"07901",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.374001,40.726398,-74.374001,40.726398",
     "geom:latitude":40.726398,
     "geom:longitude":-74.374001,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R1Kizrna5Mem4Pgv8oIvz_40.726398_-74.374001@1303262271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461321059,
     "wof:geomhash":"01be07022e5fa70b2d15cfdd3cf72ba1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655792131
+        }
+    ],
     "wof:id":655792131,
-    "wof:lastmodified":1466686587,
+    "wof:lastmodified":1492052137,
     "wof:name":"Second Hand the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

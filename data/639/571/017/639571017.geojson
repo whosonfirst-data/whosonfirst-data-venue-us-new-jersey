@@ -2,9 +2,14 @@
   "id": 639571017,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Oriole Way Medford NJ 08055",
+    "addr:housenumber":"34",
+    "addr:postcode":"08055",
+    "addr:street":"Oriole Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765242,39.858674,-74.765242,39.858674",
     "geom:latitude":39.858674,
     "geom:longitude":-74.765242,
@@ -27,7 +32,16 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585,
+        85806199,
+        102191575,
+        404477859,
+        85975535,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SEhtZLQHtTVnTWyB33lOr_39.858674_-74.765242@1294171694"
@@ -35,11 +49,27 @@
     "wof:country":"US",
     "wof:created":1461300560,
     "wof:geomhash":"02bed4731037e4492c7a8a10290a42f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":639571017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477859,
+            "locality_id":85975535,
+            "neighbourhood_id":85806199,
+            "region_id":85688607,
+            "venue_id":639571017
+        }
+    ],
     "wof:id":639571017,
-    "wof:lastmodified":1466696313,
+    "wof:lastmodified":1492049537,
     "wof:name":"Wmh Construction LLC",
-    "wof:parent_id":420526585,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

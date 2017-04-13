@@ -2,9 +2,14 @@
   "id": 655530931,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Sandburg Dr Morganville NJ 07751",
+    "addr:housenumber":"11",
+    "addr:postcode":"07751",
+    "addr:street":"Sandburg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.310535,40.346873,-74.310535,40.346873",
     "geom:latitude":40.346873,
     "geom:longitude":-74.310535,
@@ -28,7 +33,14 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63RIcddtVFCR9uVTIrvt3t_40.346873_-74.310535@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310084,
     "wof:geomhash":"fec39b06e7df219baad8e95d45ce016b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":655530931
+        }
+    ],
     "wof:id":655530931,
-    "wof:lastmodified":1466679130,
+    "wof:lastmodified":1492045173,
     "wof:name":"Romancing The Wind Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655425887,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Morgan Rd Flemington NJ 08822",
+    "addr:housenumber":"14",
+    "addr:postcode":"08822",
+    "addr:street":"Morgan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.789997,40.49299,-74.789997,40.49299",
     "geom:latitude":40.49299,
     "geom:longitude":-74.789997,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bt8X2DwXhTdHpFOf0oFPk_40.492990_-74.789997@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461305703,
     "wof:geomhash":"6c5e05fbea980c63cea4a063c74a5b3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":655425887
+        }
+    ],
     "wof:id":655425887,
-    "wof:lastmodified":1466676224,
+    "wof:lastmodified":1492029474,
     "wof:name":"Kmb Investments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

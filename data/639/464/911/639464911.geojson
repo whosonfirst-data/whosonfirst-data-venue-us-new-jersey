@@ -2,9 +2,14 @@
   "id": 639464911,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 State Rte 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"440",
+    "addr:postcode":"07444",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285483,40.96789,-74.285483,40.96789",
     "geom:latitude":40.96789,
     "geom:longitude":-74.285483,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sEmvKqyLcgHxxZaJZXPZz_40.967890_-74.285483@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461295996,
     "wof:geomhash":"dab60ba63fdf1fc48fd446f7a8193a8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639464911
+        }
+    ],
     "wof:id":639464911,
-    "wof:lastmodified":1466693855,
+    "wof:lastmodified":1492076673,
     "wof:name":"R & B Marine Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

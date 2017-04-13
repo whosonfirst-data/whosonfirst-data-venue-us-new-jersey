@@ -2,9 +2,14 @@
   "id": 639611159,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 Atlantic City Blvd Bayville NJ 08721",
+    "addr:housenumber":"950",
+    "addr:postcode":"08721",
+    "addr:street":"Atlantic City Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.165274,39.880722,-74.165274,39.880722",
     "geom:latitude":39.880722,
     "geom:longitude":-74.165274,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85809865,
-        102081485
+        85841985,
+        102081485,
+        85809865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102081485,
+            "neighbourhood_id":85841985,
+            "region_id":85688607,
+            "venue_id":639611159
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
             "neighbourhood_id":85809865,
             "region_id":85688607,
             "venue_id":639611159
         }
     ],
     "wof:id":639611159,
-    "wof:lastmodified":1466697109,
+    "wof:lastmodified":1492047869,
     "wof:name":"Outer Edge",
-    "wof:parent_id":85809865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

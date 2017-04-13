@@ -2,9 +2,14 @@
   "id": 655591379,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 S Prospect Ave Bergenfield NJ 07621",
+    "addr:housenumber":"6",
+    "addr:postcode":"07621",
+    "addr:street":"S Prospect Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.004964,40.927495,-74.004964,40.927495",
     "geom:latitude":40.927495,
     "geom:longitude":-74.004964,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rPR9kDSLlSTGvbjqeZtf1_40.927495_-74.004964@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312649,
     "wof:geomhash":"cd8c08e4b3835c834036901348e5d354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655591379
+        }
+    ],
     "wof:id":655591379,
-    "wof:lastmodified":1466680671,
+    "wof:lastmodified":1492053873,
     "wof:name":"Renovations By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

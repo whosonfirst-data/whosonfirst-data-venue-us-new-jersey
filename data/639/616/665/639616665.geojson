@@ -2,9 +2,14 @@
   "id": 639616665,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Handy St New Brunswick NJ 08901",
+    "addr:housenumber":"314",
+    "addr:postcode":"08901",
+    "addr:street":"Handy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.451212,40.489416,-74.451212,40.489416",
     "geom:latitude":40.489416,
     "geom:longitude":-74.451212,
@@ -35,7 +40,8 @@
         85633793,
         85975739,
         102087417,
-        85688607
+        85688607,
+        85845173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,19 @@
             "neighbourhood_id":85868677,
             "region_id":85688607,
             "venue_id":639616665
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85845173,
+            "region_id":85688607,
+            "venue_id":639616665
         }
     ],
     "wof:id":639616665,
-    "wof:lastmodified":1466697265,
+    "wof:lastmodified":1492051080,
     "wof:name":"V & I Auto Sales",
-    "wof:parent_id":85868677,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

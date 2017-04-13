@@ -2,9 +2,14 @@
   "id": 655689477,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Colony Ave Park Ridge NJ 07656",
+    "addr:housenumber":"176",
+    "addr:postcode":"07656",
+    "addr:street":"Colony Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.052093,41.044609,-74.052093,41.044609",
     "geom:latitude":41.044609,
     "geom:longitude":-74.052093,
@@ -29,7 +34,14 @@
         "pub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477711,
+        85633793,
+        85975949,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mew1VIniS5ae6eTZxszN5_41.044609_-74.052093@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316844,
     "wof:geomhash":"9b18a8c7ef836dfe8b9b035a58bb11d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477711,
+            "locality_id":85975949,
+            "region_id":85688607,
+            "venue_id":655689477
+        }
+    ],
     "wof:id":655689477,
-    "wof:lastmodified":1466684023,
+    "wof:lastmodified":1492042749,
     "wof:name":"Peppercorn's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

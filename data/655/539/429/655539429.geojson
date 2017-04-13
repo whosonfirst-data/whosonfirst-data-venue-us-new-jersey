@@ -2,9 +2,14 @@
   "id": 655539429,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Union Hill Rd Englishtown NJ 07726",
+    "addr:housenumber":"518",
+    "addr:postcode":"07726",
+    "addr:street":"Union Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.299482,40.343003,-74.299482,40.343003",
     "geom:latitude":40.343003,
     "geom:longitude":-74.299482,
@@ -29,7 +34,14 @@
         "fastener"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0umipZjkQq8ni8YNWipL7h_40.343003_-74.299482@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461310405,
     "wof:geomhash":"e6ccad9217c6d86007f9a6c98df85cd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":655539429
+        }
+    ],
     "wof:id":655539429,
-    "wof:lastmodified":1466679258,
+    "wof:lastmodified":1492053671,
     "wof:name":"Prompt Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

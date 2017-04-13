@@ -2,9 +2,14 @@
   "id": 655432709,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Main St Hackensack NJ 07601",
+    "addr:housenumber":"485",
+    "addr:postcode":"07601",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.039366,40.893003,-74.039366,40.893003",
     "geom:latitude":40.893003,
     "geom:longitude":-74.039366,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85892523,
+        85892513,
         102191575,
         404477545,
         85633793,
         85975997,
         102086773,
-        85688607
+        85688607,
+        85892523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102086773,
             "localadmin_id":404477545,
             "locality_id":85975997,
+            "neighbourhood_id":85892513,
+            "region_id":85688607,
+            "venue_id":655432709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477545,
+            "locality_id":85975997,
             "neighbourhood_id":85892523,
             "region_id":85688607,
             "venue_id":655432709
         }
     ],
     "wof:id":655432709,
-    "wof:lastmodified":1466676438,
+    "wof:lastmodified":1492051607,
     "wof:name":"Greater Comm Title",
-    "wof:parent_id":85892523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

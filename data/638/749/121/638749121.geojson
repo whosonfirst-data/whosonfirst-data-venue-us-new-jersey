@@ -2,9 +2,14 @@
   "id": 638749121,
   "type": "Feature",
   "properties": {
+    "addr:full":"753 Co Rd 524 Allentown NJ 08501",
+    "addr:housenumber":"753",
+    "addr:postcode":"08501",
+    "addr:street":"Co Rd 524",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.51955,40.181442,-74.51955,40.181442",
     "geom:latitude":40.181442,
     "geom:longitude":-74.51955,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85859167,
-        102085049
+        102085049,
+        420527281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,17 @@
             "neighbourhood_id":85859167,
             "region_id":85688607,
             "venue_id":638749121
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527281,
+            "venue_id":638749121
         }
     ],
     "wof:id":638749121,
-    "wof:lastmodified":1466677961,
+    "wof:lastmodified":1492062484,
     "wof:name":"Fix It Now Inc",
-    "wof:parent_id":85859167,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

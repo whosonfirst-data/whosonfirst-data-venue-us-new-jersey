@@ -2,9 +2,14 @@
   "id": 639531129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 Sewall Ave Neptune NJ 07753",
+    "addr:housenumber":"1607",
+    "addr:postcode":"07753",
+    "addr:street":"Sewall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.027322,40.222403,-74.027322,40.222403",
     "geom:latitude":40.222403,
     "geom:longitude":-74.027322,
@@ -28,7 +33,16 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892323,
+        102191575,
+        404478323,
+        85633793,
+        85975377,
+        102085049,
+        85688607,
+        420527271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J1O51VqgNQLg8Phvk6j1p_40.222403_-74.027322@1294171694"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1461298880,
     "wof:geomhash":"c238fe8bb8377902fa12e0353925a431",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478323,
+            "locality_id":85975377,
+            "neighbourhood_id":85892323,
+            "region_id":85688607,
+            "venue_id":639531129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478323,
+            "locality_id":85975377,
+            "neighbourhood_id":420527271,
+            "region_id":85688607,
+            "venue_id":639531129
+        }
+    ],
     "wof:id":639531129,
-    "wof:lastmodified":1466695328,
+    "wof:lastmodified":1492053494,
     "wof:name":"Robinson Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

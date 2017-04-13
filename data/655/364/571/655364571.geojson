@@ -2,9 +2,14 @@
   "id": 655364571,
   "type": "Feature",
   "properties": {
+    "addr:full":"342 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"342",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.511123,40.374059,-74.511123,40.374059",
     "geom:latitude":40.374059,
     "geom:longitude":-74.511123,
@@ -28,7 +33,10 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yd067YavYylqw68u2Uw3E_40.374059_-74.511123@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303207,
     "wof:geomhash":"ca284a7530df437f217005d3fe9069ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655364571
+        }
+    ],
     "wof:id":655364571,
-    "wof:lastmodified":1466674551,
+    "wof:lastmodified":1492029459,
     "wof:name":"Bruman Arms Inc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

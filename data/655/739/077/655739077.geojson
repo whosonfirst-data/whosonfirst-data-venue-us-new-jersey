@@ -2,9 +2,14 @@
   "id": 655739077,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"120",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306396,40.709801,-74.306396,40.709801",
     "geom:latitude":40.709801,
     "geom:longitude":-74.306396,
@@ -24,7 +29,10 @@
     "sg:postcode":"07081",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ce5OZcw1JClBbmFaGisdQ_40.709801_-74.306396@1303262258"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461318884,
     "wof:geomhash":"5865e1157bb798da8d6a18e4a0588070",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655739077
+        }
+    ],
     "wof:id":655739077,
-    "wof:lastmodified":1466685228,
+    "wof:lastmodified":1492050031,
     "wof:name":"Esposito James V Architect",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

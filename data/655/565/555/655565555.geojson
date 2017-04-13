@@ -2,9 +2,14 @@
   "id": 655565555,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Coolidge Ave Toms River NJ 08753",
+    "addr:housenumber":"606",
+    "addr:postcode":"08753",
+    "addr:street":"Coolidge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138795,39.958408,-74.138795,39.958408",
     "geom:latitude":39.958408,
     "geom:longitude":-74.138795,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527463,
+        420527455,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        420527463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":420527455,
+            "region_id":85688607,
+            "venue_id":655565555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":420527463,
             "region_id":85688607,
             "venue_id":655565555
         }
     ],
     "wof:id":655565555,
-    "wof:lastmodified":1466679897,
+    "wof:lastmodified":1492028406,
     "wof:name":"A Shore Sign & Banner",
-    "wof:parent_id":420527463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

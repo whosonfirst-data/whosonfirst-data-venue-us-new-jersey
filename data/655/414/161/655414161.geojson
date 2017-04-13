@@ -2,9 +2,14 @@
   "id": 655414161,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Monmouth Ave Pine Beach NJ 08741",
+    "addr:housenumber":"500",
+    "addr:postcode":"08741",
+    "addr:street":"Monmouth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170631,39.932564,-74.170631,39.932564",
     "geom:latitude":39.932564,
     "geom:longitude":-74.170631,
@@ -28,7 +33,11 @@
         85688607,
         85633793,
         85844713,
-        102081485
+        102081485,
+        85812767,
+        102191575,
+        404477831,
+        85975781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +53,22 @@
             "neighbourhood_id":85844713,
             "region_id":85688607,
             "venue_id":655414161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477831,
+            "locality_id":85975781,
+            "neighbourhood_id":85812767,
+            "region_id":85688607,
+            "venue_id":655414161
         }
     ],
     "wof:id":655414161,
-    "wof:lastmodified":1466675767,
+    "wof:lastmodified":1492056155,
     "wof:name":"United Rcrtn Equiptment",
-    "wof:parent_id":85844713,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

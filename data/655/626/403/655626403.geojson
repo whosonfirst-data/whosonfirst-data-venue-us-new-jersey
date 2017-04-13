@@ -2,9 +2,14 @@
   "id": 655626403,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Jeffery Cir Dayton NJ 08810",
+    "addr:housenumber":"55",
+    "addr:postcode":"08810",
+    "addr:street":"Jeffery Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.516516,40.384409,-74.516516,40.384409",
     "geom:latitude":40.384409,
     "geom:longitude":-74.516516,
@@ -28,7 +33,10 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IiFRvjQTjDCg8zBEqZhY8_40.384409_-74.516516@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314173,
     "wof:geomhash":"104f2109f883eeb04c2862dd56fa0da3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655626403
+        }
+    ],
     "wof:id":655626403,
-    "wof:lastmodified":1466681913,
+    "wof:lastmodified":1492071370,
     "wof:name":"Cyncorp",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

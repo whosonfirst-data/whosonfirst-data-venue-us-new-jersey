@@ -2,9 +2,14 @@
   "id": 639558665,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Firenze St Northvale NJ 07647",
+    "addr:housenumber":"188",
+    "addr:postcode":"07647",
+    "addr:street":"Firenze St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948912,41.00465,-73.948912,41.00465",
     "geom:latitude":41.00465,
     "geom:longitude":-73.948912,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xF97PDCiD4kAOF0pLPade_41.004650_-73.948912@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300083,
     "wof:geomhash":"1cc64e09ab02bc84a3a169dc0073028a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639558665
+        }
+    ],
     "wof:id":639558665,
-    "wof:lastmodified":1466696034,
+    "wof:lastmodified":1492081947,
     "wof:name":"D'Ambra Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

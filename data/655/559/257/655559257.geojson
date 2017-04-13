@@ -2,9 +2,14 @@
   "id": 655559257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1093 Ocean Ave Lakewood NJ 08701",
+    "addr:housenumber":"1093",
+    "addr:postcode":"08701",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1684,40.082615,-74.1684,40.082615",
     "geom:latitude":40.082615,
     "geom:longitude":-74.1684,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fwcfxVEFrHJmdVq6Z19Ix_40.082615_-74.168400@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311236,
     "wof:geomhash":"48cf24b6ba6d6ed18c6cf2d8cca20754",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655559257
+        }
+    ],
     "wof:id":655559257,
-    "wof:lastmodified":1466679740,
+    "wof:lastmodified":1492045055,
     "wof:name":"Country's Auto Repair",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655489721,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Colony Ct Trenton NJ 08619",
+    "addr:housenumber":"1",
+    "addr:postcode":"08619",
+    "addr:street":"Colony Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.672198,40.266244,-74.672198,40.266244",
     "geom:latitude":40.266244,
     "geom:longitude":-74.672198,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FlSr6mdbYlmnxILNCUsYT_40.266244_-74.672198@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308404,
     "wof:geomhash":"ef8fb4fa6fff8399af6496cdebf1887a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655489721
+        }
+    ],
     "wof:id":655489721,
-    "wof:lastmodified":1466678006,
+    "wof:lastmodified":1492047947,
     "wof:name":"Colony Crossing",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

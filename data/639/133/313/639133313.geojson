@@ -2,9 +2,14 @@
   "id": 639133313,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Godwin Ave Midland Park NJ 07432",
+    "addr:housenumber":"6",
+    "addr:postcode":"07432",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135607,40.98351,-74.135607,40.98351",
     "geom:latitude":40.98351,
     "geom:longitude":-74.135607,
@@ -28,7 +33,14 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pLjfM6K6jX9BXBhRNWh0a_40.983510_-74.135607@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288145,
     "wof:geomhash":"b34e0c020c931b6dd69f1dafba48eac6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":639133313
+        }
+    ],
     "wof:id":639133313,
-    "wof:lastmodified":1466678796,
+    "wof:lastmodified":1492054523,
     "wof:name":"Meaningful Movements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

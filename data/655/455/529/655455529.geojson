@@ -2,9 +2,14 @@
   "id": 655455529,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Portland Rd Atlantic Hghlnds NJ 07716",
+    "addr:housenumber":"106",
+    "addr:postcode":"07716",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.048399,40.405747,-74.048399,40.405747",
     "geom:latitude":40.405747,
     "geom:longitude":-74.048399,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MfnYyVuU0J1lgrBV3pmdu_40.405747_-74.048399@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306938,
     "wof:geomhash":"68762bf81328267710fa73d96bac5751",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655455529
+        }
+    ],
     "wof:id":655455529,
-    "wof:lastmodified":1466676913,
+    "wof:lastmodified":1492057041,
     "wof:name":"Steve Vogel Custom Machine Shp",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638626823,
   "type": "Feature",
   "properties": {
+    "addr:full":"4259 US Hwy 130 Beverly NJ 08010",
+    "addr:housenumber":"4259",
+    "addr:postcode":"08010",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.908952,40.04322,-74.908952,40.04322",
     "geom:latitude":40.04322,
     "geom:longitude":-74.908952,
@@ -27,7 +32,10 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w8vJcHmcEeC5VX46FAi2C_40.043220_-74.908952@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275125,
     "wof:geomhash":"6015a765796d9000b439afa53f07d6ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":638626823
+        }
+    ],
     "wof:id":638626823,
-    "wof:lastmodified":1466673139,
+    "wof:lastmodified":1492049198,
     "wof:name":"Lancer Realty",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

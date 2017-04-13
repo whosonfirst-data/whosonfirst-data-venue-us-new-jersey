@@ -2,9 +2,14 @@
   "id": 655569933,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Colonial Dr Toms River NJ 08753",
+    "addr:housenumber":"305",
+    "addr:postcode":"08753",
+    "addr:street":"Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.206218,39.981263,-74.206218,39.981263",
     "geom:latitude":39.981263,
     "geom:longitude":-74.206218,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527467,
+        85844849,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        420527467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":85844849,
+            "region_id":85688607,
+            "venue_id":655569933
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":420527467,
             "region_id":85688607,
             "venue_id":655569933
         }
     ],
     "wof:id":655569933,
-    "wof:lastmodified":1466680194,
+    "wof:lastmodified":1492045141,
     "wof:name":"Optisoft Inc",
-    "wof:parent_id":420527467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

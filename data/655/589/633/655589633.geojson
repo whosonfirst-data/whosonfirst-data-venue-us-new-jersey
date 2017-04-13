@@ -2,9 +2,14 @@
   "id": 655589633,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 Phelps Ave Bergenfield NJ 07621",
+    "addr:housenumber":"302",
+    "addr:postcode":"07621",
+    "addr:street":"Phelps Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.980081,40.934366,-73.980081,40.934366",
     "geom:latitude":40.934366,
     "geom:longitude":-73.980081,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tXA4kC9D8xK4x4f9ajMix_40.934366_-73.980081@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312573,
     "wof:geomhash":"5e19e0db7a01493eba9f4da4f05efbb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655589633
+        }
+    ],
     "wof:id":655589633,
-    "wof:lastmodified":1466680753,
+    "wof:lastmodified":1492066279,
     "wof:name":"Mikes Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655806461,
   "type": "Feature",
   "properties": {
+    "addr:full":"4492 Route 130 S Burlington NJ 08016",
+    "addr:housenumber":"4492",
+    "addr:postcode":"08016",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888149,40.056602,-74.888149,40.056602",
     "geom:latitude":40.056602,
     "geom:longitude":-74.888149,
@@ -41,7 +46,10 @@
     ],
     "sg:website":"http://www.harrisfencecorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3muOt3IQCvxYnL1lXxmtNS_40.056602_-74.888149@1303262274"
@@ -49,9 +57,15 @@
     "wof:country":"US",
     "wof:created":1461321625,
     "wof:geomhash":"16d893de9af1521d4a00690c8d27305d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655806461
+        }
+    ],
     "wof:id":655806461,
-    "wof:lastmodified":1466687139,
+    "wof:lastmodified":1492065259,
     "wof:name":"Harris Fence Corp",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

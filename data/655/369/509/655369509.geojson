@@ -2,9 +2,14 @@
   "id": 655369509,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 State Rte 88 Brick NJ 08724",
+    "addr:housenumber":"2114",
+    "addr:postcode":"08724",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.103656,40.076077,-74.103656,40.076077",
     "geom:latitude":40.076077,
     "geom:longitude":-74.103656,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85829965,
+        102081485,
         420527459,
         102191575,
         404477789,
-        85633793,
-        85975769,
-        102081485,
-        85688607
+        85975769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +47,13 @@
     "wof:created":1461303401,
     "wof:geomhash":"9047f7a640573cf25d3af7d3c0e2ff99",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85829965,
+            "region_id":85688607,
+            "venue_id":655369509
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":655369509,
-    "wof:lastmodified":1466674752,
+    "wof:lastmodified":1492067537,
     "wof:name":"Subway Sandwiches & Salads",
-    "wof:parent_id":420527459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

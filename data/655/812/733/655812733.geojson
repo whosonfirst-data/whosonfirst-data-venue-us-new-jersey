@@ -2,9 +2,14 @@
   "id": 655812733,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Sidney Ln Willingboro NJ 08046",
+    "addr:housenumber":"12",
+    "addr:postcode":"08046",
+    "addr:street":"Sidney Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.898912,40.046769,-74.898912,40.046769",
     "geom:latitude":40.046769,
     "geom:longitude":-74.898912,
@@ -32,7 +37,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MQFNZhG5YpI3uw423ZeLz_40.046769_-74.898912@1303262276"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461321928,
     "wof:geomhash":"ab5bf8aa22c3d0abec59f610b0f06b27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655812733
+        }
+    ],
     "wof:id":655812733,
-    "wof:lastmodified":1466687256,
+    "wof:lastmodified":1492049202,
     "wof:name":"Daniels Jeffery DVM",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655639747,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Main St South Bound Brook NJ 08880",
+    "addr:housenumber":"50",
+    "addr:postcode":"08880",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526537,40.556236,-74.526537,40.556236",
     "geom:latitude":40.556236,
     "geom:longitude":-74.526537,
@@ -24,7 +29,14 @@
     "sg:postcode":"08880",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_391ixhFzZKVwEAKuT9kWU4_40.556236_-74.526537@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314752,
     "wof:geomhash":"03ce352c0d69e26adcdc04773025b414",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":655639747
+        }
+    ],
     "wof:id":655639747,
-    "wof:lastmodified":1466682565,
+    "wof:lastmodified":1492068938,
     "wof:name":"Krausers Family Food & Lq Str",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639496351,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Merrill Dr Mahwah NJ 07430",
+    "addr:housenumber":"31",
+    "addr:postcode":"07430",
+    "addr:street":"Merrill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175849,41.034665,-74.175849,41.034665",
     "geom:latitude":41.034665,
     "geom:longitude":-74.175849,
@@ -28,7 +33,9 @@
         85688607,
         85633793,
         85892569,
-        102086773
+        102086773,
+        85975945,
+        85818913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +51,20 @@
             "neighbourhood_id":85892569,
             "region_id":85688607,
             "venue_id":639496351
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "locality_id":85975945,
+            "neighbourhood_id":85818913,
+            "region_id":85688607,
+            "venue_id":639496351
         }
     ],
     "wof:id":639496351,
-    "wof:lastmodified":1466694616,
+    "wof:lastmodified":1492042345,
     "wof:name":"Bowdoin Group Inc",
-    "wof:parent_id":85892569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

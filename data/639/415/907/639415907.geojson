@@ -2,9 +2,14 @@
   "id": 639415907,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Nugentown Rd Little Egg Hbr NJ 08087",
+    "addr:housenumber":"565",
+    "addr:postcode":"08087",
+    "addr:street":"Nugentown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.36364,39.613261,-74.36364,39.613261",
     "geom:latitude":39.613261,
     "geom:longitude":-74.36364,
@@ -30,8 +35,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85856529,
-        102081485
+        85975783,
+        102081485,
+        85847469,
+        85856529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +51,23 @@
         {
             "country_id":85633793,
             "county_id":102081485,
+            "locality_id":85975783,
+            "neighbourhood_id":85847469,
+            "region_id":85688607,
+            "venue_id":639415907
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
             "neighbourhood_id":85856529,
             "region_id":85688607,
             "venue_id":639415907
         }
     ],
     "wof:id":639415907,
-    "wof:lastmodified":1466693216,
+    "wof:lastmodified":1492071806,
     "wof:name":"Ocean County Vocational",
-    "wof:parent_id":85856529,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

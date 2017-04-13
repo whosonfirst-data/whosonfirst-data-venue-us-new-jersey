@@ -2,9 +2,14 @@
   "id": 655764721,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 State Highway 23 North S Pompton Plains NJ 07444",
+    "addr:housenumber":"421",
+    "addr:postcode":"07444",
+    "addr:street":"State Highway 23 North S Pompton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.284691,40.964723,-74.284691,40.964723",
     "geom:latitude":40.964723,
     "geom:longitude":-74.284691,
@@ -27,7 +32,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LFomwvnYfHmCAbiUeS9x8_40.964723_-74.284691@1303262264"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461319839,
     "wof:geomhash":"d9829b8eec5e366354680ecb8fa6201e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764721
+        }
+    ],
     "wof:id":655764721,
-    "wof:lastmodified":1466686008,
+    "wof:lastmodified":1492058418,
     "wof:name":"Premier Car Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

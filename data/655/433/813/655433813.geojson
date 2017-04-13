@@ -2,9 +2,14 @@
   "id": 655433813,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Pennsylvania Ave Kearny NJ 07032",
+    "addr:housenumber":"125",
+    "addr:postcode":"07032",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.107765,40.739637,-74.107765,40.739637",
     "geom:latitude":40.739637,
     "geom:longitude":-74.107765,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.topjobpersonnel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11pPw3LRdPVcdvNPjKy3gS_40.739637_-74.107765@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306050,
     "wof:geomhash":"e955f34edef1a2191edc6ba702d3d6db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655433813
+        }
+    ],
     "wof:id":655433813,
-    "wof:lastmodified":1466676462,
+    "wof:lastmodified":1492055621,
     "wof:name":"Top Job Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

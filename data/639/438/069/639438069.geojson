@@ -2,9 +2,14 @@
   "id": 639438069,
   "type": "Feature",
   "properties": {
+    "addr:full":"238 W Delaware Ave Pennington NJ 08534",
+    "addr:housenumber":"238",
+    "addr:postcode":"08534",
+    "addr:street":"W Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.799718,40.327106,-74.799718,40.327106",
     "geom:latitude":40.327106,
     "geom:longitude":-74.799718,
@@ -27,7 +32,14 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44L7lSHWmE0Pg6WMsB2qzi_40.327106_-74.799718@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295068,
     "wof:geomhash":"58f3efa8364e3416ace31f665a1fc752",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":639438069
+        }
+    ],
     "wof:id":639438069,
-    "wof:lastmodified":1466693392,
+    "wof:lastmodified":1492057373,
     "wof:name":"Princeton School-Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655813499,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Sunset Rd Willingboro NJ 08046",
+    "addr:housenumber":"217",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.886299,40.048302,-74.886299,40.048302",
     "geom:latitude":40.048302,
     "geom:longitude":-74.886299,
@@ -34,7 +39,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U02h995m6aCt0HqBLOn0U_40.048302_-74.886299@1303262276"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461321971,
     "wof:geomhash":"ea3151ec70370caf6a9b80f3af899ede",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813499
+        }
+    ],
     "wof:id":655813499,
-    "wof:lastmodified":1466687246,
+    "wof:lastmodified":1492070324,
     "wof:name":"Rite Aid",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

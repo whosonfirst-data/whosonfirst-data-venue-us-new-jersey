@@ -2,9 +2,14 @@
   "id": 638931417,
   "type": "Feature",
   "properties": {
+    "addr:full":"889 Co Rd 519 Blairstown NJ 07825",
+    "addr:housenumber":"889",
+    "addr:postcode":"07825",
+    "addr:street":"Co Rd 519",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880979,40.958836,-74.880979,40.958836",
     "geom:latitude":40.958836,
     "geom:longitude":-74.880979,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZUzY7atgOdc2YLSiVLscW_40.958836_-74.880979@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283545,
     "wof:geomhash":"c815fd8a31df73ea09c44793957d1fb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527749,
+            "venue_id":638931417
+        }
+    ],
     "wof:id":638931417,
-    "wof:lastmodified":1466691056,
+    "wof:lastmodified":1492052193,
     "wof:name":"Burns Construction Maintenance",
     "wof:parent_id":420527749,
     "wof:placetype":"venue",

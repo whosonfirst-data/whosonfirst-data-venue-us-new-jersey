@@ -2,9 +2,14 @@
   "id": 655790179,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Mount Bethel Rd Port Murray NJ 07865",
+    "addr:housenumber":"316",
+    "addr:postcode":"07865",
+    "addr:street":"Mount Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.904291,40.82467,-74.904291,40.82467",
     "geom:latitude":40.82467,
     "geom:longitude":-74.904291,
@@ -27,7 +32,10 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XXwzTSDYqNT4nnd5SiSpI_40.824670_-74.904291@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320983,
     "wof:geomhash":"17472ebbdcb70aa7a8fc80d7ad8d15f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527785,
+            "venue_id":655790179
+        }
+    ],
     "wof:id":655790179,
-    "wof:lastmodified":1466686564,
+    "wof:lastmodified":1492030555,
     "wof:name":"Cartal Electric Co",
     "wof:parent_id":420527785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639622245,
   "type": "Feature",
   "properties": {
+    "addr:full":"288 Revere Ave Union NJ 07083",
+    "addr:housenumber":"288",
+    "addr:postcode":"07083",
+    "addr:street":"Revere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272063,40.716501,-74.272063,40.716501",
     "geom:latitude":40.716501,
     "geom:longitude":-74.272063,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZYA5i9MX8NzIVx7bYs7Wv_40.716501_-74.272063@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461302583,
     "wof:geomhash":"456de458fff97dd01d4ae35b74fb9a78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639622245
+        }
+    ],
     "wof:id":639622245,
-    "wof:lastmodified":1466697382,
+    "wof:lastmodified":1492023813,
     "wof:name":"Wayne S Carpet & Flooring",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

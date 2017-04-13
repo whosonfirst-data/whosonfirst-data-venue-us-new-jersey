@@ -2,9 +2,14 @@
   "id": 639324183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Holland Dr Somerset NJ 08873",
+    "addr:housenumber":"1208",
+    "addr:postcode":"08873",
+    "addr:street":"Holland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524596,40.450873,-74.524596,40.450873",
     "geom:latitude":40.450873,
     "geom:longitude":-74.524596,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JVc0BxeKounrhiuC62Ggi_40.450873_-74.524596@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292484,
     "wof:geomhash":"80663dc3f82eb1279d474927aa4ffa4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639324183
+        }
+    ],
     "wof:id":639324183,
-    "wof:lastmodified":1466691975,
+    "wof:lastmodified":1492042260,
     "wof:name":"Gonyek Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

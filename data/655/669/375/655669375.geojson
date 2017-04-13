@@ -2,9 +2,14 @@
   "id": 655669375,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Millburn Ave Millburn NJ 07041",
+    "addr:housenumber":"116",
+    "addr:postcode":"07041",
+    "addr:street":"Millburn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289497,40.721699,-74.289497,40.721699",
     "geom:latitude":40.721699,
     "geom:longitude":-74.289497,
@@ -30,7 +35,10 @@
         "dermatologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IIERmCAftIbco14LuRaOi_40.721883_-74.289156@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461315969,
     "wof:geomhash":"a3dab1e352f2a3a3117bc2877befc55f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655669375
+        }
+    ],
     "wof:id":655669375,
-    "wof:lastmodified":1466683473,
+    "wof:lastmodified":1492057642,
     "wof:name":"Kihiczak George MD",
     "wof:parent_id":420526947,
     "wof:placetype":"venue",

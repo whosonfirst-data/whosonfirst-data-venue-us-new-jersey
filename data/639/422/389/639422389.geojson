@@ -2,9 +2,14 @@
   "id": 639422389,
   "type": "Feature",
   "properties": {
+    "addr:full":"379 Princeton Hightstown Rd Cranbury NJ 08512",
+    "addr:housenumber":"379",
+    "addr:postcode":"08512",
+    "addr:street":"Princeton Hightstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.567079,40.287521,-74.567079,40.287521",
     "geom:latitude":40.287521,
     "geom:longitude":-74.567079,
@@ -27,7 +32,12 @@
         "periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85822195,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26Jfui2aVNcafxGMt2c7ps_40.287521_-74.567079@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461294761,
     "wof:geomhash":"717df7613954a6edd4329ec351ce7200",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85822195,
+            "region_id":85688607,
+            "venue_id":639422389
+        }
+    ],
     "wof:id":639422389,
-    "wof:lastmodified":1466693252,
+    "wof:lastmodified":1492051299,
     "wof:name":"Media Resources Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

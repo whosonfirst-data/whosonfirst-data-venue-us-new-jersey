@@ -2,9 +2,14 @@
   "id": 639532937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2009",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.480885,40.43865,-74.480885,40.43865",
     "geom:latitude":40.43865,
     "geom:longitude":-74.480885,
@@ -27,7 +32,10 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SQAYtmVPVjXvrSjn9EK7t_40.438650_-74.480885@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298967,
     "wof:geomhash":"f9ba9632c6594d136ccd88bca7f8aebf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639532937
+        }
+    ],
     "wof:id":639532937,
-    "wof:lastmodified":1466695582,
+    "wof:lastmodified":1492053516,
     "wof:name":"MRM Architecture",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

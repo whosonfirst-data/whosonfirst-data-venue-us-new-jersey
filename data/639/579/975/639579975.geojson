@@ -2,9 +2,14 @@
   "id": 639579975,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 State Rte 28 Raritan NJ 08869",
+    "addr:housenumber":"575",
+    "addr:postcode":"08869",
+    "addr:street":"State Rte 28",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.644336,40.584101,-74.644336,40.584101",
     "geom:latitude":40.584101,
     "geom:longitude":-74.644336,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85837395,
+        102085045,
         85822833,
         102191575,
         404477917,
-        85633793,
-        85976133,
-        102085045,
-        85688607
+        85976133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461300900,
     "wof:geomhash":"dc099dc918e4bacea51d2bdb56ec618f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85837395,
+            "region_id":85688607,
+            "venue_id":639579975
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":639579975,
-    "wof:lastmodified":1466696671,
+    "wof:lastmodified":1492056252,
     "wof:name":"Castle Govermental Initiative",
-    "wof:parent_id":85822833,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

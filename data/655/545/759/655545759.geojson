@@ -2,9 +2,14 @@
   "id": 655545759,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Airport Rd Lakewood NJ 08701",
+    "addr:housenumber":"150",
+    "addr:postcode":"08701",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172573,40.061258,-74.172573,40.061258",
     "geom:latitude":40.061258,
     "geom:longitude":-74.172573,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EbQa28T9kjEuyQVjCvVfc_40.061258_-74.172573@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310642,
     "wof:geomhash":"5625a4c4d47f9be3ef9a6736ed9a4418",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655545759
+        }
+    ],
     "wof:id":655545759,
-    "wof:lastmodified":1466679424,
+    "wof:lastmodified":1492045215,
     "wof:name":"Collective Concrete",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

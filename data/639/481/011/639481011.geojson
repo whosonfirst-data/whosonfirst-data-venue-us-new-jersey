@@ -2,9 +2,14 @@
   "id": 639481011,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Mercer Ct Hackettstown NJ 07840",
+    "addr:housenumber":"401",
+    "addr:postcode":"07840",
+    "addr:street":"Mercer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.818204,40.868113,-74.818204,40.868113",
     "geom:latitude":40.868113,
     "geom:longitude":-74.818204,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478429,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76czEoIALBJgJ4U1FW40l5_40.868113_-74.818204@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296653,
     "wof:geomhash":"077f1e5bd3d34a8cc9c4e9f5e9d11c36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478429,
+            "region_id":85688607,
+            "venue_id":639481011
+        }
+    ],
     "wof:id":639481011,
-    "wof:lastmodified":1466694235,
+    "wof:lastmodified":1492048873,
     "wof:name":"J F C Home Improvement LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

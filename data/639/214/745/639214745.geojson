@@ -2,9 +2,14 @@
   "id": 639214745,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Billington Rd Teaneck NJ 07666",
+    "addr:housenumber":"440",
+    "addr:postcode":"07666",
+    "addr:street":"Billington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017911,40.896144,-74.017911,40.896144",
     "geom:latitude":40.896144,
     "geom:longitude":-74.017911,
@@ -31,7 +36,11 @@
         85688607,
         85633793,
         85892511,
-        102086773
+        102086773,
+        85892513,
+        102191575,
+        404477545,
+        85975997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +56,22 @@
             "neighbourhood_id":85892511,
             "region_id":85688607,
             "venue_id":639214745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477545,
+            "locality_id":85975997,
+            "neighbourhood_id":85892513,
+            "region_id":85688607,
+            "venue_id":639214745
         }
     ],
     "wof:id":639214745,
-    "wof:lastmodified":1466689614,
+    "wof:lastmodified":1492048021,
     "wof:name":"Deveyga Construction",
-    "wof:parent_id":85892511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639121103,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Colonial Ave Union NJ 07083",
+    "addr:housenumber":"217",
+    "addr:postcode":"07083",
+    "addr:street":"Colonial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.266733,40.684866,-74.266733,40.684866",
     "geom:latitude":40.684866,
     "geom:longitude":-74.266733,
@@ -30,7 +35,10 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35hI7CzP3XLni37eyVd93d_40.684866_-74.266733@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461287849,
     "wof:geomhash":"2aac286e8652d1ee1672169d657e6965",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639121103
+        }
+    ],
     "wof:id":639121103,
-    "wof:lastmodified":1466677237,
+    "wof:lastmodified":1492016928,
     "wof:name":"Union County Bldg Insptn Svc",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

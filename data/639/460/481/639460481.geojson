@@ -2,9 +2,14 @@
   "id": 639460481,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 US Hwy 206 Stanhope NJ 07874",
+    "addr:housenumber":"23",
+    "addr:postcode":"07874",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718728,40.925428,-74.718728,40.925428",
     "geom:latitude":40.925428,
     "geom:longitude":-74.718728,
@@ -27,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vRvu04NG8NLvsq8jTK6oV_40.925428_-74.718728@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295821,
     "wof:geomhash":"2a638610b43db16e96aea016905056b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":639460481
+        }
+    ],
     "wof:id":639460481,
-    "wof:lastmodified":1466693898,
+    "wof:lastmodified":1492050874,
     "wof:name":"Joseph P Gilligan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

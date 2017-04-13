@@ -2,9 +2,14 @@
   "id": 639153627,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Monroe St Garfield NJ 07026",
+    "addr:housenumber":"112",
+    "addr:postcode":"07026",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.10624,40.870136,-74.10624,40.870136",
     "geom:latitude":40.870136,
     "geom:longitude":-74.10624,
@@ -36,7 +41,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ADt9BEefxxE2HVoQO1jt7_40.870136_-74.106240@1294171694"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461288604,
     "wof:geomhash":"0ac1f55899cddb40a4b995342f5d82c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639153627
+        }
+    ],
     "wof:id":639153627,
-    "wof:lastmodified":1466681909,
+    "wof:lastmodified":1492020594,
     "wof:name":"Belmont Wholesale Fence Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

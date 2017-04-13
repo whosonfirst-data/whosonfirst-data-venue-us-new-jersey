@@ -2,9 +2,14 @@
   "id": 655684213,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Brant Ave Clark NJ 07066",
+    "addr:housenumber":"30",
+    "addr:postcode":"07066",
+    "addr:street":"Brant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304071,40.623052,-74.304071,40.623052",
     "geom:latitude":40.623052,
     "geom:longitude":-74.304071,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.graarchitects.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7984ATgcubyFXGkgsRbR8e_40.623470_-74.304155@1293134755"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461316607,
     "wof:geomhash":"2ace8780c4e70deacd110641e15a0545",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655684213
+        }
+    ],
     "wof:id":655684213,
-    "wof:lastmodified":1466683781,
+    "wof:lastmodified":1492024148,
     "wof:name":"G R A Architects Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

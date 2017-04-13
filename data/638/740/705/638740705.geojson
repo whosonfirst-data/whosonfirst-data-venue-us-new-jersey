@@ -2,9 +2,14 @@
   "id": 638740705,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Erie Ave Midland Park NJ 07432",
+    "addr:housenumber":"31",
+    "addr:postcode":"07432",
+    "addr:street":"Erie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138455,40.985345,-74.138455,40.985345",
     "geom:latitude":40.985345,
     "geom:longitude":-74.138455,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51Afq6fF1r6s7lgnZm32l9_40.985345_-74.138455@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278754,
     "wof:geomhash":"942d61c8b43c32d5dc5101f85c2ef9de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":638740705
+        }
+    ],
     "wof:id":638740705,
-    "wof:lastmodified":1466676939,
+    "wof:lastmodified":1492062247,
     "wof:name":"Davenport Marketing Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

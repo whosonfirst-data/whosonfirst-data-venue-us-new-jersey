@@ -2,9 +2,14 @@
   "id": 639281093,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Rupell Rd Hampton NJ 08827",
+    "addr:housenumber":"34",
+    "addr:postcode":"08827",
+    "addr:street":"Rupell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.93817,40.636025,-74.93817,40.636025",
     "geom:latitude":40.636025,
     "geom:longitude":-74.93817,
@@ -34,7 +39,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125,
+        85688607,
+        85822475,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WFWxXPPoszUtJ3dhtqVLt_40.636025_-74.938170@1294171694"
@@ -42,11 +53,24 @@
     "wof:country":"US",
     "wof:created":1461291570,
     "wof:geomhash":"6cbc63db0559c6cad83e0a49c5617f64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":639281093
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85822475,
+            "region_id":85688607,
+            "venue_id":639281093
+        }
+    ],
     "wof:id":639281093,
-    "wof:lastmodified":1466690900,
+    "wof:lastmodified":1492042453,
     "wof:name":"Toll Brothers",
-    "wof:parent_id":420527125,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

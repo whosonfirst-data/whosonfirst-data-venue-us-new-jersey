@@ -2,9 +2,14 @@
   "id": 655591083,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Armour Rd Mahwah NJ 07430",
+    "addr:housenumber":"49",
+    "addr:postcode":"07430",
+    "addr:street":"Armour Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138064,41.091619,-74.138064,41.091619",
     "geom:latitude":41.091619,
     "geom:longitude":-74.138064,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tivp1aSwW2rgdm20wNgpg_41.091619_-74.138064@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312638,
     "wof:geomhash":"0678a8c507e865849101c640cdc5e04e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655591083
+        }
+    ],
     "wof:id":655591083,
-    "wof:lastmodified":1466680565,
+    "wof:lastmodified":1492058462,
     "wof:name":"Michael Hinchman Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

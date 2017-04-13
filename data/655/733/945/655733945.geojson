@@ -2,9 +2,14 @@
   "id": 655733945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1030",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3162,40.626598,-74.3162,40.626598",
     "geom:latitude":40.626598,
     "geom:longitude":-74.3162,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qILCwTc2lsbpdqJ4OdUbu_40.626598_-74.316200@1303262257"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318683,
     "wof:geomhash":"387738ae6a77ff889f1f7e61f9c7036a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733945
+        }
+    ],
     "wof:id":655733945,
-    "wof:lastmodified":1466685261,
+    "wof:lastmodified":1492067791,
     "wof:name":"Windsor Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655588735,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 Bergen Blvd Ridgefield NJ 07657",
+    "addr:housenumber":"614",
+    "addr:postcode":"07657",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99436,40.82868,-73.99436,40.82868",
     "geom:latitude":40.82868,
     "geom:longitude":-73.99436,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MmqNuaupPAA0T3kUAHOA9_40.828680_-73.994360@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312539,
     "wof:geomhash":"88b338e831f3a9f523e3a14ea9ca0379",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":655588735
+        }
+    ],
     "wof:id":655588735,
-    "wof:lastmodified":1466680788,
+    "wof:lastmodified":1492023757,
     "wof:name":"Eagles Proud Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

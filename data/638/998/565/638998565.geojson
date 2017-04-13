@@ -2,9 +2,14 @@
   "id": 638998565,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 N County Line Rd Jackson NJ 08527",
+    "addr:housenumber":"524",
+    "addr:postcode":"08527",
+    "addr:street":"N County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314987,40.14468,-74.314987,40.14468",
     "geom:latitude":40.14468,
     "geom:longitude":-74.314987,
@@ -28,7 +33,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85865305,
+        102191575,
+        404477839,
+        85633793,
+        85976329,
+        102081485,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cYvoozo2YN76ni8H5GE7B_40.144680_-74.314987@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461285075,
     "wof:geomhash":"089307f7d2855f9b53730af7f46c5afd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "locality_id":85976329,
+            "neighbourhood_id":85865305,
+            "region_id":85688607,
+            "venue_id":638998565
+        }
+    ],
     "wof:id":638998565,
-    "wof:lastmodified":1466692203,
+    "wof:lastmodified":1492043903,
     "wof:name":"DH Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

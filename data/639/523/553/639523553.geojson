@@ -2,9 +2,14 @@
   "id": 639523553,
   "type": "Feature",
   "properties": {
+    "addr:full":"843 Fort Plains Rd Howell NJ 07731",
+    "addr:housenumber":"843",
+    "addr:postcode":"07731",
+    "addr:street":"Fort Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256319,40.163473,-74.256319,40.163473",
     "geom:latitude":40.163473,
     "geom:longitude":-74.256319,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CybOfSVFG2ib76LXbcOXe_40.163473_-74.256319@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461298486,
     "wof:geomhash":"679b56098742623dba5c4fc4ced375f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":639523553
+        }
+    ],
     "wof:id":639523553,
-    "wof:lastmodified":1466695285,
+    "wof:lastmodified":1492049695,
     "wof:name":"Edward Berkoben",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

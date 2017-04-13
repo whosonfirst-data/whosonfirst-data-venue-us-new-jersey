@@ -2,9 +2,14 @@
   "id": 639232307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1037 Sanford Ave Irvington NJ 07111",
+    "addr:housenumber":"1037",
+    "addr:postcode":"07111",
+    "addr:street":"Sanford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.24154,40.726213,-74.24154,40.726213",
     "geom:latitude":40.726213,
     "geom:longitude":-74.24154,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DVI0wYyLVoawSDv1Eim2T_40.726213_-74.241540@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461290413,
     "wof:geomhash":"72a098caa426b53a5c99600be8135eac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639232307
+        }
+    ],
     "wof:id":639232307,
-    "wof:lastmodified":1466689881,
+    "wof:lastmodified":1492076941,
     "wof:name":"Oliver Family Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

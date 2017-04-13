@@ -2,9 +2,14 @@
   "id": 638849591,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 Myrtle Ave Fort Lee NJ 07024",
+    "addr:housenumber":"460",
+    "addr:postcode":"07024",
+    "addr:street":"Myrtle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.96889,40.866665,-73.96889,40.866665",
     "geom:latitude":40.866665,
     "geom:longitude":-73.96889,
@@ -34,7 +39,10 @@
         85633793,
         85975869,
         102086773,
-        85688607
+        85688607,
+        85892383,
+        404477531,
+        85975879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85830809,
             "region_id":85688607,
             "venue_id":638849591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477531,
+            "locality_id":85975879,
+            "neighbourhood_id":85892383,
+            "region_id":85688607,
+            "venue_id":638849591
         }
     ],
     "wof:id":638849591,
-    "wof:lastmodified":1466689229,
+    "wof:lastmodified":1492053758,
     "wof:name":"HDK Consulting",
-    "wof:parent_id":85830809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655592347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Chancellor Ave Irvington NJ 07111",
+    "addr:housenumber":"1001",
+    "addr:postcode":"07111",
+    "addr:street":"Chancellor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249589,40.721974,-74.249589,40.721974",
     "geom:latitude":40.721974,
     "geom:longitude":-74.249589,
@@ -30,7 +35,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15hGgCLncoSytM0uJjIf26_40.721974_-74.249589@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461312685,
     "wof:geomhash":"7a48bb7a3bb32c4b429b6d922368e306",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655592347
+        }
+    ],
     "wof:id":655592347,
-    "wof:lastmodified":1466680734,
+    "wof:lastmodified":1492053863,
     "wof:name":"Kar City International In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

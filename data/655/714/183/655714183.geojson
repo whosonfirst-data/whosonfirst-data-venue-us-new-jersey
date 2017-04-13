@@ -2,9 +2,14 @@
   "id": 655714183,
   "type": "Feature",
   "properties": {
+    "addr:full":"385 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"385",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130203,40.7925,-74.130203,40.7925",
     "geom:latitude":40.7925,
     "geom:longitude":-74.130203,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KXa3u3nTQBRKlVvAmviFl_40.792500_-74.130203@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317930,
     "wof:geomhash":"580e6832b887f0ada0e824e3ee4874fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714183
+        }
+    ],
     "wof:id":655714183,
-    "wof:lastmodified":1466684558,
+    "wof:lastmodified":1492030452,
     "wof:name":"Ridge Park Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

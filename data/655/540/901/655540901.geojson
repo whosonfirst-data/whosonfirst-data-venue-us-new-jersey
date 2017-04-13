@@ -2,9 +2,14 @@
   "id": 655540901,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 Miller Park Rd Milford NJ 08848",
+    "addr:housenumber":"191",
+    "addr:postcode":"08848",
+    "addr:street":"Miller Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078576,40.589353,-75.078576,40.589353",
     "geom:latitude":40.589353,
     "geom:longitude":-75.078576,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B2oXDzJ4QalBbr5Vbbw6Y_40.589353_-75.078576@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310459,
     "wof:geomhash":"19bbc785ca72dd3f0e0634b04d660901",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655540901
+        }
+    ],
     "wof:id":655540901,
-    "wof:lastmodified":1466679387,
+    "wof:lastmodified":1492048105,
     "wof:name":"Estates Management Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

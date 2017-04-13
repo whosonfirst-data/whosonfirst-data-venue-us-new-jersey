@@ -2,9 +2,14 @@
   "id": 639211493,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 Middle Rd Hazlet NJ 07730",
+    "addr:housenumber":"423",
+    "addr:postcode":"07730",
+    "addr:street":"Middle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.154431,40.424495,-74.154431,40.424495",
     "geom:latitude":40.424495,
     "geom:longitude":-74.154431,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85836359,
+        102191575,
+        404478399,
         85633793,
-        85837443,
-        102085049
+        85975391,
+        102085049,
+        85688607,
+        85837443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"67d0c18c9aeef5770e721ca752ac4e15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478399,
+            "locality_id":85975391,
+            "neighbourhood_id":85836359,
+            "region_id":85688607,
+            "venue_id":639211493
+        },
+        {
             "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85837443,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":639211493,
-    "wof:lastmodified":1466689388,
+    "wof:lastmodified":1492072938,
     "wof:name":"Middle Rd Village",
-    "wof:parent_id":85837443,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

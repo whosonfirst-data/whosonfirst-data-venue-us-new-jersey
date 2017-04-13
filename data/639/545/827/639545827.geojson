@@ -2,9 +2,14 @@
   "id": 639545827,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"314",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.194392,40.686787,-75.194392,40.686787",
     "geom:latitude":40.686787,
     "geom:longitude":-75.194392,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"www.linxentinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44ke0jSTue8mTHG0ZFv5VV_40.686787_-75.194392@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461299564,
     "wof:geomhash":"63837440c4843bbf699eab75123cd140",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639545827
+        }
+    ],
     "wof:id":639545827,
-    "wof:lastmodified":1466695818,
+    "wof:lastmodified":1492076851,
     "wof:name":"Linx Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

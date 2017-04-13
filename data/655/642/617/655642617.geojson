@@ -2,9 +2,14 @@
   "id": 655642617,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Valley Forge Rd Oakland NJ 07436",
+    "addr:housenumber":"12",
+    "addr:postcode":"07436",
+    "addr:street":"Valley Forge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.22547,41.046804,-74.22547,41.046804",
     "geom:latitude":41.046804,
     "geom:longitude":-74.22547,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qeBDPrbVay8zmbT09FsuV_41.046804_-74.225470@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314870,
     "wof:geomhash":"3dd548ddb70ef547c8cb070b2b9ae26a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655642617
+        }
+    ],
     "wof:id":655642617,
-    "wof:lastmodified":1466682592,
+    "wof:lastmodified":1492045542,
     "wof:name":"US Cash & Carry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

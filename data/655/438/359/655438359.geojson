@@ -2,9 +2,14 @@
   "id": 655438359,
   "type": "Feature",
   "properties": {
+    "addr:full":"952 N 34th St Camden NJ 08105",
+    "addr:housenumber":"952",
+    "addr:postcode":"08105",
+    "addr:street":"N 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083598,39.960512,-75.083598,39.960512",
     "geom:latitude":39.960512,
     "geom:longitude":-75.083598,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bvddBf7uJfklFye1W7WBC_39.960512_-75.083598@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306230,
     "wof:geomhash":"a40ae77f010223330ab9fcb4438e9e71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655438359
+        }
+    ],
     "wof:id":655438359,
-    "wof:lastmodified":1466676548,
+    "wof:lastmodified":1492045152,
     "wof:name":"Hope Memorial Baptist Church",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

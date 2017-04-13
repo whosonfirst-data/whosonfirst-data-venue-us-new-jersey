@@ -2,9 +2,14 @@
   "id": 639111297,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Woodland Ave Caldwell NJ 07006",
+    "addr:housenumber":"15",
+    "addr:postcode":"07006",
+    "addr:street":"Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260848,40.868083,-74.260848,40.868083",
     "geom:latitude":40.868083,
     "geom:longitude":-74.260848,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69iZDBsXN0RtsQVa2JOi6B_40.868083_-74.260848@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287590,
     "wof:geomhash":"8c1074c5f81319ddd9203b12d44f29b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":639111297
+        }
+    ],
     "wof:id":639111297,
-    "wof:lastmodified":1466675848,
+    "wof:lastmodified":1492044060,
     "wof:name":"Conover & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

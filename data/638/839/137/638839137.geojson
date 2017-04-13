@@ -2,9 +2,14 @@
   "id": 638839137,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 Harding Rd Merchantville NJ 08109",
+    "addr:housenumber":"4625",
+    "addr:postcode":"08109",
+    "addr:street":"Harding Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.065949,39.946486,-75.065949,39.946486",
     "geom:latitude":39.946486,
     "geom:longitude":-75.065949,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r54yX34MqcoHaPv1gDpM8_39.946486_-75.065949@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281217,
     "wof:geomhash":"7247265f3ab6c7d192a44ff33716d827",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638839137
+        }
+    ],
     "wof:id":638839137,
-    "wof:lastmodified":1466689043,
+    "wof:lastmodified":1492023713,
     "wof:name":"Emmanuel Baptist Church",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655541709,
   "type": "Feature",
   "properties": {
+    "addr:full":"1037 Fairmount Ave Trenton NJ 08629",
+    "addr:housenumber":"1037",
+    "addr:postcode":"08629",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.733362,40.215395,-74.733362,40.215395",
     "geom:latitude":40.215395,
     "geom:longitude":-74.733362,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k9yYTQkdpj2h9A8lI19uf_40.215395_-74.733362@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310486,
     "wof:geomhash":"59f213931f91a4a7000c71c91fe60d64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655541709
+        }
+    ],
     "wof:id":655541709,
-    "wof:lastmodified":1466679333,
+    "wof:lastmodified":1492080202,
     "wof:name":"N S Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

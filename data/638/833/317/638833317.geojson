@@ -2,9 +2,14 @@
   "id": 638833317,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Greenwood Ave Pequannock NJ 07440",
+    "addr:housenumber":"121",
+    "addr:postcode":"07440",
+    "addr:street":"Greenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286578,40.954008,-74.286578,40.954008",
     "geom:latitude":40.954008,
     "geom:longitude":-74.286578,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66jRjkrgZjsW4Zl0XHDf7Z_40.954008_-74.286578@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461281068,
     "wof:geomhash":"2823e7e2dd6f0c60778c060f4cda11a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638833317
+        }
+    ],
     "wof:id":638833317,
-    "wof:lastmodified":1466688995,
+    "wof:lastmodified":1492050688,
     "wof:name":"Thomas Lenhart Carpentry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

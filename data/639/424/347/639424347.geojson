@@ -2,9 +2,14 @@
   "id": 639424347,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 Andersen Rd Milford NJ 08848",
+    "addr:housenumber":"165",
+    "addr:postcode":"08848",
+    "addr:street":"Andersen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.128301,40.611097,-75.128301,40.611097",
     "geom:latitude":40.611097,
     "geom:longitude":-75.128301,
@@ -27,7 +32,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cwZfMVciTJ1hIRa4FOxxJ_40.611097_-75.128301@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461294805,
     "wof:geomhash":"8e1f9c8fc3a35a849b5a058961e9ba33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":639424347
+        }
+    ],
     "wof:id":639424347,
-    "wof:lastmodified":1466693245,
+    "wof:lastmodified":1492053532,
     "wof:name":"Morris Flood Assoc",
     "wof:parent_id":420527141,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639520939,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Veronica Ave Somerset NJ 08873",
+    "addr:housenumber":"71",
+    "addr:postcode":"08873",
+    "addr:street":"Veronica Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.496861,40.477581,-74.496861,40.477581",
     "geom:latitude":40.477581,
     "geom:longitude":-74.496861,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976119,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BfAn5fjN8aBOc3BHvfCXv_40.477581_-74.496861@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298347,
     "wof:geomhash":"3f19ef44e6b70f0e2cf1fa6c284d298a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976119,
+            "region_id":85688607,
+            "venue_id":639520939
+        }
+    ],
     "wof:id":639520939,
-    "wof:lastmodified":1466695300,
+    "wof:lastmodified":1492041435,
     "wof:name":"Dau International Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

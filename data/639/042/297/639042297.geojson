@@ -2,9 +2,14 @@
   "id": 639042297,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Hornerstown Rd Cream Ridge NJ 08514",
+    "addr:housenumber":"36",
+    "addr:postcode":"08514",
+    "addr:street":"Hornerstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.505529,40.099952,-74.505529,40.099952",
     "geom:latitude":40.099952,
     "geom:longitude":-74.505529,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477787,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tNdJUaipoLq2uWs5Rtusd_40.099952_-74.505529@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286101,
     "wof:geomhash":"0240bf6b7d887f64c30d0b75c794e297",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477787,
+            "region_id":85688607,
+            "venue_id":639042297
+        }
+    ],
     "wof:id":639042297,
-    "wof:lastmodified":1466674025,
+    "wof:lastmodified":1492020013,
     "wof:name":"E Tech Electrical Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

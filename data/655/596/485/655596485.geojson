@@ -2,9 +2,14 @@
   "id": 655596485,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 Ravine Ct Wyckoff NJ 07481",
+    "addr:housenumber":"531",
+    "addr:postcode":"07481",
+    "addr:street":"Ravine Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148188,40.975526,-74.148188,40.975526",
     "geom:latitude":40.975526,
     "geom:longitude":-74.148188,
@@ -27,7 +32,13 @@
         "editorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rukEbBNcOy4DJpFqgrq8z_40.975526_-74.148188@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312861,
     "wof:geomhash":"ececf0da54bc0ae3c74a5b7b11b1ba6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":655596485
+        }
+    ],
     "wof:id":655596485,
-    "wof:lastmodified":1466680877,
+    "wof:lastmodified":1492024330,
     "wof:name":"Potter Editorial Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

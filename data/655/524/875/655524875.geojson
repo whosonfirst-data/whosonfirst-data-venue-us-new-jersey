@@ -2,9 +2,14 @@
   "id": 655524875,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Brighton Rd Clifton NJ 07012",
+    "addr:housenumber":"2",
+    "addr:postcode":"07012",
+    "addr:street":"Brighton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.157828,40.845623,-74.157828,40.845623",
     "geom:latitude":40.845623,
     "geom:longitude":-74.157828,
@@ -28,7 +33,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QUYbCxtGVoL7uFOojRoNz_40.845623_-74.157828@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309849,
     "wof:geomhash":"c7b373b0b9a9a89c3d98ae0c53a7ab1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655524875
+        }
+    ],
     "wof:id":655524875,
-    "wof:lastmodified":1466678912,
+    "wof:lastmodified":1492053678,
     "wof:name":"Alliance Med Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

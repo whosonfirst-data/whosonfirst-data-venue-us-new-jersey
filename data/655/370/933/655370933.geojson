@@ -2,9 +2,14 @@
   "id": 655370933,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Carriage Way Clarksburg NJ 08510",
+    "addr:housenumber":"33",
+    "addr:postcode":"08510",
+    "addr:street":"Carriage Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.370191,40.217311,-74.370191,40.217311",
     "geom:latitude":40.217311,
     "geom:longitude":-74.370191,
@@ -27,7 +32,10 @@
         "barbecue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wj0BCMpVYZVGTvF5y5wHW_40.217311_-74.370191@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303458,
     "wof:geomhash":"ac61b2386e2cfbb29d7551439d150625",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527261,
+            "venue_id":655370933
+        }
+    ],
     "wof:id":655370933,
-    "wof:lastmodified":1466674893,
+    "wof:lastmodified":1492053496,
     "wof:name":"Gourmet Barbeque",
     "wof:parent_id":420527261,
     "wof:placetype":"venue",

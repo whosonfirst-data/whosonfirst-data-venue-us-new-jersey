@@ -2,9 +2,14 @@
   "id": 655732741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 George Ave Rahway NJ 07065",
+    "addr:housenumber":"1550",
+    "addr:postcode":"07065",
+    "addr:street":"George Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285662,40.615139,-74.285662,40.615139",
     "geom:latitude":40.615139,
     "geom:longitude":-74.285662,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"sears.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W7iof5Xuc5HOzlQYikdiL_40.615139_-74.285662@1303262256"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461318636,
     "wof:geomhash":"a4d36559f1dd192258b6a4e8ee9e7a2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732741
+        }
+    ],
     "wof:id":655732741,
-    "wof:lastmodified":1466685184,
+    "wof:lastmodified":1492027541,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

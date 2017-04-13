@@ -2,9 +2,14 @@
   "id": 638878889,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Stonehedge Dr Hightstown NJ 08520",
+    "addr:housenumber":"26",
+    "addr:postcode":"08520",
+    "addr:street":"Stonehedge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.536866,40.248111,-74.536866,40.248111",
     "geom:latitude":40.248111,
     "geom:longitude":-74.536866,
@@ -28,7 +33,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IJurolFrdo3oZrW3CUXjX_40.248111_-74.536866@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282171,
     "wof:geomhash":"e904d381bc4b54d4aa3ea77b6820c7aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":638878889
+        }
+    ],
     "wof:id":638878889,
-    "wof:lastmodified":1466689718,
+    "wof:lastmodified":1492042910,
     "wof:name":"Gracemar International Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

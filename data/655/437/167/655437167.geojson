@@ -2,9 +2,14 @@
   "id": 655437167,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Central Ave Rahway NJ 07065",
+    "addr:housenumber":"219",
+    "addr:postcode":"07065",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277328,40.610641,-74.277328,40.610641",
     "geom:latitude":40.610641,
     "geom:longitude":-74.277328,
@@ -28,7 +33,14 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IX5O12PtAeSLggl29INuz_40.610641_-74.277328@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306187,
     "wof:geomhash":"68c0d11cd9bb4db773b52ffc03b02692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655437167
+        }
+    ],
     "wof:id":655437167,
-    "wof:lastmodified":1466676371,
+    "wof:lastmodified":1492039780,
     "wof:name":"Elizabeth Town Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

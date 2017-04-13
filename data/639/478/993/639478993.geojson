@@ -2,9 +2,14 @@
   "id": 639478993,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Hedden Rd Andover NJ 07821",
+    "addr:housenumber":"502",
+    "addr:postcode":"07821",
+    "addr:street":"Hedden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.820456,40.957482,-74.820456,40.957482",
     "geom:latitude":40.957482,
     "geom:longitude":-74.820456,
@@ -27,7 +32,13 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477591,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TU8XgGhBO7Svdhfjq1Fvu_40.957482_-74.820456@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296564,
     "wof:geomhash":"519611ffbfb3f05c5c4d22b44940ba20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404477591,
+            "region_id":85688607,
+            "venue_id":639478993
+        }
+    ],
     "wof:id":639478993,
-    "wof:lastmodified":1466693901,
+    "wof:lastmodified":1492076812,
     "wof:name":"Factory Direct Pipeline Pdts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

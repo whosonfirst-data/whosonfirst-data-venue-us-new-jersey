@@ -2,9 +2,14 @@
   "id": 655763513,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 S Bayard Ln Mahwah NJ 07430",
+    "addr:housenumber":"18",
+    "addr:postcode":"07430",
+    "addr:street":"S Bayard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.13118,41.081507,-74.13118,41.081507",
     "geom:latitude":41.081507,
     "geom:longitude":-74.13118,
@@ -27,7 +32,13 @@
         "mall"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F6RE0J1MGtIfHw8wHE6wl_41.081507_-74.131180@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319788,
     "wof:geomhash":"a44d3eb5f1f7e257db8a46477e70e8b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763513
+        }
+    ],
     "wof:id":655763513,
-    "wof:lastmodified":1466685933,
+    "wof:lastmodified":1492048995,
     "wof:name":"Linkin Plaza Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

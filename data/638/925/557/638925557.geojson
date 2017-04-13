@@ -2,9 +2,14 @@
   "id": 638925557,
   "type": "Feature",
   "properties": {
+    "addr:full":"254 Elmwood Ave Union NJ 07083",
+    "addr:housenumber":"254",
+    "addr:postcode":"07083",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282741,40.699324,-74.282741,40.699324",
     "geom:latitude":40.699324,
     "geom:longitude":-74.282741,
@@ -32,7 +37,9 @@
         85688607,
         85633793,
         85892525,
-        102085995
+        102085995,
+        85975841,
+        85892527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +55,20 @@
             "neighbourhood_id":85892525,
             "region_id":85688607,
             "venue_id":638925557
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "locality_id":85975841,
+            "neighbourhood_id":85892527,
+            "region_id":85688607,
+            "venue_id":638925557
         }
     ],
     "wof:id":638925557,
-    "wof:lastmodified":1466690740,
+    "wof:lastmodified":1492024117,
     "wof:name":"Precision Woodworks",
-    "wof:parent_id":85892525,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

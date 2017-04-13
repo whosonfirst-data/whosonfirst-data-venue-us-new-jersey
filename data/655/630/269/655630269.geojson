@@ -2,9 +2,14 @@
   "id": 655630269,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Newark Ave Elizabeth NJ 07208",
+    "addr:housenumber":"900",
+    "addr:postcode":"07208",
+    "addr:street":"Newark Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.205826,40.68514,-74.205826,40.68514",
     "geom:latitude":40.68514,
     "geom:longitude":-74.205826,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16jmlk5T8KA02xnUhC2pvW_40.685140_-74.205826@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314324,
     "wof:geomhash":"1b35a893e7a3a8eab6cc19baab98a8e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655630269
+        }
+    ],
     "wof:id":655630269,
-    "wof:lastmodified":1466682042,
+    "wof:lastmodified":1492025517,
     "wof:name":"Giuseppi Restaurant & Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

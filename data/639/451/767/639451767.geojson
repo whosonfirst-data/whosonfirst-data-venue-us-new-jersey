@@ -2,9 +2,14 @@
   "id": 639451767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 US Hwy 22 Union NJ 07083",
+    "addr:housenumber":"1600",
+    "addr:postcode":"07083",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271047,40.69188,-74.271047,40.69188",
     "geom:latitude":40.69188,
     "geom:longitude":-74.271047,
@@ -28,7 +33,10 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dmq1HGIksZ9wdN95S3Eq6_40.691880_-74.271047@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295493,
     "wof:geomhash":"7370f9da5266893fac059511be76964a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527721,
+            "venue_id":639451767
+        }
+    ],
     "wof:id":639451767,
-    "wof:lastmodified":1466693740,
+    "wof:lastmodified":1492055793,
     "wof:name":"American Lung Association NJ",
     "wof:parent_id":420527721,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639492281,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Nassau St Princeton NJ 08542",
+    "addr:housenumber":"61",
+    "addr:postcode":"08542",
+    "addr:street":"Nassau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660962,40.349257,-74.660962,40.349257",
     "geom:latitude":40.349257,
     "geom:longitude":-74.660962,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.nassauchurch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LmafF4vNNfBJuhEyVLB4t_40.349257_-74.660962@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461297107,
     "wof:geomhash":"a4336ada73ce8c130c3db191a8a349b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639492281
+        }
+    ],
     "wof:id":639492281,
-    "wof:lastmodified":1466694342,
+    "wof:lastmodified":1492041613,
     "wof:name":"Nassau Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

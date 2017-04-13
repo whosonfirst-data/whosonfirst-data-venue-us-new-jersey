@@ -2,9 +2,14 @@
   "id": 655631165,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Jennifer Ln Burlington NJ 08016",
+    "addr:housenumber":"5",
+    "addr:postcode":"08016",
+    "addr:street":"Jennifer Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.886833,40.061434,-74.886833,40.061434",
     "geom:latitude":40.061434,
     "geom:longitude":-74.886833,
@@ -28,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cgzhBf5kNPziVNkdytT2o_40.061434_-74.886833@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314379,
     "wof:geomhash":"13c2dcaf5e4993440f507e5027ed9fc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655631165
+        }
+    ],
     "wof:id":655631165,
-    "wof:lastmodified":1466682010,
+    "wof:lastmodified":1492048433,
     "wof:name":"Bob Davis Transport",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

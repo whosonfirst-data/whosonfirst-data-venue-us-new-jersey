@@ -2,9 +2,14 @@
   "id": 655521065,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Dublin Rd Pennington NJ 08534",
+    "addr:housenumber":"58",
+    "addr:postcode":"08534",
+    "addr:street":"Dublin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.802234,40.318896,-74.802234,40.318896",
     "geom:latitude":40.318896,
     "geom:longitude":-74.802234,
@@ -29,7 +34,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19F16gluWTAA6tzNwcLmdK_40.318896_-74.802234@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461309711,
     "wof:geomhash":"7dba83b8973d9db8bd8c49e4060bd8a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":655521065
+        }
+    ],
     "wof:id":655521065,
-    "wof:lastmodified":1466678635,
+    "wof:lastmodified":1492048504,
     "wof:name":"Central Predicting Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

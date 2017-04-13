@@ -2,9 +2,14 @@
   "id": 655636681,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Yardville Allentown Rd Trenton NJ 08620",
+    "addr:housenumber":"335",
+    "addr:postcode":"08620",
+    "addr:street":"Yardville Allentown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.663928,40.177477,-74.663928,40.177477",
     "geom:latitude":40.177477,
     "geom:longitude":-74.663928,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976385,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qldijbrbj8Ffvoux3f463_40.177477_-74.663928@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314633,
     "wof:geomhash":"acbedad6c77b0c95fab24ad9e081547f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976385,
+            "region_id":85688607,
+            "venue_id":655636681
+        }
+    ],
     "wof:id":655636681,
-    "wof:lastmodified":1466682361,
+    "wof:lastmodified":1492053587,
     "wof:name":"Christopher Construction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

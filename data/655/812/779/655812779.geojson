@@ -2,9 +2,14 @@
   "id": 655812779,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 Sunset Rd # A Willingboro NJ 08046",
+    "addr:housenumber":"218",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd # A Willingboro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.884367,40.048268,-74.884367,40.048268",
     "geom:latitude":40.048268,
     "geom:longitude":-74.884367,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g5WSO8gTJpKZLSwM992yz_40.048268_-74.884367@1303262276"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321929,
     "wof:geomhash":"4027f9759d5acb99148f9a553e267b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812779
+        }
+    ],
     "wof:id":655812779,
-    "wof:lastmodified":1466687269,
+    "wof:lastmodified":1492027529,
     "wof:name":"Lady of Lourdes",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

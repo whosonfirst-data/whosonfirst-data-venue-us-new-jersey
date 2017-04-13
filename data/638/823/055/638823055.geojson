@@ -2,9 +2,14 @@
   "id": 638823055,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 W Main St Rahway NJ 07065",
+    "addr:housenumber":"103",
+    "addr:postcode":"07065",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275688,40.6105,-74.275688,40.6105",
     "geom:latitude":40.6105,
     "geom:longitude":-74.275688,
@@ -28,7 +33,14 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UBWmX7pJGjUA9CBF72ULw_40.610500_-74.275688@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461280808,
     "wof:geomhash":"2b94bef7554dfa6601a55c32ff510b57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638823055
+        }
+    ],
     "wof:id":638823055,
-    "wof:lastmodified":1466688491,
+    "wof:lastmodified":1492032720,
     "wof:name":"Odyssey International Prdctns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

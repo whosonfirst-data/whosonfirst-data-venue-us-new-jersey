@@ -2,9 +2,14 @@
   "id": 655653973,
   "type": "Feature",
   "properties": {
+    "addr:full":"459 Old Hook Rd Emerson NJ 07630",
+    "addr:housenumber":"459",
+    "addr:postcode":"07630",
+    "addr:street":"Old Hook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.006081,40.981703,-74.006081,40.981703",
     "geom:latitude":40.981703,
     "geom:longitude":-74.006081,
@@ -27,7 +32,14 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RWUvWboZatpZvLUIt35Aa_40.981703_-74.006081@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315333,
     "wof:geomhash":"aaf05d833fbdc6768eb46c73745bb5af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":655653973
+        }
+    ],
     "wof:id":655653973,
-    "wof:lastmodified":1466683113,
+    "wof:lastmodified":1492024295,
     "wof:name":"Moto Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639487511,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Delevan St Lambertville NJ 08530",
+    "addr:housenumber":"7",
+    "addr:postcode":"08530",
+    "addr:street":"Delevan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.94621,40.369052,-74.94621,40.369052",
     "geom:latitude":40.369052,
     "geom:longitude":-74.94621,
@@ -32,7 +37,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CcyQ0GmPu3V8safwvyo5Z_40.369052_-74.946210@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461296931,
     "wof:geomhash":"85aa822be126035a7901c1e6a82d1caa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639487511
+        }
+    ],
     "wof:id":639487511,
-    "wof:lastmodified":1466694533,
+    "wof:lastmodified":1492076446,
     "wof:name":"National Parts Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

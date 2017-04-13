@@ -2,9 +2,14 @@
   "id": 655563901,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Edison Rd Sparta NJ 07871",
+    "addr:housenumber":"122",
+    "addr:postcode":"07871",
+    "addr:street":"Edison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.571684,41.06415,-74.571684,41.06415",
     "geom:latitude":41.06415,
     "geom:longitude":-74.571684,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T7mAl5SrSg57bXtBHxnaG_41.064150_-74.571684@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311450,
     "wof:geomhash":"56237f39d36351b86a109c65afd79417",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":655563901
+        }
+    ],
     "wof:id":655563901,
-    "wof:lastmodified":1466679912,
+    "wof:lastmodified":1492053634,
     "wof:name":"Dining Out Mgzn",
     "wof:parent_id":420527679,
     "wof:placetype":"venue",

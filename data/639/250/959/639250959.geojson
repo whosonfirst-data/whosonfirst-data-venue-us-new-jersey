@@ -2,9 +2,14 @@
   "id": 639250959,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Pasadena Pl Hawthorne NJ 07506",
+    "addr:housenumber":"133",
+    "addr:postcode":"07506",
+    "addr:street":"Pasadena Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.161773,40.960879,-74.161773,40.960879",
     "geom:latitude":40.960879,
     "geom:longitude":-74.161773,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yH1fd0KLU3lNlsJIDEi2H_40.960879_-74.161773@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290851,
     "wof:geomhash":"d84b97d9993d75c59d111d3fd441f9f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":639250959
+        }
+    ],
     "wof:id":639250959,
-    "wof:lastmodified":1466690181,
+    "wof:lastmodified":1492070302,
     "wof:name":"Hughes-De Luccia Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

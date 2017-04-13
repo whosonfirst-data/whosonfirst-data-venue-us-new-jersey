@@ -2,9 +2,14 @@
   "id": 655647577,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 S Main St Lambertville NJ 08530",
+    "addr:housenumber":"5",
+    "addr:postcode":"08530",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.942772,40.365619,-74.942772,40.365619",
     "geom:latitude":40.365619,
     "geom:longitude":-74.942772,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.americadesigns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5grbC1kXHZghyiz9jRtwQS_40.365619_-74.942772@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315074,
     "wof:geomhash":"96eb505e756b3bf496d8d3ae355e9448",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655647577
+        }
+    ],
     "wof:id":655647577,
-    "wof:lastmodified":1466682866,
+    "wof:lastmodified":1492016998,
     "wof:name":"America Antiques & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

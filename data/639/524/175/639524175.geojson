@@ -2,9 +2,14 @@
   "id": 639524175,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Alexander Ct Morganville NJ 07751",
+    "addr:housenumber":"5",
+    "addr:postcode":"07751",
+    "addr:street":"Alexander Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294306,40.360756,-74.294306,40.360756",
     "geom:latitude":40.360756,
     "geom:longitude":-74.294306,
@@ -24,7 +29,15 @@
     "sg:postcode":"07751",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gtK6WvmtLHqaAf8QgHAPh_40.360756_-74.294306@1294171694"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1461298515,
     "wof:geomhash":"2bb83d17cbfb55280f7ced3d859bc354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":639524175
+        }
+    ],
     "wof:id":639524175,
-    "wof:lastmodified":1466695163,
+    "wof:lastmodified":1492042724,
     "wof:name":"American Leathersmith Inc",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

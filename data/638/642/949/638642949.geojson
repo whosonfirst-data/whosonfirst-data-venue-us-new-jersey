@@ -2,9 +2,14 @@
   "id": 638642949,
   "type": "Feature",
   "properties": {
+    "addr:full":"846 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"846",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134172,40.802906,-74.134172,40.802906",
     "geom:latitude":40.802906,
     "geom:longitude":-74.134172,
@@ -28,7 +33,13 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mMeO1wUgHjLxH2LLOLEen_40.802906_-74.134172@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461275609,
     "wof:geomhash":"4e8b351ef97c128feaeca0fbb4e0ae8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":638642949
+        }
+    ],
     "wof:id":638642949,
-    "wof:lastmodified":1466673590,
+    "wof:lastmodified":1492062313,
     "wof:name":"Infinity Four Video Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

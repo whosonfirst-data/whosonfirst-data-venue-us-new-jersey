@@ -2,9 +2,14 @@
   "id": 638882429,
   "type": "Feature",
   "properties": {
+    "addr:full":"363 State Rte 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"363",
+    "addr:postcode":"07444",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28446,40.964246,-74.28446,40.964246",
     "geom:latitude":40.964246,
     "geom:longitude":-74.28446,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RftkDjF8pSXk1VVhxTaMC_40.964246_-74.284460@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461282260,
     "wof:geomhash":"e3fe9ae48eb3f3c0befb5d8d93c00604",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638882429
+        }
+    ],
     "wof:id":638882429,
-    "wof:lastmodified":1466689746,
+    "wof:lastmodified":1492058410,
     "wof:name":"Snap Computer Software Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

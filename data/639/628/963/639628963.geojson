@@ -2,9 +2,14 @@
   "id": 639628963,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 Ringwood Ave Haskell NJ 07420",
+    "addr:housenumber":"923",
+    "addr:postcode":"07420",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294698,41.035916,-74.294698,41.035916",
     "geom:latitude":41.035916,
     "geom:longitude":-74.294698,
@@ -28,7 +33,14 @@
         "retrieval"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04WcjydOg0U9k7lBAAc57y_41.035916_-74.294698@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302879,
     "wof:geomhash":"51b7e05b3b9a7a9371c1c89d30d57b4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639628963
+        }
+    ],
     "wof:id":639628963,
-    "wof:lastmodified":1466697516,
+    "wof:lastmodified":1492051055,
     "wof:name":"Wrm Internet Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

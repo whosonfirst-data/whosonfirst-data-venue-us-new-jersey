@@ -2,9 +2,14 @@
   "id": 655406711,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Fischer Blvd Toms River NJ 08753",
+    "addr:housenumber":"801",
+    "addr:postcode":"08753",
+    "addr:street":"Fischer Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132504,39.968626,-74.132504,39.968626",
     "geom:latitude":39.968626,
     "geom:longitude":-74.132504,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527463,
+        85804835,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        420527463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":85804835,
+            "region_id":85688607,
+            "venue_id":655406711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":420527463,
             "region_id":85688607,
             "venue_id":655406711
         }
     ],
     "wof:id":655406711,
-    "wof:lastmodified":1466675656,
+    "wof:lastmodified":1492056154,
     "wof:name":"Mid-Shore Meats & Italian Deli",
-    "wof:parent_id":420527463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638995465,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Roosevelt Ave Piscataway NJ 08854",
+    "addr:housenumber":"600",
+    "addr:postcode":"08854",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.470148,40.535415,-74.470148,40.535415",
     "geom:latitude":40.535415,
     "geom:longitude":-74.470148,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85845173,
+        102087417,
         85865293,
         102191575,
         404478203,
-        85633793,
-        85976303,
-        102087417,
-        85688607
+        85976303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461285016,
     "wof:geomhash":"d352ffe270d1a384e0c2380c0ffdaeed",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85845173,
+            "region_id":85688607,
+            "venue_id":638995465
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":638995465,
-    "wof:lastmodified":1466692544,
+    "wof:lastmodified":1492049241,
     "wof:name":"Early Lrng Pre Schl Kndrgatern",
-    "wof:parent_id":85865293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

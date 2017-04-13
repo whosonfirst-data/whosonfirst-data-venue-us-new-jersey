@@ -2,9 +2,14 @@
   "id": 639339599,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Beaverson Blvd Brick NJ 08723",
+    "addr:housenumber":"17",
+    "addr:postcode":"08723",
+    "addr:street":"Beaverson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145469,40.032332,-74.145469,40.032332",
     "geom:latitude":40.032332,
     "geom:longitude":-74.145469,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.sovereignbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dJt6SX9kVlbXAm03aoCC5_40.032332_-74.145469@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461292802,
     "wof:geomhash":"2a74353c2497428716dcedaa32d229ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639339599
+        }
+    ],
     "wof:id":639339599,
-    "wof:lastmodified":1466692317,
+    "wof:lastmodified":1492042713,
     "wof:name":"Sovereign Bank",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

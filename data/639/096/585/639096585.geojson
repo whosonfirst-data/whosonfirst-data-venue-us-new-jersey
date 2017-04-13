@@ -2,9 +2,14 @@
   "id": 639096585,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 Edgewater Pl Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"2121",
+    "addr:postcode":"08742",
+    "addr:street":"Edgewater Pl Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.068057,40.087171,-74.068057,40.087171",
     "geom:latitude":40.087171,
     "geom:longitude":-74.068057,
@@ -29,7 +34,14 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Igu1vp5iSNBVqjOYgICf5_40.087171_-74.068057@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461287277,
     "wof:geomhash":"8c96c9344f9f364e7fd946c1e92c89dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639096585
+        }
+    ],
     "wof:id":639096585,
-    "wof:lastmodified":1466673832,
+    "wof:lastmodified":1492019949,
     "wof:name":"Health Match",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

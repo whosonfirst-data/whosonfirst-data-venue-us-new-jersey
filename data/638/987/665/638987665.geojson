@@ -2,9 +2,14 @@
   "id": 638987665,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Prospect Point Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"122",
+    "addr:postcode":"07849",
+    "addr:street":"Prospect Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620706,40.980186,-74.620706,40.980186",
     "geom:latitude":40.980186,
     "geom:longitude":-74.620706,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AvI0ukcLCq4Dsxfi5yqxg_40.980186_-74.620706@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461284823,
     "wof:geomhash":"ec79edf4b364cc70637363d2c86436e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":638987665
+        }
+    ],
     "wof:id":638987665,
-    "wof:lastmodified":1466691963,
+    "wof:lastmodified":1492029552,
     "wof:name":"W G Leach Jr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638725883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3992 State Rte 516 Matawan NJ 07747",
+    "addr:housenumber":"3992",
+    "addr:postcode":"07747",
+    "addr:street":"State Rte 516",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295928,40.403174,-74.295928,40.403174",
     "geom:latitude":40.403174,
     "geom:longitude":-74.295928,
@@ -35,10 +40,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527215,
         85812433,
         102191575,
         404478201,
-        85633793,
         85976295,
         102087417,
         85688607
@@ -52,6 +58,11 @@
     "wof:geomhash":"21ce2c9a5b6ca7e9293c4581e1c8b2d4",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527215,
+            "venue_id":638725883
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -63,9 +74,9 @@
         }
     ],
     "wof:id":638725883,
-    "wof:lastmodified":1466674817,
+    "wof:lastmodified":1492027657,
     "wof:name":"B Spinelli Farm Containers",
-    "wof:parent_id":85812433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

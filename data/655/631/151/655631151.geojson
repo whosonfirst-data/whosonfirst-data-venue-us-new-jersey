@@ -2,9 +2,14 @@
   "id": 655631151,
   "type": "Feature",
   "properties": {
+    "addr:full":"192 Bergen Blvd Little Falls NJ 07424",
+    "addr:housenumber":"192",
+    "addr:postcode":"07424",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210858,40.895973,-74.210858,40.895973",
     "geom:latitude":40.895973,
     "geom:longitude":-74.210858,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z5f2FfXRe8nVTe4hnlRx8_40.895973_-74.210858@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314379,
     "wof:geomhash":"3c34b1998ec092dd1f3e86c6613a19ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":655631151
+        }
+    ],
     "wof:id":655631151,
-    "wof:lastmodified":1466682006,
+    "wof:lastmodified":1492057047,
     "wof:name":"A J Installations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

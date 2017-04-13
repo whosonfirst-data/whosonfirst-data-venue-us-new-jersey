@@ -2,9 +2,14 @@
   "id": 655678897,
   "type": "Feature",
   "properties": {
+    "addr:full":"672 Ringwood Ave Wanaque NJ 07465",
+    "addr:housenumber":"672",
+    "addr:postcode":"07465",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.290001,41.0485,-74.290001,41.0485",
     "geom:latitude":41.0485,
     "geom:longitude":-74.290001,
@@ -28,7 +33,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TRkLomGsRzGHQTWoutvzb_41.048253_-74.289799@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316371,
     "wof:geomhash":"78f4502670b6a685c0948233b1ecb1d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655678897
+        }
+    ],
     "wof:id":655678897,
-    "wof:lastmodified":1466683874,
+    "wof:lastmodified":1492076259,
     "wof:name":"M & L Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

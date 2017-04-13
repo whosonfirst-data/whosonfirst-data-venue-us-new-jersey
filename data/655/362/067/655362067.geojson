@@ -2,9 +2,14 @@
   "id": 655362067,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Abrams Rd Milford NJ 08848",
+    "addr:housenumber":"5",
+    "addr:postcode":"08848",
+    "addr:street":"Abrams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.119809,40.613291,-75.119809,40.613291",
     "geom:latitude":40.613291,
     "geom:longitude":-75.119809,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22pj5ZPqYW9zMlmSSiMA2b_40.613291_-75.119809@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461303091,
     "wof:geomhash":"b76a0a72e0e3cbfb93bc93e4ce2bb1fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":655362067
+        }
+    ],
     "wof:id":655362067,
-    "wof:lastmodified":1466674406,
+    "wof:lastmodified":1492028568,
     "wof:name":"Ginger Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

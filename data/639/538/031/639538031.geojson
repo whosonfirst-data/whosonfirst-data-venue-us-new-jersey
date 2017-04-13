@@ -2,9 +2,14 @@
   "id": 639538031,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 US Hwy 9 Morganville NJ 07751",
+    "addr:housenumber":"14",
+    "addr:postcode":"07751",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306525,40.354226,-74.306525,40.354226",
     "geom:latitude":40.354226,
     "geom:longitude":-74.306525,
@@ -27,7 +32,15 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KNRtbdJftaIwJSt6w0Svv_40.354226_-74.306525@1294171694"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1461299179,
     "wof:geomhash":"7f5f4b13e206af5ac704a67fb732e409",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":639538031
+        }
+    ],
     "wof:id":639538031,
-    "wof:lastmodified":1466695364,
+    "wof:lastmodified":1492050207,
     "wof:name":"Central Jersey Sprinkler Supl",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639527989,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 Fairview Ave Fairview NJ 07022",
+    "addr:housenumber":"723",
+    "addr:postcode":"07022",
+    "addr:street":"Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.006887,40.820665,-74.006887,40.820665",
     "geom:latitude":40.820665,
     "geom:longitude":-74.006887,
@@ -28,7 +33,14 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K6NQA7lrGNgg1XSj3PTGk_40.820665_-74.006887@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298750,
     "wof:geomhash":"876f06e925a8d13769194df15a5421c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639527989
+        }
+    ],
     "wof:id":639527989,
-    "wof:lastmodified":1466695525,
+    "wof:lastmodified":1492042497,
     "wof:name":"AGL Welding Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

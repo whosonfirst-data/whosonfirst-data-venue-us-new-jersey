@@ -2,9 +2,14 @@
   "id": 639577597,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Kensington Pl Roseland NJ 07068",
+    "addr:housenumber":"5",
+    "addr:postcode":"07068",
+    "addr:street":"Kensington Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289127,40.812024,-74.289127,40.812024",
     "geom:latitude":40.812024,
     "geom:longitude":-74.289127,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85805093,
+        102191575,
+        404478053,
         85633793,
-        85842371,
-        102085043
+        85975283,
+        102085043,
+        85688607,
+        85842371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"1a95a526526d23424fb6ef60b6297a7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "neighbourhood_id":85805093,
+            "region_id":85688607,
+            "venue_id":639577597
+        },
+        {
             "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85842371,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":639577597,
-    "wof:lastmodified":1466696452,
+    "wof:lastmodified":1492050994,
     "wof:name":"Design of Times",
-    "wof:parent_id":85842371,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

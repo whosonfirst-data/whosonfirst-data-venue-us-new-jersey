@@ -2,9 +2,14 @@
   "id": 639540119,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Scherer Pl Mahwah NJ 07430",
+    "addr:housenumber":"5",
+    "addr:postcode":"07430",
+    "addr:street":"Scherer Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146302,41.094194,-74.146302,41.094194",
     "geom:latitude":41.094194,
     "geom:longitude":-74.146302,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hIgNUcLDSVaCsDW7pAq15_41.094194_-74.146302@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461299303,
     "wof:geomhash":"182c2d6039f8deb35413c2a5ebd2cb82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639540119
+        }
+    ],
     "wof:id":639540119,
-    "wof:lastmodified":1466695574,
+    "wof:lastmodified":1492076012,
     "wof:name":"L P Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

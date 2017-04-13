@@ -2,9 +2,14 @@
   "id": 638703345,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Stone Ave Hopatcong NJ 07843",
+    "addr:housenumber":"47",
+    "addr:postcode":"07843",
+    "addr:street":"Stone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.663234,40.92326,-74.663234,40.92326",
     "geom:latitude":40.92326,
     "geom:longitude":-74.663234,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kQPT0gtnIJYQl5kdSKXcV_40.923260_-74.663234@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461277652,
     "wof:geomhash":"c94c59c4b8c4c73e94dd21f6c0ebccfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "region_id":85688607,
+            "venue_id":638703345
+        }
+    ],
     "wof:id":638703345,
-    "wof:lastmodified":1466688621,
+    "wof:lastmodified":1492062310,
     "wof:name":"TW Fries Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

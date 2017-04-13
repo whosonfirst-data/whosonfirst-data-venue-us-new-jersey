@@ -2,9 +2,14 @@
   "id": 639614163,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 N Maple Ave Marlton NJ 08053",
+    "addr:housenumber":"235",
+    "addr:postcode":"08053",
+    "addr:street":"N Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.92421,39.914318,-74.92421,39.914318",
     "geom:latitude":39.914318,
     "geom:longitude":-74.92421,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PWvEj6stNIjBxpRb9rSLC_39.914318_-74.924210@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302286,
     "wof:geomhash":"7b9b058e1acf33a71ad77b778a968127",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639614163
+        }
+    ],
     "wof:id":639614163,
-    "wof:lastmodified":1466697234,
+    "wof:lastmodified":1492025345,
     "wof:name":"Studio Nails Beauty Salon",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

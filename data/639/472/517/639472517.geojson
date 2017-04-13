@@ -2,9 +2,14 @@
   "id": 639472517,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Somerset St Somerset NJ 08873",
+    "addr:housenumber":"565",
+    "addr:postcode":"08873",
+    "addr:street":"Somerset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.467843,40.487112,-74.467843,40.487112",
     "geom:latitude":40.487112,
     "geom:longitude":-74.467843,
@@ -24,7 +29,14 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I72GhDMEQb1dLazISl3FT_40.487112_-74.467843@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461296293,
     "wof:geomhash":"cabc6b8652b508032f5748c5a22ffbd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639472517
+        }
+    ],
     "wof:id":639472517,
-    "wof:lastmodified":1466694229,
+    "wof:lastmodified":1492042470,
     "wof:name":"Towne Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655393757,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Clarke St Dumont NJ 07628",
+    "addr:housenumber":"19",
+    "addr:postcode":"07628",
+    "addr:street":"Clarke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.981037,40.939637,-73.981037,40.939637",
     "geom:latitude":40.939637,
     "geom:longitude":-73.981037,
@@ -30,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rT8mnuv9ex7AgrToEEgNg_40.939637_-73.981037@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461304364,
     "wof:geomhash":"3aa6d3ce5fb4bc1e6250c6d210645306",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655393757
+        }
+    ],
     "wof:id":655393757,
-    "wof:lastmodified":1466675391,
+    "wof:lastmodified":1492040080,
     "wof:name":"E N Paul Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

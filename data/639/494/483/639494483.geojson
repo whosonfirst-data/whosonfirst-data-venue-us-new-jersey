@@ -2,9 +2,14 @@
   "id": 639494483,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Locust Dr Helmetta NJ 08828",
+    "addr:housenumber":"22",
+    "addr:postcode":"08828",
+    "addr:street":"Locust Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.43047,40.367786,-74.43047,40.367786",
     "geom:latitude":40.367786,
     "geom:longitude":-74.43047,
@@ -28,7 +33,10 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75nKpkkoU9RVRvMOros6rb_40.367786_-74.430470@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297194,
     "wof:geomhash":"95afc3c3ad6b093e02a64e9ea5079410",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639494483
+        }
+    ],
     "wof:id":639494483,
-    "wof:lastmodified":1466694565,
+    "wof:lastmodified":1492049587,
     "wof:name":"Lighthouse Electric Inc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

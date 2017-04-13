@@ -2,9 +2,14 @@
   "id": 639496943,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Springfield Ave Springfield NJ 07081",
+    "addr:housenumber":"200",
+    "addr:postcode":"07081",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.30005,40.711878,-74.30005,40.711878",
     "geom:latitude":40.711878,
     "geom:longitude":-74.30005,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_581YU7UnVBhQ8VsL0Ymftc_40.711878_-74.300050@1294171694"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461297288,
     "wof:geomhash":"b83147e0e47e94721d9fc47fa80ece44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639496943
+        }
+    ],
     "wof:id":639496943,
-    "wof:lastmodified":1466694642,
+    "wof:lastmodified":1492028978,
     "wof:name":"Green Springs Estate Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

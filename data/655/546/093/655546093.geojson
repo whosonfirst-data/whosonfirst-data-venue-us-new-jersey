@@ -2,9 +2,14 @@
   "id": 655546093,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 US Hwy 206 Newton NJ 07860",
+    "addr:housenumber":"529",
+    "addr:postcode":"07860",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.769061,41.019058,-74.769061,41.019058",
     "geom:latitude":41.019058,
     "geom:longitude":-74.769061,
@@ -31,8 +36,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527631,
+        85688607,
         85803133,
         102086779
     ],
@@ -46,6 +52,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655546093
+        },
+        {
+            "country_id":85633793,
             "county_id":102086779,
             "neighbourhood_id":85803133,
             "region_id":85688607,
@@ -53,9 +64,9 @@
         }
     ],
     "wof:id":655546093,
-    "wof:lastmodified":1466679304,
+    "wof:lastmodified":1492046265,
     "wof:name":"Curves",
-    "wof:parent_id":85803133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

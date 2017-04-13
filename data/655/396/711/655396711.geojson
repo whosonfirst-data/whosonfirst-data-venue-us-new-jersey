@@ -2,9 +2,14 @@
   "id": 655396711,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Sandy Ridge Rd Stockton NJ 08559",
+    "addr:housenumber":"70",
+    "addr:postcode":"08559",
+    "addr:street":"Sandy Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.949567,40.424155,-74.949567,40.424155",
     "geom:latitude":40.424155,
     "geom:longitude":-74.949567,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JhrRiLoFCJKkHLI0K2n8R_40.424155_-74.949567@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304490,
     "wof:geomhash":"3f1ba02ab4f69a45c70d310d63fe448f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527105,
+            "venue_id":655396711
+        }
+    ],
     "wof:id":655396711,
-    "wof:lastmodified":1466675394,
+    "wof:lastmodified":1492057147,
     "wof:name":"RJP Tile & Trim",
     "wof:parent_id":420527105,
     "wof:placetype":"venue",

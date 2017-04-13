@@ -2,9 +2,14 @@
   "id": 639617561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1391 Liberty Ave Union NJ 07083",
+    "addr:housenumber":"1391",
+    "addr:postcode":"07083",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28434,40.713586,-74.28434,40.713586",
     "geom:latitude":40.713586,
     "geom:longitude":-74.28434,
@@ -24,7 +29,13 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892525,
+        102085995,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sdrltm1140EMX1X9yz838_40.713586_-74.284340@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461302415,
     "wof:geomhash":"c9ef945dcc5e360a62892655cc724901",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892525,
+            "region_id":85688607,
+            "venue_id":639617561
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639617561
+        }
+    ],
     "wof:id":639617561,
-    "wof:lastmodified":1466697202,
+    "wof:lastmodified":1492057138,
     "wof:name":"Evangelical Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

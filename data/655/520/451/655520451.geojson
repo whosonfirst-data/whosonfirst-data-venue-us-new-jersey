@@ -2,9 +2,14 @@
   "id": 655520451,
   "type": "Feature",
   "properties": {
+    "addr:full":"365 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"365",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.310832,40.622461,-74.310832,40.622461",
     "geom:latitude":40.622461,
     "geom:longitude":-74.310832,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47iVOqdkb7qVxYi3REVLGq_40.622461_-74.310832@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461309689,
     "wof:geomhash":"a22a13946860d42eb48e3907a6d8b0ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655520451
+        }
+    ],
     "wof:id":655520451,
-    "wof:lastmodified":1466678737,
+    "wof:lastmodified":1492051942,
     "wof:name":"Clark Board-Edu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

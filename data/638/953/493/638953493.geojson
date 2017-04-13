@@ -2,9 +2,14 @@
   "id": 638953493,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Loeser Ave Clark NJ 07066",
+    "addr:housenumber":"38",
+    "addr:postcode":"07066",
+    "addr:street":"Loeser Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292988,40.621759,-74.292988,40.621759",
     "geom:latitude":40.621759,
     "geom:longitude":-74.292988,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CBMvTKZ6kTjTJ2mXdkBbU_40.621759_-74.292988@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461284102,
     "wof:geomhash":"e4e581849c98fe3566ef9e89f3adfe80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638953493
+        }
+    ],
     "wof:id":638953493,
-    "wof:lastmodified":1466691288,
+    "wof:lastmodified":1492024141,
     "wof:name":"Ludwig Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

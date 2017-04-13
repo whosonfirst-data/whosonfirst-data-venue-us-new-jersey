@@ -2,9 +2,14 @@
   "id": 655584259,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 E Prospect St Hackettstown NJ 07840",
+    "addr:housenumber":"707",
+    "addr:postcode":"07840",
+    "addr:street":"E Prospect St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.829302,40.862281,-74.829302,40.862281",
     "geom:latitude":40.862281,
     "geom:longitude":-74.829302,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HxFtzlEckva27Zg950bAo_40.862281_-74.829302@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312354,
     "wof:geomhash":"0fe6c0079ba4b5cd2055c0f0a0d4137a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":655584259
+        }
+    ],
     "wof:id":655584259,
-    "wof:lastmodified":1466680363,
+    "wof:lastmodified":1492048351,
     "wof:name":"Cunningham Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

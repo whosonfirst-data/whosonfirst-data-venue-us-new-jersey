@@ -2,9 +2,14 @@
   "id": 639482133,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 George St Spotswood NJ 08884",
+    "addr:housenumber":"40",
+    "addr:postcode":"08884",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.387712,40.3916,-74.387712,40.3916",
     "geom:latitude":40.3916,
     "geom:longitude":-74.387712,
@@ -28,7 +33,10 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65AoQVSjF4MmxMs3asMnVe_40.391600_-74.387712@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461296699,
     "wof:geomhash":"c9b6d4f6877c1f61450bc410e8022fdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639482133
+        }
+    ],
     "wof:id":639482133,
-    "wof:lastmodified":1466694318,
+    "wof:lastmodified":1492075334,
     "wof:name":"Spotswood Water Treatment Plnt",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

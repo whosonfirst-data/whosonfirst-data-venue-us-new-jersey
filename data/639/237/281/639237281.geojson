@@ -2,9 +2,14 @@
   "id": 639237281,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Main St Southampton NJ 08088",
+    "addr:housenumber":"485",
+    "addr:postcode":"08088",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750101,39.940505,-74.750101,39.940505",
     "geom:latitude":39.940505,
     "geom:longitude":-74.750101,
@@ -27,7 +32,10 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526567
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19l2sjYw3MZPdTVYGoUSYr_39.940505_-74.750101@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461290533,
     "wof:geomhash":"acf3af5b8bc147dd053202dc66e487c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526567,
+            "venue_id":639237281
+        }
+    ],
     "wof:id":639237281,
-    "wof:lastmodified":1466690032,
+    "wof:lastmodified":1492030499,
     "wof:name":"Pro-Finish Inc",
     "wof:parent_id":420526567,
     "wof:placetype":"venue",

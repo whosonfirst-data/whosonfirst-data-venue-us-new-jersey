@@ -2,9 +2,14 @@
   "id": 639546251,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 River Rd North Arlington NJ 07031",
+    "addr:housenumber":"23",
+    "addr:postcode":"07031",
+    "addr:street":"River Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145524,40.786379,-74.145524,40.786379",
     "geom:latitude":40.786379,
     "geom:longitude":-74.145524,
@@ -27,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qavWmDMntaB0RxwIUdE2u_40.786379_-74.145524@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299580,
     "wof:geomhash":"870f1bc979ba96628bee73976f70148b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639546251
+        }
+    ],
     "wof:id":639546251,
-    "wof:lastmodified":1466695651,
+    "wof:lastmodified":1492051390,
     "wof:name":"Random Access Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

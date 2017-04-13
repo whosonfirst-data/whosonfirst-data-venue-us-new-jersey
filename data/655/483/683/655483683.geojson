@@ -2,9 +2,14 @@
   "id": 655483683,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Co Rd 639 Bloomsbury NJ 08804",
+    "addr:housenumber":"501;639",
+    "addr:postcode":"08804",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.125564,40.650024,-75.125564,40.650024",
     "geom:latitude":40.650024,
     "geom:longitude":-75.125564,
@@ -27,7 +32,10 @@
         "profit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53Lw2u97cDdEwSuIEdpIVP_40.650024_-75.125564@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308152,
     "wof:geomhash":"75c83b2cf0c6707a9d2e36415fa8491e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527777,
+            "venue_id":655483683
+        }
+    ],
     "wof:id":655483683,
-    "wof:lastmodified":1466677741,
+    "wof:lastmodified":1492048102,
     "wof:name":"CRC of New Jersey",
     "wof:parent_id":420527777,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639601643,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Pulaski Rd Whitehouse NJ 08889",
+    "addr:housenumber":"111",
+    "addr:postcode":"08889",
+    "addr:street":"Pulaski Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.734426,40.593008,-74.734426,40.593008",
     "geom:latitude":40.593008,
     "geom:longitude":-74.734426,
@@ -24,7 +29,13 @@
     "sg:postcode":"08889",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03LYGZijfdKDq80A4j57as_40.593008_-74.734426@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461301798,
     "wof:geomhash":"2e852e1c83d3526a86c3cae4ef0816b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639601643
+        }
+    ],
     "wof:id":639601643,
-    "wof:lastmodified":1466697121,
+    "wof:lastmodified":1492065221,
     "wof:name":"Sigma-Aldrich Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

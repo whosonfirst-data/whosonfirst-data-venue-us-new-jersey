@@ -2,9 +2,14 @@
   "id": 639508479,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Risler St Stockton NJ 08559",
+    "addr:housenumber":"10",
+    "addr:postcode":"08559",
+    "addr:street":"Risler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.981587,40.407785,-74.981587,40.407785",
     "geom:latitude":40.407785,
     "geom:longitude":-74.981587,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477461,
+        85633793,
+        85975679,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6htmGLJIFCFiGqcADtQLqs_40.407785_-74.981587@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297779,
     "wof:geomhash":"a8bd8a9cefe22522e569683028699da7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477461,
+            "locality_id":85975679,
+            "region_id":85688607,
+            "venue_id":639508479
+        }
+    ],
     "wof:id":639508479,
-    "wof:lastmodified":1466694826,
+    "wof:lastmodified":1492053536,
     "wof:name":"Todd's Garage & Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

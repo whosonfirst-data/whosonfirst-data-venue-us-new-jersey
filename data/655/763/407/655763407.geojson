@@ -2,9 +2,14 @@
   "id": 655763407,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Newark Pompton Tpke Little Falls NJ 07424",
+    "addr:housenumber":"29",
+    "addr:postcode":"07424",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245544,40.885988,-74.245544,40.885988",
     "geom:latitude":40.885988,
     "geom:longitude":-74.245544,
@@ -27,7 +32,14 @@
         "buffet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hMiUc51WfT8ZnothpkPlw_40.885988_-74.245544@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319784,
     "wof:geomhash":"79fc8847e6b23b8373a03e1d3dbf9367",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":655763407
+        }
+    ],
     "wof:id":655763407,
-    "wof:lastmodified":1466685905,
+    "wof:lastmodified":1492028495,
     "wof:name":"Majestic Restaurant & Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

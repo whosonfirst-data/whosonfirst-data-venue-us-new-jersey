@@ -2,9 +2,14 @@
   "id": 655670609,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Snyders Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"100",
+    "addr:postcode":"08865",
+    "addr:street":"Snyders Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.188514,40.63624,-75.188514,40.63624",
     "geom:latitude":40.63624,
     "geom:longitude":-75.188514,
@@ -26,7 +31,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RtMO6MRtMqH8PZyGvnCTm_40.636240_-75.188514@1294171694"
@@ -34,11 +42,17 @@
     "wof:country":"US",
     "wof:created":1461316032,
     "wof:geomhash":"d6ce573baddcc7dfa1bfd04164c32acd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527789,
+            "venue_id":655670609
+        }
+    ],
     "wof:id":655670609,
-    "wof:lastmodified":1466683543,
+    "wof:lastmodified":1492041141,
     "wof:name":"Robert Frey",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

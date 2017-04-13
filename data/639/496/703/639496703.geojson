@@ -2,9 +2,14 @@
   "id": 639496703,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Pine Knoll Dr Lawrenceville NJ 08648",
+    "addr:housenumber":"8",
+    "addr:postcode":"08648",
+    "addr:street":"Pine Knoll Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.722605,40.276509,-74.722605,40.276509",
     "geom:latitude":40.276509,
     "geom:longitude":-74.722605,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85804261,
-        102081129
+        85851293,
+        102081129,
+        85804261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102081129,
+            "neighbourhood_id":85851293,
+            "region_id":85688607,
+            "venue_id":639496703
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
             "neighbourhood_id":85804261,
             "region_id":85688607,
             "venue_id":639496703
         }
     ],
     "wof:id":639496703,
-    "wof:lastmodified":1466694634,
+    "wof:lastmodified":1492025391,
     "wof:name":"Joseph I Tracy PHD",
-    "wof:parent_id":85804261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

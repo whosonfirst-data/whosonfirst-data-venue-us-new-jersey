@@ -2,9 +2,14 @@
   "id": 639337591,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Krotik Pl Irvington NJ 07111",
+    "addr:housenumber":"5",
+    "addr:postcode":"07111",
+    "addr:street":"Krotik Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243197,40.714034,-74.243197,40.714034",
     "geom:latitude":40.714034,
     "geom:longitude":-74.243197,
@@ -28,7 +33,13 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ef1KDZgPqFavKibmNIkTu_40.714034_-74.243197@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461292760,
     "wof:geomhash":"fc6060ab3efd4dfd6d70221e4aaeb20f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639337591
+        }
+    ],
     "wof:id":639337591,
-    "wof:lastmodified":1466692316,
+    "wof:lastmodified":1492023811,
     "wof:name":"Tops Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

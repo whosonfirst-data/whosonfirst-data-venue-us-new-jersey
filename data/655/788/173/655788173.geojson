@@ -2,9 +2,14 @@
   "id": 655788173,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Main St Branchville NJ 07826",
+    "addr:housenumber":"5",
+    "addr:postcode":"07826",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752565,41.146551,-74.752565,41.146551",
     "geom:latitude":41.146551,
     "geom:longitude":-74.752565,
@@ -36,7 +41,10 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WkWkCb55BMIckcjjdalrs_41.146551_-74.752565@1303262270"
@@ -44,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1461320904,
     "wof:geomhash":"37206f6fb2d2709e1e97a34307391c1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788173
+        }
+    ],
     "wof:id":655788173,
-    "wof:lastmodified":1466686556,
+    "wof:lastmodified":1492070863,
     "wof:name":"Municipal Government",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

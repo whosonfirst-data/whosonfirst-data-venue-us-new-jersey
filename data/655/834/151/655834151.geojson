@@ -2,9 +2,14 @@
   "id": 655834151,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S Warren St Trenton NJ 08608",
+    "addr:housenumber":"111",
+    "addr:postcode":"08608",
+    "addr:street":"S Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765677,40.221667,-74.765677,40.221667",
     "geom:latitude":40.221667,
     "geom:longitude":-74.765677,
@@ -29,7 +34,14 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g77UdSuAtQJuHJK3KGjsA_40.221667_-74.765677@1303262282"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461322829,
     "wof:geomhash":"68b66cb4913e6c9e96949badf2c2d36e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655834151
+        }
+    ],
     "wof:id":655834151,
-    "wof:lastmodified":1466687776,
+    "wof:lastmodified":1492043466,
     "wof:name":"Rainbowtown Chinese Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638990825,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Stephensburg Rd Port Murray NJ 07865",
+    "addr:housenumber":"148",
+    "addr:postcode":"07865",
+    "addr:street":"Stephensburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.877479,40.791255,-74.877479,40.791255",
     "geom:latitude":40.791255,
     "geom:longitude":-74.877479,
@@ -27,7 +32,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gYhbpWUTXXakJqE2OEz4z_40.791255_-74.877479@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461284916,
     "wof:geomhash":"c2284e22a1c6c3db07df5b0d7c6abe35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":638990825
+        }
+    ],
     "wof:id":638990825,
-    "wof:lastmodified":1466692084,
+    "wof:lastmodified":1492028577,
     "wof:name":"Lyon Low Voltage Electric Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

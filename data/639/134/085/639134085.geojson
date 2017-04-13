@@ -2,9 +2,14 @@
   "id": 639134085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Main St Branchville NJ 07826",
+    "addr:housenumber":"1",
+    "addr:postcode":"07826",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75235,41.146533,-74.75235,41.146533",
     "geom:latitude":41.146533,
     "geom:longitude":-74.75235,
@@ -29,7 +34,10 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A9qjPuny52apv0efw1R2F_41.146533_-74.752350@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461288161,
     "wof:geomhash":"01c6c2f98088b6dc0093c9ecda18bea2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":639134085
+        }
+    ],
     "wof:id":639134085,
-    "wof:lastmodified":1466678918,
+    "wof:lastmodified":1492026344,
     "wof:name":"Academy of Koei-Kan Karate",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

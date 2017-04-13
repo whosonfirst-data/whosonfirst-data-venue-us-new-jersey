@@ -2,9 +2,14 @@
   "id": 655462273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1467 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"1467",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255039,40.889688,-74.255039,40.889688",
     "geom:latitude":40.889688,
     "geom:longitude":-74.255039,
@@ -27,7 +32,13 @@
         "lingerie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qCE1EWAra2FEWBX3wEGdW_40.889688_-74.255039@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307261,
     "wof:geomhash":"6baa4fbd9f1a0303f2be779be7db2c17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655462273
+        }
+    ],
     "wof:id":655462273,
-    "wof:lastmodified":1466677106,
+    "wof:lastmodified":1492026112,
     "wof:name":"Victoria's Secret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

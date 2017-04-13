@@ -2,9 +2,14 @@
   "id": 638860757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 Gurd Ave Hillside NJ 07205",
+    "addr:housenumber":"1225",
+    "addr:postcode":"07205",
+    "addr:street":"Gurd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232985,40.694842,-74.232985,40.694842",
     "geom:latitude":40.694842,
     "geom:longitude":-74.232985,
@@ -28,7 +33,13 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61VDYnDEGLO9wljIR1LjL0_40.694842_-74.232985@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281773,
     "wof:geomhash":"8c3c785a44f2e97bf971d86d888c8e45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":638860757
+        }
+    ],
     "wof:id":638860757,
-    "wof:lastmodified":1466689431,
+    "wof:lastmodified":1492069517,
     "wof:name":"Hillside Little League Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

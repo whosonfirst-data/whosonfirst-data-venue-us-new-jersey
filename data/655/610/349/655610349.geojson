@@ -2,9 +2,14 @@
   "id": 655610349,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Veronica Ave Somerset NJ 08873",
+    "addr:housenumber":"54",
+    "addr:postcode":"08873",
+    "addr:street":"Veronica Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500984,40.480147,-74.500984,40.480147",
     "geom:latitude":40.480147,
     "geom:longitude":-74.500984,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.generalcontainer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cijCcv7EnLr6gbnjMgt1G_40.480147_-74.500984@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313435,
     "wof:geomhash":"20d3f84ba678db9d98ff77664c9a32eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":655610349
+        }
+    ],
     "wof:id":655610349,
-    "wof:lastmodified":1466681411,
+    "wof:lastmodified":1492044264,
     "wof:name":"General Container Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

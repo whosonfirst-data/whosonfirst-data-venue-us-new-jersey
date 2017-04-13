@@ -2,9 +2,14 @@
   "id": 639192021,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 Water St Belvidere NJ 07823",
+    "addr:housenumber":"659",
+    "addr:postcode":"07823",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067923,40.832335,-75.067923,40.832335",
     "geom:latitude":40.832335,
     "geom:longitude":-75.067923,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77Hd7ypwz4C7WRTEHGZCNY_40.832335_-75.067923@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289456,
     "wof:geomhash":"bc73969ad1d4ffb71451e2ec9e5f7a9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":639192021
+        }
+    ],
     "wof:id":639192021,
-    "wof:lastmodified":1466687461,
+    "wof:lastmodified":1492049871,
     "wof:name":"Belvidere Fire House Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

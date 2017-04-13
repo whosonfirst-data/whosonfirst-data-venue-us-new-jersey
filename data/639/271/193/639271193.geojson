@@ -2,9 +2,14 @@
   "id": 639271193,
   "type": "Feature",
   "properties": {
+    "addr:full":"553 State Rte 94 Newton NJ 07860",
+    "addr:housenumber":"553",
+    "addr:postcode":"07860",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.843385,41.015175,-74.843385,41.015175",
     "geom:latitude":41.015175,
     "geom:longitude":-74.843385,
@@ -27,7 +32,10 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MXqCMV9jHaVlqQU0F33lm_41.015175_-74.843385@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291325,
     "wof:geomhash":"4ce92adb929ff2837a31fe7abb90b52f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":639271193
+        }
+    ],
     "wof:id":639271193,
-    "wof:lastmodified":1466690724,
+    "wof:lastmodified":1492076464,
     "wof:name":"Gegenheimer Construction Inc",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

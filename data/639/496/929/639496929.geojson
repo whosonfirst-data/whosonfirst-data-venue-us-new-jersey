@@ -2,9 +2,14 @@
   "id": 639496929,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Main St Gladstone NJ 07934",
+    "addr:housenumber":"205",
+    "addr:postcode":"07934",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.662071,40.718792,-74.662071,40.718792",
     "geom:latitude":40.718792,
     "geom:longitude":-74.662071,
@@ -29,7 +34,14 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UYxb9pBb4HMAugYFhB1dJ_40.718792_-74.662071@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461297288,
     "wof:geomhash":"00e7b15dd8d825f0c4fb49c7d8e5f590",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":639496929
+        }
+    ],
     "wof:id":639496929,
-    "wof:lastmodified":1466694580,
+    "wof:lastmodified":1492042540,
     "wof:name":"Hunter Asset Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

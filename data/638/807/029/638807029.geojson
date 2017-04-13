@@ -2,9 +2,14 @@
   "id": 638807029,
   "type": "Feature",
   "properties": {
+    "addr:full":"88 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"88",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.62067,40.301512,-74.62067,40.301512",
     "geom:latitude":40.301512,
     "geom:longitude":-74.62067,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wv7N8JlPDugUT15steq1W_40.301512_-74.620670@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280383,
     "wof:geomhash":"2f906987b684ec83ba1f23f421a4b6a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":638807029
+        }
+    ],
     "wof:id":638807029,
-    "wof:lastmodified":1466686529,
+    "wof:lastmodified":1492056749,
     "wof:name":"Cardiology Associates",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

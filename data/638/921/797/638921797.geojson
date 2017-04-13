@@ -2,9 +2,14 @@
   "id": 638921797,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Kevin Rd Scotch Plains NJ 07076",
+    "addr:housenumber":"10",
+    "addr:postcode":"07076",
+    "addr:street":"Kevin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.383761,40.62646,-74.383761,40.62646",
     "geom:latitude":40.62646,
     "geom:longitude":-74.383761,
@@ -27,7 +32,13 @@
         "chemical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57A4nGNmYSir1XmLbBY4lE_40.626460_-74.383761@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283317,
     "wof:geomhash":"073b549e05ee973f46e5870e0c60ed32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":638921797
+        }
+    ],
     "wof:id":638921797,
-    "wof:lastmodified":1466690600,
+    "wof:lastmodified":1492049106,
     "wof:name":"Arcan Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639158129,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Valley Station Rd Asbury NJ 08802",
+    "addr:housenumber":"119",
+    "addr:postcode":"08802",
+    "addr:street":"Valley Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036074,40.672713,-75.036074,40.672713",
     "geom:latitude":40.672713,
     "geom:longitude":-75.036074,
@@ -29,7 +34,10 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EqgXBlzPfg9wtXQn7ppI_40.672713_-75.036074@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461288714,
     "wof:geomhash":"3ef799ba597d011addfa7381e858943f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639158129
+        }
+    ],
     "wof:id":639158129,
-    "wof:lastmodified":1466682683,
+    "wof:lastmodified":1492050500,
     "wof:name":"Huff's Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

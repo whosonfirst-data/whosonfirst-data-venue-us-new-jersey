@@ -2,9 +2,14 @@
   "id": 639580709,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Sunrise Dr Montvale NJ 07645",
+    "addr:housenumber":"14",
+    "addr:postcode":"07645",
+    "addr:street":"Sunrise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.069413,41.059567,-74.069413,41.059567",
     "geom:latitude":41.059567,
     "geom:longitude":-74.069413,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lyCQrnItd6HF1WqtSC52o_41.059567_-74.069413@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300931,
     "wof:geomhash":"5bbcf25c9cbb12d527707aeb11e9aa3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639580709
+        }
+    ],
     "wof:id":639580709,
-    "wof:lastmodified":1466696553,
+    "wof:lastmodified":1492039015,
     "wof:name":"Hackensack Sleep Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

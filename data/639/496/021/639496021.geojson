@@ -2,9 +2,14 @@
   "id": 639496021,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Farmingdale Rd Jackson NJ 08527",
+    "addr:housenumber":"790",
+    "addr:postcode":"08527",
+    "addr:street":"Farmingdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288786,40.163734,-74.288786,40.163734",
     "geom:latitude":40.163734,
     "geom:longitude":-74.288786,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13jVxlIu0tIuIFKdPLsDlL_40.163734_-74.288786@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297251,
     "wof:geomhash":"3a6a3c1264d6b3ebf34d0c9fbad9c551",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639496021
+        }
+    ],
     "wof:id":639496021,
-    "wof:lastmodified":1466694604,
+    "wof:lastmodified":1492047667,
     "wof:name":"Run For Roses  LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

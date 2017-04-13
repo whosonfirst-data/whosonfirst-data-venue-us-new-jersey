@@ -2,9 +2,14 @@
   "id": 655409595,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 Hopewell Rocky Hill Rd Hopewell NJ 08525",
+    "addr:housenumber":"154",
+    "addr:postcode":"08525",
+    "addr:street":"Hopewell Rocky Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.743873,40.395326,-74.743873,40.395326",
     "geom:latitude":40.395326,
     "geom:longitude":-74.743873,
@@ -27,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zYiYRBWzPBqivlePvfPep_40.395326_-74.743873@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461305038,
     "wof:geomhash":"88d5f13df190c00f028a18ac701f6fd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":655409595
+        }
+    ],
     "wof:id":655409595,
-    "wof:lastmodified":1466675827,
+    "wof:lastmodified":1492042999,
     "wof:name":"Adler Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655527457,
   "type": "Feature",
   "properties": {
+    "addr:full":"2060 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2060",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485913,40.435366,-74.485913,40.435366",
     "geom:latitude":40.435366,
     "geom:longitude":-74.485913,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ahlT2QbcNNmvK5G7ZX2SJ_40.435366_-74.485913@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309945,
     "wof:geomhash":"11d50bcbb99d39c8cd4e0190bad1b7a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655527457
+        }
+    ],
     "wof:id":655527457,
-    "wof:lastmodified":1466678925,
+    "wof:lastmodified":1492070330,
     "wof:name":"Dayton Auto Ctr",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

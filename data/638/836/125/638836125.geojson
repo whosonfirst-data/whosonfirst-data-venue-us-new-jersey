@@ -2,9 +2,14 @@
   "id": 638836125,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 River Rd Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"4000",
+    "addr:postcode":"08742",
+    "addr:street":"River Rd Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.087294,40.094456,-74.087294,40.094456",
     "geom:latitude":40.094456,
     "geom:longitude":-74.087294,
@@ -30,7 +35,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75y9cvrE84qVQJGuM9zO0D_40.094456_-74.087294@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461281142,
     "wof:geomhash":"aa47672397f3edc7a81fe38c190523a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638836125
+        }
+    ],
     "wof:id":638836125,
-    "wof:lastmodified":1466688970,
+    "wof:lastmodified":1492049944,
     "wof:name":"Jersey Shore Yacht Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639091941,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Ruckman Rd Closter NJ 07624",
+    "addr:housenumber":"81",
+    "addr:postcode":"07624",
+    "addr:street":"Ruckman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.957234,40.973734,-73.957234,40.973734",
     "geom:latitude":40.973734,
     "geom:longitude":-73.957234,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w4XD3ykYriY2FW84ti0jx_40.973734_-73.957234@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287184,
     "wof:geomhash":"50f50f49fb5fae67e1f86e4d49890108",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639091941
+        }
+    ],
     "wof:id":639091941,
-    "wof:lastmodified":1466673222,
+    "wof:lastmodified":1492050731,
     "wof:name":"Capresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

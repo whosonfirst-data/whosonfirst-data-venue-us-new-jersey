@@ -2,9 +2,14 @@
   "id": 639134879,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Kansas Dr Jackson NJ 08527",
+    "addr:housenumber":"11",
+    "addr:postcode":"08527",
+    "addr:street":"Kansas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252828,40.139095,-74.252828,40.139095",
     "geom:latitude":40.139095,
     "geom:longitude":-74.252828,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_583ErLdWE23vFng9viGRI3_40.139095_-74.252828@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288183,
     "wof:geomhash":"ffc75cda8d6634cb0c4115c18d653719",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639134879
+        }
+    ],
     "wof:id":639134879,
-    "wof:lastmodified":1466679027,
+    "wof:lastmodified":1492053237,
     "wof:name":"All Phase Painting",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

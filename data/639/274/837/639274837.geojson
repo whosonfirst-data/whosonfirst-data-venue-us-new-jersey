@@ -2,9 +2,14 @@
   "id": 639274837,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 4th St Fair Lawn NJ 07410",
+    "addr:housenumber":"16",
+    "addr:postcode":"07410",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134684,40.930483,-74.134684,40.930483",
     "geom:latitude":40.930483,
     "geom:longitude":-74.134684,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tsB5D0fIz8E1KouhQ626E_40.930483_-74.134684@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291430,
     "wof:geomhash":"8f046cb29038f14bfe3ed5911fd1407c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639274837
+        }
+    ],
     "wof:id":639274837,
-    "wof:lastmodified":1466690786,
+    "wof:lastmodified":1492076582,
     "wof:name":"Backburner Projects LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638630089,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 S River Rd Cranbury NJ 08535",
+    "addr:housenumber":"8",
+    "addr:postcode":"08535",
+    "addr:street":"S River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.443499,40.22656,-74.443499,40.22656",
     "geom:latitude":40.22656,
     "geom:longitude":-74.443499,
@@ -27,7 +32,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s32McDiCmrWPEqYrzgbSG_40.226560_-74.443499@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461275223,
     "wof:geomhash":"b02307d0e6f86696d4912361d90afb8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":638630089
+        }
+    ],
     "wof:id":638630089,
-    "wof:lastmodified":1466673186,
+    "wof:lastmodified":1492062593,
     "wof:name":"Blasland Bouck & Lee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

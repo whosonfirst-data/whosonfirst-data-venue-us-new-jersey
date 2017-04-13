@@ -2,9 +2,14 @@
   "id": 655433569,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Lockwood Ave Stanhope NJ 07874",
+    "addr:housenumber":"15",
+    "addr:postcode":"07874",
+    "addr:street":"Lockwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.72123,40.921574,-74.72123,40.921574",
     "geom:latitude":40.921574,
     "geom:longitude":-74.72123,
@@ -27,7 +32,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nzvpA5rNtkilg2JKmZHuM_40.921574_-74.721230@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306042,
     "wof:geomhash":"ec925d9cc777d2443e73f6e1ba7b801c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":655433569
+        }
+    ],
     "wof:id":655433569,
-    "wof:lastmodified":1466676399,
+    "wof:lastmodified":1492026221,
     "wof:name":"Czech Music Valvotronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

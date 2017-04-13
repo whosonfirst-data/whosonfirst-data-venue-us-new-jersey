@@ -2,9 +2,14 @@
   "id": 655409003,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Ridge Rd Dayton NJ 08831",
+    "addr:housenumber":"174",
+    "addr:postcode":"08831",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.472023,40.374357,-74.472023,40.374357",
     "geom:latitude":40.374357,
     "geom:longitude":-74.472023,
@@ -37,7 +42,10 @@
     ],
     "sg:website":"www.lifegas.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kK9nfbjAPKUv7To12kGbl_40.374357_-74.472023@1294171694"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461305016,
     "wof:geomhash":"cb9ea1dde74425ea8eb860c901033d34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655409003
+        }
+    ],
     "wof:id":655409003,
-    "wof:lastmodified":1466675673,
+    "wof:lastmodified":1492029463,
     "wof:name":"Life Gass",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

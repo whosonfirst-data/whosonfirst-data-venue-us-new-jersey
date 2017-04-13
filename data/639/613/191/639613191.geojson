@@ -2,9 +2,14 @@
   "id": 639613191,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Walter Dr Jackson NJ 08527",
+    "addr:housenumber":"54",
+    "addr:postcode":"08527",
+    "addr:street":"Walter Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.36631,40.109005,-74.36631,40.109005",
     "geom:latitude":40.109005,
     "geom:longitude":-74.36631,
@@ -24,7 +29,10 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3blIhyjTAsQobY5oz8NwLK_40.109005_-74.366310@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461302252,
     "wof:geomhash":"25496f7318fc681603f9e7ef682eb989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527441,
+            "venue_id":639613191
+        }
+    ],
     "wof:id":639613191,
-    "wof:lastmodified":1466697122,
+    "wof:lastmodified":1492055645,
     "wof:name":"Whispers From Past",
     "wof:parent_id":420527441,
     "wof:placetype":"venue",

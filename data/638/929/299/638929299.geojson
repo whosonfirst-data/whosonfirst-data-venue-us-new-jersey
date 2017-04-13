@@ -2,9 +2,14 @@
   "id": 638929299,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Pine Rd Howell NJ 07731",
+    "addr:housenumber":"20",
+    "addr:postcode":"07731",
+    "addr:street":"Pine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220699,40.163468,-74.220699,40.163468",
     "geom:latitude":40.163468,
     "geom:longitude":-74.220699,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u6ACto9uS9TvBllh42Uza_40.163468_-74.220699@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283497,
     "wof:geomhash":"aa4ff01b4e6907ca2933c6900c8f7e3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":638929299
+        }
+    ],
     "wof:id":638929299,
-    "wof:lastmodified":1466690889,
+    "wof:lastmodified":1492049206,
     "wof:name":"Hausherrs Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

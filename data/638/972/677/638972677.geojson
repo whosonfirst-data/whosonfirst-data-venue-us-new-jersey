@@ -2,9 +2,14 @@
   "id": 638972677,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Grant Pl Irvington NJ 07111",
+    "addr:housenumber":"30",
+    "addr:postcode":"07111",
+    "addr:street":"Grant Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237129,40.728304,-74.237129,40.728304",
     "geom:latitude":40.728304,
     "geom:longitude":-74.237129,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lObhGsIdtvH1ZBMjBsfo3_40.728304_-74.237129@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461284510,
     "wof:geomhash":"ef13f3f9609bdb6c817dbd90d9c1c021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638972677
+        }
+    ],
     "wof:id":638972677,
-    "wof:lastmodified":1466691760,
+    "wof:lastmodified":1492024336,
     "wof:name":"Hr Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

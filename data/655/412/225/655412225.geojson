@@ -2,9 +2,14 @@
   "id": 655412225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Illinois Dr Whiting NJ 08759",
+    "addr:housenumber":"1",
+    "addr:postcode":"08759",
+    "addr:street":"Illinois Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.396895,39.953973,-74.396895,39.953973",
     "geom:latitude":39.953973,
     "geom:longitude":-74.396895,
@@ -27,7 +32,10 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R5UD0ypBHyJMjsrSPn3XF_39.953973_-74.396895@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305158,
     "wof:geomhash":"b6c169551c30be13f1aa9712894b1df4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":655412225
+        }
+    ],
     "wof:id":655412225,
-    "wof:lastmodified":1466675778,
+    "wof:lastmodified":1492029383,
     "wof:name":"Forest L Decker",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

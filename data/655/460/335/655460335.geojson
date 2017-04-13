@@ -2,9 +2,14 @@
   "id": 655460335,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 Thomas St Hillside NJ 07205",
+    "addr:housenumber":"1036",
+    "addr:postcode":"07205",
+    "addr:street":"Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232697,40.690221,-74.232697,40.690221",
     "geom:latitude":40.690221,
     "geom:longitude":-74.232697,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NdYQ6Fz4cyjy0hSkXnEIe_40.690221_-74.232697@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307169,
     "wof:geomhash":"bd2d0f8b33ebc22c4e5196a1027d9fe6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655460335
+        }
+    ],
     "wof:id":655460335,
-    "wof:lastmodified":1466677108,
+    "wof:lastmodified":1492017054,
     "wof:name":"Cassandra Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

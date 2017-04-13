@@ -2,9 +2,14 @@
   "id": 655590713,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Lincoln St Fairview NJ 07022",
+    "addr:housenumber":"91",
+    "addr:postcode":"07022",
+    "addr:street":"Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.000718,40.813343,-74.000718,40.813343",
     "geom:latitude":40.813343,
     "geom:longitude":-74.000718,
@@ -29,7 +34,14 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25PiW4Eehxyqdck113JqYO_40.813343_-74.000718@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461312624,
     "wof:geomhash":"b9d455dd9ae23ea522bc93d2fd3bd053",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655590713
+        }
+    ],
     "wof:id":655590713,
-    "wof:lastmodified":1466680786,
+    "wof:lastmodified":1492044392,
     "wof:name":"Louise Magrino Fitness Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

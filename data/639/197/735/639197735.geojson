@@ -2,9 +2,14 @@
   "id": 639197735,
   "type": "Feature",
   "properties": {
+    "addr:full":"626 Winchester Ave Union NJ 07083",
+    "addr:housenumber":"626",
+    "addr:postcode":"07083",
+    "addr:street":"Winchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252036,40.679146,-74.252036,40.679146",
     "geom:latitude":40.679146,
     "geom:longitude":-74.252036,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7czCvBPtU7kSzkCVsqi85O_40.679146_-74.252036@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289580,
     "wof:geomhash":"7f80a77b0cba6ee0d9b6a8dd4e60bffa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639197735
+        }
+    ],
     "wof:id":639197735,
-    "wof:lastmodified":1466688227,
+    "wof:lastmodified":1492044070,
     "wof:name":"By Andrei Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

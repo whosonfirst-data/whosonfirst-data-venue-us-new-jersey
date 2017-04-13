@@ -2,9 +2,14 @@
   "id": 655366099,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Tartan Rd Mahwah NJ 07430",
+    "addr:housenumber":"31",
+    "addr:postcode":"07430",
+    "addr:street":"Tartan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.107025,41.085144,-74.107025,41.085144",
     "geom:latitude":41.085144,
     "geom:longitude":-74.107025,
@@ -27,7 +32,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vHqYojpUix4vEiFzUlDsp_41.085144_-74.107025@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303267,
     "wof:geomhash":"8ef5a409241e7cfdf5760d48b81b1a74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655366099
+        }
+    ],
     "wof:id":655366099,
-    "wof:lastmodified":1466674432,
+    "wof:lastmodified":1492058259,
     "wof:name":"Dickinson Manor Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

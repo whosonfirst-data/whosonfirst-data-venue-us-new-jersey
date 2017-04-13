@@ -2,9 +2,14 @@
   "id": 639203725,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Leanne Dr New Egypt NJ 08533",
+    "addr:housenumber":"103",
+    "addr:postcode":"08533",
+    "addr:street":"Leanne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.455743,40.095024,-74.455743,40.095024",
     "geom:latitude":40.095024,
     "geom:longitude":-74.455743,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527449
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T56yMWXkqrTU4uB2k3yF1_40.095024_-74.455743@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289733,
     "wof:geomhash":"a0cbf291cb02efb235a6ab0d0b3eee17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527449,
+            "venue_id":639203725
+        }
+    ],
     "wof:id":639203725,
-    "wof:lastmodified":1466689012,
+    "wof:lastmodified":1492042701,
     "wof:name":"B R Associates",
     "wof:parent_id":420527449,
     "wof:placetype":"venue",

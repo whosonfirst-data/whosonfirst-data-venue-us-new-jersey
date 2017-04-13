@@ -2,9 +2,14 @@
   "id": 638819891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4651 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"4651",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.224512,40.137521,-74.224512,40.137521",
     "geom:latitude":40.137521,
     "geom:longitude":-74.224512,
@@ -30,15 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85850237,
-        102085049,
         420527425,
         102191575,
         404477773,
+        85633793,
         85976347,
-        102081485
+        102081485,
+        85688607,
+        85850237,
+        102085049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +54,6 @@
     "wof:geomhash":"0b8e7aaa00f674352ad784ff36c3ca7f",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085049,
-            "neighbourhood_id":85850237,
-            "region_id":85688607,
-            "venue_id":638819891
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -64,12 +62,19 @@
             "neighbourhood_id":420527425,
             "region_id":85688607,
             "venue_id":638819891
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85850237,
+            "region_id":85688607,
+            "venue_id":638819891
         }
     ],
     "wof:id":638819891,
-    "wof:lastmodified":1466688143,
+    "wof:lastmodified":1492030965,
     "wof:name":"Howell Self Service Car Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

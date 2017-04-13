@@ -2,9 +2,14 @@
   "id": 639341729,
   "type": "Feature",
   "properties": {
+    "addr:full":"465 N Franklin Tpke Ramsey NJ 07446",
+    "addr:housenumber":"465",
+    "addr:postcode":"07446",
+    "addr:street":"N Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138148,41.075402,-74.138148,41.075402",
     "geom:latitude":41.075402,
     "geom:longitude":-74.138148,
@@ -28,7 +33,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mdStTO5qCuqli75XMsXq0_41.075402_-74.138148@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292848,
     "wof:geomhash":"b8acf5ca010ce20d3e93fe692c4b05bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":639341729
+        }
+    ],
     "wof:id":639341729,
-    "wof:lastmodified":1466692361,
+    "wof:lastmodified":1492076006,
     "wof:name":"Oncology Syst Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

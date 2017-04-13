@@ -2,9 +2,14 @@
   "id": 638948539,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Blackwell Rd Flemington NJ 08822",
+    "addr:housenumber":"8",
+    "addr:postcode":"08822",
+    "addr:street":"Blackwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.787493,40.489348,-74.787493,40.489348",
     "geom:latitude":40.489348,
     "geom:longitude":-74.787493,
@@ -24,7 +29,10 @@
     "sg:postcode":"08822",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QGoTZzemousoQZExqdb17_40.489348_-74.787493@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461283992,
     "wof:geomhash":"79e186e7a537059d6ac3be200eec848d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":638948539
+        }
+    ],
     "wof:id":638948539,
-    "wof:lastmodified":1466691396,
+    "wof:lastmodified":1492030663,
     "wof:name":"Gourmet Appliances LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

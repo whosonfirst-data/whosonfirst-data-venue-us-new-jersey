@@ -2,9 +2,14 @@
   "id": 655365415,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Dunkard Church Rd Stockton NJ 08559",
+    "addr:housenumber":"34",
+    "addr:postcode":"08559",
+    "addr:street":"Dunkard Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.885644,40.445426,-74.885644,40.445426",
     "geom:latitude":40.445426,
     "geom:longitude":-74.885644,
@@ -28,7 +33,10 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42Y1IMYZygVU1sCAAqxgEo_40.445426_-74.885644@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303237,
     "wof:geomhash":"34a3b79e04f8aa50d937e05ec50f11a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":655365415
+        }
+    ],
     "wof:id":655365415,
-    "wof:lastmodified":1466674518,
+    "wof:lastmodified":1492070359,
     "wof:name":"Canscan Scanner Supplies",
     "wof:parent_id":420527135,
     "wof:placetype":"venue",

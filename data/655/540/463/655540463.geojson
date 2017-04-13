@@ -2,9 +2,14 @@
   "id": 655540463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1119 Bergen Ave Camden NJ 08105",
+    "addr:housenumber":"1119",
+    "addr:postcode":"08105",
+    "addr:street":"Bergen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.088145,39.963011,-75.088145,39.963011",
     "geom:latitude":39.963011,
     "geom:longitude":-75.088145,
@@ -27,7 +32,14 @@
         "broadcast"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526751,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6flcgLwkDquqJ1FlxKtP0R_39.963011_-75.088145@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310443,
     "wof:geomhash":"b15f6e25bdd27406fe18a445cb2710e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526751,
+            "region_id":85688607,
+            "venue_id":655540463
+        }
+    ],
     "wof:id":655540463,
-    "wof:lastmodified":1466679271,
+    "wof:lastmodified":1492042014,
     "wof:name":"Family Enterprises",
     "wof:parent_id":420526751,
     "wof:placetype":"venue",

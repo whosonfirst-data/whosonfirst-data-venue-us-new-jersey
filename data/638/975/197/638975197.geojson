@@ -2,9 +2,14 @@
   "id": 638975197,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Tenby Chase Dr Delran NJ 08075",
+    "addr:housenumber":"193",
+    "addr:postcode":"08075",
+    "addr:street":"Tenby Chase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.963466,40.009709,-74.963466,40.009709",
     "geom:latitude":40.009709,
     "geom:longitude":-74.963466,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zi9a5QGaNMqMLygGvhCxH_40.009709_-74.963466@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461284561,
     "wof:geomhash":"000bce3687b39f99e32fedcb5523d2eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":638975197
+        }
+    ],
     "wof:id":638975197,
-    "wof:lastmodified":1466691765,
+    "wof:lastmodified":1492030938,
     "wof:name":"Tenbytowne Apartments & Twnhse",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

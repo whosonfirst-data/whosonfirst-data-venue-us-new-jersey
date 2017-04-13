@@ -2,9 +2,14 @@
   "id": 638816631,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Co Rd 627 Milford NJ 08848",
+    "addr:housenumber":"180;627",
+    "addr:postcode":"08848",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.14547,40.577523,-75.14547,40.577523",
     "geom:latitude":40.577523,
     "geom:longitude":-75.14547,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K8QlbZJaGHoJ6LmceGQYx_40.577523_-75.145470@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461280624,
     "wof:geomhash":"b54b90a425d581aa1ea63e7fb6168fdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":638816631
+        }
+    ],
     "wof:id":638816631,
-    "wof:lastmodified":1466687712,
+    "wof:lastmodified":1492023715,
     "wof:name":"Great American Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

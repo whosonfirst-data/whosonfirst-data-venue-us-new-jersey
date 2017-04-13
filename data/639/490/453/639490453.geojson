@@ -2,9 +2,14 @@
   "id": 639490453,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Stamets Rd Milford NJ 08848",
+    "addr:housenumber":"409",
+    "addr:postcode":"08848",
+    "addr:street":"Stamets Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.062589,40.565654,-75.062589,40.565654",
     "geom:latitude":40.565654,
     "geom:longitude":-75.062589,
@@ -27,7 +32,10 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AG5DAVPkP1d45mfQGeYEE_40.565654_-75.062589@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297043,
     "wof:geomhash":"05ede258ae63dd0eed5e25dd7a00c892",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":639490453
+        }
+    ],
     "wof:id":639490453,
-    "wof:lastmodified":1466694485,
+    "wof:lastmodified":1492053535,
     "wof:name":"Nielsen Associates",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

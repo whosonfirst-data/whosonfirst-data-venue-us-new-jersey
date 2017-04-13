@@ -2,9 +2,14 @@
   "id": 655835451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Ocean Ave Ste 1 Lakewood NJ 08701",
+    "addr:housenumber":"1150",
+    "addr:postcode":"08701",
+    "addr:street":"Ocean Ave Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170687,40.082864,-74.170687,40.082864",
     "geom:latitude":40.082864,
     "geom:longitude":-74.170687,
@@ -37,7 +42,10 @@
     ],
     "sg:website":"http://www.fordvehicles.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_132uRrMO9vFWVuUumcINV1_40.082864_-74.170687@1303262282"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461322884,
     "wof:geomhash":"09c8ecd3070686a754d5da3088a67dd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655835451
+        }
+    ],
     "wof:id":655835451,
-    "wof:lastmodified":1466687906,
+    "wof:lastmodified":1492070968,
     "wof:name":"Larson Ford Suzuki",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

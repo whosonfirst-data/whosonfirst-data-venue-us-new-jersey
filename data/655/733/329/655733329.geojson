@@ -2,9 +2,14 @@
   "id": 655733329,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Central Ave Clark NJ 07066",
+    "addr:housenumber":"122",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.308502,40.629902,-74.308502,40.629902",
     "geom:latitude":40.629902,
     "geom:longitude":-74.308502,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xAWI1llokxwRCfuluNXLw_40.629902_-74.308502@1303262257"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318657,
     "wof:geomhash":"e9824cf76ac616db96eae1e7e9491c24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733329
+        }
+    ],
     "wof:id":655733329,
-    "wof:lastmodified":1466685102,
+    "wof:lastmodified":1492023416,
     "wof:name":"Borker Gary DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

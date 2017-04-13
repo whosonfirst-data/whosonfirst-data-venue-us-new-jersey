@@ -2,9 +2,14 @@
   "id": 639449287,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Palisade Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"220",
+    "addr:postcode":"07010",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992325,40.812363,-73.992325,40.812363",
     "geom:latitude":40.812363,
     "geom:longitude":-73.992325,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MQYmXHXsFinh6gr4LoHFm_40.812363_-73.992325@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461295381,
     "wof:geomhash":"63465df67e0bea7e502e6ae7c27dd81c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639449287
+        }
+    ],
     "wof:id":639449287,
-    "wof:lastmodified":1466693700,
+    "wof:lastmodified":1492060958,
     "wof:name":"Mejias Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

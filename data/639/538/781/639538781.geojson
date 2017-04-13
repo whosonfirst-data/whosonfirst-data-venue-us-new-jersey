@@ -2,9 +2,14 @@
   "id": 639538781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Municipal Plz Jamesburg NJ 08831",
+    "addr:housenumber":"3",
+    "addr:postcode":"08831",
+    "addr:street":"Municipal Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.441996,40.330179,-74.441996,40.330179",
     "geom:latitude":40.330179,
     "geom:longitude":-74.441996,
@@ -27,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_064RotMS2Ojlu8vY2cU0zb_40.330179_-74.441996@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299225,
     "wof:geomhash":"57d4f3b16d45bda1b755567ca735571a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527181,
+            "venue_id":639538781
+        }
+    ],
     "wof:id":639538781,
-    "wof:lastmodified":1466695529,
+    "wof:lastmodified":1492046231,
     "wof:name":"Police Headquarters",
     "wof:parent_id":420527181,
     "wof:placetype":"venue",

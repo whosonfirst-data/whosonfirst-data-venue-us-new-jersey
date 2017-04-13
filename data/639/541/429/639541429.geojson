@@ -2,9 +2,14 @@
   "id": 639541429,
   "type": "Feature",
   "properties": {
+    "addr:full":"395 Millstone Rd Clarksburg NJ 08510",
+    "addr:housenumber":"395",
+    "addr:postcode":"08510",
+    "addr:street":"Millstone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.429543,40.182716,-74.429543,40.182716",
     "geom:latitude":40.182716,
     "geom:longitude":-74.429543,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jp423Un7FRBLubE1xQiRL_40.182716_-74.429543@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299373,
     "wof:geomhash":"253b14f4ae0f7b6068d4379a33c6221c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":639541429
+        }
+    ],
     "wof:id":639541429,
-    "wof:lastmodified":1466695640,
+    "wof:lastmodified":1492036264,
     "wof:name":"Knight Contracting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

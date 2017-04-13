@@ -2,9 +2,14 @@
   "id": 655496439,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 S Main St Cranbury NJ 08512",
+    "addr:housenumber":"124",
+    "addr:postcode":"08512",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.520491,40.291264,-74.520491,40.291264",
     "geom:latitude":40.291264,
     "geom:longitude":-74.520491,
@@ -34,7 +39,12 @@
     ],
     "sg:website":"www.westpatternworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85843213,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5egPaZCFw94S4FxDfHk91R_40.291264_-74.520491@1294171694"
@@ -42,11 +52,19 @@
     "wof:country":"US",
     "wof:created":1461308689,
     "wof:geomhash":"79450fa6b80ae7c4e640c963c72ba8ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85843213,
+            "region_id":85688607,
+            "venue_id":655496439
+        }
+    ],
     "wof:id":655496439,
-    "wof:lastmodified":1466678026,
+    "wof:lastmodified":1492021005,
     "wof:name":"West Pattern Works Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

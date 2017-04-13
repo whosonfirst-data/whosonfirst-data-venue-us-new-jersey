@@ -2,9 +2,14 @@
   "id": 655672019,
   "type": "Feature",
   "properties": {
+    "addr:full":"466 Boonton Tpke Lincoln Park NJ 07035",
+    "addr:housenumber":"466",
+    "addr:postcode":"07035",
+    "addr:street":"Boonton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272697,40.9146,-74.272697,40.9146",
     "geom:latitude":40.9146,
     "geom:longitude":-74.272697,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44pdQf7KYIJrX5bMIFT2WD_40.914584_-74.272687@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461316098,
     "wof:geomhash":"002726ac2e26e3711a489daf389bfb65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":655672019
+        }
+    ],
     "wof:id":655672019,
-    "wof:lastmodified":1466683434,
+    "wof:lastmodified":1492027857,
     "wof:name":"Pinebrook Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639419307,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Passaic St Garfield NJ 07026",
+    "addr:housenumber":"174",
+    "addr:postcode":"07026",
+    "addr:street":"Passaic St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.102633,40.867374,-74.102633,40.867374",
     "geom:latitude":40.867374,
     "geom:longitude":-74.102633,
@@ -27,7 +32,14 @@
         "clocks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NpIVCo2TuBldIqtP3WIBs_40.867374_-74.102633@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294697,
     "wof:geomhash":"064431e1451db5a952eb650d0e355ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639419307
+        }
+    ],
     "wof:id":639419307,
-    "wof:lastmodified":1466693146,
+    "wof:lastmodified":1492048871,
     "wof:name":"Schelling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

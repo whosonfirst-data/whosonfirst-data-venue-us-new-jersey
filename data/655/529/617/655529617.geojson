@@ -2,9 +2,14 @@
   "id": 655529617,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Applegate Dr Trenton NJ 08691",
+    "addr:housenumber":"2",
+    "addr:postcode":"08691",
+    "addr:street":"Applegate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.581346,40.198007,-74.581346,40.198007",
     "geom:latitude":40.198007,
     "geom:longitude":-74.581346,
@@ -32,7 +37,13 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478263,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63g2wIt1vQ1rFt5yhXlNKQ_40.198007_-74.581346@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461310029,
     "wof:geomhash":"58eb321e80011a428b5a86d0b78a5d26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478263,
+            "region_id":85688607,
+            "venue_id":655529617
+        }
+    ],
     "wof:id":655529617,
-    "wof:lastmodified":1466679044,
+    "wof:lastmodified":1492053581,
     "wof:name":"American Bank Note Holographic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

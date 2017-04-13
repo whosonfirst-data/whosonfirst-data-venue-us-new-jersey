@@ -2,9 +2,14 @@
   "id": 638811307,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Anona Dr Saddle River NJ 07458",
+    "addr:housenumber":"33",
+    "addr:postcode":"07458",
+    "addr:street":"Anona Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.093765,41.077758,-74.093765,41.077758",
     "geom:latitude":41.077758,
     "geom:longitude":-74.093765,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mLlOmbXuB3cC61EoKc6Pa_41.077758_-74.093765@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280474,
     "wof:geomhash":"419e1e801ef1f11f037b24355527aee8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":638811307
+        }
+    ],
     "wof:id":638811307,
-    "wof:lastmodified":1466687056,
+    "wof:lastmodified":1492053450,
     "wof:name":"Firstlight Workshops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

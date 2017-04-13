@@ -2,9 +2,14 @@
   "id": 638893307,
   "type": "Feature",
   "properties": {
+    "addr:full":"675 Franklin Blvd Somerset NJ 08873",
+    "addr:housenumber":"675",
+    "addr:postcode":"08873",
+    "addr:street":"Franklin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.48239,40.486574,-74.48239,40.486574",
     "geom:latitude":40.486574,
     "geom:longitude":-74.48239,
@@ -28,7 +33,14 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d1ehrAcTCuWnAFym0xJM0_40.486574_-74.482390@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282576,
     "wof:geomhash":"f58521c70000ca4f23a6a64fdd21311e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":638893307
+        }
+    ],
     "wof:id":638893307,
-    "wof:lastmodified":1466690012,
+    "wof:lastmodified":1492049285,
     "wof:name":"Franklin Township Chamber Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

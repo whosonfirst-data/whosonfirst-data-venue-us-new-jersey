@@ -2,9 +2,14 @@
   "id": 655448863,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Bridge St Lambertville NJ 08530",
+    "addr:housenumber":"23",
+    "addr:postcode":"08530",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945989,40.365472,-74.945989,40.365472",
     "geom:latitude":40.365472,
     "geom:longitude":-74.945989,
@@ -24,7 +29,14 @@
     "sg:postcode":"08530",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mc9gZF22gAY29nPahQIQk_40.365472_-74.945989@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461306638,
     "wof:geomhash":"1d1cfed2c0203eaaea79bbd051dce315",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655448863
+        }
+    ],
     "wof:id":655448863,
-    "wof:lastmodified":1466676943,
+    "wof:lastmodified":1492045202,
     "wof:name":"Blair's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

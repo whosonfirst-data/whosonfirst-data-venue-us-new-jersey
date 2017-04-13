@@ -2,9 +2,14 @@
   "id": 655671197,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Marlton Dr Wayne NJ 07470",
+    "addr:housenumber":"38",
+    "addr:postcode":"07470",
+    "addr:street":"Marlton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263603,40.962101,-74.263603,40.962101",
     "geom:latitude":40.962101,
     "geom:longitude":-74.263603,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VUHnrEM4Q3oFERVpOI6gT_40.962136_-74.263806@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316064,
     "wof:geomhash":"10779eb8433e4c532d8f4981f2eae5d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655671197
+        }
+    ],
     "wof:id":655671197,
-    "wof:lastmodified":1466683442,
+    "wof:lastmodified":1492076674,
     "wof:name":"Blau Diane C DMD",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

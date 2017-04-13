@@ -2,9 +2,14 @@
   "id": 639461669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Oak Grove Rd Baptistown NJ 08822",
+    "addr:housenumber":"2",
+    "addr:postcode":"08822",
+    "addr:street":"Oak Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.879902,40.53503,-74.879902,40.53503",
     "geom:latitude":40.53503,
     "geom:longitude":-74.879902,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85851989,
-        102085997
+        85804631,
+        102085997,
+        85851989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085997,
+            "neighbourhood_id":85804631,
+            "region_id":85688607,
+            "venue_id":639461669
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
             "neighbourhood_id":85851989,
             "region_id":85688607,
             "venue_id":639461669
         }
     ],
     "wof:id":639461669,
-    "wof:lastmodified":1466693966,
+    "wof:lastmodified":1492041621,
     "wof:name":"Kingwood Land Use Secretary",
-    "wof:parent_id":85851989,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

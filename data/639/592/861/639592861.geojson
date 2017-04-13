@@ -2,9 +2,14 @@
   "id": 639592861,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 Texas Rd Morganville NJ 07751",
+    "addr:housenumber":"415",
+    "addr:postcode":"07751",
+    "addr:street":"Texas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269898,40.375033,-74.269898,40.375033",
     "geom:latitude":40.375033,
     "geom:longitude":-74.269898,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IEHpETH4kg10oAnHUCeJv_40.375033_-74.269898@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461301478,
     "wof:geomhash":"29d1fba9afc6a64970efa828deb2c110",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":639592861
+        }
+    ],
     "wof:id":639592861,
-    "wof:lastmodified":1466696930,
+    "wof:lastmodified":1492056026,
     "wof:name":"Miller Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

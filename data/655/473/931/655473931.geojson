@@ -2,9 +2,14 @@
   "id": 655473931,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Godfrey Pl Cresskill NJ 07626",
+    "addr:housenumber":"20",
+    "addr:postcode":"07626",
+    "addr:street":"Godfrey Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.969748,40.951445,-73.969748,40.951445",
     "geom:latitude":40.951445,
     "geom:longitude":-73.969748,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HSn4o41eMId46AEUN4aQx_40.951445_-73.969748@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307749,
     "wof:geomhash":"cc15be22edebd2845b41a64d392c3dfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655473931
+        }
+    ],
     "wof:id":655473931,
-    "wof:lastmodified":1466677545,
+    "wof:lastmodified":1492075465,
     "wof:name":"Mvm Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

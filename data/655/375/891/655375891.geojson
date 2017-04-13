@@ -2,9 +2,14 @@
   "id": 655375891,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Main St Belmar NJ 07719",
+    "addr:housenumber":"500",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.023792,40.18439,-74.023792,40.18439",
     "geom:latitude":40.18439,
     "geom:longitude":-74.023792,
@@ -27,7 +32,15 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855591,
+        102191575,
+        404478377,
+        85633793,
+        85975415,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ziM6MDA3omEy60hysMD6R_40.184390_-74.023792@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461303656,
     "wof:geomhash":"5627efd95f165d09c1bef393b32697c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478377,
+            "locality_id":85975415,
+            "neighbourhood_id":85855591,
+            "region_id":85688607,
+            "venue_id":655375891
+        }
+    ],
     "wof:id":655375891,
-    "wof:lastmodified":1466674915,
+    "wof:lastmodified":1492051092,
     "wof:name":"Lighthouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

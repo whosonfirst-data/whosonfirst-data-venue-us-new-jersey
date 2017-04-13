@@ -2,9 +2,14 @@
   "id": 655732735,
   "type": "Feature",
   "properties": {
+    "addr:full":"486 E Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"486",
+    "addr:postcode":"07065",
+    "addr:street":"E Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26761,40.604737,-74.26761,40.604737",
     "geom:latitude":40.604737,
     "geom:longitude":-74.26761,
@@ -29,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77Dbk4gDo4F8TIgFecyBzH_40.604737_-74.267610@1303262256"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461318635,
     "wof:geomhash":"a5fff9676e173bdc1bc8e1ebe8a72744",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732735
+        }
+    ],
     "wof:id":655732735,
-    "wof:lastmodified":1466685183,
+    "wof:lastmodified":1492027355,
     "wof:name":"Rahway City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

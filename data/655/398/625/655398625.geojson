@@ -2,9 +2,14 @@
   "id": 655398625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1722 US Hwy 22 Union NJ 07083",
+    "addr:housenumber":"1722",
+    "addr:postcode":"07083",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271449,40.691876,-74.271449,40.691876",
     "geom:latitude":40.691876,
     "geom:longitude":-74.271449,
@@ -27,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rqQhxtccEJ9cBnk6yffEV_40.691876_-74.271449@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304573,
     "wof:geomhash":"8f8b5e593bf6cdd7cf7e3f98c194c46c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527721,
+            "venue_id":655398625
+        }
+    ],
     "wof:id":655398625,
-    "wof:lastmodified":1466675490,
+    "wof:lastmodified":1492055794,
     "wof:name":"Parkway Exxon",
     "wof:parent_id":420527721,
     "wof:placetype":"venue",

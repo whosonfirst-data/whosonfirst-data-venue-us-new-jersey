@@ -2,9 +2,14 @@
   "id": 639485489,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 Hazelwood Ave Middlesex NJ 08846",
+    "addr:housenumber":"805",
+    "addr:postcode":"08846",
+    "addr:street":"Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.515275,40.576389,-74.515275,40.576389",
     "geom:latitude":40.576389,
     "geom:longitude":-74.515275,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478283,
+        85633793,
+        85975743,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cYFe2GwlstSFdySDYH5c6_40.576389_-74.515275@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296833,
     "wof:geomhash":"fff3d4dba08066f2300f083c00078da6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478283,
+            "locality_id":85975743,
+            "region_id":85688607,
+            "venue_id":639485489
+        }
+    ],
     "wof:id":639485489,
-    "wof:lastmodified":1466694520,
+    "wof:lastmodified":1492042513,
     "wof:name":"Lally's Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

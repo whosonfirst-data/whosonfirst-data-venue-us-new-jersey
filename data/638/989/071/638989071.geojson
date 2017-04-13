@@ -2,9 +2,14 @@
   "id": 638989071,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Van Sciver Pkwy Willingboro NJ 08046",
+    "addr:housenumber":"240",
+    "addr:postcode":"08046",
+    "addr:street":"Van Sciver Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878048,40.042054,-74.878048,40.042054",
     "geom:latitude":40.042054,
     "geom:longitude":-74.878048,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eXlU78gPHNSeHiHbPwu4R_40.042054_-74.878048@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461284876,
     "wof:geomhash":"1f15794db6cd6116ae9cab92d4d9791b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638989071
+        }
+    ],
     "wof:id":638989071,
-    "wof:lastmodified":1466691995,
+    "wof:lastmodified":1492028499,
     "wof:name":"Riccardos Pizza",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

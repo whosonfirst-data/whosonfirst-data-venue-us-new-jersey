@@ -2,9 +2,14 @@
   "id": 639515275,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Princeton St Closter NJ 07624",
+    "addr:housenumber":"45",
+    "addr:postcode":"07624",
+    "addr:street":"Princeton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.942748,40.979093,-73.942748,40.979093",
     "geom:latitude":40.979093,
     "geom:longitude":-73.942748,
@@ -27,7 +32,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HU5VAIqmi7YwOvKAdJt5w_40.979093_-73.942748@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298081,
     "wof:geomhash":"6efc8129e48e45e31729d2a661926f34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639515275
+        }
+    ],
     "wof:id":639515275,
-    "wof:lastmodified":1466695000,
+    "wof:lastmodified":1492042590,
     "wof:name":"MFN Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

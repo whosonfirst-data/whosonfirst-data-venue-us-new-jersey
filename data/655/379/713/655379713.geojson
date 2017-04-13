@@ -2,9 +2,14 @@
   "id": 655379713,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Brookside Ave Pompton Plains NJ 07444",
+    "addr:housenumber":"47",
+    "addr:postcode":"07444",
+    "addr:street":"Brookside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291106,40.96412,-74.291106,40.96412",
     "geom:latitude":40.96412,
     "geom:longitude":-74.291106,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2onAxdsbH0YCeTAyGYvoKp_40.964120_-74.291106@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461303797,
     "wof:geomhash":"ecacc96f3efe85869163b6723ca6a940",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655379713
+        }
+    ],
     "wof:id":655379713,
-    "wof:lastmodified":1466675067,
+    "wof:lastmodified":1492048659,
     "wof:name":"Bill E Holle",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

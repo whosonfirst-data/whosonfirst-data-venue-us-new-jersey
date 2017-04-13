@@ -2,9 +2,14 @@
   "id": 655691149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"1105",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878799,40.048958,-74.878799,40.048958",
     "geom:latitude":40.048958,
     "geom:longitude":-74.878799,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DIPyuwgf78W2mk54INpMw_40.048958_-74.878799@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316907,
     "wof:geomhash":"f40159493c7b0dd8245505cf8c89390a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655691149
+        }
+    ],
     "wof:id":655691149,
-    "wof:lastmodified":1466683955,
+    "wof:lastmodified":1492065258,
     "wof:name":"Pizza Wings Steaks & Things",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

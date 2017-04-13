@@ -2,9 +2,14 @@
   "id": 639547367,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"152",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343539,41.006862,-74.343539,41.006862",
     "geom:latitude":41.006862,
     "geom:longitude":-74.343539,
@@ -27,7 +32,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GVrsm4kVawG5R58IS0o5u_41.006862_-74.343539@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299627,
     "wof:geomhash":"ae124662d29a6624d891b65fa661f4c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639547367
+        }
+    ],
     "wof:id":639547367,
-    "wof:lastmodified":1466695633,
+    "wof:lastmodified":1492076214,
     "wof:name":"Ramsey Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

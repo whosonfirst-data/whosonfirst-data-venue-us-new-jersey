@@ -2,9 +2,14 @@
   "id": 655566103,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Edwards Rd Brick NJ 08723",
+    "addr:housenumber":"59",
+    "addr:postcode":"08723",
+    "addr:street":"Edwards Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.113334,40.049725,-74.113334,40.049725",
     "geom:latitude":40.049725,
     "geom:longitude":-74.113334,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ltAUGs7QTe7tCEIpKwApU_40.049725_-74.113334@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311543,
     "wof:geomhash":"82a56d30c1bf4ebe78959dd75f6c6b4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655566103
+        }
+    ],
     "wof:id":655566103,
-    "wof:lastmodified":1466679835,
+    "wof:lastmodified":1492068134,
     "wof:name":"David Roshak Construction",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

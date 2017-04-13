@@ -2,9 +2,14 @@
   "id": 639244771,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 US Hwy 46 Columbia NJ 07832",
+    "addr:housenumber":"25",
+    "addr:postcode":"07832",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077563,40.913278,-75.077563,40.913278",
     "geom:latitude":40.913278,
     "geom:longitude":-75.077563,
@@ -29,7 +34,10 @@
         "stops"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_155uncoukOu21SlXWElDED_40.913278_-75.077563@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461290714,
     "wof:geomhash":"4b58c66d396e6c9b5d29ff90152631f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527759,
+            "venue_id":639244771
+        }
+    ],
     "wof:id":639244771,
-    "wof:lastmodified":1466690305,
+    "wof:lastmodified":1492042525,
     "wof:name":"Columbia Truck Stop",
     "wof:parent_id":420527759,
     "wof:placetype":"venue",

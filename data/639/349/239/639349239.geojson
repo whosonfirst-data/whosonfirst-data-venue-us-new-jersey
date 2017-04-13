@@ -2,9 +2,14 @@
   "id": 639349239,
   "type": "Feature",
   "properties": {
+    "addr:full":"743 Alexander Rd Princeton NJ 08540",
+    "addr:housenumber":"743",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.635027,40.319815,-74.635027,40.319815",
     "geom:latitude":40.319815,
     "geom:longitude":-74.635027,
@@ -35,7 +40,13 @@
     ],
     "sg:website":"www.bluetulip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jr9yBBggBhtobEitL1TvT_40.319815_-74.635027@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461293004,
     "wof:geomhash":"78d141194d7a350ae0260288741205b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639349239
+        }
+    ],
     "wof:id":639349239,
-    "wof:lastmodified":1466692420,
+    "wof:lastmodified":1492069735,
     "wof:name":"Blue Tulip LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

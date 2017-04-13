@@ -2,9 +2,14 @@
   "id": 638740731,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 Bethel Ave Pennsauken NJ 08110",
+    "addr:housenumber":"849",
+    "addr:postcode":"08110",
+    "addr:street":"Bethel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057198,39.970381,-75.057198,39.970381",
     "geom:latitude":39.970381,
     "geom:longitude":-75.057198,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526803,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y1kOvHnYz8yVFpyb85ROb_39.970381_-75.057198@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461278755,
     "wof:geomhash":"16caaddc21887245db5694d70bf679ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526803,
+            "region_id":85688607,
+            "venue_id":638740731
+        }
+    ],
     "wof:id":638740731,
-    "wof:lastmodified":1466676943,
+    "wof:lastmodified":1492062574,
     "wof:name":"Design Tile Co",
     "wof:parent_id":420526803,
     "wof:placetype":"venue",

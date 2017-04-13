@@ -2,9 +2,14 @@
   "id": 639574413,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Omaha St Dumont NJ 07628",
+    "addr:housenumber":"24",
+    "addr:postcode":"07628",
+    "addr:street":"Omaha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.005954,40.938318,-74.005954,40.938318",
     "geom:latitude":40.938318,
     "geom:longitude":-74.005954,
@@ -27,7 +32,14 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EIgKZXntzqceNveJro3uI_40.938318_-74.005954@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300684,
     "wof:geomhash":"a00c902128a29a5298af9a3decc10f2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639574413
+        }
+    ],
     "wof:id":639574413,
-    "wof:lastmodified":1466696520,
+    "wof:lastmodified":1492076611,
     "wof:name":"Quality Cabinet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

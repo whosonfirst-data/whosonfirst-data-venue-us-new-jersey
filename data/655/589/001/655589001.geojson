@@ -2,9 +2,14 @@
   "id": 655589001,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Milltown Rd Stockton NJ 08559",
+    "addr:housenumber":"46",
+    "addr:postcode":"08559",
+    "addr:street":"Milltown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019081,40.455198,-75.019081,40.455198",
     "geom:latitude":40.455198,
     "geom:longitude":-75.019081,
@@ -27,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0myqRkvM9dXPtRrIs1E1xj_40.455198_-75.019081@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312549,
     "wof:geomhash":"b4f3cee1e3f6f45f4d7ac8fd843251bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":655589001
+        }
+    ],
     "wof:id":655589001,
-    "wof:lastmodified":1466680536,
+    "wof:lastmodified":1492053584,
     "wof:name":"Nicholas Mancini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

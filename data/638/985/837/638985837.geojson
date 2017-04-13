@@ -2,9 +2,14 @@
   "id": 638985837,
   "type": "Feature",
   "properties": {
+    "addr:full":"884 Anderson Rd Jackson NJ 08527",
+    "addr:housenumber":"884",
+    "addr:postcode":"08527",
+    "addr:street":"Anderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.417096,40.15418,-74.417096,40.15418",
     "geom:latitude":40.15418,
     "geom:longitude":-74.417096,
@@ -29,7 +34,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wt2tazv1lRygA2KOSC6bM_40.154180_-74.417096@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461284763,
     "wof:geomhash":"5ee4d23384460757a5a9b86a69b517d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638985837
+        }
+    ],
     "wof:id":638985837,
-    "wof:lastmodified":1466691996,
+    "wof:lastmodified":1492020998,
     "wof:name":"Rdg Mainstream Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

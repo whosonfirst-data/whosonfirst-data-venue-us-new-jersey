@@ -2,9 +2,14 @@
   "id": 639618307,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 State Rte 38 Cherry Hill NJ 08002",
+    "addr:housenumber":"2201",
+    "addr:postcode":"08002",
+    "addr:street":"State Rte 38",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.014158,39.939739,-75.014158,39.939739",
     "geom:latitude":39.939739,
     "geom:longitude":-75.014158,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3se6x0FIgz35J4Nrhf1EY2_39.939739_-75.014158@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302441,
     "wof:geomhash":"58f8c84044e60e5c3b0ab2fe5c14d624",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639618307
+        }
+    ],
     "wof:id":639618307,
-    "wof:lastmodified":1466697404,
+    "wof:lastmodified":1492045148,
     "wof:name":"Stubblebine ED Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

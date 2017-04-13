@@ -2,9 +2,14 @@
   "id": 655694797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 US-130 North Brunswick NJ 08902",
+    "addr:housenumber":"2150",
+    "addr:postcode":"08902",
+    "addr:street":"Us-130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485952,40.435167,-74.485952,40.435167",
     "geom:latitude":40.435167,
     "geom:longitude":-74.485952,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_466usJcLPL6426my2nEjQ4_40.435167_-74.485952@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461317079,
     "wof:geomhash":"6448d4643a4ff5ec5c10e14dcc434f5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655694797
+        }
+    ],
     "wof:id":655694797,
-    "wof:lastmodified":1466684199,
+    "wof:lastmodified":1492070334,
     "wof:name":"The Hearth",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655615747,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Hudson Ave Secaucus NJ 07094",
+    "addr:housenumber":"700",
+    "addr:postcode":"07094",
+    "addr:street":"Hudson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.065858,40.793292,-74.065858,40.793292",
     "geom:latitude":40.793292,
     "geom:longitude":-74.065858,
@@ -28,7 +33,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WvWh6WxPsEddlD4NztCrp_40.793292_-74.065858@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313680,
     "wof:geomhash":"8c8cbb321ac8faa4323d99dab148c6cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":655615747
+        }
+    ],
     "wof:id":655615747,
-    "wof:lastmodified":1466681727,
+    "wof:lastmodified":1492053750,
     "wof:name":"Pipe Mail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

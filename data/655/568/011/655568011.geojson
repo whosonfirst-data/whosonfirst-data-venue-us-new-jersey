@@ -2,9 +2,14 @@
   "id": 655568011,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Hampton Rd Monroe Township NJ 08831",
+    "addr:housenumber":"5",
+    "addr:postcode":"08831",
+    "addr:street":"Hampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.413042,40.355999,-74.413042,40.355999",
     "geom:latitude":40.355999,
     "geom:longitude":-74.413042,
@@ -29,7 +34,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bDf0syjtSVhA9hMtad2zR_40.355999_-74.413042@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461311623,
     "wof:geomhash":"7a1bd7ab6141a36cc8d6cb3b223e9e0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655568011
+        }
+    ],
     "wof:id":655568011,
-    "wof:lastmodified":1466679936,
+    "wof:lastmodified":1492023982,
     "wof:name":"Phoenix Consultants Group",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639054607,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Amwell Rd Flemington NJ 08822",
+    "addr:housenumber":"89",
+    "addr:postcode":"08822",
+    "addr:street":"Amwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792186,40.484505,-74.792186,40.484505",
     "geom:latitude":40.484505,
     "geom:longitude":-74.792186,
@@ -24,7 +29,10 @@
     "sg:postcode":"08822",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UdbnFNtUbmVhNRGYVvZoP_40.484505_-74.792186@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461286358,
     "wof:geomhash":"c319b067e16e118da6fc3868f8e4f1f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":639054607
+        }
+    ],
     "wof:id":639054607,
-    "wof:lastmodified":1466674353,
+    "wof:lastmodified":1492030597,
     "wof:name":"De Hoff Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

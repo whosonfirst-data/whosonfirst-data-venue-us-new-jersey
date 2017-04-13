@@ -2,9 +2,14 @@
   "id": 655763577,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 S Bayard Ln Mahwah NJ 07430",
+    "addr:housenumber":"8",
+    "addr:postcode":"07430",
+    "addr:street":"S Bayard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131249,41.082131,-74.131249,41.082131",
     "geom:latitude":41.082131,
     "geom:longitude":-74.131249,
@@ -28,7 +33,13 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pM7THy67TLAjsSA3VBKqE_41.082131_-74.131249@1303262264"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461319790,
     "wof:geomhash":"5746b5c0cc058c239b53be4130d722fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763577
+        }
+    ],
     "wof:id":655763577,
-    "wof:lastmodified":1466685950,
+    "wof:lastmodified":1492048995,
     "wof:name":"Condental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

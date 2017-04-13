@@ -2,9 +2,14 @@
   "id": 655681481,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Burnside Pl Haskell NJ 07420",
+    "addr:housenumber":"29",
+    "addr:postcode":"07420",
+    "addr:street":"Burnside Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293098,41.0327,-74.293098,41.0327",
     "geom:latitude":41.0327,
     "geom:longitude":-74.293098,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j70UwSkI8g1fp2Y291vxX_41.032678_-74.293403@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316482,
     "wof:geomhash":"175389b6e89ecc1abe26a24993390fd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655681481
+        }
+    ],
     "wof:id":655681481,
-    "wof:lastmodified":1466683780,
+    "wof:lastmodified":1492058285,
     "wof:name":"Saraceni Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

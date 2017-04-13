@@ -2,9 +2,14 @@
   "id": 655452613,
   "type": "Feature",
   "properties": {
+    "addr:full":"433 Marion Ave New Milford NJ 07646",
+    "addr:housenumber":"433",
+    "addr:postcode":"07646",
+    "addr:street":"Marion Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.011399,40.939397,-74.011399,40.939397",
     "geom:latitude":40.939397,
     "geom:longitude":-74.011399,
@@ -24,7 +29,14 @@
     "sg:postcode":"07646",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477695,
+        85633793,
+        85975969,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n1lAceDfENwmaxmvF3BNj_40.939397_-74.011399@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461306804,
     "wof:geomhash":"67cde4450d3ceefa30643158a5069947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477695,
+            "locality_id":85975969,
+            "region_id":85688607,
+            "venue_id":655452613
+        }
+    ],
     "wof:id":655452613,
-    "wof:lastmodified":1466676933,
+    "wof:lastmodified":1492053867,
     "wof:name":"Car Courier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

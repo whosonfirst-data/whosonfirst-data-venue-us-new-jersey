@@ -2,9 +2,14 @@
   "id": 639072607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 E Hazelwood Ave Rahway NJ 07065",
+    "addr:housenumber":"1045",
+    "addr:postcode":"07065",
+    "addr:street":"E Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259353,40.600064,-74.259353,40.600064",
     "geom:latitude":40.600064,
     "geom:longitude":-74.259353,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dFfIOtar4zqZJE3PhoVd2_40.600064_-74.259353@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286750,
     "wof:geomhash":"fd8ecde10b2f4f30789f4cbfa920ab38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639072607
+        }
+    ],
     "wof:id":639072607,
-    "wof:lastmodified":1466688384,
+    "wof:lastmodified":1492049068,
     "wof:name":"Quadrel Brothers Trucking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

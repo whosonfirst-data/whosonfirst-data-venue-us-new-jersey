@@ -2,9 +2,14 @@
   "id": 655473021,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 Thomas Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"242",
+    "addr:postcode":"07071",
+    "addr:street":"Thomas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133575,40.805248,-74.133575,40.805248",
     "geom:latitude":40.805248,
     "geom:longitude":-74.133575,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hA0YsAz5zkdz33kbIYit0_40.805248_-74.133575@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461307716,
     "wof:geomhash":"b8d845af6e3fbae4610400df5ef01b52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655473021
+        }
+    ],
     "wof:id":655473021,
-    "wof:lastmodified":1466677305,
+    "wof:lastmodified":1492025697,
     "wof:name":"Creatino Painting & Rfrbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

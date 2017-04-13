@@ -2,9 +2,14 @@
   "id": 655515101,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Ward Ave Clifton NJ 07014",
+    "addr:housenumber":"114",
+    "addr:postcode":"07014",
+    "addr:street":"Ward Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150116,40.834309,-74.150116,40.834309",
     "geom:latitude":40.834309,
     "geom:longitude":-74.150116,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jf7z2N64TD7OWGyaJsXvB_40.834309_-74.150116@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309491,
     "wof:geomhash":"87328ec7475e1cb5ed8c3b41b7347393",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655515101
+        }
+    ],
     "wof:id":655515101,
-    "wof:lastmodified":1466678464,
+    "wof:lastmodified":1492023521,
     "wof:name":"Chevron Of NJ Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

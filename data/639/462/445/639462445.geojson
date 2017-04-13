@@ -2,9 +2,14 @@
   "id": 639462445,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Dixie Ln Jackson NJ 08527",
+    "addr:housenumber":"30",
+    "addr:postcode":"08527",
+    "addr:street":"Dixie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.330719,40.103563,-74.330719,40.103563",
     "geom:latitude":40.103563,
     "geom:longitude":-74.330719,
@@ -32,7 +37,13 @@
         "cooperative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bA6O5HBkXsz4cI1ZDeqD1_40.103563_-74.330719@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461295903,
     "wof:geomhash":"e3eb4ec03a1bffebe16d2213fad6e0af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639462445
+        }
+    ],
     "wof:id":639462445,
-    "wof:lastmodified":1466693908,
+    "wof:lastmodified":1492070464,
     "wof:name":"Meadowbrook Cooperative Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

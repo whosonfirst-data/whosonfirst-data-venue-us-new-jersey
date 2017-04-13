@@ -2,9 +2,14 @@
   "id": 655807703,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Illinois Ave Burlington NJ 08016",
+    "addr:housenumber":"19",
+    "addr:postcode":"08016",
+    "addr:street":"Illinois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.875788,40.065912,-74.875788,40.065912",
     "geom:latitude":40.065912,
     "geom:longitude":-74.875788,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.jansonbuilders.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sqPA9FlaTY4VJXl7h39Nk_40.065912_-74.875788@1303262275"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321689,
     "wof:geomhash":"04c03b39d2a00d605fad8aba1c94b97e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655807703
+        }
+    ],
     "wof:id":655807703,
-    "wof:lastmodified":1466687209,
+    "wof:lastmodified":1492027528,
     "wof:name":"Janson Builders",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

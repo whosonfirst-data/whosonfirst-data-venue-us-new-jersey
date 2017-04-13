@@ -2,9 +2,14 @@
   "id": 655606389,
   "type": "Feature",
   "properties": {
+    "addr:full":"281 US Hwy 206 Sandyston NJ 07826",
+    "addr:housenumber":"281",
+    "addr:postcode":"07826",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800937,41.255401,-74.800937,41.255401",
     "geom:latitude":41.255401,
     "geom:longitude":-74.800937,
@@ -28,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478475,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iKi6MRyi2vCVH3ANlvkdh_41.255401_-74.800937@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313271,
     "wof:geomhash":"00202cab90e85c4afcc856a6e343772b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478475,
+            "region_id":85688607,
+            "venue_id":655606389
+        }
+    ],
     "wof:id":655606389,
-    "wof:lastmodified":1466681233,
+    "wof:lastmodified":1492053736,
     "wof:name":"Jim Mahon Moving & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638953293,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Cottage Pl South Bound Brook NJ 08880",
+    "addr:housenumber":"128",
+    "addr:postcode":"08880",
+    "addr:street":"Cottage Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528869,40.555435,-74.528869,40.555435",
     "geom:latitude":40.555435,
     "geom:longitude":-74.528869,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YUAQacHkPxsSWbz8G12Ma_40.555435_-74.528869@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284098,
     "wof:geomhash":"c57a41b0084e9ecfc6711c07213c3899",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":638953293
+        }
+    ],
     "wof:id":638953293,
-    "wof:lastmodified":1466691375,
+    "wof:lastmodified":1492024162,
     "wof:name":"M&W Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

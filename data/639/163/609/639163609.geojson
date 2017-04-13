@@ -2,9 +2,14 @@
   "id": 639163609,
   "type": "Feature",
   "properties": {
+    "addr:full":"549 Millburn Ave Short Hills NJ 07078",
+    "addr:housenumber":"549",
+    "addr:postcode":"07078",
+    "addr:street":"Millburn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.323296,40.718171,-74.323296,40.718171",
     "geom:latitude":40.718171,
     "geom:longitude":-74.323296,
@@ -28,7 +33,15 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85804363,
+        102191575,
+        404478043,
+        85633793,
+        85976003,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y5GtzhAO2vE7V5MFOhJkc_40.718171_-74.323296@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461288830,
     "wof:geomhash":"ffb6340f5b4d84dd2a0a61907f2eca86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "locality_id":85976003,
+            "neighbourhood_id":85804363,
+            "region_id":85688607,
+            "venue_id":639163609
+        }
+    ],
     "wof:id":639163609,
-    "wof:lastmodified":1466683613,
+    "wof:lastmodified":1492065337,
     "wof:name":"New Eyes For The Needy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

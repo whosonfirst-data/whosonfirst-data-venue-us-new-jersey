@@ -2,9 +2,14 @@
   "id": 655732587,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Dock St Rahway NJ 07065",
+    "addr:housenumber":"145",
+    "addr:postcode":"07065",
+    "addr:street":"Dock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272499,40.6068,-74.272499,40.6068",
     "geom:latitude":40.6068,
     "geom:longitude":-74.272499,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RbBwkyXi6cqjv8I8Sw1Wa_40.606800_-74.272499@1303262256"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318631,
     "wof:geomhash":"6885772e5e4552f821e2913ce034e9a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732587
+        }
+    ],
     "wof:id":655732587,
-    "wof:lastmodified":1466685144,
+    "wof:lastmodified":1492068709,
     "wof:name":"Riverside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

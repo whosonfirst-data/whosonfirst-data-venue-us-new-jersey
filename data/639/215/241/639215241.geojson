@@ -2,9 +2,14 @@
   "id": 639215241,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Plainfield Rd Edison NJ 08820",
+    "addr:housenumber":"222",
+    "addr:postcode":"08820",
+    "addr:street":"Plainfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.371434,40.556798,-74.371434,40.556798",
     "geom:latitude":40.556798,
     "geom:longitude":-74.371434,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85845305,
+        102191575,
+        404478281,
         85633793,
-        85892379,
-        102087417
+        85975745,
+        102087417,
+        85688607,
+        85892379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"6c91d4a24c95d334058a9eb136d2e9af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478281,
+            "locality_id":85975745,
+            "neighbourhood_id":85845305,
+            "region_id":85688607,
+            "venue_id":639215241
+        },
+        {
             "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85892379,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":639215241,
-    "wof:lastmodified":1466689450,
+    "wof:lastmodified":1492056129,
     "wof:name":"124 Hour 7 Day A Lock A Locksm",
-    "wof:parent_id":85892379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639518651,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Main St Branchville NJ 07826",
+    "addr:housenumber":"4",
+    "addr:postcode":"07826",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.753699,41.146842,-74.753699,41.146842",
     "geom:latitude":41.146842,
     "geom:longitude":-74.753699,
@@ -28,7 +33,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CuANvGgwrSlNVDNOzMFcI_41.146842_-74.753699@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461298228,
     "wof:geomhash":"f5be1cc715d67559eff34e10b12bf457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":639518651
+        }
+    ],
     "wof:id":639518651,
-    "wof:lastmodified":1466695159,
+    "wof:lastmodified":1492041449,
     "wof:name":"B B C Consultants",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

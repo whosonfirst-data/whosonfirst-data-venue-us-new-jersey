@@ -2,9 +2,14 @@
   "id": 655631561,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Sunny Ln Andover NJ 07821",
+    "addr:housenumber":"12",
+    "addr:postcode":"07821",
+    "addr:street":"Sunny Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.768498,40.962457,-74.768498,40.962457",
     "geom:latitude":40.962457,
     "geom:longitude":-74.768498,
@@ -28,7 +33,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25UMRoCKqqO8JiHwkw5SxY_40.962457_-74.768498@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314400,
     "wof:geomhash":"9a6ea4d4749dd2e585fb0bdab76bf572",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":655631561
+        }
+    ],
     "wof:id":655631561,
-    "wof:lastmodified":1466682140,
+    "wof:lastmodified":1492021062,
     "wof:name":"Spec Stuff Spec Kids",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

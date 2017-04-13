@@ -2,9 +2,14 @@
   "id": 655401101,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"208",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948676,41.007007,-73.948676,41.007007",
     "geom:latitude":41.007007,
     "geom:longitude":-73.948676,
@@ -28,7 +33,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10ZvFWh7jknuylobg2pEsR_41.007007_-73.948676@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304680,
     "wof:geomhash":"de881fab0e1c3e80bd2cdb2cbe71a5e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655401101
+        }
+    ],
     "wof:id":655401101,
-    "wof:lastmodified":1466675469,
+    "wof:lastmodified":1492040089,
     "wof:name":"Petrillo's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

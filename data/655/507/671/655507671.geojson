@@ -2,9 +2,14 @@
   "id": 655507671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 Sean Ct Lakewood NJ 08701",
+    "addr:housenumber":"1511",
+    "addr:postcode":"08701",
+    "addr:street":"Sean Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.162763,40.099385,-74.162763,40.099385",
     "geom:latitude":40.099385,
     "geom:longitude":-74.162763,
@@ -28,7 +33,10 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uRp3mGZ4WLRoqO4dm1p0T_40.099385_-74.162763@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309191,
     "wof:geomhash":"d12bed1e0d3565e0f6be3e24ee6f7d0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655507671
+        }
+    ],
     "wof:id":655507671,
-    "wof:lastmodified":1466678448,
+    "wof:lastmodified":1492045258,
     "wof:name":"A & M Siding",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

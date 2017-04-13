@@ -2,9 +2,14 @@
   "id": 638814941,
   "type": "Feature",
   "properties": {
+    "addr:full":"787 Grove St Irvington NJ 07111",
+    "addr:housenumber":"787",
+    "addr:postcode":"07111",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220055,40.729136,-74.220055,40.729136",
     "geom:latitude":40.729136,
     "geom:longitude":-74.220055,
@@ -27,7 +32,12 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892389,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72hWc3XpixcKAdXT0HXyeb_40.729136_-74.220055@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461280578,
     "wof:geomhash":"34ac75f73d8c16be4c6625bc3f4319d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892389,
+            "region_id":85688607,
+            "venue_id":638814941
+        }
+    ],
     "wof:id":638814941,
-    "wof:lastmodified":1466687508,
+    "wof:lastmodified":1492029440,
     "wof:name":"Berkeley Ter Elementary Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

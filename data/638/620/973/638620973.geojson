@@ -2,9 +2,14 @@
   "id": 638620973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Lower Rd Linden NJ 07036",
+    "addr:housenumber":"1101",
+    "addr:postcode":"07036",
+    "addr:street":"Lower Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23976,40.609546,-74.23976,40.609546",
     "geom:latitude":40.609546,
     "geom:longitude":-74.23976,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3go6Ih4NpDyMmTmvfE8jeO_40.609546_-74.239760@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461274941,
     "wof:geomhash":"131b1ab3796ef2fe5e5f1612028bed46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":638620973
+        }
+    ],
     "wof:id":638620973,
-    "wof:lastmodified":1466673040,
+    "wof:lastmodified":1492041276,
     "wof:name":"Harbor Products System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

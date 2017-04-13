@@ -2,9 +2,14 @@
   "id": 655789785,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Adams St Newton NJ 07860",
+    "addr:housenumber":"13",
+    "addr:postcode":"07860",
+    "addr:street":"Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751169,41.056854,-74.751169,41.056854",
     "geom:latitude":41.056854,
     "geom:longitude":-74.751169,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"http://precisionoutdoorservicesnj.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37tpOHOex6YEyg126xRsz2_41.056854_-74.751169@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320970,
     "wof:geomhash":"f48951667290b05659b55ad18a4378e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789785
+        }
+    ],
     "wof:id":655789785,
-    "wof:lastmodified":1466686720,
+    "wof:lastmodified":1492026756,
     "wof:name":"Precision Termite & Pest Control",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

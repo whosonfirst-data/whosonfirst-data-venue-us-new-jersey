@@ -2,9 +2,14 @@
   "id": 638843099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Hospital Dr Willingboro NJ 08046",
+    "addr:housenumber":"1113",
+    "addr:postcode":"08046",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.881969,40.047808,-74.881969,40.047808",
     "geom:latitude":40.047808,
     "geom:longitude":-74.881969,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72gXbKMNMvvTMt7yt1c7V0_40.047808_-74.881969@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461281319,
     "wof:geomhash":"a8770662053e8249b8a86e693074aa6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638843099
+        }
+    ],
     "wof:id":638843099,
-    "wof:lastmodified":1466689124,
+    "wof:lastmodified":1492030661,
     "wof:name":"CNS Research Institute",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639246589,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Mary St Pemberton NJ 08068",
+    "addr:housenumber":"13",
+    "addr:postcode":"08068",
+    "addr:street":"Mary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.682833,39.970714,-74.682833,39.970714",
     "geom:latitude":39.970714,
     "geom:longitude":-74.682833,
@@ -27,7 +32,10 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IAiFqjKqhHX4LnOoI8jNE_39.970714_-74.682833@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461290757,
     "wof:geomhash":"c4cdd5f4284fc2c7688607118fa98802",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":639246589
+        }
+    ],
     "wof:id":639246589,
-    "wof:lastmodified":1466690349,
+    "wof:lastmodified":1492062039,
     "wof:name":"Brooks & Long",
     "wof:parent_id":420526589,
     "wof:placetype":"venue",

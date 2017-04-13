@@ -2,9 +2,14 @@
   "id": 639262537,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Wallace Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"20",
+    "addr:postcode":"08550",
+    "addr:street":"Wallace Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620888,40.317435,-74.620888,40.317435",
     "geom:latitude":40.317435,
     "geom:longitude":-74.620888,
@@ -30,7 +35,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61v799S3hFp70FAtvF0aCy_40.317435_-74.620888@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461291108,
     "wof:geomhash":"7e09e5db14adc5bec90bad82372708d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":639262537
+        }
+    ],
     "wof:id":639262537,
-    "wof:lastmodified":1466690580,
+    "wof:lastmodified":1492071985,
     "wof:name":"SCHLUMBERGER Ptc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

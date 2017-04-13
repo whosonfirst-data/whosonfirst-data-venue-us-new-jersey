@@ -2,9 +2,14 @@
   "id": 655503537,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Arnett Ave Lambertville NJ 08530",
+    "addr:housenumber":"24",
+    "addr:postcode":"08530",
+    "addr:street":"Arnett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.947637,40.375102,-74.947637,40.375102",
     "geom:latitude":40.375102,
     "geom:longitude":-74.947637,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.edmgt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_190jhd6ls5i5mOlqYsSr5l_40.375102_-74.947637@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461308997,
     "wof:geomhash":"e339fd75f86336f72bd15e1070be4a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655503537
+        }
+    ],
     "wof:id":655503537,
-    "wof:lastmodified":1466678228,
+    "wof:lastmodified":1492057376,
     "wof:name":"Education Mgmt Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

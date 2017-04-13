@@ -2,9 +2,14 @@
   "id": 638736281,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 New Brunswick Ave Rahway NJ 07065",
+    "addr:housenumber":"710",
+    "addr:postcode":"07065",
+    "addr:street":"New Brunswick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283939,40.598251,-74.283939,40.598251",
     "geom:latitude":40.598251,
     "geom:longitude":-74.283939,
@@ -27,7 +32,14 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qwGuSUfLRMcw0BL1ngEuc_40.598251_-74.283939@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278649,
     "wof:geomhash":"df78475ccbd58aafd47a4f6867ea0efd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638736281
+        }
+    ],
     "wof:id":638736281,
-    "wof:lastmodified":1466676336,
+    "wof:lastmodified":1492062415,
     "wof:name":"Action Pac Distributors Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

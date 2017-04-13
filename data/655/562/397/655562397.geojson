@@ -2,9 +2,14 @@
   "id": 655562397,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Grace Ave Northvale NJ 07647",
+    "addr:housenumber":"400",
+    "addr:postcode":"07647",
+    "addr:street":"Grace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.953617,41.009274,-73.953617,41.009274",
     "geom:latitude":41.009274,
     "geom:longitude":-73.953617,
@@ -24,7 +29,14 @@
     "sg:postcode":"07647",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42jXw1UdpgpYT6Ib1Cr06g_41.009274_-73.953617@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311380,
     "wof:geomhash":"2497abf6251a5c546f7f0aa5be09d158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655562397
+        }
+    ],
     "wof:id":655562397,
-    "wof:lastmodified":1466679778,
+    "wof:lastmodified":1492052079,
     "wof:name":"Its Creative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

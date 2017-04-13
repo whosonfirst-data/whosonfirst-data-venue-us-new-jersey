@@ -2,9 +2,14 @@
   "id": 655703953,
   "type": "Feature",
   "properties": {
+    "addr:full":"657 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"657",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987396,40.826698,-73.987396,40.826698",
     "geom:latitude":40.826698,
     "geom:longitude":-73.987396,
@@ -33,7 +38,14 @@
         "alteration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HDpspnBfZeaJLHekXQRUa_40.826698_-73.987396@1303262249"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461317533,
     "wof:geomhash":"8255be41347c61a06938852bd1bb9263",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703953
+        }
+    ],
     "wof:id":655703953,
-    "wof:lastmodified":1466684484,
+    "wof:lastmodified":1492064803,
     "wof:name":"Enzo's Custom Tailoring & Formal Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

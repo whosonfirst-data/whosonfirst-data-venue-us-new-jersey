@@ -2,9 +2,14 @@
   "id": 655790185,
   "type": "Feature",
   "properties": {
+    "addr:full":"Port Murray Rd Port Murray NJ 07865",
+    "addr:housenumber":"",
+    "addr:postcode":"07865",
+    "addr:street":"Port Murray Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889999,40.784801,-74.889999,40.784801",
     "geom:latitude":40.784801,
     "geom:longitude":-74.889999,
@@ -29,7 +34,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mtzFdhO5Ozuvfll3r0G0c_40.784801_-74.889999@1303262270"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461320984,
     "wof:geomhash":"125e291abddeb3e171105d9d3361aa9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527753,
+            "venue_id":655790185
+        }
+    ],
     "wof:id":655790185,
-    "wof:lastmodified":1466686566,
+    "wof:lastmodified":1492070868,
     "wof:name":"Mansfield Township",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

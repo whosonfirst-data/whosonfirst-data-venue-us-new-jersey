@@ -2,9 +2,14 @@
   "id": 639617743,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"610",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987719,40.825388,-73.987719,40.825388",
     "geom:latitude":40.825388,
     "geom:longitude":-73.987719,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X2O2RXO0KjCM7anjbysqp_40.825388_-73.987719@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302422,
     "wof:geomhash":"e41dc3d4212e2803c2a8ef11179fbdd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639617743
+        }
+    ],
     "wof:id":639617743,
-    "wof:lastmodified":1466697287,
+    "wof:lastmodified":1492044495,
     "wof:name":"Bruni Ugo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

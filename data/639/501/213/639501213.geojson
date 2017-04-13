@@ -2,9 +2,14 @@
   "id": 639501213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Dogwood Dr Neshanic Station NJ 08848",
+    "addr:housenumber":"1",
+    "addr:postcode":"08848",
+    "addr:street":"Dogwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170197,40.57662,-75.170197,40.57662",
     "geom:latitude":40.57662,
     "geom:longitude":-75.170197,
@@ -27,7 +32,13 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pcaVWUYiRGzliNVDcktbr_40.576620_-75.170197@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297465,
     "wof:geomhash":"a497e431897a3b45c281ea4275ee913e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":639501213
+        }
+    ],
     "wof:id":639501213,
-    "wof:lastmodified":1466694692,
+    "wof:lastmodified":1492053535,
     "wof:name":"Radio Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

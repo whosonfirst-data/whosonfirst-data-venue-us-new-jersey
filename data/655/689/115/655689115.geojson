@@ -2,9 +2,14 @@
   "id": 655689115,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Durie Ave Closter NJ 07624",
+    "addr:housenumber":"546",
+    "addr:postcode":"07624",
+    "addr:street":"Durie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962135,40.97233,-73.962135,40.97233",
     "geom:latitude":40.97233,
     "geom:longitude":-73.962135,
@@ -29,7 +34,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HW6DDug9gv8lPJAkOy4Q3_40.972330_-73.962135@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316827,
     "wof:geomhash":"2eee2481809f19832626906377571a2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655689115
+        }
+    ],
     "wof:id":655689115,
-    "wof:lastmodified":1466683930,
+    "wof:lastmodified":1492022099,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

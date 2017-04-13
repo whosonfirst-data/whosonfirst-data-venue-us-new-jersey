@@ -2,9 +2,14 @@
   "id": 655603151,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 Newton Swartswood Rd Newton NJ 07860",
+    "addr:housenumber":"277",
+    "addr:postcode":"07860",
+    "addr:street":"Newton Swartswood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804986,41.079481,-74.804986,41.079481",
     "geom:latitude":41.079481,
     "geom:longitude":-74.804986,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683,
+        85688607,
+        85836175,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XuLt8Uf75Dy7gfhhq09CL_41.079481_-74.804986@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461313142,
     "wof:geomhash":"fae0b974605803b1b1d84edee3e4305f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655603151
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85836175,
+            "region_id":85688607,
+            "venue_id":655603151
+        }
+    ],
     "wof:id":655603151,
-    "wof:lastmodified":1466681027,
+    "wof:lastmodified":1492058463,
     "wof:name":"At Your Finger Tips Nail Salon",
-    "wof:parent_id":420527683,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

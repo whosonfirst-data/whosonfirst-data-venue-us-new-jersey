@@ -2,9 +2,14 @@
   "id": 639531731,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Adams Dr Cranbury NJ 08512",
+    "addr:housenumber":"16",
+    "addr:postcode":"08512",
+    "addr:street":"Adams Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.53843,40.292781,-74.53843,40.292781",
     "geom:latitude":40.292781,
     "geom:longitude":-74.53843,
@@ -28,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477473,
+        85633793,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jPaNdXDGfJBHOYhb5ksIX_40.292781_-74.538430@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298908,
     "wof:geomhash":"4b7e047247fde8d726c8904e6e166b35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477473,
+            "region_id":85688607,
+            "venue_id":639531731
+        }
+    ],
     "wof:id":639531731,
-    "wof:lastmodified":1466695348,
+    "wof:lastmodified":1492041619,
     "wof:name":"Acaious Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

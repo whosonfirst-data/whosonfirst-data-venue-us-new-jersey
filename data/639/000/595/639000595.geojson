@@ -2,9 +2,14 @@
   "id": 639000595,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Burlington Ave Spotswood NJ 08884",
+    "addr:housenumber":"170",
+    "addr:postcode":"08884",
+    "addr:street":"Burlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.394509,40.400894,-74.394509,40.400894",
     "geom:latitude":40.400894,
     "geom:longitude":-74.394509,
@@ -38,7 +43,10 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DhuIbDMJvzk8p5qwU8fMX_40.400894_-74.394509@1294171694"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461285121,
     "wof:geomhash":"815a63eee9a424aaf57fda5b305f9823",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639000595
+        }
+    ],
     "wof:id":639000595,
-    "wof:lastmodified":1466673124,
+    "wof:lastmodified":1492041288,
     "wof:name":"Aquatic Service Inc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

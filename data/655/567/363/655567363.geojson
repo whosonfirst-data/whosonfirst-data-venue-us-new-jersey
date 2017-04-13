@@ -2,9 +2,14 @@
   "id": 655567363,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Harding Rd Wyckoff NJ 07481",
+    "addr:housenumber":"83",
+    "addr:postcode":"07481",
+    "addr:street":"Harding Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.159167,41.009556,-74.159167,41.009556",
     "geom:latitude":41.009556,
     "geom:longitude":-74.159167,
@@ -24,7 +29,13 @@
     "sg:postcode":"07481",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892569,
+        102086773,
+        420526559
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sOEIhKf8PHbJPoeeiLQkP_41.009556_-74.159167@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461311592,
     "wof:geomhash":"a0a7063c0476837e48593d8fe4dd169d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85892569,
+            "region_id":85688607,
+            "venue_id":655567363
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526559,
+            "venue_id":655567363
+        }
+    ],
     "wof:id":655567363,
-    "wof:lastmodified":1466680036,
+    "wof:lastmodified":1492022714,
     "wof:name":"Robert E Johnson",
-    "wof:parent_id":420526559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

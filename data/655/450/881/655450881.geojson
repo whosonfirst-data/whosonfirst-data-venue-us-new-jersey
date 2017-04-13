@@ -2,9 +2,14 @@
   "id": 655450881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Andrew St Union NJ 07083",
+    "addr:housenumber":"1601",
+    "addr:postcode":"07083",
+    "addr:street":"Andrew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262278,40.713301,-74.262278,40.713301",
     "geom:latitude":40.713301,
     "geom:longitude":-74.262278,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xQumsti6Rj6wRObVtf1M3_40.713301_-74.262278@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461306737,
     "wof:geomhash":"ef02f76cfa90aadd34dba9298160b735",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":655450881
+        }
+    ],
     "wof:id":655450881,
-    "wof:lastmodified":1466676985,
+    "wof:lastmodified":1492027825,
     "wof:name":"St Joseph's Rectory",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

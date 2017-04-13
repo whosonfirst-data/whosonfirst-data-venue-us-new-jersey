@@ -2,9 +2,14 @@
   "id": 639580137,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Nevada St Newark NJ 07102",
+    "addr:housenumber":"2",
+    "addr:postcode":"07102",
+    "addr:street":"Nevada St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.178006,40.729391,-74.178006,40.729391",
     "geom:latitude":40.729391,
     "geom:longitude":-74.178006,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873007,
+        85873009,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85873007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873009,
+            "region_id":85688607,
+            "venue_id":639580137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85873007,
             "region_id":85688607,
             "venue_id":639580137
         }
     ],
     "wof:id":639580137,
-    "wof:lastmodified":1466696438,
+    "wof:lastmodified":1492023002,
     "wof:name":"Sagrosa Coffee Co Inc",
-    "wof:parent_id":85873007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

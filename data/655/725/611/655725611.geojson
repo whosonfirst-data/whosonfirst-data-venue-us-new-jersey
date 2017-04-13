@@ -2,9 +2,14 @@
   "id": 655725611,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S Center St Apt C12 Orange NJ 07050",
+    "addr:housenumber":"500",
+    "addr:postcode":"07050",
+    "addr:street":"S Center St Apt C12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235046,40.758652,-74.235046,40.758652",
     "geom:latitude":40.758652,
     "geom:longitude":-74.235046,
@@ -49,7 +54,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sOI3qm0LSYWoM1uz7HkwD_40.758652_-74.235046@1303262255"
@@ -57,9 +65,15 @@
     "wof:country":"US",
     "wof:created":1461318357,
     "wof:geomhash":"b02a3726b3c452514d954958115d3d99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526951,
+            "venue_id":655725611
+        }
+    ],
     "wof:id":655725611,
-    "wof:lastmodified":1466685088,
+    "wof:lastmodified":1492057337,
     "wof:name":"Delta Refrigeration",
     "wof:parent_id":420526951,
     "wof:placetype":"venue",

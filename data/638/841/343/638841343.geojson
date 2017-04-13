@@ -2,9 +2,14 @@
   "id": 638841343,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Philip St Fair Lawn NJ 07410",
+    "addr:housenumber":"1",
+    "addr:postcode":"07410",
+    "addr:street":"Philip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106353,40.935738,-74.106353,40.935738",
     "geom:latitude":40.935738,
     "geom:longitude":-74.106353,
@@ -31,7 +36,10 @@
         85633793,
         85975873,
         102086773,
-        85688607
+        85688607,
+        85803391,
+        404477709,
+        85975951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":85854547,
             "region_id":85688607,
             "venue_id":638841343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477709,
+            "locality_id":85975951,
+            "neighbourhood_id":85803391,
+            "region_id":85688607,
+            "venue_id":638841343
         }
     ],
     "wof:id":638841343,
-    "wof:lastmodified":1466689086,
+    "wof:lastmodified":1492064128,
     "wof:name":"H B Milnes School",
-    "wof:parent_id":85854547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

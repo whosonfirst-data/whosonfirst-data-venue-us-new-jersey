@@ -2,9 +2,14 @@
   "id": 655380957,
   "type": "Feature",
   "properties": {
+    "addr:full":"382 State Rte 94 Newton NJ 07860",
+    "addr:housenumber":"382",
+    "addr:postcode":"07860",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800744,41.042639,-74.800744,41.042639",
     "geom:latitude":41.042639,
     "geom:longitude":-74.800744,
@@ -27,7 +32,10 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RxkYRRnpWiczlWo9GWNK2_41.042639_-74.800744@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303840,
     "wof:geomhash":"85226a59d90b6cc1d463b1442135b8a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655380957
+        }
+    ],
     "wof:id":655380957,
-    "wof:lastmodified":1466675167,
+    "wof:lastmodified":1492040438,
     "wof:name":"DADS Taxi & Limousine Inc",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655528855,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Barbara St Kendall Park NJ 08824",
+    "addr:housenumber":"13",
+    "addr:postcode":"08824",
+    "addr:street":"Barbara St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528593,40.42975,-74.528593,40.42975",
     "geom:latitude":40.42975,
     "geom:longitude":-74.528593,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527179,
+        85688607,
         85806263,
         102087417
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655528855
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85806263,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":655528855,
-    "wof:lastmodified":1466679108,
+    "wof:lastmodified":1492045280,
     "wof:name":"Artistic Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655496387,
   "type": "Feature",
   "properties": {
+    "addr:full":"256 Lincoln Pl Garfield NJ 07026",
+    "addr:housenumber":"256",
+    "addr:postcode":"07026",
+    "addr:street":"Lincoln Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.10292,40.873545,-74.10292,40.873545",
     "geom:latitude":40.873545,
     "geom:longitude":-74.10292,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76nkGYuRizGsmO0nWHEV66_40.873545_-74.102920@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308682,
     "wof:geomhash":"28e10d25e00760a5e89d49273bd8510d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655496387
+        }
+    ],
     "wof:id":655496387,
-    "wof:lastmodified":1466678012,
+    "wof:lastmodified":1492028638,
     "wof:name":"Dynamic Elecrical Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

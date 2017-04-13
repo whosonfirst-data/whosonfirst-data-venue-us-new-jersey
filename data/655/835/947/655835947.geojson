@@ -2,9 +2,14 @@
   "id": 655835947,
   "type": "Feature",
   "properties": {
+    "addr:full":"371 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"371",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.511405,40.374446,-74.511405,40.374446",
     "geom:latitude":40.374446,
     "geom:longitude":-74.511405,
@@ -28,7 +33,10 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46lzE9uwSD0VjySxRa5ruE_40.374446_-74.511405@1303262282"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322902,
     "wof:geomhash":"f1b1cb34bf94d7070e92cb6080fe6892",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655835947
+        }
+    ],
     "wof:id":655835947,
-    "wof:lastmodified":1466688036,
+    "wof:lastmodified":1492071372,
     "wof:name":"Nawab Enterprises",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655733625,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Cutler Pl Clark NJ 07066",
+    "addr:housenumber":"44",
+    "addr:postcode":"07066",
+    "addr:street":"Cutler Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.317902,40.6259,-74.317902,40.6259",
     "geom:latitude":40.6259,
     "geom:longitude":-74.317902,
@@ -27,7 +32,13 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a6lhJDkCVzAff56MpVbZB_40.625900_-74.317902@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318667,
     "wof:geomhash":"7b73c16d2eab0f421e883bea47777756",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733625
+        }
+    ],
     "wof:id":655733625,
-    "wof:lastmodified":1466685178,
+    "wof:lastmodified":1492048189,
     "wof:name":"Saunders Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

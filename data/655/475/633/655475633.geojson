@@ -2,9 +2,14 @@
   "id": 655475633,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 Oberlin Ave N Lakewood NJ 08701",
+    "addr:housenumber":"190",
+    "addr:postcode":"08701",
+    "addr:street":"Oberlin Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175393,40.078322,-74.175393,40.078322",
     "geom:latitude":40.078322,
     "geom:longitude":-74.175393,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MpRarxT7ZBAl8v0gb7Pbp_40.078322_-74.175393@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307821,
     "wof:geomhash":"a51baf92f8602688564c6ff24ad8b294",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655475633
+        }
+    ],
     "wof:id":655475633,
-    "wof:lastmodified":1466677469,
+    "wof:lastmodified":1492020664,
     "wof:name":"New Jersey Shore Builders Assn",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

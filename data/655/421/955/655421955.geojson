@@ -2,9 +2,14 @@
   "id": 655421955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1803 Ocean Ave Belmar NJ 07719",
+    "addr:housenumber":"1803",
+    "addr:postcode":"07719",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.016128,40.170478,-74.016128,40.170478",
     "geom:latitude":40.170478,
     "geom:longitude":-74.016128,
@@ -27,7 +32,14 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7buSWLf9OkbRqHRlipNrE2_40.170478_-74.016128@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305549,
     "wof:geomhash":"5301cc20fd1dc0d969297bc5787fa166",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655421955
+        }
+    ],
     "wof:id":655421955,
-    "wof:lastmodified":1466676230,
+    "wof:lastmodified":1492055651,
     "wof:name":"DJais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

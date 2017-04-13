@@ -2,9 +2,14 @@
   "id": 655703899,
   "type": "Feature",
   "properties": {
+    "addr:full":"558 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"558",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989403,40.823299,-73.989403,40.823299",
     "geom:latitude":40.823299,
     "geom:longitude":-73.989403,
@@ -33,7 +38,14 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G8IEr42BvwQ6Lbuimj33Y_40.823299_-73.989403@1303262249"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461317532,
     "wof:geomhash":"d6d708a8c578c22cf7fb1717e58eda62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703899
+        }
+    ],
     "wof:id":655703899,
-    "wof:lastmodified":1466684470,
+    "wof:lastmodified":1492070766,
     "wof:name":"Karan Val Ph D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639145385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1984 Valley Rd Millington NJ 07946",
+    "addr:housenumber":"1984",
+    "addr:postcode":"07946",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.525132,40.6653,-74.525132,40.6653",
     "geom:latitude":40.6653,
     "geom:longitude":-74.525132,
@@ -31,7 +36,13 @@
         "both"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478437,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0duDSs4Tgqr7sGDtPldpH4_40.665300_-74.525132@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461288415,
     "wof:geomhash":"2f57c71d6f38292e68ee2aab0823c281",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478437,
+            "region_id":85688607,
+            "venue_id":639145385
+        }
+    ],
     "wof:id":639145385,
-    "wof:lastmodified":1466680617,
+    "wof:lastmodified":1492050635,
     "wof:name":"High Performance Systems Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

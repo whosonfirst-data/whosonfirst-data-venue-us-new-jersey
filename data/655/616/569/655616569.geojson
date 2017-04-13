@@ -2,9 +2,14 @@
   "id": 655616569,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Joseph St Clark NJ 07066",
+    "addr:housenumber":"56",
+    "addr:postcode":"07066",
+    "addr:street":"Joseph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295487,40.620765,-74.295487,40.620765",
     "geom:latitude":40.620765,
     "geom:longitude":-74.295487,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sKOnNTvVwwC3fKBWANfVp_40.620765_-74.295487@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461313720,
     "wof:geomhash":"5a0b78e00ad9dbfa5e1746564bfa6767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655616569
+        }
+    ],
     "wof:id":655616569,
-    "wof:lastmodified":1466681673,
+    "wof:lastmodified":1492065170,
     "wof:name":"Prygrocki Constructi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

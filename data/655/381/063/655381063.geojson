@@ -2,9 +2,14 @@
   "id": 655381063,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Royal Oaks Ct Monmouth Junction NJ 08852",
+    "addr:housenumber":"701",
+    "addr:postcode":"08852",
+    "addr:street":"Royal Oaks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.522803,40.42041,-74.522803,40.42041",
     "geom:latitude":40.42041,
     "geom:longitude":-74.522803,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527179,
+        85688607,
         85806263,
         102087417
     ],
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655381063
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85806263,
             "region_id":85688607,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":655381063,
-    "wof:lastmodified":1466674929,
+    "wof:lastmodified":1492055698,
     "wof:name":"Royal Oaks Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639452411,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Marshall St Branchburg NJ 08853",
+    "addr:housenumber":"607",
+    "addr:postcode":"08853",
+    "addr:street":"Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.733723,40.50953,-74.733723,40.50953",
     "geom:latitude":40.50953,
     "geom:longitude":-74.733723,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OkioKlhBM4DfoH88PwxPF_40.509530_-74.733723@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295515,
     "wof:geomhash":"80348894c6b4622a8a1f9cb3218db9ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639452411
+        }
+    ],
     "wof:id":639452411,
-    "wof:lastmodified":1466693489,
+    "wof:lastmodified":1492053551,
     "wof:name":"Don's Service Ctr",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

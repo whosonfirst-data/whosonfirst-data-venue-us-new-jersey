@@ -2,9 +2,14 @@
   "id": 639273511,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mulberry Ln Holmdel NJ 07722",
+    "addr:housenumber":"15",
+    "addr:postcode":"07722",
+    "addr:street":"Mulberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.198621,40.325734,-74.198621,40.325734",
     "geom:latitude":40.325734,
     "geom:longitude":-74.198621,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85842345,
-        102085049
+        85818331,
+        102085049,
+        85842345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85818331,
+            "region_id":85688607,
+            "venue_id":639273511
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "neighbourhood_id":85842345,
             "region_id":85688607,
             "venue_id":639273511
         }
     ],
     "wof:id":639273511,
-    "wof:lastmodified":1466690860,
+    "wof:lastmodified":1492051862,
     "wof:name":"Lighting Electric",
-    "wof:parent_id":85842345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

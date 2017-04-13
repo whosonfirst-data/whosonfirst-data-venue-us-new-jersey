@@ -2,9 +2,14 @@
   "id": 639032223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Valley Rd Princeton NJ 08540",
+    "addr:housenumber":"2",
+    "addr:postcode":"08540",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.663358,40.361529,-74.663358,40.361529",
     "geom:latitude":40.361529,
     "geom:longitude":-74.663358,
@@ -29,7 +34,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y3enEQvgnscs7y5iAqOsF_40.361529_-74.663358@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461285834,
     "wof:geomhash":"21636d590cc1a9b521bda0144c7fcba2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639032223
+        }
+    ],
     "wof:id":639032223,
-    "wof:lastmodified":1466673762,
+    "wof:lastmodified":1492051518,
     "wof:name":"Gale Company LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

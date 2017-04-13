@@ -2,9 +2,14 @@
   "id": 638664793,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"253",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142458,40.038699,-74.142458,40.038699",
     "geom:latitude":40.038699,
     "geom:longitude":-74.142458,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wGnpXSvet6oCKapAUxjEe_40.038699_-74.142458@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461276289,
     "wof:geomhash":"11b3cde6aa861ad7b6282ff1267e9208",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":638664793
+        }
+    ],
     "wof:id":638664793,
-    "wof:lastmodified":1466674301,
+    "wof:lastmodified":1492024126,
     "wof:name":"Ronald Haimowitz DDS",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

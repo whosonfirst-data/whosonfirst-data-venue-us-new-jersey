@@ -2,9 +2,14 @@
   "id": 639616625,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2050",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.486172,40.435123,-74.486172,40.435123",
     "geom:latitude":40.435123,
     "geom:longitude":-74.486172,
@@ -27,7 +32,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZTJh1EAlsAr46Ug3rmfr1_40.435123_-74.486172@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302372,
     "wof:geomhash":"871ada2c50d74da0a04378cb909912f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639616625
+        }
+    ],
     "wof:id":639616625,
-    "wof:lastmodified":1466697324,
+    "wof:lastmodified":1492042940,
     "wof:name":"North Brunswick Paint & Hdwr",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

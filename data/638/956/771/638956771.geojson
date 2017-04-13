@@ -2,9 +2,14 @@
   "id": 638956771,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Buffalo Run East Brunswick NJ 08816",
+    "addr:housenumber":"35",
+    "addr:postcode":"08816",
+    "addr:street":"Buffalo Run",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.415994,40.402974,-74.415994,40.402974",
     "geom:latitude":40.402974,
     "geom:longitude":-74.415994,
@@ -28,7 +33,10 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAnJQGqMadQdYwCTwKuhm_40.402974_-74.415994@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284178,
     "wof:geomhash":"5767ce787f2143f25569f17993571264",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527203,
+            "venue_id":638956771
+        }
+    ],
     "wof:id":638956771,
-    "wof:lastmodified":1466691839,
+    "wof:lastmodified":1492028616,
     "wof:name":"Hke Inc",
     "wof:parent_id":420527203,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655828429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1395 Suckle Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"1395",
+    "addr:postcode":"08110",
+    "addr:street":"Suckle Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.043589,39.979957,-75.043589,39.979957",
     "geom:latitude":39.979957,
     "geom:longitude":-75.043589,
@@ -42,7 +47,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qruUCXQdlVRRQ7JRIwCii_39.979957_-75.043589@1303262280"
@@ -50,9 +62,19 @@
     "wof:country":"US",
     "wof:created":1461322583,
     "wof:geomhash":"a7b2728746e25b48cf407cd37fff5d3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828429
+        }
+    ],
     "wof:id":655828429,
-    "wof:lastmodified":1466687663,
+    "wof:lastmodified":1492027532,
     "wof:name":"Display Consulting & Manufacturing",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

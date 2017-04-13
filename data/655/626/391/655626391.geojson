@@ -2,9 +2,14 @@
   "id": 655626391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Concord Dr Belmar NJ 07719",
+    "addr:housenumber":"2801",
+    "addr:postcode":"07719",
+    "addr:street":"Concord Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.082566,40.159321,-74.082566,40.159321",
     "geom:latitude":40.159321,
     "geom:longitude":-74.082566,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527307,
+        85688607,
         85804211,
         102085049
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":655626391
+        },
+        {
+            "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85804211,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":655626391,
-    "wof:lastmodified":1466681910,
+    "wof:lastmodified":1492028453,
     "wof:name":"Cruise Utopia LLC",
-    "wof:parent_id":85804211,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

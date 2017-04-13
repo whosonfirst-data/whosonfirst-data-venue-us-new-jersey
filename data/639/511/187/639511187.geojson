@@ -2,9 +2,14 @@
   "id": 639511187,
   "type": "Feature",
   "properties": {
+    "addr:full":"198 Cooper Folly Rd Atco NJ 08004",
+    "addr:housenumber":"198",
+    "addr:postcode":"08004",
+    "addr:street":"Cooper Folly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.903813,39.750865,-74.903813,39.750865",
     "geom:latitude":39.750865,
     "geom:longitude":-74.903813,
@@ -29,7 +34,11 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741,
+        420526739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uDWr3hbbus44PhdM58uMg_39.750865_-74.903813@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461297903,
     "wof:geomhash":"369365183e2f64466fbf695e91913764",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639511187
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526739,
+            "venue_id":639511187
+        }
+    ],
     "wof:id":639511187,
-    "wof:lastmodified":1466694981,
+    "wof:lastmodified":1492042549,
     "wof:name":"Regional Day School",
-    "wof:parent_id":420526739,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

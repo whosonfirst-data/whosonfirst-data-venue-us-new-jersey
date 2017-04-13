@@ -2,9 +2,14 @@
   "id": 655585453,
   "type": "Feature",
   "properties": {
+    "addr:full":"156 Green Brook Dr Marlton NJ 08053",
+    "addr:housenumber":"156",
+    "addr:postcode":"08053",
+    "addr:street":"Green Brook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.887365,39.905548,-74.887365,39.905548",
     "geom:latitude":39.905548,
     "geom:longitude":-74.887365,
@@ -30,7 +35,10 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CnTrNI4I2ZSocqOhWeqBl_39.905548_-74.887365@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461312410,
     "wof:geomhash":"61cf96822ec94989295502a5993ef859",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655585453
+        }
+    ],
     "wof:id":655585453,
-    "wof:lastmodified":1466680447,
+    "wof:lastmodified":1492050443,
     "wof:name":"By The Hour",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

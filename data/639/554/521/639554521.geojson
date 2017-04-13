@@ -2,9 +2,14 @@
   "id": 639554521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Mews Ln South Orange NJ 07079",
+    "addr:housenumber":"",
+    "addr:postcode":"07079",
+    "addr:street":"Mews Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261876,40.745716,-74.261876,40.745716",
     "geom:latitude":40.745716,
     "geom:longitude":-74.261876,
@@ -28,7 +33,11 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526927,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uWGfaAsxe5DzxaIoSBISP_40.745716_-74.261876@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461299921,
     "wof:geomhash":"2aa8f3f645404ef1f728eb3905507690",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":639554521
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639554521
+        }
+    ],
     "wof:id":639554521,
-    "wof:lastmodified":1466695937,
+    "wof:lastmodified":1492049751,
     "wof:name":"Turtle Soup",
-    "wof:parent_id":420526927,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

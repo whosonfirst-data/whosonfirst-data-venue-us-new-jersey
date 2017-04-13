@@ -2,9 +2,14 @@
   "id": 655838571,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Corporate Pl S Ste 418 Piscataway NJ 08854",
+    "addr:housenumber":"15",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Pl S Ste 418",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.457147,40.548928,-74.457147,40.548928",
     "geom:latitude":40.548928,
     "geom:longitude":-74.457147,
@@ -24,7 +29,10 @@
     "sg:postcode":"08854",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RdhIPGfXzsGNWZgZrBPxl_40.548928_-74.457147@1303262283"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461323010,
     "wof:geomhash":"81ee2ed29c823511a6103d045ade1bd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":655838571
+        }
+    ],
     "wof:id":655838571,
-    "wof:lastmodified":1466687961,
+    "wof:lastmodified":1492050337,
     "wof:name":"Contract Research Organization",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

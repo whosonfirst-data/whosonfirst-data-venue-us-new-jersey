@@ -2,9 +2,14 @@
   "id": 655489901,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Oakland St Irvington NJ 07111",
+    "addr:housenumber":"57",
+    "addr:postcode":"07111",
+    "addr:street":"Oakland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.230627,40.732148,-74.230627,40.732148",
     "geom:latitude":40.732148,
     "geom:longitude":-74.230627,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29clYOyxrcShor5yC9itGQ_40.732148_-74.230627@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461308411,
     "wof:geomhash":"7e229eb6395fdf6d0b3561879edd13b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655489901
+        }
+    ],
     "wof:id":655489901,
-    "wof:lastmodified":1466678055,
+    "wof:lastmodified":1492030646,
     "wof:name":"T Asberry Trucking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

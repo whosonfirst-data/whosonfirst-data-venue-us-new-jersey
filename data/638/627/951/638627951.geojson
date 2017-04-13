@@ -2,9 +2,14 @@
   "id": 638627951,
   "type": "Feature",
   "properties": {
+    "addr:full":"797 Co Rd 601 Skillman NJ 08558",
+    "addr:housenumber":"797;601",
+    "addr:postcode":"08558",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.698532,40.429952,-74.698532,40.429952",
     "geom:latitude":40.429952,
     "geom:longitude":-74.698532,
@@ -28,7 +33,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XwQVWfC6svQ9d7kSG5Nkl_40.429952_-74.698532@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275165,
     "wof:geomhash":"000ae3d556d0b19cdcf3d7695b25738a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527609,
+            "venue_id":638627951
+        }
+    ],
     "wof:id":638627951,
-    "wof:lastmodified":1466673255,
+    "wof:lastmodified":1492052140,
     "wof:name":"Devereux",
     "wof:parent_id":420527609,
     "wof:placetype":"venue",

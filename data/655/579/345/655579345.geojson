@@ -2,9 +2,14 @@
   "id": 655579345,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Adriatic Ave Waretown NJ 08758",
+    "addr:housenumber":"102",
+    "addr:postcode":"08758",
+    "addr:street":"Adriatic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.185181,39.789179,-74.185181,39.789179",
     "geom:latitude":39.789179,
     "geom:longitude":-74.185181,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kgPNSMwfCjkgcTereaYpn_39.789179_-74.185181@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312134,
     "wof:geomhash":"7877a7efa7df8d8defa5b404b5f89c1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527435,
+            "venue_id":655579345
+        }
+    ],
     "wof:id":655579345,
-    "wof:lastmodified":1466680304,
+    "wof:lastmodified":1492025584,
     "wof:name":"Spectrum Construction Ser",
     "wof:parent_id":420527435,
     "wof:placetype":"venue",

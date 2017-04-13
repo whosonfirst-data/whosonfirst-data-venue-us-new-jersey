@@ -2,9 +2,14 @@
   "id": 639497929,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Boulevard Glen Rock NJ 07452",
+    "addr:housenumber":"403",
+    "addr:postcode":"07452",
+    "addr:street":"Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145498,40.951798,-74.145498,40.951798",
     "geom:latitude":40.951798,
     "geom:longitude":-74.145498,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lw3ywwrcQqynoSsDPgQfu_40.951798_-74.145498@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297329,
     "wof:geomhash":"a72921604be0d3c6a41443be1d108a4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639497929
+        }
+    ],
     "wof:id":639497929,
-    "wof:lastmodified":1466694848,
+    "wof:lastmodified":1492042331,
     "wof:name":"Enya Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

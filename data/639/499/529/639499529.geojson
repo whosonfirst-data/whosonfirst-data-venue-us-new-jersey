@@ -2,9 +2,14 @@
   "id": 639499529,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 State Rte 31 Clinton NJ 08809",
+    "addr:housenumber":"1712",
+    "addr:postcode":"08809",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.911362,40.652687,-74.911362,40.652687",
     "geom:latitude":40.652687,
     "geom:longitude":-74.911362,
@@ -28,7 +33,11 @@
         85688607,
         85633793,
         85842587,
-        102085997
+        102085997,
+        85841547,
+        102191575,
+        404478221,
+        85975687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +53,22 @@
             "neighbourhood_id":85842587,
             "region_id":85688607,
             "venue_id":639499529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478221,
+            "locality_id":85975687,
+            "neighbourhood_id":85841547,
+            "region_id":85688607,
+            "venue_id":639499529
         }
     ],
     "wof:id":639499529,
-    "wof:lastmodified":1466694765,
+    "wof:lastmodified":1492049617,
     "wof:name":"Nail Salon",
-    "wof:parent_id":85842587,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

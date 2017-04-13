@@ -2,9 +2,14 @@
   "id": 639472003,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Center Ave Leonardo NJ 07737",
+    "addr:housenumber":"17",
+    "addr:postcode":"07737",
+    "addr:street":"Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.05026,40.418079,-74.05026,40.418079",
     "geom:latitude":40.418079,
     "geom:longitude":-74.05026,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.tconnection.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i9CePMvXBNkWtg7Ldsbn7_40.418079_-74.050260@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461296270,
     "wof:geomhash":"9bce28a3ce089888968de9868ec4d081",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639472003
+        }
+    ],
     "wof:id":639472003,
-    "wof:lastmodified":1466694037,
+    "wof:lastmodified":1492049860,
     "wof:name":"Connection",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

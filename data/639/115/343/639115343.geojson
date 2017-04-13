@@ -2,9 +2,14 @@
   "id": 639115343,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Elizabeth St New Milford NJ 07646",
+    "addr:housenumber":"430",
+    "addr:postcode":"07646",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.008359,40.947147,-74.008359,40.947147",
     "geom:latitude":40.947147,
     "geom:longitude":-74.008359,
@@ -29,7 +34,14 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477695,
+        85633793,
+        85975969,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IxP7EHZZAozcn9pLT8Cvk_40.947147_-74.008359@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461287679,
     "wof:geomhash":"587e4a639c7a0b90f79f7bb28cc15e17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477695,
+            "locality_id":85975969,
+            "region_id":85688607,
+            "venue_id":639115343
+        }
+    ],
     "wof:id":639115343,
-    "wof:lastmodified":1466676398,
+    "wof:lastmodified":1492047686,
     "wof:name":"Tai CHI Elements Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639431089,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Carlough Rd Saddle River NJ 07458",
+    "addr:housenumber":"108",
+    "addr:postcode":"07458",
+    "addr:street":"Carlough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.112578,41.071977,-74.112578,41.071977",
     "geom:latitude":41.071977,
     "geom:longitude":-74.112578,
@@ -24,7 +29,14 @@
     "sg:postcode":"07458",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11vHWPMeLbpvfpcFmoyVxQ_41.071977_-74.112578@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461294935,
     "wof:geomhash":"5565b09680f7574e12ced2d1998ac30a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639431089
+        }
+    ],
     "wof:id":639431089,
-    "wof:lastmodified":1466693257,
+    "wof:lastmodified":1492042285,
     "wof:name":"BT Ingredients Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

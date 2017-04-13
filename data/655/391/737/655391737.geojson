@@ -2,9 +2,14 @@
   "id": 655391737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1179 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"1179",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255502,40.713229,-74.255502,40.713229",
     "geom:latitude":40.713229,
     "geom:longitude":-74.255502,
@@ -27,7 +32,13 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725,
+        85688607,
+        85892405,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10xBDlpVkEiu9FHPMONaNL_40.713229_-74.255502@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461304290,
     "wof:geomhash":"4872533227493d42356d7cd2582fb2c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655391737
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892405,
+            "region_id":85688607,
+            "venue_id":655391737
+        }
+    ],
     "wof:id":655391737,
-    "wof:lastmodified":1466675374,
+    "wof:lastmodified":1492057140,
     "wof:name":"Style Taylor & Boutique",
-    "wof:parent_id":420527725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

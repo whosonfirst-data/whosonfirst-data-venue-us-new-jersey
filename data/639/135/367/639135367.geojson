@@ -2,9 +2,14 @@
   "id": 639135367,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Starview Dr Flemington NJ 08822",
+    "addr:housenumber":"22",
+    "addr:postcode":"08822",
+    "addr:street":"Starview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.863652,40.547363,-74.863652,40.547363",
     "geom:latitude":40.547363,
     "geom:longitude":-74.863652,
@@ -27,7 +32,10 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KsBAqtonpV1T4PRWdDYoh_40.547363_-74.863652@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288193,
     "wof:geomhash":"7217252c1831f53bee2ff2c6531ece3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":639135367
+        }
+    ],
     "wof:id":639135367,
-    "wof:lastmodified":1466679093,
+    "wof:lastmodified":1492044075,
     "wof:name":"Perot Systems Corp",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

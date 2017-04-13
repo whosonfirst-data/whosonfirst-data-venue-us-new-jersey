@@ -2,9 +2,14 @@
   "id": 639518081,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Old Tappan Rd Westwood NJ 07675",
+    "addr:housenumber":"130",
+    "addr:postcode":"07675",
+    "addr:street":"Old Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.96807,41.02014,-73.96807,41.02014",
     "geom:latitude":41.02014,
     "geom:longitude":-73.96807,
@@ -27,7 +32,14 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xed3iz6ovkkVbDpLcqs9H_41.020140_-73.968070@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298206,
     "wof:geomhash":"117d9f657fa9cc33dad59e805e9c4dfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639518081
+        }
+    ],
     "wof:id":639518081,
-    "wof:lastmodified":1466695028,
+    "wof:lastmodified":1492049647,
     "wof:name":"Womans Club of Old Tappan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

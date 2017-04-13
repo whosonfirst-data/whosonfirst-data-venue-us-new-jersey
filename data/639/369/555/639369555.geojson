@@ -2,9 +2,14 @@
   "id": 639369555,
   "type": "Feature",
   "properties": {
+    "addr:full":"4105 US Hwy 1 Monmouth Jct NJ 08852",
+    "addr:housenumber":"4105",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.564762,40.391737,-74.564762,40.391737",
     "geom:latitude":40.391737,
     "geom:longitude":-74.564762,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85976319,
+        102087417,
+        85849517,
         420527171,
         102191575,
         404478211,
-        85633793,
-        85976279,
-        102087417,
-        85688607
+        85976279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +51,14 @@
     "wof:created":1461293423,
     "wof:geomhash":"eacd809b6eb5b35cfd93fdfdb37535b9",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "locality_id":85976319,
+            "neighbourhood_id":85849517,
+            "region_id":85688607,
+            "venue_id":639369555
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":639369555,
-    "wof:lastmodified":1466692665,
+    "wof:lastmodified":1492051830,
     "wof:name":"AIG Financial Advisors",
-    "wof:parent_id":420527171,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

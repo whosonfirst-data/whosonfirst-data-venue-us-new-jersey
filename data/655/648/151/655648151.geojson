@@ -2,9 +2,14 @@
   "id": 655648151,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Kilsyth Rd Elizabeth NJ 07208",
+    "addr:housenumber":"911",
+    "addr:postcode":"07208",
+    "addr:street":"Kilsyth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.208965,40.686128,-74.208965,40.686128",
     "geom:latitude":40.686128,
     "geom:longitude":-74.208965,
@@ -24,7 +29,14 @@
     "sg:postcode":"07208",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7doX2jWHALYaZNaBzIalWX_40.686128_-74.208965@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461315102,
     "wof:geomhash":"f39cd94b94a1ff0831e025468c9f5c90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655648151
+        }
+    ],
     "wof:id":655648151,
-    "wof:lastmodified":1466682716,
+    "wof:lastmodified":1492024120,
     "wof:name":"P&S Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

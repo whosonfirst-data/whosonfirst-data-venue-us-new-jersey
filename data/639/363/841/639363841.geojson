@@ -2,9 +2,14 @@
   "id": 639363841,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Argyle Pl North Arlington NJ 07031",
+    "addr:housenumber":"99",
+    "addr:postcode":"07031",
+    "addr:street":"Argyle Pl North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132478,40.783473,-74.132478,40.783473",
     "geom:latitude":40.783473,
     "geom:longitude":-74.132478,
@@ -27,7 +32,14 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k8RHZffcPuZxCXRL79g0C_40.783473_-74.132478@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293311,
     "wof:geomhash":"6767994e2ba575f15e1edc8e4d2f088d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639363841
+        }
+    ],
     "wof:id":639363841,
-    "wof:lastmodified":1466692787,
+    "wof:lastmodified":1492041440,
     "wof:name":"Arad Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

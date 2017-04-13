@@ -2,9 +2,14 @@
   "id": 639572763,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 Oak St Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"2410",
+    "addr:postcode":"08742",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.073162,40.080193,-74.073162,40.080193",
     "geom:latitude":40.080193,
     "geom:longitude":-74.073162,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D7LqOniWQievM2EZ28sCf_40.080193_-74.073162@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300626,
     "wof:geomhash":"17475415743d783caf748734608da989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639572763
+        }
+    ],
     "wof:id":639572763,
-    "wof:lastmodified":1466696306,
+    "wof:lastmodified":1492064847,
     "wof:name":"Michael Savage Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

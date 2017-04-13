@@ -2,9 +2,14 @@
   "id": 638650435,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Park Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"40",
+    "addr:postcode":"07071",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123545,40.819859,-74.123545,40.819859",
     "geom:latitude":40.819859,
     "geom:longitude":-74.123545,
@@ -32,7 +37,13 @@
         "knit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DbDhZ4BU7F49oPHCIqCJs_40.819859_-74.123545@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461275819,
     "wof:geomhash":"856c46ab8b8ef70c4de296e3f337828b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":638650435
+        }
+    ],
     "wof:id":638650435,
-    "wof:lastmodified":1466673835,
+    "wof:lastmodified":1492062315,
     "wof:name":"Bollenbach Knitting Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

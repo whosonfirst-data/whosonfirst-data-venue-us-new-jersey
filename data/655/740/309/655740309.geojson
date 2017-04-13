@@ -2,9 +2,14 @@
   "id": 655740309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2425 Vauxhall Rd Union NJ 07083",
+    "addr:housenumber":"2425",
+    "addr:postcode":"07083",
+    "addr:street":"Vauxhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281502,40.7113,-74.281502,40.7113",
     "geom:latitude":40.7113,
     "geom:longitude":-74.281502,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CzvY1z99hsZDbKE6YLGjF_40.711300_-74.281502@1303262258"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461318927,
     "wof:geomhash":"953e3721ee161cc7746771ba3c15bc22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655740309
+        }
+    ],
     "wof:id":655740309,
-    "wof:lastmodified":1466685296,
+    "wof:lastmodified":1492048167,
     "wof:name":"I & M Auto Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

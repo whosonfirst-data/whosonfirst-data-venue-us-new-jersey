@@ -2,9 +2,14 @@
   "id": 639570265,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 Cooper Landing Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"823",
+    "addr:postcode":"08002",
+    "addr:street":"Cooper Landing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.01009,39.939001,-75.01009,39.939001",
     "geom:latitude":39.939001,
     "geom:longitude":-75.01009,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AlBaznFkjAvm8iN7mL906_39.939001_-75.010090@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461300525,
     "wof:geomhash":"c5505e8b62427e9ed2fc2395f0de10fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639570265
+        }
+    ],
     "wof:id":639570265,
-    "wof:lastmodified":1466695999,
+    "wof:lastmodified":1492047560,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

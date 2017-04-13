@@ -2,9 +2,14 @@
   "id": 639273235,
   "type": "Feature",
   "properties": {
+    "addr:full":"257 Co Rd 539 Cream Ridge NJ 08514",
+    "addr:housenumber":"257",
+    "addr:postcode":"08514",
+    "addr:street":"Co Rd 539 Cream Ridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.520398,40.121066,-74.520398,40.121066",
     "geom:latitude":40.121066,
     "geom:longitude":-74.520398,
@@ -34,8 +39,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527243,
+        85688607,
         85826285,
         102085049
     ],
@@ -49,6 +55,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527243,
+            "venue_id":639273235
+        },
+        {
+            "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85826285,
             "region_id":85688607,
@@ -56,9 +67,9 @@
         }
     ],
     "wof:id":639273235,
-    "wof:lastmodified":1466690849,
+    "wof:lastmodified":1492069347,
     "wof:name":"Good Earth Nursery & Greenhse",
-    "wof:parent_id":85826285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

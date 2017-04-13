@@ -2,9 +2,14 @@
   "id": 639419475,
   "type": "Feature",
   "properties": {
+    "addr:full":"677 Amwell Rd Neshanic Station NJ 08844",
+    "addr:housenumber":"677",
+    "addr:postcode":"08844",
+    "addr:street":"Amwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.712038,40.500158,-74.712038,40.500158",
     "geom:latitude":40.500158,
     "geom:longitude":-74.712038,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527621,
+        85688607,
         85842149,
         102085045
     ],
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639419475
+        },
+        {
+            "country_id":85633793,
             "county_id":102085045,
             "neighbourhood_id":85842149,
             "region_id":85688607,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":639419475,
-    "wof:lastmodified":1466693168,
+    "wof:lastmodified":1492042387,
     "wof:name":"Die-Tech Inc",
-    "wof:parent_id":85842149,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

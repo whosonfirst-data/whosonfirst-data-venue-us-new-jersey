@@ -2,9 +2,14 @@
   "id": 655840379,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"680",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177643,40.697233,-75.177643,40.697233",
     "geom:latitude":40.697233,
     "geom:longitude":-75.177643,
@@ -38,7 +43,14 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vFMsR2izyvO2KsnxOIpz4_40.697233_-75.177643@1303262283"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461323084,
     "wof:geomhash":"ec6f2c3ae4dbc99282a5810e9ccd51cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655840379
+        }
+    ],
     "wof:id":655840379,
-    "wof:lastmodified":1466687920,
+    "wof:lastmodified":1492050264,
     "wof:name":"Ahart's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

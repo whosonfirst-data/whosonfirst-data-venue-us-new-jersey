@@ -2,9 +2,14 @@
   "id": 655739885,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Morris Ave Ste 4 Springfield NJ 07081",
+    "addr:housenumber":"530",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3223,40.716,-74.3223,40.716",
     "geom:latitude":40.716,
     "geom:longitude":-74.3223,
@@ -27,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rw12QHaZIQTbm9SerSz6j_40.716000_-74.322300@1303262258"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318911,
     "wof:geomhash":"3dcce29b99647f3c9918e397d21f367d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655739885
+        }
+    ],
     "wof:id":655739885,
-    "wof:lastmodified":1466685439,
+    "wof:lastmodified":1492027523,
     "wof:name":"Elsaesser Kurt CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

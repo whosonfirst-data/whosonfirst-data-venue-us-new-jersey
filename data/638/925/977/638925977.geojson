@@ -2,9 +2,14 @@
   "id": 638925977,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Merritt Ave Dumont NJ 07628",
+    "addr:housenumber":"36",
+    "addr:postcode":"07628",
+    "addr:street":"Merritt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.980276,40.943067,-73.980276,40.943067",
     "geom:latitude":40.943067,
     "geom:longitude":-73.980276,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V2CQl6PSmccjLOC4IIfKn_40.943067_-73.980276@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283417,
     "wof:geomhash":"6d4f74d01247c257f7bef29b2b594692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":638925977
+        }
+    ],
     "wof:id":638925977,
-    "wof:lastmodified":1466690764,
+    "wof:lastmodified":1492027778,
     "wof:name":"Burns John M Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

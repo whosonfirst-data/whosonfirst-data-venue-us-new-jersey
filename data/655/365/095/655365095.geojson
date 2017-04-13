@@ -2,9 +2,14 @@
   "id": 655365095,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Old Milford Ln West Milford NJ 07480",
+    "addr:housenumber":"42",
+    "addr:postcode":"07480",
+    "addr:street":"Old Milford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.406833,41.103069,-74.406833,41.103069",
     "geom:latitude":41.103069,
     "geom:longitude":-74.406833,
@@ -24,7 +29,10 @@
     "sg:postcode":"07480",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0402GHqPeLcaqfOfdJQlEz_41.103069_-74.406833@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461303225,
     "wof:geomhash":"2d93d58b1e579aa609ace4b061504fba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527495,
+            "venue_id":655365095
+        }
+    ],
     "wof:id":655365095,
-    "wof:lastmodified":1466674431,
+    "wof:lastmodified":1492081997,
     "wof:name":"Richard Glueck & Co",
     "wof:parent_id":420527495,
     "wof:placetype":"venue",

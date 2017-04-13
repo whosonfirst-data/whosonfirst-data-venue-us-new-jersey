@@ -2,9 +2,14 @@
   "id": 639424979,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Yellowbrook Rd Farmingdale NJ 07727",
+    "addr:housenumber":"145",
+    "addr:postcode":"07727",
+    "addr:street":"Yellowbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.186562,40.201985,-74.186562,40.201985",
     "geom:latitude":40.201985,
     "geom:longitude":-74.186562,
@@ -33,7 +38,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vh8zlgIqfn2AxXv4y6T8h_40.201985_-74.186562@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461294816,
     "wof:geomhash":"3d28895445f0cbb289b6e7279fba915e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527253,
+            "venue_id":639424979
+        }
+    ],
     "wof:id":639424979,
-    "wof:lastmodified":1466693327,
+    "wof:lastmodified":1492056069,
     "wof:name":"Mechanical Components Corp",
     "wof:parent_id":420527253,
     "wof:placetype":"venue",

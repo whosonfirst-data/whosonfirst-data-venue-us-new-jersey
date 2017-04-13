@@ -2,9 +2,14 @@
   "id": 639562873,
   "type": "Feature",
   "properties": {
+    "addr:full":"661 Guilford Rd Cherry Hill NJ 08003",
+    "addr:housenumber":"661",
+    "addr:postcode":"08003",
+    "addr:street":"Guilford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.938003,39.889772,-74.938003,39.889772",
     "geom:latitude":39.889772,
     "geom:longitude":-74.938003,
@@ -28,7 +33,14 @@
         "speech"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ze6p5TD3bUDfbKeipyFaW_39.889772_-74.938003@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300232,
     "wof:geomhash":"d0634a2355a9078a0b84719501233db5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":639562873
+        }
+    ],
     "wof:id":639562873,
-    "wof:lastmodified":1466696214,
+    "wof:lastmodified":1492025871,
     "wof:name":"Dreyfuss Speech Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639558167,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Van Pelt Pl Little Falls NJ 07424",
+    "addr:housenumber":"26",
+    "addr:postcode":"07424",
+    "addr:street":"Van Pelt Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245664,40.884461,-74.245664,40.884461",
     "geom:latitude":40.884461,
     "geom:longitude":-74.245664,
@@ -28,7 +33,14 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AsD0AoKvPL925UzTCdEJ3_40.884461_-74.245664@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300066,
     "wof:geomhash":"468ed3b13220f950c908bbe855506924",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":639558167
+        }
+    ],
     "wof:id":639558167,
-    "wof:lastmodified":1466695912,
+    "wof:lastmodified":1492056079,
     "wof:name":"E Power Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

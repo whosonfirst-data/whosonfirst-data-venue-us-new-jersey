@@ -2,9 +2,14 @@
   "id": 638877377,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"260",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.98875,40.81042,-73.98875,40.81042",
     "geom:latitude":40.81042,
     "geom:longitude":-73.98875,
@@ -33,7 +38,14 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nxsNt8fCc5ohV1lJ3SJNb_40.810420_-73.988750@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461282134,
     "wof:geomhash":"2d74098418ea3fead30423412cb9820d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":638877377
+        }
+    ],
     "wof:id":638877377,
-    "wof:lastmodified":1466689872,
+    "wof:lastmodified":1492064990,
     "wof:name":"Prana Yoga & Wellness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

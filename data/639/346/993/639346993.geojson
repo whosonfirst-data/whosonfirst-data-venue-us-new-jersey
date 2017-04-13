@@ -2,9 +2,14 @@
   "id": 639346993,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Lincoln Ave Hawthorne NJ 07506",
+    "addr:housenumber":"160",
+    "addr:postcode":"07506",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146895,40.94633,-74.146895,40.94633",
     "geom:latitude":40.94633,
     "geom:longitude":-74.146895,
@@ -24,7 +29,14 @@
     "sg:postcode":"07506",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UeuCRW6BnGI64U1ZfZPFs_40.946330_-74.146895@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461292961,
     "wof:geomhash":"e6e16db175bd9749cfb2aa7be8ab317f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639346993
+        }
+    ],
     "wof:id":639346993,
-    "wof:lastmodified":1466692446,
+    "wof:lastmodified":1492047635,
     "wof:name":"Ossys Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

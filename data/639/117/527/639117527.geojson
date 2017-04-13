@@ -2,9 +2,14 @@
   "id": 639117527,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 US Hwy 206 Hillsborough NJ 08844",
+    "addr:housenumber":"135",
+    "addr:postcode":"08844",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.613473,40.541561,-74.613473,40.541561",
     "geom:latitude":40.541561,
     "geom:longitude":-74.613473,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85857053,
+        102191575,
+        404477927,
         85633793,
-        85846331,
-        102085045
+        85975513,
+        102085045,
+        85688607,
+        85846331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"76cfdaf49d9a26b5873de4159947d7e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477927,
+            "locality_id":85975513,
+            "neighbourhood_id":85857053,
+            "region_id":85688607,
+            "venue_id":639117527
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "neighbourhood_id":85846331,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":639117527,
-    "wof:lastmodified":1466676721,
+    "wof:lastmodified":1492042393,
     "wof:name":"Ashs Flower Farms Inc",
-    "wof:parent_id":85846331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

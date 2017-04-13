@@ -2,9 +2,14 @@
   "id": 638798739,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Paddock Ct Somerville NJ 08876",
+    "addr:housenumber":"10",
+    "addr:postcode":"08876",
+    "addr:street":"Paddock Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.706172,40.579506,-74.706172,40.579506",
     "geom:latitude":40.579506,
     "geom:longitude":-74.706172,
@@ -24,7 +29,13 @@
     "sg:postcode":"08876",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0By2SSP5M0Wx6sa8voQrmy_40.579506_-74.706172@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461280201,
     "wof:geomhash":"d5fe8f86161c430c562fad1fe5f72cb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":638798739
+        }
+    ],
     "wof:id":638798739,
-    "wof:lastmodified":1466685393,
+    "wof:lastmodified":1492024438,
     "wof:name":"D&W Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

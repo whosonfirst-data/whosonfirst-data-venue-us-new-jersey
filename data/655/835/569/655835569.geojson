@@ -2,9 +2,14 @@
   "id": 655835569,
   "type": "Feature",
   "properties": {
+    "addr:full":"528 Hamden Rd Annandale NJ 08801",
+    "addr:housenumber":"528",
+    "addr:postcode":"08801",
+    "addr:street":"Hamden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.900923,40.601988,-74.900923,40.601988",
     "geom:latitude":40.601988,
     "geom:longitude":-74.900923,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rqzdmwoONvdtv3LvjHa5Q_40.601988_-74.900923@1303262282"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461322888,
     "wof:geomhash":"d4a91cec62b1b9221357cee9b7e0cf92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527051,
+            "venue_id":655835569
+        }
+    ],
     "wof:id":655835569,
-    "wof:lastmodified":1466687938,
+    "wof:lastmodified":1492050262,
     "wof:name":"Van Ness Enterprises",
     "wof:parent_id":420527051,
     "wof:placetype":"venue",

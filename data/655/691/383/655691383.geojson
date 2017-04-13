@@ -2,9 +2,14 @@
   "id": 655691383,
   "type": "Feature",
   "properties": {
+    "addr:full":"4402 Route 130 Willingboro NJ 08046",
+    "addr:housenumber":"4402",
+    "addr:postcode":"08046",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888606,40.056188,-74.888606,40.056188",
     "geom:latitude":40.056188,
     "geom:longitude":-74.888606,
@@ -28,7 +33,10 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CyYv5A0fR5IsYnOvHX5iZ_40.056188_-74.888606@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316915,
     "wof:geomhash":"00b27b1748fa7e5fdb0694c7ff6ae079",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655691383
+        }
+    ],
     "wof:id":655691383,
-    "wof:lastmodified":1466684017,
+    "wof:lastmodified":1492025873,
     "wof:name":"Taco Bell",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

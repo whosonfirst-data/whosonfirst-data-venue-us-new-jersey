@@ -2,9 +2,14 @@
   "id": 655764197,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 State Rt 23 Pequannock NJ 07440",
+    "addr:housenumber":"57",
+    "addr:postcode":"07440",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281502,40.956001,-74.281502,40.956001",
     "geom:latitude":40.956001,
     "geom:longitude":-74.281502,
@@ -24,7 +29,10 @@
     "sg:postcode":"07440",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73R8qiOFfoPywH8EqhHFcD_40.956001_-74.281502@1303262264"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319816,
     "wof:geomhash":"ba6b139d4bddace11ab01b2966523b62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764197
+        }
+    ],
     "wof:id":655764197,
-    "wof:lastmodified":1466685869,
+    "wof:lastmodified":1492058417,
     "wof:name":"G & A's Hot Bagels II",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

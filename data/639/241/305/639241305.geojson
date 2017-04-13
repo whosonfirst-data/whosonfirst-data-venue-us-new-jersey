@@ -2,9 +2,14 @@
   "id": 639241305,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 W Front St Keyport NJ 07735",
+    "addr:housenumber":"39",
+    "addr:postcode":"07735",
+    "addr:street":"W Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.202026,40.437611,-74.202026,40.437611",
     "geom:latitude":40.437611,
     "geom:longitude":-74.202026,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833619,
+        85688607,
         102191575,
-        404478357,
         85633793,
-        85975431,
+        85975433,
         102085049,
-        85688607
+        85853497,
+        85833619,
+        404478357,
+        85975431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,15 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085049,
+            "locality_id":85975433,
+            "neighbourhood_id":85853497,
+            "region_id":85688607,
+            "venue_id":639241305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
             "localadmin_id":404478357,
             "locality_id":85975431,
             "neighbourhood_id":85833619,
@@ -57,9 +73,9 @@
         }
     ],
     "wof:id":639241305,
-    "wof:lastmodified":1466690263,
+    "wof:lastmodified":1492077691,
     "wof:name":"Mark Sobel MD",
-    "wof:parent_id":85833619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655386217,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Oakland Ave Closter NJ 07624",
+    "addr:housenumber":"148",
+    "addr:postcode":"07624",
+    "addr:street":"Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959833,40.972641,-73.959833,40.972641",
     "geom:latitude":40.972641,
     "geom:longitude":-73.959833,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zbbJVMGizmL6U7DPFjf5N_40.972641_-73.959833@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304038,
     "wof:geomhash":"eb151d079ea28fb70f2711c50dbe3bbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655386217
+        }
+    ],
     "wof:id":655386217,
-    "wof:lastmodified":1466675002,
+    "wof:lastmodified":1492050899,
     "wof:name":"Dong Nam New Jersey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655664255,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Terrace Ave Pennsauken NJ 08109",
+    "addr:housenumber":"4100",
+    "addr:postcode":"08109",
+    "addr:street":"Terrace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.068207,39.944939,-75.068207,39.944939",
     "geom:latitude":39.944939,
     "geom:longitude":-75.068207,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"http://www.mlchapel.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AEf617j5SQnGzTcM2h6ww_39.945099_-75.068679@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315781,
     "wof:geomhash":"afcdb9b4b88f9108bb6ce0a94ea637c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655664255
+        }
+    ],
     "wof:id":655664255,
-    "wof:lastmodified":1466683241,
+    "wof:lastmodified":1492049231,
     "wof:name":"Martin Luther Chapel Missouri Synod",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

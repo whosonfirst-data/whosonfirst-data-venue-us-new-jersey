@@ -2,9 +2,14 @@
   "id": 655387441,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 S John F Kennedy Way Willingboro NJ 08046",
+    "addr:housenumber":"55",
+    "addr:postcode":"08046",
+    "addr:street":"S John F Kennedy Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.887291,40.013782,-74.887291,40.013782",
     "geom:latitude":40.013782,
     "geom:longitude":-74.887291,
@@ -27,7 +32,10 @@
         "personal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QEQensDM7XjvAFuXNl16T_40.013782_-74.887291@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304098,
     "wof:geomhash":"fa4eaccef7411c9a5bc382282a72e645",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":655387441
+        }
+    ],
     "wof:id":655387441,
-    "wof:lastmodified":1466675102,
+    "wof:lastmodified":1492045061,
     "wof:name":"Knights Of Columbus",
     "wof:parent_id":420526697,
     "wof:placetype":"venue",

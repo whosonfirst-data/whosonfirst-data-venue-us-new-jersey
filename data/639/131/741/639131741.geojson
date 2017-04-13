@@ -2,9 +2,14 @@
   "id": 639131741,
   "type": "Feature",
   "properties": {
+    "addr:full":"2918 US Hwy 206 Columbus NJ 08022",
+    "addr:housenumber":"2918",
+    "addr:postcode":"08022",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.724789,40.052587,-74.724789,40.052587",
     "geom:latitude":40.052587,
     "geom:longitude":-74.724789,
@@ -27,7 +32,10 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23PZPDfH7BxSr8VwtE2pkS_40.052587_-74.724789@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288115,
     "wof:geomhash":"75f31d9c67665d41995e5e874c0e405a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526705,
+            "venue_id":639131741
+        }
+    ],
     "wof:id":639131741,
-    "wof:lastmodified":1466678577,
+    "wof:lastmodified":1492053424,
     "wof:name":"A-1 Pastry Shoppe",
     "wof:parent_id":420526705,
     "wof:placetype":"venue",

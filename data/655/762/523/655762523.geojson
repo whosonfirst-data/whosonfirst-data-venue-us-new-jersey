@@ -2,9 +2,14 @@
   "id": 655762523,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Sindle Ave Little Falls NJ 07424",
+    "addr:housenumber":"60",
+    "addr:postcode":"07424",
+    "addr:street":"Sindle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219704,40.884201,-74.219704,40.884201",
     "geom:latitude":40.884201,
     "geom:longitude":-74.219704,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FwqHIKNPSbUo3wWkCHpZn_40.884201_-74.219704@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319750,
     "wof:geomhash":"8633a4497cb4a7dd136675b1f73aabdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655762523
+        }
+    ],
     "wof:id":655762523,
-    "wof:lastmodified":1466685906,
+    "wof:lastmodified":1492027545,
     "wof:name":"John W Kennedy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

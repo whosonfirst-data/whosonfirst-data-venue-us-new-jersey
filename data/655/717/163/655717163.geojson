@@ -2,9 +2,14 @@
   "id": 655717163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1771 West Edgar Road Linden NJ 07036",
+    "addr:housenumber":"1771",
+    "addr:postcode":"07036",
+    "addr:street":"West Edgar Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256649,40.61199,-74.256649,40.61199",
     "geom:latitude":40.61199,
     "geom:longitude":-74.256649,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gu1uFvMsjUrAtLUyGGdRH_40.611990_-74.256649@1303262253"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318048,
     "wof:geomhash":"820b9b51623471eef741d8e490f3167e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655717163
+        }
+    ],
     "wof:id":655717163,
-    "wof:lastmodified":1466684721,
+    "wof:lastmodified":1492068913,
     "wof:name":"Room & Home Furniture Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

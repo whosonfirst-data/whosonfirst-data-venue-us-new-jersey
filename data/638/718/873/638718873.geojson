@@ -2,9 +2,14 @@
   "id": 638718873,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Co Rd 627 Phillipsburg NJ 08865",
+    "addr:housenumber":"301",
+    "addr:postcode":"627;08865",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149102,40.625951,-75.149102,40.625951",
     "geom:latitude":40.625951,
     "geom:longitude":-75.149102,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85826435,
+        102083873,
+        420527793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JMGOtiQ6OsfaGy1NdZYPX_40.625951_-75.149102@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461278165,
     "wof:geomhash":"a630a67606da45ea178cf344b6538efe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85826435,
+            "region_id":85688607,
+            "venue_id":638718873
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527793,
+            "venue_id":638718873
+        }
+    ],
     "wof:id":638718873,
-    "wof:lastmodified":1466673818,
+    "wof:lastmodified":1492053763,
     "wof:name":"Monogram Shop",
-    "wof:parent_id":420527793,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638769333,
   "type": "Feature",
   "properties": {
+    "addr:full":"9285 Commerce Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"9285",
+    "addr:postcode":"08110",
+    "addr:street":"Commerce Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022578,39.980499,-75.022578,39.980499",
     "geom:latitude":39.980499,
     "geom:longitude":-75.022578,
@@ -32,7 +37,13 @@
         "mapping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kUyQ79O6ucSICAd5ljCWa_39.980499_-75.022578@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461279537,
     "wof:geomhash":"8add8b609ca894dd8e4f613ec97e5e42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":638769333
+        }
+    ],
     "wof:id":638769333,
-    "wof:lastmodified":1466680964,
+    "wof:lastmodified":1492082021,
     "wof:name":"Aerial Data Reduction Associat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

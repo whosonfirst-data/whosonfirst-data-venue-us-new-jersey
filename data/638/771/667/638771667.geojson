@@ -2,9 +2,14 @@
   "id": 638771667,
   "type": "Feature",
   "properties": {
+    "addr:full":"461 Genesee St Trenton NJ 08611",
+    "addr:housenumber":"461",
+    "addr:postcode":"08611",
+    "addr:street":"Genesee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.747304,40.206846,-74.747304,40.206846",
     "geom:latitude":40.206846,
     "geom:longitude":-74.747304,
@@ -27,7 +32,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DSHFLWsGq5KUadVPkoqce_40.206846_-74.747304@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279587,
     "wof:geomhash":"065a4ed0b304d82649e859ca0988b711",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638771667
+        }
+    ],
     "wof:id":638771667,
-    "wof:lastmodified":1466681431,
+    "wof:lastmodified":1492082109,
     "wof:name":"Harrison Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

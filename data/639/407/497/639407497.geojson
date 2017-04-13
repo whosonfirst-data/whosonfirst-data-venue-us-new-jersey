@@ -2,9 +2,14 @@
   "id": 639407497,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Dudley Ave Westfield NJ 07090",
+    "addr:housenumber":"200",
+    "addr:postcode":"07090",
+    "addr:street":"E Dudley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352615,40.65736,-74.352615,40.65736",
     "geom:latitude":40.65736,
     "geom:longitude":-74.352615,
@@ -31,7 +36,10 @@
         85633793,
         85975827,
         102085995,
-        85688607
+        85688607,
+        85892561,
+        404478505,
+        85975823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":85892559,
             "region_id":85688607,
             "venue_id":639407497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478505,
+            "locality_id":85975823,
+            "neighbourhood_id":85892561,
+            "region_id":85688607,
+            "venue_id":639407497
         }
     ],
     "wof:id":639407497,
-    "wof:lastmodified":1466693385,
+    "wof:lastmodified":1492042245,
     "wof:name":"Steinhart Assoc Inc",
-    "wof:parent_id":85892559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

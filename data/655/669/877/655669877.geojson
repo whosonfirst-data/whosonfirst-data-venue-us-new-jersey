@@ -2,9 +2,14 @@
   "id": 655669877,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Bob O Link Way Medford NJ 08055",
+    "addr:housenumber":"35",
+    "addr:postcode":"08055",
+    "addr:street":"Bob O Link Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764295,39.855421,-74.764295,39.855421",
     "geom:latitude":39.855421,
     "geom:longitude":-74.764295,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.rcsw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m4534W0fbg3cnckSD9Rom_39.855630_-74.764094@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461315989,
     "wof:geomhash":"0fb173414d01f8c743f4e605a55649af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":655669877
+        }
+    ],
     "wof:id":655669877,
-    "wof:lastmodified":1466683604,
+    "wof:lastmodified":1492023738,
     "wof:name":"R N C Software Inc",
     "wof:parent_id":420526585,
     "wof:placetype":"venue",

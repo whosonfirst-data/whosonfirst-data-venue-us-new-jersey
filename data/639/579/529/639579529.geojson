@@ -2,9 +2,14 @@
   "id": 639579529,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 State Rte 173 Hampton NJ 08827",
+    "addr:housenumber":"15",
+    "addr:postcode":"08827",
+    "addr:street":"State Rte 173",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.949894,40.635205,-74.949894,40.635205",
     "geom:latitude":40.635205,
     "geom:longitude":-74.949894,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527125,
+        85688607,
         85841409,
         102085997
     ],
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":639579529
+        },
+        {
+            "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85841409,
             "region_id":85688607,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":639579529,
-    "wof:lastmodified":1466696522,
+    "wof:lastmodified":1492076758,
     "wof:name":"Pjax",
-    "wof:parent_id":85841409,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

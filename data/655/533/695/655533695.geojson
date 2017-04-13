@@ -2,9 +2,14 @@
   "id": 655533695,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Veronica Ave Somerset NJ 08873",
+    "addr:housenumber":"49",
+    "addr:postcode":"08873",
+    "addr:street":"Veronica Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.501401,40.480357,-74.501401,40.480357",
     "geom:latitude":40.480357,
     "geom:longitude":-74.501401,
@@ -24,7 +29,15 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045,
+        85976119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BLCi2vHCTLquN10KiuhLu_40.480357_-74.501401@1294171694"
@@ -32,9 +45,28 @@
     "wof:country":"US",
     "wof:created":1461310191,
     "wof:geomhash":"06d589af4149670bf2b2ae81f2ff81c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":655533695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976119,
+            "region_id":85688607,
+            "venue_id":655533695
+        }
+    ],
     "wof:id":655533695,
-    "wof:lastmodified":1466679066,
+    "wof:lastmodified":1492041864,
     "wof:name":"Advanced Physicians Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

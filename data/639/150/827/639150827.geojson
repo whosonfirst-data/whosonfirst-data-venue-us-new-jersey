@@ -2,9 +2,14 @@
   "id": 639150827,
   "type": "Feature",
   "properties": {
+    "addr:full":"799 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"799",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177366,40.681259,-75.177366,40.681259",
     "geom:latitude":40.681259,
     "geom:longitude":-75.177366,
@@ -27,7 +32,14 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EOXpjligbPFQtOHnw6j1I_40.681259_-75.177366@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288538,
     "wof:geomhash":"72190b43b9fec9cd2aa55999781c59c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639150827
+        }
+    ],
     "wof:id":639150827,
-    "wof:lastmodified":1466681484,
+    "wof:lastmodified":1492050500,
     "wof:name":"Hammer Heads Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

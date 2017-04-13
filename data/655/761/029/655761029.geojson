@@ -2,9 +2,14 @@
   "id": 655761029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1445 State Rt 23 Butler NJ 07405",
+    "addr:housenumber":"1445",
+    "addr:postcode":"07405",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3554,40.999699,-74.3554,40.999699",
     "geom:latitude":40.999699,
     "geom:longitude":-74.3554,
@@ -24,7 +29,14 @@
     "sg:postcode":"07405",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NqWwTHbKXRqdirWFVom0v_40.999699_-74.355400@1303262263"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319687,
     "wof:geomhash":"79b75d5a8265c6dc61d81db9e154efb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655761029
+        }
+    ],
     "wof:id":655761029,
-    "wof:lastmodified":1466685743,
+    "wof:lastmodified":1492027515,
     "wof:name":"G & A's Hot Bagels II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

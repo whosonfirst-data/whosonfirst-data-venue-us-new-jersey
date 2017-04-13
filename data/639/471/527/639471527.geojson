@@ -2,9 +2,14 @@
   "id": 639471527,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Avenue E Bayonne NJ 07002",
+    "addr:housenumber":"245",
+    "addr:postcode":"07002",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117174,40.661201,-74.117174,40.661201",
     "geom:latitude":40.661201,
     "geom:longitude":-74.117174,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.georgespubngrub.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22zvg1TSQahKILfkeGPcC3_40.661201_-74.117174@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461296254,
     "wof:geomhash":"ab041bd9c3418c8699a3b3b7af5eb22c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639471527
+        }
+    ],
     "wof:id":639471527,
-    "wof:lastmodified":1466694230,
+    "wof:lastmodified":1492048882,
     "wof:name":"George's Pub 'N' Grub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

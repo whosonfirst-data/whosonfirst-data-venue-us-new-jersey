@@ -2,9 +2,14 @@
   "id": 655740715,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Chestnut Street Union NJ 07083",
+    "addr:housenumber":"401",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268463,40.680408,-74.268463,40.680408",
     "geom:latitude":40.680408,
     "geom:longitude":-74.268463,
@@ -43,7 +48,10 @@
     ],
     "sg:website":"http://www.cafe401.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Sadjv9EIgA2xbgjuDOyXD_40.680408_-74.268463@1303262258"
@@ -51,9 +59,15 @@
     "wof:country":"US",
     "wof:created":1461318941,
     "wof:geomhash":"e4e9446b07eb1ba323bb80c3deab10b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655740715
+        }
+    ],
     "wof:id":655740715,
-    "wof:lastmodified":1466685402,
+    "wof:lastmodified":1492027791,
     "wof:name":"Cafe 401",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

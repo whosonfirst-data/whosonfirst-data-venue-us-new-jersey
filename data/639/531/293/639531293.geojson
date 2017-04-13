@@ -2,9 +2,14 @@
   "id": 639531293,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 State Rte 17 Mahwah NJ 07430",
+    "addr:housenumber":"319",
+    "addr:postcode":"07430",
+    "addr:street":"State Rte 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150166,41.080866,-74.150166,41.080866",
     "geom:latitude":41.080866,
     "geom:longitude":-74.150166,
@@ -28,7 +33,13 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HpRlS4cnG1mRtuMCR9ofa_41.080866_-74.150166@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298887,
     "wof:geomhash":"3a0f7dba8d81f115cd9cfac4eea4144c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639531293
+        }
+    ],
     "wof:id":639531293,
-    "wof:lastmodified":1466695333,
+    "wof:lastmodified":1492040119,
     "wof:name":"Getty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

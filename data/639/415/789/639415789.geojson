@@ -2,9 +2,14 @@
   "id": 639415789,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Fountain Ave Trenton NJ 08618",
+    "addr:housenumber":"49",
+    "addr:postcode":"08618",
+    "addr:street":"Fountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765939,40.229763,-74.765939,40.229763",
     "geom:latitude":40.229763,
     "geom:longitude":-74.765939,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kFA9s9HCMMxCrVXshjWq2_40.229763_-74.765939@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294617,
     "wof:geomhash":"bc7bc09799752b4ded0d697945e004ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639415789
+        }
+    ],
     "wof:id":639415789,
-    "wof:lastmodified":1466693201,
+    "wof:lastmodified":1492053491,
     "wof:name":"Greater New Testament Holiness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

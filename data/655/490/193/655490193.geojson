@@ -2,9 +2,14 @@
   "id": 655490193,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Kingsland Ave Clifton NJ 07014",
+    "addr:housenumber":"125",
+    "addr:postcode":"07014",
+    "addr:street":"Kingsland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126307,40.82352,-74.126307,40.82352",
     "geom:latitude":40.82352,
     "geom:longitude":-74.126307,
@@ -32,7 +37,14 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0frdM86ZREpmOI9bHuk9Yq_40.823520_-74.126307@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461308422,
     "wof:geomhash":"c40e84aa342533d277f33cf1ad2da368",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655490193
+        }
+    ],
     "wof:id":655490193,
-    "wof:lastmodified":1466677868,
+    "wof:lastmodified":1492053881,
     "wof:name":"Amarr Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

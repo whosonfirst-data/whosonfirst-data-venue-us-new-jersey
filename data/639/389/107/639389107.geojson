@@ -2,9 +2,14 @@
   "id": 639389107,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Columbia St Elmwood Park NJ 07407",
+    "addr:housenumber":"65",
+    "addr:postcode":"07407",
+    "addr:street":"Columbia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126044,40.922233,-74.126044,40.922233",
     "geom:latitude":40.922233,
     "geom:longitude":-74.126044,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QxGdiYJvTchvpUKd95gGL_40.922233_-74.126044@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293823,
     "wof:geomhash":"5bc9fe8fcc74824d476324b42323ebb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":639389107
+        }
+    ],
     "wof:id":639389107,
-    "wof:lastmodified":1466692801,
+    "wof:lastmodified":1492051409,
     "wof:name":"Mikes Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

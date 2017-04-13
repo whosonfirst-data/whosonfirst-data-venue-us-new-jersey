@@ -2,9 +2,14 @@
   "id": 655382089,
   "type": "Feature",
   "properties": {
+    "addr:full":"996 Greenville Rd Sussex NJ 07461",
+    "addr:housenumber":"996",
+    "addr:postcode":"07461",
+    "addr:street":"Greenville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.641599,41.332905,-74.641599,41.332905",
     "geom:latitude":41.332905,
     "geom:longitude":-74.641599,
@@ -28,7 +33,12 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85848415,
+        102083061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VUfgitlxVN6DrEsQOzf1g_41.332905_-74.641599@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461303879,
     "wof:geomhash":"2b513ec5c8407aadf8a562fb0be0e24d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083061,
+            "neighbourhood_id":85848415,
+            "region_id":85688543,
+            "venue_id":655382089
+        }
+    ],
     "wof:id":655382089,
-    "wof:lastmodified":1466674951,
+    "wof:lastmodified":1492061971,
     "wof:name":"Land Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

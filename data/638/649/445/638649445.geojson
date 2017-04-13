@@ -2,9 +2,14 @@
   "id": 638649445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 Parkway Ave Trenton NJ 08628",
+    "addr:housenumber":"1330",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.805022,40.265402,-74.805022,40.265402",
     "geom:latitude":40.265402,
     "geom:longitude":-74.805022,
@@ -27,7 +32,10 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14dOXPJVf7o653gwMAsJa7_40.265402_-74.805022@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275789,
     "wof:geomhash":"a0f31502adf40748264548a1cd344f20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":638649445
+        }
+    ],
     "wof:id":638649445,
-    "wof:lastmodified":1466673776,
+    "wof:lastmodified":1492062578,
     "wof:name":"PACT Team 1",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

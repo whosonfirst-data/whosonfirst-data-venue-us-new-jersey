@@ -2,9 +2,14 @@
   "id": 639517235,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 Deacon Rd Hainesport NJ 08036",
+    "addr:housenumber":"830",
+    "addr:postcode":"08036",
+    "addr:street":"Deacon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.822605,39.989343,-74.822605,39.989343",
     "geom:latitude":39.989343,
     "geom:longitude":-74.822605,
@@ -27,7 +32,13 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85852289,
+        102087415,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TYjmxvT5kpurCcQo8TlKb_39.989343_-74.822605@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461298173,
     "wof:geomhash":"bb7307fac4d23f4dbdcaf9512bb8ed45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85852289,
+            "region_id":85688607,
+            "venue_id":639517235
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":639517235
+        }
+    ],
     "wof:id":639517235,
-    "wof:lastmodified":1466694965,
+    "wof:lastmodified":1492047608,
     "wof:name":"Andrew Pagenkopf LLC",
-    "wof:parent_id":420526707,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

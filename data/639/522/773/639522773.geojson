@@ -2,9 +2,14 @@
   "id": 639522773,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Green St Beverly NJ 08010",
+    "addr:housenumber":"275",
+    "addr:postcode":"08010",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.91527,40.05238,-74.91527,40.05238",
     "geom:latitude":40.05238,
     "geom:longitude":-74.91527,
@@ -24,7 +29,12 @@
     "sg:postcode":"08010",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85809415,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y6LYVyWRaRe8mNJAYdnww_40.052380_-74.915270@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461298439,
     "wof:geomhash":"28c4772b49973e461f4be07d993fdfe9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85809415,
+            "region_id":85688607,
+            "venue_id":639522773
+        }
+    ],
     "wof:id":639522773,
-    "wof:lastmodified":1466695288,
+    "wof:lastmodified":1492025865,
     "wof:name":"Computer & Network Solution",
-    "wof:parent_id":420526653,
+    "wof:parent_id":85809415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

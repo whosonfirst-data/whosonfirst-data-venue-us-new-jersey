@@ -2,9 +2,14 @@
   "id": 638681041,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Sager Pl Hillside NJ 07205",
+    "addr:housenumber":"28",
+    "addr:postcode":"07205",
+    "addr:street":"Sager Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239005,40.709986,-74.239005,40.709986",
     "geom:latitude":40.709986,
     "geom:longitude":-74.239005,
@@ -29,7 +34,10 @@
         "lightning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tbb9shtybEJAVtWEd3EhF_40.709986_-74.239005@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461276793,
     "wof:geomhash":"ebd55a839836ef254a0432e2ec873bb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":638681041
+        }
+    ],
     "wof:id":638681041,
-    "wof:lastmodified":1466688056,
+    "wof:lastmodified":1492025500,
     "wof:name":"Metro Furniture Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638682871,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Texas Rd Old Bridge NJ 08857",
+    "addr:housenumber":"104",
+    "addr:postcode":"08857",
+    "addr:street":"Texas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.320545,40.3599,-74.320545,40.3599",
     "geom:latitude":40.3599,
     "geom:longitude":-74.320545,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HFMYqfnkyY2NyjDm6cyhX_40.359900_-74.320545@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461276840,
     "wof:geomhash":"69c885a5541b508ce377055447005c4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527237,
+            "venue_id":638682871
+        }
+    ],
     "wof:id":638682871,
-    "wof:lastmodified":1466688182,
+    "wof:lastmodified":1492062257,
     "wof:name":"ARBE Landscaping Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

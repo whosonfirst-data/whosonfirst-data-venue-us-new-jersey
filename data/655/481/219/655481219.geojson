@@ -2,9 +2,14 @@
   "id": 655481219,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hudson Ct Princeton Jct NJ 08550",
+    "addr:housenumber":"4",
+    "addr:postcode":"08550",
+    "addr:street":"Hudson Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.583265,40.302924,-74.583265,40.302924",
     "geom:latitude":40.302924,
     "geom:longitude":-74.583265,
@@ -28,7 +33,10 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xnmJOp34FhiG6aUvP0Pdg_40.302924_-74.583265@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308056,
     "wof:geomhash":"c940837aaacf59f4a5157ea47041f8bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655481219
+        }
+    ],
     "wof:id":655481219,
-    "wof:lastmodified":1466677612,
+    "wof:lastmodified":1492083440,
     "wof:name":"Kustem Data Svc Inc",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

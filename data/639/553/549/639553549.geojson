@@ -2,9 +2,14 @@
   "id": 639553549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Venezia Ln Haskell NJ 07420",
+    "addr:housenumber":"1",
+    "addr:postcode":"07420",
+    "addr:street":"Venezia Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294034,41.036409,-74.294034,41.036409",
     "geom:latitude":41.036409,
     "geom:longitude":-74.294034,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ywNI58b4AZ0odiayihOes_41.036409_-74.294034@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299888,
     "wof:geomhash":"b2494b59ff02d931506d1a190160082c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639553549
+        }
+    ],
     "wof:id":639553549,
-    "wof:lastmodified":1466695947,
+    "wof:lastmodified":1492028011,
     "wof:name":"Giglio Grounds Maintenence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

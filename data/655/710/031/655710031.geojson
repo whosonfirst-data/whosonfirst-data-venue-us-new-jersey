@@ -2,9 +2,14 @@
   "id": 655710031,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 401 Fairview NJ 07022",
+    "addr:housenumber":"po;401",
+    "addr:postcode":"07022",
+    "addr:street":"Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.998299,40.815201,-73.998299,40.815201",
     "geom:latitude":40.815201,
     "geom:longitude":-73.998299,
@@ -24,7 +29,14 @@
     "sg:postcode":"07022",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G2G0QjjXSeeF0ST9YuPca_40.815201_-73.998299@1303262251"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317767,
     "wof:geomhash":"1e89232f814ce69f4ead6813d47bce6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655710031
+        }
+    ],
     "wof:id":655710031,
-    "wof:lastmodified":1466684438,
+    "wof:lastmodified":1492062110,
     "wof:name":"Donn Pomodoro Ristorante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638871155,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 Portside Dr Edgewater NJ 07020",
+    "addr:housenumber":"427",
+    "addr:postcode":"07020",
+    "addr:street":"Portside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.975309,40.822345,-73.975309,40.822345",
     "geom:latitude":40.822345,
     "geom:longitude":-73.975309,
@@ -29,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865545,
+        85865681,
         102191575,
         404477525,
         85633793,
         85975895,
         102086773,
-        85688607,
-        85865681
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +56,15 @@
             "county_id":102086773,
             "localadmin_id":404477525,
             "locality_id":85975895,
-            "neighbourhood_id":85865545,
-            "region_id":85688607,
-            "venue_id":638871155
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086773,
-            "localadmin_id":404477525,
-            "locality_id":85975895,
             "neighbourhood_id":85865681,
             "region_id":85688607,
             "venue_id":638871155
         }
     ],
     "wof:id":638871155,
-    "wof:lastmodified":1466689595,
+    "wof:lastmodified":1492045602,
     "wof:name":"Premier Dance Ctr Dance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

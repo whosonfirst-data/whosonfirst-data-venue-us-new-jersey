@@ -2,9 +2,14 @@
   "id": 655550121,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Tallahatchie Dr Sussex NJ 07461",
+    "addr:housenumber":"15",
+    "addr:postcode":"07461",
+    "addr:street":"Tallahatchie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.554921,41.217479,-74.554921,41.217479",
     "geom:latitude":41.217479,
     "geom:longitude":-74.554921,
@@ -27,7 +32,10 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xYj96TldbLuYttWOBQ2hn_41.217479_-74.554921@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310825,
     "wof:geomhash":"96790fa87fb2e6d2efa9507bd996c383",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":655550121
+        }
+    ],
     "wof:id":655550121,
-    "wof:lastmodified":1466679441,
+    "wof:lastmodified":1492041934,
     "wof:name":"LDL Carpentry",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

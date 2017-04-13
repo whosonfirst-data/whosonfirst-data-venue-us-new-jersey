@@ -2,9 +2,14 @@
   "id": 639509433,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Bee Meadow Pkwy Whippany NJ 07981",
+    "addr:housenumber":"251",
+    "addr:postcode":"07981",
+    "addr:street":"Bee Meadow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.39366,40.830496,-74.39366,40.830496",
     "geom:latitude":40.830496,
     "geom:longitude":-74.39366,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85831997,
-        102087413
+        85823833,
+        102087413,
+        85831997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85823833,
+            "region_id":85688607,
+            "venue_id":639509433
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "neighbourhood_id":85831997,
             "region_id":85688607,
             "venue_id":639509433
         }
     ],
     "wof:id":639509433,
-    "wof:lastmodified":1466694939,
+    "wof:lastmodified":1492043516,
     "wof:name":"Giulio Vinci Contractors",
-    "wof:parent_id":85831997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

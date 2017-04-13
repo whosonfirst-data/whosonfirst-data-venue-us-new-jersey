@@ -2,9 +2,14 @@
   "id": 655788873,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Palmer Rd Denville NJ 07834",
+    "addr:housenumber":"300",
+    "addr:postcode":"07834",
+    "addr:street":"Palmer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524696,40.878799,-74.524696,40.878799",
     "geom:latitude":40.878799,
     "geom:longitude":-74.524696,
@@ -28,7 +33,10 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bvhoOjPx3Jz5gaiX5GEdn_40.878799_-74.524696@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320935,
     "wof:geomhash":"d6ffd07661852f4e0ecee746b700df37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655788873
+        }
+    ],
     "wof:id":655788873,
-    "wof:lastmodified":1466686738,
+    "wof:lastmodified":1492030398,
     "wof:name":"Blue Ribbon Specialties",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

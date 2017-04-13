@@ -2,9 +2,14 @@
   "id": 638770673,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Jacobs Creek Rd Trenton NJ 08628",
+    "addr:housenumber":"115",
+    "addr:postcode":"08628",
+    "addr:street":"Jacobs Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.840727,40.29012,-74.840727,40.29012",
     "geom:latitude":40.29012,
     "geom:longitude":-74.840727,
@@ -28,7 +33,13 @@
         "editorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CD40uiKJPABeMAYLAwkRi_40.290120_-74.840727@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279565,
     "wof:geomhash":"3b1b97fca55327a0c9b6fc437c089a84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":638770673
+        }
+    ],
     "wof:id":638770673,
-    "wof:lastmodified":1466681252,
+    "wof:lastmodified":1492065591,
     "wof:name":"Editamerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

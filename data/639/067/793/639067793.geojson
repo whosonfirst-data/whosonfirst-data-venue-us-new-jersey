@@ -2,9 +2,14 @@
   "id": 639067793,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 E Crescent Ave Mahwah NJ 07430",
+    "addr:housenumber":"235",
+    "addr:postcode":"07430",
+    "addr:street":"E Crescent Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117821,41.078574,-74.117821,41.078574",
     "geom:latitude":41.078574,
     "geom:longitude":-74.117821,
@@ -28,7 +33,13 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2etWQUvHbbpT4tDP8IvWpU_41.078574_-74.117821@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286644,
     "wof:geomhash":"9e9afe057beb8ad7892ccadd27f1fb26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639067793
+        }
+    ],
     "wof:id":639067793,
-    "wof:lastmodified":1466688292,
+    "wof:lastmodified":1492076237,
     "wof:name":"Cranes & Planes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

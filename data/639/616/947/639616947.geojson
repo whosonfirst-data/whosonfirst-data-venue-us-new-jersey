@@ -2,9 +2,14 @@
   "id": 639616947,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 County Rd Cliffwood NJ 07721",
+    "addr:housenumber":"191",
+    "addr:postcode":"07721",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240272,40.436062,-74.240272,40.436062",
     "geom:latitude":40.436062,
     "geom:longitude":-74.240272,
@@ -27,7 +32,13 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NRiQGnIFBe6wjwtEhCPjQ_40.436062_-74.240272@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461302389,
     "wof:geomhash":"1521f689a5ce46612412feccea42320d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":639616947
+        }
+    ],
     "wof:id":639616947,
-    "wof:lastmodified":1466697337,
+    "wof:lastmodified":1492042940,
     "wof:name":"Butler Lodge Holding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655587525,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"401",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975507,40.779681,-74.975507,40.779681",
     "geom:latitude":40.779681,
     "geom:longitude":-74.975507,
@@ -27,7 +32,10 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zTrk4bBgLu8Fw9jyWhe84_40.779681_-74.975507@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312489,
     "wof:geomhash":"0b9807c3459a2d497c30ded3da45d6a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655587525
+        }
+    ],
     "wof:id":655587525,
-    "wof:lastmodified":1466680715,
+    "wof:lastmodified":1492040964,
     "wof:name":"Silver Star Bagels & Deli",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655690659,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Water St Newton NJ 07860",
+    "addr:housenumber":"64",
+    "addr:postcode":"07860",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752031,41.060426,-74.752031,41.060426",
     "geom:latitude":41.060426,
     "geom:longitude":-74.752031,
@@ -30,7 +35,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49IC8sNfyjK5xg3T26I3vc_41.060426_-74.752031@1299784598"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461316887,
     "wof:geomhash":"536716195c79fe1ebf9c6cdd7018172c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655690659
+        }
+    ],
     "wof:id":655690659,
-    "wof:lastmodified":1466684081,
+    "wof:lastmodified":1492026745,
     "wof:name":"Pizza Hut",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

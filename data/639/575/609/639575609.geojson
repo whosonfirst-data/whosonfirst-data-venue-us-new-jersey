@@ -2,9 +2,14 @@
   "id": 639575609,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Sandburg Dr Morganville NJ 07751",
+    "addr:housenumber":"48",
+    "addr:postcode":"07751",
+    "addr:street":"Sandburg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.317591,40.348949,-74.317591,40.348949",
     "geom:latitude":40.348949,
     "geom:longitude":-74.317591,
@@ -29,7 +34,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d1JZCNlthoOD6NmXIfwf3_40.348949_-74.317591@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461300726,
     "wof:geomhash":"75c7da8716a7891281c3b38ae962934f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639575609
+        }
+    ],
     "wof:id":639575609,
-    "wof:lastmodified":1466696371,
+    "wof:lastmodified":1492051029,
     "wof:name":"Evergreen Photographers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

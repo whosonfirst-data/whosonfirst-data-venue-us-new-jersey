@@ -2,9 +2,14 @@
   "id": 639422633,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Church St Lambertville NJ 08530",
+    "addr:housenumber":"19",
+    "addr:postcode":"08530",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.944067,40.366869,-74.944067,40.366869",
     "geom:latitude":40.366869,
     "geom:longitude":-74.944067,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MtHLZTj81bOGtcCIDi9us_40.366869_-74.944067@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294765,
     "wof:geomhash":"fcf7d9b6792427a641e094a65b41f8ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639422633
+        }
+    ],
     "wof:id":639422633,
-    "wof:lastmodified":1466693283,
+    "wof:lastmodified":1492076444,
     "wof:name":"Map Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655614139,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Airport Rd Lakewood NJ 08701",
+    "addr:housenumber":"1",
+    "addr:postcode":"08701",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167082,40.068771,-74.167082,40.068771",
     "geom:latitude":40.068771,
     "geom:longitude":-74.167082,
@@ -28,7 +33,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oAZDbU8OrS2loDTcd31t7_40.068771_-74.167082@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313620,
     "wof:geomhash":"98b323bc9c483c4233b2b9dc6e110a00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655614139
+        }
+    ],
     "wof:id":655614139,
-    "wof:lastmodified":1466681452,
+    "wof:lastmodified":1492042989,
     "wof:name":"Investment Partnership",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

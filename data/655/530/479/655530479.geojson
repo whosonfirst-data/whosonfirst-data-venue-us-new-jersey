@@ -2,9 +2,14 @@
   "id": 655530479,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"55",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.201967,40.69103,-75.201967,40.69103",
     "geom:latitude":40.69103,
     "geom:longitude":-75.201967,
@@ -29,7 +34,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1948LQ7ZHVHoEqrDtI00rz_40.691030_-75.201967@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461310060,
     "wof:geomhash":"3e8de470546f5910b5370924ab689573",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655530479
+        }
+    ],
     "wof:id":655530479,
-    "wof:lastmodified":1466679010,
+    "wof:lastmodified":1492041135,
     "wof:name":"Cherry Weber & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

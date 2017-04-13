@@ -2,9 +2,14 @@
   "id": 655366793,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Louis St New Brunswick NJ 08901",
+    "addr:housenumber":"29",
+    "addr:postcode":"08901",
+    "addr:street":"Louis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.453465,40.492525,-74.453465,40.492525",
     "geom:latitude":40.492525,
     "geom:longitude":-74.453465,
@@ -25,14 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85845173,
+        102087417,
         85819055,
         102191575,
         404478289,
-        85633793,
-        85975739,
-        102087417,
-        85688607,
-        85845173
+        85975739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,13 @@
     "wof:geomhash":"b42981db9bc0f984ba86d31151810c3f",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85845173,
+            "region_id":85688607,
+            "venue_id":655366793
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -51,19 +63,12 @@
             "neighbourhood_id":85819055,
             "region_id":85688607,
             "venue_id":655366793
-        },
-        {
-            "country_id":85633793,
-            "county_id":102087417,
-            "neighbourhood_id":85845173,
-            "region_id":85688607,
-            "venue_id":655366793
         }
     ],
     "wof:id":655366793,
-    "wof:lastmodified":1466674619,
+    "wof:lastmodified":1492055640,
     "wof:name":"Sacred Knowledge Booksellers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

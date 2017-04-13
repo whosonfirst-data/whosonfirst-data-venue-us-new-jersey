@@ -2,9 +2,14 @@
   "id": 638713745,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ewing St Trenton NJ 08609",
+    "addr:housenumber":"9",
+    "addr:postcode":"08609",
+    "addr:street":"Ewing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.756144,40.222361,-74.756144,40.222361",
     "geom:latitude":40.222361,
     "geom:longitude":-74.756144,
@@ -27,7 +32,14 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S6KBc3qpPgHRAiGOR8Tsf_40.222361_-74.756144@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278019,
     "wof:geomhash":"b54a53163ef4d77d1dd434eaf418777e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638713745
+        }
+    ],
     "wof:id":638713745,
-    "wof:lastmodified":1466673193,
+    "wof:lastmodified":1492062437,
     "wof:name":"Bureau Of The Tidelands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

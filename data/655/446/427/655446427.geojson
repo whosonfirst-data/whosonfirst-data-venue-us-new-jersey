@@ -2,9 +2,14 @@
   "id": 655446427,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Fern River Rd Wayne NJ 07470",
+    "addr:housenumber":"11",
+    "addr:postcode":"07470",
+    "addr:street":"Fern River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235551,40.889303,-74.235551,40.889303",
     "geom:latitude":40.889303,
     "geom:longitude":-74.235551,
@@ -28,7 +33,13 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YEEzURn7wennsb8aeXFlK_40.889303_-74.235551@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461306534,
     "wof:geomhash":"a8284d33bb243fc5e89877df5efd0c60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655446427
+        }
+    ],
     "wof:id":655446427,
-    "wof:lastmodified":1466676701,
+    "wof:lastmodified":1492071476,
     "wof:name":"W S I E-Z Websolutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639468169,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 Garden State Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"407",
+    "addr:postcode":"08002",
+    "addr:street":"Garden State Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.01598,39.93327,-75.01598,39.93327",
     "geom:latitude":39.93327,
     "geom:longitude":-75.01598,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KVKzJaJNeLt26rJeUqDxN_39.933270_-75.015980@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461296113,
     "wof:geomhash":"eb50b132e3274cb6e2cdd09d69069844",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639468169
+        }
+    ],
     "wof:id":639468169,
-    "wof:lastmodified":1466693903,
+    "wof:lastmodified":1492016957,
     "wof:name":"Diane Arnold Ctc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

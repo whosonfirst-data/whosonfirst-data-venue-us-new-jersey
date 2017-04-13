@@ -2,9 +2,14 @@
   "id": 638640417,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Pennington Ave Trenton NJ 08618",
+    "addr:housenumber":"188",
+    "addr:postcode":"08618",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.768937,40.23015,-74.768937,40.23015",
     "geom:latitude":40.23015,
     "geom:longitude":-74.768937,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ILeJ0ZPgqmGEjWqXIe43g_40.230150_-74.768937@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275536,
     "wof:geomhash":"3450aa293e35c70a6249c7f7fed939ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638640417
+        }
+    ],
     "wof:id":638640417,
-    "wof:lastmodified":1466673486,
+    "wof:lastmodified":1492062427,
     "wof:name":"First Antioch Church Of Lord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

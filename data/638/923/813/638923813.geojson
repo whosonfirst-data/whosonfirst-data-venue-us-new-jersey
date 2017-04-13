@@ -2,9 +2,14 @@
   "id": 638923813,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Woolf Rd Milford NJ 08848",
+    "addr:housenumber":"100",
+    "addr:postcode":"08848",
+    "addr:street":"Woolf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030886,40.612502,-75.030886,40.612502",
     "geom:latitude":40.612502,
     "geom:longitude":-75.030886,
@@ -28,7 +33,10 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C8GsRj8Yo6BMLd3tBXHmI_40.612502_-75.030886@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283364,
     "wof:geomhash":"91ca2b9fbbbd68617ef59b0f6ed280a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":638923813
+        }
+    ],
     "wof:id":638923813,
-    "wof:lastmodified":1466690834,
+    "wof:lastmodified":1492024352,
     "wof:name":"Regtectic",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

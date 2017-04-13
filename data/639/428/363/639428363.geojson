@@ -2,9 +2,14 @@
   "id": 639428363,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Madison Ave Cresskill NJ 07626",
+    "addr:housenumber":"350",
+    "addr:postcode":"07626",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976007,40.941184,-73.976007,40.941184",
     "geom:latitude":40.941184,
     "geom:longitude":-73.976007,
@@ -28,7 +33,14 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49agLqMTBZoNqXXRa9N4wb_40.941184_-73.976007@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294883,
     "wof:geomhash":"06b082864012432f7860b77cb8d07d0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":639428363
+        }
+    ],
     "wof:id":639428363,
-    "wof:lastmodified":1466693278,
+    "wof:lastmodified":1492048841,
     "wof:name":"District 39",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

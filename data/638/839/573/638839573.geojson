@@ -2,9 +2,14 @@
   "id": 638839573,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Main St Emerson NJ 07630",
+    "addr:housenumber":"70",
+    "addr:postcode":"07630",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017426,40.973919,-74.017426,40.973919",
     "geom:latitude":40.973919,
     "geom:longitude":-74.017426,
@@ -28,7 +33,14 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oRch5IR9rO8sSaI1djY5A_40.973919_-74.017426@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281228,
     "wof:geomhash":"88998f4d7c01d75b45bb9fb581e52a21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":638839573
+        }
+    ],
     "wof:id":638839573,
-    "wof:lastmodified":1466689084,
+    "wof:lastmodified":1492024287,
     "wof:name":"Armenian Nursing & Rehbltn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

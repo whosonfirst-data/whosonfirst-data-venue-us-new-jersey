@@ -2,9 +2,14 @@
   "id": 655789899,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Trinity St Newton NJ 07860",
+    "addr:housenumber":"43",
+    "addr:postcode":"07860",
+    "addr:street":"Trinity St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749714,41.057649,-74.749714,41.057649",
     "geom:latitude":41.057649,
     "geom:longitude":-74.749714,
@@ -31,7 +36,10 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gMM1yOLiLgJ1cTfzia1Rf_41.057649_-74.749714@1303262270"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461320974,
     "wof:geomhash":"329e4adf32e7605134ac365d3cabf706",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789899
+        }
+    ],
     "wof:id":655789899,
-    "wof:lastmodified":1466686749,
+    "wof:lastmodified":1492024054,
     "wof:name":"Attorney Alicia Saavedra Ferrante",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

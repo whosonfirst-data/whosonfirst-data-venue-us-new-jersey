@@ -2,9 +2,14 @@
   "id": 639393467,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 State Rte 70 Marlton NJ 08053",
+    "addr:housenumber":"101",
+    "addr:postcode":"08053",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.852556,39.898993,-74.852556,39.898993",
     "geom:latitude":39.898993,
     "geom:longitude":-74.852556,
@@ -27,7 +32,12 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85848433,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IAsdS7715SZc8rhxblTrs_39.898993_-74.852556@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461293945,
     "wof:geomhash":"22cff9bb1a3491d59e4cb89d9d1162dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85848433,
+            "region_id":85688607,
+            "venue_id":639393467
+        }
+    ],
     "wof:id":639393467,
-    "wof:lastmodified":1466692824,
+    "wof:lastmodified":1492047183,
     "wof:name":"Master Cleaner",
-    "wof:parent_id":420526655,
+    "wof:parent_id":85848433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

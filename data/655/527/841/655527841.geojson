@@ -2,9 +2,14 @@
   "id": 655527841,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Forest Dr Jackson NJ 08527",
+    "addr:housenumber":"60",
+    "addr:postcode":"08527",
+    "addr:street":"Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251756,40.142375,-74.251756,40.142375",
     "geom:latitude":40.142375,
     "geom:longitude":-74.251756,
@@ -27,7 +32,10 @@
         "professional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xGIo4zKkxlz3rn54fgYRG_40.142375_-74.251756@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309958,
     "wof:geomhash":"e9c1100d276239f5d4e55b66030e0b2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655527841
+        }
+    ],
     "wof:id":655527841,
-    "wof:lastmodified":1466679027,
+    "wof:lastmodified":1492034121,
     "wof:name":"General Reproduction Products",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

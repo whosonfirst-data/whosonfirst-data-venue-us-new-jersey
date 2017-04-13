@@ -2,9 +2,14 @@
   "id": 639173217,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 York St Lambertville NJ 08530",
+    "addr:housenumber":"10",
+    "addr:postcode":"08530",
+    "addr:street":"York St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.946123,40.368236,-74.946123,40.368236",
     "geom:latitude":40.368236,
     "geom:longitude":-74.946123,
@@ -24,7 +29,14 @@
     "sg:postcode":"08530",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42xaMCO6uh9GYzLG3bEkNA_40.368236_-74.946123@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461289037,
     "wof:geomhash":"b5995d9633da9393ee4094af2c954800",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639173217
+        }
+    ],
     "wof:id":639173217,
-    "wof:lastmodified":1466684880,
+    "wof:lastmodified":1492049950,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

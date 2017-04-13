@@ -2,9 +2,14 @@
   "id": 655806911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Sunset Rd Ste 1 Burlington NJ 08016",
+    "addr:housenumber":"1005",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876859,40.048989,-74.876859,40.048989",
     "geom:latitude":40.048989,
     "geom:longitude":-74.876859,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.crownfriedchicken.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ytKQopzdtJ4CyBqJn2Oxb_40.048989_-74.876859@1303262275"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461321646,
     "wof:geomhash":"e7be2a9300332b4706d892e48bcb240c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655806911
+        }
+    ],
     "wof:id":655806911,
-    "wof:lastmodified":1466687257,
+    "wof:lastmodified":1492065260,
     "wof:name":"Crown Fried Chicken",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

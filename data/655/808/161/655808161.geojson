@@ -2,9 +2,14 @@
   "id": 655808161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2919 Route 206 Bldg 511 Columbus NJ 08022",
+    "addr:housenumber":"2919;511",
+    "addr:postcode":"08022",
+    "addr:street":"Route 206 Bldg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.724924,40.052315,-74.724924,40.052315",
     "geom:latitude":40.052315,
     "geom:longitude":-74.724924,
@@ -24,7 +29,10 @@
     "sg:postcode":"08022",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SXU6aESGhPx9AM7itSkND_40.052315_-74.724924@1303262275"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321706,
     "wof:geomhash":"a6f80c48cbbe86caa12e59c7d45895b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526705,
+            "venue_id":655808161
+        }
+    ],
     "wof:id":655808161,
-    "wof:lastmodified":1466687066,
+    "wof:lastmodified":1492065183,
     "wof:name":"Lee's Handbag",
     "wof:parent_id":420526705,
     "wof:placetype":"venue",

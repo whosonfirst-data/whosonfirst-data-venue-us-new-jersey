@@ -2,9 +2,14 @@
   "id": 639611689,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 Mountain View Rd W Asbury NJ 08802",
+    "addr:housenumber":"450",
+    "addr:postcode":"08802",
+    "addr:street":"Mountain View Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050485,40.696272,-75.050485,40.696272",
     "geom:latitude":40.696272,
     "geom:longitude":-75.050485,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a4flqENbp1CZcQ71CyV1m_40.696272_-75.050485@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302188,
     "wof:geomhash":"5c66b12f4bbfd11d16252598089d72de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639611689
+        }
+    ],
     "wof:id":639611689,
-    "wof:lastmodified":1466697197,
+    "wof:lastmodified":1492028513,
     "wof:name":"Superior Drywall",
     "wof:parent_id":420527783,
     "wof:placetype":"venue",

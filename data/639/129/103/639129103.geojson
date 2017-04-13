@@ -2,9 +2,14 @@
   "id": 639129103,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Berkshire Ln Willingboro NJ 08046",
+    "addr:housenumber":"82",
+    "addr:postcode":"08046",
+    "addr:street":"Berkshire Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880421,40.037246,-74.880421,40.037246",
     "geom:latitude":40.037246,
     "geom:longitude":-74.880421,
@@ -27,7 +32,10 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F3IkwsQrZoPvADZmTxFBS_40.037246_-74.880421@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288057,
     "wof:geomhash":"9de3d60b5e6d5bd11a8f428710c3a6e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639129103
+        }
+    ],
     "wof:id":639129103,
-    "wof:lastmodified":1466678251,
+    "wof:lastmodified":1492051306,
     "wof:name":"Francis S Keleekai Delivery",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

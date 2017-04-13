@@ -2,9 +2,14 @@
   "id": 655550177,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Eggers St East Brunswick NJ 08816",
+    "addr:housenumber":"32",
+    "addr:postcode":"08816",
+    "addr:street":"Eggers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.410516,40.466612,-74.410516,40.466612",
     "geom:latitude":40.466612,
     "geom:longitude":-74.410516,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85854621,
-        102087417
+        102087417,
+        85892369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85854621,
             "region_id":85688607,
             "venue_id":655550177
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85892369,
+            "region_id":85688607,
+            "venue_id":655550177
         }
     ],
     "wof:id":655550177,
-    "wof:lastmodified":1466679456,
+    "wof:lastmodified":1492065264,
     "wof:name":"Expomar International",
-    "wof:parent_id":85854621,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655526017,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 State Rte 94 Blairstown NJ 07825",
+    "addr:housenumber":"222",
+    "addr:postcode":"07825",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021869,40.975857,-75.021869,40.975857",
     "geom:latitude":40.975857,
     "geom:longitude":-75.021869,
@@ -28,7 +33,10 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kv1LJkAu03uR7SZqu322N_40.975857_-75.021869@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309897,
     "wof:geomhash":"a183b825db452fd3b313d0a299cf78d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527807,
+            "venue_id":655526017
+        }
+    ],
     "wof:id":655526017,
-    "wof:lastmodified":1466678758,
+    "wof:lastmodified":1492047596,
     "wof:name":"Creative Source",
     "wof:parent_id":420527807,
     "wof:placetype":"venue",

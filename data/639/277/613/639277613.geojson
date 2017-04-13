@@ -2,9 +2,14 @@
   "id": 639277613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Memorial Rd Marlboro NJ 07746",
+    "addr:housenumber":"3",
+    "addr:postcode":"07746",
+    "addr:street":"Memorial Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283652,40.322548,-74.283652,40.322548",
     "geom:latitude":40.322548,
     "geom:longitude":-74.283652,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0952LncGzdQ0KNvb0BEA71_40.322548_-74.283652@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291493,
     "wof:geomhash":"ec791fd9458341282589e86a3f7392de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639277613
+        }
+    ],
     "wof:id":639277613,
-    "wof:lastmodified":1466691027,
+    "wof:lastmodified":1492047853,
     "wof:name":"Acme Video Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638768967,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Ave C Newark NJ 07114",
+    "addr:housenumber":"",
+    "addr:postcode":"07114",
+    "addr:street":"96 Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.174416,40.71597,-74.174416,40.71597",
     "geom:latitude":40.71597,
     "geom:longitude":-74.174416,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873015,
+        85873003,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85873015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873003,
+            "region_id":85688607,
+            "venue_id":638768967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85873015,
             "region_id":85688607,
             "venue_id":638768967
         }
     ],
     "wof:id":638768967,
-    "wof:lastmodified":1466680858,
+    "wof:lastmodified":1491934059,
     "wof:name":"Off Side Restaurant & Bar Inc",
-    "wof:parent_id":85873015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

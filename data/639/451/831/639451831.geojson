@@ -2,9 +2,14 @@
   "id": 639451831,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Terry St Belleville NJ 07109",
+    "addr:housenumber":"91",
+    "addr:postcode":"07109",
+    "addr:street":"Terry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147164,40.794987,-74.147164,40.794987",
     "geom:latitude":40.794987,
     "geom:longitude":-74.147164,
@@ -31,6 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
+        85975967,
+        102086773,
+        85892397,
         85804049,
         102085043
     ],
@@ -44,6 +52,14 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102086773,
+            "locality_id":85975967,
+            "neighbourhood_id":85892397,
+            "region_id":85688607,
+            "venue_id":639451831
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85804049,
             "region_id":85688607,
@@ -51,9 +67,9 @@
         }
     ],
     "wof:id":639451831,
-    "wof:lastmodified":1466693649,
+    "wof:lastmodified":1492042426,
     "wof:name":"Ilhwa American Corp",
-    "wof:parent_id":85804049,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

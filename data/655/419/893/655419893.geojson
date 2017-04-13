@@ -2,9 +2,14 @@
   "id": 655419893,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 S Plymouth Ct Vincentown NJ 08088",
+    "addr:housenumber":"102",
+    "addr:postcode":"08088",
+    "addr:street":"S Plymouth Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703606,39.887835,-74.703606,39.887835",
     "geom:latitude":39.887835,
     "geom:longitude":-74.703606,
@@ -28,7 +33,10 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MJvnLgVVgd3GoU0RBJKeB_39.887835_-74.703606@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305461,
     "wof:geomhash":"80133acba6d49c1b314f7095eb1ccc2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655419893
+        }
+    ],
     "wof:id":655419893,
-    "wof:lastmodified":1466676202,
+    "wof:lastmodified":1492024299,
     "wof:name":"Leisuretowne Association Inc",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

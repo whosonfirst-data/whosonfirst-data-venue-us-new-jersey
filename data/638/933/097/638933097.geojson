@@ -2,9 +2,14 @@
   "id": 638933097,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Beckerville Rd Lakehurst NJ 08759",
+    "addr:housenumber":"401",
+    "addr:postcode":"08759",
+    "addr:street":"Beckerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.379709,39.994485,-74.379709,39.994485",
     "geom:latitude":39.994485,
     "geom:longitude":-74.379709,
@@ -27,7 +32,10 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UZpJAhpXkkxQGCjEGJh04_39.994485_-74.379709@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283578,
     "wof:geomhash":"d083800e56b43837df6cf0a5cddb08da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":638933097
+        }
+    ],
     "wof:id":638933097,
-    "wof:lastmodified":1466690927,
+    "wof:lastmodified":1492030936,
     "wof:name":"Wing & A Prayer Farm",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

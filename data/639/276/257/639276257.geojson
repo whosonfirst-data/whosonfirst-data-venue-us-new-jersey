@@ -2,9 +2,14 @@
   "id": 639276257,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Morris Ave Short Hills NJ 07078",
+    "addr:housenumber":"800",
+    "addr:postcode":"07078",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.333726,40.720906,-74.333726,40.720906",
     "geom:latitude":40.720906,
     "geom:longitude":-74.333726,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.ballyfitness.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OCWRjgEq8eb3iNvXyyTgr_40.720906_-74.333726@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461291463,
     "wof:geomhash":"5efec9ffdde165e11745714f099a99c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639276257
+        }
+    ],
     "wof:id":639276257,
-    "wof:lastmodified":1466690712,
+    "wof:lastmodified":1492074426,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

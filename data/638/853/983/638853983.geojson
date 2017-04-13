@@ -2,9 +2,14 @@
   "id": 638853983,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Jacobs Ln Scotch Plains NJ 07076",
+    "addr:housenumber":"6",
+    "addr:postcode":"07076",
+    "addr:street":"Jacobs Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.332735,40.625407,-74.332735,40.625407",
     "geom:latitude":40.625407,
     "geom:longitude":-74.332735,
@@ -28,7 +33,13 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GMOEq81WoRIgw76TWRF7D_40.625407_-74.332735@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281610,
     "wof:geomhash":"6193e600723633fc7a5086ab78075be6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":638853983
+        }
+    ],
     "wof:id":638853983,
-    "wof:lastmodified":1466689157,
+    "wof:lastmodified":1492049105,
     "wof:name":"Jeiven Pharmaceutical Cnsltng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

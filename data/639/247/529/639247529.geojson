@@ -2,9 +2,14 @@
   "id": 639247529,
   "type": "Feature",
   "properties": {
+    "addr:full":"658 Jackson Ave Rahway NJ 07065",
+    "addr:housenumber":"658",
+    "addr:postcode":"07065",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279714,40.616896,-74.279714,40.616896",
     "geom:latitude":40.616896,
     "geom:longitude":-74.279714,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KV9zVhHnD1GAMMYqIDcSA_40.616896_-74.279714@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290775,
     "wof:geomhash":"695988e458ba6b22d01a6be23002cb98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639247529
+        }
+    ],
     "wof:id":639247529,
-    "wof:lastmodified":1466690356,
+    "wof:lastmodified":1492043855,
     "wof:name":"Bill Bodine General Contg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639370635,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 N Harrison St Princeton NJ 08540",
+    "addr:housenumber":"211",
+    "addr:postcode":"08540",
+    "addr:street":"N Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652818,40.36389,-74.652818,40.36389",
     "geom:latitude":40.36389,
     "geom:longitude":-74.652818,
@@ -29,7 +34,13 @@
         "orthopedic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E6nFTlx5hrmRVikQVMze0_40.363890_-74.652818@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461293444,
     "wof:geomhash":"039883eb812a6a1d70f42afd1a8b31f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639370635
+        }
+    ],
     "wof:id":639370635,
-    "wof:lastmodified":1466692667,
+    "wof:lastmodified":1492047765,
     "wof:name":"University Orthopedic Assoc PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638697251,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Monroe St Garfield NJ 07026",
+    "addr:housenumber":"133",
+    "addr:postcode":"07026",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.104469,40.870709,-74.104469,40.870709",
     "geom:latitude":40.870709,
     "geom:longitude":-74.104469,
@@ -24,7 +29,14 @@
     "sg:postcode":"07026",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GLg2tiiJ08PIhkIzYjz82_40.870709_-74.104469@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461277434,
     "wof:geomhash":"c14d1ee94a5993b7f01fb160aa9e4d45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":638697251
+        }
+    ],
     "wof:id":638697251,
-    "wof:lastmodified":1466688417,
+    "wof:lastmodified":1492062490,
     "wof:name":"Off Duty Travern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

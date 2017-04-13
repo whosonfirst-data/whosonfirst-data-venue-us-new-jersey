@@ -2,9 +2,14 @@
   "id": 655771463,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 5th Ave Hawthorne NJ 07506",
+    "addr:housenumber":"170",
+    "addr:postcode":"07506",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.152527,40.96236,-74.152527,40.96236",
     "geom:latitude":40.96236,
     "geom:longitude":-74.152527,
@@ -38,7 +43,14 @@
         "audio-visual"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XjQNgyDMhJfgzHlgxOYoG_40.962360_-74.152527@1303262266"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461320150,
     "wof:geomhash":"5964a1272340cfc9f71d4e038fc25c5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":655771463
+        }
+    ],
     "wof:id":655771463,
-    "wof:lastmodified":1466686120,
+    "wof:lastmodified":1492027646,
     "wof:name":"Presentation Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655400949,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 Arnold Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"635",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.05021,40.091812,-74.05021,40.091812",
     "geom:latitude":40.091812,
     "geom:longitude":-74.05021,
@@ -35,7 +40,14 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WH45snrML5XoigYjICgVb_40.091812_-74.050210@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461304674,
     "wof:geomhash":"5bd96157cfe5c53ce33e11ec6063173e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":655400949
+        }
+    ],
     "wof:id":655400949,
-    "wof:lastmodified":1466675693,
+    "wof:lastmodified":1492080215,
     "wof:name":"Mill End Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639361225,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Lincoln Ln Marlton NJ 08053",
+    "addr:housenumber":"2",
+    "addr:postcode":"08053",
+    "addr:street":"Lincoln Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.890376,39.899977,-74.890376,39.899977",
     "geom:latitude":39.899977,
     "geom:longitude":-74.890376,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569,
+        85688607,
+        85812655,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QdeiPIptzko1BrzLRJSKE_39.899977_-74.890376@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461293256,
     "wof:geomhash":"586073b81e1918a33de674bd9164e441",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639361225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85812655,
+            "region_id":85688607,
+            "venue_id":639361225
+        }
+    ],
     "wof:id":639361225,
-    "wof:lastmodified":1466692541,
+    "wof:lastmodified":1492025556,
     "wof:name":"Forest Floor Inc",
-    "wof:parent_id":420526569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

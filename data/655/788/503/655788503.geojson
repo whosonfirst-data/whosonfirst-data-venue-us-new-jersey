@@ -2,9 +2,14 @@
   "id": 655788503,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 Mount Pleasant Rd Columbia NJ 07832",
+    "addr:housenumber":"85",
+    "addr:postcode":"07832",
+    "addr:street":"Mount Pleasant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.073619,40.969514,-75.073619,40.969514",
     "geom:latitude":40.969514,
     "geom:longitude":-75.073619,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.camptaylor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uDDUm1FB8K3dBuQZ86OGi_40.969514_-75.073619@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320922,
     "wof:geomhash":"4c3028ef9c831b30ab4b83cca02c124d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527797,
+            "venue_id":655788503
+        }
+    ],
     "wof:id":655788503,
-    "wof:lastmodified":1466686643,
+    "wof:lastmodified":1492048123,
     "wof:name":"Camp Taylor",
     "wof:parent_id":420527797,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655396845,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Arnold Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"613",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.050854,40.091743,-74.050854,40.091743",
     "geom:latitude":40.091743,
     "geom:longitude":-74.050854,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DFWXpj4UVAJpffuqAqNuo_40.091743_-74.050854@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304495,
     "wof:geomhash":"d8abb1f443c8195610f925a75771e51f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":655396845
+        }
+    ],
     "wof:id":655396845,
-    "wof:lastmodified":1466675427,
+    "wof:lastmodified":1492064849,
     "wof:name":"Country Hearts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

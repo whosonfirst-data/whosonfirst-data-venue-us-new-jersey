@@ -2,9 +2,14 @@
   "id": 655813115,
   "type": "Feature",
   "properties": {
+    "addr:full":"218A Sunset Rd Willingboro NJ 08046",
+    "addr:housenumber":"218a",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.884367,40.048268,-74.884367,40.048268",
     "geom:latitude":40.048268,
     "geom:longitude":-74.884367,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74fOhSa8sNywgk09xNYonC_40.048268_-74.884367@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321941,
     "wof:geomhash":"4027f9759d5acb99148f9a553e267b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813115
+        }
+    ],
     "wof:id":655813115,
-    "wof:lastmodified":1466687145,
+    "wof:lastmodified":1492070323,
     "wof:name":"Graduate Health System Rancocas Hospital",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

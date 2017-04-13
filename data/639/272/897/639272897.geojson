@@ -2,9 +2,14 @@
   "id": 639272897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 W 5th St Plainfield NJ 07063",
+    "addr:housenumber":"1000",
+    "addr:postcode":"07063",
+    "addr:street":"W 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.436788,40.601241,-74.436788,40.601241",
     "geom:latitude":40.601241,
     "geom:longitude":-74.436788,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_322ncKKyKpBpJzbH1DWGaf_40.601241_-74.436788@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291375,
     "wof:geomhash":"2e1f7734e4ec05d0f7dfba36662537b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639272897
+        }
+    ],
     "wof:id":639272897,
-    "wof:lastmodified":1466690881,
+    "wof:lastmodified":1492061059,
     "wof:name":"Marpo Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639077727,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 E Franklin St Trenton NJ 08610",
+    "addr:housenumber":"535",
+    "addr:postcode":"08610",
+    "addr:street":"E Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73014,40.213906,-74.73014,40.213906",
     "geom:latitude":40.213906,
     "geom:longitude":-74.73014,
@@ -28,7 +33,13 @@
         "organization"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VTA6sKjqu4SaXlmo4Lw2t_40.213906_-74.730140@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286874,
     "wof:geomhash":"575546b0c8a42539021c0987328f962f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":639077727
+        }
+    ],
     "wof:id":639077727,
-    "wof:lastmodified":1466688576,
+    "wof:lastmodified":1492046317,
     "wof:name":"Camp Fire Boys & Girls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

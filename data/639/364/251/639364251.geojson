@@ -2,9 +2,14 @@
   "id": 639364251,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Meridian Rd Edison NJ 08820",
+    "addr:housenumber":"19",
+    "addr:postcode":"08820",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.347143,40.575289,-74.347143,40.575289",
     "geom:latitude":40.575289,
     "geom:longitude":-74.347143,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85892375,
-        102087417
+        102087417,
+        420527175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,17 @@
             "neighbourhood_id":85892375,
             "region_id":85688607,
             "venue_id":639364251
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":639364251
         }
     ],
     "wof:id":639364251,
-    "wof:lastmodified":1466692401,
+    "wof:lastmodified":1492069667,
     "wof:name":"Edison Sign Expo Inc",
-    "wof:parent_id":85892375,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

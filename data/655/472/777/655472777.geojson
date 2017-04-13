@@ -2,9 +2,14 @@
   "id": 655472777,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 W Madison Ave Dumont NJ 07628",
+    "addr:housenumber":"85",
+    "addr:postcode":"07628",
+    "addr:street":"W Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996443,40.940328,-73.996443,40.940328",
     "geom:latitude":40.940328,
     "geom:longitude":-73.996443,
@@ -27,7 +32,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DwfK7xfHYZF7PVOdtdWaF_40.940328_-73.996443@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461307703,
     "wof:geomhash":"e13712c928023f4dbd98298f01f3ef16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655472777
+        }
+    ],
     "wof:id":655472777,
-    "wof:lastmodified":1466677506,
+    "wof:lastmodified":1492053868,
     "wof:name":"The Desk Set",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

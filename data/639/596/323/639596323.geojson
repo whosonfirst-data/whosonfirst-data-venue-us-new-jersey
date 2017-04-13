@@ -2,9 +2,14 @@
   "id": 639596323,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Summit Dr Sussex NJ 07461",
+    "addr:housenumber":"111",
+    "addr:postcode":"07461",
+    "addr:street":"Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.536704,41.230604,-74.536704,41.230604",
     "geom:latitude":41.230604,
     "geom:longitude":-74.536704,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EXZPPFxOd6kRgRZ6ODKd5_41.230604_-74.536704@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301596,
     "wof:geomhash":"607221987861f94497b75b04d4a79527",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":639596323
+        }
+    ],
     "wof:id":639596323,
-    "wof:lastmodified":1466696790,
+    "wof:lastmodified":1492041933,
     "wof:name":"Charles Wesley Electric",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

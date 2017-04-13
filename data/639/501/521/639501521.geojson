@@ -2,9 +2,14 @@
   "id": 639501521,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 State Rte 17 Saddle River NJ 07458",
+    "addr:housenumber":"119",
+    "addr:postcode":"07458",
+    "addr:street":"State Rte 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116726,41.04689,-74.116726,41.04689",
     "geom:latitude":41.04689,
     "geom:longitude":-74.116726,
@@ -29,7 +34,14 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Ebi1Q44iKNIc42ixaThZ_41.046890_-74.116726@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461297476,
     "wof:geomhash":"d43a335a0d89ea61a80e9a0c4466b01b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639501521
+        }
+    ],
     "wof:id":639501521,
-    "wof:lastmodified":1466694901,
+    "wof:lastmodified":1492018820,
     "wof:name":"Lima & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

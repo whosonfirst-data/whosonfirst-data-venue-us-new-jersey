@@ -2,9 +2,14 @@
   "id": 639600425,
   "type": "Feature",
   "properties": {
+    "addr:full":"742 Old Post Rd Edison NJ 08817",
+    "addr:housenumber":"742",
+    "addr:postcode":"08817",
+    "addr:street":"Old Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.358398,40.515787,-74.358398,40.515787",
     "geom:latitude":40.515787,
     "geom:longitude":-74.358398,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZIInKEVSstzs9FABt6rur_40.515787_-74.358398@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301749,
     "wof:geomhash":"219c5de58faa6527ff7378e3e516aab3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527235,
+            "venue_id":639600425
+        }
+    ],
     "wof:id":639600425,
-    "wof:lastmodified":1466696815,
+    "wof:lastmodified":1492028419,
     "wof:name":"Eric Storage & Handling",
     "wof:parent_id":420527235,
     "wof:placetype":"venue",

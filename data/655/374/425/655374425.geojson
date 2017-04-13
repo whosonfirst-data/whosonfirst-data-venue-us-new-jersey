@@ -2,9 +2,14 @@
   "id": 655374425,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 Crest Dr Northvale NJ 07647",
+    "addr:housenumber":"427",
+    "addr:postcode":"07647",
+    "addr:street":"Crest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.957543,41.013094,-73.957543,41.013094",
     "geom:latitude":41.013094,
     "geom:longitude":-73.957543,
@@ -33,7 +38,14 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48C2I6a4NFMVgmRSaejhuG_41.013094_-73.957543@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461303600,
     "wof:geomhash":"ebd3879f5980f661b6e5fb92e78f44ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655374425
+        }
+    ],
     "wof:id":655374425,
-    "wof:lastmodified":1466674785,
+    "wof:lastmodified":1492046112,
     "wof:name":"Cucchiara Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

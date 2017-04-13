@@ -2,9 +2,14 @@
   "id": 655600445,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Atlanta Ave Union NJ 07088",
+    "addr:housenumber":"139",
+    "addr:postcode":"07088",
+    "addr:street":"Atlanta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275846,40.714597,-74.275846,40.714597",
     "geom:latitude":40.714597,
     "geom:longitude":-74.275846,
@@ -27,7 +32,11 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23I43Yb4JfyVOJxAoI03tl_40.714597_-74.275846@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461313031,
     "wof:geomhash":"c12208eb4ae66d9b638960d098dca743",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655600445
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655600445
+        }
+    ],
     "wof:id":655600445,
-    "wof:lastmodified":1466681044,
+    "wof:lastmodified":1492023814,
     "wof:name":"C Browns Towing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

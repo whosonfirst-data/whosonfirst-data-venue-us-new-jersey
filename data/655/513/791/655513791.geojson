@@ -2,9 +2,14 @@
   "id": 655513791,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 US Hwy 206 Stanhope NJ 07874",
+    "addr:housenumber":"56",
+    "addr:postcode":"07874",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718703,40.927976,-74.718703,40.927976",
     "geom:latitude":40.927976,
     "geom:longitude":-74.718703,
@@ -28,7 +33,14 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        85976261,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j0wDtvAFBqIWcHF1D45AW_40.927976_-74.718703@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309436,
     "wof:geomhash":"d05cb4e0354d5ffe689c7627de6e2f7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "locality_id":85976261,
+            "region_id":85688607,
+            "venue_id":655513791
+        }
+    ],
     "wof:id":655513791,
-    "wof:lastmodified":1466678565,
+    "wof:lastmodified":1492048437,
     "wof:name":"Byram Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639457169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1848 Millstone River Rd Hillsborough NJ 08844",
+    "addr:housenumber":"1848",
+    "addr:postcode":"08844",
+    "addr:street":"Millstone River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.586125,40.494847,-74.586125,40.494847",
     "geom:latitude":40.494847,
     "geom:longitude":-74.586125,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976115,
+        85806449,
         102085045,
+        85976115,
         85806329
     ],
     "wof:breaches":[],
@@ -45,6 +51,13 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85806449,
+            "region_id":85688607,
+            "venue_id":639457169
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "locality_id":85976115,
             "neighbourhood_id":85806329,
             "region_id":85688607,
@@ -52,9 +65,9 @@
         }
     ],
     "wof:id":639457169,
-    "wof:lastmodified":1466693644,
+    "wof:lastmodified":1492050828,
     "wof:name":"Todal Y Stables",
-    "wof:parent_id":85806329,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

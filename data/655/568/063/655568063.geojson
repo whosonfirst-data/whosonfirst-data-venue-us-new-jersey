@@ -2,9 +2,14 @@
   "id": 655568063,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Kingsland Ave Passaic NJ 07071",
+    "addr:housenumber":"16",
+    "addr:postcode":"07071",
+    "addr:street":"Kingsland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.137087,40.810714,-74.137087,40.810714",
     "geom:latitude":40.810714,
     "geom:longitude":-74.137087,
@@ -28,7 +33,13 @@
         "armored"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63UrDLUW9CquuV5Q4jFx4z_40.810714_-74.137087@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461311625,
     "wof:geomhash":"b0dbea0d18c2b35cb6ccc060868e8452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655568063
+        }
+    ],
     "wof:id":655568063,
-    "wof:lastmodified":1466679950,
+    "wof:lastmodified":1492023669,
     "wof:name":"Cdc Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639493421,
   "type": "Feature",
   "properties": {
+    "addr:full":"758 River Dr Garfield NJ 07026",
+    "addr:housenumber":"758",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123097,40.882853,-74.123097,40.882853",
     "geom:latitude":40.882853,
     "geom:longitude":-74.123097,
@@ -36,7 +41,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YzzTYRVDahacFoU8zZcI7_40.882853_-74.123097@1294171694"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461297153,
     "wof:geomhash":"0fe9797a6f19afb22393bd8069e96b7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639493421
+        }
+    ],
     "wof:id":639493421,
-    "wof:lastmodified":1466694615,
+    "wof:lastmodified":1492041540,
     "wof:name":"Bob's Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

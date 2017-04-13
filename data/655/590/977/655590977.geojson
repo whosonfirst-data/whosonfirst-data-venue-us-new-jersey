@@ -2,9 +2,14 @@
   "id": 655590977,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Parkside Rd Plainfield NJ 07060",
+    "addr:housenumber":"71",
+    "addr:postcode":"07060",
+    "addr:street":"Parkside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.409505,40.601359,-74.409505,40.601359",
     "geom:latitude":40.601359,
     "geom:longitude":-74.409505,
@@ -27,7 +32,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gjuf72Ev0RzMhcftZ8hwb_40.601359_-74.409505@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312634,
     "wof:geomhash":"7c0ff26cc9a845ae1e1da7b291bad885",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":655590977
+        }
+    ],
     "wof:id":655590977,
-    "wof:lastmodified":1466680882,
+    "wof:lastmodified":1492023652,
     "wof:name":"Clever Creations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639380019,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Godwin Ave Ridgewood NJ 07450",
+    "addr:housenumber":"203",
+    "addr:postcode":"07450",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127673,40.979001,-74.127673,40.979001",
     "geom:latitude":40.979001,
     "geom:longitude":-74.127673,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65EYFP9qMQNuP3bSHVh7YP_40.979001_-74.127673@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293636,
     "wof:geomhash":"deb1c86aa087568ba25c0cd09e32ab28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":639380019
+        }
+    ],
     "wof:id":639380019,
-    "wof:lastmodified":1466692718,
+    "wof:lastmodified":1492076607,
     "wof:name":"Joseph J Friedrich Atty At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

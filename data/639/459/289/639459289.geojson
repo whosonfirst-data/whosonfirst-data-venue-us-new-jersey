@@ -2,9 +2,14 @@
   "id": 639459289,
   "type": "Feature",
   "properties": {
+    "addr:full":"1588 Fort St Brick NJ 08724",
+    "addr:housenumber":"1588",
+    "addr:postcode":"08724",
+    "addr:street":"Fort St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138668,40.076139,-74.138668,40.076139",
     "geom:latitude":40.076139,
     "geom:longitude":-74.138668,
@@ -28,7 +33,10 @@
         "electronics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OkszYmKurqK6Gx5IG5LHj_40.076139_-74.138668@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295771,
     "wof:geomhash":"8be6e68ca97692b338bbfcf9dbd9ac8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639459289
+        }
+    ],
     "wof:id":639459289,
-    "wof:lastmodified":1466694178,
+    "wof:lastmodified":1492052301,
     "wof:name":"Mobile Diagnostics",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

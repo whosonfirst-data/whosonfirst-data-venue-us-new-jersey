@@ -2,9 +2,14 @@
   "id": 639156965,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Carriage Ln Delran NJ 08075",
+    "addr:housenumber":"207",
+    "addr:postcode":"08075",
+    "addr:street":"Carriage Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.970426,40.014963,-74.970426,40.014963",
     "geom:latitude":40.014963,
     "geom:longitude":-74.970426,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526691,
+        102191575,
+        404477371,
+        85633793,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZNBgxqn18h5UFISDAgglm_40.014963_-74.970426@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288686,
     "wof:geomhash":"8c0e1627f47d9d11f5104f8e6446de34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477371,
+            "neighbourhood_id":420526691,
+            "region_id":85688607,
+            "venue_id":639156965
+        }
+    ],
     "wof:id":639156965,
-    "wof:lastmodified":1466682439,
+    "wof:lastmodified":1492047347,
     "wof:name":"Import Auto World",
     "wof:parent_id":420526691,
     "wof:placetype":"venue",

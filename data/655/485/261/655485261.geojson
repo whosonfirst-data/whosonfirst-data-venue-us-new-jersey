@@ -2,9 +2,14 @@
   "id": 655485261,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Briarwood Dr Somerset NJ 08873",
+    "addr:housenumber":"7",
+    "addr:postcode":"08873",
+    "addr:street":"Briarwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.471408,40.502373,-74.471408,40.502373",
     "geom:latitude":40.502373,
     "geom:longitude":-74.471408,
@@ -27,7 +32,14 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nBiv4T4hcVgx2RCw5gnmF_40.502373_-74.471408@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308210,
     "wof:geomhash":"2fee3b89d73d5799e320858c92236097",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":655485261
+        }
+    ],
     "wof:id":655485261,
-    "wof:lastmodified":1466677633,
+    "wof:lastmodified":1492029516,
     "wof:name":"All Brand Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

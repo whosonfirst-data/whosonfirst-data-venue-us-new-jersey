@@ -2,9 +2,14 @@
   "id": 639255593,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Shady St Paterson NJ 07524",
+    "addr:housenumber":"19",
+    "addr:postcode":"07524",
+    "addr:street":"Shady St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.165886,40.932763,-74.165886,40.932763",
     "geom:latitude":40.932763,
     "geom:longitude":-74.165886,
@@ -35,7 +40,10 @@
         85633793,
         85975487,
         102081133,
-        85688607
+        85688607,
+        85879787,
+        404477819,
+        85975481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +62,22 @@
             "neighbourhood_id":85879775,
             "region_id":85688607,
             "venue_id":639255593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
+            "neighbourhood_id":85879787,
+            "region_id":85688607,
+            "venue_id":639255593
         }
     ],
     "wof:id":639255593,
-    "wof:lastmodified":1466690643,
+    "wof:lastmodified":1492028083,
     "wof:name":"Moeller Welding",
-    "wof:parent_id":85879775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

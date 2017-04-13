@@ -2,9 +2,14 @@
   "id": 639042685,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 W Broad St Hopewell NJ 08525",
+    "addr:housenumber":"43",
+    "addr:postcode":"08525",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.762744,40.388892,-74.762744,40.388892",
     "geom:latitude":40.388892,
     "geom:longitude":-74.762744,
@@ -30,7 +35,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kEbsK7wdc4Ze2ceBJmcoh_40.388892_-74.762744@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461286107,
     "wof:geomhash":"bc73836e0ce0a5fbd7be76a9c5a3cc61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":639042685
+        }
+    ],
     "wof:id":639042685,
-    "wof:lastmodified":1466674077,
+    "wof:lastmodified":1492068167,
     "wof:name":"Morpeth Gallery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

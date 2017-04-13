@@ -2,9 +2,14 @@
   "id": 639570221,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1419",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261525,40.704848,-74.261525,40.704848",
     "geom:latitude":40.704848,
     "geom:longitude":-74.261525,
@@ -27,7 +32,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kjSO0g133szEwTKTmR44Y_40.704848_-74.261525@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300524,
     "wof:geomhash":"08a0b4eae522fd000621d7ba15649ecd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639570221
+        }
+    ],
     "wof:id":639570221,
-    "wof:lastmodified":1466695990,
+    "wof:lastmodified":1492049724,
     "wof:name":"El Saro",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

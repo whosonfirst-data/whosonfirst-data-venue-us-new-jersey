@@ -2,9 +2,14 @@
   "id": 639163689,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Sandburg Dr Morganville NJ 07751",
+    "addr:housenumber":"30",
+    "addr:postcode":"07751",
+    "addr:street":"Sandburg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314384,40.347947,-74.314384,40.347947",
     "geom:latitude":40.347947,
     "geom:longitude":-74.314384,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dYyfhPoFD3a2eyfTgwg6w_40.347947_-74.314384@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288832,
     "wof:geomhash":"589ed4689787faefa1cd66ea73e53214",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639163689
+        }
+    ],
     "wof:id":639163689,
-    "wof:lastmodified":1466683623,
+    "wof:lastmodified":1492051859,
     "wof:name":"House Of Dreams Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

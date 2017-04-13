@@ -2,9 +2,14 @@
   "id": 655769005,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 Wyckoff Ave Wyckoff NJ 07481",
+    "addr:housenumber":"637",
+    "addr:postcode":"07481",
+    "addr:street":"Wyckoff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172786,41.010754,-74.172786,41.010754",
     "geom:latitude":41.010754,
     "geom:longitude":-74.172786,
@@ -49,7 +54,10 @@
     ],
     "sg:website":"http://www.truevalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RHoTgG3ov1tp77LoAmcLd_41.010754_-74.172786@1303262265"
@@ -57,9 +65,15 @@
     "wof:country":"US",
     "wof:created":1461320038,
     "wof:geomhash":"6c854c2c96b3d430525022168b29a871",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":655769005
+        }
+    ],
     "wof:id":655769005,
-    "wof:lastmodified":1466685993,
+    "wof:lastmodified":1492058290,
     "wof:name":"The Hardware Station",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

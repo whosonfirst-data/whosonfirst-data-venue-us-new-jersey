@@ -2,9 +2,14 @@
   "id": 638727207,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Herbert Rd Robbinsville NJ 08691",
+    "addr:housenumber":"8",
+    "addr:postcode":"08691",
+    "addr:street":"Herbert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.515349,40.197186,-74.515349,40.197186",
     "geom:latitude":40.197186,
     "geom:longitude":-74.515349,
@@ -28,7 +33,10 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0skuKww26ZrD3pSNyYxHeQ_40.197186_-74.515349@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461278403,
     "wof:geomhash":"2a1a3d7e941976eeb1d3f8d1693e7ccc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527281,
+            "venue_id":638727207
+        }
+    ],
     "wof:id":638727207,
-    "wof:lastmodified":1466674993,
+    "wof:lastmodified":1492062469,
     "wof:name":"Raynor Woodworking",
     "wof:parent_id":420527281,
     "wof:placetype":"venue",

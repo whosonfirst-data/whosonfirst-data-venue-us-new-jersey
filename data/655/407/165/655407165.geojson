@@ -2,9 +2,14 @@
   "id": 655407165,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Park Ave Maplewood NJ 07040",
+    "addr:housenumber":"31",
+    "addr:postcode":"07040",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274183,40.722654,-74.274183,40.722654",
     "geom:latitude":40.722654,
     "geom:longitude":-74.274183,
@@ -32,7 +37,10 @@
         "engraver"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KIBlgvu8JF4v3OjEJMhDp_40.722654_-74.274183@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461304922,
     "wof:geomhash":"110fff8f9f4a39700d60142c4958c496",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655407165
+        }
+    ],
     "wof:id":655407165,
-    "wof:lastmodified":1466675551,
+    "wof:lastmodified":1492051355,
     "wof:name":"Bloomfield Engraving Co Inc",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

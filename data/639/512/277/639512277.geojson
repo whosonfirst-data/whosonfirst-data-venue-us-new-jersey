@@ -2,9 +2,14 @@
   "id": 639512277,
   "type": "Feature",
   "properties": {
+    "addr:full":"359 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"359",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.511564,40.374644,-74.511564,40.374644",
     "geom:latitude":40.374644,
     "geom:longitude":-74.511564,
@@ -24,7 +29,10 @@
     "sg:postcode":"08810",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sgI8OOGMXnyOufNd0rPj4_40.374644_-74.511564@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461297958,
     "wof:geomhash":"62721312fe5cf04aabec16efaf9521e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639512277
+        }
+    ],
     "wof:id":639512277,
-    "wof:lastmodified":1466694997,
+    "wof:lastmodified":1492029453,
     "wof:name":"Pnc Bank",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

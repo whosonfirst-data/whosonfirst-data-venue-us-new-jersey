@@ -2,9 +2,14 @@
   "id": 655429015,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Fairview Ave Newton NJ 07860",
+    "addr:housenumber":"209",
+    "addr:postcode":"07860",
+    "addr:street":"Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.787277,41.130007,-74.787277,41.130007",
     "geom:latitude":41.130007,
     "geom:longitude":-74.787277,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85836175,
-        102086779
+        85813187,
+        102086779,
+        85836175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85813187,
+            "region_id":85688607,
+            "venue_id":655429015
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85836175,
             "region_id":85688607,
             "venue_id":655429015
         }
     ],
     "wof:id":655429015,
-    "wof:lastmodified":1466676234,
+    "wof:lastmodified":1492082041,
     "wof:name":"Handyman Plus",
-    "wof:parent_id":85836175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

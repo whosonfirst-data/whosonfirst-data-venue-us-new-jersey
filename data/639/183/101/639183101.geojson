@@ -2,9 +2,14 @@
   "id": 639183101,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Harrison Ave Garfield NJ 07026",
+    "addr:housenumber":"83",
+    "addr:postcode":"07026",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.102185,40.86918,-74.102185,40.86918",
     "geom:latitude":40.86918,
     "geom:longitude":-74.102185,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bQUsxMiwbL48KJBKbeHzO_40.869180_-74.102185@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289255,
     "wof:geomhash":"b32c75bac31f504b80e7bcc982353cca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639183101
+        }
+    ],
     "wof:id":639183101,
-    "wof:lastmodified":1466686218,
+    "wof:lastmodified":1492071452,
     "wof:name":"Aladdin Plumbing & Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

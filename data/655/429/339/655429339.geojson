@@ -2,9 +2,14 @@
   "id": 655429339,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 S Community Dr Brick NJ 08723",
+    "addr:housenumber":"425",
+    "addr:postcode":"08723",
+    "addr:street":"Community Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.125341,40.045971,-74.125341,40.045971",
     "geom:latitude":40.045971,
     "geom:longitude":-74.125341,
@@ -32,7 +37,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ISiZjs0GcMwaTFxXeuZCV_40.045971_-74.125341@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461305867,
     "wof:geomhash":"ab8e6641d591d8e47f3d1e167b186a9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655429339
+        }
+    ],
     "wof:id":655429339,
-    "wof:lastmodified":1466676318,
+    "wof:lastmodified":1492045212,
     "wof:name":"Kelly's Kids",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

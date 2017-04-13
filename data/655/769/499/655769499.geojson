@@ -2,9 +2,14 @@
   "id": 655769499,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Murray Ave Paterson NJ 07501",
+    "addr:housenumber":"86",
+    "addr:postcode":"07501",
+    "addr:street":"Murray Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.186828,40.909426,-74.186828,40.909426",
     "geom:latitude":40.909426,
     "geom:longitude":-74.186828,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477819,
+        85633793,
+        85975481,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JairgpEAQiIke2MTV6pDk_40.909426_-74.186828@1303262265"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320059,
     "wof:geomhash":"9f3366469a0277972ddcf8fe71f26546",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
+            "region_id":85688607,
+            "venue_id":655769499
+        }
+    ],
     "wof:id":655769499,
-    "wof:lastmodified":1466686122,
+    "wof:lastmodified":1492058378,
     "wof:name":"AAA Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

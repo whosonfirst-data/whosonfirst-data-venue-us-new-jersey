@@ -2,9 +2,14 @@
   "id": 638905907,
   "type": "Feature",
   "properties": {
+    "addr:full":"352 Kingwood Stockton Rd Stockton NJ 08559",
+    "addr:housenumber":"352",
+    "addr:postcode":"08559",
+    "addr:street":"Kingwood Stockton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015421,40.465838,-75.015421,40.465838",
     "geom:latitude":40.465838,
     "geom:longitude":-75.015421,
@@ -28,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85831135,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hIoNR20MBlKIAaN9bnmIv_40.465838_-75.015421@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461282901,
     "wof:geomhash":"c154feef1153f0052c232e5d1f1dbef3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85831135,
+            "region_id":85688607,
+            "venue_id":638905907
+        }
+    ],
     "wof:id":638905907,
-    "wof:lastmodified":1466690200,
+    "wof:lastmodified":1492028458,
     "wof:name":"Haig Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

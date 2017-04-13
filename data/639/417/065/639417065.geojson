@@ -2,9 +2,14 @@
   "id": 639417065,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 State Rte 181 Lake Hopatcong NJ 07849",
+    "addr:housenumber":"125",
+    "addr:postcode":"07849",
+    "addr:street":"State Rte 181",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.610909,40.984766,-74.610909,40.984766",
     "geom:latitude":40.984766,
     "geom:longitude":-74.610909,
@@ -24,7 +29,10 @@
     "sg:postcode":"07849",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28YMGYwZ2YMh6APwhQQwI4_40.984766_-74.610909@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461294641,
     "wof:geomhash":"a80bea06d9d34424e898a3ce4a85c385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":639417065
+        }
+    ],
     "wof:id":639417065,
-    "wof:lastmodified":1466693116,
+    "wof:lastmodified":1492076174,
     "wof:name":"O'Sullivan's Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

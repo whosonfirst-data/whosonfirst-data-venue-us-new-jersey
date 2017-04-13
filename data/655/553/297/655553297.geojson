@@ -2,9 +2,14 @@
   "id": 655553297,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Nautilus Dr Leonardo NJ 07737",
+    "addr:housenumber":"25",
+    "addr:postcode":"07737",
+    "addr:street":"Nautilus Dr Leonardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061459,40.410661,-74.061459,40.410661",
     "geom:latitude":40.410661,
     "geom:longitude":-74.061459,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WH98ttfRFvM88BQh0EEGw_40.410661_-74.061459@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310954,
     "wof:geomhash":"d33bc89145598bc15487a3d30eaeb1a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655553297
+        }
+    ],
     "wof:id":655553297,
-    "wof:lastmodified":1466679489,
+    "wof:lastmodified":1492051984,
     "wof:name":"CJS Consulting",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

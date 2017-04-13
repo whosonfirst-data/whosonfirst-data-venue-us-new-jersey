@@ -2,9 +2,14 @@
   "id": 639557323,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Carnegie Center Princeton NJ 08540",
+    "addr:housenumber":"212",
+    "addr:postcode":"08540",
+    "addr:street":"Carnegie Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.646485,40.315469,-74.646485,40.315469",
     "geom:latitude":40.315469,
     "geom:longitude":-74.646485,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eYNNuIV2sM0EWIYwB197Z_40.315469_-74.646485@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461300032,
     "wof:geomhash":"e99e82358e95d449c46e2f3c74f3d1f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639557323
+        }
+    ],
     "wof:id":639557323,
-    "wof:lastmodified":1466695947,
+    "wof:lastmodified":1492023421,
     "wof:name":"Gmh Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

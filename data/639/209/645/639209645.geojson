@@ -2,9 +2,14 @@
   "id": 639209645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Swarthmore Ave Lakewood NJ 08701",
+    "addr:housenumber":"1805",
+    "addr:postcode":"08701",
+    "addr:street":"Swarthmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175647,40.079257,-74.175647,40.079257",
     "geom:latitude":40.079257,
     "geom:longitude":-74.175647,
@@ -27,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q1ArYWxW1s6FEqgB8n9OP_40.079257_-74.175647@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289894,
     "wof:geomhash":"d531ff81678259131c7d59c1fef68267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639209645
+        }
+    ],
     "wof:id":639209645,
-    "wof:lastmodified":1466689291,
+    "wof:lastmodified":1492020460,
     "wof:name":"Cucumber Communications",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

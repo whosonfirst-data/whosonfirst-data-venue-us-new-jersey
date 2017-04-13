@@ -2,9 +2,14 @@
   "id": 639235891,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N Main St Lanoka Harbor NJ 08734",
+    "addr:housenumber":"701",
+    "addr:postcode":"08734",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.171256,39.864539,-74.171256,39.864539",
     "geom:latitude":39.864539,
     "geom:longitude":-74.171256,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85809865,
-        102081485
+        85836071,
+        102081485,
+        85809865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102081485,
+            "neighbourhood_id":85836071,
+            "region_id":85688607,
+            "venue_id":639235891
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
             "neighbourhood_id":85809865,
             "region_id":85688607,
             "venue_id":639235891
         }
     ],
     "wof:id":639235891,
-    "wof:lastmodified":1466689981,
+    "wof:lastmodified":1492070231,
     "wof:name":"Wawa 794",
-    "wof:parent_id":85809865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

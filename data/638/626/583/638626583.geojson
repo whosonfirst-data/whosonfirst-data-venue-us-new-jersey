@@ -2,9 +2,14 @@
   "id": 638626583,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Wilfred Ave Titusville NJ 08560",
+    "addr:housenumber":"33",
+    "addr:postcode":"08560",
+    "addr:street":"Wilfred Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.86066,40.297543,-74.86066,40.297543",
     "geom:latitude":40.297543,
     "geom:longitude":-74.86066,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BIftZvLudbTzJIZLAYmUd_40.297543_-74.860660@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461275119,
     "wof:geomhash":"a735de1c17225d9d8563929a6be0abfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536911,
+            "venue_id":638626583
+        }
+    ],
     "wof:id":638626583,
-    "wof:lastmodified":1466673107,
+    "wof:lastmodified":1492052270,
     "wof:name":"Joseph M Jacobs Law Offices",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

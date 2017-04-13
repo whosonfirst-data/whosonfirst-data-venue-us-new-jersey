@@ -2,9 +2,14 @@
   "id": 655545509,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Toad Ln Ringoes NJ 08551",
+    "addr:housenumber":"22",
+    "addr:postcode":"08551",
+    "addr:street":"Toad Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.861095,40.444995,-74.861095,40.444995",
     "geom:latitude":40.444995,
     "geom:longitude":-74.861095,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jbEjN30tPBU3Raz5ZsIqo_40.444995_-74.861095@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461310633,
     "wof:geomhash":"893827aa931661cc58fe25be5a040148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527065,
+            "venue_id":655545509
+        }
+    ],
     "wof:id":655545509,
-    "wof:lastmodified":1466679359,
+    "wof:lastmodified":1492048316,
     "wof:name":"Flemington Heating & Cooling",
     "wof:parent_id":420527065,
     "wof:placetype":"venue",

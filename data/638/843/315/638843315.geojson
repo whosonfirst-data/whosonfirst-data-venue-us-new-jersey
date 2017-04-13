@@ -2,9 +2,14 @@
   "id": 638843315,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Dogwood Dr Howell NJ 07731",
+    "addr:housenumber":"29",
+    "addr:postcode":"07731",
+    "addr:street":"Dogwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269114,40.200898,-74.269114,40.200898",
     "geom:latitude":40.200898,
     "geom:longitude":-74.269114,
@@ -30,7 +35,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13tuQj7eg8nWnxuwP9g1zM_40.200898_-74.269114@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461281325,
     "wof:geomhash":"c8b8c2652cf5235cf6146832fde953a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":638843315
+        }
+    ],
     "wof:id":638843315,
-    "wof:lastmodified":1466689154,
+    "wof:lastmodified":1492053505,
     "wof:name":"Adaptive Tech Resources",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

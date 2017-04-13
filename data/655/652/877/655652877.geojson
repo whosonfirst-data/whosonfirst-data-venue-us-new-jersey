@@ -2,9 +2,14 @@
   "id": 655652877,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Main St Hampton NJ 08827",
+    "addr:housenumber":"202",
+    "addr:postcode":"08827",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.976064,40.61875,-74.976064,40.61875",
     "geom:latitude":40.61875,
     "geom:longitude":-74.976064,
@@ -24,7 +29,13 @@
     "sg:postcode":"08827",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478241,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05SjQ7uCpcJFGoS40XH3z9_40.618750_-74.976064@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461315295,
     "wof:geomhash":"e5c6b20e684be768fa84c1f122fec0c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478241,
+            "region_id":85688607,
+            "venue_id":655652877
+        }
+    ],
     "wof:id":655652877,
-    "wof:lastmodified":1466683048,
+    "wof:lastmodified":1492041838,
     "wof:name":"Plant Man Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

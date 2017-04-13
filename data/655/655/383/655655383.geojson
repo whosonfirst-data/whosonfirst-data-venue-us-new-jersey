@@ -2,9 +2,14 @@
   "id": 655655383,
   "type": "Feature",
   "properties": {
+    "addr:full":"922 Old Foundry Rd Newton NJ 07860",
+    "addr:housenumber":"922",
+    "addr:postcode":"07860",
+    "addr:street":"Old Foundry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.846084,41.089297,-74.846084,41.089297",
     "geom:latitude":41.089297,
     "geom:longitude":-74.846084,
@@ -29,7 +34,10 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1reLdIlDW22xHNgd9IA7M5_41.089297_-74.846084@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461315403,
     "wof:geomhash":"24aa7bd45dea64e44c1454a31a462457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655655383
+        }
+    ],
     "wof:id":655655383,
-    "wof:lastmodified":1466682970,
+    "wof:lastmodified":1492053569,
     "wof:name":"Waterboy",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

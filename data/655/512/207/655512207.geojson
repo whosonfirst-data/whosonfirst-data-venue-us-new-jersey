@@ -2,9 +2,14 @@
   "id": 655512207,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 US Hwy 206 Andover NJ 07821",
+    "addr:housenumber":"76",
+    "addr:postcode":"07821",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.739028,40.976629,-74.739028,40.976629",
     "geom:latitude":40.976629,
     "geom:longitude":-74.739028,
@@ -32,7 +37,10 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pXmUJtH7O2kmnoHUs34uA_40.976629_-74.739028@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461309380,
     "wof:geomhash":"d277ef9f09ee5929c00fb670495043ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":655512207
+        }
+    ],
     "wof:id":655512207,
-    "wof:lastmodified":1466678407,
+    "wof:lastmodified":1492047596,
     "wof:name":"Westby Corporation",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

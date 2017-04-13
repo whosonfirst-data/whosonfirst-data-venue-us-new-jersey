@@ -2,9 +2,14 @@
   "id": 655742765,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Valley St Vauxhall NJ 07088",
+    "addr:housenumber":"911",
+    "addr:postcode":"07088",
+    "addr:street":"Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2893,40.7196,-74.2893,40.7196",
     "geom:latitude":40.7196,
     "geom:longitude":-74.2893,
@@ -34,7 +39,10 @@
     ],
     "sg:website":"www.flyingarmbarjiujitsu.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ssi8XFFnIOfAitNBTsYRO_40.719600_-74.289300@1303262259"
@@ -42,11 +50,17 @@
     "wof:country":"US",
     "wof:created":1461319017,
     "wof:geomhash":"acfc5d1be2230aab6ef89e0b4a80a077",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742765
+        }
+    ],
     "wof:id":655742765,
-    "wof:lastmodified":1466685450,
+    "wof:lastmodified":1492057643,
     "wof:name":"Flying Arm Bar Jiu Jitsu",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

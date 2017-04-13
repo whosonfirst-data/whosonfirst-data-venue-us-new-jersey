@@ -2,9 +2,14 @@
   "id": 655396103,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Garden State Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"410",
+    "addr:postcode":"08002",
+    "addr:street":"Garden State Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.016577,39.93183,-75.016577,39.93183",
     "geom:latitude":39.93183,
     "geom:longitude":-75.016577,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ycTAABk3N27U16rZgO4iy_39.931830_-75.016577@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304467,
     "wof:geomhash":"3a177222ca9411068c5e89aa5b830495",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":655396103
+        }
+    ],
     "wof:id":655396103,
-    "wof:lastmodified":1466675233,
+    "wof:lastmodified":1492045012,
     "wof:name":"Garden State Group Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

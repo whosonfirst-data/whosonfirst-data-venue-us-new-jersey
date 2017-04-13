@@ -2,9 +2,14 @@
   "id": 639560949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1101",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314979,40.62784,-74.314979,40.62784",
     "geom:latitude":40.62784,
     "geom:longitude":-74.314979,
@@ -27,7 +32,13 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HOWCI3QZvkzfuGbqM9r63_40.627840_-74.314979@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300162,
     "wof:geomhash":"4860d4f93ab04df57858321c44ac972b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639560949
+        }
+    ],
     "wof:id":639560949,
-    "wof:lastmodified":1466696103,
+    "wof:lastmodified":1492049676,
     "wof:name":"Clinical Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

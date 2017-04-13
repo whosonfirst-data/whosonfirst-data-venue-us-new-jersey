@@ -2,9 +2,14 @@
   "id": 655595329,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Sycamore Ct Basking Ridge NJ 07920",
+    "addr:housenumber":"92",
+    "addr:postcode":"07920",
+    "addr:street":"Sycamore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5543,40.660559,-74.5543,40.660559",
     "geom:latitude":40.660559,
     "geom:longitude":-74.5543,
@@ -28,7 +33,13 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ITYo6eEqb4J96AHAZC4a1_40.660559_-74.554300@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312802,
     "wof:geomhash":"13785715dccca108bd972a7c7f36eb73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":655595329
+        }
+    ],
     "wof:id":655595329,
-    "wof:lastmodified":1466680819,
+    "wof:lastmodified":1492079155,
     "wof:name":"H RR Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

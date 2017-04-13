@@ -2,9 +2,14 @@
   "id": 655660623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1584 Saint Georges Ave Avenel NJ 07001",
+    "addr:housenumber":"1584",
+    "addr:postcode":"07001",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.290604,40.592098,-74.290604,40.592098",
     "geom:latitude":40.592098,
     "geom:longitude":-74.290604,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D0gcmZKbDULt1A8EB82kZ_40.591535_-74.290765@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315643,
     "wof:geomhash":"6ddc3a7743e9dccacdefb2c0f81d9cc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655660623
+        }
+    ],
     "wof:id":655660623,
-    "wof:lastmodified":1466683262,
+    "wof:lastmodified":1492023537,
     "wof:name":"Blimpie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

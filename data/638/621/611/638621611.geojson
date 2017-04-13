@@ -2,9 +2,14 @@
   "id": 638621611,
   "type": "Feature",
   "properties": {
+    "addr:full":"361 Mechlin Corner Rd Pittstown NJ 08867",
+    "addr:housenumber":"361",
+    "addr:postcode":"08867",
+    "addr:street":"Mechlin Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008214,40.581276,-75.008214,40.581276",
     "geom:latitude":40.581276,
     "geom:longitude":-75.008214,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UdVho9KsRgbmyhr5sswk3_40.581276_-75.008214@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461274956,
     "wof:geomhash":"d836249debb23eec9d2c070ec51e371e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":638621611
+        }
+    ],
     "wof:id":638621611,
-    "wof:lastmodified":1466672978,
+    "wof:lastmodified":1492062256,
     "wof:name":"Michael N Benolken Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

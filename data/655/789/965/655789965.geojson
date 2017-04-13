@@ -2,9 +2,14 @@
   "id": 655789965,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Mill St Newton NJ 07860",
+    "addr:housenumber":"64",
+    "addr:postcode":"07860",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755767,41.062419,-74.755767,41.062419",
     "geom:latitude":41.062419,
     "geom:longitude":-74.755767,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u3rOmXOnqSkjS7IgaJx7C_41.062419_-74.755767@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320976,
     "wof:geomhash":"383e2b32937a41fe2d52482f276ea848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789965
+        }
+    ],
     "wof:id":655789965,
-    "wof:lastmodified":1466686767,
+    "wof:lastmodified":1492052177,
     "wof:name":"Town Square Gardens",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

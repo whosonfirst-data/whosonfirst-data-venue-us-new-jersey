@@ -2,9 +2,14 @@
   "id": 638735065,
   "type": "Feature",
   "properties": {
+    "addr:full":"356 Lafayette Rd Sparta NJ 07871",
+    "addr:housenumber":"356",
+    "addr:postcode":"07871",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.651997,41.066517,-74.651997,41.066517",
     "geom:latitude":41.066517,
     "geom:longitude":-74.651997,
@@ -28,7 +33,10 @@
         "burner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rsMfqU1U2dLKkf5GkJqHe_41.066517_-74.651997@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461278622,
     "wof:geomhash":"b91bc8219eca3ddcbd80249d35a3094b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527665,
+            "venue_id":638735065
+        }
+    ],
     "wof:id":638735065,
-    "wof:lastmodified":1466676188,
+    "wof:lastmodified":1492027675,
     "wof:name":"Fredericks Fuel & Heating Svc",
     "wof:parent_id":420527665,
     "wof:placetype":"venue",

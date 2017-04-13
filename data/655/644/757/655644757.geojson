@@ -2,9 +2,14 @@
   "id": 655644757,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Marshall St Phillipsburg NJ 08865",
+    "addr:housenumber":"321",
+    "addr:postcode":"08865",
+    "addr:street":"Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.185231,40.693546,-75.185231,40.693546",
     "geom:latitude":40.693546,
     "geom:longitude":-75.185231,
@@ -27,7 +32,14 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yUCq38nGy4CdjkYWouVPf_40.693546_-75.185231@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314962,
     "wof:geomhash":"b2b703bb8b6776894021acd5a08b5ca8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655644757
+        }
+    ],
     "wof:id":655644757,
-    "wof:lastmodified":1466682695,
+    "wof:lastmodified":1492023728,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

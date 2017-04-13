@@ -2,9 +2,14 @@
   "id": 655828187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6227 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6227",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057404,39.963799,-75.057404,39.963799",
     "geom:latitude":39.963799,
     "geom:longitude":-75.057404,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FjBNpGiKcqa6sBbrV52ri_39.963799_-75.057404@1303262280"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322570,
     "wof:geomhash":"a7effcf979a2c7ff5a8d610b8b0302b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828187
+        }
+    ],
     "wof:id":655828187,
-    "wof:lastmodified":1466687597,
+    "wof:lastmodified":1492027532,
     "wof:name":"Dominic's Pizza Express",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

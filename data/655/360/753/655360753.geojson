@@ -2,9 +2,14 @@
   "id": 655360753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3611 River Rd Pennsauken NJ 08110",
+    "addr:housenumber":"3611",
+    "addr:postcode":"08110",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.082443,39.962118,-75.082443,39.962118",
     "geom:latitude":39.962118,
     "geom:longitude":-75.082443,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DCSodtLX6wVO4IuivTvOY_39.962118_-75.082443@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303034,
     "wof:geomhash":"e1cff4435a4ef5ec1afb06e835050104",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655360753
+        }
+    ],
     "wof:id":655360753,
-    "wof:lastmodified":1466674573,
+    "wof:lastmodified":1492029381,
     "wof:name":"Shell Food Mart",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

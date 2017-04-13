@@ -2,9 +2,14 @@
   "id": 639563181,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Maple Ave Fair Lawn NJ 07410",
+    "addr:housenumber":"7",
+    "addr:postcode":"07410",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.140611,40.942985,-74.140611,40.942985",
     "geom:latitude":40.942985,
     "geom:longitude":-74.140611,
@@ -30,7 +35,14 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XQzBDqeM07Gr0O3FSd0Xe_40.942985_-74.140611@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461300244,
     "wof:geomhash":"3551403dc481b30737b0bd44da02beb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639563181
+        }
+    ],
     "wof:id":639563181,
-    "wof:lastmodified":1466696097,
+    "wof:lastmodified":1492024072,
     "wof:name":"Act Data Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

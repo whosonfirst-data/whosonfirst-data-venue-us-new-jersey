@@ -2,9 +2,14 @@
   "id": 639138653,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Stiles Rd Warren NJ 07059",
+    "addr:housenumber":"32",
+    "addr:postcode":"07059",
+    "addr:street":"Stiles Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.468678,40.644935,-74.468678,40.644935",
     "geom:latitude":40.644935,
     "geom:longitude":-74.468678,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85820635,
+        102191575,
+        404478449,
         85633793,
         85975495,
         102085045,
-        85820635
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"02c7fd5f10fdbc50b0128792217ffac7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085045,
+            "localadmin_id":404478449,
             "locality_id":85975495,
             "neighbourhood_id":85820635,
             "region_id":85688607,
@@ -53,9 +62,9 @@
         }
     ],
     "wof:id":639138653,
-    "wof:lastmodified":1466679547,
+    "wof:lastmodified":1492076863,
     "wof:name":"Intex Painting Inc",
-    "wof:parent_id":85820635,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

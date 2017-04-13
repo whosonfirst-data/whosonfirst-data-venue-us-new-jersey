@@ -2,9 +2,14 @@
   "id": 655431583,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Houses Corner Rd Sparta NJ 07871",
+    "addr:housenumber":"250",
+    "addr:postcode":"07871",
+    "addr:street":"Houses Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.655185,41.071641,-74.655185,41.071641",
     "geom:latitude":41.071641,
     "geom:longitude":-74.655185,
@@ -30,7 +35,16 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527665,
+        85849915,
+        102191575,
+        404478473,
+        85975709,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IAP4o1qU0zaMSwl6QW83W_41.071641_-74.655185@1294171694"
@@ -38,11 +52,27 @@
     "wof:country":"US",
     "wof:created":1461305966,
     "wof:geomhash":"68659ed0a0ced51ef43c6c22060f5099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527665,
+            "venue_id":655431583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478473,
+            "locality_id":85975709,
+            "neighbourhood_id":85849915,
+            "region_id":85688607,
+            "venue_id":655431583
+        }
+    ],
     "wof:id":655431583,
-    "wof:lastmodified":1466676392,
+    "wof:lastmodified":1492047566,
     "wof:name":"Vista Energy Systems Inc",
-    "wof:parent_id":420527665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

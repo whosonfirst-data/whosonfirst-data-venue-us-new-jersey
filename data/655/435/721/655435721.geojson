@@ -2,9 +2,14 @@
   "id": 655435721,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Leonia Ave Leonia NJ 07605",
+    "addr:housenumber":"101",
+    "addr:postcode":"07605",
+    "addr:street":"Leonia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99041,40.863174,-73.99041,40.863174",
     "geom:latitude":40.863174,
     "geom:longitude":-73.99041,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85830809,
+        102191575,
+        404477537,
         85633793,
-        85892521,
-        102086773
+        85975869,
+        102086773,
+        85688607,
+        85892521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"65452e46f0a68ba72bf8766b00c05272",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477537,
+            "locality_id":85975869,
+            "neighbourhood_id":85830809,
+            "region_id":85688607,
+            "venue_id":655435721
+        },
+        {
             "country_id":85633793,
             "county_id":102086773,
             "neighbourhood_id":85892521,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":655435721,
-    "wof:lastmodified":1466676438,
+    "wof:lastmodified":1492051445,
     "wof:name":"New Jersey Lions Dist 16a",
-    "wof:parent_id":85892521,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

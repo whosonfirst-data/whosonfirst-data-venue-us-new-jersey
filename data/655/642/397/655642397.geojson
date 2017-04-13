@@ -2,9 +2,14 @@
   "id": 655642397,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Edward Dr Franklin Park NJ 08823",
+    "addr:housenumber":"120",
+    "addr:postcode":"08823",
+    "addr:street":"Edward Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.554465,40.437098,-74.554465,40.437098",
     "geom:latitude":40.437098,
     "geom:longitude":-74.554465,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sXX1rnM9wXSh1O0xx4DEW_40.437098_-74.554465@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314861,
     "wof:geomhash":"41c17dd19ffea4d5827ceafc821fd26c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":655642397
+        }
+    ],
     "wof:id":655642397,
-    "wof:lastmodified":1466682507,
+    "wof:lastmodified":1492070333,
     "wof:name":"Lombardi's Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

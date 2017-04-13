@@ -2,9 +2,14 @@
   "id": 639491557,
   "type": "Feature",
   "properties": {
+    "addr:full":"673 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"673",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987017,40.827103,-73.987017,40.827103",
     "geom:latitude":40.827103,
     "geom:longitude":-73.987017,
@@ -24,7 +29,14 @@
     "sg:postcode":"07010",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ffFqvCFroEdd5W3PhtRSx_40.827103_-73.987017@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297082,
     "wof:geomhash":"c3dc32146b66d1ce58ef407bb98c3bee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639491557
+        }
+    ],
     "wof:id":639491557,
-    "wof:lastmodified":1466694572,
+    "wof:lastmodified":1492064766,
     "wof:name":"AJS Pharmacy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638799695,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Longfellow St Carteret NJ 07008",
+    "addr:housenumber":"115",
+    "addr:postcode":"07008",
+    "addr:street":"Longfellow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223182,40.579587,-74.223182,40.579587",
     "geom:latitude":40.579587,
     "geom:longitude":-74.223182,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zpMRto2riTaBILr5KMQML_40.579587_-74.223182@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280219,
     "wof:geomhash":"ab37a149562a0aedf290120159ef63b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":638799695
+        }
+    ],
     "wof:id":638799695,
-    "wof:lastmodified":1466685515,
+    "wof:lastmodified":1492025520,
     "wof:name":"Bazan Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

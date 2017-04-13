@@ -2,9 +2,14 @@
   "id": 655812755,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Campbell Dr Willingboro NJ 08046",
+    "addr:housenumber":"200",
+    "addr:postcode":"08046",
+    "addr:street":"Campbell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888008,40.05542,-74.888008,40.05542",
     "geom:latitude":40.05542,
     "geom:longitude":-74.888008,
@@ -38,7 +43,10 @@
     ],
     "sg:website":"http://www.checkers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ShjNnnGplPNjiIaOrYxG8_40.055420_-74.888008@1303262276"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461321929,
     "wof:geomhash":"71b917eae5128b8c10f3c1146a07d477",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655812755
+        }
+    ],
     "wof:id":655812755,
-    "wof:lastmodified":1466687262,
+    "wof:lastmodified":1492049202,
     "wof:name":"Checkers Drive In",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

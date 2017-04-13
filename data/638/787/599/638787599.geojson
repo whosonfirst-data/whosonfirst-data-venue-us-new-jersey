@@ -2,9 +2,14 @@
   "id": 638787599,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 US Hwy 130 Riverton NJ 08077",
+    "addr:housenumber":"2502",
+    "addr:postcode":"08077",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.974261,40.006638,-74.974261,40.006638",
     "geom:latitude":40.006638,
     "geom:longitude":-74.974261,
@@ -30,7 +35,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kJJOZtji1cJW8dQgLpkAC_40.006638_-74.974261@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461279963,
     "wof:geomhash":"05089ee4a8d251b9b5ffc423622c6914",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":638787599
+        }
+    ],
     "wof:id":638787599,
-    "wof:lastmodified":1466684017,
+    "wof:lastmodified":1492025863,
     "wof:name":"Liberty Truck Equipment",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

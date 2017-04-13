@@ -2,9 +2,14 @@
   "id": 655450747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Red Rd Chatham NJ 07928",
+    "addr:housenumber":"1",
+    "addr:postcode":"07928",
+    "addr:street":"Red Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.384214,40.736908,-74.384214,40.736908",
     "geom:latitude":40.736908,
     "geom:longitude":-74.384214,
@@ -28,7 +33,15 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85821915,
+        102191575,
+        404478299,
+        85633793,
+        85975567,
+        102087413,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yOUu2ZDNNJeYdBZaDf8gV_40.736908_-74.384214@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461306728,
     "wof:geomhash":"c60c9eea2bc6f708a63390580b4769fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478299,
+            "locality_id":85975567,
+            "neighbourhood_id":85821915,
+            "region_id":85688607,
+            "venue_id":655450747
+        }
+    ],
     "wof:id":655450747,
-    "wof:lastmodified":1466676950,
+    "wof:lastmodified":1492025348,
     "wof:name":"Clear View Cinemas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

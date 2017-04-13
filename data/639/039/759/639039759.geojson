@@ -2,9 +2,14 @@
   "id": 639039759,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 N Tulane St Princeton NJ 08542",
+    "addr:housenumber":"42",
+    "addr:postcode":"08542",
+    "addr:street":"N Tulane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.659218,40.351965,-74.659218,40.351965",
     "geom:latitude":40.351965,
     "geom:longitude":-74.659218,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yquW3ltvDH4Tg0sbH2U3O_40.351965_-74.659218@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286040,
     "wof:geomhash":"de402bcef61b265e09e2aeef644cacee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639039759
+        }
+    ],
     "wof:id":639039759,
-    "wof:lastmodified":1466674038,
+    "wof:lastmodified":1492049185,
     "wof:name":"Marvin Leifer MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

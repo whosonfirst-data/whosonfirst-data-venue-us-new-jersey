@@ -2,9 +2,14 @@
   "id": 639153947,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Nathan Dr Towaco NJ 07082",
+    "addr:housenumber":"14",
+    "addr:postcode":"07082",
+    "addr:street":"Nathan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34694,40.91297,-74.34694,40.91297",
     "geom:latitude":40.91297,
     "geom:longitude":-74.34694,
@@ -24,7 +29,13 @@
     "sg:postcode":"07082",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40bSpDlIbn6WbTL39hk215_40.912970_-74.346940@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461288614,
     "wof:geomhash":"887496f188a2864584bd333f4435a9c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":639153947
+        }
+    ],
     "wof:id":639153947,
-    "wof:lastmodified":1466681939,
+    "wof:lastmodified":1492030615,
     "wof:name":"Sb Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

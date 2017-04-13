@@ -2,9 +2,14 @@
   "id": 655613745,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"115",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.53234,40.561669,-74.53234,40.561669",
     "geom:latitude":40.561669,
     "geom:longitude":-74.53234,
@@ -27,7 +32,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79i4YuoWngh98l2jRi3tcQ_40.561669_-74.532340@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313593,
     "wof:geomhash":"198e0b0f4cecdd2f0273987b32dc83c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655613745
+        }
+    ],
     "wof:id":655613745,
-    "wof:lastmodified":1466681654,
+    "wof:lastmodified":1492021469,
     "wof:name":"Quick In Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

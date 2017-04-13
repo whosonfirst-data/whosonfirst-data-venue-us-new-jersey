@@ -2,9 +2,14 @@
   "id": 638893703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Legion Pl North Arlington NJ 07031",
+    "addr:housenumber":"1",
+    "addr:postcode":"07031",
+    "addr:street":"Legion Pl North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131835,40.787727,-74.131835,40.787727",
     "geom:latitude":40.787727,
     "geom:longitude":-74.131835,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YyJnAGV0JE6KbvzEGOnzp_40.787727_-74.131835@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282585,
     "wof:geomhash":"727866a3f2fa7787707f379de158e470",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":638893703
+        }
+    ],
     "wof:id":638893703,
-    "wof:lastmodified":1466690057,
+    "wof:lastmodified":1492054433,
     "wof:name":"Boro Of North Arlington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639567789,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Summit Rd Florham Park NJ 07932",
+    "addr:housenumber":"157",
+    "addr:postcode":"07932",
+    "addr:street":"Summit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.374977,40.778345,-74.374977,40.778345",
     "geom:latitude":40.778345,
     "geom:longitude":-74.374977,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FOMiNxprJC6WXu9TYge3H_40.778345_-74.374977@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461300419,
     "wof:geomhash":"34dc630224aae5a55bafde4fdf2c4289",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639567789
+        }
+    ],
     "wof:id":639567789,
-    "wof:lastmodified":1466696279,
+    "wof:lastmodified":1492051167,
     "wof:name":"Vailsberg Trucking & Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

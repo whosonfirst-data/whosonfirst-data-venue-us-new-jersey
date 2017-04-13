@@ -2,9 +2,14 @@
   "id": 655583777,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Stratton Dr Howell NJ 07731",
+    "addr:housenumber":"10",
+    "addr:postcode":"07731",
+    "addr:street":"Stratton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.204037,40.142796,-74.204037,40.142796",
     "geom:latitude":40.142796,
     "geom:longitude":-74.204037,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kZb3OWY6bFDw7edWXXE1o_40.142796_-74.204037@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312327,
     "wof:geomhash":"3aec7693aa9b362596130a4f32aeb27d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":655583777
+        }
+    ],
     "wof:id":655583777,
-    "wof:lastmodified":1466680539,
+    "wof:lastmodified":1492080218,
     "wof:name":"J B & Sons Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

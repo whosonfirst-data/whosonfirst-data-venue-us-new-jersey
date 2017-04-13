@@ -2,9 +2,14 @@
   "id": 639010037,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 W Oakland Ave Oakland NJ 07436",
+    "addr:housenumber":"403",
+    "addr:postcode":"07436",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267551,41.016829,-74.267551,41.016829",
     "geom:latitude":41.016829,
     "geom:longitude":-74.267551,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JwKa3RVx4ZUq6SWlRm31I_41.016829_-74.267551@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285320,
     "wof:geomhash":"ba781f7a48891c5db9b03b9159e3e7a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639010037
+        }
+    ],
     "wof:id":639010037,
-    "wof:lastmodified":1466673187,
+    "wof:lastmodified":1492054516,
     "wof:name":"Chief Truck Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

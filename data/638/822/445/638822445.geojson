@@ -2,9 +2,14 @@
   "id": 638822445,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Mustang Trl Somerset NJ 08873",
+    "addr:housenumber":"46",
+    "addr:postcode":"08873",
+    "addr:street":"Mustang Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.513404,40.460202,-74.513404,40.460202",
     "geom:latitude":40.460202,
     "geom:longitude":-74.513404,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976119,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hlpBIkSX78ugU5HHStH3K_40.460202_-74.513404@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280790,
     "wof:geomhash":"26153079ea8c1c6688d30ff3e093a15e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976119,
+            "region_id":85688607,
+            "venue_id":638822445
+        }
+    ],
     "wof:id":638822445,
-    "wof:lastmodified":1466688443,
+    "wof:lastmodified":1492028391,
     "wof:name":"Amtox Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

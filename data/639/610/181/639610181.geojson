@@ -2,9 +2,14 @@
   "id": 639610181,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Downing St Cherry Hill NJ 08003",
+    "addr:housenumber":"18",
+    "addr:postcode":"08003",
+    "addr:street":"Downing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.935074,39.887123,-74.935074,39.887123",
     "geom:latitude":39.887123,
     "geom:longitude":-74.935074,
@@ -24,7 +29,14 @@
     "sg:postcode":"08003",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hZeVDa9LsqI5sSPKIFhIr_39.887123_-74.935074@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461302112,
     "wof:geomhash":"37944d0908c26ea3acffa9b170e38b8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":639610181
+        }
+    ],
     "wof:id":639610181,
-    "wof:lastmodified":1466696890,
+    "wof:lastmodified":1492048464,
     "wof:name":"SOS Dogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

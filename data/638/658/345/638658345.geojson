@@ -2,9 +2,14 @@
   "id": 638658345,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Shady Brook Ln Princeton NJ 08540",
+    "addr:housenumber":"148",
+    "addr:postcode":"08540",
+    "addr:street":"Shady Brook Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.630109,40.370289,-74.630109,40.370289",
     "geom:latitude":40.370289,
     "geom:longitude":-74.630109,
@@ -28,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iJ36DwTolJMnj5BBQs8Rr_40.370289_-74.630109@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461276052,
     "wof:geomhash":"3bc09f8c6c13b39c65d08c0e51954669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":638658345
+        }
+    ],
     "wof:id":638658345,
-    "wof:lastmodified":1466674028,
+    "wof:lastmodified":1492083436,
     "wof:name":"Margaret Davis Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

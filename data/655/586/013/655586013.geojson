@@ -2,9 +2,14 @@
   "id": 655586013,
   "type": "Feature",
   "properties": {
+    "addr:full":"934 Potters Rd Newton NJ 07860",
+    "addr:housenumber":"934",
+    "addr:postcode":"07860",
+    "addr:street":"Potters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.856686,41.044181,-74.856686,41.044181",
     "geom:latitude":41.044181,
     "geom:longitude":-74.856686,
@@ -29,7 +34,10 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qwRmXFd7SjY7MVxYTFEaF_41.044181_-74.856686@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461312431,
     "wof:geomhash":"0a23ce147ea2b3a4bc78c522b1d5ddca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655586013
+        }
+    ],
     "wof:id":655586013,
-    "wof:lastmodified":1466680366,
+    "wof:lastmodified":1492023701,
     "wof:name":"Center Interior Svc",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

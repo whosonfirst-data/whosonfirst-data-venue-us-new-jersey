@@ -2,9 +2,14 @@
   "id": 639281019,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Blackberry Ln White House Station NJ 08889",
+    "addr:housenumber":"4",
+    "addr:postcode":"08889",
+    "addr:street":"Blackberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.725102,40.586251,-74.725102,40.586251",
     "geom:latitude":40.586251,
     "geom:longitude":-74.725102,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y1GlpOUYBcmvPsTio5xuA_40.586251_-74.725102@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461291568,
     "wof:geomhash":"b0b26467718d758d710b6bf1ce171f55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639281019
+        }
+    ],
     "wof:id":639281019,
-    "wof:lastmodified":1466690815,
+    "wof:lastmodified":1492042303,
     "wof:name":"Hangin With Style Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

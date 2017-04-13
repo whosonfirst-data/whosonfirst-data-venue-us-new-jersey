@@ -2,9 +2,14 @@
   "id": 638773793,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Willow Dr Edison NJ 08820",
+    "addr:housenumber":"8",
+    "addr:postcode":"08820",
+    "addr:street":"Willow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.353485,40.570262,-74.353485,40.570262",
     "geom:latitude":40.570262,
     "geom:longitude":-74.353485,
@@ -27,7 +32,10 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0enGIQRrTmyRbJcfypnCPe_40.570262_-74.353485@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279645,
     "wof:geomhash":"d56b11bc9d0256b85475df3fa1900e50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":638773793
+        }
+    ],
     "wof:id":638773793,
-    "wof:lastmodified":1466681766,
+    "wof:lastmodified":1492023684,
     "wof:name":"Prestige Design",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

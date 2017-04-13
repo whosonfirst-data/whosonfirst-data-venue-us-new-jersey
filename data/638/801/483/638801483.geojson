@@ -2,9 +2,14 @@
   "id": 638801483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1970 Rutgers Blvd Lakewood NJ 08701",
+    "addr:housenumber":"1970",
+    "addr:postcode":"08701",
+    "addr:street":"Rutgers Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.16193,40.071008,-74.16193,40.071008",
     "geom:latitude":40.071008,
     "geom:longitude":-74.16193,
@@ -28,7 +33,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jltBAA76nKCr5iLuCb1Id_40.071008_-74.161930@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280264,
     "wof:geomhash":"44354a0421e77e779c5ae81b15e65f4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":638801483
+        }
+    ],
     "wof:id":638801483,
-    "wof:lastmodified":1466685785,
+    "wof:lastmodified":1492053277,
     "wof:name":"Linac Systems Inc",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

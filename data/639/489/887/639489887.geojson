@@ -2,9 +2,14 @@
   "id": 639489887,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Manley Ter Maplewood NJ 07040",
+    "addr:housenumber":"26",
+    "addr:postcode":"07040",
+    "addr:street":"Manley Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.278669,40.720335,-74.278669,40.720335",
     "geom:latitude":40.720335,
     "geom:longitude":-74.278669,
@@ -24,7 +29,12 @@
     "sg:postcode":"07040",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892411,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xalBBGa2UcJdhJovitPPO_40.720335_-74.278669@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461297023,
     "wof:geomhash":"1e28a6560a74442ebdf893b95d926558",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892411,
+            "region_id":85688607,
+            "venue_id":639489887
+        }
+    ],
     "wof:id":639489887,
-    "wof:lastmodified":1466694594,
+    "wof:lastmodified":1492076782,
     "wof:name":"Nancy Rosen Wall Art Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

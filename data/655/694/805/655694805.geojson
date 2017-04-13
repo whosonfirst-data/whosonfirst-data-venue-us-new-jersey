@@ -2,9 +2,14 @@
   "id": 655694805,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Renaissance Blvd North Brunswick NJ 08902",
+    "addr:housenumber":"428",
+    "addr:postcode":"08902",
+    "addr:street":"Renaissance Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.488757,40.435478,-74.488757,40.435478",
     "geom:latitude":40.435478,
     "geom:longitude":-74.488757,
@@ -30,7 +35,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16o1JMKlXSK3YlXYt3LYii_40.435478_-74.488757@1299784598"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461317079,
     "wof:geomhash":"6c3c750f741d1b75f12cab3048ea4c22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655694805
+        }
+    ],
     "wof:id":655694805,
-    "wof:lastmodified":1466684201,
+    "wof:lastmodified":1492070335,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

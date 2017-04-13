@@ -2,9 +2,14 @@
   "id": 655420225,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Jeremy Dr Dayton NJ 08810",
+    "addr:housenumber":"32",
+    "addr:postcode":"08810",
+    "addr:street":"Jeremy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.527026,40.37973,-74.527026,40.37973",
     "geom:latitude":40.37973,
     "geom:longitude":-74.527026,
@@ -28,7 +33,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28YUezL2L0XhQ7fkDhm7pM_40.379730_-74.527026@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305480,
     "wof:geomhash":"887d5c588227fefd50c2477f2038a2d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655420225
+        }
+    ],
     "wof:id":655420225,
-    "wof:lastmodified":1466676029,
+    "wof:lastmodified":1492029464,
     "wof:name":"Oborne Enterprises",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

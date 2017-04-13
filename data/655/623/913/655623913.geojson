@@ -2,9 +2,14 @@
   "id": 655623913,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 South Ln Princeton Junction NJ 08550",
+    "addr:housenumber":"166",
+    "addr:postcode":"08550",
+    "addr:street":"South Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.597181,40.251982,-74.597181,40.251982",
     "geom:latitude":40.251982,
     "geom:longitude":-74.597181,
@@ -24,7 +29,13 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FJrjQeIdsdHFOOGjHTM1u_40.251982_-74.597181@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461314062,
     "wof:geomhash":"bdcff026bc914a2beccabc9e13674f9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655623913
+        }
+    ],
     "wof:id":655623913,
-    "wof:lastmodified":1466682008,
+    "wof:lastmodified":1492057361,
     "wof:name":"Expert Clock Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

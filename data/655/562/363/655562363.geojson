@@ -2,9 +2,14 @@
   "id": 655562363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1159 Cambridge Ln Bridgewater NJ 08807",
+    "addr:housenumber":"1159",
+    "addr:postcode":"08807",
+    "addr:street":"Cambridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620716,40.632788,-74.620716,40.632788",
     "geom:latitude":40.632788,
     "geom:longitude":-74.620716,
@@ -27,7 +32,14 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oe9xoBVki6wef5qh3Zw1Y_40.632788_-74.620716@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311379,
     "wof:geomhash":"4f6c5fe27c73a312626dedbbea59a5b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":655562363
+        }
+    ],
     "wof:id":655562363,
-    "wof:lastmodified":1466679769,
+    "wof:lastmodified":1492051701,
     "wof:name":"Somerset County Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

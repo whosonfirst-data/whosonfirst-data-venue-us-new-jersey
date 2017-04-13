@@ -2,9 +2,14 @@
   "id": 639282035,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Commerce St Chatham NJ 07928",
+    "addr:housenumber":"38",
+    "addr:postcode":"07928",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.380823,40.730513,-74.380823,40.730513",
     "geom:latitude":40.730513,
     "geom:longitude":-74.380823,
@@ -31,7 +36,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478299,
+        85633793,
+        85975567,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_752PPFPsATn7bcvHObQJBB_40.730513_-74.380823@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461291591,
     "wof:geomhash":"d0b86cd06ff56f4a6bc213f8ae0fb73e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478299,
+            "locality_id":85975567,
+            "region_id":85688607,
+            "venue_id":639282035
+        }
+    ],
     "wof:id":639282035,
-    "wof:lastmodified":1466690958,
+    "wof:lastmodified":1492057639,
     "wof:name":"Supreme Welding & Fabg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638957705,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Countryside Dr Basking Ridge NJ 07920",
+    "addr:housenumber":"82",
+    "addr:postcode":"07920",
+    "addr:street":"Countryside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.572023,40.701594,-74.572023,40.701594",
     "geom:latitude":40.701594,
     "geom:longitude":-74.572023,
@@ -28,7 +33,13 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vGSox9Piw4AhyQI25kqDo_40.701594_-74.572023@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461284200,
     "wof:geomhash":"3eaf4b6a9c96eadcc1a5deb965ed3960",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":638957705
+        }
+    ],
     "wof:id":638957705,
-    "wof:lastmodified":1466691519,
+    "wof:lastmodified":1492026320,
     "wof:name":"Paul Pruss & LLC Daughter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

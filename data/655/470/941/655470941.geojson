@@ -2,9 +2,14 @@
   "id": 655470941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Brick Yard Rd Cranbury NJ 08512",
+    "addr:housenumber":"2",
+    "addr:postcode":"08512",
+    "addr:street":"Brick Yard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.512827,40.289632,-74.512827,40.289632",
     "geom:latitude":40.289632,
     "geom:longitude":-74.512827,
@@ -24,7 +29,12 @@
     "sg:postcode":"08512",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85843213,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z5fTXstJ1BGX7SPZYGxSt_40.289632_-74.512827@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461307641,
     "wof:geomhash":"39945406ba92234c0063ec08a59a8927",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85843213,
+            "region_id":85688607,
+            "venue_id":655470941
+        }
+    ],
     "wof:id":655470941,
-    "wof:lastmodified":1466677537,
+    "wof:lastmodified":1492053510,
     "wof:name":"AB & C Computers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

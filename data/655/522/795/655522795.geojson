@@ -2,9 +2,14 @@
   "id": 655522795,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Kenneth Ave Fair Lawn NJ 07410",
+    "addr:housenumber":"33",
+    "addr:postcode":"07410",
+    "addr:street":"Kenneth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.121225,40.923032,-74.121225,40.923032",
     "geom:latitude":40.923032,
     "geom:longitude":-74.121225,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GGZU1g19EcU5HfuHknljz_40.923032_-74.121225@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309777,
     "wof:geomhash":"22e25dbece32be0add096c86ceca75ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":655522795
+        }
+    ],
     "wof:id":655522795,
-    "wof:lastmodified":1466678830,
+    "wof:lastmodified":1492021254,
     "wof:name":"Workstation Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

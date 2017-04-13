@@ -2,9 +2,14 @@
   "id": 639480095,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Holmes Mill Rd Cream Ridge NJ 08514",
+    "addr:housenumber":"35",
+    "addr:postcode":"08514",
+    "addr:street":"Holmes Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535342,40.098048,-74.535342,40.098048",
     "geom:latitude":40.098048,
     "geom:longitude":-74.535342,
@@ -30,7 +35,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478401,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PolGzlkvrfR5kWfseurUg_40.098048_-74.535342@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461296616,
     "wof:geomhash":"4121d13fc717bceff0d08ee5ba4a7591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478401,
+            "region_id":85688607,
+            "venue_id":639480095
+        }
+    ],
     "wof:id":639480095,
-    "wof:lastmodified":1466694310,
+    "wof:lastmodified":1492064887,
     "wof:name":"Bennett Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

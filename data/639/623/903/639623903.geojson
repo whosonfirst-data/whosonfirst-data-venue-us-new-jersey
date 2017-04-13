@@ -2,9 +2,14 @@
   "id": 639623903,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Post Rd Clark NJ 07066",
+    "addr:housenumber":"33",
+    "addr:postcode":"07066",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307018,40.614698,-74.307018,40.614698",
     "geom:latitude":40.614698,
     "geom:longitude":-74.307018,
@@ -27,7 +32,13 @@
         "e"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42clzU57NvwxGOVqoQVW6T_40.614698_-74.307018@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461302640,
     "wof:geomhash":"e6fe50c5c311655cec3bc8aa37b6a695",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639623903
+        }
+    ],
     "wof:id":639623903,
-    "wof:lastmodified":1466697473,
+    "wof:lastmodified":1492076774,
     "wof:name":"E-Rentail Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

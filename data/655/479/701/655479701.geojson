@@ -2,9 +2,14 @@
   "id": 655479701,
   "type": "Feature",
   "properties": {
+    "addr:full":"852 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"852",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134167,40.803125,-74.134167,40.803125",
     "geom:latitude":40.803125,
     "geom:longitude":-74.134167,
@@ -27,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vGjKMTcTV5Cyibf1pFbzS_40.803125_-74.134167@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308002,
     "wof:geomhash":"1d1fad7ca8658115369b9d4abdb41505",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655479701
+        }
+    ],
     "wof:id":655479701,
-    "wof:lastmodified":1466677739,
+    "wof:lastmodified":1492053252,
     "wof:name":"M Soofi Gas Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

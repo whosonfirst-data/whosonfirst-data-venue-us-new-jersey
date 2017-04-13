@@ -2,9 +2,14 @@
   "id": 639358967,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Rosewood Ter Trenton NJ 08620",
+    "addr:housenumber":"8",
+    "addr:postcode":"08620",
+    "addr:street":"Rosewood Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.604211,40.149052,-74.604211,40.149052",
     "geom:latitude":40.149052,
     "geom:longitude":-74.604211,
@@ -27,7 +32,13 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EN9dwpDWVDBS4pF16PYKj_40.149052_-74.604211@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293211,
     "wof:geomhash":"a82d6b5ceb00805837f03898d33a31df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":639358967
+        }
+    ],
     "wof:id":639358967,
-    "wof:lastmodified":1466692541,
+    "wof:lastmodified":1492047613,
     "wof:name":"After Hours Limousine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

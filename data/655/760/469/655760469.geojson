@@ -2,9 +2,14 @@
   "id": 655760469,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Main St Bloomingdale NJ 07403",
+    "addr:housenumber":"133",
+    "addr:postcode":"07403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.330635,41.003199,-74.330635,41.003199",
     "geom:latitude":41.003199,
     "geom:longitude":-74.330635,
@@ -24,7 +29,14 @@
     "sg:postcode":"07403",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tpyexKMjii1i2u5oqYoZw_41.003199_-74.330635@1303262263"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319668,
     "wof:geomhash":"091ca8156f580b1217bf8dadd427550a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760469
+        }
+    ],
     "wof:id":655760469,
-    "wof:lastmodified":1466685857,
+    "wof:lastmodified":1492076216,
     "wof:name":"Blooming's Nail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

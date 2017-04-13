@@ -2,9 +2,14 @@
   "id": 655690173,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 State Route 35 Keyport NJ 07735",
+    "addr:housenumber":"300",
+    "addr:postcode":"07735",
+    "addr:street":"State Route 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225011,40.439175,-74.225011,40.439175",
     "geom:latitude":40.439175,
     "geom:longitude":-74.225011,
@@ -28,7 +33,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xdfOM6gPENZbWf51lL8jz_40.439175_-74.225011@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316870,
     "wof:geomhash":"850b15408065d480bdae6508129189d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":655690173
+        }
+    ],
     "wof:id":655690173,
-    "wof:lastmodified":1466683951,
+    "wof:lastmodified":1492048260,
     "wof:name":"Romeo's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

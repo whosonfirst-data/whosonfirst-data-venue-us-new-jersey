@@ -2,9 +2,14 @@
   "id": 655363293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"1005",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.877023,40.049049,-74.877023,40.049049",
     "geom:latitude":40.049049,
     "geom:longitude":-74.877023,
@@ -28,7 +33,10 @@
         "hardware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BBOuxlcPh2Sg6GziwxnjO_40.049049_-74.877023@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303152,
     "wof:geomhash":"02ed6cfaccfa77e9dfaa17966f931959",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655363293
+        }
+    ],
     "wof:id":655363293,
-    "wof:lastmodified":1466674472,
+    "wof:lastmodified":1492055583,
     "wof:name":"Allure Hair Salon",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

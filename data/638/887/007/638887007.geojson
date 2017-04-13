@@ -2,9 +2,14 @@
   "id": 638887007,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Paterson Ave West Paterson NJ 07424",
+    "addr:housenumber":"52",
+    "addr:postcode":"07424",
+    "addr:street":"Paterson Ave West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225914,40.882285,-74.225914,40.882285",
     "geom:latitude":40.882285,
     "geom:longitude":-74.225914,
@@ -27,7 +32,13 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rkdJ6VW5956zk00bwEs4H_40.882285_-74.225914@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282399,
     "wof:geomhash":"45b419970fadff32a1bbaaa8445c1a1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638887007
+        }
+    ],
     "wof:id":638887007,
-    "wof:lastmodified":1466689678,
+    "wof:lastmodified":1492050599,
     "wof:name":"Excalibur Bail Recovery Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

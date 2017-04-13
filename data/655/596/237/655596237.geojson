@@ -2,9 +2,14 @@
   "id": 655596237,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Industrial Pkwy Northvale NJ 07647",
+    "addr:housenumber":"209",
+    "addr:postcode":"07647",
+    "addr:street":"Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.942103,41.006714,-73.942103,41.006714",
     "geom:latitude":41.006714,
     "geom:longitude":-73.942103,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.pyrometer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74q6KmPNyzb4pLPI6Fyb2O_41.006714_-73.942103@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461312842,
     "wof:geomhash":"5a5eb6d3b336564f42e257b5da8ac018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655596237
+        }
+    ],
     "wof:id":655596237,
-    "wof:lastmodified":1466680788,
+    "wof:lastmodified":1492053734,
     "wof:name":"Pyrometer Instrument Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

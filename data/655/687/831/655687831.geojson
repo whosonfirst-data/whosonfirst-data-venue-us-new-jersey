@@ -2,9 +2,14 @@
   "id": 655687831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1406",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262031,40.704364,-74.262031,40.704364",
     "geom:latitude":40.704364,
     "geom:longitude":-74.262031,
@@ -29,7 +34,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KFYMmPGykqDAv40YjdrIC_40.704364_-74.262031@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316770,
     "wof:geomhash":"2f2ef386aa22beab6decc16f13657aac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655687831
+        }
+    ],
     "wof:id":655687831,
-    "wof:lastmodified":1466684110,
+    "wof:lastmodified":1492027788,
     "wof:name":"Subway",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655834051,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Fabrow Dr Titusville NJ 08560",
+    "addr:housenumber":"20",
+    "addr:postcode":"08560",
+    "addr:street":"Fabrow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.853636,40.307868,-74.853636,40.307868",
     "geom:latitude":40.307868,
     "geom:longitude":-74.853636,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"http://danceworksmercer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g4L0xQC1w39ZcKSTyp1ee_40.307868_-74.853636@1303262282"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461322826,
     "wof:geomhash":"7729e0a24863a0dcaac195520a91b173",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536911,
+            "venue_id":655834051
+        }
+    ],
     "wof:id":655834051,
-    "wof:lastmodified":1466687749,
+    "wof:lastmodified":1492049203,
     "wof:name":"Danceworks Of Mercer County",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

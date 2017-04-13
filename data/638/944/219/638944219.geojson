@@ -2,9 +2,14 @@
   "id": 638944219,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 S Main St Cranbury NJ 08512",
+    "addr:housenumber":"109",
+    "addr:postcode":"08512",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52017,40.298293,-74.52017,40.298293",
     "geom:latitude":40.298293,
     "geom:longitude":-74.52017,
@@ -28,7 +33,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477473,
+        85633793,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jj8FmI7v1TQqBTYUclbPN_40.298293_-74.520170@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283894,
     "wof:geomhash":"575fe7633ae496f37d0206c3895b4f45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477473,
+            "region_id":85688607,
+            "venue_id":638944219
+        }
+    ],
     "wof:id":638944219,
-    "wof:lastmodified":1466691340,
+    "wof:lastmodified":1492069726,
     "wof:name":"A S R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

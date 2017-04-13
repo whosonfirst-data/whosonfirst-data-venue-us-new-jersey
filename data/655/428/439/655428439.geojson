@@ -2,9 +2,14 @@
   "id": 655428439,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Steel Ct Roseland NJ 07068",
+    "addr:housenumber":"10",
+    "addr:postcode":"07068",
+    "addr:street":"Steel Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.299294,40.828235,-74.299294,40.828235",
     "geom:latitude":40.828235,
     "geom:longitude":-74.299294,
@@ -27,7 +32,14 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QacfUYEh0no8q2deK6wB4_40.828235_-74.299294@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305823,
     "wof:geomhash":"8b8cdee6c5ffa32408a2cca0a588d0d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655428439
+        }
+    ],
     "wof:id":655428439,
-    "wof:lastmodified":1466676306,
+    "wof:lastmodified":1492023982,
     "wof:name":"Thomas J OBeirne & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

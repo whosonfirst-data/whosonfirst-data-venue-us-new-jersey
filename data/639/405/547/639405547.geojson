@@ -2,9 +2,14 @@
   "id": 639405547,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Long Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"33",
+    "addr:postcode":"07920",
+    "addr:street":"Long Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.581955,40.627794,-74.581955,40.627794",
     "geom:latitude":40.627794,
     "geom:longitude":-74.581955,
@@ -27,7 +32,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HGMHNN9WaxmzZAPMVd5EI_40.627794_-74.581955@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294377,
     "wof:geomhash":"0162e2c3372e9b66389d2f12cb15b93a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639405547
+        }
+    ],
     "wof:id":639405547,
-    "wof:lastmodified":1466693017,
+    "wof:lastmodified":1492018831,
     "wof:name":"E B Engineering Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

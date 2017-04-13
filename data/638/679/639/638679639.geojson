@@ -2,9 +2,14 @@
   "id": 638679639,
   "type": "Feature",
   "properties": {
+    "addr:full":"863 State Rd Princeton NJ 08540",
+    "addr:housenumber":"863",
+    "addr:postcode":"08540",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.655371,40.38983,-74.655371,40.38983",
     "geom:latitude":40.38983,
     "geom:longitude":-74.655371,
@@ -28,7 +33,13 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aawIyM7FP6OQv9zpJEllm_40.389830_-74.655371@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461276752,
     "wof:geomhash":"ac06a6a847d9be166892ac20a7bfac4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":638679639
+        }
+    ],
     "wof:id":638679639,
-    "wof:lastmodified":1466688005,
+    "wof:lastmodified":1492071364,
     "wof:name":"Sunny Garden Health Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

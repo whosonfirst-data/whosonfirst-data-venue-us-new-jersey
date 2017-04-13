@@ -2,9 +2,14 @@
   "id": 655587415,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Grist Mill Ln Saddle River NJ 07458",
+    "addr:housenumber":"45",
+    "addr:postcode":"07458",
+    "addr:street":"Grist Mill Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.086046,41.005248,-74.086046,41.005248",
     "geom:latitude":41.005248,
     "geom:longitude":-74.086046,
@@ -34,7 +39,10 @@
         85633793,
         85975989,
         102086773,
-        85688607
+        85688607,
+        420526547,
+        404477743,
+        85975897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85825599,
             "region_id":85688607,
             "venue_id":655587415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477743,
+            "locality_id":85975897,
+            "neighbourhood_id":420526547,
+            "region_id":85688607,
+            "venue_id":655587415
         }
     ],
     "wof:id":655587415,
-    "wof:lastmodified":1466680680,
+    "wof:lastmodified":1492058317,
     "wof:name":"Manna Grill Inc",
-    "wof:parent_id":85825599,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

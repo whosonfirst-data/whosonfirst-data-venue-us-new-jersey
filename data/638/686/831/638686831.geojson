@@ -2,9 +2,14 @@
   "id": 638686831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2399 Cypress St Manasquan NJ 08736",
+    "addr:housenumber":"2399",
+    "addr:postcode":"08736",
+    "addr:street":"Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.092417,40.123632,-74.092417,40.123632",
     "geom:latitude":40.123632,
     "geom:longitude":-74.092417,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478291,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mVaY2nq7rLIAGKRUhT2vn_40.123632_-74.092417@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461277029,
     "wof:geomhash":"4ceb22ef6164501e41c1b8e6759b85ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478291,
+            "region_id":85688607,
+            "venue_id":638686831
+        }
+    ],
     "wof:id":638686831,
-    "wof:lastmodified":1466688280,
+    "wof:lastmodified":1492062559,
     "wof:name":"Grace Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

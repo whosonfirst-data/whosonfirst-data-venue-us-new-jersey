@@ -2,9 +2,14 @@
   "id": 655641505,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Aldrich Rd Howell NJ 07731",
+    "addr:housenumber":"555",
+    "addr:postcode":"07731",
+    "addr:street":"Aldrich Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239484,40.152113,-74.239484,40.152113",
     "geom:latitude":40.152113,
     "geom:longitude":-74.239484,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZYVMUGVl9vT9tjCm2a3cY_40.152113_-74.239484@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461314815,
     "wof:geomhash":"4a6568ce59dfca26d468b65ab0f6df91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655641505
+        }
+    ],
     "wof:id":655641505,
-    "wof:lastmodified":1466682478,
+    "wof:lastmodified":1492056933,
     "wof:name":"Strauss Chiropractic Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

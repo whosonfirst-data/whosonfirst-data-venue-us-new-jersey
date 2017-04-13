@@ -2,9 +2,14 @@
   "id": 638811575,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Churchill Rd Westwood NJ 07675",
+    "addr:housenumber":"35",
+    "addr:postcode":"07675",
+    "addr:street":"Churchill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.983168,41.029574,-73.983168,41.029574",
     "geom:latitude":41.029574,
     "geom:longitude":-73.983168,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hV5O0VUWMaL1NSa63g8y1_41.029574_-73.983168@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280478,
     "wof:geomhash":"9791b5be0ff6c58812a00e16016f0c97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":638811575
+        }
+    ],
     "wof:id":638811575,
-    "wof:lastmodified":1466687092,
+    "wof:lastmodified":1492051906,
     "wof:name":"L&C Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

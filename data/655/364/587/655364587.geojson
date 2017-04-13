@@ -2,9 +2,14 @@
   "id": 655364587,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Race St Frenchtown NJ 08825",
+    "addr:housenumber":"31",
+    "addr:postcode":"08825",
+    "addr:street":"Race St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.06035,40.526886,-75.06035,40.526886",
     "geom:latitude":40.526886,
     "geom:longitude":-75.06035,
@@ -27,7 +32,14 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6awLtMro5OtysJndDWHjFd_40.526886_-75.060350@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303207,
     "wof:geomhash":"a3e3423aec850113ae579d1e9c8c5e6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":655364587
+        }
+    ],
     "wof:id":655364587,
-    "wof:lastmodified":1466674555,
+    "wof:lastmodified":1492056698,
     "wof:name":"Ftnh LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

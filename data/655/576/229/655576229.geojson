@@ -2,9 +2,14 @@
   "id": 655576229,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"529",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.185107,40.696317,-75.185107,40.696317",
     "geom:latitude":40.696317,
     "geom:longitude":-75.185107,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27L3kUbumOWYBhLEIPva4p_40.696317_-75.185107@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312005,
     "wof:geomhash":"bcc7466746c690af47cb654ce8710267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655576229
+        }
+    ],
     "wof:id":655576229,
-    "wof:lastmodified":1466680141,
+    "wof:lastmodified":1492041137,
     "wof:name":"Mueller Roofing Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655689345,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"275",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.945626,41.016,-73.945626,41.016",
     "geom:latitude":41.016,
     "geom:longitude":-73.945626,
@@ -30,7 +35,14 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KnMKDK3YCA9DiU2JZvCWz_41.016000_-73.945626@1299784598"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316839,
     "wof:geomhash":"6031f925e150cd81f34f635e594a9c24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655689345
+        }
+    ],
     "wof:id":655689345,
-    "wof:lastmodified":1466683988,
+    "wof:lastmodified":1492075891,
     "wof:name":"Boston Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

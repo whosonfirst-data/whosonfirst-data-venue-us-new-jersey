@@ -2,9 +2,14 @@
   "id": 638909323,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"124",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300783,40.621089,-74.300783,40.621089",
     "geom:latitude":40.621089,
     "geom:longitude":-74.300783,
@@ -27,7 +32,13 @@
         "courier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tnWF8VryDmglyPS0hzgou_40.621089_-74.300783@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282981,
     "wof:geomhash":"518d998164fffea689b576778c95913b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638909323
+        }
+    ],
     "wof:id":638909323,
-    "wof:lastmodified":1466690258,
+    "wof:lastmodified":1492028471,
     "wof:name":"Concord Courier Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

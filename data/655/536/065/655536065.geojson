@@ -2,9 +2,14 @@
   "id": 655536065,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Kay Ave Union NJ 07083",
+    "addr:housenumber":"2007",
+    "addr:postcode":"07083",
+    "addr:street":"Kay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264796,40.702024,-74.264796,40.702024",
     "geom:latitude":40.702024,
     "geom:longitude":-74.264796,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w4VPQ5apCXVQJllc5yQAD_40.702024_-74.264796@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310278,
     "wof:geomhash":"931fd75bb2de96a015f5100c6abc2a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655536065
+        }
+    ],
     "wof:id":655536065,
-    "wof:lastmodified":1466679033,
+    "wof:lastmodified":1492069845,
     "wof:name":"Meetings In Medicine Inc",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

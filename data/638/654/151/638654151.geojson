@@ -2,9 +2,14 @@
   "id": 638654151,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Tillman St Westwood NJ 07675",
+    "addr:housenumber":"80",
+    "addr:postcode":"07675",
+    "addr:street":"Tillman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.009425,40.981812,-74.009425,40.981812",
     "geom:latitude":40.981812,
     "geom:longitude":-74.009425,
@@ -29,7 +34,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85825599,
+        102191575,
+        404477551,
+        85633793,
+        85975989,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EXo1mjsuIeCxeMxStvB2T_40.981812_-74.009425@1294171694"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461275918,
     "wof:geomhash":"5f90b62e537900b5bdc98373295953fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477551,
+            "locality_id":85975989,
+            "neighbourhood_id":85825599,
+            "region_id":85688607,
+            "venue_id":638654151
+        }
+    ],
     "wof:id":638654151,
-    "wof:lastmodified":1466673891,
+    "wof:lastmodified":1492042815,
     "wof:name":"Colonial Iron Railing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

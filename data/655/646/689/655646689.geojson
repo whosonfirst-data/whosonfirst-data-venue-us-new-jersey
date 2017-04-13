@@ -2,9 +2,14 @@
   "id": 655646689,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Harrison Ave Roseland NJ 07068",
+    "addr:housenumber":"65",
+    "addr:postcode":"07068",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293694,40.823003,-74.293694,40.823003",
     "geom:latitude":40.823003,
     "geom:longitude":-74.293694,
@@ -29,7 +34,14 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QknYj92FntsvPy3fbtSjJ_40.823003_-74.293694@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315039,
     "wof:geomhash":"a177839fba67f59c2ac378aa8cbfca35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655646689
+        }
+    ],
     "wof:id":655646689,
-    "wof:lastmodified":1466682730,
+    "wof:lastmodified":1492048307,
     "wof:name":"Christos Ls Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

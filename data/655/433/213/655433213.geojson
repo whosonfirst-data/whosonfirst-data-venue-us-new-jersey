@@ -2,9 +2,14 @@
   "id": 655433213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Margaret Ct Princeton Jct NJ 08550",
+    "addr:housenumber":"3",
+    "addr:postcode":"08550",
+    "addr:street":"Margaret Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.63158,40.296767,-74.63158,40.296767",
     "geom:latitude":40.296767,
     "geom:longitude":-74.63158,
@@ -27,7 +32,10 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c0ZuwhoHD2Czvj3SXdCFQ_40.296767_-74.631580@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306029,
     "wof:geomhash":"2445fb319e48792153f2dbdeec93c296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655433213
+        }
+    ],
     "wof:id":655433213,
-    "wof:lastmodified":1466676307,
+    "wof:lastmodified":1492055634,
     "wof:name":"Software Mro",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

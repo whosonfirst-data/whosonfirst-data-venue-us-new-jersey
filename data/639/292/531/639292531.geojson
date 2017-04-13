@@ -2,9 +2,14 @@
   "id": 639292531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1413 Chestnut Ave Hillside NJ 07205",
+    "addr:housenumber":"1413",
+    "addr:postcode":"07205",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233462,40.70547,-74.233462,40.70547",
     "geom:latitude":40.70547,
     "geom:longitude":-74.233462,
@@ -29,7 +34,13 @@
         "laser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wnHqijAzo4T0zZIOfbH44_40.705470_-74.233462@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461291817,
     "wof:geomhash":"21f38ef099a920439e9cf30bd9de56a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639292531
+        }
+    ],
     "wof:id":639292531,
-    "wof:lastmodified":1466691178,
+    "wof:lastmodified":1492076644,
     "wof:name":"United Forms Finishing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

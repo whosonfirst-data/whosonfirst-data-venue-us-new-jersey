@@ -2,9 +2,14 @@
   "id": 639000755,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Jersey Ave Cliffwood NJ 07721",
+    "addr:housenumber":"139",
+    "addr:postcode":"07721",
+    "addr:street":"Jersey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240318,40.433303,-74.240318,40.433303",
     "geom:latitude":40.433303,
     "geom:longitude":-74.240318,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JTqQZHHUJY07HMMchGwWC_40.433303_-74.240318@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285125,
     "wof:geomhash":"8cfeb3d48b363a3fbb9db6f3fcc440cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":639000755
+        }
+    ],
     "wof:id":639000755,
-    "wof:lastmodified":1466673145,
+    "wof:lastmodified":1492021463,
     "wof:name":"Hh Auto Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

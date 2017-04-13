@@ -2,9 +2,14 @@
   "id": 639124375,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Fenway Ave Atco NJ 08004",
+    "addr:housenumber":"102",
+    "addr:postcode":"08004",
+    "addr:street":"Fenway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889893,39.753197,-74.889893,39.753197",
     "geom:latitude":39.753197,
     "geom:longitude":-74.889893,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l8RjwZEaH278uzdcgSRBY_39.753197_-74.889893@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461287948,
     "wof:geomhash":"e2bfe2f7be36f59d072281f446a61abe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526743,
+            "venue_id":639124375
+        }
+    ],
     "wof:id":639124375,
-    "wof:lastmodified":1466677602,
+    "wof:lastmodified":1492071803,
     "wof:name":"Final Draft",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

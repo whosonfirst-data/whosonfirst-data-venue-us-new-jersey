@@ -2,9 +2,14 @@
   "id": 655377009,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 S Community Dr Brick NJ 08723",
+    "addr:housenumber":"412",
+    "addr:postcode":"08723",
+    "addr:street":"Community Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.125472,40.045684,-74.125472,40.045684",
     "geom:latitude":40.045684,
     "geom:longitude":-74.125472,
@@ -29,7 +34,10 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U40R3MbeJtpCpbBFz6qmL_40.045684_-74.125472@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461303699,
     "wof:geomhash":"cc5b1ddd46517c8a65c76489185a1f75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655377009
+        }
+    ],
     "wof:id":655377009,
-    "wof:lastmodified":1466674723,
+    "wof:lastmodified":1492056710,
     "wof:name":"TGI Construction",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

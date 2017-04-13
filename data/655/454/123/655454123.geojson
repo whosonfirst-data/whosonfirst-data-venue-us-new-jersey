@@ -2,9 +2,14 @@
   "id": 655454123,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Woodcliffe Ave Little Falls NJ 07424",
+    "addr:housenumber":"130",
+    "addr:postcode":"07424",
+    "addr:street":"Woodcliffe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249223,40.885142,-74.249223,40.885142",
     "geom:latitude":40.885142,
     "geom:longitude":-74.249223,
@@ -27,7 +32,14 @@
         "confectionery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bErvM5qIqLnduGoyLCxtc_40.885142_-74.249223@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306872,
     "wof:geomhash":"8c8bdb8427bf2e9be612f3579d95b677",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":655454123
+        }
+    ],
     "wof:id":655454123,
-    "wof:lastmodified":1466676806,
+    "wof:lastmodified":1492023497,
     "wof:name":"El Nino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

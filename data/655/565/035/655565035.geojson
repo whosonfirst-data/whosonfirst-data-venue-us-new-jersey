@@ -2,9 +2,14 @@
   "id": 655565035,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Mahwah Rd Mahwah NJ 07430",
+    "addr:housenumber":"231",
+    "addr:postcode":"07430",
+    "addr:street":"Mahwah Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131844,41.09144,-74.131844,41.09144",
     "geom:latitude":41.09144,
     "geom:longitude":-74.131844,
@@ -28,7 +33,13 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hhzg2K8htzSmYaUwVfJHh_41.091440_-74.131844@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461311501,
     "wof:geomhash":"ecb2b011a603c976691d0c7ca8cbe2bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655565035
+        }
+    ],
     "wof:id":655565035,
-    "wof:lastmodified":1466679760,
+    "wof:lastmodified":1492051745,
     "wof:name":"Blue Water Cruises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

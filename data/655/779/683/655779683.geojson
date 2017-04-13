@@ -2,9 +2,14 @@
   "id": 655779683,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Maple St Closter NJ 07624",
+    "addr:housenumber":"30",
+    "addr:postcode":"07624",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.956657,40.964851,-73.956657,40.964851",
     "geom:latitude":40.964851,
     "geom:longitude":-73.956657,
@@ -28,7 +33,14 @@
         "tours-operators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TjrBVa7PitFZKsarAiDfW_40.964851_-73.956657@1303262268"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461320545,
     "wof:geomhash":"929a5d5d3b3d5386141c7ab1cd76d22d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655779683
+        }
+    ],
     "wof:id":655779683,
-    "wof:lastmodified":1466686431,
+    "wof:lastmodified":1492027647,
     "wof:name":"Artist Tours Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639130533,
   "type": "Feature",
   "properties": {
+    "addr:full":"187 Boyden Ave Maplewood NJ 07040",
+    "addr:housenumber":"187",
+    "addr:postcode":"07040",
+    "addr:street":"Boyden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252306,40.724873,-74.252306,40.724873",
     "geom:latitude":40.724873,
     "geom:longitude":-74.252306,
@@ -27,7 +32,10 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64imr7oKSENxJw4YHMWkfQ_40.724873_-74.252306@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288093,
     "wof:geomhash":"6a05385ebc5eb010329ba31d5929b10f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":639130533
+        }
+    ],
     "wof:id":639130533,
-    "wof:lastmodified":1466678409,
+    "wof:lastmodified":1492055312,
     "wof:name":"Mom's Food",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

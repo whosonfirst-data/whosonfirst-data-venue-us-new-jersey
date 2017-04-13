@@ -2,9 +2,14 @@
   "id": 639005591,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Paris Dr Brick NJ 08723",
+    "addr:housenumber":"23",
+    "addr:postcode":"08723",
+    "addr:street":"Paris Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134306,40.043042,-74.134306,40.043042",
     "geom:latitude":40.043042,
     "geom:longitude":-74.134306,
@@ -24,7 +29,10 @@
     "sg:postcode":"08723",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74CUzpGRgh1ONjtE7od8qb_40.043042_-74.134306@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461285222,
     "wof:geomhash":"babf9fbb54e8a4fe4b086ef0fbe23eea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639005591
+        }
+    ],
     "wof:id":639005591,
-    "wof:lastmodified":1466673122,
+    "wof:lastmodified":1492053277,
     "wof:name":"M N F Supply Inc",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639489665,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Irving Ave Closter NJ 07624",
+    "addr:housenumber":"222",
+    "addr:postcode":"07624",
+    "addr:street":"Irving Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95201,40.973213,-73.95201,40.973213",
     "geom:latitude":40.973213,
     "geom:longitude":-73.95201,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GVPEp3jDYarkBmeQdBWR2_40.973213_-73.952010@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297016,
     "wof:geomhash":"c83dc2fa36be791a5e738458f612f1a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639489665
+        }
+    ],
     "wof:id":639489665,
-    "wof:lastmodified":1466694581,
+    "wof:lastmodified":1492075818,
     "wof:name":"Altenrath Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

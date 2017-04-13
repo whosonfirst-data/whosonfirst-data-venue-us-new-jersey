@@ -2,9 +2,14 @@
   "id": 655768419,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"1400",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261187,40.890778,-74.261187,40.890778",
     "geom:latitude":40.890778,
     "geom:longitude":-74.261187,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.willowbrook-mall.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lwKkwbNNx2dEAVavTK5rn_40.890778_-74.261187@1303262265"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461320018,
     "wof:geomhash":"70ca5ed1efdac4ca6615f474cfcfce5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655768419
+        }
+    ],
     "wof:id":655768419,
-    "wof:lastmodified":1466686096,
+    "wof:lastmodified":1492029619,
     "wof:name":"Willowbrook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

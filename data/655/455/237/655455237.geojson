@@ -2,9 +2,14 @@
   "id": 655455237,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Camptown Rd Maplewood NJ 07040",
+    "addr:housenumber":"50",
+    "addr:postcode":"07040",
+    "addr:street":"Camptown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251299,40.718968,-74.251299,40.718968",
     "geom:latitude":40.718968,
     "geom:longitude":-74.251299,
@@ -27,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892405,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_577otxDk3VJ7MZCFb15Tpz_40.718968_-74.251299@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461306927,
     "wof:geomhash":"0108067b334ba4743b3221b6b8cd0b04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892405,
+            "region_id":85688607,
+            "venue_id":655455237
+        }
+    ],
     "wof:id":655455237,
-    "wof:lastmodified":1466676836,
+    "wof:lastmodified":1492028651,
     "wof:name":"Lehrhoff I Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

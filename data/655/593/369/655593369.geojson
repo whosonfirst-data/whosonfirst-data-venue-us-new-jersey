@@ -2,9 +2,14 @@
   "id": 655593369,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Normandy Pl Irvington NJ 07111",
+    "addr:housenumber":"30",
+    "addr:postcode":"07111",
+    "addr:street":"Normandy Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229969,40.716553,-74.229969,40.716553",
     "geom:latitude":40.716553,
     "geom:longitude":-74.229969,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YimVgvQiw5jh9VfSS9hCP_40.716553_-74.229969@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312723,
     "wof:geomhash":"ae36d9cbabdda25b7ff0c01ce3770ee8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655593369
+        }
+    ],
     "wof:id":655593369,
-    "wof:lastmodified":1466680751,
+    "wof:lastmodified":1492068909,
     "wof:name":"3 Phase Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

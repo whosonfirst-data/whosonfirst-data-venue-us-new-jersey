@@ -2,9 +2,14 @@
   "id": 639416339,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"535",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187665,40.684637,-75.187665,40.684637",
     "geom:latitude":40.684637,
     "geom:longitude":-75.187665,
@@ -27,7 +32,14 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ry4U8bRta830VbiZrHMjv_40.684637_-75.187665@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294627,
     "wof:geomhash":"fa768df2fc0a6e14c9d8265564071990",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639416339
+        }
+    ],
     "wof:id":639416339,
-    "wof:lastmodified":1466693406,
+    "wof:lastmodified":1492076850,
     "wof:name":"Doyle-Devlin Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

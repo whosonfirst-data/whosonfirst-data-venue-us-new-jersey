@@ -2,9 +2,14 @@
   "id": 638709587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 Washington Ave S Old Tappan NJ 07675",
+    "addr:housenumber":"1028",
+    "addr:postcode":"07675",
+    "addr:street":"Washington Ave S Old",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989922,41.009307,-73.989922,41.009307",
     "geom:latitude":41.009307,
     "geom:longitude":-73.989922,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2969Ztc1UiqJpVZy9kStWm_41.009307_-73.989922@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461277910,
     "wof:geomhash":"66e2efd4797da3c41b0fb20174fe1400",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":638709587
+        }
+    ],
     "wof:id":638709587,
-    "wof:lastmodified":1466688872,
+    "wof:lastmodified":1492021339,
     "wof:name":"Susan T Kwee DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

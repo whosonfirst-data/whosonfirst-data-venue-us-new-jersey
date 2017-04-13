@@ -2,9 +2,14 @@
   "id": 655581477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1116 Campus Dr Morganville NJ 07751",
+    "addr:housenumber":"1116",
+    "addr:postcode":"07751",
+    "addr:street":"Campus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.290879,40.353814,-74.290879,40.353814",
     "geom:latitude":40.353814,
     "geom:longitude":-74.290879,
@@ -28,7 +33,15 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fMxbiZARdv0W4Zlf4UyRh_40.353814_-74.290879@1294171694"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461312221,
     "wof:geomhash":"ff4f1a2d7b6acae8ee2c6ca87a6c92de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":655581477
+        }
+    ],
     "wof:id":655581477,
-    "wof:lastmodified":1466680349,
+    "wof:lastmodified":1492045175,
     "wof:name":"Michael C Finkelstein & Co",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

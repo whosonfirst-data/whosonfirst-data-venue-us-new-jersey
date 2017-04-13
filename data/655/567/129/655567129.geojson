@@ -2,9 +2,14 @@
   "id": 655567129,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Livingston Ave Kearny NJ 07032",
+    "addr:housenumber":"38",
+    "addr:postcode":"07032",
+    "addr:street":"Livingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14204,40.783667,-74.14204,40.783667",
     "geom:latitude":40.783667,
     "geom:longitude":-74.14204,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hQyRmm129tgih4OKhI3Yb_40.783667_-74.142040@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461311583,
     "wof:geomhash":"352584033b7d6b660861546c2e5a51d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655567129
+        }
+    ],
     "wof:id":655567129,
-    "wof:lastmodified":1466679968,
+    "wof:lastmodified":1492058095,
     "wof:name":"AF Barros Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639335553,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Joe Parker Rd Lakewood NJ 08701",
+    "addr:housenumber":"300",
+    "addr:postcode":"08701",
+    "addr:street":"Joe Parker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168223,40.094938,-74.168223,40.094938",
     "geom:latitude":40.094938,
     "geom:longitude":-74.168223,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v2Xd4EMWjrTiktERVGboV_40.094938_-74.168223@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292720,
     "wof:geomhash":"fed85f19771d316055a972a217404b88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639335553
+        }
+    ],
     "wof:id":639335553,
-    "wof:lastmodified":1466692230,
+    "wof:lastmodified":1492051328,
     "wof:name":"Professional Drywall Svc",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

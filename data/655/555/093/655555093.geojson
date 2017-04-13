@@ -2,9 +2,14 @@
   "id": 655555093,
   "type": "Feature",
   "properties": {
+    "addr:full":"661 Manchester Blvd Lakehurst NJ 08759",
+    "addr:housenumber":"661",
+    "addr:postcode":"08759",
+    "addr:street":"Manchester Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.366555,39.977478,-74.366555,39.977478",
     "geom:latitude":39.977478,
     "geom:longitude":-74.366555,
@@ -28,7 +33,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IpsJtl7K9v3WY2E3sPk7Z_39.977478_-74.366555@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461311032,
     "wof:geomhash":"ea0cacff9c4bb8a26890f859d3567397",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":655555093
+        }
+    ],
     "wof:id":655555093,
-    "wof:lastmodified":1466679512,
+    "wof:lastmodified":1492045141,
     "wof:name":"Comfort Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638649005,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Radio Rd Tuckerton NJ 08087",
+    "addr:housenumber":"115",
+    "addr:postcode":"08087",
+    "addr:street":"Radio Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352747,39.589568,-74.352747,39.589568",
     "geom:latitude":39.589568,
     "geom:longitude":-74.352747,
@@ -28,7 +33,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QeT8HpWi4TFTSvILQ2VZe_39.589568_-74.352747@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275772,
     "wof:geomhash":"15de0d74d02c0373507e85e6d9ff2bb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527413,
+            "venue_id":638649005
+        }
+    ],
     "wof:id":638649005,
-    "wof:lastmodified":1466673722,
+    "wof:lastmodified":1492028455,
     "wof:name":"Bagels and Beyond",
     "wof:parent_id":420527413,
     "wof:placetype":"venue",

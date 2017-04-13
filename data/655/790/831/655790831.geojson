@@ -2,9 +2,14 @@
   "id": 655790831,
   "type": "Feature",
   "properties": {
+    "addr:full":"189 Belvidere Ave Washington NJ 07882",
+    "addr:housenumber":"189",
+    "addr:postcode":"07882",
+    "addr:street":"Belvidere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.982131,40.761474,-74.982131,40.761474",
     "geom:latitude":40.761474,
     "geom:longitude":-74.982131,
@@ -39,7 +44,10 @@
         "medium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bfOENhsRNFv8XZGUxvxO5_40.761474_-74.982131@1303262271"
@@ -47,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461321007,
     "wof:geomhash":"4eedbe66fb9b71cdb514301500db1015",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655790831
+        }
+    ],
     "wof:id":655790831,
-    "wof:lastmodified":1466686735,
+    "wof:lastmodified":1492042806,
     "wof:name":"Open Arms Preschool & Grace Christian Academy",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

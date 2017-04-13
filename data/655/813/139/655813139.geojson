@@ -2,9 +2,14 @@
   "id": 655813139,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Charleston Rd Ste A Willingboro NJ 08046",
+    "addr:housenumber":"43",
+    "addr:postcode":"08046",
+    "addr:street":"Charleston Rd Ste A Willingboro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.9002,40.0449,-74.9002,40.0449",
     "geom:latitude":40.0449,
     "geom:longitude":-74.9002,
@@ -33,7 +38,10 @@
     ],
     "sg:website":"www.njbikeshop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pO4v3PbZcFS8eF5nFRMId_40.044900_-74.900200@1303262276"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461321943,
     "wof:geomhash":"988d778f731a1e5a600b0b17e1c0508e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655813139
+        }
+    ],
     "wof:id":655813139,
-    "wof:lastmodified":1466687151,
+    "wof:lastmodified":1492018285,
     "wof:name":"Burlington County Bicycle Center",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

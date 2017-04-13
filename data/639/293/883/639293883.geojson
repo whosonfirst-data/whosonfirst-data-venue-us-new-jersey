@@ -2,9 +2,14 @@
   "id": 639293883,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Wild Azalea Ln Skillman NJ 08558",
+    "addr:housenumber":"49",
+    "addr:postcode":"08558",
+    "addr:street":"Wild Azalea Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.688859,40.411161,-74.688859,40.411161",
     "geom:latitude":40.411161,
     "geom:longitude":-74.688859,
@@ -27,7 +32,13 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78yiMfYS1XOvA3QRGfewfM_40.411161_-74.688859@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291841,
     "wof:geomhash":"b9f16df2196d2ead27af82a23113c6ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":639293883
+        }
+    ],
     "wof:id":639293883,
-    "wof:lastmodified":1466691328,
+    "wof:lastmodified":1492051786,
     "wof:name":"Attardo Brokerage Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

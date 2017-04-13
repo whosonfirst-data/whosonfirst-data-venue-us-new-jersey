@@ -2,9 +2,14 @@
   "id": 639118595,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Tennent Rd Morganville NJ 07751",
+    "addr:housenumber":"255",
+    "addr:postcode":"07751",
+    "addr:street":"Tennent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273634,40.359827,-74.273634,40.359827",
     "geom:latitude":40.359827,
     "geom:longitude":-74.273634,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MYTwBvyj4gXCjGffwUNg4_40.359827_-74.273634@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287754,
     "wof:geomhash":"a0d33e7ae63f7d2bb00574a67828f23c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":639118595
+        }
+    ],
     "wof:id":639118595,
-    "wof:lastmodified":1466676863,
+    "wof:lastmodified":1492051857,
     "wof:name":"Double M Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

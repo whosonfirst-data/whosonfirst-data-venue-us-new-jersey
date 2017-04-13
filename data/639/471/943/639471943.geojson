@@ -2,9 +2,14 @@
   "id": 639471943,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Lindburg Ln Pottersville NJ 07979",
+    "addr:housenumber":"604",
+    "addr:postcode":"07979",
+    "addr:street":"Lindburg Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.723311,40.715243,-74.723311,40.715243",
     "geom:latitude":40.715243,
     "geom:longitude":-74.723311,
@@ -28,7 +33,10 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C5iGdKZaWbGaahfMyQC7V_40.715243_-74.723311@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461296268,
     "wof:geomhash":"0da673424aba002e3fedddcf796a20ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527617,
+            "venue_id":639471943
+        }
+    ],
     "wof:id":639471943,
-    "wof:lastmodified":1466694267,
+    "wof:lastmodified":1492042538,
     "wof:name":"Citi Mortgages",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

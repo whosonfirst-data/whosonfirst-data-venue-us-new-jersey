@@ -2,9 +2,14 @@
   "id": 655768519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Hamburg Tpke Ste 303 Wayne NJ 07470",
+    "addr:housenumber":"1501",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke Ste 303",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.254782,40.964124,-74.254782,40.964124",
     "geom:latitude":40.964124,
     "geom:longitude":-74.254782,
@@ -24,7 +29,10 @@
     "sg:postcode":"07470",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nW9UWkAuYm8YITaTTDtuW_40.964124_-74.254782@1303262265"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461320021,
     "wof:geomhash":"5b538e83d3500ca335d90f1449dc17c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655768519
+        }
+    ],
     "wof:id":655768519,
-    "wof:lastmodified":1466686122,
+    "wof:lastmodified":1492076223,
     "wof:name":"Ralph Lemongello, D.C.",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

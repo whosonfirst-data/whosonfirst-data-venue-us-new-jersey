@@ -2,9 +2,14 @@
   "id": 639483391,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Arbor St Cranford NJ 07016",
+    "addr:housenumber":"221",
+    "addr:postcode":"07016",
+    "addr:street":"Arbor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300799,40.672511,-74.300799,40.672511",
     "geom:latitude":40.672511,
     "geom:longitude":-74.300799,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85812765,
-        102085995
+        85892525,
+        102085995,
+        85812765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085995,
+            "neighbourhood_id":85892525,
+            "region_id":85688607,
+            "venue_id":639483391
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085995,
             "neighbourhood_id":85812765,
             "region_id":85688607,
             "venue_id":639483391
         }
     ],
     "wof:id":639483391,
-    "wof:lastmodified":1466694441,
+    "wof:lastmodified":1492047197,
     "wof:name":"Buynak & Deniflee",
-    "wof:parent_id":85812765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

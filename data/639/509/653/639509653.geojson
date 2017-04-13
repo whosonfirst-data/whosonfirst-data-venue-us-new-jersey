@@ -2,9 +2,14 @@
   "id": 639509653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1611 W Elizabeth Ave Linden NJ 07036",
+    "addr:housenumber":"1611",
+    "addr:postcode":"07036",
+    "addr:street":"W Elizabeth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264422,40.619306,-74.264422,40.619306",
     "geom:latitude":40.619306,
     "geom:longitude":-74.264422,
@@ -28,7 +33,14 @@
         "owns"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ep9lMWZWJ2xAVeFBxB72A_40.619306_-74.264422@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297837,
     "wof:geomhash":"41de636689613ddbad7211efe810a63f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":639509653
+        }
+    ],
     "wof:id":639509653,
-    "wof:lastmodified":1466694943,
+    "wof:lastmodified":1492076946,
     "wof:name":"Technetronix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

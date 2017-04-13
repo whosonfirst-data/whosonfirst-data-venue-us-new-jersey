@@ -2,9 +2,14 @@
   "id": 655575153,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"666",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.98678,40.827591,-73.98678,40.827591",
     "geom:latitude":40.827591,
     "geom:longitude":-73.98678,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NxkeMFQ0w02Bj7r5N0Erq_40.827591_-73.986780@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311954,
     "wof:geomhash":"163ad256f9fec74624d34063b7d54d37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655575153
+        }
+    ],
     "wof:id":655575153,
-    "wof:lastmodified":1466680063,
+    "wof:lastmodified":1492057280,
     "wof:name":"Paramount Credit Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

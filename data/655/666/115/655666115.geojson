@@ -2,9 +2,14 @@
   "id": 655666115,
   "type": "Feature",
   "properties": {
+    "addr:full":"4934 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4934",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.064902,39.958725,-75.064902,39.958725",
     "geom:latitude":39.958725,
     "geom:longitude":-75.064902,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.pnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OUC0suiQLwreyCKzl6bfC_39.958389_-75.065573@1293134755"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461315851,
     "wof:geomhash":"411544afb87b23a693154ed65e8ccc26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655666115
+        }
+    ],
     "wof:id":655666115,
-    "wof:lastmodified":1466683388,
+    "wof:lastmodified":1492049232,
     "wof:name":"Pnc Bank",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

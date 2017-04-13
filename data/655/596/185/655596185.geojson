@@ -2,9 +2,14 @@
   "id": 655596185,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Riverview Dr Totowa NJ 07512",
+    "addr:housenumber":"430",
+    "addr:postcode":"07512",
+    "addr:street":"Riverview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21612,40.89445,-74.21612,40.89445",
     "geom:latitude":40.89445,
     "geom:longitude":-74.21612,
@@ -32,7 +37,14 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3I8CJBzknddGvlAHZZoKxv_40.894450_-74.216120@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461312840,
     "wof:geomhash":"91aab721c80820125c21f9bf17998499",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655596185
+        }
+    ],
     "wof:id":655596185,
-    "wof:lastmodified":1466680772,
+    "wof:lastmodified":1492029625,
     "wof:name":"Leddy J P & Sons Holding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

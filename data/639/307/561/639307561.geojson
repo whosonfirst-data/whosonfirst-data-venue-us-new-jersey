@@ -2,9 +2,14 @@
   "id": 639307561,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Barbara Dr Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"321",
+    "addr:postcode":"08742",
+    "addr:street":"Barbara Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.077499,40.086696,-74.077499,40.086696",
     "geom:latitude":40.086696,
     "geom:longitude":-74.077499,
@@ -28,7 +33,14 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mKznZ2okN13bFwk0das9m_40.086696_-74.077499@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292121,
     "wof:geomhash":"8663803ee891f9e6b5e6426c80f3e73e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639307561
+        }
+    ],
     "wof:id":639307561,
-    "wof:lastmodified":1466691642,
+    "wof:lastmodified":1492040366,
     "wof:name":"Resort Maps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

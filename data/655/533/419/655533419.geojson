@@ -2,9 +2,14 @@
   "id": 655533419,
   "type": "Feature",
   "properties": {
+    "addr:full":"1219 Broadway Hillside NJ 07205",
+    "addr:housenumber":"1219",
+    "addr:postcode":"07205",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23049,40.693331,-74.23049,40.693331",
     "geom:latitude":40.693331,
     "geom:longitude":-74.23049,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K6yOLWR0RfnSeRNlKQXYI_40.693331_-74.230490@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310181,
     "wof:geomhash":"e8d6851c9982504c5874754fe9a36f9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655533419
+        }
+    ],
     "wof:id":655533419,
-    "wof:lastmodified":1466678993,
+    "wof:lastmodified":1492065464,
     "wof:name":"Crown Masonry & Waterproofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

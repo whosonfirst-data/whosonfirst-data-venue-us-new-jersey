@@ -2,9 +2,14 @@
   "id": 655597177,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Brookside Ave Cresskill NJ 07626",
+    "addr:housenumber":"306",
+    "addr:postcode":"07626",
+    "addr:street":"Brookside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.968934,40.950685,-73.968934,40.950685",
     "geom:latitude":40.950685,
     "geom:longitude":-73.968934,
@@ -29,7 +34,14 @@
         "marble"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SvVX5NoPmdM02XLMp5zQA_40.950685_-73.968934@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461312889,
     "wof:geomhash":"bd20d6a65c055b782271622c11b9c7af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655597177
+        }
+    ],
     "wof:id":655597177,
-    "wof:lastmodified":1466680951,
+    "wof:lastmodified":1492052081,
     "wof:name":"Bergen Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

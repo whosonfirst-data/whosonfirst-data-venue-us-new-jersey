@@ -2,9 +2,14 @@
   "id": 638619101,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 S Main St Hightstown NJ 08520",
+    "addr:housenumber":"149",
+    "addr:postcode":"08520",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52427,40.267892,-74.52427,40.267892",
     "geom:latitude":40.267892,
     "geom:longitude":-74.52427,
@@ -33,7 +38,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M3BvL5qOC1Yc2eByYxWb4_40.267892_-74.524270@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461274889,
     "wof:geomhash":"d69c8938af6ca8639e95ca0c6c6bf23c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":638619101
+        }
+    ],
     "wof:id":638619101,
-    "wof:lastmodified":1466672909,
+    "wof:lastmodified":1492042896,
     "wof:name":"Philippe's Restorations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

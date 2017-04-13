@@ -2,9 +2,14 @@
   "id": 655670551,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Belvidere Ave Washington NJ 07882",
+    "addr:housenumber":"146",
+    "addr:postcode":"07882",
+    "addr:street":"Belvidere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.9813,40.760899,-74.9813,40.760899",
     "geom:latitude":40.760899,
     "geom:longitude":-74.9813,
@@ -29,7 +34,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RcEKV8fAq8xWcIyT60UkC_40.760990_-74.981560@1293134755"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316030,
     "wof:geomhash":"2da7ca1719fad781c4c8169bf97f94ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655670551
+        }
+    ],
     "wof:id":655670551,
-    "wof:lastmodified":1466683528,
+    "wof:lastmodified":1492040966,
     "wof:name":"Lewis Linda S DDS",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

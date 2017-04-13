@@ -2,9 +2,14 @@
   "id": 655760497,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"178",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.345802,41.0061,-74.345802,41.0061",
     "geom:latitude":41.0061,
     "geom:longitude":-74.345802,
@@ -27,7 +32,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fUxkf0V6dYs5bBxNsnIHm_41.006100_-74.345802@1303262263"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319669,
     "wof:geomhash":"58c59ba12d6d9fd1f5e1612b94590daf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760497
+        }
+    ],
     "wof:id":655760497,
-    "wof:lastmodified":1466685864,
+    "wof:lastmodified":1492070647,
     "wof:name":"C C Rental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

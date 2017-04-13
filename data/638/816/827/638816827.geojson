@@ -2,9 +2,14 @@
   "id": 638816827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1617 State Rte 88 Brick NJ 08724",
+    "addr:housenumber":"1617",
+    "addr:postcode":"08724",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135586,40.076442,-74.135586,40.076442",
     "geom:latitude":40.076442,
     "geom:longitude":-74.135586,
@@ -36,7 +41,8 @@
         85688607,
         85633793,
         85829965,
-        102081485
+        102081485,
+        420527407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +58,17 @@
             "neighbourhood_id":85829965,
             "region_id":85688607,
             "venue_id":638816827
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":638816827
         }
     ],
     "wof:id":638816827,
-    "wof:lastmodified":1466687738,
+    "wof:lastmodified":1492056571,
     "wof:name":"Richard J Depalma DPM",
-    "wof:parent_id":85829965,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

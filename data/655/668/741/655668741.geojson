@@ -2,9 +2,14 @@
   "id": 655668741,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Newark Pompton Tpke Pompton Plains NJ 07444",
+    "addr:housenumber":"630",
+    "addr:postcode":"07444",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295926,40.969368,-74.295926,40.969368",
     "geom:latitude":40.969368,
     "geom:longitude":-74.295926,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DPCf9RzvYepdMQ87un6Gx_40.969164_-74.296011@1293134755"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461315947,
     "wof:geomhash":"8d8142a429a71b288dfeca034e778ccd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":655668741
+        }
+    ],
     "wof:id":655668741,
-    "wof:lastmodified":1466683568,
+    "wof:lastmodified":1492058415,
     "wof:name":"Kennedy Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

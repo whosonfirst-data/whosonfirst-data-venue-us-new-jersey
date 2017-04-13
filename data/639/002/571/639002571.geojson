@@ -2,9 +2,14 @@
   "id": 639002571,
   "type": "Feature",
   "properties": {
+    "addr:full":"626 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"626",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.323793,40.61671,-74.323793,40.61671",
     "geom:latitude":40.61671,
     "geom:longitude":-74.323793,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MDO2TPXDXG0tt8sjkOztG_40.616710_-74.323793@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461285168,
     "wof:geomhash":"3d5188c555ee9c06b7ffcbe1d7cdb0cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639002571
+        }
+    ],
     "wof:id":639002571,
-    "wof:lastmodified":1466673124,
+    "wof:lastmodified":1492043844,
     "wof:name":"Financial Center The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

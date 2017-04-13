@@ -2,9 +2,14 @@
   "id": 655520765,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 North Ln Warren NJ 07059",
+    "addr:housenumber":"17",
+    "addr:postcode":"07059",
+    "addr:street":"North Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.512789,40.618272,-74.512789,40.618272",
     "geom:latitude":40.618272,
     "geom:longitude":-74.512789,
@@ -29,7 +34,10 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527605
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z1grREkWggC51pFaHefh6_40.618272_-74.512789@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461309701,
     "wof:geomhash":"62c36ff43ceec7c5809109289adbaaf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527605,
+            "venue_id":655520765
+        }
+    ],
     "wof:id":655520765,
-    "wof:lastmodified":1466678819,
+    "wof:lastmodified":1492051942,
     "wof:name":"Functional Fitness",
     "wof:parent_id":420527605,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638882771,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Globe Ln Willingboro NJ 08046",
+    "addr:housenumber":"45",
+    "addr:postcode":"08046",
+    "addr:street":"Globe Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880447,40.02577,-74.880447,40.02577",
     "geom:latitude":40.02577,
     "geom:longitude":-74.880447,
@@ -27,7 +32,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XWrHi6nK6OZOBGd41HnJr_40.025770_-74.880447@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461282267,
     "wof:geomhash":"5481071d62ca6c20d1610a6f6b7039a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638882771
+        }
+    ],
     "wof:id":638882771,
-    "wof:lastmodified":1466689755,
+    "wof:lastmodified":1492051305,
     "wof:name":"Just Crafting Incorporated",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

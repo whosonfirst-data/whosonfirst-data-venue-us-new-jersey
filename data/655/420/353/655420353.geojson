@@ -2,9 +2,14 @@
   "id": 655420353,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 W Scott Ave Rahway NJ 07065",
+    "addr:housenumber":"529",
+    "addr:postcode":"07065",
+    "addr:street":"W Scott Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276272,40.618042,-74.276272,40.618042",
     "geom:latitude":40.618042,
     "geom:longitude":-74.276272,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oj9UQWRbbrdBeZuYuXUiQ_40.618042_-74.276272@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461305485,
     "wof:geomhash":"1914265d66df0edc1a501e79e41b5ada",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655420353
+        }
+    ],
     "wof:id":655420353,
-    "wof:lastmodified":1466676062,
+    "wof:lastmodified":1492068404,
     "wof:name":"W & W Property Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

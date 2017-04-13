@@ -2,9 +2,14 @@
   "id": 638621317,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Carlton Ave Marlton NJ 08053",
+    "addr:housenumber":"39",
+    "addr:postcode":"08053",
+    "addr:street":"Carlton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889868,39.89555,-74.889868,39.89555",
     "geom:latitude":39.89555,
     "geom:longitude":-74.889868,
@@ -27,7 +32,10 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5My6VEIhKQv32YSVvCUXoW_39.895550_-74.889868@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461274949,
     "wof:geomhash":"391733874b48f692a08e1aa7639d04f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638621317
+        }
+    ],
     "wof:id":638621317,
-    "wof:lastmodified":1466672939,
+    "wof:lastmodified":1492024083,
     "wof:name":"Forward Communications",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

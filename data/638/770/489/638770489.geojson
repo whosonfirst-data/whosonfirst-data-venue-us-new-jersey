@@ -2,9 +2,14 @@
   "id": 638770489,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Main St Bloomsbury NJ 08804",
+    "addr:housenumber":"30",
+    "addr:postcode":"08804",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.085942,40.654464,-75.085942,40.654464",
     "geom:latitude":40.654464,
     "geom:longitude":-75.085942,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478155,
+        85633793,
+        85975703,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YDLPUen0ZgYjV5oie3FVw_40.654464_-75.085942@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461279561,
     "wof:geomhash":"06d4b7cef9468ece1fb435f291d58d92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478155,
+            "locality_id":85975703,
+            "region_id":85688607,
+            "venue_id":638770489
+        }
+    ],
     "wof:id":638770489,
-    "wof:lastmodified":1466681204,
+    "wof:lastmodified":1492050496,
     "wof:name":"Creative Bone LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

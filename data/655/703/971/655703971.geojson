@@ -2,9 +2,14 @@
   "id": 655703971,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"513",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.9925,40.819698,-73.9925,40.819698",
     "geom:latitude":40.819698,
     "geom:longitude":-73.9925,
@@ -28,7 +33,14 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tkBT50rmikK94FyrBCbVf_40.819698_-73.992500@1303262249"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317534,
     "wof:geomhash":"7bafa9ce68a83a93379178d991dbca81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655703971
+        }
+    ],
     "wof:id":655703971,
-    "wof:lastmodified":1466684488,
+    "wof:lastmodified":1492019905,
     "wof:name":"Sethi Virender MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

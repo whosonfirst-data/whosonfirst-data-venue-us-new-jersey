@@ -2,9 +2,14 @@
   "id": 639178879,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Hoffman Pl Hillside NJ 07205",
+    "addr:housenumber":"100",
+    "addr:postcode":"07205",
+    "addr:street":"Hoffman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23759,40.709101,-74.23759,40.709101",
     "geom:latitude":40.709101,
     "geom:longitude":-74.23759,
@@ -27,7 +32,10 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61CbkjtxqggmApAj2GQPxi_40.709101_-74.237590@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461289168,
     "wof:geomhash":"c595eb74b582f02c8b9a6742bba858d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639178879
+        }
+    ],
     "wof:id":639178879,
-    "wof:lastmodified":1466685663,
+    "wof:lastmodified":1492076643,
     "wof:name":"Jake's Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

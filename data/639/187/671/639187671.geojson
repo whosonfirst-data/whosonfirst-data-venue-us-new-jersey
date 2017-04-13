@@ -2,9 +2,14 @@
   "id": 639187671,
   "type": "Feature",
   "properties": {
+    "addr:full":"470 River Dr Garfield NJ 07026",
+    "addr:housenumber":"470",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114913,40.876043,-74.114913,40.876043",
     "geom:latitude":40.876043,
     "geom:longitude":-74.114913,
@@ -29,7 +34,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JAu65jSxaqtHZEhtY6d9h_40.876043_-74.114913@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461289363,
     "wof:geomhash":"21b8177b641ea65a85a325d3d2786951",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639187671
+        }
+    ],
     "wof:id":639187671,
-    "wof:lastmodified":1466686863,
+    "wof:lastmodified":1492076629,
     "wof:name":"Allstate Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

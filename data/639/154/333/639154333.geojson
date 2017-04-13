@@ -2,9 +2,14 @@
   "id": 639154333,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 John F Kennedy Blvd Somerset NJ 08873",
+    "addr:housenumber":"22",
+    "addr:postcode":"08873",
+    "addr:street":"John F Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.493284,40.509036,-74.493284,40.509036",
     "geom:latitude":40.509036,
     "geom:longitude":-74.493284,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VMyeuCtLHTgkerecgyoLg_40.509036_-74.493284@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288621,
     "wof:geomhash":"d48e81a0e262fabcb0e466a1290c4d71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639154333
+        }
+    ],
     "wof:id":639154333,
-    "wof:lastmodified":1466682008,
+    "wof:lastmodified":1492056109,
     "wof:name":"Sakee Soft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

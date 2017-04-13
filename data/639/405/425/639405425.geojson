@@ -2,9 +2,14 @@
   "id": 639405425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1255",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306073,40.632107,-74.306073,40.632107",
     "geom:latitude":40.632107,
     "geom:longitude":-74.306073,
@@ -35,7 +40,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j2Oyrt5Vl0cr6c4OqwtAL_40.632107_-74.306073@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461294373,
     "wof:geomhash":"956204bd6d57e84388259e2bb2128d00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639405425
+        }
+    ],
     "wof:id":639405425,
-    "wof:lastmodified":1466692995,
+    "wof:lastmodified":1492076693,
     "wof:name":"United States Gypsum Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

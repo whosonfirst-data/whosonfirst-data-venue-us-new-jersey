@@ -2,9 +2,14 @@
   "id": 638813661,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Castle Ct Somerset NJ 08873",
+    "addr:housenumber":"6",
+    "addr:postcode":"08873",
+    "addr:street":"Castle Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.513712,40.462177,-74.513712,40.462177",
     "geom:latitude":40.462177,
     "geom:longitude":-74.513712,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976119,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LpZClFlhWIJ46Nbuk2Z5d_40.462177_-74.513712@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461280530,
     "wof:geomhash":"42bb75071adfd7f20b2c17f1f821c4c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976119,
+            "region_id":85688607,
+            "venue_id":638813661
+        }
+    ],
     "wof:id":638813661,
-    "wof:lastmodified":1466687355,
+    "wof:lastmodified":1492055210,
     "wof:name":"Connectivity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

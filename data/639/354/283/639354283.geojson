@@ -2,9 +2,14 @@
   "id": 639354283,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 N Main St Lambertville NJ 08530",
+    "addr:housenumber":"13",
+    "addr:postcode":"08530",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.943068,40.366562,-74.943068,40.366562",
     "geom:latitude":40.366562,
     "geom:longitude":-74.943068,
@@ -24,7 +29,14 @@
     "sg:postcode":"08530",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pmwAtmIHFx6DbOt1K7HMr_40.366562_-74.943068@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461293114,
     "wof:geomhash":"50a776d4e4a8f664bc8c32a10dd234d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639354283
+        }
+    ],
     "wof:id":639354283,
-    "wof:lastmodified":1466692435,
+    "wof:lastmodified":1492051525,
     "wof:name":"Saint John Evang Roman Cathlic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

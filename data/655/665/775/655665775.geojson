@@ -2,9 +2,14 @@
   "id": 655665775,
   "type": "Feature",
   "properties": {
+    "addr:full":"184 Columbia Tpke Florham Park NJ 07932",
+    "addr:housenumber":"184",
+    "addr:postcode":"07932",
+    "addr:street":"Columbia Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.393097,40.788601,-74.393097,40.788601",
     "geom:latitude":40.788601,
     "geom:longitude":-74.393097,
@@ -29,7 +34,14 @@
         "card"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MgWuCyVimvuZ1O2iyh9Ks_40.788504_-74.392386@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315839,
     "wof:geomhash":"4cf5cde015a7a215aa25c40ffbf687f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":655665775
+        }
+    ],
     "wof:id":655665775,
-    "wof:lastmodified":1466683445,
+    "wof:lastmodified":1492026820,
     "wof:name":"Taylored To You Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

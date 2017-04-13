@@ -2,9 +2,14 @@
   "id": 639480455,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Wyoming Ave Maplewood NJ 07040",
+    "addr:housenumber":"142",
+    "addr:postcode":"07040",
+    "addr:street":"Wyoming Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.278012,40.743006,-74.278012,40.743006",
     "geom:latitude":40.743006,
     "geom:longitude":-74.278012,
@@ -34,7 +39,10 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wr674Hld6IacGgCpUpdcA_40.743006_-74.278012@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461296628,
     "wof:geomhash":"652312830e67a43ac18060004ae82653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526943,
+            "venue_id":639480455
+        }
+    ],
     "wof:id":639480455,
-    "wof:lastmodified":1466694268,
+    "wof:lastmodified":1492076781,
     "wof:name":"Family Mental Health Cons",
     "wof:parent_id":420526943,
     "wof:placetype":"venue",

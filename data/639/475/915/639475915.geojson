@@ -2,9 +2,14 @@
   "id": 639475915,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Weldon Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"106",
+    "addr:postcode":"07849",
+    "addr:street":"Weldon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.588002,40.995365,-74.588002,40.995365",
     "geom:latitude":40.995365,
     "geom:longitude":-74.588002,
@@ -27,7 +32,10 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NpeOtwIvm9qrqswlVH29g_40.995365_-74.588002@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461296428,
     "wof:geomhash":"cb8ae5ebba05c876ed409b8f4b94cb23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":639475915
+        }
+    ],
     "wof:id":639475915,
-    "wof:lastmodified":1466694311,
+    "wof:lastmodified":1492042584,
     "wof:name":"Detour Travel Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

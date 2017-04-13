@@ -2,9 +2,14 @@
   "id": 655652417,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Bogert Rd Demarest NJ 07627",
+    "addr:housenumber":"17",
+    "addr:postcode":"07627",
+    "addr:street":"Bogert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.955348,40.959409,-73.955348,40.959409",
     "geom:latitude":40.959409,
     "geom:longitude":-73.955348,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HCU7BMPPUNYP8ljo29Ygn_40.959409_-73.955348@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315278,
     "wof:geomhash":"f8e3806ac84b6b190fbc1aff015a842e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655652417
+        }
+    ],
     "wof:id":655652417,
-    "wof:lastmodified":1466682888,
+    "wof:lastmodified":1492072405,
     "wof:name":"H D Singer MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

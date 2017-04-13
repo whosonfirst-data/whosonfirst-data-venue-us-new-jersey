@@ -2,9 +2,14 @@
   "id": 655437003,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Main St West Creek NJ 08092",
+    "addr:housenumber":"203",
+    "addr:postcode":"08092",
+    "addr:street":"Main St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307315,39.634501,-74.307315,39.634501",
     "geom:latitude":39.634501,
     "geom:longitude":-74.307315,
@@ -24,7 +29,10 @@
     "sg:postcode":"08092",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ouD6uylDVYOb273u90aJO_39.634501_-74.307315@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461306182,
     "wof:geomhash":"fae6b8f811454b8600cd5015bcc5eb42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527409,
+            "venue_id":655437003
+        }
+    ],
     "wof:id":655437003,
-    "wof:lastmodified":1466676327,
+    "wof:lastmodified":1492055624,
     "wof:name":"Heart Of Country",
     "wof:parent_id":420527409,
     "wof:placetype":"venue",

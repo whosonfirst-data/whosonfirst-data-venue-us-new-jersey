@@ -2,9 +2,14 @@
   "id": 639402667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1049 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"1049",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249571,40.715432,-74.249571,40.715432",
     "geom:latitude":40.715432,
     "geom:longitude":-74.249571,
@@ -24,7 +29,13 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26p19JHH8RSlDEUR7uglh4_40.715432_-74.249571@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461294280,
     "wof:geomhash":"b7df29b2c15f964e84d24b25f6756b87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639402667
+        }
+    ],
     "wof:id":639402667,
-    "wof:lastmodified":1466693036,
+    "wof:lastmodified":1492081542,
     "wof:name":"New Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

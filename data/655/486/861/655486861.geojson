@@ -2,9 +2,14 @@
   "id": 655486861,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"191",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804548,40.275122,-74.804548,40.275122",
     "geom:latitude":40.275122,
     "geom:longitude":-74.804548,
@@ -29,7 +34,10 @@
         "instr"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SIRhalwJ33F92a0L9KZXS_40.275122_-74.804548@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461308280,
     "wof:geomhash":"629bf6d3205697b2f93a1e9cac47fc53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655486861
+        }
+    ],
     "wof:id":655486861,
-    "wof:lastmodified":1466677873,
+    "wof:lastmodified":1492028671,
     "wof:name":"Mercer Academy Martial Arts",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

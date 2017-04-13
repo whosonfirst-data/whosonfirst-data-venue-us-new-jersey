@@ -2,9 +2,14 @@
   "id": 639312317,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Green St Beverly NJ 08010",
+    "addr:housenumber":"275",
+    "addr:postcode":"08010",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.91527,40.05238,-74.91527,40.05238",
     "geom:latitude":40.05238,
     "geom:longitude":-74.91527,
@@ -28,7 +33,12 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85809415,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hch7JVKccEqdqcq8v3v6V_40.052380_-74.915270@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461292221,
     "wof:geomhash":"28c4772b49973e461f4be07d993fdfe9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85809415,
+            "region_id":85688607,
+            "venue_id":639312317
+        }
+    ],
     "wof:id":639312317,
-    "wof:lastmodified":1466691741,
+    "wof:lastmodified":1492047600,
     "wof:name":"Secure Pros Inc",
-    "wof:parent_id":420526653,
+    "wof:parent_id":85809415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

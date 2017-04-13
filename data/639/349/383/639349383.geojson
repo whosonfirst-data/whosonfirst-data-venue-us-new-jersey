@@ -2,9 +2,14 @@
   "id": 639349383,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 E State St Trenton NJ 08608",
+    "addr:housenumber":"244",
+    "addr:postcode":"08608",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.759811,40.220648,-74.759811,40.220648",
     "geom:latitude":40.220648,
     "geom:longitude":-74.759811,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IOmDmti340LvXjoVX4Cm8_40.220648_-74.759811@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293005,
     "wof:geomhash":"c12ecba9a79d77f7bdcc6cda27a78cff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639349383
+        }
+    ],
     "wof:id":639349383,
-    "wof:lastmodified":1466692430,
+    "wof:lastmodified":1492053491,
     "wof:name":"Angelos Pizza Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

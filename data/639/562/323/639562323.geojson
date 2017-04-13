@@ -2,9 +2,14 @@
   "id": 639562323,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Eastham Rd Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"200",
+    "addr:postcode":"08742",
+    "addr:street":"Eastham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.085538,40.089865,-74.085538,40.089865",
     "geom:latitude":40.089865,
     "geom:longitude":-74.085538,
@@ -27,7 +32,14 @@
         "manager"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_469kHE7QgE17jF0spa1esu_40.089865_-74.085538@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300213,
     "wof:geomhash":"c3b14c3aec5c5e0f667422595fd64705",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639562323
+        }
+    ],
     "wof:id":639562323,
-    "wof:lastmodified":1466696124,
+    "wof:lastmodified":1492049702,
     "wof:name":"Vera B Reitmeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

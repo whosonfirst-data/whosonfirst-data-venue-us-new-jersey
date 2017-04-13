@@ -2,9 +2,14 @@
   "id": 639391885,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Laurelwyck Dr Waretown NJ 08758",
+    "addr:housenumber":"8",
+    "addr:postcode":"08758",
+    "addr:street":"Laurelwyck Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219561,39.792316,-74.219561,39.792316",
     "geom:latitude":39.792316,
     "geom:longitude":-74.219561,
@@ -28,7 +33,10 @@
         "narrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l6mIBhabM49RxXo4ALeyE_39.792316_-74.219561@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293898,
     "wof:geomhash":"2fda59404f4be1ac87ecaef3a8ce3bd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527435,
+            "venue_id":639391885
+        }
+    ],
     "wof:id":639391885,
-    "wof:lastmodified":1466692694,
+    "wof:lastmodified":1492049928,
     "wof:name":"Professional Type",
     "wof:parent_id":420527435,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655427641,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Mayville Ln Marlton NJ 08053",
+    "addr:housenumber":"10",
+    "addr:postcode":"08053",
+    "addr:street":"Mayville Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.887689,39.897338,-74.887689,39.897338",
     "geom:latitude":39.897338,
     "geom:longitude":-74.887689,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00BBIQqR8QnSWIUNPjA0SN_39.897338_-74.887689@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305783,
     "wof:geomhash":"1f518ef6ba6d7eec0d1b3ff28f03aebb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655427641
+        }
+    ],
     "wof:id":655427641,
-    "wof:lastmodified":1466676233,
+    "wof:lastmodified":1492042014,
     "wof:name":"Mystical Astrologers",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

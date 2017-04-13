@@ -2,9 +2,14 @@
   "id": 639343423,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Cider Mill Rd Flemington NJ 08822",
+    "addr:housenumber":"21",
+    "addr:postcode":"08822",
+    "addr:street":"Cider Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.794895,40.484266,-74.794895,40.484266",
     "geom:latitude":40.484266,
     "geom:longitude":-74.794895,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PYYPNLEYHBksf3xvAUbCG_40.484266_-74.794895@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461292883,
     "wof:geomhash":"58193d90e8e4942bc74dd4abb5d07227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":639343423
+        }
+    ],
     "wof:id":639343423,
-    "wof:lastmodified":1466692295,
+    "wof:lastmodified":1492050823,
     "wof:name":"Georgann Scibilia Esq",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

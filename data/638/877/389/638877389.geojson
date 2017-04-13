@@ -2,9 +2,14 @@
   "id": 638877389,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Stephensburg Rd Port Murray NJ 07865",
+    "addr:housenumber":"174",
+    "addr:postcode":"07865",
+    "addr:street":"Stephensburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.87712,40.790471,-74.87712,40.790471",
     "geom:latitude":40.790471,
     "geom:longitude":-74.87712,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16sP7T9yIlfSYNlshPRi7v_40.790471_-74.877120@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461282134,
     "wof:geomhash":"539e068082bac253760e26bdf0f54822",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":638877389
+        }
+    ],
     "wof:id":638877389,
-    "wof:lastmodified":1466689873,
+    "wof:lastmodified":1492061066,
     "wof:name":"Bhc Publishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

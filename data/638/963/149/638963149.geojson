@@ -2,9 +2,14 @@
   "id": 638963149,
   "type": "Feature",
   "properties": {
+    "addr:full":"934 Co Rd 619 Newton NJ 07860",
+    "addr:housenumber":"934;619",
+    "addr:postcode":"07860",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.845472,41.057875,-74.845472,41.057875",
     "geom:latitude":41.057875,
     "geom:longitude":-74.845472,
@@ -38,7 +43,10 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WeFgLQ8FDmgCj8B16p9E2_41.057875_-74.845472@1294171694"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461284309,
     "wof:geomhash":"acc64fb63727e8df2986d7abe21bfbd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":638963149
+        }
+    ],
     "wof:id":638963149,
-    "wof:lastmodified":1466691545,
+    "wof:lastmodified":1492030671,
     "wof:name":"Mountain Radio & Electronics",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

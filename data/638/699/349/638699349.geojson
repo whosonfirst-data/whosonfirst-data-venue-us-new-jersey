@@ -2,9 +2,14 @@
   "id": 638699349,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Lynn St Harrington Park NJ 07640",
+    "addr:housenumber":"425",
+    "addr:postcode":"07640",
+    "addr:street":"Lynn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.981955,40.996842,-73.981955,40.996842",
     "geom:latitude":40.996842,
     "geom:longitude":-73.981955,
@@ -29,7 +34,14 @@
         "footwear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L4A9oMCLVClTOeKNgPodJ_40.996842_-73.981955@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277504,
     "wof:geomhash":"46a351b7cbc73d9ab0ef4af2c40d771d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":638699349
+        }
+    ],
     "wof:id":638699349,
-    "wof:lastmodified":1466688502,
+    "wof:lastmodified":1492062269,
     "wof:name":"Tvt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

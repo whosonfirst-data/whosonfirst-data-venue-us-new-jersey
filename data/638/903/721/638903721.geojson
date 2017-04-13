@@ -2,9 +2,14 @@
   "id": 638903721,
   "type": "Feature",
   "properties": {
+    "addr:full":"368 County Rd Demarest NJ 07627",
+    "addr:housenumber":"368",
+    "addr:postcode":"07627",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959168,40.965614,-73.959168,40.965614",
     "geom:latitude":40.965614,
     "geom:longitude":-73.959168,
@@ -24,7 +29,14 @@
     "sg:postcode":"07627",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42eAP6YGrH0TXoPBQhXksa_40.965614_-73.959168@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461282844,
     "wof:geomhash":"94a3d222764f7e44a8aa83a368c7b043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":638903721
+        }
+    ],
     "wof:id":638903721,
-    "wof:lastmodified":1466690368,
+    "wof:lastmodified":1492052118,
     "wof:name":"Samoa Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

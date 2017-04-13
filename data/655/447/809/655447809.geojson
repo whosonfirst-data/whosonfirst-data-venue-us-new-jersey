@@ -2,9 +2,14 @@
   "id": 655447809,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Tansboro Rd Berlin NJ 08009",
+    "addr:housenumber":"501",
+    "addr:postcode":"08009",
+    "addr:street":"Tansboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919143,39.76857,-74.919143,39.76857",
     "geom:latitude":39.76857,
     "geom:longitude":-74.919143,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rgcbgPQwBRK9p5TvTR2KB_39.768570_-74.919143@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306597,
     "wof:geomhash":"d0052025e582adb1c7b8a7c8fb19d59b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526747,
+            "venue_id":655447809
+        }
+    ],
     "wof:id":655447809,
-    "wof:lastmodified":1466676900,
+    "wof:lastmodified":1492057075,
     "wof:name":"Joe's Pizza Pasta & Subs",
     "wof:parent_id":420526747,
     "wof:placetype":"venue",

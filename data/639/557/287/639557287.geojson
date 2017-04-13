@@ -2,9 +2,14 @@
   "id": 639557287,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Hobson St Newark NJ 07112",
+    "addr:housenumber":"10",
+    "addr:postcode":"07112",
+    "addr:street":"Hobson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.215012,40.718187,-74.215012,40.718187",
     "geom:latitude":40.718187,
     "geom:longitude":-74.215012,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85836779,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YYUfOU50pAUrIrEnytmER_40.718187_-74.215012@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461300031,
     "wof:geomhash":"c7e52957c8b1efd689c6ddf85b578ca6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85836779,
+            "region_id":85688607,
+            "venue_id":639557287
+        }
+    ],
     "wof:id":639557287,
-    "wof:lastmodified":1466695940,
+    "wof:lastmodified":1492049742,
     "wof:name":"United Pentecostal Holiness",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

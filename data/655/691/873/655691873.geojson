@@ -2,9 +2,14 @@
   "id": 655691873,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 White Horse Pike Waterford Works NJ 08089",
+    "addr:housenumber":"116",
+    "addr:postcode":"08089",
+    "addr:street":"White Horse Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.869282,39.73555,-74.869282,39.73555",
     "geom:latitude":39.73555,
     "geom:longitude":-74.869282,
@@ -28,7 +33,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477393,
+        85633793,
+        85975671,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vJ8fRq1EN45A6IyBdHOqG_39.735550_-74.869282@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316933,
     "wof:geomhash":"343c79a97673b2d9b863195a60e55f16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477393,
+            "locality_id":85975671,
+            "region_id":85688607,
+            "venue_id":655691873
+        }
+    ],
     "wof:id":655691873,
-    "wof:lastmodified":1466684144,
+    "wof:lastmodified":1492070092,
     "wof:name":"Elis's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

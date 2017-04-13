@@ -2,9 +2,14 @@
   "id": 655459715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1910",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272171,40.720419,-74.272171,40.720419",
     "geom:latitude":40.720419,
     "geom:longitude":-74.272171,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QesqJg6YadO2qbTQpV1v4_40.720419_-74.272171@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307146,
     "wof:geomhash":"978bb86d305fa9eff926e9686133feaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655459715
+        }
+    ],
     "wof:id":655459715,
-    "wof:lastmodified":1466677211,
+    "wof:lastmodified":1492055317,
     "wof:name":"Fun N'Fitness",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

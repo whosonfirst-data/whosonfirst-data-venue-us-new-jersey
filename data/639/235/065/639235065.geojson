@@ -2,9 +2,14 @@
   "id": 639235065,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Gorge Rd Edgewater NJ 07020",
+    "addr:housenumber":"67",
+    "addr:postcode":"07020",
+    "addr:street":"Gorge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991539,40.808714,-73.991539,40.808714",
     "geom:latitude":40.808714,
     "geom:longitude":-73.991539,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r61AhEPS6lGwkqwY51wlm_40.808714_-73.991539@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290480,
     "wof:geomhash":"01888b016f936cea35ae291165464db1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":639235065
+        }
+    ],
     "wof:id":639235065,
-    "wof:lastmodified":1466689952,
+    "wof:lastmodified":1492076134,
     "wof:name":"Weisbart Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

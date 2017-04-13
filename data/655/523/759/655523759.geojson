@@ -2,9 +2,14 @@
   "id": 655523759,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Deerfield Dr Franklin NJ 07416",
+    "addr:housenumber":"53",
+    "addr:postcode":"07416",
+    "addr:street":"Deerfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.616749,41.132719,-74.616749,41.132719",
     "geom:latitude":41.132719,
     "geom:longitude":-74.616749,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T85w7ISFvRcF5g7I29P1Q_41.132719_-74.616749@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309810,
     "wof:geomhash":"0713efa6d0f880a386e22aa3be257e5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527625,
+            "venue_id":655523759
+        }
+    ],
     "wof:id":655523759,
-    "wof:lastmodified":1466678820,
+    "wof:lastmodified":1492029567,
     "wof:name":"Stature Painting & Papering",
     "wof:parent_id":420527625,
     "wof:placetype":"venue",

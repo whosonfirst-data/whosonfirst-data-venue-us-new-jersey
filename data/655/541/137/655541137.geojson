@@ -2,9 +2,14 @@
   "id": 655541137,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 S Main St Lambertville NJ 08530",
+    "addr:housenumber":"201",
+    "addr:postcode":"08530",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.94281,40.358536,-74.94281,40.358536",
     "geom:latitude":40.358536,
     "geom:longitude":-74.94281,
@@ -34,7 +39,14 @@
     ],
     "sg:website":"www.healthstrats.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GbgmgboRbxEDiSohPTbap_40.358536_-74.942810@1294171694"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461310466,
     "wof:geomhash":"359a95a16c5389f555dd80d4300afad0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655541137
+        }
+    ],
     "wof:id":655541137,
-    "wof:lastmodified":1466679183,
+    "wof:lastmodified":1492048348,
     "wof:name":"Health Strategies Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

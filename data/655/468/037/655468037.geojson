@@ -2,9 +2,14 @@
   "id": 655468037,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Railroad Ave Montvale NJ 07645",
+    "addr:housenumber":"6",
+    "addr:postcode":"07645",
+    "addr:street":"Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.028666,41.041736,-74.028666,41.041736",
     "geom:latitude":41.041736,
     "geom:longitude":-74.028666,
@@ -28,7 +33,14 @@
         "embroidering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26VHC3W1sHnFDcWR2uANVr_41.041736_-74.028666@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307506,
     "wof:geomhash":"86b6abb63df7cfb48885431ab98443d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":655468037
+        }
+    ],
     "wof:id":655468037,
-    "wof:lastmodified":1466677254,
+    "wof:lastmodified":1492075430,
     "wof:name":"U S Tour Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655599345,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Valley Brook Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"147",
+    "addr:postcode":"07071",
+    "addr:street":"Valley Brook Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130574,40.815703,-74.130574,40.815703",
     "geom:latitude":40.815703,
     "geom:longitude":-74.130574,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21tBnhC2gtRtXucehN3Ir5_40.815703_-74.130574@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312978,
     "wof:geomhash":"98b4d405839f98e7e5555a764eb6352d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655599345
+        }
+    ],
     "wof:id":655599345,
-    "wof:lastmodified":1466681001,
+    "wof:lastmodified":1492058523,
     "wof:name":"Pats Deli & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

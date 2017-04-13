@@ -2,9 +2,14 @@
   "id": 639546401,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Drum Point Rd Brick NJ 08723",
+    "addr:housenumber":"319",
+    "addr:postcode":"08723",
+    "addr:street":"Drum Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.111841,40.040814,-74.111841,40.040814",
     "geom:latitude":40.040814,
     "geom:longitude":-74.111841,
@@ -28,7 +33,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gJssIEeIvMymj8xc6udY6_40.040814_-74.111841@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299585,
     "wof:geomhash":"2a2971fc5d1623a07178d7964bd63396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639546401
+        }
+    ],
     "wof:id":639546401,
-    "wof:lastmodified":1466695680,
+    "wof:lastmodified":1492021002,
     "wof:name":"Mike's Pizzeria",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655371051,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Shadow Rd Saddle River NJ 07458",
+    "addr:housenumber":"32",
+    "addr:postcode":"07458",
+    "addr:street":"Shadow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114755,41.057847,-74.114755,41.057847",
     "geom:latitude":41.057847,
     "geom:longitude":-74.114755,
@@ -29,7 +34,14 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pzEBiZrtgoc3N5eUzTUzM_41.057847_-74.114755@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303462,
     "wof:geomhash":"c151b88542fee6ddb5bac7c04952f174",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655371051
+        }
+    ],
     "wof:id":655371051,
-    "wof:lastmodified":1466674657,
+    "wof:lastmodified":1492082079,
     "wof:name":"Magic Carpet Cleaning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

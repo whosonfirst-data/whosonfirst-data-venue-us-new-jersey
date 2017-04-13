@@ -2,9 +2,14 @@
   "id": 655472733,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 W 7th St Plainfield NJ 07060",
+    "addr:housenumber":"420",
+    "addr:postcode":"07060",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.421662,40.611193,-74.421662,40.611193",
     "geom:latitude":40.611193,
     "geom:longitude":-74.421662,
@@ -27,7 +32,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527703,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sFcpa7YmbNGlqBbAYTsCd_40.611193_-74.421662@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461307701,
     "wof:geomhash":"a4f650dcc1ef46ee5dd380b8e876e063",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "neighbourhood_id":420527703,
+            "region_id":85688607,
+            "venue_id":655472733
+        }
+    ],
     "wof:id":655472733,
-    "wof:lastmodified":1466677494,
+    "wof:lastmodified":1492029481,
     "wof:name":"Joe S Cleaning Construction SE",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

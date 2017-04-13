@@ -2,9 +2,14 @@
   "id": 639154319,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Doty Rd Haskell NJ 07420",
+    "addr:housenumber":"63",
+    "addr:postcode":"07420",
+    "addr:street":"Doty Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.302437,41.029652,-74.302437,41.029652",
     "geom:latitude":41.029652,
     "geom:longitude":-74.302437,
@@ -27,7 +32,14 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31nXBWsESF6shxOJGnIbIb_41.029652_-74.302437@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288621,
     "wof:geomhash":"c2a497e5371974802a4747533efcf838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639154319
+        }
+    ],
     "wof:id":639154319,
-    "wof:lastmodified":1466682006,
+    "wof:lastmodified":1492054524,
     "wof:name":"Rectifier Systems Corp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

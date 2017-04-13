@@ -2,9 +2,14 @@
   "id": 638926493,
   "type": "Feature",
   "properties": {
+    "addr:full":"279 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"279",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978664,40.773138,-74.978664,40.773138",
     "geom:latitude":40.773138,
     "geom:longitude":-74.978664,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PktgRDaGMtznBw6AbNnQi_40.773138_-74.978664@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283431,
     "wof:geomhash":"822d40c950b39d3943c72e57c9c39cb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638926493
+        }
+    ],
     "wof:id":638926493,
-    "wof:lastmodified":1466690652,
+    "wof:lastmodified":1492029637,
     "wof:name":"Hillcrest Ob Gyn",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

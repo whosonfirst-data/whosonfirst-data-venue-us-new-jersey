@@ -2,9 +2,14 @@
   "id": 639475231,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Ivy Ln W Hightstown NJ 08520",
+    "addr:housenumber":"42",
+    "addr:postcode":"08520",
+    "addr:street":"Ivy Ln W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.562802,40.253358,-74.562802,40.253358",
     "geom:latitude":40.253358,
     "geom:longitude":-74.562802,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A0bGQk5HUN9J5AtHkgFsw_40.253358_-74.562802@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296405,
     "wof:geomhash":"94f1f5a1b27e4c44288d87123918d308",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639475231
+        }
+    ],
     "wof:id":639475231,
-    "wof:lastmodified":1466694149,
+    "wof:lastmodified":1492041610,
     "wof:name":"Bruce Gray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

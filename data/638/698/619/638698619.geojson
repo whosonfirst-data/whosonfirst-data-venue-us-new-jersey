@@ -2,9 +2,14 @@
   "id": 638698619,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Lehigh Ave Union NJ 07083",
+    "addr:housenumber":"901",
+    "addr:postcode":"07083",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243294,40.682241,-74.243294,40.682241",
     "geom:latitude":40.682241,
     "geom:longitude":-74.243294,
@@ -28,7 +33,13 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73Fuox3mqnmgMadNDD8tQA_40.682241_-74.243294@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461277486,
     "wof:geomhash":"8701be9c254fd30fb5935e44af408f19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":638698619
+        }
+    ],
     "wof:id":638698619,
-    "wof:lastmodified":1466688498,
+    "wof:lastmodified":1492062522,
     "wof:name":"Union County Paratransit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

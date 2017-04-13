@@ -2,9 +2,14 @@
   "id": 655689181,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Veterans Plz Dumont NJ 07628",
+    "addr:housenumber":"140",
+    "addr:postcode":"07628",
+    "addr:street":"Veterans Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996731,40.941064,-73.996731,40.941064",
     "geom:latitude":40.941064,
     "geom:longitude":-73.996731,
@@ -28,7 +33,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P5vrLn3gwOIdg23R9WTKH_40.941064_-73.996731@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316828,
     "wof:geomhash":"d5dfa2f9c7ca097fff4b9f16dad8483a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655689181
+        }
+    ],
     "wof:id":655689181,
-    "wof:lastmodified":1466683945,
+    "wof:lastmodified":1492029572,
     "wof:name":"Uncle Frank's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

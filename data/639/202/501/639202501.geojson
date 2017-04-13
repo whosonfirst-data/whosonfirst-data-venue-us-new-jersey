@@ -2,9 +2,14 @@
   "id": 639202501,
   "type": "Feature",
   "properties": {
+    "addr:full":"577 River Ter Toms River NJ 08755",
+    "addr:housenumber":"577",
+    "addr:postcode":"08755",
+    "addr:street":"River Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231159,39.964036,-74.231159,39.964036",
     "geom:latitude":39.964036,
     "geom:longitude":-74.231159,
@@ -27,7 +32,14 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477803,
+        85633793,
+        85976323,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JOVWkPqls7xPjELrn7fia_39.964036_-74.231159@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289696,
     "wof:geomhash":"4221caee57da61a122182233aef6838b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "region_id":85688607,
+            "venue_id":639202501
+        }
+    ],
     "wof:id":639202501,
-    "wof:lastmodified":1466688898,
+    "wof:lastmodified":1492053617,
     "wof:name":"A & L Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

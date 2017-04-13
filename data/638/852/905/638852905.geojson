@@ -2,9 +2,14 @@
   "id": 638852905,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Freehold Rd Jackson NJ 08527",
+    "addr:housenumber":"41",
+    "addr:postcode":"08527",
+    "addr:street":"Freehold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343981,40.136328,-74.343981,40.136328",
     "geom:latitude":40.136328,
     "geom:longitude":-74.343981,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SaaNCsa7mDf5NT6WO2C7d_40.136328_-74.343981@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281588,
     "wof:geomhash":"4047f55f4a34cf5f4881b9a56808a849",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638852905
+        }
+    ],
     "wof:id":638852905,
-    "wof:lastmodified":1466689034,
+    "wof:lastmodified":1492041310,
     "wof:name":"Walls of Wonder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

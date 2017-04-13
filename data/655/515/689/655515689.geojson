@@ -2,9 +2,14 @@
   "id": 655515689,
   "type": "Feature",
   "properties": {
+    "addr:full":"875 South Ave Plainfield NJ 07062",
+    "addr:housenumber":"875",
+    "addr:postcode":"07062",
+    "addr:street":"South Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.407086,40.625717,-74.407086,40.625717",
     "geom:latitude":40.625717,
     "geom:longitude":-74.407086,
@@ -29,7 +34,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vCfqzSeKaePyfTbhM15Pb_40.625717_-74.407086@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461309517,
     "wof:geomhash":"96f66d4eb94d772f6b292f17eb17695c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":655515689
+        }
+    ],
     "wof:id":655515689,
-    "wof:lastmodified":1466678620,
+    "wof:lastmodified":1492039483,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

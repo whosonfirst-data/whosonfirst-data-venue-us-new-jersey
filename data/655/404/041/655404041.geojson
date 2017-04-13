@@ -2,9 +2,14 @@
   "id": 655404041,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Orchard St Haskell NJ 07420",
+    "addr:housenumber":"14",
+    "addr:postcode":"07420",
+    "addr:street":"Orchard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294495,41.038428,-74.294495,41.038428",
     "geom:latitude":41.038428,
     "geom:longitude":-74.294495,
@@ -27,7 +32,14 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w0bV9dNn8N0s7dpIRwnOQ_41.038428_-74.294495@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304795,
     "wof:geomhash":"d6c6a3dca6d17a3cf6602952068e0780",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655404041
+        }
+    ],
     "wof:id":655404041,
-    "wof:lastmodified":1466675469,
+    "wof:lastmodified":1492081981,
     "wof:name":"Northeast Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655733537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1300",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307067,40.631936,-74.307067,40.631936",
     "geom:latitude":40.631936,
     "geom:longitude":-74.307067,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nDvhmn7tRD73Ld7RWO0HN_40.631936_-74.307067@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318664,
     "wof:geomhash":"9bc996b8fa9a4d074b170f5f75c8382c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733537
+        }
+    ],
     "wof:id":655733537,
-    "wof:lastmodified":1466685155,
+    "wof:lastmodified":1492055323,
     "wof:name":"T A Turner Construction Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

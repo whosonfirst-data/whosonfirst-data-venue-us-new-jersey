@@ -2,9 +2,14 @@
   "id": 638838847,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Fillmore St Phillipsburg NJ 08865",
+    "addr:housenumber":"105",
+    "addr:postcode":"08865",
+    "addr:street":"Fillmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.194562,40.69164,-75.194562,40.69164",
     "geom:latitude":40.69164,
     "geom:longitude":-75.194562,
@@ -27,7 +32,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u07xpcwvjmH7kHrZ8uiVJ_40.691640_-75.194562@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281210,
     "wof:geomhash":"feb36314daac8dab531dc8a3a31806ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638838847
+        }
+    ],
     "wof:id":638838847,
-    "wof:lastmodified":1466689103,
+    "wof:lastmodified":1492023731,
     "wof:name":"Glenmore Variety Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

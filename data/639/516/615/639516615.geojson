@@ -2,9 +2,14 @@
   "id": 639516615,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Millard Ter Trenton NJ 08638",
+    "addr:housenumber":"13",
+    "addr:postcode":"08638",
+    "addr:street":"Millard Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.772316,40.250517,-74.772316,40.250517",
     "geom:latitude":40.250517,
     "geom:longitude":-74.772316,
@@ -28,7 +33,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QcTtQ6VsjSpdbsPyhXdEl_40.250517_-74.772316@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461298139,
     "wof:geomhash":"89943f5364c9a79997c0e829ed1db659",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527165,
+            "venue_id":639516615
+        }
+    ],
     "wof:id":639516615,
-    "wof:lastmodified":1466695236,
+    "wof:lastmodified":1492047952,
     "wof:name":"Hob Tavern",
     "wof:parent_id":420527165,
     "wof:placetype":"venue",

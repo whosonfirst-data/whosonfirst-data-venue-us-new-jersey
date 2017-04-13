@@ -2,9 +2,14 @@
   "id": 638979199,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Main St Lincoln Park NJ 07035",
+    "addr:housenumber":"188",
+    "addr:postcode":"07035",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307624,40.922872,-74.307624,40.922872",
     "geom:latitude":40.922872,
     "geom:longitude":-74.307624,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ODv0zV4zc5WTelytLxEme_40.922872_-74.307624@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284633,
     "wof:geomhash":"4b6bbcf37ca4bc1838994c6efd612e58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":638979199
+        }
+    ],
     "wof:id":638979199,
-    "wof:lastmodified":1466691867,
+    "wof:lastmodified":1492075991,
     "wof:name":"T & S Painting & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

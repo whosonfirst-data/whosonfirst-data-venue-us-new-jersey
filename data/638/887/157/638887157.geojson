@@ -2,9 +2,14 @@
   "id": 638887157,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Old Tappan Rd Old Tappan NJ 07675",
+    "addr:housenumber":"231",
+    "addr:postcode":"07675",
+    "addr:street":"Old Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.984376,41.01301,-73.984376,41.01301",
     "geom:latitude":41.01301,
     "geom:longitude":-73.984376,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t4bUo9NPWZdllmeX7MvEw_41.013010_-73.984376@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282402,
     "wof:geomhash":"8787f7a3a4a311664612ea996af3f798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":638887157
+        }
+    ],
     "wof:id":638887157,
-    "wof:lastmodified":1466689826,
+    "wof:lastmodified":1492052345,
     "wof:name":"Old Tappan Fire Meeting Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

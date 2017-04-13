@@ -2,9 +2,14 @@
   "id": 655500639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 Elaine Ter Union NJ 07083",
+    "addr:housenumber":"1407",
+    "addr:postcode":"07083",
+    "addr:street":"Elaine Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251072,40.704983,-74.251072,40.704983",
     "geom:latitude":40.704983,
     "geom:longitude":-74.251072,
@@ -27,7 +32,10 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vawkyLBgUCv31lfU97iZ4_40.704983_-74.251072@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308874,
     "wof:geomhash":"d18444510779811c06db5c5c93b9b89e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655500639
+        }
+    ],
     "wof:id":655500639,
-    "wof:lastmodified":1466678250,
+    "wof:lastmodified":1492053915,
     "wof:name":"Health Pro Svc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

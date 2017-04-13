@@ -2,9 +2,14 @@
   "id": 639011155,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Lexington Cir Marlton NJ 08053",
+    "addr:housenumber":"55",
+    "addr:postcode":"08053",
+    "addr:street":"Lexington Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.91344,39.90578,-74.91344,39.90578",
     "geom:latitude":39.90578,
     "geom:longitude":-74.91344,
@@ -28,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78QbOuIh9ZrcJAqGwmhKbQ_39.905780_-74.913440@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461285345,
     "wof:geomhash":"5efff4e51b7110afa6d063d402fe0043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639011155
+        }
+    ],
     "wof:id":639011155,
-    "wof:lastmodified":1466673295,
+    "wof:lastmodified":1492030664,
     "wof:name":"Jacobsen Business Programs",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

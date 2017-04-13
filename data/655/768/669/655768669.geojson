@@ -2,9 +2,14 @@
   "id": 655768669,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Weston Ct Wayne NJ 07470",
+    "addr:housenumber":"83",
+    "addr:postcode":"07470",
+    "addr:street":"Weston Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275059,40.959956,-74.275059,40.959956",
     "geom:latitude":40.959956,
     "geom:longitude":-74.275059,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.olivegarden.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_050b0BuyZE2kpbsKzQrfUD_40.959956_-74.275059@1303262265"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461320026,
     "wof:geomhash":"c128e1d8e637195d9eb12b02bdc2a503",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655768669
+        }
+    ],
     "wof:id":655768669,
-    "wof:lastmodified":1466686161,
+    "wof:lastmodified":1492068950,
     "wof:name":"Olive Garden",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

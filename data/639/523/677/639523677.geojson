@@ -2,9 +2,14 @@
   "id": 639523677,
   "type": "Feature",
   "properties": {
+    "addr:full":"741 Mount Lucas Rd Princeton NJ 08540",
+    "addr:housenumber":"741",
+    "addr:postcode":"08540",
+    "addr:street":"Mount Lucas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.653578,40.382635,-74.653578,40.382635",
     "geom:latitude":40.382635,
     "geom:longitude":-74.653578,
@@ -27,7 +32,13 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u7MvUpSAxyJmALsFgO1hH_40.382635_-74.653578@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298490,
     "wof:geomhash":"62e3476a354745181eb0d64f91f69cbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639523677
+        }
+    ],
     "wof:id":639523677,
-    "wof:lastmodified":1466695291,
+    "wof:lastmodified":1492042574,
     "wof:name":"Princeton House Behavioral Hlt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

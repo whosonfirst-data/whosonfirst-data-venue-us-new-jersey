@@ -2,9 +2,14 @@
   "id": 639156575,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Washington St Toms River NJ 08753",
+    "addr:housenumber":"239",
+    "addr:postcode":"08753",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.191502,39.952227,-74.191502,39.952227",
     "geom:latitude":39.952227,
     "geom:longitude":-74.191502,
@@ -34,7 +39,10 @@
         85633793,
         85976351,
         102081485,
-        85688607
+        85688607,
+        420527455,
+        404477803,
+        85976323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85840763,
             "region_id":85688607,
             "venue_id":639156575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":420527455,
+            "region_id":85688607,
+            "venue_id":639156575
         }
     ],
     "wof:id":639156575,
-    "wof:lastmodified":1466682372,
+    "wof:lastmodified":1492051497,
     "wof:name":"Ocean County Sheriff Dept",
-    "wof:parent_id":85840763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

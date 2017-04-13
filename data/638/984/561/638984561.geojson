@@ -2,9 +2,14 @@
   "id": 638984561,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Gilbert Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"100",
+    "addr:postcode":"07407",
+    "addr:street":"Gilbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127622,40.908936,-74.127622,40.908936",
     "geom:latitude":40.908936,
     "geom:longitude":-74.127622,
@@ -24,7 +29,14 @@
     "sg:postcode":"07407",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WirYw6QQNOrnujXKHwAHD_40.908936_-74.127622@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461284738,
     "wof:geomhash":"6c619532078bedab87b5f7b4b69085d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638984561
+        }
+    ],
     "wof:id":638984561,
-    "wof:lastmodified":1466691966,
+    "wof:lastmodified":1492041103,
     "wof:name":"Park Elmwood Jewish Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

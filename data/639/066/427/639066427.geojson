@@ -2,9 +2,14 @@
   "id": 639066427,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 N Middletown Rd Montvale NJ 07645",
+    "addr:housenumber":"48",
+    "addr:postcode":"07645",
+    "addr:street":"N Middletown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.013567,41.046485,-74.013567,41.046485",
     "geom:latitude":41.046485,
     "geom:longitude":-74.013567,
@@ -28,7 +33,14 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14KPyS6BKTDYbm5LqbubIm_41.046485_-74.013567@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286616,
     "wof:geomhash":"b0e332f1d29e967710ebaa138388c38c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639066427
+        }
+    ],
     "wof:id":639066427,
-    "wof:lastmodified":1466688213,
+    "wof:lastmodified":1492061595,
     "wof:name":"Auto Appearance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

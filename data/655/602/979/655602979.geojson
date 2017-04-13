@@ -2,9 +2,14 @@
   "id": 655602979,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Winans Ave Hillside NJ 07205",
+    "addr:housenumber":"400",
+    "addr:postcode":"07205",
+    "addr:street":"Winans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.230027,40.708501,-74.230027,40.708501",
     "geom:latitude":40.708501,
     "geom:longitude":-74.230027,
@@ -25,7 +30,15 @@
     "sg:province":"NJ",
     "sg:website":"www.wdtna.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526959,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tTNyhodCLHa0aKfP75qOU_40.708501_-74.230027@1294171694"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461313135,
     "wof:geomhash":"9d556a318493f5973656a63f050c69f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":420526959,
+            "region_id":85688607,
+            "venue_id":655602979
+        }
+    ],
     "wof:id":655602979,
-    "wof:lastmodified":1466681356,
+    "wof:lastmodified":1492052250,
     "wof:name":"90 South Realty LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

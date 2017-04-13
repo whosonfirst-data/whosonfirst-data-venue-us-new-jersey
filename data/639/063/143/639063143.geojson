@@ -2,9 +2,14 @@
   "id": 639063143,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Condit Ct Roseland NJ 07068",
+    "addr:housenumber":"36",
+    "addr:postcode":"07068",
+    "addr:street":"Condit Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.290858,40.818881,-74.290858,40.818881",
     "geom:latitude":40.818881,
     "geom:longitude":-74.290858,
@@ -27,7 +32,14 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UI6k4UlZ7411LAKyTtti4_40.818881_-74.290858@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286544,
     "wof:geomhash":"35f4dda08aea1aa006bfb902df7df7cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":639063143
+        }
+    ],
     "wof:id":639063143,
-    "wof:lastmodified":1466688094,
+    "wof:lastmodified":1492083540,
     "wof:name":"Freddie Fred Theatre Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

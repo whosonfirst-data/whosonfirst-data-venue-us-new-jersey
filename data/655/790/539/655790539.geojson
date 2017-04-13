@@ -2,9 +2,14 @@
   "id": 655790539,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 S Salem St Unit 4. Next to Dunkin's Randolph NJ 07869",
+    "addr:housenumber":"224;next to",
+    "addr:postcode":"07869",
+    "addr:street":"S Salem St Unit;Dunkin'S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.536605,40.876328,-74.536605,40.876328",
     "geom:latitude":40.876328,
     "geom:longitude":-74.536605,
@@ -24,7 +29,10 @@
     "sg:postcode":"07869",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C6FOCZHvHzHfmLUnebFyC_40.876328_-74.536605@1303262271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461320997,
     "wof:geomhash":"28ac09a9b96d47a174be7ad2bb47b7c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790539
+        }
+    ],
     "wof:id":655790539,
-    "wof:lastmodified":1466686659,
+    "wof:lastmodified":1492028470,
     "wof:name":"Modern Nails",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

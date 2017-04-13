@@ -2,9 +2,14 @@
   "id": 655781275,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Summit Ave Ste 201 Montvale NJ 07645",
+    "addr:housenumber":"180",
+    "addr:postcode":"07645",
+    "addr:street":"Summit Ave Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067434,41.058182,-74.067434,41.058182",
     "geom:latitude":41.058182,
     "geom:longitude":-74.067434,
@@ -35,7 +40,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76I3NCrXzLUVzUIWznzfU0_41.058182_-74.067434@1303262268"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461320605,
     "wof:geomhash":"0bc108e89e1c503570862ed783aa3e0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":655781275
+        }
+    ],
     "wof:id":655781275,
-    "wof:lastmodified":1466686331,
+    "wof:lastmodified":1492058263,
     "wof:name":"Cfc Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

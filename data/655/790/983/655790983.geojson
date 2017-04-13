@@ -2,9 +2,14 @@
   "id": 655790983,
   "type": "Feature",
   "properties": {
+    "addr:full":"256 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"256",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.959,40.7626,-74.959,40.7626",
     "geom:latitude":40.7626,
     "geom:longitude":-74.959,
@@ -24,7 +29,10 @@
     "sg:postcode":"07882",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SHBwmPrjJwcyjHmGHqgbc_40.762600_-74.959000@1303262271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321018,
     "wof:geomhash":"f587df4d728e37b9f132bbb138229dc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655790983
+        }
+    ],
     "wof:id":655790983,
-    "wof:lastmodified":1466686773,
+    "wof:lastmodified":1492061320,
     "wof:name":"Washington Head Quarters",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

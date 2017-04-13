@@ -2,9 +2,14 @@
   "id": 638836829,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Mattison Ave Asbury Park NJ 07712",
+    "addr:housenumber":"700",
+    "addr:postcode":"07712",
+    "addr:street":"Mattison Ave Asbury",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.013133,40.216698,-74.013133,40.216698",
     "geom:latitude":40.216698,
     "geom:longitude":-74.013133,
@@ -35,7 +40,10 @@
         85633793,
         85975367,
         102085049,
-        85688607
+        85688607,
+        85892321,
+        404478323,
+        85975377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +62,22 @@
             "neighbourhood_id":85892313,
             "region_id":85688607,
             "venue_id":638836829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478323,
+            "locality_id":85975377,
+            "neighbourhood_id":85892321,
+            "region_id":85688607,
+            "venue_id":638836829
         }
     ],
     "wof:id":638836829,
-    "wof:lastmodified":1466689067,
+    "wof:lastmodified":1492056577,
     "wof:name":"Care Center Drop In",
-    "wof:parent_id":85892313,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

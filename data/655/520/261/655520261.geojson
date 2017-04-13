@@ -2,9 +2,14 @@
   "id": 655520261,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Broadway Bayonne NJ 07002",
+    "addr:housenumber":"435",
+    "addr:postcode":"07002",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120256,40.661584,-74.120256,40.661584",
     "geom:latitude":40.661584,
     "geom:longitude":-74.120256,
@@ -35,7 +40,14 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EXbzlkk5Ks9Ip9koVOztT_40.661584_-74.120256@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461309683,
     "wof:geomhash":"88a2261694653faafc6c15a111873265",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655520261
+        }
+    ],
     "wof:id":655520261,
-    "wof:lastmodified":1466678686,
+    "wof:lastmodified":1492024864,
     "wof:name":"Innovative Kitchen Design LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

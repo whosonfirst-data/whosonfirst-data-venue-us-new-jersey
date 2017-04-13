@@ -2,9 +2,14 @@
   "id": 639340001,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Rick Rd Milford NJ 08848",
+    "addr:housenumber":"174",
+    "addr:postcode":"08848",
+    "addr:street":"Rick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032555,40.593031,-75.032555,40.593031",
     "geom:latitude":40.593031,
     "geom:longitude":-75.032555,
@@ -24,7 +29,13 @@
     "sg:postcode":"08848",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29EOHI8xBmu29K0doRvded_40.593031_-75.032555@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461292809,
     "wof:geomhash":"6c04521a8826f077eca10346e5df61a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639340001
+        }
+    ],
     "wof:id":639340001,
-    "wof:lastmodified":1466692565,
+    "wof:lastmodified":1492042304,
     "wof:name":"Jablons Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

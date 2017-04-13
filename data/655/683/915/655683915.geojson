@@ -2,9 +2,14 @@
   "id": 655683915,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"602",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988197,40.824699,-73.988197,40.824699",
     "geom:latitude":40.824699,
     "geom:longitude":-73.988197,
@@ -30,7 +35,14 @@
         "karate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_751BgTOcdK27xvAB2tbw2n_40.824724_-73.988186@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316586,
     "wof:geomhash":"152f61508942b85725a832b205f8bdb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655683915
+        }
+    ],
     "wof:id":655683915,
-    "wof:lastmodified":1466683951,
+    "wof:lastmodified":1492044040,
     "wof:name":"World Oyama Karate Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639456033,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"174",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804339,40.274998,-74.804339,40.274998",
     "geom:latitude":40.274998,
     "geom:longitude":-74.804339,
@@ -27,7 +32,13 @@
         "hairdresser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147,
+        85688607,
+        85818373,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39LL4XhxEJcjilA0C9irST_40.274998_-74.804339@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461295649,
     "wof:geomhash":"88ef9d33408e4c4464201804d0281667",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":639456033
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85818373,
+            "region_id":85688607,
+            "venue_id":639456033
+        }
+    ],
     "wof:id":639456033,
-    "wof:lastmodified":1466693617,
+    "wof:lastmodified":1492067465,
     "wof:name":"Robert Mark Hair Designer Inc",
-    "wof:parent_id":420527147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

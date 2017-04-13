@@ -2,9 +2,14 @@
   "id": 655558657,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"180",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145785,41.096044,-74.145785,41.096044",
     "geom:latitude":41.096044,
     "geom:longitude":-74.145785,
@@ -32,7 +37,13 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hOcVuKoClzeWO0lgKLmlO_41.096044_-74.145785@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461311203,
     "wof:geomhash":"33dd51d97f50984a85c251960fc0aa85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655558657
+        }
+    ],
     "wof:id":655558657,
-    "wof:lastmodified":1466679844,
+    "wof:lastmodified":1492051744,
     "wof:name":"Curves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

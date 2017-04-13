@@ -2,9 +2,14 @@
   "id": 639369921,
   "type": "Feature",
   "properties": {
+    "addr:full":"293 Hamilton Ave Trenton NJ 08609",
+    "addr:housenumber":"293",
+    "addr:postcode":"08609",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750926,40.214858,-74.750926,40.214858",
     "geom:latitude":40.214858,
     "geom:longitude":-74.750926,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iJk76HVLpx2aF4m20rNAV_40.214858_-74.750926@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293430,
     "wof:geomhash":"04705911e2d082620b52876d30268528",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639369921
+        }
+    ],
     "wof:id":639369921,
-    "wof:lastmodified":1466692714,
+    "wof:lastmodified":1492041899,
     "wof:name":"Vetri Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

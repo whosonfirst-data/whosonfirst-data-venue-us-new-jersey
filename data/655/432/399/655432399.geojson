@@ -2,9 +2,14 @@
   "id": 655432399,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 N Union St Lambertville NJ 08530",
+    "addr:housenumber":"243",
+    "addr:postcode":"08530",
+    "addr:street":"N Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.947619,40.373814,-74.947619,40.373814",
     "geom:latitude":40.373814,
     "geom:longitude":-74.947619,
@@ -29,7 +34,14 @@
         "show"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xH7fmLXnC5mGUu1870831_40.373814_-74.947619@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461306002,
     "wof:geomhash":"1fb69fc0c31f6599eca490b2bece29ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655432399
+        }
+    ],
     "wof:id":655432399,
-    "wof:lastmodified":1466676356,
+    "wof:lastmodified":1492053543,
     "wof:name":"CPM Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

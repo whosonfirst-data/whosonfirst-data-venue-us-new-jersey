@@ -2,9 +2,14 @@
   "id": 639209783,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 Changebridge Rd Pine Brook NJ 07058",
+    "addr:housenumber":"331",
+    "addr:postcode":"07058",
+    "addr:street":"Changebridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.346518,40.864511,-74.346518,40.864511",
     "geom:latitude":40.864511,
     "geom:longitude":-74.346518,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.bell-mark.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hVRE0DCzEOgb5qp7MFhMT_40.864511_-74.346518@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461289897,
     "wof:geomhash":"a8617d736648fff31c27be4c63e7305e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":639209783
+        }
+    ],
     "wof:id":639209783,
-    "wof:lastmodified":1466689103,
+    "wof:lastmodified":1492043267,
     "wof:name":"Bell-Mark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

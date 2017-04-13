@@ -2,9 +2,14 @@
   "id": 655440065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Kelso Pl Manalapan NJ 07726",
+    "addr:housenumber":"1",
+    "addr:postcode":"07726",
+    "addr:street":"Kelso Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.31281,40.310037,-74.31281,40.310037",
     "geom:latitude":40.310037,
     "geom:longitude":-74.31281,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x8HRfMm7Vfb4FJI5P4ui2_40.310037_-74.312810@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306288,
     "wof:geomhash":"c4d5a45a951204702a5432cd4dc301cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655440065
+        }
+    ],
     "wof:id":655440065,
-    "wof:lastmodified":1466676510,
+    "wof:lastmodified":1492047709,
     "wof:name":"R Wolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

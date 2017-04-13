@@ -2,9 +2,14 @@
   "id": 639616683,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Richard Ct Princeton NJ 08540",
+    "addr:housenumber":"17",
+    "addr:postcode":"08540",
+    "addr:street":"Richard Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.65516,40.356388,-74.65516,40.356388",
     "geom:latitude":40.356388,
     "geom:longitude":-74.65516,
@@ -27,7 +32,14 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aCYGRU8fOIVn5QH0oWuPz_40.356388_-74.655160@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302374,
     "wof:geomhash":"11bd6cb041dd050611c62d03987269ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639616683
+        }
+    ],
     "wof:id":639616683,
-    "wof:lastmodified":1466697265,
+    "wof:lastmodified":1492044436,
     "wof:name":"Judd OSullivan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

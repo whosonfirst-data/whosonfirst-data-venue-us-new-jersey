@@ -2,9 +2,14 @@
   "id": 639344539,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Frederick St Garfield NJ 07026",
+    "addr:housenumber":"147",
+    "addr:postcode":"07026",
+    "addr:street":"Frederick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.101321,40.874167,-74.101321,40.874167",
     "geom:latitude":40.874167,
     "geom:longitude":-74.101321,
@@ -27,7 +32,14 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xah5leXD17WCqBDEpNNDz_40.874167_-74.101321@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292903,
     "wof:geomhash":"c9824d317c1d73a68153e9d6761e3c83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639344539
+        }
+    ],
     "wof:id":639344539,
-    "wof:lastmodified":1466692320,
+    "wof:lastmodified":1492062093,
     "wof:name":"Charlie Blood's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

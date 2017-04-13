@@ -2,9 +2,14 @@
   "id": 639578445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cape Ct Marlboro NJ 07731",
+    "addr:housenumber":"1",
+    "addr:postcode":"07731",
+    "addr:street":"Cape Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.242567,40.145941,-74.242567,40.145941",
     "geom:latitude":40.145941,
     "geom:longitude":-74.242567,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X9mme8KvBI1LS7pmufblK_40.145941_-74.242567@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461300842,
     "wof:geomhash":"2e8611f2649f854b9da418b1f16e1803",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639578445
+        }
+    ],
     "wof:id":639578445,
-    "wof:lastmodified":1466696394,
+    "wof:lastmodified":1492055603,
     "wof:name":"Lb Ventures LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

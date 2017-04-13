@@ -2,9 +2,14 @@
   "id": 655836265,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 River Rd Flemington NJ 08822",
+    "addr:housenumber":"79",
+    "addr:postcode":"08822",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.836983,40.52433,-74.836983,40.52433",
     "geom:latitude":40.52433,
     "geom:longitude":-74.836983,
@@ -43,7 +48,10 @@
     ],
     "sg:website":"http://www-republicservices-com.netsolads.com/?_nsag=40659",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527069
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eV4DcN2fd1XIUodiOSMSb_40.524330_-74.836983@1303262282"
@@ -51,9 +59,15 @@
     "wof:country":"US",
     "wof:created":1461322918,
     "wof:geomhash":"7e58692700251967cc0f6d232aaee214",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527069,
+            "venue_id":655836265
+        }
+    ],
     "wof:id":655836265,
-    "wof:lastmodified":1466687872,
+    "wof:lastmodified":1492043097,
     "wof:name":"Raritan Valley Disposal / Recycling",
     "wof:parent_id":420527069,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638824541,
   "type": "Feature",
   "properties": {
+    "addr:full":"11224 Taylor Ct Princeton Jct NJ 08550",
+    "addr:housenumber":"11224",
+    "addr:postcode":"08550",
+    "addr:street":"Taylor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.641081,40.296876,-74.641081,40.296876",
     "geom:latitude":40.296876,
     "geom:longitude":-74.641081,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30mi1XYJg3AtWikImYMraf_40.296876_-74.641081@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280840,
     "wof:geomhash":"204986aa349de5fb3f8aa8bf70bab947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":638824541
+        }
+    ],
     "wof:id":638824541,
-    "wof:lastmodified":1466688695,
+    "wof:lastmodified":1492053750,
     "wof:name":"Wrap N Pack",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

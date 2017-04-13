@@ -2,9 +2,14 @@
   "id": 655566911,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Ridge Rd Southampton NJ 08088",
+    "addr:housenumber":"520",
+    "addr:postcode":"08088",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703244,39.938632,-74.703244,39.938632",
     "geom:latitude":39.938632,
     "geom:longitude":-74.703244,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BOE3ygn3EJLuqMLNaa17C_39.938632_-74.703244@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311575,
     "wof:geomhash":"f06078f2fb4c73544659588cb6dceb1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655566911
+        }
+    ],
     "wof:id":655566911,
-    "wof:lastmodified":1466680054,
+    "wof:lastmodified":1492045067,
     "wof:name":"Buddtown United Methodist Chr",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639220507,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Fox Chase Ct Vincentown NJ 08088",
+    "addr:housenumber":"101",
+    "addr:postcode":"08088",
+    "addr:street":"Fox Chase Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.781388,39.92046,-74.781388,39.92046",
     "geom:latitude":39.92046,
     "geom:longitude":-74.781388,
@@ -27,7 +32,10 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24X6CnOStnpB8pMUMGrkE8_39.920460_-74.781388@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461290157,
     "wof:geomhash":"08cccd87359ca696b58df79e36ccd114",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526561,
+            "venue_id":639220507
+        }
+    ],
     "wof:id":639220507,
-    "wof:lastmodified":1466689602,
+    "wof:lastmodified":1492047599,
     "wof:name":"Sierra Investment Partners",
     "wof:parent_id":420526561,
     "wof:placetype":"venue",

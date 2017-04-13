@@ -2,9 +2,14 @@
   "id": 638671143,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Mapleview Dr Old Bridge NJ 08857",
+    "addr:housenumber":"109",
+    "addr:postcode":"08857",
+    "addr:street":"Mapleview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.340755,40.391139,-74.340755,40.391139",
     "geom:latitude":40.391139,
     "geom:longitude":-74.340755,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EYPG2pi5fgy3b4mZpb2g5_40.391139_-74.340755@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461276498,
     "wof:geomhash":"91b74d1c415b57ad6a498ae397699f00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527219,
+            "venue_id":638671143
+        }
+    ],
     "wof:id":638671143,
-    "wof:lastmodified":1466675874,
+    "wof:lastmodified":1492069476,
     "wof:name":"Country Living At Mapleview",
     "wof:parent_id":420527219,
     "wof:placetype":"venue",

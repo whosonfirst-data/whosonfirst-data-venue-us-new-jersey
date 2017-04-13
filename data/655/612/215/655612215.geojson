@@ -2,9 +2,14 @@
   "id": 655612215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1990 US Hwy 206 Southampton NJ 08088",
+    "addr:housenumber":"1990",
+    "addr:postcode":"08088",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.741507,39.920544,-74.741507,39.920544",
     "geom:latitude":39.920544,
     "geom:longitude":-74.741507,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.theifagroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FgsEz2hmOSHPevREjOOEK_39.920544_-74.741507@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313520,
     "wof:geomhash":"388aeef702287ebb8052170eed8782b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655612215
+        }
+    ],
     "wof:id":655612215,
-    "wof:lastmodified":1466681443,
+    "wof:lastmodified":1492050444,
     "wof:name":"IFA Group Inc",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

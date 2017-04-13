@@ -2,9 +2,14 @@
   "id": 655439123,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Estate Dr Sussex NJ 07461",
+    "addr:housenumber":"20",
+    "addr:postcode":"07461",
+    "addr:street":"Estate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.664005,41.199136,-74.664005,41.199136",
     "geom:latitude":41.199136,
     "geom:longitude":-74.664005,
@@ -27,7 +32,10 @@
         "multimedia"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d2wge53J6DN1sxP9atIl4_41.199136_-74.664005@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306256,
     "wof:geomhash":"f7e1fe34aac320a79212444dfc6b9cb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527623,
+            "venue_id":655439123
+        }
+    ],
     "wof:id":655439123,
-    "wof:lastmodified":1466676521,
+    "wof:lastmodified":1492024309,
     "wof:name":"Marathon Media Radio Broadcast",
     "wof:parent_id":420527623,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655539775,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Birch St Port Reading NJ 07064",
+    "addr:housenumber":"11",
+    "addr:postcode":"07064",
+    "addr:street":"Birch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237502,40.573039,-74.237502,40.573039",
     "geom:latitude":40.573039,
     "geom:longitude":-74.237502,
@@ -24,7 +29,14 @@
     "sg:postcode":"07064",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478217,
+        85633793,
+        85976313,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L4Dor8wmOOporSwuloDXD_40.573039_-74.237502@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461310419,
     "wof:geomhash":"018b10ef4a146dcba999a0901b770e81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976313,
+            "region_id":85688607,
+            "venue_id":655539775
+        }
+    ],
     "wof:id":655539775,
-    "wof:lastmodified":1466679350,
+    "wof:lastmodified":1492023530,
     "wof:name":"National Conference of FI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639144025,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Pequest Rd Andover NJ 07821",
+    "addr:housenumber":"240",
+    "addr:postcode":"07821",
+    "addr:street":"Pequest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.77104,40.981259,-74.77104,40.981259",
     "geom:latitude":40.981259,
     "geom:longitude":-74.77104,
@@ -29,7 +34,13 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527627,
+        85688607,
+        85803133,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R9oPD39oN1aEZNHpsx8Mo_40.981259_-74.771040@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461288385,
     "wof:geomhash":"28d1a2025ab3f7ece5e2507dd8ddb5a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527627,
+            "venue_id":639144025
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85803133,
+            "region_id":85688607,
+            "venue_id":639144025
+        }
+    ],
     "wof:id":639144025,
-    "wof:lastmodified":1466680371,
+    "wof:lastmodified":1492054546,
     "wof:name":"Calini Carpet Cleaning",
-    "wof:parent_id":420527627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

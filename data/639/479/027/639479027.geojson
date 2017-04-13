@@ -2,9 +2,14 @@
   "id": 639479027,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Koeck Rd Hope NJ 07832",
+    "addr:housenumber":"44",
+    "addr:postcode":"07832",
+    "addr:street":"Koeck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031782,40.896605,-75.031782,40.896605",
     "geom:latitude":40.896605,
     "geom:longitude":-75.031782,
@@ -27,7 +32,10 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04ADYug4c6ZDVVdJ5agIZx_40.896605_-75.031782@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296565,
     "wof:geomhash":"4f2baedfa93b19c77aad63c1904041db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527759,
+            "venue_id":639479027
+        }
+    ],
     "wof:id":639479027,
-    "wof:lastmodified":1466693910,
+    "wof:lastmodified":1492042276,
     "wof:name":"Camp Warren",
     "wof:parent_id":420527759,
     "wof:placetype":"venue",

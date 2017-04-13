@@ -2,9 +2,14 @@
   "id": 638773473,
   "type": "Feature",
   "properties": {
+    "addr:full":"398 Broad Ave Leonia NJ 07605",
+    "addr:housenumber":"398",
+    "addr:postcode":"07605",
+    "addr:street":"Broad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985374,40.865308,-73.985374,40.865308",
     "geom:latitude":40.865308,
     "geom:longitude":-73.985374,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892521,
+        102086773,
         85830809,
         102191575,
         404477537,
-        85633793,
-        85975869,
-        102086773,
-        85688607
+        85975869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +51,13 @@
     "wof:created":1461279639,
     "wof:geomhash":"ba09c2f4771a6aac85868ebf7331181d",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85892521,
+            "region_id":85688607,
+            "venue_id":638773473
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":638773473,
-    "wof:lastmodified":1466681720,
+    "wof:lastmodified":1492053755,
     "wof:name":"US Post Office",
-    "wof:parent_id":85830809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

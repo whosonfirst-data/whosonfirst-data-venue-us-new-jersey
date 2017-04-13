@@ -2,9 +2,14 @@
   "id": 655478547,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Diane Ct Woodcliff Lake NJ 07677",
+    "addr:housenumber":"22",
+    "addr:postcode":"07677",
+    "addr:street":"Diane Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.073262,41.048465,-74.073262,41.048465",
     "geom:latitude":41.048465,
     "geom:longitude":-74.073262,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477749,
+        85633793,
+        85975885,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eEXXRTtE6StIurQZUwHUl_41.048465_-74.073262@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307939,
     "wof:geomhash":"aef84b172b2871c3ca8536c38b8936b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477749,
+            "locality_id":85975885,
+            "region_id":85688607,
+            "venue_id":655478547
+        }
+    ],
     "wof:id":655478547,
-    "wof:lastmodified":1466677655,
+    "wof:lastmodified":1492075509,
     "wof:name":"Kosco Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

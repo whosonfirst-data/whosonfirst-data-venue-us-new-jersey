@@ -2,9 +2,14 @@
   "id": 639517201,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 Allen St Trenton NJ 08618",
+    "addr:housenumber":"232",
+    "addr:postcode":"08618",
+    "addr:street":"Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761515,40.224353,-74.761515,40.224353",
     "geom:latitude":40.224353,
     "geom:longitude":-74.761515,
@@ -28,7 +33,14 @@
         "glue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7586qpBzwOrcfV2VPlwokW_40.224353_-74.761515@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298172,
     "wof:geomhash":"04f269fc8aed06f89eb70e74d73956d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639517201
+        }
+    ],
     "wof:id":639517201,
-    "wof:lastmodified":1466694964,
+    "wof:lastmodified":1492047127,
     "wof:name":"Union Rubber Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

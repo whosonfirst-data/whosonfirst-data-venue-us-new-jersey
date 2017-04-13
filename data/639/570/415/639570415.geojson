@@ -2,9 +2,14 @@
   "id": 639570415,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Churchill Ave Somerset NJ 08873",
+    "addr:housenumber":"160",
+    "addr:postcode":"08873",
+    "addr:street":"Churchill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.496546,40.4836,-74.496546,40.4836",
     "geom:latitude":40.4836,
     "geom:longitude":-74.496546,
@@ -24,7 +29,14 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tyYskvguYZqtsh2UQ5yjd_40.483600_-74.496546@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461300530,
     "wof:geomhash":"3b73fd0e3f2c882edf38eb7eb2d19445",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":639570415
+        }
+    ],
     "wof:id":639570415,
-    "wof:lastmodified":1466696033,
+    "wof:lastmodified":1492029467,
     "wof:name":"Serv O Mat Vending Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

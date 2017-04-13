@@ -2,9 +2,14 @@
   "id": 639019135,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Franklin Tpke Waldwick NJ 07463",
+    "addr:housenumber":"20",
+    "addr:postcode":"07463",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117806,41.008015,-74.117806,41.008015",
     "geom:latitude":41.008015,
     "geom:longitude":-74.117806,
@@ -27,7 +32,18 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892491,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773,
+        85688607,
+        420526547,
+        404477743,
+        85975897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tpNRPsPwn64ODAUVO2pkk_41.008015_-74.117806@1294171694"
@@ -35,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1461285530,
     "wof:geomhash":"f20fbd7f531cce9e8cefba4aae6fc060",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "neighbourhood_id":85892491,
+            "region_id":85688607,
+            "venue_id":639019135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477743,
+            "locality_id":85975897,
+            "neighbourhood_id":420526547,
+            "region_id":85688607,
+            "venue_id":639019135
+        }
+    ],
     "wof:id":639019135,
-    "wof:lastmodified":1466673475,
+    "wof:lastmodified":1492022089,
     "wof:name":"Med-Tech PARTNERS LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

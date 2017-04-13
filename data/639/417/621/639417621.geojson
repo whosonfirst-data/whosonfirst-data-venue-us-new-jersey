@@ -2,9 +2,14 @@
   "id": 639417621,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Pequest Rd Andover NJ 07821",
+    "addr:housenumber":"250",
+    "addr:postcode":"07821",
+    "addr:street":"Pequest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.772044,40.98102,-74.772044,40.98102",
     "geom:latitude":40.98102,
     "geom:longitude":-74.772044,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bty9QFHBqi1tPjVredvsH_40.981020_-74.772044@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461294653,
     "wof:geomhash":"215ed28e572d8aeb8ec2c9812e3fe0cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527627,
+            "venue_id":639417621
+        }
+    ],
     "wof:id":639417621,
-    "wof:lastmodified":1466693191,
+    "wof:lastmodified":1492057353,
     "wof:name":"Costa Construction",
     "wof:parent_id":420527627,
     "wof:placetype":"venue",

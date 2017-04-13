@@ -2,9 +2,14 @@
   "id": 655520053,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Union Tpke Branchville NJ 07826",
+    "addr:housenumber":"20",
+    "addr:postcode":"07826",
+    "addr:street":"Union Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.770068,41.150841,-74.770068,41.150841",
     "geom:latitude":41.150841,
     "geom:longitude":-74.770068,
@@ -28,7 +33,13 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639,
+        85688607,
+        85813187,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L1pcoo2YMy47Wt076O9Xu_41.150841_-74.770068@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461309674,
     "wof:geomhash":"6f0292cfaa9f070ec3f124ce659cd776",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655520053
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85813187,
+            "region_id":85688607,
+            "venue_id":655520053
+        }
+    ],
     "wof:id":655520053,
-    "wof:lastmodified":1466678630,
+    "wof:lastmodified":1492058460,
     "wof:name":"Vealey Excavating Inc",
-    "wof:parent_id":420527639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

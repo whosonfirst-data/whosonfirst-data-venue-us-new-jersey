@@ -2,9 +2,14 @@
   "id": 655582269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1459 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1459",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251247,40.723214,-74.251247,40.723214",
     "geom:latitude":40.723214,
     "geom:longitude":-74.251247,
@@ -38,7 +43,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HXqZA34JSFHXNF4XzYhNU_40.723214_-74.251247@1294171694"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461312268,
     "wof:geomhash":"b438aeb4ef1112984626c2e7e8d2bb4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":655582269
+        }
+    ],
     "wof:id":655582269,
-    "wof:lastmodified":1466680291,
+    "wof:lastmodified":1492057538,
     "wof:name":"Richard's Service Station",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639531133,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Ackerman Ave Ramsey NJ 07446",
+    "addr:housenumber":"81",
+    "addr:postcode":"07446",
+    "addr:street":"Ackerman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148837,41.056712,-74.148837,41.056712",
     "geom:latitude":41.056712,
     "geom:longitude":-74.148837,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k63w2nF9PdkG9qAs5KMUx_41.056712_-74.148837@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298880,
     "wof:geomhash":"4211525483ea2983df11ab3ed408f4e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":639531133
+        }
+    ],
     "wof:id":639531133,
-    "wof:lastmodified":1466695328,
+    "wof:lastmodified":1492040119,
     "wof:name":"Wesdyk Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

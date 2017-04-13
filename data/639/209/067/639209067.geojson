@@ -2,9 +2,14 @@
   "id": 639209067,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Bauer Dr Oakland NJ 07436",
+    "addr:housenumber":"111",
+    "addr:postcode":"07436",
+    "addr:street":"Bauer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237612,41.008909,-74.237612,41.008909",
     "geom:latitude":41.008909,
     "geom:longitude":-74.237612,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.russberrie.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U3mrC9fo3nkLg9P7m8Tdu_41.008909_-74.237612@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461289881,
     "wof:geomhash":"7b89160a0664aeca4a09c3890d852dca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639209067
+        }
+    ],
     "wof:id":639209067,
-    "wof:lastmodified":1466689026,
+    "wof:lastmodified":1492054526,
     "wof:name":"Russ Berrie & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

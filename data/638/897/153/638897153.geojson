@@ -2,9 +2,14 @@
   "id": 638897153,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Vincent Dr Burlington NJ 08016",
+    "addr:housenumber":"91",
+    "addr:postcode":"08016",
+    "addr:street":"Vincent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.824386,40.066791,-74.824386,40.066791",
     "geom:latitude":40.066791,
     "geom:longitude":-74.824386,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IcBwoDpzLpMCWirK1CQ5e_40.066791_-74.824386@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282678,
     "wof:geomhash":"b6fcc4c04702a2ae2f5128d5a195999f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":638897153
+        }
+    ],
     "wof:id":638897153,
-    "wof:lastmodified":1466690062,
+    "wof:lastmodified":1492048487,
     "wof:name":"Gudul Painting Co",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655471715,
   "type": "Feature",
   "properties": {
+    "addr:full":"2317 Church Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"2317",
+    "addr:postcode":"08002",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.013855,39.942002,-75.013855,39.942002",
     "geom:latitude":39.942002,
     "geom:longitude":-75.013855,
@@ -35,7 +40,14 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MwkvDswzBfE75DXGyYtZt_39.942002_-75.013855@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461307667,
     "wof:geomhash":"d0d6392b566019e3b692bf82d105178f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":655471715
+        }
+    ],
     "wof:id":655471715,
-    "wof:lastmodified":1466677477,
+    "wof:lastmodified":1492029420,
     "wof:name":"Cadbury Continuing Care At Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

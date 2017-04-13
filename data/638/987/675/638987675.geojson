@@ -2,9 +2,14 @@
   "id": 638987675,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"107",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732573,41.085626,-74.732573,41.085626",
     "geom:latitude":41.085626,
     "geom:longitude":-74.732573,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GqfCpN5iZcXNulkQiTuI7_41.085626_-74.732573@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284823,
     "wof:geomhash":"86353b8eea4eeea12585648ddfeabd18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":638987675
+        }
+    ],
     "wof:id":638987675,
-    "wof:lastmodified":1466691964,
+    "wof:lastmodified":1492076474,
     "wof:name":"Gasarama Inc",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

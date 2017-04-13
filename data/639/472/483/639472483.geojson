@@ -2,9 +2,14 @@
   "id": 639472483,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Bogert Pl Bergenfield NJ 07621",
+    "addr:housenumber":"29",
+    "addr:postcode":"07621",
+    "addr:street":"Bogert Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985461,40.929125,-73.985461,40.929125",
     "geom:latitude":40.929125,
     "geom:longitude":-73.985461,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06h6TDDqjMwBeDSLsnmYRo_40.929125_-73.985461@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296292,
     "wof:geomhash":"8ef2c19c97f9a0e3032e4515213bb11d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639472483
+        }
+    ],
     "wof:id":639472483,
-    "wof:lastmodified":1466694116,
+    "wof:lastmodified":1492072402,
     "wof:name":"Misty Mountain Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

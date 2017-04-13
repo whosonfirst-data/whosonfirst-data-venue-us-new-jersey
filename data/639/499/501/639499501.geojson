@@ -2,9 +2,14 @@
   "id": 639499501,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Jade Ct Franklin Park NJ 08823",
+    "addr:housenumber":"8",
+    "addr:postcode":"08823",
+    "addr:street":"Jade Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.555463,40.435463,-74.555463,40.435463",
     "geom:latitude":40.435463,
     "geom:longitude":-74.555463,
@@ -28,7 +33,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OMhURrtAiG8oaDozKtLXM_40.435463_-74.555463@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297385,
     "wof:geomhash":"e78f485477531a80a3bd9801353b644b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639499501
+        }
+    ],
     "wof:id":639499501,
-    "wof:lastmodified":1466694758,
+    "wof:lastmodified":1492047132,
     "wof:name":"Eon Software Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

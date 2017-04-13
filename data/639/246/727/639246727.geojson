@@ -2,9 +2,14 @@
   "id": 639246727,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"800",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.479411,40.488946,-74.479411,40.488946",
     "geom:latitude":40.488946,
     "geom:longitude":-74.479411,
@@ -31,7 +36,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RB4ub1q55MlINwy7xjv7g_40.488946_-74.479411@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461290759,
     "wof:geomhash":"bf3178fda5a7d81e7cb11f0e63bcff72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639246727
+        }
+    ],
     "wof:id":639246727,
-    "wof:lastmodified":1466690357,
+    "wof:lastmodified":1492042771,
     "wof:name":"General Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

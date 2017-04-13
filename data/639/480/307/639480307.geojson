@@ -2,9 +2,14 @@
   "id": 639480307,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Kingwood Locktown Rd Stockton NJ 08559",
+    "addr:housenumber":"204",
+    "addr:postcode":"08559",
+    "addr:street":"Kingwood Locktown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.018977,40.470075,-75.018977,40.470075",
     "geom:latitude":40.470075,
     "geom:longitude":-75.018977,
@@ -28,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZlF7GmymBxRa5c4xYLAR9_40.470075_-75.018977@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461296624,
     "wof:geomhash":"3bdf8b399793c59e66570e462c37905e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":639480307
+        }
+    ],
     "wof:id":639480307,
-    "wof:lastmodified":1466694323,
+    "wof:lastmodified":1492040979,
     "wof:name":"Peak Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638739741,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Woodlane Rd Westampton NJ 08060",
+    "addr:housenumber":"790",
+    "addr:postcode":"08060",
+    "addr:street":"Woodlane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.806691,40.011936,-74.806691,40.011936",
     "geom:latitude":40.011936,
     "geom:longitude":-74.806691,
@@ -32,8 +37,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85858781,
-        102087415
+        85813799,
+        102087415,
+        85858781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,22 @@
         {
             "country_id":85633793,
             "county_id":102087415,
+            "neighbourhood_id":85813799,
+            "region_id":85688607,
+            "venue_id":638739741
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
             "neighbourhood_id":85858781,
             "region_id":85688607,
             "venue_id":638739741
         }
     ],
     "wof:id":638739741,
-    "wof:lastmodified":1466676803,
+    "wof:lastmodified":1492070084,
     "wof:name":"US Agricultural Dept",
-    "wof:parent_id":85858781,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

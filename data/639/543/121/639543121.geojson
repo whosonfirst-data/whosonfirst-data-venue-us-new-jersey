@@ -2,9 +2,14 @@
   "id": 639543121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 Oak St Lakewood NJ 08701",
+    "addr:housenumber":"1550",
+    "addr:postcode":"08701",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.192508,40.060081,-74.192508,40.060081",
     "geom:latitude":40.060081,
     "geom:longitude":-74.192508,
@@ -28,7 +33,10 @@
         "cracker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i2rtolKYQPd2MizyL3xAb_40.060081_-74.192508@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299461,
     "wof:geomhash":"511df83e0c6fe2b55e0d6d4af2d3b61c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639543121
+        }
+    ],
     "wof:id":639543121,
-    "wof:lastmodified":1466695573,
+    "wof:lastmodified":1492024621,
     "wof:name":"Mister Cookie Face",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

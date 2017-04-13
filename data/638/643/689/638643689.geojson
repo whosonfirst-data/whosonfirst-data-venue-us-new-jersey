@@ -2,9 +2,14 @@
   "id": 638643689,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Emerson Ln Berkeley Heights NJ 07922",
+    "addr:housenumber":"210",
+    "addr:postcode":"07922",
+    "addr:street":"Emerson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.442658,40.661964,-74.442658,40.661964",
     "geom:latitude":40.661964,
     "geom:longitude":-74.442658,
@@ -24,7 +29,13 @@
     "sg:postcode":"07922",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478489,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cLJtRZxrzEImEGPNk9MlU_40.661964_-74.442658@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461275628,
     "wof:geomhash":"4a31f4af05aa5a2140ae2a57809dbe7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478489,
+            "region_id":85688607,
+            "venue_id":638643689
+        }
+    ],
     "wof:id":638643689,
-    "wof:lastmodified":1466673612,
+    "wof:lastmodified":1492024135,
     "wof:name":"Free Acres Assoc Farm House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

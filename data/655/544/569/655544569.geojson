@@ -2,9 +2,14 @@
   "id": 655544569,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 S Broad St Trenton NJ 08611",
+    "addr:housenumber":"917",
+    "addr:postcode":"08611",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.748512,40.206326,-74.748512,40.206326",
     "geom:latitude":40.206326,
     "geom:longitude":-74.748512,
@@ -35,7 +40,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pisPLwNe4gBj64esJi90a_40.206326_-74.748512@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461310599,
     "wof:geomhash":"4c34935c0d6bfc482e1579eed1fbed88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655544569
+        }
+    ],
     "wof:id":655544569,
-    "wof:lastmodified":1466679362,
+    "wof:lastmodified":1492041998,
     "wof:name":"Last Chance Recovery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

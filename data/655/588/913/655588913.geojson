@@ -2,9 +2,14 @@
   "id": 655588913,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Maple Ave Stockholm NJ 07460",
+    "addr:housenumber":"55",
+    "addr:postcode":"07460",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524919,41.074564,-74.524919,41.074564",
     "geom:latitude":41.074564,
     "geom:longitude":-74.524919,
@@ -24,7 +29,13 @@
     "sg:postcode":"07460",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478465,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GVZ0yNTnxZoG5s08KzCU6_41.074564_-74.524919@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461312546,
     "wof:geomhash":"c62d2c09eb001c8c92f8ce1041291558",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478465,
+            "region_id":85688607,
+            "venue_id":655588913
+        }
+    ],
     "wof:id":655588913,
-    "wof:lastmodified":1466680853,
+    "wof:lastmodified":1492058462,
     "wof:name":"Sundance Clean LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

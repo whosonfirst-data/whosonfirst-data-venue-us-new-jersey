@@ -2,9 +2,14 @@
   "id": 655380147,
   "type": "Feature",
   "properties": {
+    "addr:full":"467 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"467",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.955769,40.966261,-73.955769,40.966261",
     "geom:latitude":40.966261,
     "geom:longitude":-73.955769,
@@ -28,7 +33,14 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZaTmpc5C0jYREx8VSTRKa_40.966261_-73.955769@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461303812,
     "wof:geomhash":"961743a449cb421677c8cc96acc19011",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655380147
+        }
+    ],
     "wof:id":655380147,
-    "wof:lastmodified":1466674950,
+    "wof:lastmodified":1492050898,
     "wof:name":"Northeastern Towing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639435463,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 Lake Dr Princeton NJ 08540",
+    "addr:housenumber":"580",
+    "addr:postcode":"08540",
+    "addr:street":"Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.629722,40.349738,-74.629722,40.349738",
     "geom:latitude":40.349738,
     "geom:longitude":-74.629722,
@@ -29,7 +34,13 @@
         "it"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mwXt8rCq3JABKtsmmZsb2_40.349738_-74.629722@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461295016,
     "wof:geomhash":"7d151375ccd501cf8e4f5b87e383b87a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639435463
+        }
+    ],
     "wof:id":639435463,
-    "wof:lastmodified":1466693478,
+    "wof:lastmodified":1492042564,
     "wof:name":"My EZ Communications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

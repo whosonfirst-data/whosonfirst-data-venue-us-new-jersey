@@ -2,9 +2,14 @@
   "id": 639435243,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Faulkner Ct Burlington NJ 08016",
+    "addr:housenumber":"25",
+    "addr:postcode":"08016",
+    "addr:street":"Faulkner Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.821117,40.06567,-74.821117,40.06567",
     "geom:latitude":40.06567,
     "geom:longitude":-74.821117,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rYW9VPJrdcAL5CqLUMGZo_40.065670_-74.821117@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295013,
     "wof:geomhash":"bdff299e040525e5980fb6f727d86072",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":639435243
+        }
+    ],
     "wof:id":639435243,
-    "wof:lastmodified":1466693468,
+    "wof:lastmodified":1492048489,
     "wof:name":"Edward Wright Electrical Contr",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

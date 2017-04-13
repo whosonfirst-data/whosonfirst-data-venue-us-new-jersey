@@ -2,9 +2,14 @@
   "id": 655766657,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Farmingdale Rd Wayne NJ 07470",
+    "addr:housenumber":"6",
+    "addr:postcode":"07470",
+    "addr:street":"Farmingdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.278313,40.96835,-74.278313,40.96835",
     "geom:latitude":40.96835,
     "geom:longitude":-74.278313,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.unlimitedautoworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SY3CkBBpVozMsYaFDkO88_40.968350_-74.278313@1303262265"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461319922,
     "wof:geomhash":"e9b4abe331243849af396a55e8750f0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655766657
+        }
+    ],
     "wof:id":655766657,
-    "wof:lastmodified":1466686152,
+    "wof:lastmodified":1492023984,
     "wof:name":"Unlimited Auto Works",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

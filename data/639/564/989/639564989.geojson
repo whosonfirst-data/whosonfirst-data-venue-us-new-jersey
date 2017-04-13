@@ -2,9 +2,14 @@
   "id": 639564989,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 45th St Pennsauken NJ 08110",
+    "addr:housenumber":"2545",
+    "addr:postcode":"08110",
+    "addr:street":"45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.064804,39.951387,-75.064804,39.951387",
     "geom:latitude":39.951387,
     "geom:longitude":-75.064804,
@@ -32,7 +37,14 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CEzV7rPCyPVVU7uvHUMKz_39.951387_-75.064804@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461300307,
     "wof:geomhash":"a958338efa4c8493330a632b65cde1f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639564989
+        }
+    ],
     "wof:id":639564989,
-    "wof:lastmodified":1466696226,
+    "wof:lastmodified":1492049230,
     "wof:name":"45th Street Pub",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

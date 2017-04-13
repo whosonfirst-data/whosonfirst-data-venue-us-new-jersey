@@ -2,9 +2,14 @@
   "id": 655666907,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Passaic Ave Fairfield NJ 07004",
+    "addr:housenumber":"18",
+    "addr:postcode":"07004",
+    "addr:street":"Passaic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281303,40.867831,-74.281303,40.867831",
     "geom:latitude":40.867831,
     "geom:longitude":-74.281303,
@@ -22,7 +27,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478111,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UVyBRwNpZml119CsLQKIp_40.867831_-74.281303@1294171694"
@@ -30,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461315884,
     "wof:geomhash":"5ee7fb206d4a0f113c299e58b412e988",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478111,
+            "region_id":85688607,
+            "venue_id":655666907
+        }
+    ],
     "wof:id":655666907,
-    "wof:lastmodified":1466683597,
+    "wof:lastmodified":1492058525,
     "wof:name":"Bob Finkelstein & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639407665,
   "type": "Feature",
   "properties": {
+    "addr:full":"669 Millbrook Ave Randolph NJ 07869",
+    "addr:housenumber":"669",
+    "addr:postcode":"07869",
+    "addr:street":"Millbrook Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.574705,40.831181,-74.574705,40.831181",
     "geom:latitude":40.831181,
     "geom:longitude":-74.574705,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85848511,
-        102087413
+        85834231,
+        102087413,
+        85848511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85834231,
+            "region_id":85688607,
+            "venue_id":639407665
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "neighbourhood_id":85848511,
             "region_id":85688607,
             "venue_id":639407665
         }
     ],
     "wof:id":639407665,
-    "wof:lastmodified":1466693099,
+    "wof:lastmodified":1492027866,
     "wof:name":"Peter Jacelone DC",
-    "wof:parent_id":85848511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

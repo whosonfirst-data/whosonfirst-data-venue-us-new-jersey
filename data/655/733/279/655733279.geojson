@@ -2,9 +2,14 @@
   "id": 655733279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Madison Hill Rd Rahway NJ 07065",
+    "addr:housenumber":"1321",
+    "addr:postcode":"07065",
+    "addr:street":"Madison Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295478,40.617187,-74.295478,40.617187",
     "geom:latitude":40.617187,
     "geom:longitude":-74.295478,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rRt0pugt357sb95C6quPX_40.617187_-74.295478@1303262257"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318655,
     "wof:geomhash":"57ac5b25352a5c5c2972aeeda4f8b469",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733279
+        }
+    ],
     "wof:id":655733279,
-    "wof:lastmodified":1466685088,
+    "wof:lastmodified":1492027507,
     "wof:name":"24 Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

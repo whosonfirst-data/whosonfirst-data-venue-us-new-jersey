@@ -2,9 +2,14 @@
   "id": 639565495,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Taylor Ln Barnegat NJ 08005",
+    "addr:housenumber":"100",
+    "addr:postcode":"08005",
+    "addr:street":"Taylor Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226165,39.728697,-74.226165,39.728697",
     "geom:latitude":39.728697,
     "geom:longitude":-74.226165,
@@ -33,7 +38,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LW5SPjrMZ6bfelbG9ZUDe_39.728697_-74.226165@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461300328,
     "wof:geomhash":"9e2d854d673bb3e0873f46cdfe804b16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":639565495
+        }
+    ],
     "wof:id":639565495,
-    "wof:lastmodified":1466696252,
+    "wof:lastmodified":1492025153,
     "wof:name":"All Southern Sprinkler Inc",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

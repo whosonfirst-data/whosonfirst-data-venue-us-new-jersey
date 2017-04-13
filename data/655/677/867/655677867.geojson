@@ -2,9 +2,14 @@
   "id": 655677867,
   "type": "Feature",
   "properties": {
+    "addr:full":"3512 Westfield Ave Camden NJ 08105",
+    "addr:housenumber":"3512",
+    "addr:postcode":"08105",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.076302,39.951599,-75.076302,39.951599",
     "geom:latitude":39.951599,
     "geom:longitude":-75.076302,
@@ -30,7 +35,14 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lhAGNkiyJ0AvBFjCRVVhd_39.951890_-75.075797@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316334,
     "wof:geomhash":"3fc31106ca37508a516126e1ec48e0e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655677867
+        }
+    ],
     "wof:id":655677867,
-    "wof:lastmodified":1466683859,
+    "wof:lastmodified":1492053695,
     "wof:name":"Choice Bar & Package Liquors",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655542259,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"240;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.649864,41.181152,-74.649864,41.181152",
     "geom:latitude":41.181152,
     "geom:longitude":-74.649864,
@@ -27,7 +32,10 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mdH8EuEU9hhNvgZ6XrIJF_41.181152_-74.649864@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310516,
     "wof:geomhash":"5830f21d6bdc376459e1a333aca69a27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":655542259
+        }
+    ],
     "wof:id":655542259,
-    "wof:lastmodified":1466679215,
+    "wof:lastmodified":1492058461,
     "wof:name":"Cemetery Assoc Of Jewish",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638639611,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Maiden Ln Bound Brook NJ 08805",
+    "addr:housenumber":"17",
+    "addr:postcode":"08805",
+    "addr:street":"Maiden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5307,40.562402,-74.5307,40.562402",
     "geom:latitude":40.562402,
     "geom:longitude":-74.5307,
@@ -33,7 +38,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TXwRyMoluhU2WVmih7Xma_40.562402_-74.530700@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461275514,
     "wof:geomhash":"ac17677ace11976970b902e4654398d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":638639611
+        }
+    ],
     "wof:id":638639611,
-    "wof:lastmodified":1466673493,
+    "wof:lastmodified":1492062300,
     "wof:name":"Redco Engineering Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655381101,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 Pemberton Byp Pemberton NJ 08068",
+    "addr:housenumber":"436",
+    "addr:postcode":"08068",
+    "addr:street":"Pemberton Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.661449,39.959357,-74.661449,39.959357",
     "geom:latitude":39.959357,
     "geom:longitude":-74.661449,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18mwFoInXutedW3TwBxugp_39.959357_-74.661449@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303845,
     "wof:geomhash":"9d8612f4b13d5fa8c12b9ff9af0cee1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526641,
+            "venue_id":655381101
+        }
+    ],
     "wof:id":655381101,
-    "wof:lastmodified":1466674939,
+    "wof:lastmodified":1492024061,
     "wof:name":"M&N Cleaning Svc",
     "wof:parent_id":420526641,
     "wof:placetype":"venue",

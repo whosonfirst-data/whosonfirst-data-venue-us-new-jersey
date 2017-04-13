@@ -2,9 +2,14 @@
   "id": 655696391,
   "type": "Feature",
   "properties": {
+    "addr:full":"538 Adeline St Trenton NJ 08611",
+    "addr:housenumber":"538",
+    "addr:postcode":"08611",
+    "addr:street":"Adeline St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.746601,40.204892,-74.746601,40.204892",
     "geom:latitude":40.204892,
     "geom:longitude":-74.746601,
@@ -25,7 +30,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CCrs9RaeEO1nJPlG0cczA_40.204721_-74.746275@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461317157,
     "wof:geomhash":"b9d500aac84223a2e6638c3dd6c69ce2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655696391
+        }
+    ],
     "wof:id":655696391,
-    "wof:lastmodified":1466684249,
+    "wof:lastmodified":1492041999,
     "wof:name":"Blue Danube Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638923297,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Hardy Dr Princeton NJ 08540",
+    "addr:housenumber":"47",
+    "addr:postcode":"08540",
+    "addr:street":"Hardy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.681638,40.36752,-74.681638,40.36752",
     "geom:latitude":40.36752,
     "geom:longitude":-74.681638,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EL9ZZnGZSu7n8rddTiVwA_40.367520_-74.681638@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461283353,
     "wof:geomhash":"702049795f1ac96d6b539335cb1bc422",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":638923297
+        }
+    ],
     "wof:id":638923297,
-    "wof:lastmodified":1466690814,
+    "wof:lastmodified":1492052165,
     "wof:name":"My Pal God Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

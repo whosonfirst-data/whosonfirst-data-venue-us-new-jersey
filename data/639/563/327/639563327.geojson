@@ -2,9 +2,14 @@
   "id": 639563327,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Dorothy Ave Edison NJ 08837",
+    "addr:housenumber":"124",
+    "addr:postcode":"08837",
+    "addr:street":"Dorothy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.353309,40.523869,-74.353309,40.523869",
     "geom:latitude":40.523869,
     "geom:longitude":-74.353309,
@@ -28,7 +33,8 @@
         85688607,
         85633793,
         85806645,
-        102087417
+        102087417,
+        85841509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +50,19 @@
             "neighbourhood_id":85806645,
             "region_id":85688607,
             "venue_id":639563327
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85841509,
+            "region_id":85688607,
+            "venue_id":639563327
         }
     ],
     "wof:id":639563327,
-    "wof:lastmodified":1466696125,
+    "wof:lastmodified":1492049089,
     "wof:name":"Validtion Cmplnce Partners LLC",
-    "wof:parent_id":85806645,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

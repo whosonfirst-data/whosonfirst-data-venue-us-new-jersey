@@ -2,9 +2,14 @@
   "id": 639149525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Wildwood Rd Califon NJ 07830",
+    "addr:housenumber":"2",
+    "addr:postcode":"07830",
+    "addr:street":"Wildwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.774835,40.705734,-74.774835,40.705734",
     "geom:latitude":40.705734,
     "geom:longitude":-74.774835,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.leathertherapy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85833217,
+        102085997,
+        420527075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6745wpZUKX7VpZH0tWlBrA_40.705734_-74.774835@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461288510,
     "wof:geomhash":"1d6c625c4cef35c71e7e9df2b00d11ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85833217,
+            "region_id":85688607,
+            "venue_id":639149525
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":639149525
+        }
+    ],
     "wof:id":639149525,
-    "wof:lastmodified":1466681260,
+    "wof:lastmodified":1492049871,
     "wof:name":"Unicorn Editions LTD",
-    "wof:parent_id":420527075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

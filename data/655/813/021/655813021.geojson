@@ -2,9 +2,14 @@
   "id": 655813021,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 Route 130 Ste 800 Willingboro NJ 08046",
+    "addr:housenumber":"4340",
+    "addr:postcode":"08046",
+    "addr:street":"Route 130 Ste 800",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.897579,40.050402,-74.897579,40.050402",
     "geom:latitude":40.050402,
     "geom:longitude":-74.897579,
@@ -19,7 +24,10 @@
     "sg:province":"NJ",
     "sg:website":"http://www.economy-driving-school.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bqdjvtd0mA8Y9KQF4IICz_40.050402_-74.897579@1303262276"
@@ -27,9 +35,15 @@
     "wof:country":"US",
     "wof:created":1461321938,
     "wof:geomhash":"d6fcd61d18781eb0df319c3a9bfb6702",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655813021
+        }
+    ],
     "wof:id":655813021,
-    "wof:lastmodified":1466687120,
+    "wof:lastmodified":1492049202,
     "wof:name":"Economy Driving School",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

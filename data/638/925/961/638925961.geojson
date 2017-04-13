@@ -2,9 +2,14 @@
   "id": 638925961,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Plymouth Dr Berkeley Heights NJ 07922",
+    "addr:housenumber":"56",
+    "addr:postcode":"07922",
+    "addr:street":"Plymouth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.451997,40.66053,-74.451997,40.66053",
     "geom:latitude":40.66053,
     "geom:longitude":-74.451997,
@@ -24,7 +29,13 @@
     "sg:postcode":"07922",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478489,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Pd1ZnujKEyIMz0YZAw9AZ_40.660530_-74.451997@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461283416,
     "wof:geomhash":"851b8204bd46038bb933c7d0861550de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478489,
+            "region_id":85688607,
+            "venue_id":638925961
+        }
+    ],
     "wof:id":638925961,
-    "wof:lastmodified":1466690840,
+    "wof:lastmodified":1492050004,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

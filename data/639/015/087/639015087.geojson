@@ -2,9 +2,14 @@
   "id": 639015087,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 E Hill St Califon NJ 07830",
+    "addr:housenumber":"637",
+    "addr:postcode":"07830",
+    "addr:street":"E Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.856083,40.731746,-74.856083,40.731746",
     "geom:latitude":40.731746,
     "geom:longitude":-74.856083,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85830887,
+        102085997,
         85831595,
         102191575,
         404478157,
-        85633793,
-        85975701,
-        102085997,
-        85688607
+        85975701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +51,13 @@
     "wof:created":1461285450,
     "wof:geomhash":"9ca2adb8b66ac3a141cb326a1385217c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85830887,
+            "region_id":85688607,
+            "venue_id":639015087
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":639015087,
-    "wof:lastmodified":1466673323,
+    "wof:lastmodified":1492050609,
     "wof:name":"Carpediem Enterprises",
-    "wof:parent_id":85831595,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

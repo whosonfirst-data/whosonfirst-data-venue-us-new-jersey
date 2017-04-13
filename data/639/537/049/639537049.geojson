@@ -2,9 +2,14 @@
   "id": 639537049,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Delaware Dr Milford NJ 08848",
+    "addr:housenumber":"10",
+    "addr:postcode":"08848",
+    "addr:street":"Delaware Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.121339,40.610083,-75.121339,40.610083",
     "geom:latitude":40.610083,
     "geom:longitude":-75.121339,
@@ -27,7 +32,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kvuS7dOMz38u4qpOGml8C_40.610083_-75.121339@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299139,
     "wof:geomhash":"2777a57373d6db626163bb724ff63386",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":639537049
+        }
+    ],
     "wof:id":639537049,
-    "wof:lastmodified":1466695728,
+    "wof:lastmodified":1492041971,
     "wof:name":"Natural Instincts",
     "wof:parent_id":420527141,
     "wof:placetype":"venue",

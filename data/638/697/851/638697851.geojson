@@ -2,9 +2,14 @@
   "id": 638697851,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Church St Raritan NJ 08869",
+    "addr:housenumber":"1",
+    "addr:postcode":"08869",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.637087,40.56881,-74.637087,40.56881",
     "geom:latitude":40.56881,
     "geom:longitude":-74.637087,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85822833,
+        102191575,
+        404477917,
         85633793,
-        85846331,
-        102085045
+        85976133,
+        102085045,
+        85688607,
+        85846331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"68c508c48105b53e5ef3c868ea04788b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976133,
+            "neighbourhood_id":85822833,
+            "region_id":85688607,
+            "venue_id":638697851
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "neighbourhood_id":85846331,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":638697851,
-    "wof:lastmodified":1466688478,
+    "wof:lastmodified":1492025568,
     "wof:name":"24 Hour Emergency Locksmith",
-    "wof:parent_id":85846331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

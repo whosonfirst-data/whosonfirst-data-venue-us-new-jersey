@@ -2,9 +2,14 @@
   "id": 655663597,
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 Doral Dr Pennsauken NJ 08109",
+    "addr:housenumber":"2512",
+    "addr:postcode":"08109",
+    "addr:street":"Doral Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031097,39.969898,-75.031097,39.969898",
     "geom:latitude":39.969898,
     "geom:longitude":-75.031097,
@@ -30,7 +35,14 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_211eVd2TlQ1HYHx3tB92tD_39.969634_-75.031114@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461315758,
     "wof:geomhash":"55f3496c773f6736e53b04a6e55514fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655663597
+        }
+    ],
     "wof:id":655663597,
-    "wof:lastmodified":1466683338,
+    "wof:lastmodified":1492041923,
     "wof:name":"Galway Development Corporation",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

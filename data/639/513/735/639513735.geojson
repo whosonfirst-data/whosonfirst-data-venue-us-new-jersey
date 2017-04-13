@@ -2,9 +2,14 @@
   "id": 639513735,
   "type": "Feature",
   "properties": {
+    "addr:full":"694 Sanford Ave Newark NJ 07106",
+    "addr:housenumber":"694",
+    "addr:postcode":"07106",
+    "addr:street":"Sanford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23535,40.738751,-74.23535,40.738751",
     "geom:latitude":40.738751,
     "geom:longitude":-74.23535,
@@ -24,7 +29,13 @@
     "sg:postcode":"07106",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pSxTn5BVWbUFJ8CBT5Gdq_40.738751_-74.235350@1294171694"
@@ -32,11 +43,20 @@
     "wof:country":"US",
     "wof:created":1461298009,
     "wof:geomhash":"bce476a92c33247050bbeb0b52b7f8cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639513735
+        }
+    ],
     "wof:id":639513735,
-    "wof:lastmodified":1466695081,
+    "wof:lastmodified":1491938456,
     "wof:name":"Contagios Cuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

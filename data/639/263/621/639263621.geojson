@@ -2,9 +2,14 @@
   "id": 639263621,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Stone Hill Rd Freehold NJ 07728",
+    "addr:housenumber":"101",
+    "addr:postcode":"07728",
+    "addr:street":"Stone Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.284896,40.20669,-74.284896,40.20669",
     "geom:latitude":40.20669,
     "geom:longitude":-74.284896,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mBk8bTpIo6VYA34RAxlj6_40.206690_-74.284896@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291131,
     "wof:geomhash":"39ee62f6945cad0798e718d31f2caac8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":639263621
+        }
+    ],
     "wof:id":639263621,
-    "wof:lastmodified":1466690570,
+    "wof:lastmodified":1492053505,
     "wof:name":"MVS Builders Inc",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

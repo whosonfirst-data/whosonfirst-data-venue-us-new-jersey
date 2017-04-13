@@ -2,9 +2,14 @@
   "id": 638797619,
   "type": "Feature",
   "properties": {
+    "addr:full":"353 Sweetmans Ln Englishtown NJ 07726",
+    "addr:housenumber":"353",
+    "addr:postcode":"07726",
+    "addr:street":"Sweetmans Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.422508,40.223586,-74.422508,40.223586",
     "geom:latitude":40.223586,
     "geom:longitude":-74.422508,
@@ -27,7 +32,13 @@
         "packaging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3855KdvH3fOOUtBmj50c3l_40.223586_-74.422508@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461280180,
     "wof:geomhash":"9e44d0434c82c7686459be55f1c19d16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":638797619
+        }
+    ],
     "wof:id":638797619,
-    "wof:lastmodified":1466685246,
+    "wof:lastmodified":1492056748,
     "wof:name":"Liberty Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

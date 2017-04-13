@@ -2,9 +2,14 @@
   "id": 639150797,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Washington Pl North Brunswick NJ 08902",
+    "addr:housenumber":"230",
+    "addr:postcode":"08902",
+    "addr:street":"Washington Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.467306,40.440059,-74.467306,40.440059",
     "geom:latitude":40.440059,
     "geom:longitude":-74.467306,
@@ -28,7 +33,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L5aOYJLm4epVVLTSUh3lc_40.440059_-74.467306@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288538,
     "wof:geomhash":"adf1c955dc6c0e29726b6d63c798712d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527209,
+            "venue_id":639150797
+        }
+    ],
     "wof:id":639150797,
-    "wof:lastmodified":1466681477,
+    "wof:lastmodified":1492043898,
     "wof:name":"Sir Johns Restaurant",
     "wof:parent_id":420527209,
     "wof:placetype":"venue",

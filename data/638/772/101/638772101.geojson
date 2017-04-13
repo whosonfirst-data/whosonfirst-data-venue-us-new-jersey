@@ -2,9 +2,14 @@
   "id": 638772101,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 US Hwy 202 Bernardsville NJ 07924",
+    "addr:housenumber":"113",
+    "addr:postcode":"07924",
+    "addr:street":"Us Hwy 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.575651,40.715154,-74.575651,40.715154",
     "geom:latitude":40.715154,
     "geom:longitude":-74.575651,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841653,
+        85849291,
         102191575,
         404477913,
         85633793,
         85975521,
         102085045,
-        85688607
+        85688607,
+        85841653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102085045,
             "localadmin_id":404477913,
             "locality_id":85975521,
+            "neighbourhood_id":85849291,
+            "region_id":85688607,
+            "venue_id":638772101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477913,
+            "locality_id":85975521,
             "neighbourhood_id":85841653,
             "region_id":85688607,
             "venue_id":638772101
         }
     ],
     "wof:id":638772101,
-    "wof:lastmodified":1466681506,
+    "wof:lastmodified":1492065335,
     "wof:name":"Hair Den",
-    "wof:parent_id":85841653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

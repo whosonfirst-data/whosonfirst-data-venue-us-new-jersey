@@ -2,9 +2,14 @@
   "id": 655695175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1434 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1434",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261388,40.705191,-74.261388,40.705191",
     "geom:latitude":40.705191,
     "geom:longitude":-74.261388,
@@ -29,7 +34,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IWKchcuO6U22rIA0Em09A_40.705490_-74.261197@1293134755"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461317091,
     "wof:geomhash":"72909b5acae3d4f310046574eccdcc35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655695175
+        }
+    ],
     "wof:id":655695175,
-    "wof:lastmodified":1466684077,
+    "wof:lastmodified":1492024123,
     "wof:name":"Pizza Hut",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

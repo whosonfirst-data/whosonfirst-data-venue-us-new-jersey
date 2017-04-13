@@ -2,9 +2,14 @@
   "id": 638819431,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Mountain Ave Caldwell NJ 07006",
+    "addr:housenumber":"127",
+    "addr:postcode":"07006",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262495,40.842044,-74.262495,40.842044",
     "geom:latitude":40.842044,
     "geom:longitude":-74.262495,
@@ -29,7 +34,14 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k6437AeJgMA0AYLHvpqes_40.842044_-74.262495@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461280692,
     "wof:geomhash":"f5eb41b501e530d0f0c706e16d32fe3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638819431
+        }
+    ],
     "wof:id":638819431,
-    "wof:lastmodified":1466688065,
+    "wof:lastmodified":1492028438,
     "wof:name":"Applied Data Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655529699,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Co Rd 579 Asbury NJ 08802",
+    "addr:housenumber":"336;579",
+    "addr:postcode":"08802",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052948,40.634228,-75.052948,40.634228",
     "geom:latitude":40.634228,
     "geom:longitude":-75.052948,
@@ -24,7 +29,13 @@
     "sg:postcode":"08802",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e8EnlyUAXySLsKxsQ5Ma1_40.634228_-75.052948@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461310032,
     "wof:geomhash":"04df89bfa0a77fd97c065562c1ee5ff8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":655529699
+        }
+    ],
     "wof:id":655529699,
-    "wof:lastmodified":1466679065,
+    "wof:lastmodified":1492040963,
     "wof:name":"Rocky Meadows Arabians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

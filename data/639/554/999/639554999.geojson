@@ -2,9 +2,14 @@
   "id": 639554999,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 W Madison Ave Dumont NJ 07628",
+    "addr:housenumber":"48",
+    "addr:postcode":"07628",
+    "addr:street":"W Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996163,40.940419,-73.996163,40.940419",
     "geom:latitude":40.940419,
     "geom:longitude":-73.996163,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I3b5oQX8DNwPijryXuALI_40.940419_-73.996163@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461299942,
     "wof:geomhash":"20459b0191c83a447c86ba27a8f7ff92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639554999
+        }
+    ],
     "wof:id":639554999,
-    "wof:lastmodified":1466696231,
+    "wof:lastmodified":1492049655,
     "wof:name":"A & P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

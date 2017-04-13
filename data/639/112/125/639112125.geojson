@@ -2,9 +2,14 @@
   "id": 639112125,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 High Mountain Rd Franklin Lakes NJ 07417",
+    "addr:housenumber":"808",
+    "addr:postcode":"07417",
+    "addr:street":"High Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.213058,40.995571,-74.213058,40.995571",
     "geom:latitude":40.995571,
     "geom:longitude":-74.213058,
@@ -28,7 +33,14 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eWNtOy1unHnqWuHqh7yBI_40.995571_-74.213058@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461287607,
     "wof:geomhash":"424ce88c603536303efa204f13bcec08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":639112125
+        }
+    ],
     "wof:id":639112125,
-    "wof:lastmodified":1466675957,
+    "wof:lastmodified":1492054522,
     "wof:name":"420 Grand Street",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

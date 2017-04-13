@@ -2,9 +2,14 @@
   "id": 655644101,
   "type": "Feature",
   "properties": {
+    "addr:full":"778 Park Ave Belford NJ 07718",
+    "addr:housenumber":"778",
+    "addr:postcode":"07718",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.088916,40.406135,-74.088916,40.406135",
     "geom:latitude":40.406135,
     "geom:longitude":-74.088916,
@@ -29,7 +34,10 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wzvnWPbrS1QPuMQ863pxK_40.406135_-74.088916@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461314933,
     "wof:geomhash":"fb2e96dfc028db979c8ab60b63747582",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":655644101
+        }
+    ],
     "wof:id":655644101,
-    "wof:lastmodified":1466682444,
+    "wof:lastmodified":1492051869,
     "wof:name":"Wit's End Woodworks",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639561167,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Kennedy Ave Cliffwood NJ 07721",
+    "addr:housenumber":"49",
+    "addr:postcode":"07721",
+    "addr:street":"Kennedy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238678,40.438503,-74.238678,40.438503",
     "geom:latitude":40.438503,
     "geom:longitude":-74.238678,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gS3LCb4qGMin69y9xZbH1_40.438503_-74.238678@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300170,
     "wof:geomhash":"19c7859f10f9c4ab6d1d503643232b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":639561167
+        }
+    ],
     "wof:id":639561167,
-    "wof:lastmodified":1466695914,
+    "wof:lastmodified":1492049730,
     "wof:name":"Providence Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

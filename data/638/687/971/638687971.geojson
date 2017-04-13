@@ -2,9 +2,14 @@
   "id": 638687971,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Hamburg Tpke Riverdale NJ 07457",
+    "addr:housenumber":"63",
+    "addr:postcode":"07457",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.302973,40.998402,-74.302973,40.998402",
     "geom:latitude":40.998402,
     "geom:longitude":-74.302973,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02LJ69X1ZN6yiNeTC6P9Xx_40.998402_-74.302973@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277091,
     "wof:geomhash":"29e5aa862242964cd07f82d4ec12fcce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":638687971
+        }
+    ],
     "wof:id":638687971,
-    "wof:lastmodified":1466688316,
+    "wof:lastmodified":1492023548,
     "wof:name":"Country Sportsman The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

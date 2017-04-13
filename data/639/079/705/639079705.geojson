@@ -2,9 +2,14 @@
   "id": 639079705,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Washington Ave Titusville NJ 08560",
+    "addr:housenumber":"201",
+    "addr:postcode":"08560",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.861323,40.294087,-74.861323,40.294087",
     "geom:latitude":40.294087,
     "geom:longitude":-74.861323,
@@ -33,7 +38,10 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20IvZebgbJIDW3HJ1clt3m_40.294087_-74.861323@1294171694"
@@ -41,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1461286912,
     "wof:geomhash":"d1b9c245f17052a5c1219eb9f26316d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536911,
+            "venue_id":639079705
+        }
+    ],
     "wof:id":639079705,
-    "wof:lastmodified":1466688601,
+    "wof:lastmodified":1492042233,
     "wof:name":"Township of Hopewell",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

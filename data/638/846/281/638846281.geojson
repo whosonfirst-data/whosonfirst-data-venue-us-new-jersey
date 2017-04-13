@@ -2,9 +2,14 @@
   "id": 638846281,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Hudson Cove Edgewater NJ 07020",
+    "addr:housenumber":"142",
+    "addr:postcode":"07020",
+    "addr:street":"Hudson Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.970694,40.836478,-73.970694,40.836478",
     "geom:latitude":40.836478,
     "geom:longitude":-73.970694,
@@ -29,15 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865677,
-        102191575,
-        85633793,
-        85977539,
-        421205771,
-        102081863,
-        85688543,
         85830809,
+        102191575,
         404477537,
+        85633793,
         85975869,
         102086773,
         85688607
@@ -51,16 +51,6 @@
     "wof:geomhash":"99f67c593ed8b447b36940dd36d41dd4",
     "wof:hierarchy":[
         {
-            "borough_id":421205771,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "neighbourhood_id":85865677,
-            "region_id":85688543,
-            "venue_id":638846281
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086773,
@@ -72,9 +62,9 @@
         }
     ],
     "wof:id":638846281,
-    "wof:lastmodified":1466689148,
+    "wof:lastmodified":1492076481,
     "wof:name":"M A Blank MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85830809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

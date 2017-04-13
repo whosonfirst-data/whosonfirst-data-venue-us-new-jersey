@@ -2,9 +2,14 @@
   "id": 639251633,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Carnegie Rd Lawrenceville NJ 08648",
+    "addr:housenumber":"2",
+    "addr:postcode":"08648",
+    "addr:street":"Carnegie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.710456,40.267331,-74.710456,40.267331",
     "geom:latitude":40.267331,
     "geom:longitude":-74.710456,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85816869,
-        102081129
+        102081129,
+        85804261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85816869,
             "region_id":85688607,
             "venue_id":639251633
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85804261,
+            "region_id":85688607,
+            "venue_id":639251633
         }
     ],
     "wof:id":639251633,
-    "wof:lastmodified":1466690257,
+    "wof:lastmodified":1492057576,
     "wof:name":"Source One Medical Management",
-    "wof:parent_id":85816869,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

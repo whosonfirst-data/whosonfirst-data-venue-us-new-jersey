@@ -2,9 +2,14 @@
   "id": 639494225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1061 Barley Sheaf Rd Flemington NJ 08822",
+    "addr:housenumber":"1061",
+    "addr:postcode":"08822",
+    "addr:street":"Barley Sheaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800258,40.549181,-74.800258,40.549181",
     "geom:latitude":40.549181,
     "geom:longitude":-74.800258,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527047,
+        85688607,
         85844981,
         102085997
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527047,
+            "venue_id":639494225
+        },
+        {
+            "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85844981,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639494225,
-    "wof:lastmodified":1466694543,
+    "wof:lastmodified":1492068168,
     "wof:name":"All County Sweeping Inc",
-    "wof:parent_id":85844981,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

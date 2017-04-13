@@ -2,9 +2,14 @@
   "id": 639553555,
   "type": "Feature",
   "properties": {
+    "addr:full":"9100 Collins Ave Pennsauken NJ 08110",
+    "addr:housenumber":"9100",
+    "addr:postcode":"08110",
+    "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.018504,39.971736,-75.018504,39.971736",
     "geom:latitude":39.971736,
     "geom:longitude":-75.018504,
@@ -28,7 +33,10 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t1Yf7Rpq9WCtPWRQfYuzX_39.971736_-75.018504@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299889,
     "wof:geomhash":"f45974c632cf61d5eeb266541561b06e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526797,
+            "venue_id":639553555
+        }
+    ],
     "wof:id":639553555,
-    "wof:lastmodified":1466695949,
+    "wof:lastmodified":1492041918,
     "wof:name":"Nano Point",
     "wof:parent_id":420526797,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639020935,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 US Hwy 9 Bayville NJ 08721",
+    "addr:housenumber":"170",
+    "addr:postcode":"08721",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170249,39.925183,-74.170249,39.925183",
     "geom:latitude":39.925183,
     "geom:longitude":-74.170249,
@@ -32,7 +37,11 @@
         85688607,
         85633793,
         85844713,
-        102081485
+        102081485,
+        85812767,
+        102191575,
+        404477831,
+        85975781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +57,22 @@
             "neighbourhood_id":85844713,
             "region_id":85688607,
             "venue_id":639020935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477831,
+            "locality_id":85975781,
+            "neighbourhood_id":85812767,
+            "region_id":85688607,
+            "venue_id":639020935
         }
     ],
     "wof:id":639020935,
-    "wof:lastmodified":1466673643,
+    "wof:lastmodified":1492069456,
     "wof:name":"Rich-Mark Contracting",
-    "wof:parent_id":85844713,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

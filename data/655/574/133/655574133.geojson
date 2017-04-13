@@ -2,9 +2,14 @@
   "id": 655574133,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Ramapo Valley Rd Oakland NJ 07436",
+    "addr:housenumber":"160",
+    "addr:postcode":"07436",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253554,41.015004,-74.253554,41.015004",
     "geom:latitude":41.015004,
     "geom:longitude":-74.253554,
@@ -27,7 +32,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0THxX3FEOodh2zBRHKqSNq_41.015004_-74.253554@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311912,
     "wof:geomhash":"b8d2c53326dd17c87a2178761a0fd308",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655574133
+        }
+    ],
     "wof:id":655574133,
-    "wof:lastmodified":1466680049,
+    "wof:lastmodified":1492070480,
     "wof:name":"Automotive Reconditioning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

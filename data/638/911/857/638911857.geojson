@@ -2,9 +2,14 @@
   "id": 638911857,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Valley Rd Oxford NJ 07863",
+    "addr:housenumber":"250",
+    "addr:postcode":"07863",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.924016,40.820372,-74.924016,40.820372",
     "geom:latitude":40.820372,
     "geom:longitude":-74.924016,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67YhAgvAU47GbvRvrS3p8Q_40.820372_-74.924016@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461283045,
     "wof:geomhash":"413f973e1b86388bcbb6a01c489c5da7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527785,
+            "venue_id":638911857
+        }
+    ],
     "wof:id":638911857,
-    "wof:lastmodified":1466689991,
+    "wof:lastmodified":1492052001,
     "wof:name":"Union Glazers",
     "wof:parent_id":420527785,
     "wof:placetype":"venue",

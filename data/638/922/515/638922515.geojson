@@ -2,9 +2,14 @@
   "id": 638922515,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Amboy Rd Morganville NJ 07751",
+    "addr:housenumber":"112",
+    "addr:postcode":"07751",
+    "addr:street":"Amboy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287918,40.356676,-74.287918,40.356676",
     "geom:latitude":40.356676,
     "geom:longitude":-74.287918,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nVBvH7wdZKxus8g1nZc05_40.356676_-74.287918@1294171694"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461283336,
     "wof:geomhash":"707eb6ea189981ce0d6cd096cbca3b4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":638922515
+        }
+    ],
     "wof:id":638922515,
-    "wof:lastmodified":1466690534,
+    "wof:lastmodified":1492028693,
     "wof:name":"Petruzzelli General Contractor",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

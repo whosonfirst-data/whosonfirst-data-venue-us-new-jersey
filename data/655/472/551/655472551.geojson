@@ -2,9 +2,14 @@
   "id": 655472551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1246 W Laurelton Pkwy Teaneck NJ 07666",
+    "addr:housenumber":"1246",
+    "addr:postcode":"07666",
+    "addr:street":"W Laurelton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.015919,40.897601,-74.015919,40.897601",
     "geom:latitude":40.897601,
     "geom:longitude":-74.015919,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85892511,
-        102086773
+        102086773,
+        85855443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85892511,
             "region_id":85688607,
             "venue_id":655472551
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85855443,
+            "region_id":85688607,
+            "venue_id":655472551
         }
     ],
     "wof:id":655472551,
-    "wof:lastmodified":1466677446,
+    "wof:lastmodified":1492053868,
     "wof:name":"Performance Fabrics Inc",
-    "wof:parent_id":85892511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

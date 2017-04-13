@@ -2,9 +2,14 @@
   "id": 639230097,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 White Rock Blvd Oak Ridge NJ 07438",
+    "addr:housenumber":"55",
+    "addr:postcode":"07438",
+    "addr:street":"White Rock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.518619,41.034409,-74.518619,41.034409",
     "geom:latitude":41.034409,
     "geom:longitude":-74.518619,
@@ -24,7 +29,10 @@
     "sg:postcode":"07438",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZcxNxLe0D6pf3d8eDrZu5_41.034409_-74.518619@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461290363,
     "wof:geomhash":"19bb7bdc81f64a65654ffe81d57d2946",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":639230097
+        }
+    ],
     "wof:id":639230097,
-    "wof:lastmodified":1466689762,
+    "wof:lastmodified":1492044168,
     "wof:name":"George Haug Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

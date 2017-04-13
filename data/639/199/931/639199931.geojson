@@ -2,9 +2,14 @@
   "id": 639199931,
   "type": "Feature",
   "properties": {
+    "addr:full":"289 Day Ave Fairview NJ 07022",
+    "addr:housenumber":"289",
+    "addr:postcode":"07022",
+    "addr:street":"Day Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.997648,40.813793,-73.997648,40.813793",
     "geom:latitude":40.813793,
     "geom:longitude":-73.997648,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30gs3BXJYYhCTlid3Ar1BD_40.813793_-73.997648@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461289630,
     "wof:geomhash":"7400c5bd54fb70a90d4a30b045813794",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639199931
+        }
+    ],
     "wof:id":639199931,
-    "wof:lastmodified":1466688522,
+    "wof:lastmodified":1492050663,
     "wof:name":"Jardim & Silva Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

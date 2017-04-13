@@ -2,9 +2,14 @@
   "id": 655834701,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Saint Clair Ave Trenton NJ 08619",
+    "addr:housenumber":"101",
+    "addr:postcode":"08619",
+    "addr:street":"Saint Clair Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.686082,40.251612,-74.686082,40.251612",
     "geom:latitude":40.251612,
     "geom:longitude":-74.686082,
@@ -34,7 +39,10 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gC3iZ0edxDOgMzQmnzItL_40.251612_-74.686082@1303262282"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461322853,
     "wof:geomhash":"623c780ff8d4434d37f150eed6060234",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655834701
+        }
+    ],
     "wof:id":655834701,
-    "wof:lastmodified":1466687923,
+    "wof:lastmodified":1492041914,
     "wof:name":"Wesley Mission Chapel",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

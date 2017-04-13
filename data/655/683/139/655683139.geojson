@@ -2,9 +2,14 @@
   "id": 655683139,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 W Main St Rahway NJ 07065",
+    "addr:housenumber":"85",
+    "addr:postcode":"07065",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275398,40.6096,-74.275398,40.6096",
     "geom:latitude":40.6096,
     "geom:longitude":-74.275398,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"www.tlcatering.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WC7qdiCxLtRPPzvWknHvB_40.609044_-74.274654@1293134755"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461316549,
     "wof:geomhash":"0deedb961fb8bb958725d801501f47d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655683139
+        }
+    ],
     "wof:id":655683139,
-    "wof:lastmodified":1466683746,
+    "wof:lastmodified":1492024410,
     "wof:name":"Better Catering by T & L Caterers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

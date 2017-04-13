@@ -2,9 +2,14 @@
   "id": 639590133,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Ramblewood Pkwy Mount Laurel NJ 08054",
+    "addr:housenumber":"99",
+    "addr:postcode":"08054",
+    "addr:street":"Ramblewood Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.947692,39.925244,-74.947692,39.925244",
     "geom:latitude":39.925244,
     "geom:longitude":-74.947692,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843711,
+        85819085,
         102191575,
         404477867,
         85633793,
         85976161,
         102087415,
-        85688607
+        85688607,
+        85843711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102087415,
             "localadmin_id":404477867,
             "locality_id":85976161,
+            "neighbourhood_id":85819085,
+            "region_id":85688607,
+            "venue_id":639590133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477867,
+            "locality_id":85976161,
             "neighbourhood_id":85843711,
             "region_id":85688607,
             "venue_id":639590133
         }
     ],
     "wof:id":639590133,
-    "wof:lastmodified":1466696735,
+    "wof:lastmodified":1492025344,
     "wof:name":"PNC",
-    "wof:parent_id":85843711,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

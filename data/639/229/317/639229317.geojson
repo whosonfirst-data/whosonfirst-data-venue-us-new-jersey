@@ -2,9 +2,14 @@
   "id": 639229317,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Knickerbocker Rd Cresskill NJ 07628",
+    "addr:housenumber":"220",
+    "addr:postcode":"07628",
+    "addr:street":"Knickerbocker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976408,40.945574,-73.976408,40.945574",
     "geom:latitude":40.945574,
     "geom:longitude":-73.976408,
@@ -35,7 +40,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A5MQs0m1InqzGRvufik1x_40.945574_-73.976408@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461290343,
     "wof:geomhash":"0b521dea2932a40cdee40c1c931a46ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639229317
+        }
+    ],
     "wof:id":639229317,
-    "wof:lastmodified":1466689782,
+    "wof:lastmodified":1492041757,
     "wof:name":"Palisades Rehabilitation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

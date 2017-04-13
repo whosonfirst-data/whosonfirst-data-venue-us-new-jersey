@@ -2,9 +2,14 @@
   "id": 639459905,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Church St Bloomsbury NJ 08804",
+    "addr:housenumber":"42",
+    "addr:postcode":"08804",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.08796,40.654832,-75.08796,40.654832",
     "geom:latitude":40.654832,
     "geom:longitude":-75.08796,
@@ -27,7 +32,14 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478155,
+        85633793,
+        85975703,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qDTQkWkzDUbIh1wb1ZNnv_40.654832_-75.087960@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295798,
     "wof:geomhash":"f6407568a53ac0c901c375c48dfcb994",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478155,
+            "locality_id":85975703,
+            "region_id":85688607,
+            "venue_id":639459905
+        }
+    ],
     "wof:id":639459905,
-    "wof:lastmodified":1466694005,
+    "wof:lastmodified":1492065316,
     "wof:name":"Rush-Devlin Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

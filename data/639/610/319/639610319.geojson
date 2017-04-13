@@ -2,9 +2,14 @@
   "id": 639610319,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Tenby Ln Marlton NJ 08053",
+    "addr:housenumber":"75",
+    "addr:postcode":"08053",
+    "addr:street":"Tenby Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.914314,39.911251,-74.914314,39.911251",
     "geom:latitude":39.911251,
     "geom:longitude":-74.914314,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6czfXfeApUEWfip2RmhiK1_39.911251_-74.914314@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461302117,
     "wof:geomhash":"e3d532997fc8e94f877179f3894b69f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639610319
+        }
+    ],
     "wof:id":639610319,
-    "wof:lastmodified":1466696927,
+    "wof:lastmodified":1492027929,
     "wof:name":"Solvay Solexis Inc",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

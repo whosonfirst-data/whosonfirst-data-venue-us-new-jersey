@@ -2,9 +2,14 @@
   "id": 639536623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Gary Rd Union NJ 07083",
+    "addr:housenumber":"1",
+    "addr:postcode":"07083",
+    "addr:street":"Gary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249175,40.69824,-74.249175,40.69824",
     "geom:latitude":40.69824,
     "geom:longitude":-74.249175,
@@ -30,7 +35,10 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FGu2FTg3riWqoqpqLSrvl_40.698240_-74.249175@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461299120,
     "wof:geomhash":"fccb5844877ef1e1e4c9c4311008416c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639536623
+        }
+    ],
     "wof:id":639536623,
-    "wof:lastmodified":1466695762,
+    "wof:lastmodified":1492028978,
     "wof:name":"Microner Inc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

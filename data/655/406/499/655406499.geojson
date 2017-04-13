@@ -2,9 +2,14 @@
   "id": 655406499,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Summer Rd Neshanic Station NJ 08853",
+    "addr:housenumber":"315",
+    "addr:postcode":"08853",
+    "addr:street":"Summer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75526,40.520913,-74.75526,40.520913",
     "geom:latitude":40.520913,
     "geom:longitude":-74.75526,
@@ -27,7 +32,13 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r7tKFbGTqwJLj86UYY5cW_40.520913_-74.755260@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304896,
     "wof:geomhash":"03c070ffabe8975499c5918a6e22a24e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":655406499
+        }
+    ],
     "wof:id":655406499,
-    "wof:lastmodified":1466675597,
+    "wof:lastmodified":1492056701,
     "wof:name":"Somerset Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

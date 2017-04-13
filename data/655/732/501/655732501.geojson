@@ -2,9 +2,14 @@
   "id": 655732501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1773 Elizabeth Ave Rahway NJ 07065",
+    "addr:housenumber":"1773",
+    "addr:postcode":"07065",
+    "addr:street":"Elizabeth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273042,40.611276,-74.273042,40.611276",
     "geom:latitude":40.611276,
     "geom:longitude":-74.273042,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IyoWYIZQIUzcHBxTdXEiG_40.611276_-74.273042@1303262256"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318628,
     "wof:geomhash":"99acaa4f9e5ce7460f7f07225b8d9a05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732501
+        }
+    ],
     "wof:id":655732501,
-    "wof:lastmodified":1466685121,
+    "wof:lastmodified":1492024014,
     "wof:name":"One Eight Hundred Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

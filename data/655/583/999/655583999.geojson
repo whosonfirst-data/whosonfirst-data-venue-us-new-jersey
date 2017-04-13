@@ -2,9 +2,14 @@
   "id": 655583999,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Milton St Cresskill NJ 07626",
+    "addr:housenumber":"23",
+    "addr:postcode":"07626",
+    "addr:street":"Milton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961036,40.939673,-73.961036,40.939673",
     "geom:latitude":40.939673,
     "geom:longitude":-73.961036,
@@ -24,7 +29,14 @@
     "sg:postcode":"07626",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rZ5zVBP1Z9EtbyYjzytEX_40.939673_-73.961036@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461312340,
     "wof:geomhash":"19963c65c45ecdd16e317b792f81f47a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655583999
+        }
+    ],
     "wof:id":655583999,
-    "wof:lastmodified":1466680622,
+    "wof:lastmodified":1492051932,
     "wof:name":"Gregg Hatten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

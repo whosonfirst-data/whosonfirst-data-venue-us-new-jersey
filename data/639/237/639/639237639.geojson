@@ -2,9 +2,14 @@
   "id": 639237639,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 Greenwood Ave Keyport NJ 07735",
+    "addr:housenumber":"888",
+    "addr:postcode":"07735",
+    "addr:street":"Greenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218483,40.447748,-74.218483,40.447748",
     "geom:latitude":40.447748,
     "geom:longitude":-74.218483,
@@ -29,7 +34,14 @@
         "install"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eZkF3jZMVvEgU07TvQZPq_40.447748_-74.218483@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461290548,
     "wof:geomhash":"e6848f3dc287e9043401f44e83a98a23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":639237639
+        }
+    ],
     "wof:id":639237639,
-    "wof:lastmodified":1466690078,
+    "wof:lastmodified":1492069711,
     "wof:name":"Custom Ceramic Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

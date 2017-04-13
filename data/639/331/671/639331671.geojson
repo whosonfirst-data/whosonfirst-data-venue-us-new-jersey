@@ -2,9 +2,14 @@
   "id": 639331671,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Parkertown Dr Little Egg Hbr NJ 08087",
+    "addr:housenumber":"401",
+    "addr:postcode":"08087",
+    "addr:street":"Parkertown Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331893,39.635807,-74.331893,39.635807",
     "geom:latitude":39.635807,
     "geom:longitude":-74.331893,
@@ -31,8 +36,9 @@
     "sg:website":"www.robinswoodkennels.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527409,
+        85688607,
         85975783,
         102081485,
         85847469
@@ -47,6 +53,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527409,
+            "venue_id":639331671
+        },
+        {
+            "country_id":85633793,
             "county_id":102081485,
             "locality_id":85975783,
             "neighbourhood_id":85847469,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":639331671,
-    "wof:lastmodified":1466692140,
+    "wof:lastmodified":1492057208,
     "wof:name":"Rick Robins School For Dogs",
-    "wof:parent_id":85847469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

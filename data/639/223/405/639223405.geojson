@@ -2,9 +2,14 @@
   "id": 639223405,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Country Club Ln Scotch Plains NJ 07076",
+    "addr:housenumber":"240",
+    "addr:postcode":"07076",
+    "addr:street":"Country Club Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.345269,40.613749,-74.345269,40.613749",
     "geom:latitude":40.613749,
     "geom:longitude":-74.345269,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05B0UTpnbDe05PiWdvATkG_40.613749_-74.345269@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461290221,
     "wof:geomhash":"4489c6d9720bbe0fd2a4ac0dc1a1e2ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639223405
+        }
+    ],
     "wof:id":639223405,
-    "wof:lastmodified":1466689447,
+    "wof:lastmodified":1492076764,
     "wof:name":"Akasa Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

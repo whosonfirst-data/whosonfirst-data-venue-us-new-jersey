@@ -2,9 +2,14 @@
   "id": 638672299,
   "type": "Feature",
   "properties": {
+    "addr:full":"272 Main St Spotswood NJ 08884",
+    "addr:housenumber":"272",
+    "addr:postcode":"08884",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.38414,40.397347,-74.38414,40.397347",
     "geom:latitude":40.397347,
     "geom:longitude":-74.38414,
@@ -28,7 +33,10 @@
         "answering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZuPvE9IIQPtlEun7TI9iB_40.397347_-74.384140@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461276531,
     "wof:geomhash":"601458ce041058c38a35d8d20b45474f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638672299
+        }
+    ],
     "wof:id":638672299,
-    "wof:lastmodified":1466676004,
+    "wof:lastmodified":1492028383,
     "wof:name":"D & B Wireless",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

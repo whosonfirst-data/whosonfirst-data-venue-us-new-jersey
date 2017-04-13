@@ -2,9 +2,14 @@
   "id": 655562783,
   "type": "Feature",
   "properties": {
+    "addr:full":"2243 Bridge Ave Point Pleasant NJ 08742",
+    "addr:housenumber":"2243",
+    "addr:postcode":"08742",
+    "addr:street":"Bridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.068559,40.072088,-74.068559,40.072088",
     "geom:latitude":40.072088,
     "geom:longitude":-74.068559,
@@ -35,7 +40,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ekjx8IryjjwJDqY8JxYd1_40.072088_-74.068559@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461311398,
     "wof:geomhash":"a0e7625ed89f75fdca7f58c1e1ce4a9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":655562783
+        }
+    ],
     "wof:id":655562783,
-    "wof:lastmodified":1466679878,
+    "wof:lastmodified":1492046164,
     "wof:name":"Lee Richards Fine Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639502909,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Churchill Ave Somerset NJ 08873",
+    "addr:housenumber":"115",
+    "addr:postcode":"08873",
+    "addr:street":"Churchill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.488689,40.48172,-74.488689,40.48172",
     "geom:latitude":40.48172,
     "geom:longitude":-74.488689,
@@ -28,7 +33,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FLWQQUVindFt9KS6cmalv_40.481720_-74.488689@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297543,
     "wof:geomhash":"3d4d43cd741fd3d54436b23a186fdd0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":639502909
+        }
+    ],
     "wof:id":639502909,
-    "wof:lastmodified":1466694854,
+    "wof:lastmodified":1492041860,
     "wof:name":"Colgate Paper Stock Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

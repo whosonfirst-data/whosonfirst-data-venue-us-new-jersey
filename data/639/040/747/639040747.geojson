@@ -2,9 +2,14 @@
   "id": 639040747,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 S Main St Pennington NJ 08534",
+    "addr:housenumber":"60",
+    "addr:postcode":"08534",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790927,40.327135,-74.790927,40.327135",
     "geom:latitude":40.327135,
     "geom:longitude":-74.790927,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i1cEFJ1wjfVrE1k9aDv2v_40.327135_-74.790927@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286068,
     "wof:geomhash":"abe4c5fbe2c0535c5a4712dae4fb50fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":639040747
+        }
+    ],
     "wof:id":639040747,
-    "wof:lastmodified":1466674080,
+    "wof:lastmodified":1492049947,
     "wof:name":"Fish Of Hopewell Valley Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

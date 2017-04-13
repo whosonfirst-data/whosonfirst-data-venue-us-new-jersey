@@ -2,9 +2,14 @@
   "id": 639489529,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 Berkshire Valley Rd Wharton NJ 07885",
+    "addr:housenumber":"915",
+    "addr:postcode":"07885",
+    "addr:street":"Berkshire Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.578341,40.943555,-74.578341,40.943555",
     "geom:latitude":40.943555,
     "geom:longitude":-74.578341,
@@ -27,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478317,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JNJ6Bxaniy04O3V3tUciY_40.943555_-74.578341@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297011,
     "wof:geomhash":"a59b974cc297a5644e36fd9091ba1bb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478317,
+            "region_id":85688607,
+            "venue_id":639489529
+        }
+    ],
     "wof:id":639489529,
-    "wof:lastmodified":1466694570,
+    "wof:lastmodified":1492064872,
     "wof:name":"N M T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

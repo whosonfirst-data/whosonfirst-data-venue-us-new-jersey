@@ -2,9 +2,14 @@
   "id": 639507443,
   "type": "Feature",
   "properties": {
+    "addr:full":"88 Willow Dr Old Tappan NJ 07675",
+    "addr:housenumber":"88",
+    "addr:postcode":"07675",
+    "addr:street":"Willow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.998516,41.004298,-73.998516,41.004298",
     "geom:latitude":41.004298,
     "geom:longitude":-73.998516,
@@ -27,7 +32,14 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ca163oJ8Ok9OIrVp8b2f1_41.004298_-73.998516@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297732,
     "wof:geomhash":"607c597ec80dd6feeb705d21283f55ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639507443
+        }
+    ],
     "wof:id":639507443,
-    "wof:lastmodified":1466694869,
+    "wof:lastmodified":1492042443,
     "wof:name":"Bruce S Boltuch PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

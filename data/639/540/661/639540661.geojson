@@ -2,9 +2,14 @@
   "id": 639540661,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 Lyons Ave Irvington NJ 07111",
+    "addr:housenumber":"751",
+    "addr:postcode":"07111",
+    "addr:street":"Lyons Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234709,40.722391,-74.234709,40.722391",
     "geom:latitude":40.722391,
     "geom:longitude":-74.234709,
@@ -28,7 +33,13 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K34VTs7SE5P964IvZcHe6_40.722391_-74.234709@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299329,
     "wof:geomhash":"b29a35bdfad2eb60c39846ac2d5eee6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639540661
+        }
+    ],
     "wof:id":639540661,
-    "wof:lastmodified":1466695693,
+    "wof:lastmodified":1492049612,
     "wof:name":"A 24 All Day Emergency Lcksmth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

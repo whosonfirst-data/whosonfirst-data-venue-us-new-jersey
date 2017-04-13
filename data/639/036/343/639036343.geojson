@@ -2,9 +2,14 @@
   "id": 639036343,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Oak St Norwood NJ 07648",
+    "addr:housenumber":"70",
+    "addr:postcode":"07648",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95122,40.999869,-73.95122,40.999869",
     "geom:latitude":40.999869,
     "geom:longitude":-73.95122,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.gempire.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jk4QLd7KNf9yPnXvmn8Gn_40.999869_-73.951220@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285933,
     "wof:geomhash":"0285735b9eff031757b485ce61e4148a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639036343
+        }
+    ],
     "wof:id":639036343,
-    "wof:lastmodified":1466673874,
+    "wof:lastmodified":1492026227,
     "wof:name":"Gempire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

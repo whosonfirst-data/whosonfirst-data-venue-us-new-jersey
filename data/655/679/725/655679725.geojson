@@ -2,9 +2,14 @@
   "id": 655679725,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Ringwood Ave Ringwood NJ 07456",
+    "addr:housenumber":"48",
+    "addr:postcode":"07456",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282997,41.068199,-74.282997,41.068199",
     "geom:latitude":41.068199,
     "geom:longitude":-74.282997,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60QjiMxpZ9rjBtLcbToPKe_41.068825_-74.282563@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461316399,
     "wof:geomhash":"48b32b0df2db28b828b897fc7bbdfffd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655679725
+        }
+    ],
     "wof:id":655679725,
-    "wof:lastmodified":1466683828,
+    "wof:lastmodified":1492024296,
     "wof:name":"Czura Stilwell Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

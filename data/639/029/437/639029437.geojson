@@ -2,9 +2,14 @@
   "id": 639029437,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Hinkly Rd Flemington NJ 08822",
+    "addr:housenumber":"45",
+    "addr:postcode":"08822",
+    "addr:street":"Hinkly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.895308,40.506188,-74.895308,40.506188",
     "geom:latitude":40.506188,
     "geom:longitude":-74.895308,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67WLqUUAZyzhi0IDnnZ6Ax_40.506188_-74.895308@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285773,
     "wof:geomhash":"6015c36ceeee8b1c3aaeebc1c02d5589",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":639029437
+        }
+    ],
     "wof:id":639029437,
-    "wof:lastmodified":1466673747,
+    "wof:lastmodified":1492039027,
     "wof:name":"Cedar Valley Maintenance",
     "wof:parent_id":420527093,
     "wof:placetype":"venue",

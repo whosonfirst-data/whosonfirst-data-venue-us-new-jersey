@@ -2,9 +2,14 @@
   "id": 638774441,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Evergreen Rd New Egypt NJ 08533",
+    "addr:housenumber":"121",
+    "addr:postcode":"08533",
+    "addr:street":"Evergreen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.531866,40.077489,-74.531866,40.077489",
     "geom:latitude":40.077489,
     "geom:longitude":-74.531866,
@@ -29,10 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527451,
         420527415,
         102191575,
         404477787,
-        85633793,
         85976321,
         102081485,
         85688607
@@ -46,6 +52,11 @@
     "wof:geomhash":"3092411c1d9d9f4a9aa12261fbcbffb5",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527451,
+            "venue_id":638774441
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -57,9 +68,9 @@
         }
     ],
     "wof:id":638774441,
-    "wof:lastmodified":1466681839,
+    "wof:lastmodified":1492030809,
     "wof:name":"Plumsted Township Tax Assessor",
-    "wof:parent_id":420527415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

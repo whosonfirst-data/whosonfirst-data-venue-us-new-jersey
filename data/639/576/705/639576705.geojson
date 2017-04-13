@@ -2,9 +2,14 @@
   "id": 639576705,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Kelleher Ave Ramsey NJ 07446",
+    "addr:housenumber":"49",
+    "addr:postcode":"07446",
+    "addr:street":"Kelleher Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150842,41.05002,-74.150842,41.05002",
     "geom:latitude":41.05002,
     "geom:longitude":-74.150842,
@@ -27,7 +32,14 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LXrSmDrJDLzcmDHy78Gln_41.050020_-74.150842@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300768,
     "wof:geomhash":"32b544637f0bc4c89db8828a1485cce0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":639576705
+        }
+    ],
     "wof:id":639576705,
-    "wof:lastmodified":1466696483,
+    "wof:lastmodified":1492057011,
     "wof:name":"Millenium Medical Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

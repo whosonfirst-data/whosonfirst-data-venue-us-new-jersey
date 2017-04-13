@@ -2,9 +2,14 @@
   "id": 639028789,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Bertrand Dr Princeton NJ 08540",
+    "addr:housenumber":"51",
+    "addr:postcode":"08540",
+    "addr:street":"Bertrand Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.631753,40.373339,-74.631753,40.373339",
     "geom:latitude":40.373339,
     "geom:longitude":-74.631753,
@@ -28,7 +33,13 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K4ieET9DTAKkQEVkFuIsQ_40.373339_-74.631753@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461285757,
     "wof:geomhash":"c9563982d195b0e69879d3344199f8cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639028789
+        }
+    ],
     "wof:id":639028789,
-    "wof:lastmodified":1466673776,
+    "wof:lastmodified":1492041600,
     "wof:name":"Lemand Holding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

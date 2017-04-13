@@ -2,9 +2,14 @@
   "id": 638622367,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Oakland Ter Newark NJ 07106",
+    "addr:housenumber":"22",
+    "addr:postcode":"07106",
+    "addr:street":"Oakland Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235287,40.744384,-74.235287,40.744384",
     "geom:latitude":40.744384,
     "geom:longitude":-74.235287,
@@ -28,7 +33,14 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66WCSMyq5Snoj98Cz5D4kp_40.744384_-74.235287@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461274981,
     "wof:geomhash":"332889212c4f685eb5587309311a1578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":638622367
+        }
+    ],
     "wof:id":638622367,
-    "wof:lastmodified":1466672945,
+    "wof:lastmodified":1492062520,
     "wof:name":"Church World Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

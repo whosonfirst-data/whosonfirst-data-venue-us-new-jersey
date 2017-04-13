@@ -2,9 +2,14 @@
   "id": 655789795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Mill St Newton NJ 07860",
+    "addr:housenumber":"1",
+    "addr:postcode":"07860",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752724,41.059761,-74.752724,41.059761",
     "geom:latitude":41.059761,
     "geom:longitude":-74.752724,
@@ -39,7 +44,10 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29rMjcje4Jl7aFZVITMIGH_41.059761_-74.752724@1303262270"
@@ -47,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461320970,
     "wof:geomhash":"751750abb5bfd6640ba722ac26eadbe4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789795
+        }
+    ],
     "wof:id":655789795,
-    "wof:lastmodified":1466686723,
+    "wof:lastmodified":1492070866,
     "wof:name":"Hayek Market",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

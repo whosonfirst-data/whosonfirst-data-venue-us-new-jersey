@@ -2,9 +2,14 @@
   "id": 638647141,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 William Dr Howell NJ 07731",
+    "addr:housenumber":"15",
+    "addr:postcode":"07731",
+    "addr:street":"William Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145627,40.124882,-74.145627,40.124882",
     "geom:latitude":40.124882,
     "geom:longitude":-74.145627,
@@ -28,7 +33,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        85976041,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Pb7Dgx710yPGrH1hed1g7_40.124882_-74.145627@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461275724,
     "wof:geomhash":"a001753f1775be52c088e6790a00bf30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "locality_id":85976041,
+            "region_id":85688607,
+            "venue_id":638647141
+        }
+    ],
     "wof:id":638647141,
-    "wof:lastmodified":1466673722,
+    "wof:lastmodified":1492062557,
     "wof:name":"M Pub Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

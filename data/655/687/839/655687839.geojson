@@ -2,9 +2,14 @@
   "id": 655687839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1721 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1721",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257466,40.693359,-74.257466,40.693359",
     "geom:latitude":40.693359,
     "geom:longitude":-74.257466,
@@ -31,7 +36,13 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32byrC9cb5eLyVNKanAhoA_40.693359_-74.257466@1299784598"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461316770,
     "wof:geomhash":"f9b9eb5a90c5711fd1e2a806920144e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655687839
+        }
+    ],
     "wof:id":655687839,
-    "wof:lastmodified":1466684112,
+    "wof:lastmodified":1492047726,
     "wof:name":"Applebee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

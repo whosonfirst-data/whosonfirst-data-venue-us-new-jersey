@@ -2,9 +2,14 @@
   "id": 639400839,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Parker Ave Burlington NJ 08016",
+    "addr:housenumber":"7",
+    "addr:postcode":"08016",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.822877,40.091263,-74.822877,40.091263",
     "geom:latitude":40.091263,
     "geom:longitude":-74.822877,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68cHP7TA8lxC3O45hsfptM_40.091263_-74.822877@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461294220,
     "wof:geomhash":"4d09299356a0c47ad0680334b50de2ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":639400839
+        }
+    ],
     "wof:id":639400839,
-    "wof:lastmodified":1466693030,
+    "wof:lastmodified":1492047607,
     "wof:name":"J Piekara Const",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

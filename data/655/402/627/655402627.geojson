@@ -2,9 +2,14 @@
   "id": 655402627,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Larkspur Dr Dayton NJ 08810",
+    "addr:housenumber":"38",
+    "addr:postcode":"08810",
+    "addr:street":"Larkspur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.512477,40.377955,-74.512477,40.377955",
     "geom:latitude":40.377955,
     "geom:longitude":-74.512477,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kvAKz7WV7XddPbvDZOgAI_40.377955_-74.512477@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304741,
     "wof:geomhash":"278bf3ffe8ab95f8f59ff64fecae89aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655402627
+        }
+    ],
     "wof:id":655402627,
-    "wof:lastmodified":1466675617,
+    "wof:lastmodified":1492071367,
     "wof:name":"Davis Phrm Consulting",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

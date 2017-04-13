@@ -2,9 +2,14 @@
   "id": 639565293,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Eden Ct North Brunswick NJ 08902",
+    "addr:housenumber":"10",
+    "addr:postcode":"08902",
+    "addr:street":"Eden Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.483171,40.443494,-74.483171,40.443494",
     "geom:latitude":40.443494,
     "geom:longitude":-74.483171,
@@ -28,7 +33,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gGx6bpTEquuQHIpsy7sEC_40.443494_-74.483171@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300318,
     "wof:geomhash":"11c11f08694646128fe2d1135ccd9919",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639565293
+        }
+    ],
     "wof:id":639565293,
-    "wof:lastmodified":1466696120,
+    "wof:lastmodified":1492042007,
     "wof:name":"Pshift Technology",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

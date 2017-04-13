@@ -2,9 +2,14 @@
   "id": 655788529,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Knowlton Rd Columbia NJ 07832",
+    "addr:housenumber":"116",
+    "addr:postcode":"07832",
+    "addr:street":"Knowlton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.047335,40.898235,-75.047335,40.898235",
     "geom:latitude":40.898235,
     "geom:longitude":-75.047335,
@@ -27,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j9Ai3Ro3pQSZ5s2QwKKQK_40.898235_-75.047335@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320922,
     "wof:geomhash":"7b6e9e28d1b84b27dbd53f209516efc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527759,
+            "venue_id":655788529
+        }
+    ],
     "wof:id":655788529,
-    "wof:lastmodified":1466686650,
+    "wof:lastmodified":1492043957,
     "wof:name":"Heuer Tree Farm",
     "wof:parent_id":420527759,
     "wof:placetype":"venue",

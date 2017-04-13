@@ -2,9 +2,14 @@
   "id": 655833779,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Rileyville Rd Ringoes NJ 08551",
+    "addr:housenumber":"339",
+    "addr:postcode":"08551",
+    "addr:street":"Rileyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.803964,40.438806,-74.803964,40.438806",
     "geom:latitude":40.438806,
     "geom:longitude":-74.803964,
@@ -27,7 +32,10 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gxh96HX0gj9PN4D4JhdIZ_40.438806_-74.803964@1303262282"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461322816,
     "wof:geomhash":"dbab64a527e2bffd83e5a04ab266aef2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527071,
+            "venue_id":655833779
+        }
+    ],
     "wof:id":655833779,
-    "wof:lastmodified":1466687846,
+    "wof:lastmodified":1492070371,
     "wof:name":"Windfall Farm",
     "wof:parent_id":420527071,
     "wof:placetype":"venue",

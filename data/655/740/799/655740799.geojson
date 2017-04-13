@@ -2,9 +2,14 @@
   "id": 655740799,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Chestnut St Union NJ 07083",
+    "addr:housenumber":"441",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268755,40.682123,-74.268755,40.682123",
     "geom:latitude":40.682123,
     "geom:longitude":-74.268755,
@@ -27,7 +32,10 @@
         "imaging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ICRcowCMkV2kVl3w9DOHu_40.682123_-74.268755@1303262258"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461318944,
     "wof:geomhash":"4be6f4fd234605a05b69aaf9f03e7372",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655740799
+        }
+    ],
     "wof:id":655740799,
-    "wof:lastmodified":1466685424,
+    "wof:lastmodified":1492018619,
     "wof:name":"Union Imaging Ctr",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

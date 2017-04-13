@@ -2,9 +2,14 @@
   "id": 655372837,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Bridgewater Dr Jackson NJ 08550",
+    "addr:housenumber":"27",
+    "addr:postcode":"08550",
+    "addr:street":"Bridgewater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.596979,40.288946,-74.596979,40.288946",
     "geom:latitude":40.288946,
     "geom:longitude":-74.596979,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LUgIOLvOpw8iefYMytvZ2_40.288946_-74.596979@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303532,
     "wof:geomhash":"52bb0bbde474668965b763298949baf2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":655372837
+        }
+    ],
     "wof:id":655372837,
-    "wof:lastmodified":1466674885,
+    "wof:lastmodified":1492021684,
     "wof:name":"Garden of Beauty",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

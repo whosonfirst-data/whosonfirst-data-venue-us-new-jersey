@@ -2,9 +2,14 @@
   "id": 655380399,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Beverly Rd Piscataway NJ 08854",
+    "addr:housenumber":"9",
+    "addr:postcode":"08854",
+    "addr:street":"Beverly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.443532,40.539246,-74.443532,40.539246",
     "geom:latitude":40.539246,
     "geom:longitude":-74.443532,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tuPOlBc4phzaAwTNMXppJ_40.539246_-74.443532@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303821,
     "wof:geomhash":"56b3dc55a89c39d47aa301e92e9bcf1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":655380399
+        }
+    ],
     "wof:id":655380399,
-    "wof:lastmodified":1466675018,
+    "wof:lastmodified":1492061675,
     "wof:name":"Nelson Lake Beauty Shop",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

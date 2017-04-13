@@ -2,9 +2,14 @@
   "id": 655409723,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Bloy St Hillside NJ 07205",
+    "addr:housenumber":"485",
+    "addr:postcode":"07205",
+    "addr:street":"Bloy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238847,40.700458,-74.238847,40.700458",
     "geom:latitude":40.700458,
     "geom:longitude":-74.238847,
@@ -28,7 +33,13 @@
         "exporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zIWfZusE6NfBUoVJByCSi_40.700458_-74.238847@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461305043,
     "wof:geomhash":"fcf06255cf131365d4310f4c0183fae1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655409723
+        }
+    ],
     "wof:id":655409723,
-    "wof:lastmodified":1466675860,
+    "wof:lastmodified":1492051369,
     "wof:name":"Soxland International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

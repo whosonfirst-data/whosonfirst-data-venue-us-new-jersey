@@ -2,9 +2,14 @@
   "id": 639476669,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 State Rte 23 Wayne NJ 07470",
+    "addr:housenumber":"63",
+    "addr:postcode":"07470",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250564,40.891251,-74.250564,40.891251",
     "geom:latitude":40.891251,
     "geom:longitude":-74.250564,
@@ -27,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fmwYK4P8zHVDmLmfVPeWk_40.891251_-74.250564@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296460,
     "wof:geomhash":"ec35b17e4fba108ba2c4f4ec45eb2365",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639476669
+        }
+    ],
     "wof:id":639476669,
-    "wof:lastmodified":1466694212,
+    "wof:lastmodified":1492042276,
     "wof:name":"Willowbrook Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

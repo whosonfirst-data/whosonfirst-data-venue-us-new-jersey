@@ -2,9 +2,14 @@
   "id": 639385899,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 Princeton Hightstown Rd Cranbury NJ 08512",
+    "addr:housenumber":"349",
+    "addr:postcode":"08512",
+    "addr:street":"Princeton Hightstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.565055,40.286479,-74.565055,40.286479",
     "geom:latitude":40.286479,
     "geom:longitude":-74.565055,
@@ -27,7 +32,13 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z3ogE7MovaCCOjKRiYynb_40.286479_-74.565055@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293763,
     "wof:geomhash":"6dce6728e1bf7eccd99b5049487ab035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639385899
+        }
+    ],
     "wof:id":639385899,
-    "wof:lastmodified":1466692821,
+    "wof:lastmodified":1492051298,
     "wof:name":"New Jersey State Firemens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655869785,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Carnegie Center Suite 206 Princeton NJ 08540",
+    "addr:housenumber":"212",
+    "addr:postcode":"08540",
+    "addr:street":"Carnegie Center Suite 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652526,40.316451,-74.652526,40.316451",
     "geom:latitude":40.316451,
     "geom:longitude":-74.652526,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"http://www.mobilemarketing.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wRijzlHxUlnCYl252RCjm_40.316451_-74.652526@1308186497"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461615214,
     "wof:geomhash":"de298304ab42a84c1240fd8e2673bbd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655869785
+        }
+    ],
     "wof:id":655869785,
-    "wof:lastmodified":1466687870,
+    "wof:lastmodified":1492083446,
     "wof:name":"Mobivity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

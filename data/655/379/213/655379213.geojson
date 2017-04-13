@@ -2,9 +2,14 @@
   "id": 655379213,
   "type": "Feature",
   "properties": {
+    "addr:full":"186 Comly Rd Lincoln Park NJ 07035",
+    "addr:housenumber":"186",
+    "addr:postcode":"07035",
+    "addr:street":"Comly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.302107,40.927244,-74.302107,40.927244",
     "geom:latitude":40.927244,
     "geom:longitude":-74.302107,
@@ -29,7 +34,14 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N8OMNWWUftsvQctiR0vyY_40.927244_-74.302107@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303778,
     "wof:geomhash":"8078d2f77fd8707cd61405ef09a97dfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":655379213
+        }
+    ],
     "wof:id":655379213,
-    "wof:lastmodified":1466674936,
+    "wof:lastmodified":1492057046,
     "wof:name":"Beaverbrook Rest Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

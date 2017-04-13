@@ -2,9 +2,14 @@
   "id": 655788225,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Clove Rd Montague NJ 07827",
+    "addr:housenumber":"399",
+    "addr:postcode":"07827",
+    "addr:street":"Clove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790688,41.290852,-74.790688,41.290852",
     "geom:latitude":41.290852,
     "geom:longitude":-74.790688,
@@ -27,7 +32,13 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478469,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b0AGlhn0OvCtTt7Fh0UxO_41.290852_-74.790688@1303262270"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461320906,
     "wof:geomhash":"777f69c1b1d572eb244fef929dc30602",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478469,
+            "region_id":85688607,
+            "venue_id":655788225
+        }
+    ],
     "wof:id":655788225,
-    "wof:lastmodified":1466686570,
+    "wof:lastmodified":1492084694,
     "wof:name":"The Wallace David A Law Offices Of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

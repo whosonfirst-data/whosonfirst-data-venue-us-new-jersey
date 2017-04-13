@@ -2,9 +2,14 @@
   "id": 639161121,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Ginesi Dr Freehold NJ 07728",
+    "addr:housenumber":"4",
+    "addr:postcode":"07728",
+    "addr:street":"Ginesi Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216332,40.239412,-74.216332,40.239412",
     "geom:latitude":40.239412,
     "geom:longitude":-74.216332,
@@ -24,7 +29,12 @@
     "sg:postcode":"07728",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85808317,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hvHEO9phWQgn9Qr0L0o4E_40.239412_-74.216332@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461288781,
     "wof:geomhash":"346c25dd7cb1e9748440de250b73536b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85808317,
+            "region_id":85688607,
+            "venue_id":639161121
+        }
+    ],
     "wof:id":639161121,
-    "wof:lastmodified":1466683286,
+    "wof:lastmodified":1492049926,
     "wof:name":"J N Donahue Associates PC",
-    "wof:parent_id":420527275,
+    "wof:parent_id":85808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

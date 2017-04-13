@@ -2,9 +2,14 @@
   "id": 638634845,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 St Lawrence Way Marlboro NJ 07746",
+    "addr:housenumber":"46",
+    "addr:postcode":"07746",
+    "addr:street":"St Lawrence Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280042,40.323968,-74.280042,40.323968",
     "geom:latitude":40.323968,
     "geom:longitude":-74.280042,
@@ -29,7 +34,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CLrztJzVhMUhOMs5WOyCE_40.323968_-74.280042@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461275370,
     "wof:geomhash":"5cd44afee40c9e4c893e704583876237",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":638634845
+        }
+    ],
     "wof:id":638634845,
-    "wof:lastmodified":1466673393,
+    "wof:lastmodified":1492024454,
     "wof:name":"Carol Abaya Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

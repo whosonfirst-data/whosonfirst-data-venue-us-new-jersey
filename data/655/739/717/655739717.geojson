@@ -2,9 +2,14 @@
   "id": 655739717,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 Morris Tpke Springfield NJ 07081",
+    "addr:housenumber":"659",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.32817,40.718167,-74.32817,40.718167",
     "geom:latitude":40.718167,
     "geom:longitude":-74.32817,
@@ -27,7 +32,13 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QVEyEhyHIJWjnVZGWWAbF_40.718167_-74.328170@1303262258"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318905,
     "wof:geomhash":"aa2d6c55c01c30171a47192a4bb7cc45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655739717
+        }
+    ],
     "wof:id":655739717,
-    "wof:lastmodified":1466685397,
+    "wof:lastmodified":1492028983,
     "wof:name":"Always Affective Available Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

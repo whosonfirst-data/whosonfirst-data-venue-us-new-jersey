@@ -2,9 +2,14 @@
   "id": 638898459,
   "type": "Feature",
   "properties": {
+    "addr:full":"365 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"365",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.51158,40.374691,-74.51158,40.374691",
     "geom:latitude":40.374691,
     "geom:longitude":-74.51158,
@@ -29,7 +34,10 @@
         "drycleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lFuV0sHIojvLXEP31j2zQ_40.374691_-74.511580@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461282711,
     "wof:geomhash":"0d192f3af3635f8d51888e6ad87cf128",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638898459
+        }
+    ],
     "wof:id":638898459,
-    "wof:lastmodified":1466690102,
+    "wof:lastmodified":1492068864,
     "wof:name":"Star Quality Cleaners",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

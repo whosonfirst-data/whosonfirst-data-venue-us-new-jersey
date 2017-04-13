@@ -2,9 +2,14 @@
   "id": 638886443,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Morning Star Dr Sparta NJ 07871",
+    "addr:housenumber":"33",
+    "addr:postcode":"07871",
+    "addr:street":"Morning Star Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.613737,41.030452,-74.613737,41.030452",
     "geom:latitude":41.030452,
     "geom:longitude":-74.613737,
@@ -27,7 +32,16 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667,
+        85865317,
+        102191575,
+        404478479,
+        85976255,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QAjR9ERIoL5KWEJEfjIUs_41.030452_-74.613737@1294171694"
@@ -35,11 +49,27 @@
     "wof:country":"US",
     "wof:created":1461282382,
     "wof:geomhash":"7d3df1f2c0894d56afb1eec4fede04d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":638886443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478479,
+            "locality_id":85976255,
+            "neighbourhood_id":85865317,
+            "region_id":85688607,
+            "venue_id":638886443
+        }
+    ],
     "wof:id":638886443,
-    "wof:lastmodified":1466689823,
+    "wof:lastmodified":1492067409,
     "wof:name":"Blessing White Inc",
-    "wof:parent_id":420527667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639536273,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Sunny Woods Ln Jackson NJ 08527",
+    "addr:housenumber":"16",
+    "addr:postcode":"08527",
+    "addr:street":"Sunny Woods Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275211,40.147668,-74.275211,40.147668",
     "geom:latitude":40.147668,
     "geom:longitude":-74.275211,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QejxnQf6bM6isqNVNPdXx_40.147668_-74.275211@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461299107,
     "wof:geomhash":"993131ea687791beca57804a0779551c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639536273
+        }
+    ],
     "wof:id":639536273,
-    "wof:lastmodified":1466695421,
+    "wof:lastmodified":1492017018,
     "wof:name":"Metro Boys Sandwiches LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

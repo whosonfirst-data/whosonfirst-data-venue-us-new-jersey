@@ -2,9 +2,14 @@
   "id": 639040829,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Lamont Ave Mercerville NJ 08619",
+    "addr:housenumber":"6",
+    "addr:postcode":"08619",
+    "addr:street":"Lamont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.690775,40.224439,-74.690775,40.224439",
     "geom:latitude":40.224439,
     "geom:longitude":-74.690775,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L2LJ8bhM3BuxR5zOuYQMp_40.224439_-74.690775@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286069,
     "wof:geomhash":"c3e7f89e6ff9fc46beb2a2997b3d64df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527145,
+            "venue_id":639040829
+        }
+    ],
     "wof:id":639040829,
-    "wof:lastmodified":1466674091,
+    "wof:lastmodified":1492046351,
     "wof:name":"Cypress Apartments",
     "wof:parent_id":420527145,
     "wof:placetype":"venue",

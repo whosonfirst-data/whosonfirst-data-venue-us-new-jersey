@@ -2,9 +2,14 @@
   "id": 638905919,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Goffle Rd Wyckoff NJ 07450",
+    "addr:housenumber":"555",
+    "addr:postcode":"07450",
+    "addr:street":"Goffle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147729,40.973301,-74.147729,40.973301",
     "geom:latitude":40.973301,
     "geom:longitude":-74.147729,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.ramsco-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GIyS3bku8STg6SR0kdgsj_40.973301_-74.147729@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461282901,
     "wof:geomhash":"00c556b264814f197de141ff2d465257",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":638905919
+        }
+    ],
     "wof:id":638905919,
-    "wof:lastmodified":1466690202,
+    "wof:lastmodified":1492027639,
     "wof:name":"Robert A Main & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

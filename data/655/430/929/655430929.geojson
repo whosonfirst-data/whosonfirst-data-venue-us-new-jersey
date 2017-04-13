@@ -2,9 +2,14 @@
   "id": 655430929,
   "type": "Feature",
   "properties": {
+    "addr:full":"385 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"385",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142077,40.042782,-74.142077,40.042782",
     "geom:latitude":40.042782,
     "geom:longitude":-74.142077,
@@ -27,7 +32,10 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AzfS99vk7rVRdlPaapENH_40.042782_-74.142077@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305936,
     "wof:geomhash":"050847acf546a3f845b75e4fe33f0e2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655430929
+        }
+    ],
     "wof:id":655430929,
-    "wof:lastmodified":1466676475,
+    "wof:lastmodified":1492056711,
     "wof:name":"Vacuum World",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

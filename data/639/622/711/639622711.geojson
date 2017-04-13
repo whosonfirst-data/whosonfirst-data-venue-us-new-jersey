@@ -2,9 +2,14 @@
   "id": 639622711,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Donsen Ln Scotch Plains NJ 07076",
+    "addr:housenumber":"6",
+    "addr:postcode":"07076",
+    "addr:street":"Donsen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3705,40.613883,-74.3705,40.613883",
     "geom:latitude":40.613883,
     "geom:longitude":-74.3705,
@@ -27,7 +32,13 @@
         "control"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WLgn5qziyFGDxiji60A7v_40.613883_-74.370500@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461302599,
     "wof:geomhash":"6831656441795babdbbd4e8ce2489c31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639622711
+        }
+    ],
     "wof:id":639622711,
-    "wof:lastmodified":1466697528,
+    "wof:lastmodified":1492080188,
     "wof:name":"Myerco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

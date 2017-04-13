@@ -2,9 +2,14 @@
   "id": 655575209,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 N Main St Wharton NJ 07885",
+    "addr:housenumber":"375",
+    "addr:postcode":"07885",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.579865,40.910039,-74.579865,40.910039",
     "geom:latitude":40.910039,
     "geom:longitude":-74.579865,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85829143,
+        102191575,
+        404477327,
         85633793,
         85975571,
         102087413,
-        85829143
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"8f458b4108632ff7583fcccbabde2887",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087413,
+            "localadmin_id":404477327,
             "locality_id":85975571,
             "neighbourhood_id":85829143,
             "region_id":85688607,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":655575209,
-    "wof:lastmodified":1466680079,
+    "wof:lastmodified":1492057358,
     "wof:name":"Wharton Gardens",
     "wof:parent_id":85829143,
     "wof:placetype":"venue",

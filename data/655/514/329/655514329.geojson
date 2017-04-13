@@ -2,9 +2,14 @@
   "id": 655514329,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 McKee Dr Mahwah NJ 07430",
+    "addr:housenumber":"82",
+    "addr:postcode":"07430",
+    "addr:street":"Mckee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148422,41.083182,-74.148422,41.083182",
     "geom:latitude":41.083182,
     "geom:longitude":-74.148422,
@@ -35,7 +40,13 @@
     ],
     "sg:website":"www.fmexpressions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UvhVqXlJnlLKnMXNoG9vr_41.083182_-74.148422@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461309459,
     "wof:geomhash":"b7461b6d5a4530f81a0fbf92e7cd1c9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655514329
+        }
+    ],
     "wof:id":655514329,
-    "wof:lastmodified":1466678507,
+    "wof:lastmodified":1492053976,
     "wof:name":"F & M Expressions Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

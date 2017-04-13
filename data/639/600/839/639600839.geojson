@@ -2,9 +2,14 @@
   "id": 639600839,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Northgate Park Ringwood NJ 07456",
+    "addr:housenumber":"95",
+    "addr:postcode":"07456",
+    "addr:street":"Northgate",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257098,41.08695,-74.257098,41.08695",
     "geom:latitude":41.08695,
     "geom:longitude":-74.257098,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bpcuGibKLxiFmrtbBj3xI_41.086950_-74.257098@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301763,
     "wof:geomhash":"13a9608ecb2bdc1eb634eb36f95c9d21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":639600839
+        }
+    ],
     "wof:id":639600839,
-    "wof:lastmodified":1466696924,
+    "wof:lastmodified":1492024307,
     "wof:name":"Sandvik Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

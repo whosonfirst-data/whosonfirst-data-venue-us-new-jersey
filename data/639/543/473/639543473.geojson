@@ -2,9 +2,14 @@
   "id": 639543473,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 W 2nd St Howell NJ 07731",
+    "addr:housenumber":"103",
+    "addr:postcode":"07731",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240409,40.172492,-74.240409,40.172492",
     "geom:latitude":40.172492,
     "geom:longitude":-74.240409,
@@ -28,7 +33,10 @@
         "safety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QDGC1wUSsiG2tQru6nuce_40.172492_-74.240409@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461299473,
     "wof:geomhash":"8f3c47a0d8a83ae40c1699139dea84c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":639543473
+        }
+    ],
     "wof:id":639543473,
-    "wof:lastmodified":1466695787,
+    "wof:lastmodified":1492049697,
     "wof:name":"Area Wide Protective",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

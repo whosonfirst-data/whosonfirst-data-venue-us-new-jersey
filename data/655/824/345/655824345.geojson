@@ -2,9 +2,14 @@
   "id": 655824345,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Beideman Ave Camden NJ 08105",
+    "addr:housenumber":"700",
+    "addr:postcode":"08105",
+    "addr:street":"Beideman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083216,39.955338,-75.083216,39.955338",
     "geom:latitude":39.955338,
     "geom:longitude":-75.083216,
@@ -34,7 +39,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aX12J2FpFQXnXOy8Z080t_39.955338_-75.083216@1303262279"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461322424,
     "wof:geomhash":"e8ca05a25b9c60bf7b00e3177b453539",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655824345
+        }
+    ],
     "wof:id":655824345,
-    "wof:lastmodified":1466687566,
+    "wof:lastmodified":1492056469,
     "wof:name":"Bombardier Transportation",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

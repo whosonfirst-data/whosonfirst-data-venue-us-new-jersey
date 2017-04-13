@@ -2,9 +2,14 @@
   "id": 655455503,
   "type": "Feature",
   "properties": {
+    "addr:full":"455 Garden Pl Keyport NJ 07735",
+    "addr:housenumber":"455",
+    "addr:postcode":"07735",
+    "addr:street":"Garden Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.228083,40.431707,-74.228083,40.431707",
     "geom:latitude":40.431707,
     "geom:longitude":-74.228083,
@@ -27,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07AjXkgUCXjm7gBcDXRHFH_40.431707_-74.228083@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306937,
     "wof:geomhash":"989674ee318e739f9066cfff40ef34e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655455503
+        }
+    ],
     "wof:id":655455503,
-    "wof:lastmodified":1466676906,
+    "wof:lastmodified":1492029514,
     "wof:name":"Tax Services Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

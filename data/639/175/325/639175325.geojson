@@ -2,9 +2,14 @@
   "id": 639175325,
   "type": "Feature",
   "properties": {
+    "addr:full":"482 Princeton Kingston Rd Princeton NJ 08540",
+    "addr:housenumber":"482",
+    "addr:postcode":"08540",
+    "addr:street":"Princeton Kingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.638438,40.356955,-74.638438,40.356955",
     "geom:latitude":40.356955,
     "geom:longitude":-74.638438,
@@ -27,7 +32,13 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e5W5FfW0KH68LZQ3WOBHI_40.356955_-74.638438@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289086,
     "wof:geomhash":"859a937aa2617db6c6006cac39f8370d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639175325
+        }
+    ],
     "wof:id":639175325,
-    "wof:lastmodified":1466685181,
+    "wof:lastmodified":1492051459,
     "wof:name":"Kingston Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

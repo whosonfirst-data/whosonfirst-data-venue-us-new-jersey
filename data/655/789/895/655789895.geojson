@@ -2,9 +2,14 @@
   "id": 655789895,
   "type": "Feature",
   "properties": {
+    "addr:full":"197 Main St Newton NJ 07860",
+    "addr:housenumber":"197",
+    "addr:postcode":"07860",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.756823,41.050015,-74.756823,41.050015",
     "geom:latitude":41.050015,
     "geom:longitude":-74.756823,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"http://www.sovereignbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59DOvBiOdKWZ8S62C6wBxi_41.050015_-74.756823@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320974,
     "wof:geomhash":"c2b913bb1bc6d821244b1501deaa2a4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789895
+        }
+    ],
     "wof:id":655789895,
-    "wof:lastmodified":1466686748,
+    "wof:lastmodified":1492058511,
     "wof:name":"Sovereign Bank",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

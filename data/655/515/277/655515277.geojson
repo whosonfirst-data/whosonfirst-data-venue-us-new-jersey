@@ -2,9 +2,14 @@
   "id": 655515277,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"220",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253215,40.745008,-74.253215,40.745008",
     "geom:latitude":40.745008,
     "geom:longitude":-74.253215,
@@ -28,7 +33,10 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dzzfqXobMMkTbUSfHOl3x_40.745008_-74.253215@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309501,
     "wof:geomhash":"1c69ed9627ec73dfa064898b03a60f3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655515277
+        }
+    ],
     "wof:id":655515277,
-    "wof:lastmodified":1466678512,
+    "wof:lastmodified":1492050509,
     "wof:name":"Elks Bpo",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

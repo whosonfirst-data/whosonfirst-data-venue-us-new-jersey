@@ -2,9 +2,14 @@
   "id": 655679785,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Union Ave Cresskill NJ 07626",
+    "addr:housenumber":"53",
+    "addr:postcode":"07626",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.96064,40.9417,-73.96064,40.9417",
     "geom:latitude":40.9417,
     "geom:longitude":-73.96064,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.bccls.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61QXjk6eTWmdaRLHOLklEh_40.941728_-73.960875@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316401,
     "wof:geomhash":"725b2e11ff3e3c1b7284bfa74a89790d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655679785
+        }
+    ],
     "wof:id":655679785,
-    "wof:lastmodified":1466683845,
+    "wof:lastmodified":1492048551,
     "wof:name":"Cresskill Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

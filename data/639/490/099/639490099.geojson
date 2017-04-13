@@ -2,9 +2,14 @@
   "id": 639490099,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Bruno Ln Atco NJ 08004",
+    "addr:housenumber":"454",
+    "addr:postcode":"08004",
+    "addr:street":"Bruno Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.897388,39.764175,-74.897388,39.764175",
     "geom:latitude":39.764175,
     "geom:longitude":-74.897388,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P53h9lfp2yEuWhvGF5nvd_39.764175_-74.897388@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297031,
     "wof:geomhash":"801e3ac9a1ed15d29562cae9d2922912",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639490099
+        }
+    ],
     "wof:id":639490099,
-    "wof:lastmodified":1466694533,
+    "wof:lastmodified":1492047506,
     "wof:name":"Shell Electric",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

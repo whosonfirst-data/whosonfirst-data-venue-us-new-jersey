@@ -2,9 +2,14 @@
   "id": 655476563,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Ardsley Ave Trenton NJ 08638",
+    "addr:housenumber":"11",
+    "addr:postcode":"08638",
+    "addr:street":"Ardsley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.771486,40.25582,-74.771486,40.25582",
     "geom:latitude":40.25582,
     "geom:longitude":-74.771486,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Pg4cldGB0BdIUhd0BSmA_40.255820_-74.771486@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307867,
     "wof:geomhash":"63640bf9f385dfd54f4c5fefe424647c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527165,
+            "venue_id":655476563
+        }
+    ],
     "wof:id":655476563,
-    "wof:lastmodified":1466677533,
+    "wof:lastmodified":1492036267,
     "wof:name":"Cortina & Sons General Bldrs",
     "wof:parent_id":420527165,
     "wof:placetype":"venue",

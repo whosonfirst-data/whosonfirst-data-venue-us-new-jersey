@@ -2,9 +2,14 @@
   "id": 655463323,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Culver Rd Monmouth Jct NJ 08852",
+    "addr:housenumber":"100",
+    "addr:postcode":"08852",
+    "addr:street":"Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.519703,40.371216,-74.519703,40.371216",
     "geom:latitude":40.371216,
     "geom:longitude":-74.519703,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.njgatewayfcu.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vzedciJAcM7TFWax5bojt_40.371216_-74.519703@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461307304,
     "wof:geomhash":"624dcd1b1beef693de8ac1872d8d1274",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655463323
+        }
+    ],
     "wof:id":655463323,
-    "wof:lastmodified":1466677120,
+    "wof:lastmodified":1492071368,
     "wof:name":"N J Gateway Fcu",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639416855,
   "type": "Feature",
   "properties": {
+    "addr:full":"2154 Atco Ave Atco NJ 08004",
+    "addr:housenumber":"2154",
+    "addr:postcode":"08004",
+    "addr:street":"Atco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888338,39.76951,-74.888338,39.76951",
     "geom:latitude":39.76951,
     "geom:longitude":-74.888338,
@@ -34,7 +39,10 @@
         "parcel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16wXiOU4WTdHmypMgzXj5t_39.769510_-74.888338@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461294637,
     "wof:geomhash":"825f08d2d84f24855ef766b6e9de3ba1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639416855
+        }
+    ],
     "wof:id":639416855,
-    "wof:lastmodified":1466693210,
+    "wof:lastmodified":1492047607,
     "wof:name":"Golden Graphics",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

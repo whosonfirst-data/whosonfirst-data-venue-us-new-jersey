@@ -2,9 +2,14 @@
   "id": 639448555,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 John St Closter NJ 07624",
+    "addr:housenumber":"48",
+    "addr:postcode":"07624",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961986,40.977047,-73.961986,40.977047",
     "geom:latitude":40.977047,
     "geom:longitude":-73.961986,
@@ -27,7 +32,14 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HBRGwfFmPvPkyeowFT5JB_40.977047_-73.961986@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295356,
     "wof:geomhash":"51c3762e90585c8821995a7ca5840a43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639448555
+        }
+    ],
     "wof:id":639448555,
-    "wof:lastmodified":1466693599,
+    "wof:lastmodified":1492042581,
     "wof:name":"Closter Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

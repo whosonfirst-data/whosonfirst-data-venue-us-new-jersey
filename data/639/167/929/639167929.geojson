@@ -2,9 +2,14 @@
   "id": 639167929,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 State Rte 73 Voorhees NJ 08043",
+    "addr:housenumber":"311",
+    "addr:postcode":"08043",
+    "addr:street":"State Rte 73",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.921806,39.854483,-74.921806,39.854483",
     "geom:latitude":39.854483,
     "geom:longitude":-74.921806,
@@ -28,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cWSmrkjn0Z5lvznG70NmR_39.854483_-74.921806@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461288921,
     "wof:geomhash":"5431c773a6260b6b90deef5cd59d6f16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":639167929
+        }
+    ],
     "wof:id":639167929,
-    "wof:lastmodified":1466684217,
+    "wof:lastmodified":1492043091,
     "wof:name":"Roman Grafix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

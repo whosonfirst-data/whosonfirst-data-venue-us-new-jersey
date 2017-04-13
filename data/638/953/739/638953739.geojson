@@ -2,9 +2,14 @@
   "id": 638953739,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 Trenton Harbourton Rd Titusville NJ 08560",
+    "addr:housenumber":"1125",
+    "addr:postcode":"08560",
+    "addr:street":"Trenton Harbourton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.845458,40.294985,-74.845458,40.294985",
     "geom:latitude":40.294985,
     "geom:longitude":-74.845458,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68ClTvaKsrFpInkH7I5RmB_40.294985_-74.845458@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461284106,
     "wof:geomhash":"a8c69343284a5eeab329a344373e7cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536911,
+            "venue_id":638953739
+        }
+    ],
     "wof:id":638953739,
-    "wof:lastmodified":1466691393,
+    "wof:lastmodified":1492049199,
     "wof:name":"Christina E Farup MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

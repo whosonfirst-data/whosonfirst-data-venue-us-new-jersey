@@ -2,9 +2,14 @@
   "id": 655739049,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"530",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.320702,40.715199,-74.320702,40.715199",
     "geom:latitude":40.715199,
     "geom:longitude":-74.320702,
@@ -27,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hzTuaIK2oUTk1WrWi5ER4_40.715199_-74.320702@1303262258"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318883,
     "wof:geomhash":"8f32b46ab7e751f20205ea11961fa9ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655739049
+        }
+    ],
     "wof:id":655739049,
-    "wof:lastmodified":1466685221,
+    "wof:lastmodified":1492027521,
     "wof:name":"Kosson Richard A CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

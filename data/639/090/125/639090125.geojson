@@ -2,9 +2,14 @@
   "id": 639090125,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Christie St Edison NJ 08820",
+    "addr:housenumber":"135",
+    "addr:postcode":"08820",
+    "addr:street":"Christie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.347897,40.564631,-74.347897,40.564631",
     "geom:latitude":40.564631,
     "geom:longitude":-74.347897,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32e0R40mIZZef7MrKgmh7r_40.564631_-74.347897@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287146,
     "wof:geomhash":"a5c670d5b6f69138b38fcb86cd59c14e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":639090125
+        }
+    ],
     "wof:id":639090125,
-    "wof:lastmodified":1466672985,
+    "wof:lastmodified":1492061396,
     "wof:name":"MCR Systems",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

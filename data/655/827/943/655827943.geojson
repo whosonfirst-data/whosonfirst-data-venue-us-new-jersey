@@ -2,9 +2,14 @@
   "id": 655827943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 45th St Pennsauken NJ 08110",
+    "addr:housenumber":"1616",
+    "addr:postcode":"08110",
+    "addr:street":"45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072207,39.95991,-75.072207,39.95991",
     "geom:latitude":39.95991,
     "geom:longitude":-75.072207,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H8Gzge5sn6Gr5lM1QNwCU_39.959910_-75.072207@1303262280"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461322559,
     "wof:geomhash":"3c9bfca3a9ebe30ed720851f31304b60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827943
+        }
+    ],
     "wof:id":655827943,
-    "wof:lastmodified":1466687791,
+    "wof:lastmodified":1492056469,
     "wof:name":"Bayside Hardwood Floors",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

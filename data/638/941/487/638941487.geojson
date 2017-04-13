@@ -2,9 +2,14 @@
   "id": 638941487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 State Rte 35 Holmdel NJ 07733",
+    "addr:housenumber":"2124",
+    "addr:postcode":"07733",
+    "addr:street":"State Rte 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141654,40.411761,-74.141654,40.411761",
     "geom:latitude":40.411761,
     "geom:longitude":-74.141654,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85824605,
-        102085049
+        102085049,
+        85841489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85824605,
             "region_id":85688607,
             "venue_id":638941487
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85841489,
+            "region_id":85688607,
+            "venue_id":638941487
         }
     ],
     "wof:id":638941487,
-    "wof:lastmodified":1466691050,
+    "wof:lastmodified":1492044425,
     "wof:name":"Procare Physical Therapy",
-    "wof:parent_id":85824605,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

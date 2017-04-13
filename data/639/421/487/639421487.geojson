@@ -2,9 +2,14 @@
   "id": 639421487,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 Herrontown Rd Princeton NJ 08540",
+    "addr:housenumber":"375",
+    "addr:postcode":"08540",
+    "addr:street":"Herrontown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.634497,40.377429,-74.634497,40.377429",
     "geom:latitude":40.377429,
     "geom:longitude":-74.634497,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G7yDwChX6Rz6qJtd23ZfR_40.377429_-74.634497@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294743,
     "wof:geomhash":"3610e33c61742a9d4f709cee24cecc38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639421487
+        }
+    ],
     "wof:id":639421487,
-    "wof:lastmodified":1466693265,
+    "wof:lastmodified":1492051529,
     "wof:name":"Players Business MGT LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

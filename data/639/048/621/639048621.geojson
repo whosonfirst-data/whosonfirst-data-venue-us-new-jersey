@@ -2,9 +2,14 @@
   "id": 639048621,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Jefferson Ave Short Hills NJ 07078",
+    "addr:housenumber":"58",
+    "addr:postcode":"07078",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.317978,40.732898,-74.317978,40.732898",
     "geom:latitude":40.732898,
     "geom:longitude":-74.317978,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804363,
+        85857457,
         102191575,
         404478043,
         85633793,
         85976003,
         102085043,
-        85688607
+        85688607,
+        85804363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102085043,
             "localadmin_id":404478043,
             "locality_id":85976003,
+            "neighbourhood_id":85857457,
+            "region_id":85688607,
+            "venue_id":639048621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "locality_id":85976003,
             "neighbourhood_id":85804363,
             "region_id":85688607,
             "venue_id":639048621
         }
     ],
     "wof:id":639048621,
-    "wof:lastmodified":1466674211,
+    "wof:lastmodified":1492028976,
     "wof:name":"Blagdon Builders Inc",
-    "wof:parent_id":85804363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

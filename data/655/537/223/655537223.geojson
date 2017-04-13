@@ -2,9 +2,14 @@
   "id": 655537223,
   "type": "Feature",
   "properties": {
+    "addr:full":"762 Harvard Pl Cliffside Park NJ 07010",
+    "addr:housenumber":"762",
+    "addr:postcode":"07010",
+    "addr:street":"Harvard Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987783,40.832123,-73.987783,40.832123",
     "geom:latitude":40.832123,
     "geom:longitude":-73.987783,
@@ -28,7 +33,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vOJ4jaR8ZoMRhuVqn9no1_40.832123_-73.987783@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310319,
     "wof:geomhash":"9ed50860fe024efdbde8bf000da3f4af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655537223
+        }
+    ],
     "wof:id":655537223,
-    "wof:lastmodified":1466679126,
+    "wof:lastmodified":1492025196,
     "wof:name":"Intl Car Group Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655828415,
   "type": "Feature",
   "properties": {
+    "addr:full":"6928 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6928",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.051498,39.966702,-75.051498,39.966702",
     "geom:latitude":39.966702,
     "geom:longitude":-75.051498,
@@ -28,7 +33,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hLakZhQIMSAsPrXWFTB4t_39.966702_-75.051498@1303262280"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322583,
     "wof:geomhash":"75756420b2f5708742cef3d60b6e2335",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":655828415
+        }
+    ],
     "wof:id":655828415,
-    "wof:lastmodified":1466687659,
+    "wof:lastmodified":1492027532,
     "wof:name":"Westfield Animal Hospital",
     "wof:parent_id":420526789,
     "wof:placetype":"venue",

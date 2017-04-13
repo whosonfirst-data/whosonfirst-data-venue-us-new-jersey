@@ -2,9 +2,14 @@
   "id": 638940601,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 S Lincoln Ave Washington NJ 07882",
+    "addr:housenumber":"51",
+    "addr:postcode":"07882",
+    "addr:street":"S Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.979549,40.755148,-74.979549,40.755148",
     "geom:latitude":40.755148,
     "geom:longitude":-74.979549,
@@ -27,7 +32,10 @@
         "wire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uxNWabknsqqxwB3rvErBl_40.755148_-74.979549@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283818,
     "wof:geomhash":"48bbbfaa851ba8c18804ae232668d639",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638940601
+        }
+    ],
     "wof:id":638940601,
-    "wof:lastmodified":1466691253,
+    "wof:lastmodified":1492029637,
     "wof:name":"Century Wire Products Corp",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

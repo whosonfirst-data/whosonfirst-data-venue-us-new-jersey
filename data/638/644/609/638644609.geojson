@@ -2,9 +2,14 @@
   "id": 638644609,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 US Hwy 9 Waretown NJ 08758",
+    "addr:housenumber":"510",
+    "addr:postcode":"08758",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.196186,39.793701,-74.196186,39.793701",
     "geom:latitude":39.793701,
     "geom:longitude":-74.196186,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dOJmWKPP08VSrR81xD1th_39.793701_-74.196186@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275650,
     "wof:geomhash":"63182114c446ac19448231a707025e32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527435,
+            "venue_id":638644609
+        }
+    ],
     "wof:id":638644609,
-    "wof:lastmodified":1466673629,
+    "wof:lastmodified":1492062529,
     "wof:name":"Weather Watch Heating Cooling",
     "wof:parent_id":420527435,
     "wof:placetype":"venue",

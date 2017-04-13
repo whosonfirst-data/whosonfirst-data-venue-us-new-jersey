@@ -2,9 +2,14 @@
   "id": 639618049,
   "type": "Feature",
   "properties": {
+    "addr:full":"294 W Oakland Ave Oakland NJ 07436",
+    "addr:housenumber":"294",
+    "addr:postcode":"07436",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261209,41.022416,-74.261209,41.022416",
     "geom:latitude":41.022416,
     "geom:longitude":-74.261209,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.custom-create.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UXWP2njoHfJ8UCrK86EkI_41.022416_-74.261209@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302432,
     "wof:geomhash":"d295a8d3a23dc071591062e85829489b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639618049
+        }
+    ],
     "wof:id":639618049,
-    "wof:lastmodified":1466697385,
+    "wof:lastmodified":1492057018,
     "wof:name":"Custom Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

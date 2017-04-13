@@ -2,9 +2,14 @@
   "id": 638679125,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Parkway Ave Trenton NJ 08618",
+    "addr:housenumber":"900",
+    "addr:postcode":"08618",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792536,40.255411,-74.792536,40.255411",
     "geom:latitude":40.255411,
     "geom:longitude":-74.792536,
@@ -24,7 +29,10 @@
     "sg:postcode":"08618",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68ycmLRWavNigxBSIlV083_40.255411_-74.792536@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461276738,
     "wof:geomhash":"c09cd0b548f083c27975fdf85b5d41a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":638679125
+        }
+    ],
     "wof:id":638679125,
-    "wof:lastmodified":1466687936,
+    "wof:lastmodified":1492062581,
     "wof:name":"Ewing High",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

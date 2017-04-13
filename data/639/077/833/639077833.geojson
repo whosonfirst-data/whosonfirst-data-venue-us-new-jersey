@@ -2,9 +2,14 @@
   "id": 639077833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1301",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232717,40.697787,-74.232717,40.697787",
     "geom:latitude":40.697787,
     "geom:longitude":-74.232717,
@@ -24,7 +29,13 @@
     "sg:postcode":"07205",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OjKJM5VnMtSfoSYBQEr1S_40.697787_-74.232717@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461286875,
     "wof:geomhash":"0e474a2e145ceffd1a0fcc2a817d217e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639077833
+        }
+    ],
     "wof:id":639077833,
-    "wof:lastmodified":1466688591,
+    "wof:lastmodified":1492045791,
     "wof:name":"New Millennium Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

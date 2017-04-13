@@ -2,9 +2,14 @@
   "id": 655824413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 N 32nd St Camden NJ 08105",
+    "addr:housenumber":"1231",
+    "addr:postcode":"08105",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.089426,39.963356,-75.089426,39.963356",
     "geom:latitude":39.963356,
     "geom:longitude":-75.089426,
@@ -28,7 +33,14 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526751,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kTYk9flBBwdCstlntc6Yn_39.963356_-75.089426@1303262279"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322427,
     "wof:geomhash":"45f660bae70299829a3596ac76635891",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526751,
+            "region_id":85688607,
+            "venue_id":655824413
+        }
+    ],
     "wof:id":655824413,
-    "wof:lastmodified":1466687583,
+    "wof:lastmodified":1492042016,
     "wof:name":"T & G Scrap Iron Removal",
     "wof:parent_id":420526751,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655745065,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Meadowlands Pkwy Secaucus NJ 07094",
+    "addr:housenumber":"38",
+    "addr:postcode":"07094",
+    "addr:street":"Meadowlands Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.066498,40.797699,-74.066498,40.797699",
     "geom:latitude":40.797699,
     "geom:longitude":-74.066498,
@@ -27,7 +32,14 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WcWUjcOUXfXx9HOaE3jCz_40.797699_-74.066498@1303262259"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319102,
     "wof:geomhash":"618bbaf68e692d3c2686127e1f8c080f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":655745065
+        }
+    ],
     "wof:id":655745065,
-    "wof:lastmodified":1466685464,
+    "wof:lastmodified":1492041177,
     "wof:name":"Wapelhorst Herman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

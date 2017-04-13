@@ -2,9 +2,14 @@
   "id": 639613993,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 N Haledon Ave North Haledon NJ 07508",
+    "addr:housenumber":"103",
+    "addr:postcode":"07508",
+    "addr:street":"N Haledon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179941,40.962839,-74.179941,40.962839",
     "geom:latitude":40.962839,
     "geom:longitude":-74.179941,
@@ -29,7 +34,14 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478537,
+        85633793,
+        85975485,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uCoiVogbxeaWjMeCUxY4X_40.962839_-74.179941@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461302281,
     "wof:geomhash":"86e3d088f31b9fe27c32b46fd7a9fdf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404478537,
+            "locality_id":85975485,
+            "region_id":85688607,
+            "venue_id":639613993
+        }
+    ],
     "wof:id":639613993,
-    "wof:lastmodified":1466697291,
+    "wof:lastmodified":1492057151,
     "wof:name":"North Haledon Board Of Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

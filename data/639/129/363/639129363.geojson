@@ -2,9 +2,14 @@
   "id": 639129363,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Elmwood Ave Irvington NJ 07111",
+    "addr:housenumber":"48",
+    "addr:postcode":"07111",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239705,40.725584,-74.239705,40.725584",
     "geom:latitude":40.725584,
     "geom:longitude":-74.239705,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jGIwa2l4Tan9umiVnaNRG_40.725584_-74.239705@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288067,
     "wof:geomhash":"f45b854d4f2a0179fc6b167f138e8196",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639129363
+        }
+    ],
     "wof:id":639129363,
-    "wof:lastmodified":1466678277,
+    "wof:lastmodified":1492076940,
     "wof:name":"Jimmy Buffs Hotdogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655556865,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Rockaway Ave Oakland NJ 07436",
+    "addr:housenumber":"25",
+    "addr:postcode":"07436",
+    "addr:street":"Rockaway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239034,41.032796,-74.239034,41.032796",
     "geom:latitude":41.032796,
     "geom:longitude":-74.239034,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54HZHYh56zWUm8Jo9xj3aO_41.032796_-74.239034@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311104,
     "wof:geomhash":"4b6e9eff518b7fa00980c70a628507f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655556865
+        }
+    ],
     "wof:id":655556865,
-    "wof:lastmodified":1466679771,
+    "wof:lastmodified":1492036270,
     "wof:name":"Wilson Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639495217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1151 Woodbridge Rd Rahway NJ 07065",
+    "addr:housenumber":"1151",
+    "addr:postcode":"07065",
+    "addr:street":"Woodbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268239,40.597933,-74.268239,40.597933",
     "geom:latitude":40.597933,
     "geom:longitude":-74.268239,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YZzZowr3W9Hrc2vTPORLI_40.597933_-74.268239@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297219,
     "wof:geomhash":"d061aa2165b071e716ddb69312cb7a18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639495217
+        }
+    ],
     "wof:id":639495217,
-    "wof:lastmodified":1466694791,
+    "wof:lastmodified":1492076840,
     "wof:name":"Kcs Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

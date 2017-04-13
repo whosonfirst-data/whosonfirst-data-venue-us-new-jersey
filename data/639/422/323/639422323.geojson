@@ -2,9 +2,14 @@
   "id": 639422323,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Concord Cir Howell NJ 07731",
+    "addr:housenumber":"25",
+    "addr:postcode":"07731",
+    "addr:street":"Concord Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244501,40.14065,-74.244501,40.14065",
     "geom:latitude":40.14065,
     "geom:longitude":-74.244501,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O13OBziSSHGke6mlzxrSZ_40.140650_-74.244501@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461294760,
     "wof:geomhash":"6920bc0a082da8126a10ea17ac624840",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639422323
+        }
+    ],
     "wof:id":639422323,
-    "wof:lastmodified":1466693242,
+    "wof:lastmodified":1492051542,
     "wof:name":"All Levels-Math Tutoring",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

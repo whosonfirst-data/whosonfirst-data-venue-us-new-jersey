@@ -2,9 +2,14 @@
   "id": 655411231,
   "type": "Feature",
   "properties": {
+    "addr:full":"281 Princeton Ave Brick NJ 08724",
+    "addr:housenumber":"281",
+    "addr:postcode":"08724",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.107384,40.05861,-74.107384,40.05861",
     "geom:latitude":40.05861,
     "geom:longitude":-74.107384,
@@ -28,7 +33,10 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VyiHY2NPHNgvRchIcAY3W_40.058610_-74.107384@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305109,
     "wof:geomhash":"a1432f3b8eb4ed4fb6af2604584fac47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655411231
+        }
+    ],
     "wof:id":655411231,
-    "wof:lastmodified":1466675767,
+    "wof:lastmodified":1492061271,
     "wof:name":"Mark C Peterson Enterprises",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

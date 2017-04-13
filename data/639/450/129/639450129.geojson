@@ -2,9 +2,14 @@
   "id": 639450129,
   "type": "Feature",
   "properties": {
+    "addr:full":"481 Rahway Ave Woodbridge NJ 07095",
+    "addr:housenumber":"481",
+    "addr:postcode":"07095",
+    "addr:street":"Rahway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274998,40.559036,-74.274998,40.559036",
     "geom:latitude":40.559036,
     "geom:longitude":-74.274998,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817329,
+        85892565,
         102191575,
         404478217,
         85633793,
         85976299,
         102087417,
-        85688607
+        85688607,
+        85817329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102087417,
             "localadmin_id":404478217,
             "locality_id":85976299,
+            "neighbourhood_id":85892565,
+            "region_id":85688607,
+            "venue_id":639450129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976299,
             "neighbourhood_id":85817329,
             "region_id":85688607,
             "venue_id":639450129
         }
     ],
     "wof:id":639450129,
-    "wof:lastmodified":1466693543,
+    "wof:lastmodified":1492042419,
     "wof:name":"Pops Place",
-    "wof:parent_id":85817329,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

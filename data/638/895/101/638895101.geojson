@@ -2,9 +2,14 @@
   "id": 638895101,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Rockwell Rd Belvidere NJ 07823",
+    "addr:housenumber":"9",
+    "addr:postcode":"07823",
+    "addr:street":"Rockwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.989768,40.836139,-74.989768,40.836139",
     "geom:latitude":40.836139,
     "geom:longitude":-74.989768,
@@ -27,7 +32,13 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z0OJas9y7oaMe1cLcxFcR_40.836139_-74.989768@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282622,
     "wof:geomhash":"aa885527eaeb3694322a31fef2c99c1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":638895101
+        }
+    ],
     "wof:id":638895101,
-    "wof:lastmodified":1466689992,
+    "wof:lastmodified":1492030556,
     "wof:name":"Public Services Electric & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

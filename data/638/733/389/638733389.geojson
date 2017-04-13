@@ -2,9 +2,14 @@
   "id": 638733389,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 North Ave Union NJ 07083",
+    "addr:housenumber":"550",
+    "addr:postcode":"07083",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229993,40.673762,-74.229993,40.673762",
     "geom:latitude":40.673762,
     "geom:longitude":-74.229993,
@@ -28,7 +33,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85817887,
+        102191575,
+        404477587,
+        85633793,
+        85975833,
+        102085995,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IPIsoS2j4Z9pAKPjYRt40_40.673762_-74.229993@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461278576,
     "wof:geomhash":"e5f52ad4b9750a37e0c31e0c45b7329c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404477587,
+            "locality_id":85975833,
+            "neighbourhood_id":85817887,
+            "region_id":85688607,
+            "venue_id":638733389
+        }
+    ],
     "wof:id":638733389,
-    "wof:lastmodified":1466675937,
+    "wof:lastmodified":1492040846,
     "wof:name":"Dasilvia Accounting Svc",
-    "wof:parent_id":420527711,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

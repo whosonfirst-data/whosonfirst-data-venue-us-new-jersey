@@ -2,9 +2,14 @@
   "id": 638829283,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Shawnee Path Millington NJ 07946",
+    "addr:housenumber":"132",
+    "addr:postcode":"07946",
+    "addr:street":"Shawnee Path",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523322,40.687681,-74.523322,40.687681",
     "geom:latitude":40.687681,
     "geom:longitude":-74.523322,
@@ -27,7 +32,13 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478437,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GwTivNd8qm5SI2oRMRaUO_40.687681_-74.523322@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461280969,
     "wof:geomhash":"6c4ba32ee0704c8c752e89d9ab52d358",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478437,
+            "region_id":85688607,
+            "venue_id":638829283
+        }
+    ],
     "wof:id":638829283,
-    "wof:lastmodified":1466688937,
+    "wof:lastmodified":1492051220,
     "wof:name":"Metro Leasing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

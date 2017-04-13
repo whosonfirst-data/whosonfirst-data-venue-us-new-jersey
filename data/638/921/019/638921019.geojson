@@ -2,9 +2,14 @@
   "id": 638921019,
   "type": "Feature",
   "properties": {
+    "addr:full":"346 Oswald Pl Vauxhall NJ 07088",
+    "addr:housenumber":"346",
+    "addr:postcode":"07088",
+    "addr:street":"Oswald Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277861,40.716344,-74.277861,40.716344",
     "geom:latitude":40.716344,
     "geom:longitude":-74.277861,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WI73TRLe6YEhlEz5i4ZYI_40.716344_-74.277861@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461283290,
     "wof:geomhash":"0ca7a2299cf9dda7fdc014312c2812ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":638921019
+        }
+    ],
     "wof:id":638921019,
-    "wof:lastmodified":1466690523,
+    "wof:lastmodified":1492041197,
     "wof:name":"Perry Johnson Registrars",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

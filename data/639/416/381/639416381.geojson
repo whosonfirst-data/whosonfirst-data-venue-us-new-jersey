@@ -2,9 +2,14 @@
   "id": 639416381,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Grant Ave Dumont NJ 07628",
+    "addr:housenumber":"53",
+    "addr:postcode":"07628",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985047,40.947499,-73.985047,40.947499",
     "geom:latitude":40.947499,
     "geom:longitude":-73.985047,
@@ -27,7 +32,14 @@
         "athletic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XH8G6a7WZjrTbAauN2T7t_40.947499_-73.985047@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294628,
     "wof:geomhash":"24056ac932ecb15f3d81341e002a1865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639416381
+        }
+    ],
     "wof:id":639416381,
-    "wof:lastmodified":1466693153,
+    "wof:lastmodified":1492075875,
     "wof:name":"Concord Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

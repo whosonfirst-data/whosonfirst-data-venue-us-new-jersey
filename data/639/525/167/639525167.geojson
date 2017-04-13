@@ -2,9 +2,14 @@
   "id": 639525167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2540 Woodland Ave South Plainfield NJ 07080",
+    "addr:housenumber":"2540",
+    "addr:postcode":"07080",
+    "addr:street":"Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.393279,40.592582,-74.393279,40.592582",
     "geom:latitude":40.592582,
     "geom:longitude":-74.393279,
@@ -27,7 +32,12 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85837573,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bDzPOqbj59CHvvWjIggO6_40.592582_-74.393279@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461298566,
     "wof:geomhash":"804ed4ad4696bb2897d87ff81df7fd78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85837573,
+            "region_id":85688607,
+            "venue_id":639525167
+        }
+    ],
     "wof:id":639525167,
-    "wof:lastmodified":1466695077,
+    "wof:lastmodified":1492080187,
     "wof:name":"Miracle-Ear",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

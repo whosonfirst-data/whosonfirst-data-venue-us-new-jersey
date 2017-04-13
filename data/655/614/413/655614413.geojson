@@ -2,9 +2,14 @@
   "id": 655614413,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Burlington Ave Leonardo NJ 07737",
+    "addr:housenumber":"135",
+    "addr:postcode":"07737",
+    "addr:street":"Burlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067306,40.421203,-74.067306,40.421203",
     "geom:latitude":40.421203,
     "geom:longitude":-74.067306,
@@ -28,7 +33,10 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hYtsJnC09E98S5XxTedRT_40.421203_-74.067306@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313629,
     "wof:geomhash":"cece785bb9c951d75dc27569e3124a34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655614413
+        }
+    ],
     "wof:id":655614413,
-    "wof:lastmodified":1466681557,
+    "wof:lastmodified":1492052228,
     "wof:name":"Precision Pressure Cleaning",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

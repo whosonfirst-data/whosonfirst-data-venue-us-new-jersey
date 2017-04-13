@@ -2,9 +2,14 @@
   "id": 639114897,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Brant Ave Clark NJ 07066",
+    "addr:housenumber":"49",
+    "addr:postcode":"07066",
+    "addr:street":"Brant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304249,40.624211,-74.304249,40.624211",
     "geom:latitude":40.624211,
     "geom:longitude":-74.304249,
@@ -34,7 +39,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rKwlaI7L7Yh2DkElts4lZ_40.624211_-74.304249@1294171694"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461287669,
     "wof:geomhash":"6d5993436714c54c8b717f6ba50d13c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639114897
+        }
+    ],
     "wof:id":639114897,
-    "wof:lastmodified":1466676329,
+    "wof:lastmodified":1492043850,
     "wof:name":"Bradley Graphic Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

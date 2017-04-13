@@ -2,9 +2,14 @@
   "id": 639056777,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Frank Applegate Rd Jackson NJ 08527",
+    "addr:housenumber":"68",
+    "addr:postcode":"08527",
+    "addr:street":"Frank Applegate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.310054,40.121552,-74.310054,40.121552",
     "geom:latitude":40.121552,
     "geom:longitude":-74.310054,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BKDnVRON9lxSdxx3J0LhN_40.121552_-74.310054@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461286414,
     "wof:geomhash":"296630055d33459161a503ea98478ec8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639056777
+        }
+    ],
     "wof:id":639056777,
-    "wof:lastmodified":1466674582,
+    "wof:lastmodified":1492043906,
     "wof:name":"Melnick Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

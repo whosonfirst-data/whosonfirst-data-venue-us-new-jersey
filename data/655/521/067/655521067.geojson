@@ -2,9 +2,14 @@
   "id": 655521067,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Rockland Ter Lumberton NJ 08048",
+    "addr:housenumber":"38",
+    "addr:postcode":"08048",
+    "addr:street":"Rockland Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.794964,39.978625,-74.794964,39.978625",
     "geom:latitude":39.978625,
     "geom:longitude":-74.794964,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85833401,
-        102087415
+        102087415,
+        85811315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85833401,
             "region_id":85688607,
             "venue_id":655521067
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85811315,
+            "region_id":85688607,
+            "venue_id":655521067
         }
     ],
     "wof:id":655521067,
-    "wof:lastmodified":1466678636,
+    "wof:lastmodified":1492024063,
     "wof:name":"Barlows Home Improvement",
-    "wof:parent_id":85833401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

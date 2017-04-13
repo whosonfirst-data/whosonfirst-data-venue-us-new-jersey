@@ -2,9 +2,14 @@
   "id": 639574449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Hilltop Rd Mahwah NJ 07430",
+    "addr:housenumber":"1201",
+    "addr:postcode":"07430",
+    "addr:street":"Hilltop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.13055,41.078656,-74.13055,41.078656",
     "geom:latitude":41.078656,
     "geom:longitude":-74.13055,
@@ -24,7 +29,13 @@
     "sg:postcode":"07430",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aQvylRNbFwhsKTphehVyZ_41.078656_-74.130550@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461300685,
     "wof:geomhash":"a30d9c93b6227a398b2389b8cd76a335",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639574449
+        }
+    ],
     "wof:id":639574449,
-    "wof:lastmodified":1466696523,
+    "wof:lastmodified":1492076246,
     "wof:name":"US Bancorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

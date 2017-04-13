@@ -2,9 +2,14 @@
   "id": 639545835,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Broad St Trenton NJ 08611",
+    "addr:housenumber":"300",
+    "addr:postcode":"08611",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761794,40.215526,-74.761794,40.215526",
     "geom:latitude":40.215526,
     "geom:longitude":-74.761794,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.millhillsaloon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aCV2hX2djkOKYsRz6QMBh_40.215526_-74.761794@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461299564,
     "wof:geomhash":"64d1959f01b576b58380dd834cf07029",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639545835
+        }
+    ],
     "wof:id":639545835,
-    "wof:lastmodified":1466695760,
+    "wof:lastmodified":1492041947,
     "wof:name":"Joe's Mill Hill Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

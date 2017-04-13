@@ -2,9 +2,14 @@
   "id": 655500367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1142 Harding Pl Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"1142",
+    "addr:postcode":"08742",
+    "addr:street":"Harding Pl Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.064267,40.0887,-74.064267,40.0887",
     "geom:latitude":40.0887,
     "geom:longitude":-74.064267,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GmBrbD6Wv97X6KMv7whUw_40.088700_-74.064267@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308861,
     "wof:geomhash":"b4a3af70b250c2b70ddb570b08661267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":655500367
+        }
+    ],
     "wof:id":655500367,
-    "wof:lastmodified":1466678179,
+    "wof:lastmodified":1492047932,
     "wof:name":"Bruce Callander Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

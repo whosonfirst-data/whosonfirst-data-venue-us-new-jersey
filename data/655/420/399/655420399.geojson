@@ -2,9 +2,14 @@
   "id": 655420399,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Roseland Ct Princeton Junction NJ 08550",
+    "addr:housenumber":"14",
+    "addr:postcode":"08550",
+    "addr:street":"Roseland Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.58588,40.293744,-74.58588,40.293744",
     "geom:latitude":40.293744,
     "geom:longitude":-74.58588,
@@ -27,7 +32,13 @@
         "wholesaler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0etuLvVUVWNjtJDeK9NTfS_40.293744_-74.585880@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461305487,
     "wof:geomhash":"a83c7d3f0635dcba9e27ceb860a56c9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655420399
+        }
+    ],
     "wof:id":655420399,
-    "wof:lastmodified":1466676075,
+    "wof:lastmodified":1492055632,
     "wof:name":"Bordee Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655663121,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Iroquois St Oradell NJ 07649",
+    "addr:housenumber":"625",
+    "addr:postcode":"07649",
+    "addr:street":"Iroquois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.035591,40.963686,-74.035591,40.963686",
     "geom:latitude":40.963686,
     "geom:longitude":-74.035591,
@@ -30,7 +35,14 @@
         "luggage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477707,
+        85633793,
+        85975955,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wiGE5birCCClPl4n9a4QY_40.964139_-74.035637@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461315735,
     "wof:geomhash":"47d6028103001d80db86f4325c46f3ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477707,
+            "locality_id":85975955,
+            "region_id":85688607,
+            "venue_id":655663121
+        }
+    ],
     "wof:id":655663121,
-    "wof:lastmodified":1466683169,
+    "wof:lastmodified":1492027643,
     "wof:name":"Scotland Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

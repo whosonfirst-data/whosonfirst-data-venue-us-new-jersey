@@ -2,9 +2,14 @@
   "id": 639568129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 E Garden Way Dayton NJ 08810",
+    "addr:housenumber":"1",
+    "addr:postcode":"08810",
+    "addr:street":"E Garden Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524321,40.381751,-74.524321,40.381751",
     "geom:latitude":40.381751,
     "geom:longitude":-74.524321,
@@ -24,7 +29,11 @@
     "sg:postcode":"08810",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NDgrGJi9PG96Q8S2snOnF_40.381751_-74.524321@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461300433,
     "wof:geomhash":"087a19b89410fe3d533ff883862fc9e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639568129
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639568129
+        }
+    ],
     "wof:id":639568129,
-    "wof:lastmodified":1466696113,
+    "wof:lastmodified":1492049595,
     "wof:name":"Originsoft Inc",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

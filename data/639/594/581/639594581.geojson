@@ -2,9 +2,14 @@
   "id": 639594581,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 N Crescent Blvd Pennsauken NJ 08109",
+    "addr:housenumber":"4500",
+    "addr:postcode":"08109",
+    "addr:street":"N Crescent Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0639,39.952011,-75.0639,39.952011",
     "geom:latitude":39.952011,
     "geom:longitude":-75.0639,
@@ -35,7 +40,9 @@
         85633793,
         85975645,
         102081131,
-        85688607
+        85688607,
+        420526749,
+        404478023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +61,21 @@
             "neighbourhood_id":85855075,
             "region_id":85688607,
             "venue_id":639594581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639594581
         }
     ],
     "wof:id":639594581,
-    "wof:lastmodified":1466696855,
+    "wof:lastmodified":1492029379,
     "wof:name":"National Battery Co",
-    "wof:parent_id":85855075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

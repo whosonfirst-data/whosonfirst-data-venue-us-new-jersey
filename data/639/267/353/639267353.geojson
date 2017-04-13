@@ -2,9 +2,14 @@
   "id": 639267353,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Smith Rd Denville NJ 07834",
+    "addr:housenumber":"46",
+    "addr:postcode":"07834",
+    "addr:street":"Smith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.514108,40.866639,-74.514108,40.866639",
     "geom:latitude":40.866639,
     "geom:longitude":-74.514108,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sUb6g3bFn2pCrAT2LCQ88_40.866639_-74.514108@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461291222,
     "wof:geomhash":"dd46c69c6e95ee39b187e180c41dbc06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639267353
+        }
+    ],
     "wof:id":639267353,
-    "wof:lastmodified":1466690724,
+    "wof:lastmodified":1492060918,
     "wof:name":"Meola Michael",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

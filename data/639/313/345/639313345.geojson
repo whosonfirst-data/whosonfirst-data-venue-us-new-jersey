@@ -2,9 +2,14 @@
   "id": 639313345,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Charleston Rd Willingboro NJ 08046",
+    "addr:housenumber":"12",
+    "addr:postcode":"08046",
+    "addr:street":"Charleston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901855,40.045416,-74.901855,40.045416",
     "geom:latitude":40.045416,
     "geom:longitude":-74.901855,
@@ -27,7 +32,10 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yAEJ9MdmmmUtuVuEgrtbi_40.045416_-74.901855@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292241,
     "wof:geomhash":"82adeb54e54d342321a4ab6321d2107a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":639313345
+        }
+    ],
     "wof:id":639313345,
-    "wof:lastmodified":1466691738,
+    "wof:lastmodified":1492040328,
     "wof:name":"Yeblo Village Intl",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

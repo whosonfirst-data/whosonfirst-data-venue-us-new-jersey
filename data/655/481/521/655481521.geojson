@@ -2,9 +2,14 @@
   "id": 655481521,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Irvington Ave Maplewood NJ 07040",
+    "addr:housenumber":"764",
+    "addr:postcode":"07040",
+    "addr:street":"Irvington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244433,40.731618,-74.244433,40.731618",
     "geom:latitude":40.731618,
     "geom:longitude":-74.244433,
@@ -28,7 +33,13 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gbupNUqGfqdc29XTWgLpL_40.731618_-74.244433@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461308069,
     "wof:geomhash":"c0ca03b217068c0774bcbcea28613744",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":655481521
+        }
+    ],
     "wof:id":655481521,
-    "wof:lastmodified":1466677691,
+    "wof:lastmodified":1492053683,
     "wof:name":"Mapleton Confectionery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

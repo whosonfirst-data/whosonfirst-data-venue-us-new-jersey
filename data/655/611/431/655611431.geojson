@@ -2,9 +2,14 @@
   "id": 655611431,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Probasco Rd Hightstown NJ 08520",
+    "addr:housenumber":"73",
+    "addr:postcode":"08520",
+    "addr:street":"Probasco Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.491832,40.275608,-74.491832,40.275608",
     "geom:latitude":40.275608,
     "geom:longitude":-74.491832,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        85976393,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30KwF8pBcKfWiUDMOQJELO_40.275608_-74.491832@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313491,
     "wof:geomhash":"c5698dfd0929e55e2b627dd07b7c9147",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "locality_id":85976393,
+            "region_id":85688607,
+            "venue_id":655611431
+        }
+    ],
     "wof:id":655611431,
-    "wof:lastmodified":1466681446,
+    "wof:lastmodified":1492071989,
     "wof:name":"Kip Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

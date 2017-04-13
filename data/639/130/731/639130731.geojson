@@ -2,9 +2,14 @@
   "id": 639130731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1904 Hunters Ln Belmar NJ 07719",
+    "addr:housenumber":"1904",
+    "addr:postcode":"07719",
+    "addr:street":"Hunters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.08258,40.18284,-74.08258,40.18284",
     "geom:latitude":40.18284,
     "geom:longitude":-74.08258,
@@ -24,7 +29,12 @@
     "sg:postcode":"07719",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85823659,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BRNQLvmmbIw9yWRtteVbQ_40.182840_-74.082580@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461288097,
     "wof:geomhash":"cc6c9a00cde108adb08e773190e10fdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85823659,
+            "region_id":85688607,
+            "venue_id":639130731
+        }
+    ],
     "wof:id":639130731,
-    "wof:lastmodified":1466678437,
+    "wof:lastmodified":1492070277,
     "wof:name":"Wendys",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

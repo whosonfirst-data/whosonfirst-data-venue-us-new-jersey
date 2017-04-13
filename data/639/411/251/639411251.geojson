@@ -2,9 +2,14 @@
   "id": 639411251,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"45",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.33779,41.008234,-74.33779,41.008234",
     "geom:latitude":41.008234,
     "geom:longitude":-74.33779,
@@ -32,7 +37,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27bAmfFQmLLRaYyY0n8mFU_41.008234_-74.337790@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461294512,
     "wof:geomhash":"80b517e8a0bf296523abff6f39e6b8e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639411251
+        }
+    ],
     "wof:id":639411251,
-    "wof:lastmodified":1466693104,
+    "wof:lastmodified":1492076055,
     "wof:name":"Ed's Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

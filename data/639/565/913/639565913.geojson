@@ -2,9 +2,14 @@
   "id": 639565913,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Summit Dr Sussex NJ 07461",
+    "addr:housenumber":"104",
+    "addr:postcode":"07461",
+    "addr:street":"Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.538473,41.231145,-74.538473,41.231145",
     "geom:latitude":41.231145,
     "geom:longitude":-74.538473,
@@ -29,7 +34,10 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R8CSaCSIUcMiMshgPPUVQ_41.231145_-74.538473@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461300343,
     "wof:geomhash":"a3a031ae686d8b142bc9b1594ae36fe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":639565913
+        }
+    ],
     "wof:id":639565913,
-    "wof:lastmodified":1466696217,
+    "wof:lastmodified":1492036285,
     "wof:name":"AGM Smith Limousine Inc",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

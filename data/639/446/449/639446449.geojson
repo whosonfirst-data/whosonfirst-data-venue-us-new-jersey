@@ -2,9 +2,14 @@
   "id": 639446449,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Saint Anne St Fair Lawn NJ 07410",
+    "addr:housenumber":"5",
+    "addr:postcode":"07410",
+    "addr:street":"Saint Anne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120912,40.922195,-74.120912,40.922195",
     "geom:latitude":40.922195,
     "geom:longitude":-74.120912,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lfmyB3ySLvJT5XYALarvE_40.922195_-74.120912@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295272,
     "wof:geomhash":"920b0b9b633a5e704f88ab47b75a85ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639446449
+        }
+    ],
     "wof:id":639446449,
-    "wof:lastmodified":1466693498,
+    "wof:lastmodified":1492041761,
     "wof:name":"Saint Annes Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

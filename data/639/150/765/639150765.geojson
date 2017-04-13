@@ -2,9 +2,14 @@
   "id": 639150765,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Manitou Way Scotch Plains NJ 07076",
+    "addr:housenumber":"16",
+    "addr:postcode":"07076",
+    "addr:street":"Manitou Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.363415,40.617602,-74.363415,40.617602",
     "geom:latitude":40.617602,
     "geom:longitude":-74.363415,
@@ -28,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892503,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75Prp3PWX33rgQZc1oS3sl_40.617602_-74.363415@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461288537,
     "wof:geomhash":"1f31777d1daf28b6209915739afd0e69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892503,
+            "region_id":85688607,
+            "venue_id":639150765
+        }
+    ],
     "wof:id":639150765,
-    "wof:lastmodified":1466681471,
+    "wof:lastmodified":1492044194,
     "wof:name":"Statewide Electrical Contr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

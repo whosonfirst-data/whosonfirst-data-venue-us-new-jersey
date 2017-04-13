@@ -2,9 +2,14 @@
   "id": 639085751,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Co Rd 639 Bloomsbury NJ 08804",
+    "addr:housenumber":"50;639",
+    "addr:postcode":"08804",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.133375,40.637208,-75.133375,40.637208",
     "geom:latitude":40.637208,
     "geom:longitude":-75.133375,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527777,
+        85688607,
         85854535,
         102085997
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527777,
+            "venue_id":639085751
+        },
+        {
+            "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85854535,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639085751,
-    "wof:lastmodified":1466688743,
+    "wof:lastmodified":1492050499,
     "wof:name":"East Coast Log",
-    "wof:parent_id":85854535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

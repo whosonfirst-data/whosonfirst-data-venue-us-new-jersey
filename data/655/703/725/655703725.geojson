@@ -2,9 +2,14 @@
   "id": 655703725,
   "type": "Feature",
   "properties": {
+    "addr:full":"670 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"670",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986783,40.827182,-73.986783,40.827182",
     "geom:latitude":40.827182,
     "geom:longitude":-73.986783,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KFLn2rBaX61lAe46nu96Y_40.827182_-73.986783@1303262249"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317526,
     "wof:geomhash":"5a6460a18d7ac574757498dcfb5765cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703725
+        }
+    ],
     "wof:id":655703725,
-    "wof:lastmodified":1466684424,
+    "wof:lastmodified":1492070827,
     "wof:name":"24 Hour 7 Day Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

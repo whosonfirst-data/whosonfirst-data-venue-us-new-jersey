@@ -2,9 +2,14 @@
   "id": 655420751,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Davenport Ave Tenafly NJ 07670",
+    "addr:housenumber":"30",
+    "addr:postcode":"07670",
+    "addr:street":"Davenport Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.967334,40.934674,-73.967334,40.934674",
     "geom:latitude":40.934674,
     "geom:longitude":-73.967334,
@@ -30,7 +35,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aoOsTkb9IlvCpIPPGZxO7_40.934674_-73.967334@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461305505,
     "wof:geomhash":"a36025abb1f47a635f9203e2765c2956",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":655420751
+        }
+    ],
     "wof:id":655420751,
-    "wof:lastmodified":1466676166,
+    "wof:lastmodified":1492060519,
     "wof:name":"Shoring International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

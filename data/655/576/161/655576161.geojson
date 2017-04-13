@@ -2,9 +2,14 @@
   "id": 655576161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1358 Burnet Ave Union NJ 07083",
+    "addr:housenumber":"1358",
+    "addr:postcode":"07083",
+    "addr:street":"Burnet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28214,40.710703,-74.28214,40.710703",
     "geom:latitude":40.710703,
     "geom:longitude":-74.28214,
@@ -27,7 +32,10 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UuQOZPrS9mNqKmCJxDlVI_40.710703_-74.282140@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461312000,
     "wof:geomhash":"f57d0b826ae47f768c030cffc7456b86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655576161
+        }
+    ],
     "wof:id":655576161,
-    "wof:lastmodified":1466680122,
+    "wof:lastmodified":1492086028,
     "wof:name":"Grand Temple Daughters Of Elks",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639134041,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Maiden Ln Bound Brook NJ 08805",
+    "addr:housenumber":"20",
+    "addr:postcode":"08805",
+    "addr:street":"Maiden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530558,40.562348,-74.530558,40.562348",
     "geom:latitude":40.562348,
     "geom:longitude":-74.530558,
@@ -30,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EsQ6GyrOR2r2N0rLCvmP0_40.562348_-74.530558@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461288160,
     "wof:geomhash":"06906919a8c88a7ecdd37daeafd46867",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639134041
+        }
+    ],
     "wof:id":639134041,
-    "wof:lastmodified":1466678912,
+    "wof:lastmodified":1492036416,
     "wof:name":"Next Generation Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639565837,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Sherman Ave Elizabeth NJ 07208",
+    "addr:housenumber":"1000",
+    "addr:postcode":"07208",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.205413,40.688387,-74.205413,40.688387",
     "geom:latitude":40.688387,
     "geom:longitude":-74.205413,
@@ -30,7 +35,14 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nJFm57Rfo4bONeraIX03V_40.688387_-74.205413@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461300340,
     "wof:geomhash":"64247005d8e94bafea27e2933d7cece8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":639565837
+        }
+    ],
     "wof:id":639565837,
-    "wof:lastmodified":1466696279,
+    "wof:lastmodified":1492049623,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

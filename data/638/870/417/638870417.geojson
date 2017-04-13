@@ -2,9 +2,14 @@
   "id": 638870417,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"16",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.801959,40.264036,-74.801959,40.264036",
     "geom:latitude":40.264036,
     "geom:longitude":-74.801959,
@@ -27,7 +32,10 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zYTwHdApJHNduJ41s5N5H_40.264036_-74.801959@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281976,
     "wof:geomhash":"87d3b415ce6c94e9c7d1ea5fabad530a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":638870417
+        }
+    ],
     "wof:id":638870417,
-    "wof:lastmodified":1466689552,
+    "wof:lastmodified":1492042784,
     "wof:name":"Greenhouse",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

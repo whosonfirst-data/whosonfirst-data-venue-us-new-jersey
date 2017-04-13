@@ -2,9 +2,14 @@
   "id": 639275323,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 High St Hackettstown NJ 07840",
+    "addr:housenumber":"903",
+    "addr:postcode":"07840",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.826191,40.86651,-74.826191,40.86651",
     "geom:latitude":40.86651,
     "geom:longitude":-74.826191,
@@ -28,7 +33,14 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EG7Hwn8hv5ZF4YtXJXsXO_40.866510_-74.826191@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461291440,
     "wof:geomhash":"1ea685c37f8902b409820d4a6774509b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":639275323
+        }
+    ],
     "wof:id":639275323,
-    "wof:lastmodified":1466690804,
+    "wof:lastmodified":1492044062,
     "wof:name":"Unique Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

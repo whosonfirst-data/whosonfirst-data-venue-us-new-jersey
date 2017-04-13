@@ -2,9 +2,14 @@
   "id": 639319525,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 7th St Frenchtown NJ 08825",
+    "addr:housenumber":"8",
+    "addr:postcode":"08825",
+    "addr:street":"7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.063488,40.531979,-75.063488,40.531979",
     "geom:latitude":40.531979,
     "geom:longitude":-75.063488,
@@ -30,7 +35,14 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MQRb5yD2zhLkxsUNmV3Vq_40.531979_-75.063488@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461292379,
     "wof:geomhash":"5e38a392b72f04df9667b4d85a2fd689",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":639319525
+        }
+    ],
     "wof:id":639319525,
-    "wof:lastmodified":1466691849,
+    "wof:lastmodified":1492051263,
     "wof:name":"Maxima",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

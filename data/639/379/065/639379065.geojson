@@ -2,9 +2,14 @@
   "id": 639379065,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"660",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237343,40.724512,-74.237343,40.724512",
     "geom:latitude":40.724512,
     "geom:longitude":-74.237343,
@@ -28,7 +33,13 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2adoFpclnfahdGeFPBROGe_40.724512_-74.237343@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293619,
     "wof:geomhash":"412d5d9b1175216f0673b4838eede680",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639379065
+        }
+    ],
     "wof:id":639379065,
-    "wof:lastmodified":1466692722,
+    "wof:lastmodified":1492041591,
     "wof:name":"Alpha Presentations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

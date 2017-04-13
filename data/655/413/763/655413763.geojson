@@ -2,9 +2,14 @@
   "id": 655413763,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Maple Ave Demarest NJ 07627",
+    "addr:housenumber":"25",
+    "addr:postcode":"07627",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959273,40.949118,-73.959273,40.949118",
     "geom:latitude":40.949118,
     "geom:longitude":-73.959273,
@@ -24,7 +29,14 @@
     "sg:postcode":"07627",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YRpjEZkWrM1A3fyVfaYLw_40.949118_-73.959273@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461305224,
     "wof:geomhash":"e753c3a27666c31617e70e899f96885c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655413763
+        }
+    ],
     "wof:id":655413763,
-    "wof:lastmodified":1466675916,
+    "wof:lastmodified":1492075465,
     "wof:name":"Good Riddance Est & Moving Sal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

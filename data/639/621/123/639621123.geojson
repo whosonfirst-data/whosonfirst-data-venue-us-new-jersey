@@ -2,9 +2,14 @@
   "id": 639621123,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 Heckman St Phillipsburg NJ 08865",
+    "addr:housenumber":"545",
+    "addr:postcode":"08865",
+    "addr:street":"Heckman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177235,40.695809,-75.177235,40.695809",
     "geom:latitude":40.695809,
     "geom:longitude":-75.177235,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sculb6tBg4wFs2keRZSCy_40.695809_-75.177235@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302542,
     "wof:geomhash":"c663a6d4a8af9653b2f9d3a1df53435e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639621123
+        }
+    ],
     "wof:id":639621123,
-    "wof:lastmodified":1466697471,
+    "wof:lastmodified":1492025387,
     "wof:name":"Swick & Swick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

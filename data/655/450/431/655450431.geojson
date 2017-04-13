@@ -2,9 +2,14 @@
   "id": 655450431,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Old Turnpike Rd Califon NJ 07830",
+    "addr:housenumber":"215",
+    "addr:postcode":"07830",
+    "addr:street":"Old Turnpike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.775663,40.723657,-74.775663,40.723657",
     "geom:latitude":40.723657,
     "geom:longitude":-74.775663,
@@ -30,7 +35,10 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XOKda2kWEHHUJjuo3uRTc_40.723657_-74.775663@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461306710,
     "wof:geomhash":"c45b9dc2a8dcca9c296d713e52ce5cda",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":655450431
+        }
+    ],
     "wof:id":655450431,
-    "wof:lastmodified":1466676867,
+    "wof:lastmodified":1492027680,
     "wof:name":"Paragon Plumbing & Heating",
     "wof:parent_id":420527075,
     "wof:placetype":"venue",

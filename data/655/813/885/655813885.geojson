@@ -2,9 +2,14 @@
   "id": 655813885,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Greentree Rd Ste 202 Marlton NJ 08053",
+    "addr:housenumber":"300",
+    "addr:postcode":"08053",
+    "addr:street":"E Greentree Rd Ste 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.921638,39.914921,-74.921638,39.914921",
     "geom:latitude":39.914921,
     "geom:longitude":-74.921638,
@@ -28,7 +33,10 @@
         "armored"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3phnNeId4QWbzre7slgsw6_39.914921_-74.921638@1303262276"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321986,
     "wof:geomhash":"1052e73e495b4327a2c70f416e56d5ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655813885
+        }
+    ],
     "wof:id":655813885,
-    "wof:lastmodified":1466687347,
+    "wof:lastmodified":1492069353,
     "wof:name":"Last Chance Finance",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

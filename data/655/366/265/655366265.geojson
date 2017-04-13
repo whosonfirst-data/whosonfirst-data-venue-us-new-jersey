@@ -2,9 +2,14 @@
   "id": 655366265,
   "type": "Feature",
   "properties": {
+    "addr:full":"699 Warfield Rd North Plainfield NJ 07063",
+    "addr:housenumber":"699",
+    "addr:postcode":"07063",
+    "addr:street":"Warfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.461481,40.609583,-74.461481,40.609583",
     "geom:latitude":40.609583,
     "geom:longitude":-74.461481,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477931,
+        85633793,
+        85975509,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04zRpEYji4vtv8UnPuuLqG_40.609583_-74.461481@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303273,
     "wof:geomhash":"b1df52d80f9f0c13a06a069f1bb4371f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477931,
+            "locality_id":85975509,
+            "region_id":85688607,
+            "venue_id":655366265
+        }
+    ],
     "wof:id":655366265,
-    "wof:lastmodified":1466674477,
+    "wof:lastmodified":1492039481,
     "wof:name":"Toll Nj III LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

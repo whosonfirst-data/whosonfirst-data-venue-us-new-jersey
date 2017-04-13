@@ -2,9 +2,14 @@
   "id": 655771861,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Margaret St Totowa NJ 07512",
+    "addr:housenumber":"1",
+    "addr:postcode":"07512",
+    "addr:street":"Margaret St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214744,40.894446,-74.214744,40.894446",
     "geom:latitude":40.894446,
     "geom:longitude":-74.214744,
@@ -27,7 +32,14 @@
         "limo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78mj2Mx7erwNm48EgP9dyj_40.894446_-74.214744@1303262266"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320189,
     "wof:geomhash":"1e39c8549f0238fb0d67abc3a715a5f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655771861
+        }
+    ],
     "wof:id":655771861,
-    "wof:lastmodified":1466686222,
+    "wof:lastmodified":1492058487,
     "wof:name":"Empire Star Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

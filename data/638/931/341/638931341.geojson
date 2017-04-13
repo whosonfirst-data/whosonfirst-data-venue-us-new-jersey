@@ -2,9 +2,14 @@
   "id": 638931341,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Church Rd Mt Laurel NJ 08054",
+    "addr:housenumber":"4501",
+    "addr:postcode":"08054",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.925345,39.916239,-74.925345,39.916239",
     "geom:latitude":39.916239,
     "geom:longitude":-74.925345,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UcAc9UFGXcFtGN6b877q8_39.916239_-74.925345@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283543,
     "wof:geomhash":"238d69bc5d241224cb0ab14205f9e092",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638931341
+        }
+    ],
     "wof:id":638931341,
-    "wof:lastmodified":1466691052,
+    "wof:lastmodified":1492030762,
     "wof:name":"Chatburn & Tighe Law Offices",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639390215,
   "type": "Feature",
   "properties": {
+    "addr:full":"885 Lincoln Ave Glen Rock NJ 07452",
+    "addr:housenumber":"885",
+    "addr:postcode":"07452",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145337,40.952828,-74.145337,40.952828",
     "geom:latitude":40.952828,
     "geom:longitude":-74.145337,
@@ -27,7 +32,15 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879775,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wiqTaklXL6XfWNaYEdwFO_40.952828_-74.145337@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461293853,
     "wof:geomhash":"a6abf72bd64ed9a82d69cf858bd21e8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "neighbourhood_id":85879775,
+            "region_id":85688607,
+            "venue_id":639390215
+        }
+    ],
     "wof:id":639390215,
-    "wof:lastmodified":1466692908,
+    "wof:lastmodified":1492042323,
     "wof:name":"Lawrence E Fanning PA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

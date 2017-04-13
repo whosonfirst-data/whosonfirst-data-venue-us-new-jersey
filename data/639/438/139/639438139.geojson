@@ -2,9 +2,14 @@
   "id": 639438139,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Holly St Somerset NJ 08873",
+    "addr:housenumber":"13",
+    "addr:postcode":"08873",
+    "addr:street":"Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.481119,40.494094,-74.481119,40.494094",
     "geom:latitude":40.494094,
     "geom:longitude":-74.481119,
@@ -24,7 +29,14 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PCBt2BhBYDlxs4Vzac76L_40.494094_-74.481119@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461295071,
     "wof:geomhash":"9cc2f9c009b86274af6d94b54f3cbb2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639438139
+        }
+    ],
     "wof:id":639438139,
-    "wof:lastmodified":1466693400,
+    "wof:lastmodified":1492042469,
     "wof:name":"L Adams Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

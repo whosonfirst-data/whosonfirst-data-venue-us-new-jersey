@@ -2,9 +2,14 @@
   "id": 638731823,
   "type": "Feature",
   "properties": {
+    "addr:full":"676 2nd St Trenton NJ 08611",
+    "addr:housenumber":"676",
+    "addr:postcode":"08611",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755958,40.202033,-74.755958,40.202033",
     "geom:latitude":40.202033,
     "geom:longitude":-74.755958,
@@ -24,7 +29,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M1jB1yKHudrHXg6F4E6Mw_40.202033_-74.755958@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461278531,
     "wof:geomhash":"f4d29c04eae7dff7e1cb791bcffc936d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638731823
+        }
+    ],
     "wof:id":638731823,
-    "wof:lastmodified":1466675693,
+    "wof:lastmodified":1492062591,
     "wof:name":"Virtuous Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

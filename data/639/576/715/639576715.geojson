@@ -2,9 +2,14 @@
   "id": 639576715,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 Bayard Ln Princeton NJ 08540",
+    "addr:housenumber":"79",
+    "addr:postcode":"08540",
+    "addr:street":"Bayard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.666345,40.351098,-74.666345,40.351098",
     "geom:latitude":40.351098,
     "geom:longitude":-74.666345,
@@ -30,7 +35,14 @@
         "genus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YiYkDJsWgHFVIAm6vIkI1_40.351098_-74.666345@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461300774,
     "wof:geomhash":"de1414c25dbe009021c3cf171089b02d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639576715
+        }
+    ],
     "wof:id":639576715,
-    "wof:lastmodified":1466696484,
+    "wof:lastmodified":1492051029,
     "wof:name":"Marick Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

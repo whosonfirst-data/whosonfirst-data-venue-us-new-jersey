@@ -2,9 +2,14 @@
   "id": 639266743,
   "type": "Feature",
   "properties": {
+    "addr:full":"379 S Branch Rd Hillsborough NJ 08844",
+    "addr:housenumber":"379",
+    "addr:postcode":"08844",
+    "addr:street":"S Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.685472,40.509725,-74.685472,40.509725",
     "geom:latitude":40.509725,
     "geom:longitude":-74.685472,
@@ -27,7 +32,10 @@
         "township"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40HATjStHvZVkcINcLstpI_40.509725_-74.685472@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291208,
     "wof:geomhash":"e8e2dae615eaa919e4af11370cc7e687",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639266743
+        }
+    ],
     "wof:id":639266743,
-    "wof:lastmodified":1466690753,
+    "wof:lastmodified":1492069309,
     "wof:name":"Township of Hillsborough",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655594447,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Romano Dr Dumont NJ 07628",
+    "addr:housenumber":"75",
+    "addr:postcode":"07628",
+    "addr:street":"Romano Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.977117,40.946274,-73.977117,40.946274",
     "geom:latitude":40.946274,
     "geom:longitude":-73.977117,
@@ -27,7 +32,14 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GJWbnhG1E65RyfSTexohM_40.946274_-73.977117@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312767,
     "wof:geomhash":"a2123ad3066bda413e5220637997cb15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655594447
+        }
+    ],
     "wof:id":655594447,
-    "wof:lastmodified":1466680792,
+    "wof:lastmodified":1492055412,
     "wof:name":"Old Roots Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

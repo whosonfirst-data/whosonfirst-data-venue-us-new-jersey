@@ -2,9 +2,14 @@
   "id": 655771943,
   "type": "Feature",
   "properties": {
+    "addr:full":"534 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"534",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217872,40.899972,-74.217872,40.899972",
     "geom:latitude":40.899972,
     "geom:longitude":-74.217872,
@@ -28,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54uCrWai6nL8Tcs3MAc6hZ_40.899972_-74.217872@1303262266"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461320192,
     "wof:geomhash":"e1059a81fe2f555e1efc57e356c18c38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655771943
+        }
+    ],
     "wof:id":655771943,
-    "wof:lastmodified":1466686244,
+    "wof:lastmodified":1492061330,
     "wof:name":"Advisors Mortgage Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

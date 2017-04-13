@@ -2,9 +2,14 @@
   "id": 655453019,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"315",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994313,40.817056,-73.994313,40.817056",
     "geom:latitude":40.817056,
     "geom:longitude":-73.994313,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42tdaJk2wROPCLKP6golKB_40.817056_-73.994313@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306825,
     "wof:geomhash":"6ea4144f1d0a2ee4c10644faec54fe24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655453019
+        }
+    ],
     "wof:id":655453019,
-    "wof:lastmodified":1466676779,
+    "wof:lastmodified":1492023711,
     "wof:name":"Industrial Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

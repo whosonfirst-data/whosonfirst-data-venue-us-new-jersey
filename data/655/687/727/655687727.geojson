@@ -2,9 +2,14 @@
   "id": 655687727,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W South Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"106",
+    "addr:postcode":"07079",
+    "addr:street":"W South Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257223,40.74546,-74.257223,40.74546",
     "geom:latitude":40.74546,
     "geom:longitude":-74.257223,
@@ -28,7 +33,10 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L3uX7QUZeQGCfwwqD5WTT_40.745460_-74.257223@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316767,
     "wof:geomhash":"8bf3871e580c9e6006c09fc6f962b99d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655687727
+        }
+    ],
     "wof:id":655687727,
-    "wof:lastmodified":1466684083,
+    "wof:lastmodified":1492041297,
     "wof:name":"Reservoir Restaurant",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

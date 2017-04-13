@@ -2,9 +2,14 @@
   "id": 638720795,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Cedar St Cliffside Park NJ 07010",
+    "addr:housenumber":"168",
+    "addr:postcode":"07010",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992632,40.810026,-73.992632,40.810026",
     "geom:latitude":40.810026,
     "geom:longitude":-73.992632,
@@ -28,7 +33,14 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j927F7iXeFy7HfCtAj2GF_40.810026_-73.992632@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278207,
     "wof:geomhash":"dfa2ba3670172e59741db49f47e0e8ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":638720795
+        }
+    ],
     "wof:id":638720795,
-    "wof:lastmodified":1466674075,
+    "wof:lastmodified":1492062389,
     "wof:name":"All Family Massage Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655589689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Arnold Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"1003",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061608,40.086935,-74.061608,40.086935",
     "geom:latitude":40.086935,
     "geom:longitude":-74.061608,
@@ -24,7 +29,14 @@
     "sg:postcode":"08742",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kd3bceira7f5S7cpdiAtA_40.086935_-74.061608@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461312575,
     "wof:geomhash":"e18ba3080b2cfb0b3296e057da114544",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":655589689
+        }
+    ],
     "wof:id":655589689,
-    "wof:lastmodified":1466680774,
+    "wof:lastmodified":1492048169,
     "wof:name":"J Pasola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

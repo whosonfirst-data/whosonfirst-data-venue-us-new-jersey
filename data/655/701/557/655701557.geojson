@@ -2,9 +2,14 @@
   "id": 655701557,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Oak Pl Caldwell NJ 07006",
+    "addr:housenumber":"31",
+    "addr:postcode":"07006",
+    "addr:street":"Oak Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25,40.873299,-74.25,40.873299",
     "geom:latitude":40.873299,
     "geom:longitude":-74.25,
@@ -28,7 +33,14 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mOTeWQ3OsCyCf4zie97Uw_40.873299_-74.250000@1303262249"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317435,
     "wof:geomhash":"80f432c2bfe07335d701e2ae8cf6577a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":655701557
+        }
+    ],
     "wof:id":655701557,
-    "wof:lastmodified":1466684320,
+    "wof:lastmodified":1492039926,
     "wof:name":"Armento R DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

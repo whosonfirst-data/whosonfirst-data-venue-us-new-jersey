@@ -2,9 +2,14 @@
   "id": 638705569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Beach Blvd Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"2216",
+    "addr:postcode":"08742",
+    "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.069193,40.071078,-74.069193,40.071078",
     "geom:latitude":40.071078,
     "geom:longitude":-74.069193,
@@ -29,7 +34,14 @@
         "programing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03x1RQnKCxaf5FNfCGexRf_40.071078_-74.069193@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277750,
     "wof:geomhash":"0ce092ac691924a00179ff0d10ccba04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638705569
+        }
+    ],
     "wof:id":638705569,
-    "wof:lastmodified":1466688689,
+    "wof:lastmodified":1492062473,
     "wof:name":"MSA Technologies LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

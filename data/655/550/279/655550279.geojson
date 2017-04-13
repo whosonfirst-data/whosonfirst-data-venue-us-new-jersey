@@ -2,9 +2,14 @@
   "id": 655550279,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Summit Dr Sussex NJ 07461",
+    "addr:housenumber":"112",
+    "addr:postcode":"07461",
+    "addr:street":"Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537664,41.230819,-74.537664,41.230819",
     "geom:latitude":41.230819,
     "geom:longitude":-74.537664,
@@ -27,7 +32,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZASlFLN1jfhLKyKQRgdlh_41.230819_-74.537664@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310835,
     "wof:geomhash":"4a8846d32d8b27338d6d94e052e07518",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":655550279
+        }
+    ],
     "wof:id":655550279,
-    "wof:lastmodified":1466679483,
+    "wof:lastmodified":1492051744,
     "wof:name":"Lynchs Systems",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

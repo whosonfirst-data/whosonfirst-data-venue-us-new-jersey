@@ -2,9 +2,14 @@
   "id": 655422771,
   "type": "Feature",
   "properties": {
+    "addr:full":"744 State Rte 70 Marlton NJ 08053",
+    "addr:housenumber":"744",
+    "addr:postcode":"08053",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882906,39.894121,-74.882906,39.894121",
     "geom:latitude":39.894121,
     "geom:longitude":-74.882906,
@@ -27,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hpim7VLATn3jl2cVQHKYY_39.894121_-74.882906@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305578,
     "wof:geomhash":"6bc69420a7e8c438587efdd9f5da9a08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655422771
+        }
+    ],
     "wof:id":655422771,
-    "wof:lastmodified":1466676190,
+    "wof:lastmodified":1492045013,
     "wof:name":"Pet Valu",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

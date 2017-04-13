@@ -2,9 +2,14 @@
   "id": 655806585,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Brook Dr Burlington NJ 08016",
+    "addr:housenumber":"7",
+    "addr:postcode":"08016",
+    "addr:street":"Brook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.812672,40.079323,-74.812672,40.079323",
     "geom:latitude":40.079323,
     "geom:longitude":-74.812672,
@@ -33,7 +38,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r6yUdgqocmVaxDGKoZx7p_40.079323_-74.812672@1303262274"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461321634,
     "wof:geomhash":"e45a05e29f7f657b088a6d9cfe00e1ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":655806585
+        }
+    ],
     "wof:id":655806585,
-    "wof:lastmodified":1466687172,
+    "wof:lastmodified":1492083427,
     "wof:name":"Dream Home",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

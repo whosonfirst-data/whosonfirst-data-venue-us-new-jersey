@@ -2,9 +2,14 @@
   "id": 655364467,
   "type": "Feature",
   "properties": {
+    "addr:full":"383 Hoover Ave Bayville NJ 08721",
+    "addr:housenumber":"383",
+    "addr:postcode":"08721",
+    "addr:street":"Hoover Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.19111,39.896606,-74.19111,39.896606",
     "geom:latitude":39.896606,
     "geom:longitude":-74.19111,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527389
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IQO7zsukXopHfKHH4aNdl_39.896606_-74.191110@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303203,
     "wof:geomhash":"c42e2bcd67bb1c341f1b061ff6620260",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527389,
+            "venue_id":655364467
+        }
+    ],
     "wof:id":655364467,
-    "wof:lastmodified":1466674522,
+    "wof:lastmodified":1492051976,
     "wof:name":"Hamilton & Son Builders",
     "wof:parent_id":420527389,
     "wof:placetype":"venue",

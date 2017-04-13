@@ -2,9 +2,14 @@
   "id": 639363467,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 Kennedy Blvd Bayonne NJ 07002",
+    "addr:housenumber":"523",
+    "addr:postcode":"07002",
+    "addr:street":"Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.124153,40.664759,-74.124153,40.664759",
     "geom:latitude":40.664759,
     "geom:longitude":-74.124153,
@@ -24,7 +29,14 @@
     "sg:postcode":"07002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ipFimyprb4Par9ddxkcTT_40.664759_-74.124153@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461293305,
     "wof:geomhash":"9a326758c3f637928c09aac6bcc8b57e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639363467
+        }
+    ],
     "wof:id":639363467,
-    "wof:lastmodified":1466692579,
+    "wof:lastmodified":1492046908,
     "wof:name":"Hilltop Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

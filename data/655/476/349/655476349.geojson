@@ -2,9 +2,14 @@
   "id": 655476349,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 US Hwy 9 Englishtown NJ 07726",
+    "addr:housenumber":"415",
+    "addr:postcode":"07726",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306079,40.31898,-74.306079,40.31898",
     "geom:latitude":40.31898,
     "geom:longitude":-74.306079,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SbDmZpQgJUjCOJgnPChZk_40.318980_-74.306079@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307860,
     "wof:geomhash":"611a2a11a7bf81bd6424f9407eaba9aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655476349
+        }
+    ],
     "wof:id":655476349,
-    "wof:lastmodified":1466677476,
+    "wof:lastmodified":1492047859,
     "wof:name":"Charisma Hairstylists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

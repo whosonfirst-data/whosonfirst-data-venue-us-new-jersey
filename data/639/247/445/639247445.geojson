@@ -2,9 +2,14 @@
   "id": 639247445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Sherman Ave Pennsauken NJ 08110",
+    "addr:housenumber":"1000",
+    "addr:postcode":"08110",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.056639,39.972254,-75.056639,39.972254",
     "geom:latitude":39.972254,
     "geom:longitude":-75.056639,
@@ -27,7 +32,14 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gl5EodBWpcovFHz6JIxoH_39.972254_-75.056639@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290773,
     "wof:geomhash":"1cd99c488647f7b4fe3f7c20f4539895",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639247445
+        }
+    ],
     "wof:id":639247445,
-    "wof:lastmodified":1466690351,
+    "wof:lastmodified":1492043201,
     "wof:name":"Fessenden Hall Corian Dept",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639444767,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Silver Ave Hillside NJ 07205",
+    "addr:housenumber":"193",
+    "addr:postcode":"07205",
+    "addr:street":"Silver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229526,40.69506,-74.229526,40.69506",
     "geom:latitude":40.69506,
     "geom:longitude":-74.229526,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DIfO5bDV3uSDMs7QV7Lh6_40.695060_-74.229526@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295211,
     "wof:geomhash":"d72154baa73a6c73e6d5cb1ebc62a4a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639444767
+        }
+    ],
     "wof:id":639444767,
-    "wof:lastmodified":1466693455,
+    "wof:lastmodified":1492055918,
     "wof:name":"JMJ Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

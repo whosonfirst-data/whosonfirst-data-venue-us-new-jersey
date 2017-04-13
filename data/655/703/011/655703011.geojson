@@ -2,9 +2,14 @@
   "id": 655703011,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Hickory St Carteret NJ 07008",
+    "addr:housenumber":"97",
+    "addr:postcode":"07008",
+    "addr:street":"Hickory St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23632,40.577969,-74.23632,40.577969",
     "geom:latitude":40.577969,
     "geom:longitude":-74.23632,
@@ -30,7 +35,14 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zTfHRGYI6FGqHQAmP8gCz_40.577969_-74.236320@1303262249"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461317494,
     "wof:geomhash":"c28b60d6019bae5431d6d0a3e027e23e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":655703011
+        }
+    ],
     "wof:id":655703011,
-    "wof:lastmodified":1466684237,
+    "wof:lastmodified":1492025535,
     "wof:name":"Monegro Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

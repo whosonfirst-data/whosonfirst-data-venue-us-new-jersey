@@ -2,9 +2,14 @@
   "id": 638984489,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Skyline Lakes Dr Ringwood NJ 07456",
+    "addr:housenumber":"222",
+    "addr:postcode":"07456",
+    "addr:street":"Skyline Lakes Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276442,41.069408,-74.276442,41.069408",
     "geom:latitude":41.069408,
     "geom:longitude":-74.276442,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hwyU8WLKQ5WQ0v8tcZ6Aa_41.069408_-74.276442@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284737,
     "wof:geomhash":"56049d22a0a1330a165434e76ab4beec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":638984489
+        }
+    ],
     "wof:id":638984489,
-    "wof:lastmodified":1466691960,
+    "wof:lastmodified":1492024290,
     "wof:name":"Grass Moon Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

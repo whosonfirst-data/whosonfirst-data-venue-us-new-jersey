@@ -2,9 +2,14 @@
   "id": 655385789,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Hope Rd Great Meadows NJ 07838",
+    "addr:housenumber":"69",
+    "addr:postcode":"07838",
+    "addr:street":"Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.931083,40.879269,-74.931083,40.879269",
     "geom:latitude":40.879269,
     "geom:longitude":-74.931083,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.reactionmedia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527761,
+        85688607,
+        85848371,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JdVnHOKhkCqDns045uPdD_40.879269_-74.931083@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461304021,
     "wof:geomhash":"a07c010858349167c981376f446e2199",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527761,
+            "venue_id":655385789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85848371,
+            "region_id":85688607,
+            "venue_id":655385789
+        }
+    ],
     "wof:id":655385789,
-    "wof:lastmodified":1466675152,
+    "wof:lastmodified":1492046248,
     "wof:name":"Reaction Media Corp",
-    "wof:parent_id":420527761,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

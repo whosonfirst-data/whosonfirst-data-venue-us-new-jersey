@@ -2,9 +2,14 @@
   "id": 655650227,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 16th Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"104",
+    "addr:postcode":"07407",
+    "addr:street":"16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116838,40.918222,-74.116838,40.918222",
     "geom:latitude":40.918222,
     "geom:longitude":-74.116838,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5joQ0c0D9qCtTaATXrOnal_40.918222_-74.116838@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315187,
     "wof:geomhash":"ecec7ba14712d7506527ad14cf4d7987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655650227
+        }
+    ],
     "wof:id":655650227,
-    "wof:lastmodified":1466682757,
+    "wof:lastmodified":1492024154,
     "wof:name":"A O K Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

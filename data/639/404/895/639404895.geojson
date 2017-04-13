@@ -2,9 +2,14 @@
   "id": 639404895,
   "type": "Feature",
   "properties": {
+    "addr:full":"416 Mechlin Corner Rd Pittstown NJ 08867",
+    "addr:housenumber":"416",
+    "addr:postcode":"08867",
+    "addr:street":"Mechlin Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.997665,40.601504,-74.997665,40.601504",
     "geom:latitude":40.601504,
     "geom:longitude":-74.997665,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66ZZqgJZfwlLPXXNcwRS8W_40.601504_-74.997665@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461294354,
     "wof:geomhash":"c03e119dbbddef3dea474605b57e1503",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639404895
+        }
+    ],
     "wof:id":639404895,
-    "wof:lastmodified":1466693062,
+    "wof:lastmodified":1492042501,
     "wof:name":"Jean Golden Tevald DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

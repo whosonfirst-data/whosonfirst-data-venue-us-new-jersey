@@ -2,9 +2,14 @@
   "id": 639519549,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Stony Hill Dr Morganville NJ 07751",
+    "addr:housenumber":"43",
+    "addr:postcode":"07751",
+    "addr:street":"Stony Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267754,40.338808,-74.267754,40.338808",
     "geom:latitude":40.338808,
     "geom:longitude":-74.267754,
@@ -27,7 +32,13 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RUAWKWwQxlACjmtfaXoGG_40.338808_-74.267754@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298272,
     "wof:geomhash":"a1c3092464756fec985a797445213846",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":639519549
+        }
+    ],
     "wof:id":639519549,
-    "wof:lastmodified":1466695055,
+    "wof:lastmodified":1492052337,
     "wof:name":"Alex Cab Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

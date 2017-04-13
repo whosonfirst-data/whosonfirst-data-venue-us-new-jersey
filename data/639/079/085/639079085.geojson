@@ -2,9 +2,14 @@
   "id": 639079085,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 New Mexico St Jackson NJ 08527",
+    "addr:housenumber":"17",
+    "addr:postcode":"08527",
+    "addr:street":"New Mexico St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261254,40.137858,-74.261254,40.137858",
     "geom:latitude":40.137858,
     "geom:longitude":-74.261254,
@@ -30,7 +35,10 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MMLYOmlowYflfyoFQvP2B_40.137858_-74.261254@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461286901,
     "wof:geomhash":"a5841e349ac204a10ba1a6fd4362ce3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639079085
+        }
+    ],
     "wof:id":639079085,
-    "wof:lastmodified":1466688517,
+    "wof:lastmodified":1492053237,
     "wof:name":"Floor Specialist",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

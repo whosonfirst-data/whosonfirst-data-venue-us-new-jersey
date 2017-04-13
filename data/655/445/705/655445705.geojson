@@ -2,9 +2,14 @@
   "id": 655445705,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Serpentine Rd Demarest NJ 07627",
+    "addr:housenumber":"118",
+    "addr:postcode":"07627",
+    "addr:street":"Serpentine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.964354,40.955867,-73.964354,40.955867",
     "geom:latitude":40.955867,
     "geom:longitude":-73.964354,
@@ -27,7 +32,14 @@
         "municipality"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sZbyQQCAJ2hU2PRsVVnzw_40.955867_-73.964354@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306500,
     "wof:geomhash":"c331d1f930e94f4324d6f1cf23309c07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655445705
+        }
+    ],
     "wof:id":655445705,
-    "wof:lastmodified":1466676696,
+    "wof:lastmodified":1492029429,
     "wof:name":"Borough of Demarest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

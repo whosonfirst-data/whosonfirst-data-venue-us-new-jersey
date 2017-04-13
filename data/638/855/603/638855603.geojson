@@ -2,9 +2,14 @@
   "id": 638855603,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Pegg Rd Flemington NJ 08822",
+    "addr:housenumber":"2",
+    "addr:postcode":"08822",
+    "addr:street":"Pegg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.909024,40.492917,-74.909024,40.492917",
     "geom:latitude":40.492917,
     "geom:longitude":-74.909024,
@@ -29,7 +34,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XLDPmrX2JWTkpfiW0QpHf_40.492917_-74.909024@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461281648,
     "wof:geomhash":"99733bb071f91c4da49b825a6f9ff01b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":638855603
+        }
+    ],
     "wof:id":638855603,
-    "wof:lastmodified":1466689391,
+    "wof:lastmodified":1492043242,
     "wof:name":"Enhance Technologies",
     "wof:parent_id":420527093,
     "wof:placetype":"venue",

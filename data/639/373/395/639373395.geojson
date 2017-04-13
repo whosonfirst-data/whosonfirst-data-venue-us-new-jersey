@@ -2,9 +2,14 @@
   "id": 639373395,
   "type": "Feature",
   "properties": {
+    "addr:full":"942 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"942",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168842,40.698384,-75.168842,40.698384",
     "geom:latitude":40.698384,
     "geom:longitude":-75.168842,
@@ -28,7 +33,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oGaEu34eQd8I2GXfHWvuZ_40.698384_-75.168842@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293495,
     "wof:geomhash":"fd569e4a5cd46983b22c6b9917bd93c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":639373395
+        }
+    ],
     "wof:id":639373395,
-    "wof:lastmodified":1466692677,
+    "wof:lastmodified":1492056056,
     "wof:name":"Irto/340",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

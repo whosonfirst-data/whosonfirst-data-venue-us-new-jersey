@@ -2,9 +2,14 @@
   "id": 639513583,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Robert Ct Manalapan NJ 07726",
+    "addr:housenumber":"500",
+    "addr:postcode":"07726",
+    "addr:street":"Robert Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.359102,40.217967,-74.359102,40.217967",
     "geom:latitude":40.217967,
     "geom:longitude":-74.359102,
@@ -27,7 +32,10 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L80PuyLKwEYcNOOFKA0Mo_40.217967_-74.359102@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298004,
     "wof:geomhash":"cd431425dd0c1db05a02d409180750cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527319,
+            "venue_id":639513583
+        }
+    ],
     "wof:id":639513583,
-    "wof:lastmodified":1466695053,
+    "wof:lastmodified":1492052322,
     "wof:name":"Marlboro Mustang & Ford",
     "wof:parent_id":420527319,
     "wof:placetype":"venue",

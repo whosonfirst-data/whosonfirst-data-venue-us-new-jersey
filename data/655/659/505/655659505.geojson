@@ -2,9 +2,14 @@
   "id": 655659505,
   "type": "Feature",
   "properties": {
+    "addr:full":"389 State Rte 17 Mahwah NJ 07430",
+    "addr:housenumber":"389",
+    "addr:postcode":"07430",
+    "addr:street":"State Rte 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149492,41.079542,-74.149492,41.079542",
     "geom:latitude":41.079542,
     "geom:longitude":-74.149492,
@@ -21,7 +26,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zdUyNxvSjD8e9onFLPGEg_41.079542_-74.149492@1294171694"
@@ -29,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1461315597,
     "wof:geomhash":"51d33e0a3d550d35c5fa6a6e28985eb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655659505
+        }
+    ],
     "wof:id":655659505,
-    "wof:lastmodified":1466683207,
+    "wof:lastmodified":1492058261,
     "wof:name":"Fuel Max Mahwah Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

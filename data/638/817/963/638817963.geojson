@@ -2,9 +2,14 @@
   "id": 638817963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1181 N 34th St Camden NJ 08105",
+    "addr:housenumber":"1181",
+    "addr:postcode":"08105",
+    "addr:street":"N 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.085909,39.9629,-75.085909,39.9629",
     "geom:latitude":39.9629,
     "geom:longitude":-75.085909,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hf63j82xQDGHIc8f0VQ6P_39.962900_-75.085909@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280656,
     "wof:geomhash":"9a7c1ea13e57d2fb2ffbdb5f7ba38ee9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638817963
+        }
+    ],
     "wof:id":638817963,
-    "wof:lastmodified":1466687849,
+    "wof:lastmodified":1492025805,
     "wof:name":"Landys Cleaning Service",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

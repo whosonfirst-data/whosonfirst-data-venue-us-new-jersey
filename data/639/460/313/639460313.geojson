@@ -2,9 +2,14 @@
   "id": 639460313,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Lee Dr Vincentown NJ 08088",
+    "addr:housenumber":"12",
+    "addr:postcode":"08088",
+    "addr:street":"Lee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.739132,39.863164,-74.739132,39.863164",
     "geom:latitude":39.863164,
     "geom:longitude":-74.739132,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51NrlujTQdpfcs2GMsH5QL_39.863164_-74.739132@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295812,
     "wof:geomhash":"1181fb11a363a180c4516dd812e30485",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526585,
+            "venue_id":639460313
+        }
+    ],
     "wof:id":639460313,
-    "wof:lastmodified":1466694183,
+    "wof:lastmodified":1492068137,
     "wof:name":"P Redmond Constr Co",
     "wof:parent_id":420526585,
     "wof:placetype":"venue",

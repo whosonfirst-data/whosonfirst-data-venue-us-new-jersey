@@ -2,9 +2,14 @@
   "id": 638853935,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Amboy Rd Morganville NJ 07751",
+    "addr:housenumber":"145",
+    "addr:postcode":"07751",
+    "addr:street":"Amboy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287089,40.358709,-74.287089,40.358709",
     "geom:latitude":40.358709,
     "geom:longitude":-74.287089,
@@ -27,7 +32,15 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z1BYEZXC7XXVBzdkq8gU4_40.358709_-74.287089@1294171694"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1461281609,
     "wof:geomhash":"c30203daa0d68e3291faaf5b87055487",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":638853935
+        }
+    ],
     "wof:id":638853935,
-    "wof:lastmodified":1466689150,
+    "wof:lastmodified":1492024450,
     "wof:name":"Jamico Alignment",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

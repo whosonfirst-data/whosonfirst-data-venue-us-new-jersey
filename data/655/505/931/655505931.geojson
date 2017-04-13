@@ -2,9 +2,14 @@
   "id": 655505931,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"203",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948567,41.007674,-73.948567,41.007674",
     "geom:latitude":41.007674,
     "geom:longitude":-73.948567,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h1x3sVyq5mIpID2yM8tf1_41.007674_-73.948567@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309095,
     "wof:geomhash":"49fa20746322ca514b5fc14a8e882c59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655505931
+        }
+    ],
     "wof:id":655505931,
-    "wof:lastmodified":1466678334,
+    "wof:lastmodified":1492053975,
     "wof:name":"World Sushi Catering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

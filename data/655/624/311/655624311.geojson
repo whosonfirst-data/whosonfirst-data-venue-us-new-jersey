@@ -2,9 +2,14 @@
   "id": 655624311,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Johned Rd Northvale NJ 07647",
+    "addr:housenumber":"409",
+    "addr:postcode":"07647",
+    "addr:street":"Johned Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959666,41.013546,-73.959666,41.013546",
     "geom:latitude":41.013546,
     "geom:longitude":-73.959666,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SDrR8zoRw2DnZqhzbIxXJ_41.013546_-73.959666@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314078,
     "wof:geomhash":"b4a8520e919a7eb7b329b91a60ba26e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655624311
+        }
+    ],
     "wof:id":655624311,
-    "wof:lastmodified":1466681836,
+    "wof:lastmodified":1492053980,
     "wof:name":"Lovell Safety MGT Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639581339,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Bear Brook Rd Princeton NJ 08540",
+    "addr:housenumber":"102",
+    "addr:postcode":"08540",
+    "addr:street":"Bear Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.640759,40.313317,-74.640759,40.313317",
     "geom:latitude":40.313317,
     "geom:longitude":-74.640759,
@@ -28,7 +33,13 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_415IZSAPHR8veiURgDeyWe_40.313317_-74.640759@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300956,
     "wof:geomhash":"fe2d72459fb331e444eba680c23894c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639581339
+        }
+    ],
     "wof:id":639581339,
-    "wof:lastmodified":1466696482,
+    "wof:lastmodified":1492047672,
     "wof:name":"Mireille Delman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

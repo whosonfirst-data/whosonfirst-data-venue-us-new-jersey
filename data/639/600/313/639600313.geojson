@@ -2,9 +2,14 @@
   "id": 639600313,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Western Pkwy Irvington NJ 07111",
+    "addr:housenumber":"49",
+    "addr:postcode":"07111",
+    "addr:street":"Western Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218205,40.738035,-74.218205,40.738035",
     "geom:latitude":40.738035,
     "geom:longitude":-74.218205,
@@ -24,7 +29,13 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ndpqO5SZMFJoqH3hWXZs9_40.738035_-74.218205@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461301745,
     "wof:geomhash":"7634ba98fa4d6188a34b1b812452ab76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639600313
+        }
+    ],
     "wof:id":639600313,
-    "wof:lastmodified":1466696787,
+    "wof:lastmodified":1492056704,
     "wof:name":"Jim's Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

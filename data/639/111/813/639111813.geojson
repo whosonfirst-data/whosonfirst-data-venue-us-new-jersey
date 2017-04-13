@@ -2,9 +2,14 @@
   "id": 639111813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1775 Oak Tree Rd Edison NJ 08820",
+    "addr:housenumber":"1775",
+    "addr:postcode":"08820",
+    "addr:street":"Oak Tree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.350151,40.572076,-74.350151,40.572076",
     "geom:latitude":40.572076,
     "geom:longitude":-74.350151,
@@ -30,7 +35,10 @@
         "activity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50cbRHsAPep8RnQos6HOBt_40.572076_-74.350151@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461287600,
     "wof:geomhash":"e6f9d3ad43be308c81e700de13c79612",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":639111813
+        }
+    ],
     "wof:id":639111813,
-    "wof:lastmodified":1466675918,
+    "wof:lastmodified":1492061396,
     "wof:name":"Jewish Cmnty Ctr Middlesex Cou",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

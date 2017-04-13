@@ -2,9 +2,14 @@
   "id": 639306511,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Bridge St Frenchtown NJ 08825",
+    "addr:housenumber":"57",
+    "addr:postcode":"08825",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061324,40.526492,-75.061324,40.526492",
     "geom:latitude":40.526492,
     "geom:longitude":-75.061324,
@@ -28,7 +33,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jZbz6uDLlf1t4tVi7BMXE_40.526492_-75.061324@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292100,
     "wof:geomhash":"49c1f2705c52019454fe047ba3b4fc8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":639306511
+        }
+    ],
     "wof:id":639306511,
-    "wof:lastmodified":1466691514,
+    "wof:lastmodified":1492053529,
     "wof:name":"Gabriele Art Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639606377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Whitehorse Mercerville Rd Trenton NJ 08619",
+    "addr:housenumber":"1601",
+    "addr:postcode":"08619",
+    "addr:street":"Whitehorse Mercerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.687086,40.224799,-74.687086,40.224799",
     "geom:latitude":40.224799,
     "geom:longitude":-74.687086,
@@ -35,7 +40,8 @@
         85633793,
         85976399,
         102081129,
-        85688607
+        85688607,
+        420527145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,17 @@
             "neighbourhood_id":85838551,
             "region_id":85688607,
             "venue_id":639606377
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527145,
+            "venue_id":639606377
         }
     ],
     "wof:id":639606377,
-    "wof:lastmodified":1466697078,
+    "wof:lastmodified":1492053496,
     "wof:name":"Hamilton Physicians Group",
-    "wof:parent_id":85838551,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

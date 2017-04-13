@@ -2,9 +2,14 @@
   "id": 655571895,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Jefferson St Newark NJ 07105",
+    "addr:housenumber":"188",
+    "addr:postcode":"07105",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.164086,40.725792,-74.164086,40.725792",
     "geom:latitude":40.725792,
     "geom:longitude":-74.164086,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873015,
+        85873013,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85873015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873013,
+            "region_id":85688607,
+            "venue_id":655571895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85873015,
             "region_id":85688607,
             "venue_id":655571895
         }
     ],
     "wof:id":655571895,
-    "wof:lastmodified":1466680187,
+    "wof:lastmodified":1492023002,
     "wof:name":"Castle Development Corporation",
-    "wof:parent_id":85873015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

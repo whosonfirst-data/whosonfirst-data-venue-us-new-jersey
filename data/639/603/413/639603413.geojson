@@ -2,9 +2,14 @@
   "id": 639603413,
   "type": "Feature",
   "properties": {
+    "addr:full":"3524 US Hwy 1 Princeton NJ 08540",
+    "addr:housenumber":"3524",
+    "addr:postcode":"08540",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.643385,40.327006,-74.643385,40.327006",
     "geom:latitude":40.327006,
     "geom:longitude":-74.643385,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"www.ethanallen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mLfzSlTc2DmyCrBR6GxDa_40.327006_-74.643385@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461301872,
     "wof:geomhash":"15abfffda8ce23da6475b9369012a016",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639603413
+        }
+    ],
     "wof:id":639603413,
-    "wof:lastmodified":1466697039,
+    "wof:lastmodified":1492056093,
     "wof:name":"Ethan Allen Home Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

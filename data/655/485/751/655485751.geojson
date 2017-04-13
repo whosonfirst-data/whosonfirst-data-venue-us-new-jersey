@@ -2,9 +2,14 @@
   "id": 655485751,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Sharp Rd Marlton NJ 08053",
+    "addr:housenumber":"100",
+    "addr:postcode":"08053",
+    "addr:street":"Sharp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.86605,39.911111,-74.86605,39.911111",
     "geom:latitude":39.911111,
     "geom:longitude":-74.86605,
@@ -31,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526655,
+        85688607,
         85812655,
-        102087415
+        102087415,
+        85813045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +53,28 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655485751
+        },
+        {
+            "country_id":85633793,
             "county_id":102087415,
             "neighbourhood_id":85812655,
+            "region_id":85688607,
+            "venue_id":655485751
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85813045,
             "region_id":85688607,
             "venue_id":655485751
         }
     ],
     "wof:id":655485751,
-    "wof:lastmodified":1466677759,
+    "wof:lastmodified":1492024304,
     "wof:name":"Lipinski Pools",
-    "wof:parent_id":85812655,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655576141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1078 Sanford Ave Irvington NJ 07111",
+    "addr:housenumber":"1078",
+    "addr:postcode":"07111",
+    "addr:street":"Sanford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241795,40.725007,-74.241795,40.725007",
     "geom:latitude":40.725007,
     "geom:longitude":-74.241795,
@@ -27,7 +32,13 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K38KXWNgt7XAX0AbiI7tO_40.725007_-74.241795@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311999,
     "wof:geomhash":"0bccf0528300c690e5015e11284acf46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655576141
+        }
+    ],
     "wof:id":655576141,
-    "wof:lastmodified":1466680116,
+    "wof:lastmodified":1492053690,
     "wof:name":"Savaleta Dockery Nursing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

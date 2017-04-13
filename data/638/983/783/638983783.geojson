@@ -2,9 +2,14 @@
   "id": 638983783,
   "type": "Feature",
   "properties": {
+    "addr:full":"258 E Grand Ave Rahway NJ 07065",
+    "addr:housenumber":"258",
+    "addr:postcode":"07065",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267966,40.60922,-74.267966,40.60922",
     "geom:latitude":40.60922,
     "geom:longitude":-74.267966,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0adakI7q2ORvVJYrmORz3I_40.609220_-74.267966@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284721,
     "wof:geomhash":"8a039bd44af7aec7d43b632e7e70b93e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638983783
+        }
+    ],
     "wof:id":638983783,
-    "wof:lastmodified":1466691828,
+    "wof:lastmodified":1492049067,
     "wof:name":"Royal Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

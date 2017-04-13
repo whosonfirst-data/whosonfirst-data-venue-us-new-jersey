@@ -2,9 +2,14 @@
   "id": 655601771,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Riverdale Rd Riverdale NJ 07457",
+    "addr:housenumber":"90",
+    "addr:postcode":"07457",
+    "addr:street":"Riverdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29928,40.987423,-74.29928,40.987423",
     "geom:latitude":40.987423,
     "geom:longitude":-74.29928,
@@ -28,7 +33,14 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i8p7Hbr0HyAD9J5WXSk9H_40.987423_-74.299280@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313081,
     "wof:geomhash":"4359e6b2a62a1f53e57f8f51cc36f4d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":655601771
+        }
+    ],
     "wof:id":655601771,
-    "wof:lastmodified":1466681188,
+    "wof:lastmodified":1492023564,
     "wof:name":"Experian NPC Check Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

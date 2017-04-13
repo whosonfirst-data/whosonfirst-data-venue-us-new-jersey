@@ -2,9 +2,14 @@
   "id": 655651625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Salem Rd Burlington NJ 08016",
+    "addr:housenumber":"1614",
+    "addr:postcode":"08016",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.868834,40.056186,-74.868834,40.056186",
     "geom:latitude":40.056186,
     "geom:longitude":-74.868834,
@@ -27,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62IeG0VXHc0qjmKIy8HoUf_40.056186_-74.868834@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315240,
     "wof:geomhash":"851a01c0649ae8a9c9ca374870bd96ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655651625
+        }
+    ],
     "wof:id":655651625,
-    "wof:lastmodified":1466682902,
+    "wof:lastmodified":1492041957,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

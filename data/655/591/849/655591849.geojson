@@ -2,9 +2,14 @@
   "id": 655591849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2058 Millburn Ave Maplewood NJ 07040",
+    "addr:housenumber":"2058",
+    "addr:postcode":"07040",
+    "addr:street":"Millburn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.278029,40.719944,-74.278029,40.719944",
     "geom:latitude":40.719944,
     "geom:longitude":-74.278029,
@@ -28,7 +33,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XT4LgGCRj0CWh5DqxF0TF_40.719944_-74.278029@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312666,
     "wof:geomhash":"6c2d016a9105603209821963f615916a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655591849
+        }
+    ],
     "wof:id":655591849,
-    "wof:lastmodified":1466680829,
+    "wof:lastmodified":1492028471,
     "wof:name":"De Finis Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

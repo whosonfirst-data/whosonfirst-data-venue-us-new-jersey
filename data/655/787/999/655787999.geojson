@@ -2,9 +2,14 @@
   "id": 655787999,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 3rd St Belvidere NJ 07823",
+    "addr:housenumber":"404",
+    "addr:postcode":"07823",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077003,40.825901,-75.077003,40.825901",
     "geom:latitude":40.825901,
     "geom:longitude":-75.077003,
@@ -39,7 +44,14 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HaWB9esRFIppwmr7mkniu_40.825901_-75.077003@1303262270"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461320893,
     "wof:geomhash":"96f7493a5ceb31dfbed3bb0593ce890a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787999
+        }
+    ],
     "wof:id":655787999,
-    "wof:lastmodified":1466686767,
+    "wof:lastmodified":1492048122,
     "wof:name":"Steinhardt Douglas J Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

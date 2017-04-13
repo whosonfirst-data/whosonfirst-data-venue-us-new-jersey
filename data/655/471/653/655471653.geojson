@@ -2,9 +2,14 @@
   "id": 655471653,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Kresson Rd Cherry Hill NJ 08003",
+    "addr:housenumber":"710",
+    "addr:postcode":"08003",
+    "addr:street":"Kresson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.992846,39.888726,-74.992846,39.888726",
     "geom:latitude":39.888726,
     "geom:longitude":-74.992846,
@@ -35,7 +40,9 @@
         85633793,
         85976247,
         102081131,
-        85688607
+        85688607,
+        420526733,
+        85976229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +61,22 @@
             "neighbourhood_id":85807801,
             "region_id":85688607,
             "venue_id":655471653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976229,
+            "neighbourhood_id":420526733,
+            "region_id":85688607,
+            "venue_id":655471653
         }
     ],
     "wof:id":655471653,
-    "wof:lastmodified":1466677460,
+    "wof:lastmodified":1492072594,
     "wof:name":"Kressville Pediatrics",
-    "wof:parent_id":85807801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

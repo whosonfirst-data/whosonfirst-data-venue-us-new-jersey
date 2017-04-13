@@ -2,9 +2,14 @@
   "id": 639471021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Oak St Lakewood NJ 08701",
+    "addr:housenumber":"1715",
+    "addr:postcode":"08701",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.186965,40.059568,-74.186965,40.059568",
     "geom:latitude":40.059568,
     "geom:longitude":-74.186965,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Lel9FesDRwLlNWHWUlrC2_40.059568_-74.186965@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296222,
     "wof:geomhash":"b78894b0702206f8d3072dab72b5bad9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639471021
+        }
+    ],
     "wof:id":639471021,
-    "wof:lastmodified":1466694036,
+    "wof:lastmodified":1492070970,
     "wof:name":"DPT Lakewood Inc",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

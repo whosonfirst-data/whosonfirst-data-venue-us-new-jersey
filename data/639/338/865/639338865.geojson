@@ -2,9 +2,14 @@
   "id": 639338865,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Yale St Maplewood NJ 07040",
+    "addr:housenumber":"56",
+    "addr:postcode":"07040",
+    "addr:street":"Yale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269306,40.721966,-74.269306,40.721966",
     "geom:latitude":40.721966,
     "geom:longitude":-74.269306,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Afc3ejHuCiE3yg5LwG8wj_40.721966_-74.269306@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292787,
     "wof:geomhash":"9721ca1d3b3753d1c39b2091078a77cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639338865
+        }
+    ],
     "wof:id":639338865,
-    "wof:lastmodified":1466692348,
+    "wof:lastmodified":1492076644,
     "wof:name":"Unique Concepts",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

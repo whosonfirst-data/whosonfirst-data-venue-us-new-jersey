@@ -2,9 +2,14 @@
   "id": 638727393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Marlton Pike E Cherry Hill NJ 08034",
+    "addr:housenumber":"1400",
+    "addr:postcode":"08034",
+    "addr:street":"Marlton Pike E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.988789,39.910046,-74.988789,39.910046",
     "geom:latitude":39.910046,
     "geom:longitude":-74.988789,
@@ -35,7 +40,9 @@
         85633793,
         85976225,
         102081131,
-        85688607
+        85688607,
+        85804463,
+        85976245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +61,22 @@
             "neighbourhood_id":420526805,
             "region_id":85688607,
             "venue_id":638727393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976245,
+            "neighbourhood_id":85804463,
+            "region_id":85688607,
+            "venue_id":638727393
         }
     ],
     "wof:id":638727393,
-    "wof:lastmodified":1466675026,
+    "wof:lastmodified":1492062514,
     "wof:name":"Heart Institute",
-    "wof:parent_id":420526805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

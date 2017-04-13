@@ -2,9 +2,14 @@
   "id": 638923885,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Prospect Plains Rd Monroe Twp NJ 08831",
+    "addr:housenumber":"174",
+    "addr:postcode":"08831",
+    "addr:street":"Prospect Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.457031,40.321688,-74.457031,40.321688",
     "geom:latitude":40.321688,
     "geom:longitude":-74.457031,
@@ -27,7 +32,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478287,
+        85633793,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aeWyDhLIR8NexasW3YIVI_40.321688_-74.457031@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283365,
     "wof:geomhash":"f6aed5b8c1ce69169ad8bc507275c75d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478287,
+            "region_id":85688607,
+            "venue_id":638923885
+        }
+    ],
     "wof:id":638923885,
-    "wof:lastmodified":1466690836,
+    "wof:lastmodified":1492075213,
     "wof:name":"Castle Golf Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

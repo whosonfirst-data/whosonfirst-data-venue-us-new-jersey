@@ -2,9 +2,14 @@
   "id": 655655645,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 E 1st Ave Roselle NJ 07203",
+    "addr:housenumber":"428",
+    "addr:postcode":"07203",
+    "addr:street":"E 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252948,40.661535,-74.252948,40.661535",
     "geom:latitude":40.661535,
     "geom:longitude":-74.252948,
@@ -30,13 +35,16 @@
     "sg:website":"www.akc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802619,
+        85817887,
         102191575,
         404477587,
         85633793,
         85975833,
         102085995,
-        85688607
+        85688607,
+        85802619,
+        404478515,
+        85975831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +60,25 @@
             "county_id":102085995,
             "localadmin_id":404477587,
             "locality_id":85975833,
+            "neighbourhood_id":85817887,
+            "region_id":85688607,
+            "venue_id":655655645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478515,
+            "locality_id":85975831,
             "neighbourhood_id":85802619,
             "region_id":85688607,
             "venue_id":655655645
         }
     ],
     "wof:id":655655645,
-    "wof:lastmodified":1466683062,
+    "wof:lastmodified":1492024428,
     "wof:name":"AKC Computer Svc Corp",
-    "wof:parent_id":85802619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

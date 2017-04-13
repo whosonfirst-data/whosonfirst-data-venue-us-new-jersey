@@ -2,9 +2,14 @@
   "id": 638749441,
   "type": "Feature",
   "properties": {
+    "addr:full":"5454 Witherspoon Ave Pennsauken NJ 08109",
+    "addr:housenumber":"5454",
+    "addr:postcode":"08109",
+    "addr:street":"Witherspoon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061886,39.934259,-75.061886,39.934259",
     "geom:latitude":39.934259,
     "geom:longitude":-75.061886,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892413,
+        102081131,
         85892415,
         102191575,
         404477993,
-        85633793,
-        85976233,
-        102081131,
-        85688607
+        85976233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +51,13 @@
     "wof:created":1461279000,
     "wof:geomhash":"6ab064193f04bb87fa1b78282acdb8c7",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081131,
+            "neighbourhood_id":85892413,
+            "region_id":85688607,
+            "venue_id":638749441
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":638749441,
-    "wof:lastmodified":1466678005,
+    "wof:lastmodified":1492062574,
     "wof:name":"Visual Dynamics",
-    "wof:parent_id":85892415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

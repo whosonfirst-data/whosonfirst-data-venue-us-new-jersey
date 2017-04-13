@@ -2,9 +2,14 @@
   "id": 639449629,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 4th St Park Ridge NJ 07656",
+    "addr:housenumber":"31",
+    "addr:postcode":"07656",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.048076,41.036412,-74.048076,41.036412",
     "geom:latitude":41.036412,
     "geom:longitude":-74.048076,
@@ -27,7 +32,14 @@
         "magazine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477711,
+        85633793,
+        85975949,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VRoK4N1PV7nWti1yvsbTI_41.036412_-74.048076@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295393,
     "wof:geomhash":"863ceb8e5abc4fc838e1469efcba7320",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477711,
+            "locality_id":85975949,
+            "region_id":85688607,
+            "venue_id":639449629
+        }
+    ],
     "wof:id":639449629,
-    "wof:lastmodified":1466693615,
+    "wof:lastmodified":1492076400,
     "wof:name":"Surface",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

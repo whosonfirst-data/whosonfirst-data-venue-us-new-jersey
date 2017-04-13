@@ -2,9 +2,14 @@
   "id": 655565221,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Dogwood Ter Newton NJ 07860",
+    "addr:housenumber":"903",
+    "addr:postcode":"07860",
+    "addr:street":"Dogwood Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.827574,41.058023,-74.827574,41.058023",
     "geom:latitude":41.058023,
     "geom:longitude":-74.827574,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g7TccSC9qkQ39xYMmCVRn_41.058023_-74.827574@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311507,
     "wof:geomhash":"490f9efabc0a5a7a50e8f7c2fe0aa93f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655565221
+        }
+    ],
     "wof:id":655565221,
-    "wof:lastmodified":1466679811,
+    "wof:lastmodified":1492031910,
     "wof:name":"Highland Painting Service",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

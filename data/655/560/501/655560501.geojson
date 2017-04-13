@@ -2,9 +2,14 @@
   "id": 655560501,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Eagle Rock Ave Roseland NJ 07068",
+    "addr:housenumber":"89",
+    "addr:postcode":"07068",
+    "addr:street":"Eagle Rock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287538,40.818696,-74.287538,40.818696",
     "geom:latitude":40.818696,
     "geom:longitude":-74.287538,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hraF1ezYdm3KRF1xXRSXB_40.818696_-74.287538@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311299,
     "wof:geomhash":"7ab0b7ca877ec3652a9236bca7471e0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655560501
+        }
+    ],
     "wof:id":655560501,
-    "wof:lastmodified":1466679805,
+    "wof:lastmodified":1492082146,
     "wof:name":"Robert J Baer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

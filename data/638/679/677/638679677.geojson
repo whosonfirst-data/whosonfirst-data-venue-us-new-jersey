@@ -2,9 +2,14 @@
   "id": 638679677,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Current Dr Newton NJ 07860",
+    "addr:housenumber":"121",
+    "addr:postcode":"07860",
+    "addr:street":"Current Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.69635,41.027319,-74.69635,41.027319",
     "geom:latitude":41.027319,
     "geom:longitude":-74.69635,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85865317,
+        102191575,
+        404478479,
         85633793,
-        85811273,
-        102086779
+        85976255,
+        102086779,
+        85688607,
+        85811273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +52,16 @@
     "wof:geomhash":"b2767219d5028eadc6d71e68d3cbf090",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478479,
+            "locality_id":85976255,
+            "neighbourhood_id":85865317,
+            "region_id":85688607,
+            "venue_id":638679677
+        },
+        {
             "country_id":85633793,
             "county_id":102086779,
             "neighbourhood_id":85811273,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":638679677,
-    "wof:lastmodified":1466688010,
+    "wof:lastmodified":1492076148,
     "wof:name":"Creative Video Concepts",
-    "wof:parent_id":85811273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

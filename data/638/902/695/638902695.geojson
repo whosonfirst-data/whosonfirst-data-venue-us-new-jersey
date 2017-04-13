@@ -2,9 +2,14 @@
   "id": 638902695,
   "type": "Feature",
   "properties": {
+    "addr:full":"0 Pollitt Dr Fair Lawn NJ 07410",
+    "addr:housenumber":"0",
+    "addr:postcode":"07410",
+    "addr:street":"Pollitt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123291,40.943526,-74.123291,40.943526",
     "geom:latitude":40.943526,
     "geom:longitude":-74.123291,
@@ -28,7 +33,15 @@
         "carrie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85854547,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79MFxLmVXbDZxvy8Alu2A7_40.943526_-74.123291@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461282815,
     "wof:geomhash":"9a9130d479e0ee63b06a7e93fee6bda2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "neighbourhood_id":85854547,
+            "region_id":85688607,
+            "venue_id":638902695
+        }
+    ],
     "wof:id":638902695,
-    "wof:lastmodified":1466690185,
+    "wof:lastmodified":1492026309,
     "wof:name":"Jefferson-Pilot",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

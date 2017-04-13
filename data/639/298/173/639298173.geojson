@@ -2,9 +2,14 @@
   "id": 639298173,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Meadow Ln Secaucus NJ 07094",
+    "addr:housenumber":"228",
+    "addr:postcode":"07094",
+    "addr:street":"Meadow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.057512,40.802687,-74.057512,40.802687",
     "geom:latitude":40.802687,
     "geom:longitude":-74.057512,
@@ -28,7 +33,15 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85804149,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vWyJ0TtAIwv9TnEstpBZ7_40.802687_-74.057512@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461291930,
     "wof:geomhash":"05e5435e65bf23c2aa8c4b2fdc429903",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85804149,
+            "region_id":85688607,
+            "venue_id":639298173
+        }
+    ],
     "wof:id":639298173,
-    "wof:lastmodified":1466691091,
+    "wof:lastmodified":1492060935,
     "wof:name":"Integrity Lock",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

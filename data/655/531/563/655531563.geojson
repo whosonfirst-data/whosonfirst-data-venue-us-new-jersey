@@ -2,9 +2,14 @@
   "id": 655531563,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Union St Northvale NJ 07647",
+    "addr:housenumber":"251",
+    "addr:postcode":"07647",
+    "addr:street":"Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.941676,41.009259,-73.941676,41.009259",
     "geom:latitude":41.009259,
     "geom:longitude":-73.941676,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.alextoys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47SCTYkeRPOgxVSDmgnUK8_41.009259_-73.941676@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461310106,
     "wof:geomhash":"a0e1bbbc8529efb041e3755dd4fa79e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655531563
+        }
+    ],
     "wof:id":655531563,
-    "wof:lastmodified":1466679032,
+    "wof:lastmodified":1492051742,
     "wof:name":"Panline USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

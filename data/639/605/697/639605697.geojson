@@ -2,9 +2,14 @@
   "id": 639605697,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Jeffrey Ln Brick NJ 08724",
+    "addr:housenumber":"20",
+    "addr:postcode":"08724",
+    "addr:street":"Jeffrey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146158,40.099419,-74.146158,40.099419",
     "geom:latitude":40.099419,
     "geom:longitude":-74.146158,
@@ -24,7 +29,13 @@
     "sg:postcode":"08724",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zngtbt2tf62GTieSbvpHW_40.099419_-74.146158@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461301951,
     "wof:geomhash":"ddc6132dcf3422abe9d8c3d9ea6cbac6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":639605697
+        }
+    ],
     "wof:id":639605697,
-    "wof:lastmodified":1466696688,
+    "wof:lastmodified":1492056018,
     "wof:name":"Jay Blue Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

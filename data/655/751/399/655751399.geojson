@@ -2,9 +2,14 @@
   "id": 655751399,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 S 16th St Newark NJ 07108",
+    "addr:housenumber":"823",
+    "addr:postcode":"07108",
+    "addr:street":"S 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21185,40.726926,-74.21185,40.726926",
     "geom:latitude":40.726926,
     "geom:longitude":-74.21185,
@@ -24,7 +29,14 @@
     "sg:postcode":"07108",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PHW0S8r8h9CMr9Fu6EFKd_40.726926_-74.211850@1303262261"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319335,
     "wof:geomhash":"0b603c3b9534414812cd8512c438cf14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":655751399
+        }
+    ],
     "wof:id":655751399,
-    "wof:lastmodified":1466685580,
+    "wof:lastmodified":1492027774,
     "wof:name":"Newark Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

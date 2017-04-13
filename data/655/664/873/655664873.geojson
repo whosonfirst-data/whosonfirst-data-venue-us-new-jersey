@@ -2,9 +2,14 @@
   "id": 655664873,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Mansfield St Belvidere NJ 07823",
+    "addr:housenumber":"228",
+    "addr:postcode":"07823",
+    "addr:street":"Mansfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077301,40.8265,-75.077301,40.8265",
     "geom:latitude":40.8265,
     "geom:longitude":-75.077301,
@@ -27,7 +32,14 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FECTYOZ6zdzApKTSmLroX_40.826842_-75.077299@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315807,
     "wof:geomhash":"0dbc17c7f79c202de4d25f85e7b855a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655664873
+        }
+    ],
     "wof:id":655664873,
-    "wof:lastmodified":1466683433,
+    "wof:lastmodified":1492048111,
     "wof:name":"Uncommon Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

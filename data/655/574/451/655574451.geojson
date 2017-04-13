@@ -2,9 +2,14 @@
   "id": 655574451,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Botany St Garfield NJ 07026",
+    "addr:housenumber":"28",
+    "addr:postcode":"07026",
+    "addr:street":"Botany St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115184,40.876239,-74.115184,40.876239",
     "geom:latitude":40.876239,
     "geom:longitude":-74.115184,
@@ -30,7 +35,14 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Vsi7pXpuDNUsDwHWxvo5d_40.876239_-74.115184@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461311925,
     "wof:geomhash":"d9c578efb03914581aad58a4787a9434",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655574451
+        }
+    ],
     "wof:id":655574451,
-    "wof:lastmodified":1466680137,
+    "wof:lastmodified":1492048651,
     "wof:name":"Tri State Diesel Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

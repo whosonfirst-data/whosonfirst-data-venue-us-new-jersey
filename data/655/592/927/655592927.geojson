@@ -2,9 +2,14 @@
   "id": 655592927,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Highfield Rd Skillman NJ 08558",
+    "addr:housenumber":"28",
+    "addr:postcode":"08558",
+    "addr:street":"Highfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.692224,40.425193,-74.692224,40.425193",
     "geom:latitude":40.425193,
     "geom:longitude":-74.692224,
@@ -29,7 +34,13 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CAt0QNQqHVo50r6PAjpSn_40.425193_-74.692224@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461312707,
     "wof:geomhash":"f06dfb0bd38ce525ce4ea2498c56e507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655592927
+        }
+    ],
     "wof:id":655592927,
-    "wof:lastmodified":1466680945,
+    "wof:lastmodified":1492045282,
     "wof:name":"Tae KWON Do For Body & Mind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

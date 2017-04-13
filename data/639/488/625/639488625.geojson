@@ -2,9 +2,14 @@
   "id": 639488625,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Maple Ave Fair Lawn NJ 07410",
+    "addr:housenumber":"21",
+    "addr:postcode":"07410",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138183,40.948701,-74.138183,40.948701",
     "geom:latitude":40.948701,
     "geom:longitude":-74.138183,
@@ -27,7 +32,14 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ub7B9BFh6F2yuJuKRXtcO_40.948701_-74.138183@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296976,
     "wof:geomhash":"f47b6871e6624dc17f8cdba0c2c7eb66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639488625
+        }
+    ],
     "wof:id":639488625,
-    "wof:lastmodified":1466694387,
+    "wof:lastmodified":1492041660,
     "wof:name":"Fair Lawn Memorial Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639411605,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"39",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.0008,40.810182,-74.0008,40.810182",
     "geom:latitude":40.810182,
     "geom:longitude":-74.0008,
@@ -27,7 +32,14 @@
         "barbecue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KvHACOfrZRcOhS4nwWuj3_40.810182_-74.000800@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294519,
     "wof:geomhash":"ff0016c713fe72706d5b766ec04d8e82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639411605
+        }
+    ],
     "wof:id":639411605,
-    "wof:lastmodified":1466693146,
+    "wof:lastmodified":1492067923,
     "wof:name":"Fairview Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

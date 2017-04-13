@@ -2,9 +2,14 @@
   "id": 639503913,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"120",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255501,40.74524,-74.255501,40.74524",
     "geom:latitude":40.74524,
     "geom:longitude":-74.255501,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OOORkWpOqVCRSfbjhFGoq_40.745240_-74.255501@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297580,
     "wof:geomhash":"511e4118cfcec89e55beae4fe259de11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639503913
+        }
+    ],
     "wof:id":639503913,
-    "wof:lastmodified":1466694847,
+    "wof:lastmodified":1492051040,
     "wof:name":"Center-Gynecologic Oncology",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

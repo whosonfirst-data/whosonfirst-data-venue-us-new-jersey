@@ -2,9 +2,14 @@
   "id": 638959861,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Carlton Ter Union NJ 07083",
+    "addr:housenumber":"1206",
+    "addr:postcode":"07083",
+    "addr:street":"Carlton Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289631,40.710508,-74.289631,40.710508",
     "geom:latitude":40.710508,
     "geom:longitude":-74.289631,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aJdHQShr6juI77K2MoTb4_40.710508_-74.289631@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461284237,
     "wof:geomhash":"e2fc7459e1f69117f424d28f31d6a9f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":638959861
+        }
+    ],
     "wof:id":638959861,
-    "wof:lastmodified":1466691537,
+    "wof:lastmodified":1492076776,
     "wof:name":"Ravirjen Management Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

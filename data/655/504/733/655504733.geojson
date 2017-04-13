@@ -2,9 +2,14 @@
   "id": 655504733,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 E Main St Wrightstown NJ 08562",
+    "addr:housenumber":"311",
+    "addr:postcode":"08562",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.608418,40.036423,-74.608418,40.036423",
     "geom:latitude":40.036423,
     "geom:longitude":-74.608418,
@@ -28,7 +33,10 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EzEczCMCEyq2oKoUR7sfT_40.036423_-74.608418@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309050,
     "wof:geomhash":"bea8cf42db7222dd9d302562726f5de3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":655504733
+        }
+    ],
     "wof:id":655504733,
-    "wof:lastmodified":1466678278,
+    "wof:lastmodified":1492045064,
     "wof:name":"Hidden Gardens",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

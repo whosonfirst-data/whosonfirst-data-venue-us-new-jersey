@@ -2,9 +2,14 @@
   "id": 639129993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1362 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1362",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244606,40.688164,-74.244606,40.688164",
     "geom:latitude":40.688164,
     "geom:longitude":-74.244606,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kdXzrzhduRRTVZorJkFDz_40.688164_-74.244606@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288081,
     "wof:geomhash":"9fbac3dfe74207f3532c4e1e6f7cca82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639129993
+        }
+    ],
     "wof:id":639129993,
-    "wof:lastmodified":1466678343,
+    "wof:lastmodified":1492076940,
     "wof:name":"Dental Associates Of Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

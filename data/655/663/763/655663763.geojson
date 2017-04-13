@@ -2,9 +2,14 @@
   "id": 655663763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1199 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1199",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.311401,40.629601,-74.311401,40.629601",
     "geom:latitude":40.629601,
     "geom:longitude":-74.311401,
@@ -28,7 +33,13 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23aaTENTj3KTCWPfxxEEW6_40.629499_-74.311365@1293134755"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461315764,
     "wof:geomhash":"86222b6885e3ff328d1e78a959915c1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655663763
+        }
+    ],
     "wof:id":655663763,
-    "wof:lastmodified":1466683389,
+    "wof:lastmodified":1492027696,
     "wof:name":"Tarantella's Ristorante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

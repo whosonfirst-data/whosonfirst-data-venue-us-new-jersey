@@ -2,9 +2,14 @@
   "id": 655807781,
   "type": "Feature",
   "properties": {
+    "addr:full":"4397 Route 130 S Burlington NJ 08016",
+    "addr:housenumber":"4397",
+    "addr:postcode":"08016",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888766,40.056203,-74.888766,40.056203",
     "geom:latitude":40.056203,
     "geom:longitude":-74.888766,
@@ -37,7 +42,10 @@
     ],
     "sg:website":"http://www.toyota.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ilRMGFq6tFF4qPn2dQEbH_40.056203_-74.888766@1303262275"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461321692,
     "wof:geomhash":"27ebbe1aad93ca5f78bfd8e610189c32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655807781
+        }
+    ],
     "wof:id":655807781,
-    "wof:lastmodified":1466687229,
+    "wof:lastmodified":1492049202,
     "wof:name":"Liberty Toyota Scion",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

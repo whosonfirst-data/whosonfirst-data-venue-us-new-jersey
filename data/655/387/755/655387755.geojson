@@ -2,9 +2,14 @@
   "id": 655387755,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 E County Line Rd Lakewood NJ 08701",
+    "addr:housenumber":"911",
+    "addr:postcode":"08701",
+    "addr:street":"E County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2011,40.104995,-74.2011,40.104995",
     "geom:latitude":40.104995,
     "geom:longitude":-74.2011,
@@ -29,7 +34,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TFk9WxOs5Ffw7lFSuX313_40.104995_-74.201100@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461304114,
     "wof:geomhash":"63f61760f82033f074c96caee059833d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655387755
+        }
+    ],
     "wof:id":655387755,
-    "wof:lastmodified":1466675182,
+    "wof:lastmodified":1492056022,
     "wof:name":"West Long Branch Ob Gyn",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

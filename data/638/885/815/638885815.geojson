@@ -2,9 +2,14 @@
   "id": 638885815,
   "type": "Feature",
   "properties": {
+    "addr:full":"289 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"289",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978089,40.774763,-74.978089,40.774763",
     "geom:latitude":40.774763,
     "geom:longitude":-74.978089,
@@ -29,7 +34,10 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZwmHYWlruVTx0JLYbGbyD_40.774763_-74.978089@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461282360,
     "wof:geomhash":"36f05e7b2b7b6ca94dc1d17985097d33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638885815
+        }
+    ],
     "wof:id":638885815,
-    "wof:lastmodified":1466689887,
+    "wof:lastmodified":1492028584,
     "wof:name":"Washngtn Twp RE Holdg Co",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

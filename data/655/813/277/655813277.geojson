@@ -2,9 +2,14 @@
   "id": 655813277,
   "type": "Feature",
   "properties": {
+    "addr:full":"4390 Route 130 Willingboro NJ 08046",
+    "addr:housenumber":"4390",
+    "addr:postcode":"08046",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888196,40.05645,-74.888196,40.05645",
     "geom:latitude":40.05645,
     "geom:longitude":-74.888196,
@@ -38,7 +43,10 @@
     ],
     "sg:website":"http://www.dollartree.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SU9KYfqFYqpsfBaGlsDep_40.056450_-74.888196@1303262276"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461321958,
     "wof:geomhash":"42f9d87f7ea4e63ae89a91a118950830",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655813277
+        }
+    ],
     "wof:id":655813277,
-    "wof:lastmodified":1466687187,
+    "wof:lastmodified":1492070318,
     "wof:name":"Dollar Tree",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

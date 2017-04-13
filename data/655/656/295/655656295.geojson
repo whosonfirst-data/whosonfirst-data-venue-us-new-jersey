@@ -2,9 +2,14 @@
   "id": 655656295,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Piermont Rd Cresskill NJ 07626",
+    "addr:housenumber":"325",
+    "addr:postcode":"07626",
+    "addr:street":"Piermont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961413,40.948237,-73.961413,40.948237",
     "geom:latitude":40.948237,
     "geom:longitude":-73.961413,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.cresskillboro.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_098AzQV5VWi4YRtqLhgf3n_40.948343_-73.961480@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461315436,
     "wof:geomhash":"5e1271036ac40c1c4f99ff6b3861e5ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655656295
+        }
+    ],
     "wof:id":655656295,
-    "wof:lastmodified":1466683105,
+    "wof:lastmodified":1492060520,
     "wof:name":"Cresskill Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

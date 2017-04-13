@@ -2,9 +2,14 @@
   "id": 638698393,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Apache Ln Brick NJ 08724",
+    "addr:housenumber":"311",
+    "addr:postcode":"08724",
+    "addr:street":"Apache Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.104399,40.058674,-74.104399,40.058674",
     "geom:latitude":40.058674,
     "geom:longitude":-74.104399,
@@ -24,7 +29,10 @@
     "sg:postcode":"08724",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WQy7SA4DEBmASonaSfRJg_40.058674_-74.104399@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461277477,
     "wof:geomhash":"4cb17c907b349028cf659351a08e8a7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":638698393
+        }
+    ],
     "wof:id":638698393,
-    "wof:lastmodified":1466688475,
+    "wof:lastmodified":1492065590,
     "wof:name":"Thomas Malhame",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

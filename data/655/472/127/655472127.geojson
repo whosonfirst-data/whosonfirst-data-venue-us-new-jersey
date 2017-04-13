@@ -2,9 +2,14 @@
   "id": 655472127,
   "type": "Feature",
   "properties": {
+    "addr:full":"254 Buckley Ave Oxford NJ 07863",
+    "addr:housenumber":"254",
+    "addr:postcode":"07863",
+    "addr:street":"Buckley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.020321,40.797536,-75.020321,40.797536",
     "geom:latitude":40.797536,
     "geom:longitude":-75.020321,
@@ -29,7 +34,10 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YI8pGnAFVR7YVK8q0PLjx_40.797536_-75.020321@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461307680,
     "wof:geomhash":"6ad3ed4878cc7924901ce439a929ac6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527755,
+            "venue_id":655472127
+        }
+    ],
     "wof:id":655472127,
-    "wof:lastmodified":1466677333,
+    "wof:lastmodified":1492029480,
     "wof:name":"Pond Builders",
     "wof:parent_id":420527755,
     "wof:placetype":"venue",

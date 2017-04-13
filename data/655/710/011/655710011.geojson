@@ -2,9 +2,14 @@
   "id": 655710011,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Walker St Fairview NJ 07022",
+    "addr:housenumber":"405",
+    "addr:postcode":"07022",
+    "addr:street":"Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99678,40.817738,-73.99678,40.817738",
     "geom:latitude":40.817738,
     "geom:longitude":-73.99678,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uraDFA0zPfLxlQxVuwpcP_40.817738_-73.996780@1303262251"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317766,
     "wof:geomhash":"17cde9be670397f699cfcdbf9c818d66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655710011
+        }
+    ],
     "wof:id":655710011,
-    "wof:lastmodified":1466684433,
+    "wof:lastmodified":1492058478,
     "wof:name":"AAA Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

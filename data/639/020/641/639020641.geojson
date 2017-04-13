@@ -2,9 +2,14 @@
   "id": 639020641,
   "type": "Feature",
   "properties": {
+    "addr:full":"646 Montgomery Rd Hillsborough NJ 08844",
+    "addr:housenumber":"646",
+    "addr:postcode":"08844",
+    "addr:street":"Montgomery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.747919,40.455284,-74.747919,40.455284",
     "geom:latitude":40.455284,
     "geom:longitude":-74.747919,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cbtC5Tqw9DAdhJsohDpQ4_40.455284_-74.747919@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461285563,
     "wof:geomhash":"7cc1d2a038189a053a12a8b0aba1a866",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527615,
+            "venue_id":639020641
+        }
+    ],
     "wof:id":639020641,
-    "wof:lastmodified":1466673602,
+    "wof:lastmodified":1492030596,
     "wof:name":"21st Cntury Internet Solutions",
     "wof:parent_id":420527615,
     "wof:placetype":"venue",

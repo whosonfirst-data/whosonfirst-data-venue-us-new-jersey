@@ -2,9 +2,14 @@
   "id": 639012453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 W Blancke St Linden NJ 07036",
+    "addr:housenumber":"1800",
+    "addr:postcode":"07036",
+    "addr:street":"W Blancke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268317,40.620048,-74.268317,40.620048",
     "geom:latitude":40.620048,
     "geom:longitude":-74.268317,
@@ -29,7 +34,16 @@
         "printing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995,
+        404478503,
+        85975837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gyYkF6QjoB7GtphgxEiPh_40.620048_-74.268317@1294171694"
@@ -37,9 +51,28 @@
     "wof:country":"US",
     "wof:created":1461285395,
     "wof:geomhash":"7e8ce9a10b03eec6591747ebe248ffd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639012453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":639012453
+        }
+    ],
     "wof:id":639012453,
-    "wof:lastmodified":1466673342,
+    "wof:lastmodified":1492041322,
     "wof:name":"Screen Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

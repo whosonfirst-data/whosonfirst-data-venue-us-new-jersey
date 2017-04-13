@@ -2,9 +2,14 @@
   "id": 655533883,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Haggerty Rd Sussex NJ 07461",
+    "addr:housenumber":"28",
+    "addr:postcode":"07461",
+    "addr:street":"Haggerty Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.661919,41.195914,-74.661919,41.195914",
     "geom:latitude":41.195914,
     "geom:longitude":-74.661919,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QwDSu6pMAEl10qVcErhjv_41.195914_-74.661919@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310197,
     "wof:geomhash":"b94f4a22aab6fded6148a619a9c89cfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527623,
+            "venue_id":655533883
+        }
+    ],
     "wof:id":655533883,
-    "wof:lastmodified":1466679116,
+    "wof:lastmodified":1492048438,
     "wof:name":"Storms Plumbing & Heating",
     "wof:parent_id":420527623,
     "wof:placetype":"venue",

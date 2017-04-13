@@ -2,9 +2,14 @@
   "id": 655769003,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Mountain Ave Wyckoff NJ 07481",
+    "addr:housenumber":"625",
+    "addr:postcode":"07481",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172752,40.986771,-74.172752,40.986771",
     "geom:latitude":40.986771,
     "geom:longitude":-74.172752,
@@ -28,7 +33,13 @@
         "record"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oSNi61X6l5FiousFTqHqs_40.986771_-74.172752@1303262265"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461320038,
     "wof:geomhash":"616fece8a1479508ac8aed5946af3fc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":655769003
+        }
+    ],
     "wof:id":655769003,
-    "wof:lastmodified":1466685992,
+    "wof:lastmodified":1492027637,
     "wof:name":"Litmed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

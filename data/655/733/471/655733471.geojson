@@ -2,9 +2,14 @@
   "id": 655733471,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Central Ave Ste 200 Clark NJ 07066",
+    "addr:housenumber":"77",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307583,40.628918,-74.307583,40.628918",
     "geom:latitude":40.628918,
     "geom:longitude":-74.307583,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.primerica.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w5X99UJMpkVmXsX0u6pZf_40.628918_-74.307583@1303262257"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461318662,
     "wof:geomhash":"0e7563e95c7156a64f238cbe46a48b64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733471
+        }
+    ],
     "wof:id":655733471,
-    "wof:lastmodified":1466685138,
+    "wof:lastmodified":1492048156,
     "wof:name":"Primerica Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

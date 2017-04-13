@@ -2,9 +2,14 @@
   "id": 639505175,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"64",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620736,40.301101,-74.620736,40.301101",
     "geom:latitude":40.301101,
     "geom:longitude":-74.620736,
@@ -24,7 +29,10 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y0nBZDHhirJHjMLLSEcuq_40.301101_-74.620736@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461297633,
     "wof:geomhash":"41d8ad8094fcee5f4d5d65b3bcd769da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":639505175
+        }
+    ],
     "wof:id":639505175,
-    "wof:lastmodified":1466694681,
+    "wof:lastmodified":1492041614,
     "wof:name":"Summit Bank",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

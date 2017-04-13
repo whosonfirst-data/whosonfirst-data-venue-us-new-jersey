@@ -2,9 +2,14 @@
   "id": 655789911,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"116",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73095,41.089679,-74.73095,41.089679",
     "geom:latitude":41.089679,
     "geom:longitude":-74.73095,
@@ -34,7 +39,10 @@
     ],
     "sg:website":"http://www.newtonvet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0njre2TQPcdy55VpRwv4IB_41.089679_-74.730950@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320975,
     "wof:geomhash":"3a4b95a3ff1b6b689100461b4745b975",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655789911
+        }
+    ],
     "wof:id":655789911,
-    "wof:lastmodified":1466686752,
+    "wof:lastmodified":1492070867,
     "wof:name":"Newton Veterinary Hospital",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

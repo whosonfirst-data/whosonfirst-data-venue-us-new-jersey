@@ -2,9 +2,14 @@
   "id": 638838101,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 US Hwy 206 Newton NJ 07860",
+    "addr:housenumber":"51",
+    "addr:postcode":"07860",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735895,41.080211,-74.735895,41.080211",
     "geom:latitude":41.080211,
     "geom:longitude":-74.735895,
@@ -29,7 +34,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X9JLg6pBymNUsUAqLPzZ6_41.080211_-74.735895@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461281192,
     "wof:geomhash":"e0e2b6f2a5630487eb830f6442a44e22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":638838101
+        }
+    ],
     "wof:id":638838101,
-    "wof:lastmodified":1466689020,
+    "wof:lastmodified":1492023460,
     "wof:name":"Hampton Automotive Inc",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

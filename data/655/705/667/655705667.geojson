@@ -2,9 +2,14 @@
   "id": 655705667,
   "type": "Feature",
   "properties": {
+    "addr:full":"955 Allwood Rd Clifton NJ 07012",
+    "addr:housenumber":"955",
+    "addr:postcode":"07012",
+    "addr:street":"Allwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175968,40.854478,-74.175968,40.854478",
     "geom:latitude":40.854478,
     "geom:longitude":-74.175968,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"www.blisslounge.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rYb7DPqXmPnzM4B5bMHWF_40.854478_-74.175968@1303262250"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461317591,
     "wof:geomhash":"ec91344f5e361bdc46c2ac91e2be4047",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655705667
+        }
+    ],
     "wof:id":655705667,
-    "wof:lastmodified":1466684466,
+    "wof:lastmodified":1492027736,
     "wof:name":"Bliss Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

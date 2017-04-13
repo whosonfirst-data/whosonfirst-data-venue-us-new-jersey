@@ -2,9 +2,14 @@
   "id": 639457549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 Roosevelt Ave Carteret NJ 07008",
+    "addr:housenumber":"1510",
+    "addr:postcode":"07008",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25204,40.595633,-74.25204,40.595633",
     "geom:latitude":40.595633,
     "geom:longitude":-74.25204,
@@ -27,7 +32,14 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478217,
+        85633793,
+        85976297,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jvqZueHO9SMJYA150DfFR_40.595633_-74.252040@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295709,
     "wof:geomhash":"9383dd99b28e6cb3722419084bcd7e0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976297,
+            "region_id":85688607,
+            "venue_id":639457549
+        }
+    ],
     "wof:id":639457549,
-    "wof:lastmodified":1466693705,
+    "wof:lastmodified":1492042307,
     "wof:name":"Medical Billing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639516209,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Prairie Dunes Ct Skillman NJ 08558",
+    "addr:housenumber":"7",
+    "addr:postcode":"08558",
+    "addr:street":"Prairie Dunes Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.707269,40.397057,-74.707269,40.397057",
     "geom:latitude":40.397057,
     "geom:longitude":-74.707269,
@@ -28,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZKuWTDPvkwj6VGYDybTHb_40.397057_-74.707269@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298123,
     "wof:geomhash":"e837b8bc71b18bb8afc77047d027301d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":639516209
+        }
+    ],
     "wof:id":639516209,
-    "wof:lastmodified":1466695198,
+    "wof:lastmodified":1492042573,
     "wof:name":"Gould Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

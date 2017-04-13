@@ -2,9 +2,14 @@
   "id": 638884731,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Old Orchard Rd Cherry Hill NJ 08003",
+    "addr:housenumber":"623",
+    "addr:postcode":"08003",
+    "addr:street":"Old Orchard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.943598,39.889678,-74.943598,39.889678",
     "geom:latitude":39.889678,
     "geom:longitude":-74.943598,
@@ -24,7 +29,15 @@
     "sg:postcode":"08003",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85809235,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pTLptpQjKD8z3kl3OlPDD_39.889678_-74.943598@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461282328,
     "wof:geomhash":"693935bcca86fbfe42195889a4a65fad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "neighbourhood_id":85809235,
+            "region_id":85688607,
+            "venue_id":638884731
+        }
+    ],
     "wof:id":638884731,
-    "wof:lastmodified":1466689945,
+    "wof:lastmodified":1492052216,
     "wof:name":"Patel Prag Esq PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

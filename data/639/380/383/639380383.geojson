@@ -2,9 +2,14 @@
   "id": 639380383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1173 Clinton Ave Irvington NJ 07111",
+    "addr:housenumber":"1173",
+    "addr:postcode":"07111",
+    "addr:street":"Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243979,40.730653,-74.243979,40.730653",
     "geom:latitude":40.730653,
     "geom:longitude":-74.243979,
@@ -27,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_437hx1rRokLptrVzWGXGWi_40.730653_-74.243979@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293642,
     "wof:geomhash":"c13a5b5ddb5db580a1d627d6f40f9ac0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":639380383
+        }
+    ],
     "wof:id":639380383,
-    "wof:lastmodified":1466692743,
+    "wof:lastmodified":1492061011,
     "wof:name":"Clinton Avenue Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

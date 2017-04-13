@@ -2,9 +2,14 @@
   "id": 655533381,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Wildwood Rd W Northvale NJ 07647",
+    "addr:housenumber":"607",
+    "addr:postcode":"07647",
+    "addr:street":"Wildwood Rd W Northvale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961828,41.014285,-73.961828,41.014285",
     "geom:latitude":41.014285,
     "geom:longitude":-73.961828,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L1zs9f82o5n96FJIrS8TG_41.014285_-73.961828@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310180,
     "wof:geomhash":"6fd702757f153e05529a6c8d2d8843d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655533381
+        }
+    ],
     "wof:id":655533381,
-    "wof:lastmodified":1466678983,
+    "wof:lastmodified":1492076932,
     "wof:name":"Clarke Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

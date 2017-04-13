@@ -2,9 +2,14 @@
   "id": 639064307,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Ludlow Ave Spring Lake NJ 07762",
+    "addr:housenumber":"101",
+    "addr:postcode":"07762",
+    "addr:street":"Ludlow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025672,40.15942,-74.025672,40.15942",
     "geom:latitude":40.15942,
     "geom:longitude":-74.025672,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478393,
+        85633793,
+        85975397,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mb8re5OoJDL6i6IuQiMrO_40.159420_-74.025672@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286567,
     "wof:geomhash":"d0763144502b557de726ee1c8f6658b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478393,
+            "locality_id":85975397,
+            "region_id":85688607,
+            "venue_id":639064307
+        }
+    ],
     "wof:id":639064307,
-    "wof:lastmodified":1466688118,
+    "wof:lastmodified":1492018852,
     "wof:name":"Fountain Nine Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

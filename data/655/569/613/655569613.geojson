@@ -2,9 +2,14 @@
   "id": 655569613,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Knickerbocker Rd Cresskill NJ 07626",
+    "addr:housenumber":"324",
+    "addr:postcode":"07626",
+    "addr:street":"Knickerbocker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976431,40.944132,-73.976431,40.944132",
     "geom:latitude":40.944132,
     "geom:longitude":-73.976431,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FKKIOyrPvQkr8A2SU2IYP_40.944132_-73.976431@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311694,
     "wof:geomhash":"eb72154bc8606c4854baa2392d46bdf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655569613
+        }
+    ],
     "wof:id":655569613,
-    "wof:lastmodified":1466680107,
+    "wof:lastmodified":1492053627,
     "wof:name":"Sky Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638916005,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Park Ave Ridgefield Park NJ 07660",
+    "addr:housenumber":"2",
+    "addr:postcode":"07660",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.020212,40.865348,-74.020212,40.865348",
     "geom:latitude":40.865348,
     "geom:longitude":-74.020212,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85856549,
+        102191575,
+        404477545,
         85633793,
-        85892521,
-        102086773
+        85975997,
+        102086773,
+        85688607,
+        85892521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +52,16 @@
     "wof:geomhash":"23f9f09bd6f7f9db046ccd4b5c8d2f2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477545,
+            "locality_id":85975997,
+            "neighbourhood_id":85856549,
+            "region_id":85688607,
+            "venue_id":638916005
+        },
+        {
             "country_id":85633793,
             "county_id":102086773,
             "neighbourhood_id":85892521,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":638916005,
-    "wof:lastmodified":1466690445,
+    "wof:lastmodified":1492041227,
     "wof:name":"Neil Nathan",
-    "wof:parent_id":85892521,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639244763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1985 Swarthmore Ave Lakewood NJ 08701",
+    "addr:housenumber":"1985",
+    "addr:postcode":"08701",
+    "addr:street":"Swarthmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172007,40.071887,-74.172007,40.071887",
     "geom:latitude":40.071887,
     "geom:longitude":-74.172007,
@@ -24,7 +29,11 @@
     "sg:postcode":"08701",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uuIn2w9ZV84sFxrQKbyCB_40.071887_-74.172007@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461290714,
     "wof:geomhash":"7abc978f871e6902e61eb94f046bfde6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639244763
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639244763
+        }
+    ],
     "wof:id":639244763,
-    "wof:lastmodified":1466690304,
+    "wof:lastmodified":1492070198,
     "wof:name":"Dudley Corp",
-    "wof:parent_id":420527407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

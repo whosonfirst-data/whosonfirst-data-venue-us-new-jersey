@@ -2,9 +2,14 @@
   "id": 655789231,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 Willow Grove St Ste A Hackettstown NJ 07840",
+    "addr:housenumber":"651",
+    "addr:postcode":"07840",
+    "addr:street":"Willow Grove St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.814339,40.86113,-74.814339,40.86113",
     "geom:latitude":40.86113,
     "geom:longitude":-74.814339,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"http://www.hch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ctBMCHd4H4ZzwVuHYl5w2_40.861130_-74.814339@1303262270"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461320948,
     "wof:geomhash":"0f3fcda4a80ab687eef85c3b509203f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":655789231
+        }
+    ],
     "wof:id":655789231,
-    "wof:lastmodified":1466686578,
+    "wof:lastmodified":1492070864,
     "wof:name":"Hackettstown Regional Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

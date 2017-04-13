@@ -2,9 +2,14 @@
   "id": 655639757,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Western Pkwy Irvington NJ 07111",
+    "addr:housenumber":"5",
+    "addr:postcode":"07111",
+    "addr:street":"Western Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218998,40.736497,-74.218998,40.736497",
     "geom:latitude":40.736497,
     "geom:longitude":-74.218998,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GALWA5ATNzyq1iUbquVq9_40.736497_-74.218998@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314752,
     "wof:geomhash":"f38d08ca9654a65b54d88418dd3b078f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655639757
+        }
+    ],
     "wof:id":655639757,
-    "wof:lastmodified":1466682568,
+    "wof:lastmodified":1492045696,
     "wof:name":"Leslies Ice Cream Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

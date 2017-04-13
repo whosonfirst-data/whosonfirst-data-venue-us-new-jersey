@@ -2,9 +2,14 @@
   "id": 655596109,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Railroad Ave Phillipsburg NJ 08865",
+    "addr:housenumber":"38",
+    "addr:postcode":"08865",
+    "addr:street":"Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187444,40.690781,-75.187444,40.690781",
     "geom:latitude":40.690781,
     "geom:longitude":-75.187444,
@@ -24,7 +29,14 @@
     "sg:postcode":"08865",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B2wTAvI8VFINNeuACTkjm_40.690781_-75.187444@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461312837,
     "wof:geomhash":"a12f763ee095a2fc68d8e418e5ab972d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655596109
+        }
+    ],
     "wof:id":655596109,
-    "wof:lastmodified":1466680743,
+    "wof:lastmodified":1492069849,
     "wof:name":"Roy Anders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

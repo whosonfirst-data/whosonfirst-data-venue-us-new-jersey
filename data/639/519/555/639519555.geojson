@@ -2,9 +2,14 @@
   "id": 639519555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1603 Ocean Ave Belmar NJ 07719",
+    "addr:housenumber":"1603",
+    "addr:postcode":"07719",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.015531,40.172123,-74.015531,40.172123",
     "geom:latitude":40.172123,
     "geom:longitude":-74.015531,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wl5heulghc5bV09mBK75Y_40.172123_-74.015531@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298273,
     "wof:geomhash":"db6558865571aa1223cdf8dd6cd02112",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639519555
+        }
+    ],
     "wof:id":639519555,
-    "wof:lastmodified":1466695056,
+    "wof:lastmodified":1492040372,
     "wof:name":"3 Brothers From Italy Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

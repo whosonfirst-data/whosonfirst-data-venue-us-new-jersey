@@ -2,9 +2,14 @@
   "id": 655436559,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Charles Pl Old Tappan NJ 07675",
+    "addr:housenumber":"30",
+    "addr:postcode":"07675",
+    "addr:street":"Charles Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985557,41.010341,-73.985557,41.010341",
     "geom:latitude":41.010341,
     "geom:longitude":-73.985557,
@@ -28,7 +33,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o3h9uaY0y61YlrbQP9mPm_41.010341_-73.985557@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306167,
     "wof:geomhash":"f3b6c514ebd9b2f813c9ef24b3157813",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":655436559
+        }
+    ],
     "wof:id":655436559,
-    "wof:lastmodified":1466676439,
+    "wof:lastmodified":1492043697,
     "wof:name":"H & R Tech Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655756165,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Newark Ave Elizabeth NJ 07208",
+    "addr:housenumber":"800",
+    "addr:postcode":"07208",
+    "addr:street":"Newark Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.208527,40.681438,-74.208527,40.681438",
     "geom:latitude":40.681438,
     "geom:longitude":-74.208527,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LXlWCxhlT5B1sL0vMV61x_40.681438_-74.208527@1303262262"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461319504,
     "wof:geomhash":"dc0aad363ada102f5e69931a359aa83c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655756165
+        }
+    ],
     "wof:id":655756165,
-    "wof:lastmodified":1466685759,
+    "wof:lastmodified":1492025473,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

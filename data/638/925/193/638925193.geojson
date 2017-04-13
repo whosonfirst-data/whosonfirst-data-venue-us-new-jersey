@@ -2,9 +2,14 @@
   "id": 638925193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1799 Klockner Rd Trenton NJ 08619",
+    "addr:housenumber":"1799",
+    "addr:postcode":"08619",
+    "addr:street":"Klockner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.690601,40.226169,-74.690601,40.226169",
     "geom:latitude":40.226169,
     "geom:longitude":-74.690601,
@@ -24,7 +29,16 @@
     "sg:postcode":"08619",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527145,
+        85838551,
+        102191575,
+        404478251,
+        85976399,
+        102081129,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CyvtVTvlLLKAh91BG9rN8_40.226169_-74.690601@1294171694"
@@ -32,11 +46,27 @@
     "wof:country":"US",
     "wof:created":1461283398,
     "wof:geomhash":"0993ad7d456cec6c4e66ef67d5b54690",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527145,
+            "venue_id":638925193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976399,
+            "neighbourhood_id":85838551,
+            "region_id":85688607,
+            "venue_id":638925193
+        }
+    ],
     "wof:id":638925193,
-    "wof:lastmodified":1466690809,
+    "wof:lastmodified":1492046349,
     "wof:name":"Southern Nj Dist Council",
-    "wof:parent_id":420527145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

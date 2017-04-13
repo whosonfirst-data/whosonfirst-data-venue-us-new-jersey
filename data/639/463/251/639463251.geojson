@@ -2,9 +2,14 @@
   "id": 639463251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Chester St Fair Lawn NJ 07410",
+    "addr:housenumber":"1",
+    "addr:postcode":"07410",
+    "addr:street":"Chester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135218,40.943152,-74.135218,40.943152",
     "geom:latitude":40.943152,
     "geom:longitude":-74.135218,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57WIHmQ2Ce6yPwb0hWxI0H_40.943152_-74.135218@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295933,
     "wof:geomhash":"4de7040b3db2f2b441252fb0c8ae66d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639463251
+        }
+    ],
     "wof:id":639463251,
-    "wof:lastmodified":1466693848,
+    "wof:lastmodified":1492042326,
     "wof:name":"Fair Mountain Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638782375,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Bayside Dr Atlantic Hghlnds NJ 07716",
+    "addr:housenumber":"145",
+    "addr:postcode":"07716",
+    "addr:street":"Bayside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.003293,40.408215,-74.003293,40.408215",
     "geom:latitude":40.408215,
     "geom:longitude":-74.003293,
@@ -31,7 +36,10 @@
         85688607,
         85633793,
         85854751,
-        102085049
+        102085049,
+        102191575,
+        85975375,
+        85825733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +55,21 @@
             "neighbourhood_id":85854751,
             "region_id":85688607,
             "venue_id":638782375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85975375,
+            "neighbourhood_id":85825733,
+            "region_id":85688607,
+            "venue_id":638782375
         }
     ],
     "wof:id":638782375,
-    "wof:lastmodified":1466683290,
+    "wof:lastmodified":1492018627,
     "wof:name":"Metro Data Corp",
-    "wof:parent_id":85854751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

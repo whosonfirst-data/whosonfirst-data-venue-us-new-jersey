@@ -2,9 +2,14 @@
   "id": 638632963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1188 State Rte 88 Lakewood NJ 08701",
+    "addr:housenumber":"1188",
+    "addr:postcode":"08701",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.176332,40.085277,-74.176332,40.085277",
     "geom:latitude":40.085277,
     "geom:longitude":-74.176332,
@@ -29,7 +34,11 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DuOIzGaFK9yQ1HmnZkmkW_40.085277_-74.176332@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461275310,
     "wof:geomhash":"3c9609e83f52fb1817a42d0dbb7fc922",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":638632963
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":638632963
+        }
+    ],
     "wof:id":638632963,
-    "wof:lastmodified":1466673388,
+    "wof:lastmodified":1492047659,
     "wof:name":"Allstar Auto Body",
-    "wof:parent_id":420527407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

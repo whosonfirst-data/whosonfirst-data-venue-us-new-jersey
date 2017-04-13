@@ -2,9 +2,14 @@
   "id": 655476883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Mill Run W Hightstown NJ 08520",
+    "addr:housenumber":"1",
+    "addr:postcode":"08520",
+    "addr:street":"Mill Run W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517725,40.275518,-74.517725,40.275518",
     "geom:latitude":40.275518,
     "geom:longitude":-74.517725,
@@ -28,7 +33,14 @@
         "dermatologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QTqPQcEGKQfABX5TmBTWo_40.275518_-74.517725@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307878,
     "wof:geomhash":"998349e2bcdde3d4cd918fa1a7df1a51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655476883
+        }
+    ],
     "wof:id":655476883,
-    "wof:lastmodified":1466677617,
+    "wof:lastmodified":1492024234,
     "wof:name":"Bagel Jerry MD PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

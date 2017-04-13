@@ -2,9 +2,14 @@
   "id": 655808133,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Deep Hollow Ln N Columbus NJ 08022",
+    "addr:housenumber":"75",
+    "addr:postcode":"08022",
+    "addr:street":"Deep Hollow Ln N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755121,40.066415,-74.755121,40.066415",
     "geom:latitude":40.066415,
     "geom:longitude":-74.755121,
@@ -38,7 +43,10 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yISMI51PG2eJKU19lYMLM_40.066415_-74.755121@1303262275"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461321706,
     "wof:geomhash":"3eac54a98d0754cc6e5833c027c8e481",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":655808133
+        }
+    ],
     "wof:id":655808133,
-    "wof:lastmodified":1466687059,
+    "wof:lastmodified":1492027528,
     "wof:name":"Marie T Caruso",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655603633,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"314;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652519,41.181219,-74.652519,41.181219",
     "geom:latitude":41.181219,
     "geom:longitude":-74.652519,
@@ -29,7 +34,10 @@
         "refinishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HhC3ZIAFujBzFgJKne7SV_41.181219_-74.652519@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461313161,
     "wof:geomhash":"b3ed2dc016c94f4b43a44722e8212245",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":655603633
+        }
+    ],
     "wof:id":655603633,
-    "wof:lastmodified":1466681237,
+    "wof:lastmodified":1492054347,
     "wof:name":"C & M Restoration & Piano Co",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

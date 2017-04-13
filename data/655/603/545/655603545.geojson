@@ -2,9 +2,14 @@
   "id": 655603545,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Spring Valley Rd Hardwick NJ 07825",
+    "addr:housenumber":"54",
+    "addr:postcode":"07825",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.927585,41.006929,-74.927585,41.006929",
     "geom:latitude":41.006929,
     "geom:longitude":-74.927585,
@@ -28,7 +33,10 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nwk8POrNGL4FE7dTZgDhe_41.006929_-74.927585@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313157,
     "wof:geomhash":"2cfcf90046b80363fa4bdd01869c44f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527769,
+            "venue_id":655603545
+        }
+    ],
     "wof:id":655603545,
-    "wof:lastmodified":1466681198,
+    "wof:lastmodified":1492040903,
     "wof:name":"VSW Rental & Cstm Scenery",
     "wof:parent_id":420527769,
     "wof:placetype":"venue",

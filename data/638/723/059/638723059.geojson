@@ -2,9 +2,14 @@
   "id": 638723059,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 Easton Ave Somerset NJ 08873",
+    "addr:housenumber":"575",
+    "addr:postcode":"08873",
+    "addr:street":"Easton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.469396,40.505903,-74.469396,40.505903",
     "geom:latitude":40.505903,
     "geom:longitude":-74.469396,
@@ -28,7 +33,14 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vie2hpHMf5N59EMTYeKxn_40.505903_-74.469396@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278282,
     "wof:geomhash":"18ad8570fa418b65f84cb696ce866aa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":638723059
+        }
+    ],
     "wof:id":638723059,
-    "wof:lastmodified":1466674388,
+    "wof:lastmodified":1492062465,
     "wof:name":"Hisun Capital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639281699,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Ridge Rd West Milford NJ 07480",
+    "addr:housenumber":"113",
+    "addr:postcode":"07480",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.374755,41.095285,-74.374755,41.095285",
     "geom:latitude":41.095285,
     "geom:longitude":-74.374755,
@@ -27,7 +32,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XJIpnP8SMWiesNEcml1vC_41.095285_-74.374755@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291582,
     "wof:geomhash":"9c17b4873cb76458d16c67d1b7d78669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527489,
+            "venue_id":639281699
+        }
+    ],
     "wof:id":639281699,
-    "wof:lastmodified":1466690839,
+    "wof:lastmodified":1492061047,
     "wof:name":"Management Co",
     "wof:parent_id":420527489,
     "wof:placetype":"venue",

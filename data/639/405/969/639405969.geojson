@@ -2,9 +2,14 @@
   "id": 639405969,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"178",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307949,40.710401,-74.307949,40.710401",
     "geom:latitude":40.710401,
     "geom:longitude":-74.307949,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526947,
+        85688607,
         85834427,
         102085995
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639405969
+        },
+        {
+            "country_id":85633793,
             "county_id":102085995,
             "neighbourhood_id":85834427,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":639405969,
-    "wof:lastmodified":1466693071,
+    "wof:lastmodified":1492053912,
     "wof:name":"Martha Deutch Msw",
-    "wof:parent_id":85834427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

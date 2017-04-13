@@ -2,9 +2,14 @@
   "id": 655826775,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Madison Ave Ste 3 Pennsauken NJ 08109",
+    "addr:housenumber":"6500",
+    "addr:postcode":"08109",
+    "addr:street":"Madison Ave Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.051727,39.960972,-75.051727,39.960972",
     "geom:latitude":39.960972,
     "geom:longitude":-75.051727,
@@ -29,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uJIsSgzbM3zB87BFwe6Kn_39.960972_-75.051727@1303262280"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461322517,
     "wof:geomhash":"76ad9eb74bb5cf8a510166efd5bfe6a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655826775
+        }
+    ],
     "wof:id":655826775,
-    "wof:lastmodified":1466687747,
+    "wof:lastmodified":1492018681,
     "wof:name":"Acme",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638836703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Belvidere Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"1000",
+    "addr:postcode":"08865",
+    "addr:street":"Belvidere Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.179493,40.707159,-75.179493,40.707159",
     "geom:latitude":40.707159,
     "geom:longitude":-75.179493,
@@ -28,7 +33,13 @@
         "good"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cJ6viEbiQaA1gbm0aGGua_40.707159_-75.179493@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281155,
     "wof:geomhash":"1a27f6606420d7d53b1251fc64c11ebd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":638836703
+        }
+    ],
     "wof:id":638836703,
-    "wof:lastmodified":1466689052,
+    "wof:lastmodified":1492028559,
     "wof:name":"John Davis Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

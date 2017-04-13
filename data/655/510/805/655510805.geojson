@@ -2,9 +2,14 @@
   "id": 655510805,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Main St Hackettstown NJ 07840",
+    "addr:housenumber":"29",
+    "addr:postcode":"07840",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.837881,40.857972,-74.837881,40.857972",
     "geom:latitude":40.857972,
     "geom:longitude":-74.837881,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TZq8ZCtCrg8nUFN6eME6D_40.857972_-74.837881@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461309309,
     "wof:geomhash":"9e058e23dc1e912913c4e7afaa205bf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":655510805
+        }
+    ],
     "wof:id":655510805,
-    "wof:lastmodified":1466678565,
+    "wof:lastmodified":1492048239,
     "wof:name":"A & D Party Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

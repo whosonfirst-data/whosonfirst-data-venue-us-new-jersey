@@ -2,9 +2,14 @@
   "id": 638647685,
   "type": "Feature",
   "properties": {
+    "addr:full":"374 White Pine Rd Columbus NJ 08022",
+    "addr:housenumber":"374",
+    "addr:postcode":"08022",
+    "addr:street":"White Pine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.68155,40.107409,-74.68155,40.107409",
     "geom:latitude":40.107409,
     "geom:longitude":-74.68155,
@@ -27,7 +32,10 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04CmiVPj3bkPMqoOStsnlm_40.107409_-74.681550@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275738,
     "wof:geomhash":"93df10b9dd650eb40efc01f10892560e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":638647685
+        }
+    ],
     "wof:id":638647685,
-    "wof:lastmodified":1466673797,
+    "wof:lastmodified":1492062249,
     "wof:name":"Regal Limousine Svc",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

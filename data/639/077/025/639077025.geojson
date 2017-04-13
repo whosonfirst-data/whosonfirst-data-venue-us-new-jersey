@@ -2,9 +2,14 @@
   "id": 639077025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1884 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1884",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264335,40.69515,-74.264335,40.69515",
     "geom:latitude":40.69515,
     "geom:longitude":-74.264335,
@@ -29,7 +34,13 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975841,
+        102085995,
+        85892527
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28jNqv8e0JK8NfQiogh9sm_40.695150_-74.264335@1294171694"
@@ -37,11 +48,20 @@
     "wof:country":"US",
     "wof:created":1461286859,
     "wof:geomhash":"a064c4a10706377c95a2840bbedbca0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "locality_id":85975841,
+            "neighbourhood_id":85892527,
+            "region_id":85688607,
+            "venue_id":639077025
+        }
+    ],
     "wof:id":639077025,
-    "wof:lastmodified":1466688479,
+    "wof:lastmodified":1492050548,
     "wof:name":"Lucky Corner",
-    "wof:parent_id":420559973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

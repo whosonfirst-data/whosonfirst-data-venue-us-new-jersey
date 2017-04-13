@@ -2,9 +2,14 @@
   "id": 655805699,
   "type": "Feature",
   "properties": {
+    "addr:full":"4167 S Route 130 Edgewater Park NJ 08010",
+    "addr:housenumber":"4167",
+    "addr:postcode":"08010",
+    "addr:street":"S Route 130;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.922116,40.035039,-74.922116,40.035039",
     "geom:latitude":40.035039,
     "geom:longitude":-74.922116,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.wawa.com/WawaWeb/Default.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CYrMiOmis20m8XBDW5LKg_40.035039_-74.922116@1303262274"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321592,
     "wof:geomhash":"e0f4d0cbc952ba04f6070545edae3638",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655805699
+        }
+    ],
     "wof:id":655805699,
-    "wof:lastmodified":1466687189,
+    "wof:lastmodified":1492056581,
     "wof:name":"Wawa",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655361479,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 W End Ave Ridgewood NJ 07450",
+    "addr:housenumber":"122",
+    "addr:postcode":"07450",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133246,40.981184,-74.133246,40.981184",
     "geom:latitude":40.981184,
     "geom:longitude":-74.133246,
@@ -24,7 +29,14 @@
     "sg:postcode":"07450",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IMvDe1bc1wbrYszMp8Ly6_40.981184_-74.133246@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461303063,
     "wof:geomhash":"12c0f2258ab75b6df68d597c372dbf5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":655361479
+        }
+    ],
     "wof:id":655361479,
-    "wof:lastmodified":1466674502,
+    "wof:lastmodified":1492047574,
     "wof:name":"Allstar Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

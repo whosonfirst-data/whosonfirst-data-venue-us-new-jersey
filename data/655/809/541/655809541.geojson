@@ -2,9 +2,14 @@
   "id": 655809541,
   "type": "Feature",
   "properties": {
+    "addr:full":"Friends Avenue & Lake Haddonfield NJ 08033",
+    "addr:housenumber":"",
+    "addr:postcode":"08033",
+    "addr:street":"Friends Avenue & Lake",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033464,39.900256,-75.033464,39.900256",
     "geom:latitude":39.900256,
     "geom:longitude":-75.033464,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853647,
-        102191575,
-        404477395,
+        85688607,
         85633793,
         85975661,
         102081131,
-        85688607
+        85855593,
+        85853647,
+        102191575,
+        404477395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,14 @@
     "wof:created":1461321800,
     "wof:geomhash":"253a760ef8750b3e3cf29b915c10ba5d",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081131,
+            "locality_id":85975661,
+            "neighbourhood_id":85855593,
+            "region_id":85688607,
+            "venue_id":655809541
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":655809541,
-    "wof:lastmodified":1466687174,
+    "wof:lastmodified":1492056355,
     "wof:name":"Haddonfield Child Care",
-    "wof:parent_id":85853647,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655685275,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Bridge St Frenchtown NJ 08825",
+    "addr:housenumber":"17",
+    "addr:postcode":"08825",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061909,40.526408,-75.061909,40.526408",
     "geom:latitude":40.526408,
     "geom:longitude":-75.061909,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"http://www.alchemyclothing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hINiUSltVuH9JIXkAGNM3_40.526416_-75.062544@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316649,
     "wof:geomhash":"1e049ff6efa8358ec4a934e8773b6177",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":655685275
+        }
+    ],
     "wof:id":655685275,
-    "wof:lastmodified":1466683838,
+    "wof:lastmodified":1492070369,
     "wof:name":"Alchemy Creative Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

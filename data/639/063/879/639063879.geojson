@@ -2,9 +2,14 @@
   "id": 639063879,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Julie Ct Somerset NJ 08873",
+    "addr:housenumber":"27",
+    "addr:postcode":"08873",
+    "addr:street":"Julie Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533225,40.448886,-74.533225,40.448886",
     "geom:latitude":40.448886,
     "geom:longitude":-74.533225,
@@ -33,7 +38,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c48UoTHGTc3md2eA4cm9W_40.448886_-74.533225@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461286557,
     "wof:geomhash":"3b86583aeac20c8283e600a5989441dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639063879
+        }
+    ],
     "wof:id":639063879,
-    "wof:lastmodified":1466688194,
+    "wof:lastmodified":1492043895,
     "wof:name":"A 2 Z Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

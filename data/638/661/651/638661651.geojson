@@ -2,9 +2,14 @@
   "id": 638661651,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Burd St Pennington NJ 08534",
+    "addr:housenumber":"317",
+    "addr:postcode":"08534",
+    "addr:street":"Burd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.791697,40.319822,-74.791697,40.319822",
     "geom:latitude":40.319822,
     "geom:longitude":-74.791697,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ouh6zhWoAGOdFVt5WT047_40.319822_-74.791697@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461276192,
     "wof:geomhash":"fc94bd58a6bf5d23a25bdfda1900fc8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":638661651
+        }
+    ],
     "wof:id":638661651,
-    "wof:lastmodified":1466674194,
+    "wof:lastmodified":1492062579,
     "wof:name":"Cortet Benoit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

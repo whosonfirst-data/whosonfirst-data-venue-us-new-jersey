@@ -2,9 +2,14 @@
   "id": 655763249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1590 US Highway 46 West Paterson NJ 07424",
+    "addr:housenumber":"1590",
+    "addr:postcode":"07424",
+    "addr:street":"Us Highway 46 West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.204123,40.878446,-74.204123,40.878446",
     "geom:latitude":40.878446,
     "geom:longitude":-74.204123,
@@ -27,7 +32,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ynh4t9qswF84acsNBHz4R_40.878446_-74.204123@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319779,
     "wof:geomhash":"0a9fefde0783c7a21ac8367009903c84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":655763249
+        }
+    ],
     "wof:id":655763249,
-    "wof:lastmodified":1466685863,
+    "wof:lastmodified":1492028466,
     "wof:name":"Cartridge World of West Paterson Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655540579,
   "type": "Feature",
   "properties": {
+    "addr:full":"287 Princeton Ave Brick NJ 08724",
+    "addr:housenumber":"287",
+    "addr:postcode":"08724",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106528,40.058209,-74.106528,40.058209",
     "geom:latitude":40.058209,
     "geom:longitude":-74.106528,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nlQvGc7kWJrYbeD5se8sI_40.058209_-74.106528@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310447,
     "wof:geomhash":"4e9fe264dbeccff321d285b40cccad33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655540579
+        }
+    ],
     "wof:id":655540579,
-    "wof:lastmodified":1466679302,
+    "wof:lastmodified":1492045215,
     "wof:name":"Sea Electric",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

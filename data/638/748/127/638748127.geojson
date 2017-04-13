@@ -2,9 +2,14 @@
   "id": 638748127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Melbourn Ln Ringoes NJ 08551",
+    "addr:housenumber":"2",
+    "addr:postcode":"08551",
+    "addr:street":"Melbourn Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.86956,40.42387,-74.86956,40.42387",
     "geom:latitude":40.42387,
     "geom:longitude":-74.86956,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527099,
+        85688607,
+        85829815,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gaMapsjvsQkltlyJmYFVK_40.423870_-74.869560@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461278956,
     "wof:geomhash":"7f4f65f368c6cc13bfa23d68a9f55b18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527099,
+            "venue_id":638748127
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85829815,
+            "region_id":85688607,
+            "venue_id":638748127
+        }
+    ],
     "wof:id":638748127,
-    "wof:lastmodified":1466677839,
+    "wof:lastmodified":1492062515,
     "wof:name":"Donald N Pollard DDS",
-    "wof:parent_id":420527099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

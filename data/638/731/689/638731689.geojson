@@ -2,9 +2,14 @@
   "id": 638731689,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Flock Rd Trenton NJ 08619",
+    "addr:housenumber":"412",
+    "addr:postcode":"08619",
+    "addr:street":"Flock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.676298,40.249145,-74.676298,40.249145",
     "geom:latitude":40.249145,
     "geom:longitude":-74.676298,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RxqaAg7YEy9xO5QPu1gNI_40.249145_-74.676298@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461278526,
     "wof:geomhash":"e24ef5e988129ceae4167fe2ee6e976d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":638731689
+        }
+    ],
     "wof:id":638731689,
-    "wof:lastmodified":1466675659,
+    "wof:lastmodified":1492062469,
     "wof:name":"Richard M Flock",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

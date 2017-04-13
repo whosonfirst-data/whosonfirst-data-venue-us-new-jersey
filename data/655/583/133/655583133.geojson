@@ -2,9 +2,14 @@
   "id": 655583133,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Dock Rd West Creek NJ 08092",
+    "addr:housenumber":"500",
+    "addr:postcode":"08092",
+    "addr:street":"Dock Rd West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268001,39.615339,-74.268001,39.615339",
     "geom:latitude":39.615339,
     "geom:longitude":-74.268001,
@@ -30,7 +35,13 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477331,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U0TUUXT74uESvxHrMqiP2_39.615339_-74.268001@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461312303,
     "wof:geomhash":"256f24b42001a4e1c6d40a6df6a52b2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477331,
+            "region_id":85688607,
+            "venue_id":655583133
+        }
+    ],
     "wof:id":655583133,
-    "wof:lastmodified":1466680317,
+    "wof:lastmodified":1492027901,
     "wof:name":"West Creek Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

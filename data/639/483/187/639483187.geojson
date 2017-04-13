@@ -2,9 +2,14 @@
   "id": 639483187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Brookside Dr Gladstone NJ 07934",
+    "addr:housenumber":"6",
+    "addr:postcode":"07934",
+    "addr:street":"Brookside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66943,40.727205,-74.66943,40.727205",
     "geom:latitude":40.727205,
     "geom:longitude":-74.66943,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37bCMNeVYzgFDWFwat4fYq_40.727205_-74.669430@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296735,
     "wof:geomhash":"d17e5107ae60b54f2a3a99b8263b94a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":639483187
+        }
+    ],
     "wof:id":639483187,
-    "wof:lastmodified":1466694414,
+    "wof:lastmodified":1492025901,
     "wof:name":"Polyone Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

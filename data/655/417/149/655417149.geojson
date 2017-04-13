@@ -2,9 +2,14 @@
   "id": 655417149,
   "type": "Feature",
   "properties": {
+    "addr:full":"344 Washington Ave Union NJ 07083",
+    "addr:housenumber":"344",
+    "addr:postcode":"07083",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261521,40.682851,-74.261521,40.682851",
     "geom:latitude":40.682851,
     "geom:longitude":-74.261521,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Er3tR3IWNisnSuxT0FMsZ_40.682851_-74.261521@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305350,
     "wof:geomhash":"0c2b16d3f8a81d9e1ab26de274963dce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655417149
+        }
+    ],
     "wof:id":655417149,
-    "wof:lastmodified":1466675812,
+    "wof:lastmodified":1492068162,
     "wof:name":"APS Consulting",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

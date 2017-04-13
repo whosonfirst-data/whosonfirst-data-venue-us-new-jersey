@@ -2,9 +2,14 @@
   "id": 639601017,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Springfield Ave Summit NJ 07901",
+    "addr:housenumber":"56",
+    "addr:postcode":"07901",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331443,40.717805,-74.331443,40.717805",
     "geom:latitude":40.717805,
     "geom:longitude":-74.331443,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UhGVJ5xftD6vXr5eKCMgo_40.717805_-74.331443@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301775,
     "wof:geomhash":"0247680c54e10f3742dfee77a09c7e8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639601017
+        }
+    ],
     "wof:id":639601017,
-    "wof:lastmodified":1466696966,
+    "wof:lastmodified":1492028647,
     "wof:name":"Co-Operative Nursery Summit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

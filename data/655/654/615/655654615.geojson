@@ -2,9 +2,14 @@
   "id": 655654615,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Walsh Dr Dumont NJ 07628",
+    "addr:housenumber":"47",
+    "addr:postcode":"07628",
+    "addr:street":"Walsh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.982462,40.941801,-73.982462,40.941801",
     "geom:latitude":40.941801,
     "geom:longitude":-73.982462,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SdTAjVGWFqq172VMzzV8p_40.941801_-73.982462@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461315366,
     "wof:geomhash":"6e022b4078f22feac5b37e1ab8e00640",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655654615
+        }
+    ],
     "wof:id":655654615,
-    "wof:lastmodified":1466683003,
+    "wof:lastmodified":1492025601,
     "wof:name":"Infantino Brdcst Eng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

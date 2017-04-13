@@ -2,9 +2,14 @@
   "id": 655369993,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Central Ave Atlantic Highlands NJ 07716",
+    "addr:housenumber":"32",
+    "addr:postcode":"07716",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.034039,40.40803,-74.034039,40.40803",
     "geom:latitude":40.40803,
     "geom:longitude":-74.034039,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        85633793,
+        85975375,
+        102085049,
+        85825733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38i7maTIwz264N1higOfBV_40.408030_-74.034039@1294171694"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461303418,
     "wof:geomhash":"a4e9bf7fb09d25725ee020782d55f8e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85975375,
+            "neighbourhood_id":85825733,
+            "region_id":85688607,
+            "venue_id":655369993
+        }
+    ],
     "wof:id":655369993,
-    "wof:lastmodified":1466674880,
+    "wof:lastmodified":1492042997,
     "wof:name":"Mobility Man Inc",
-    "wof:parent_id":420527273,
+    "wof:parent_id":85825733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

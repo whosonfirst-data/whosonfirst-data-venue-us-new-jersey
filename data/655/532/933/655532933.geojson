@@ -2,9 +2,14 @@
   "id": 655532933,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 N Harrison St Princeton NJ 08540",
+    "addr:housenumber":"436",
+    "addr:postcode":"08540",
+    "addr:street":"N Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.654506,40.365996,-74.654506,40.365996",
     "geom:latitude":40.365996,
     "geom:longitude":-74.654506,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_293NCqcVaY5D3JLwKVFS53_40.365996_-74.654506@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461310164,
     "wof:geomhash":"9e025d0f0634590c3d24b2bab7f93cfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655532933
+        }
+    ],
     "wof:id":655532933,
-    "wof:lastmodified":1466679129,
+    "wof:lastmodified":1492041011,
     "wof:name":"Queen Annes Lace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

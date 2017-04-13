@@ -2,9 +2,14 @@
   "id": 638790339,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Grindstone Rd Howell NJ 07731",
+    "addr:housenumber":"12",
+    "addr:postcode":"07731",
+    "addr:street":"Grindstone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250569,40.171089,-74.250569,40.171089",
     "geom:latitude":40.171089,
     "geom:longitude":-74.250569,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23eR2aSEgJ80pGEPE4rDzt_40.171089_-74.250569@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461280027,
     "wof:geomhash":"775b96d7d8e8e15b1d1a5a235d300387",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":638790339
+        }
+    ],
     "wof:id":638790339,
-    "wof:lastmodified":1466684339,
+    "wof:lastmodified":1492040982,
     "wof:name":"Executive Tech Search Cor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

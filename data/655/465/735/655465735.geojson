@@ -2,9 +2,14 @@
   "id": 655465735,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Madison Ave Haworth NJ 07641",
+    "addr:housenumber":"53",
+    "addr:postcode":"07641",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976975,40.960319,-73.976975,40.960319",
     "geom:latitude":40.960319,
     "geom:longitude":-73.976975,
@@ -28,7 +33,14 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65auTK1vOjPaV6E4ewa05g_40.960319_-73.976975@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307411,
     "wof:geomhash":"fd84537c036842cdc1426f219d512307",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":655465735
+        }
+    ],
     "wof:id":655465735,
-    "wof:lastmodified":1466677230,
+    "wof:lastmodified":1492029433,
     "wof:name":"Hodges Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

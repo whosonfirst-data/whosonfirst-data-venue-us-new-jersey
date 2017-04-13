@@ -2,9 +2,14 @@
   "id": 638849231,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Highland Ave Maplewood NJ 07040",
+    "addr:housenumber":"69",
+    "addr:postcode":"07040",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258201,40.729015,-74.258201,40.729015",
     "geom:latitude":40.729015,
     "geom:longitude":-74.258201,
@@ -29,7 +34,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892405,
+        102085043,
+        420526939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HGpYOFXA47hi0q40rDoFO_40.729015_-74.258201@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461281490,
     "wof:geomhash":"611e9536e832f4af80e3c0bed727e572",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892405,
+            "region_id":85688607,
+            "venue_id":638849231
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526939,
+            "venue_id":638849231
+        }
+    ],
     "wof:id":638849231,
-    "wof:lastmodified":1466689179,
+    "wof:lastmodified":1492050534,
     "wof:name":"Gilgal Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

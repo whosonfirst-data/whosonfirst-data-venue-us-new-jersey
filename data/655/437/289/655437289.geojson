@@ -2,9 +2,14 @@
   "id": 655437289,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Burgundy Dr Marlton NJ 08053",
+    "addr:housenumber":"17",
+    "addr:postcode":"08053",
+    "addr:street":"Burgundy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.921465,39.910648,-74.921465,39.910648",
     "geom:latitude":39.910648,
     "geom:longitude":-74.921465,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.ihop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sQ1i5iIRjxhnIbGHgftZa_39.910648_-74.921465@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461306192,
     "wof:geomhash":"fe45d4e77785fccbc45a3ce96a5ea76c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655437289
+        }
+    ],
     "wof:id":655437289,
-    "wof:lastmodified":1466676404,
+    "wof:lastmodified":1492024836,
     "wof:name":"Ihop Restaurant",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

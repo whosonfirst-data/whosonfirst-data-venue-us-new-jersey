@@ -2,9 +2,14 @@
   "id": 639225047,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 New County Rd Secaucus NJ 07094",
+    "addr:housenumber":"1500",
+    "addr:postcode":"07094",
+    "addr:street":"New County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.08282,40.762005,-74.08282,40.762005",
     "geom:latitude":40.762005,
     "geom:longitude":-74.08282,
@@ -28,7 +33,14 @@
         "common"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MnGLf8uxNGDKcnBYD2Tsj_40.762005_-74.082820@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290251,
     "wof:geomhash":"70e4378ec07fe420f3ef0366826a76a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":639225047
+        }
+    ],
     "wof:id":639225047,
-    "wof:lastmodified":1466689678,
+    "wof:lastmodified":1492074578,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

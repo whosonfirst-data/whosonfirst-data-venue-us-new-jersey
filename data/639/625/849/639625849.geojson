@@ -2,9 +2,14 @@
   "id": 639625849,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"99",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146403,41.097912,-74.146403,41.097912",
     "geom:latitude":41.097912,
     "geom:longitude":-74.146403,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.mahwahhonda.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wz35WfYfEalxqeaZ7nCjZ_41.097912_-74.146403@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461302725,
     "wof:geomhash":"6f5130b19531097379fcd8aa1918eeeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639625849
+        }
+    ],
     "wof:id":639625849,
-    "wof:lastmodified":1466697387,
+    "wof:lastmodified":1492081996,
     "wof:name":"Mahwah Honda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638704087,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Edwards Rd Brick NJ 08723",
+    "addr:housenumber":"68",
+    "addr:postcode":"08723",
+    "addr:street":"Edwards Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.113255,40.049188,-74.113255,40.049188",
     "geom:latitude":40.049188,
     "geom:longitude":-74.113255,
@@ -40,7 +45,10 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BQlj7RTnJzQsMCO7lgECZ_40.049188_-74.113255@1294171694"
@@ -48,9 +56,15 @@
     "wof:country":"US",
     "wof:created":1461277680,
     "wof:geomhash":"e198506684aa39bbd58dc2590bac791c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":638704087
+        }
+    ],
     "wof:id":638704087,
-    "wof:lastmodified":1466688599,
+    "wof:lastmodified":1492056568,
     "wof:name":"Pool Operation Management Inc",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655804985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2156 Atco Ave Atco NJ 08004",
+    "addr:housenumber":"2156",
+    "addr:postcode":"08004",
+    "addr:street":"Atco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.897797,39.765499,-74.897797,39.765499",
     "geom:latitude":39.765499,
     "geom:longitude":-74.897797,
@@ -27,7 +32,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jl1IETFx2j4F5t1eP7h6y_39.765499_-74.897797@1303262274"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321567,
     "wof:geomhash":"0a47b6276785f0531053b090b6a59d35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655804985
+        }
+    ],
     "wof:id":655804985,
-    "wof:lastmodified":1466687210,
+    "wof:lastmodified":1492024799,
     "wof:name":"Jamm's Pizzeria",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

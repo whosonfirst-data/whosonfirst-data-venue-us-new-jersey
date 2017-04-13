@@ -2,9 +2,14 @@
   "id": 638809721,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Forest Rd Tenafly NJ 07670",
+    "addr:housenumber":"5",
+    "addr:postcode":"07670",
+    "addr:street":"Forest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.956764,40.923099,-73.956764,40.923099",
     "geom:latitude":40.923099,
     "geom:longitude":-73.956764,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.ntinc.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13G5gJNbmI2RMPgOSNUhpN_40.923099_-73.956764@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461280438,
     "wof:geomhash":"3f90a716602df140fe292df40a395b9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":638809721
+        }
+    ],
     "wof:id":638809721,
-    "wof:lastmodified":1466686851,
+    "wof:lastmodified":1492069567,
     "wof:name":"Network Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

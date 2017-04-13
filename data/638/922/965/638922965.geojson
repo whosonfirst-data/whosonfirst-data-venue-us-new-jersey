@@ -2,9 +2,14 @@
   "id": 638922965,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Mountain Ave Caldwell NJ 07006",
+    "addr:housenumber":"555",
+    "addr:postcode":"07006",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246854,40.870031,-74.246854,40.870031",
     "geom:latitude":40.870031,
     "geom:longitude":-74.246854,
@@ -28,7 +33,14 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ngr1qGP5GgrghDKBJN3fU_40.870031_-74.246854@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283346,
     "wof:geomhash":"68b3c6dcfbd69bdc4f892d9ecc4b98e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638922965
+        }
+    ],
     "wof:id":638922965,
-    "wof:lastmodified":1466690712,
+    "wof:lastmodified":1492030669,
     "wof:name":"Martin Vogel CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

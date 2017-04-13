@@ -2,9 +2,14 @@
   "id": 655515179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 State Rte 179 Lambertville NJ 08530",
+    "addr:housenumber":"1511",
+    "addr:postcode":"08530",
+    "addr:street":"State Rte 179",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.937775,40.373038,-74.937775,40.373038",
     "geom:latitude":40.373038,
     "geom:longitude":-74.937775,
@@ -27,7 +32,14 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EYJkRuUjrloEGmwePG0HJ_40.373038_-74.937775@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309493,
     "wof:geomhash":"4c3c8e4ba14b45a049a072238c193357",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655515179
+        }
+    ],
     "wof:id":655515179,
-    "wof:lastmodified":1466678485,
+    "wof:lastmodified":1492048347,
     "wof:name":"Suzanne Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

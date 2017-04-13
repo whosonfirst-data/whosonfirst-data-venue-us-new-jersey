@@ -2,9 +2,14 @@
   "id": 639390147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Willoughby Ln Southampton NJ 08088",
+    "addr:housenumber":"1",
+    "addr:postcode":"08088",
+    "addr:street":"Willoughby Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.715195,39.924285,-74.715195,39.924285",
     "geom:latitude":39.924285,
     "geom:longitude":-74.715195,
@@ -31,7 +36,10 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hrHbukQgvWhSZkudK6jGy_39.924285_-74.715195@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461293852,
     "wof:geomhash":"b832ba62457c5584509972e5f09ca927",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639390147
+        }
+    ],
     "wof:id":639390147,
-    "wof:lastmodified":1466692905,
+    "wof:lastmodified":1492020646,
     "wof:name":"Southampton Interiors",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

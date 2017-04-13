@@ -2,9 +2,14 @@
   "id": 655652441,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 W State St Trenton NJ 08608",
+    "addr:housenumber":"36",
+    "addr:postcode":"08608",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.767902,40.220565,-74.767902,40.220565",
     "geom:latitude":40.220565,
     "geom:longitude":-74.767902,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jSnvnKXUvV18Gto7DZUVd_40.220565_-74.767902@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315279,
     "wof:geomhash":"3cf899312b641b0d4cabf7812292c58d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655652441
+        }
+    ],
     "wof:id":655652441,
-    "wof:lastmodified":1466682896,
+    "wof:lastmodified":1492041953,
     "wof:name":"Njeda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

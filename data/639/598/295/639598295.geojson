@@ -2,9 +2,14 @@
   "id": 639598295,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Burnt Tavern Rd Brick NJ 08724",
+    "addr:housenumber":"63",
+    "addr:postcode":"08724",
+    "addr:street":"Burnt Tavern Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14981,40.098868,-74.14981,40.098868",
     "geom:latitude":40.098868,
     "geom:longitude":-74.14981,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20HzvnoHtSMXA7O0m8gUru_40.098868_-74.149810@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461301674,
     "wof:geomhash":"d75187111d98ea19f49fa05bbe409e53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":639598295
+        }
+    ],
     "wof:id":639598295,
-    "wof:lastmodified":1466696782,
+    "wof:lastmodified":1492038975,
     "wof:name":"Carlin Roofing & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

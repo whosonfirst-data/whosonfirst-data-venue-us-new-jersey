@@ -2,9 +2,14 @@
   "id": 638762295,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 N Clinton Ave Trenton NJ 08609",
+    "addr:housenumber":"39",
+    "addr:postcode":"08609",
+    "addr:street":"N Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755013,40.222244,-74.755013,40.222244",
     "geom:latitude":40.222244,
     "geom:longitude":-74.755013,
@@ -27,7 +32,14 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69gTwkQvmXhEiJGxKT5Yf2_40.222244_-74.755013@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279355,
     "wof:geomhash":"4e839b0a510696e9258cbf61ae44b8ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638762295
+        }
+    ],
     "wof:id":638762295,
-    "wof:lastmodified":1466679741,
+    "wof:lastmodified":1492052143,
     "wof:name":"Guidance Clinic Of Catholic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

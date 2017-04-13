@@ -2,9 +2,14 @@
   "id": 655665631,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 Sherman Ave Pennsauken NJ 08110",
+    "addr:housenumber":"807",
+    "addr:postcode":"08110",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.058414,39.973905,-75.058414,39.973905",
     "geom:latitude":39.973905,
     "geom:longitude":-75.058414,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.noveltycone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lfu20xlPf8UuA5nIYdvam_39.973271_-75.057979@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461315834,
     "wof:geomhash":"8e25b96ce6470b8a678a44235d017164",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655665631
+        }
+    ],
     "wof:id":655665631,
-    "wof:lastmodified":1466683407,
+    "wof:lastmodified":1492057981,
     "wof:name":"Novelty Cone Co Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

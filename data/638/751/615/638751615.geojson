@@ -2,9 +2,14 @@
   "id": 638751615,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Sandia Pl Franklin Lakes NJ 07417",
+    "addr:housenumber":"711",
+    "addr:postcode":"07417",
+    "addr:street":"Sandia Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226359,40.996049,-74.226359,40.996049",
     "geom:latitude":40.996049,
     "geom:longitude":-74.226359,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jy3d6llXTWJZOabck3SkD_40.996049_-74.226359@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279068,
     "wof:geomhash":"a14ebcfe55be8e38354a2155c3014b02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":638751615
+        }
+    ],
     "wof:id":638751615,
-    "wof:lastmodified":1466678343,
+    "wof:lastmodified":1492023689,
     "wof:name":"Purple Piggies Quilts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

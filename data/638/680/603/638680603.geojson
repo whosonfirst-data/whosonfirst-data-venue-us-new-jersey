@@ -2,9 +2,14 @@
   "id": 638680603,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Passaic Ave Fairfield NJ 07004",
+    "addr:housenumber":"20",
+    "addr:postcode":"07004",
+    "addr:street":"Passaic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281331,40.867772,-74.281331,40.867772",
     "geom:latitude":40.867772,
     "geom:longitude":-74.281331,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.brooklyncheesecake.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478111,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qxXCYd16ujBJ4xCeOLEbZ_40.867772_-74.281331@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461276782,
     "wof:geomhash":"de6872e6c46e249d5a4065e4ed8b06b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478111,
+            "region_id":85688607,
+            "venue_id":638680603
+        }
+    ],
     "wof:id":638680603,
-    "wof:lastmodified":1466688080,
+    "wof:lastmodified":1492062294,
     "wof:name":"Brooklyn Cheesecake & Desserts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

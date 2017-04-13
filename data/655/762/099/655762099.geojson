@@ -2,9 +2,14 @@
   "id": 655762099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1138 Ringwood Ave Haskell NJ 07420",
+    "addr:housenumber":"1138",
+    "addr:postcode":"07420",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.296659,41.026874,-74.296659,41.026874",
     "geom:latitude":41.026874,
     "geom:longitude":-74.296659,
@@ -34,7 +39,14 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KXjnB3RXgJBaOXTq6sWDK_41.026874_-74.296659@1303262264"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461319734,
     "wof:geomhash":"fa8deb39f16be4a881e0c0c7fa55d574",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655762099
+        }
+    ],
     "wof:id":655762099,
-    "wof:lastmodified":1466685797,
+    "wof:lastmodified":1492036272,
     "wof:name":"Hals Famous Chicken & Ribs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

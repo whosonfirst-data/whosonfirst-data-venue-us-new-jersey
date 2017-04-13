@@ -2,9 +2,14 @@
   "id": 639313099,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 E Lincoln Ave Rahway NJ 07065",
+    "addr:housenumber":"126",
+    "addr:postcode":"07065",
+    "addr:street":"E Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25868,40.60973,-74.25868,40.60973",
     "geom:latitude":40.60973,
     "geom:longitude":-74.25868,
@@ -27,7 +32,14 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wJegxmIlgjKO96BrprASK_40.609730_-74.258680@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292237,
     "wof:geomhash":"2bf935a491b26c425896690e9e8cefb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639313099
+        }
+    ],
     "wof:id":639313099,
-    "wof:lastmodified":1466691705,
+    "wof:lastmodified":1492049668,
     "wof:name":"Daniel M D Bloomfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

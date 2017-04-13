@@ -2,9 +2,14 @@
   "id": 655536413,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 US Hwy 206 Branchville NJ 07826",
+    "addr:housenumber":"236",
+    "addr:postcode":"07826",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804045,41.223095,-74.804045,41.223095",
     "geom:latitude":41.223095,
     "geom:longitude":-74.804045,
@@ -38,7 +43,8 @@
         85688607,
         85633793,
         85852853,
-        102086779
+        102086779,
+        85837111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,19 @@
             "neighbourhood_id":85852853,
             "region_id":85688607,
             "venue_id":655536413
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85837111,
+            "region_id":85688607,
+            "venue_id":655536413
         }
     ],
     "wof:id":655536413,
-    "wof:lastmodified":1466679124,
+    "wof:lastmodified":1492076969,
     "wof:name":"Daniel Allen Inc",
-    "wof:parent_id":85852853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

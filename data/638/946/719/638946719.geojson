@@ -2,9 +2,14 @@
   "id": 638946719,
   "type": "Feature",
   "properties": {
+    "addr:full":"739 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"739",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237087,40.705954,-74.237087,40.705954",
     "geom:latitude":40.705954,
     "geom:longitude":-74.237087,
@@ -24,7 +29,10 @@
     "sg:postcode":"07205",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03I96m0UWfdglYp6EBxGPU_40.705954_-74.237087@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461283959,
     "wof:geomhash":"29af5a323bd014afc692e5cfc5608cec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":638946719
+        }
+    ],
     "wof:id":638946719,
-    "wof:lastmodified":1466691108,
+    "wof:lastmodified":1492025503,
     "wof:name":"Fuda Shoes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

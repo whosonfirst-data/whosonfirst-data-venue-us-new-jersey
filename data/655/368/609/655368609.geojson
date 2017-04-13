@@ -2,9 +2,14 @@
   "id": 655368609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1453 Pinewood St Rahway NJ 07065",
+    "addr:housenumber":"1453",
+    "addr:postcode":"07065",
+    "addr:street":"Pinewood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262257,40.59806,-74.262257,40.59806",
     "geom:latitude":40.59806,
     "geom:longitude":-74.262257,
@@ -28,7 +33,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y0GKQwvHg0g15dI9lzAc0_40.598060_-74.262257@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461303363,
     "wof:geomhash":"2fb6a861b0d042200f1b665d66b73b33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655368609
+        }
+    ],
     "wof:id":655368609,
-    "wof:lastmodified":1466674691,
+    "wof:lastmodified":1492028569,
     "wof:name":"Global Recycling Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

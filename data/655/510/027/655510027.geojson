@@ -2,9 +2,14 @@
   "id": 655510027,
   "type": "Feature",
   "properties": {
+    "addr:full":"286 US Hwy 46 Rockaway NJ 07866",
+    "addr:housenumber":"286",
+    "addr:postcode":"07866",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523258,40.889541,-74.523258,40.889541",
     "geom:latitude":40.889541,
     "geom:longitude":-74.523258,
@@ -31,7 +36,11 @@
         85688607,
         85633793,
         85820557,
-        102087413
+        102087413,
+        85892359,
+        102191575,
+        404478307,
+        85975557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +56,22 @@
             "neighbourhood_id":85820557,
             "region_id":85688607,
             "venue_id":655510027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478307,
+            "locality_id":85975557,
+            "neighbourhood_id":85892359,
+            "region_id":85688607,
+            "venue_id":655510027
         }
     ],
     "wof:id":655510027,
-    "wof:lastmodified":1466678355,
+    "wof:lastmodified":1492023826,
     "wof:name":"Wok N Roll",
-    "wof:parent_id":85820557,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

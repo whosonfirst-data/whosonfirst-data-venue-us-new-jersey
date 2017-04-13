@@ -2,9 +2,14 @@
   "id": 655521609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Chase Dr Morganville NJ 07751",
+    "addr:housenumber":"1",
+    "addr:postcode":"07751",
+    "addr:street":"Chase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301406,40.353923,-74.301406,40.353923",
     "geom:latitude":40.353923,
     "geom:longitude":-74.301406,
@@ -28,7 +33,15 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25oRjGn9UCtqC4f0Bo90nY_40.353923_-74.301406@1294171694"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461309737,
     "wof:geomhash":"de7d7f7e6f4c6904ec709aba9aa87b87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":655521609
+        }
+    ],
     "wof:id":655521609,
-    "wof:lastmodified":1466678782,
+    "wof:lastmodified":1492025880,
     "wof:name":"Mldp Properties Inc",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639486529,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"500",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.462796,40.495284,-74.462796,40.495284",
     "geom:latitude":40.495284,
     "geom:longitude":-74.462796,
@@ -28,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eVFK20g77ljTU6Et0QbnB_40.495284_-74.462796@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296880,
     "wof:geomhash":"4a945a4776653b04fab14e29ce3d102f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639486529
+        }
+    ],
     "wof:id":639486529,
-    "wof:lastmodified":1466694524,
+    "wof:lastmodified":1492029465,
     "wof:name":"Medicine Shoppe The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

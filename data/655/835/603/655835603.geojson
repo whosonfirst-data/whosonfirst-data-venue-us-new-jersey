@@ -2,9 +2,14 @@
   "id": 655835603,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 Asbury West Portal Rd Asbury NJ 08802",
+    "addr:housenumber":"280",
+    "addr:postcode":"08802",
+    "addr:street":"Asbury West Portal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032816,40.665171,-75.032816,40.665171",
     "geom:latitude":40.665171,
     "geom:longitude":-75.032816,
@@ -29,7 +34,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JCOSWNhQ0zDklEQ9y832I_40.665171_-75.032816@1303262282"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461322889,
     "wof:geomhash":"6f155f5ff0bdbc6cfa58293c81ab652a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":655835603
+        }
+    ],
     "wof:id":655835603,
-    "wof:lastmodified":1466687947,
+    "wof:lastmodified":1492041976,
     "wof:name":"Bethlehem Township Board of Education",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

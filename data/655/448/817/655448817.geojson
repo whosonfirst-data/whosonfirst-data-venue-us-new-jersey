@@ -2,9 +2,14 @@
   "id": 655448817,
   "type": "Feature",
   "properties": {
+    "addr:full":"444 Island Rd Columbus NJ 08022",
+    "addr:housenumber":"444",
+    "addr:postcode":"08022",
+    "addr:street":"Island Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.701466,40.073249,-74.701466,40.073249",
     "geom:latitude":40.073249,
     "geom:longitude":-74.701466,
@@ -35,7 +40,10 @@
         "softening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_656dGGw4Ejxiif6VNfIVAt_40.073249_-74.701466@1294171694"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461306637,
     "wof:geomhash":"7a466bed64e95a108bdfca44c39346c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":655448817
+        }
+    ],
     "wof:id":655448817,
-    "wof:lastmodified":1466676931,
+    "wof:lastmodified":1492057065,
     "wof:name":"H D Van Mater Water Systems",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

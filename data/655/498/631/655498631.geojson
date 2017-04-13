@@ -2,9 +2,14 @@
   "id": 655498631,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 E Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"337",
+    "addr:postcode":"07065",
+    "addr:street":"E Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271629,40.604467,-74.271629,40.604467",
     "geom:latitude":40.604467,
     "geom:longitude":-74.271629,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39rNOhqUdso3qJVIZJoyD7_40.604467_-74.271629@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461308778,
     "wof:geomhash":"efd314602585fdc298c3055118a35aa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655498631
+        }
+    ],
     "wof:id":655498631,
-    "wof:lastmodified":1466678203,
+    "wof:lastmodified":1492027354,
     "wof:name":"Rahway River Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

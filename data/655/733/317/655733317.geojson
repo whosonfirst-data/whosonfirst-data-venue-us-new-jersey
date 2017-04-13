@@ -2,9 +2,14 @@
   "id": 655733317,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Commerce Pl Clark NJ 07066",
+    "addr:housenumber":"100",
+    "addr:postcode":"07066",
+    "addr:street":"Commerce Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.317001,40.627399,-74.317001,40.627399",
     "geom:latitude":40.627399,
     "geom:longitude":-74.317001,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q9iTOY9CpSDTqzTSO82SB_40.627399_-74.317001@1303262257"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318656,
     "wof:geomhash":"ee0c821fd48ed79703228956ab4bd6f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733317
+        }
+    ],
     "wof:id":655733317,
-    "wof:lastmodified":1466685098,
+    "wof:lastmodified":1492027698,
     "wof:name":"Clark Urgent Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

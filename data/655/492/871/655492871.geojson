@@ -2,9 +2,14 @@
   "id": 655492871,
   "type": "Feature",
   "properties": {
+    "addr:full":"453 W Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"453",
+    "addr:postcode":"07065",
+    "addr:street":"W Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286494,40.607028,-74.286494,40.607028",
     "geom:latitude":40.607028,
     "geom:longitude":-74.286494,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AFvzASR7ta9oGLhxDLhSj_40.607028_-74.286494@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308535,
     "wof:geomhash":"88deebec81c264f5d844a30ecdffc37d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655492871
+        }
+    ],
     "wof:id":655492871,
-    "wof:lastmodified":1466678050,
+    "wof:lastmodified":1492023528,
     "wof:name":"Magic Carpet Nursery School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

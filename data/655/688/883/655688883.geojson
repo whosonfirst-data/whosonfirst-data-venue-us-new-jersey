@@ -2,9 +2,14 @@
   "id": 655688883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3108 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"3108",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259817,40.890502,-74.259817,40.890502",
     "geom:latitude":40.890502,
     "geom:longitude":-74.259817,
@@ -30,7 +35,13 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sC7rdh7cNUhsAiRqZMZBM_40.890502_-74.259817@1299784598"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461316808,
     "wof:geomhash":"882e8c4e5d1bf437108756e7bd07a63a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655688883
+        }
+    ],
     "wof:id":655688883,
-    "wof:lastmodified":1466684129,
+    "wof:lastmodified":1492054105,
     "wof:name":"Nathan's Famous",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

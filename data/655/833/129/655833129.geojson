@@ -2,9 +2,14 @@
   "id": 655833129,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 N Main St Lambertville NJ 08530",
+    "addr:housenumber":"22",
+    "addr:postcode":"08530",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.94304,40.366796,-74.94304,40.366796",
     "geom:latitude":40.366796,
     "geom:longitude":-74.94304,
@@ -37,7 +42,14 @@
     ],
     "sg:website":"http://www.stanleytroylawfirm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sjxC4MmCIGIDKel2Et4rx_40.366796_-74.943040@1303262281"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461322791,
     "wof:geomhash":"fe1c2ee6267d3a2678221c2ca02c0923",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655833129
+        }
+    ],
     "wof:id":655833129,
-    "wof:lastmodified":1466687672,
+    "wof:lastmodified":1492057378,
     "wof:name":"Stanley J. Troy, ESQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

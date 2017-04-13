@@ -2,9 +2,14 @@
   "id": 655562109,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Marcy Ct Marlton NJ 08053",
+    "addr:housenumber":"13",
+    "addr:postcode":"08053",
+    "addr:street":"Marcy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.891441,39.906271,-74.891441,39.906271",
     "geom:latitude":39.906271,
     "geom:longitude":-74.891441,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xHPTd6w2GLZmTEPwp1lZ6_39.906271_-74.891441@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311368,
     "wof:geomhash":"0ddf874675331c757f1553f07ad4743f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655562109
+        }
+    ],
     "wof:id":655562109,
-    "wof:lastmodified":1466679702,
+    "wof:lastmodified":1492028498,
     "wof:name":"Chastin Properties LLC",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

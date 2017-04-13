@@ -2,9 +2,14 @@
   "id": 655765279,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 S Franklin Tpke Ramsey NJ 07446",
+    "addr:housenumber":"117",
+    "addr:postcode":"07446",
+    "addr:street":"S Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131343,41.054127,-74.131343,41.054127",
     "geom:latitude":41.054127,
     "geom:longitude":-74.131343,
@@ -33,7 +38,14 @@
         "washer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uWXbRLFrtO3NaggocfcdQ_41.054127_-74.131343@1303262264"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461319863,
     "wof:geomhash":"23d2efe53fc7c4be2824bb4c65b22769",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655765279
+        }
+    ],
     "wof:id":655765279,
-    "wof:lastmodified":1466686046,
+    "wof:lastmodified":1492027775,
     "wof:name":"Mahwah Laundry Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

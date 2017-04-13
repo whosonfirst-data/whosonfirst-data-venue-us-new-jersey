@@ -2,9 +2,14 @@
   "id": 639195623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1232 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1232",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237837,40.725114,-74.237837,40.725114",
     "geom:latitude":40.725114,
     "geom:longitude":-74.237837,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o43jyBt2zThLpJpZxVvAX_40.725114_-74.237837@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461289532,
     "wof:geomhash":"d76072273372002d2609560119b63a36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639195623
+        }
+    ],
     "wof:id":639195623,
-    "wof:lastmodified":1466687936,
+    "wof:lastmodified":1492039796,
     "wof:name":"F & J Fabrick Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

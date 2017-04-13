@@ -2,9 +2,14 @@
   "id": 655540015,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Albert Ave Lakewood NJ 08701",
+    "addr:housenumber":"399",
+    "addr:postcode":"08701",
+    "addr:street":"Albert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.19733,40.066081,-74.19733,40.066081",
     "geom:latitude":40.066081,
     "geom:longitude":-74.19733,
@@ -24,7 +29,16 @@
     "sg:postcode":"08701",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315,
+        85802311,
+        102191575,
+        404477773,
+        85976347,
+        102081485,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dfhtSgcIlSXlgTM9ZY0Ca_40.066081_-74.197330@1294171694"
@@ -32,11 +46,27 @@
     "wof:country":"US",
     "wof:created":1461310428,
     "wof:geomhash":"5210c4ae2a68dad8d7c38ca1da781ba8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655540015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477773,
+            "locality_id":85976347,
+            "neighbourhood_id":85802311,
+            "region_id":85688607,
+            "venue_id":655540015
+        }
+    ],
     "wof:id":655540015,
-    "wof:lastmodified":1466679150,
+    "wof:lastmodified":1492053626,
     "wof:name":"Poppy",
-    "wof:parent_id":420527315,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

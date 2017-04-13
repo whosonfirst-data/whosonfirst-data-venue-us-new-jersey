@@ -2,9 +2,14 @@
   "id": 639381999,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 Pleasant Mills Rd Hammonton NJ 08037",
+    "addr:housenumber":"5220",
+    "addr:postcode":"08037",
+    "addr:street":"Pleasant Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.624792,39.609601,-74.624792,39.609601",
     "geom:latitude":39.609601,
     "geom:longitude":-74.624792,
@@ -24,7 +29,10 @@
     "sg:postcode":"08037",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AouudvzObeuMmvZt12gCc_39.609601_-74.624792@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461293678,
     "wof:geomhash":"5c37c2e24e16e2568d1897f91783b5b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526667,
+            "venue_id":639381999
+        }
+    ],
     "wof:id":639381999,
-    "wof:lastmodified":1466692851,
+    "wof:lastmodified":1492025883,
     "wof:name":"American Dance Acad",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

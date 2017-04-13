@@ -2,9 +2,14 @@
   "id": 655689341,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"264",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.94578,41.015458,-73.94578,41.015458",
     "geom:latitude":41.015458,
     "geom:longitude":-73.94578,
@@ -30,7 +35,14 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zgzFZZnv9L1k9YYZcdmhT_41.015458_-73.945780@1299784598"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316839,
     "wof:geomhash":"651d233955042e83996dc600712872a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655689341
+        }
+    ],
     "wof:id":655689341,
-    "wof:lastmodified":1466683987,
+    "wof:lastmodified":1492057765,
     "wof:name":"Soup Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

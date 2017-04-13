@@ -2,9 +2,14 @@
   "id": 638928249,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Henderson Rd Dayton NJ 08824",
+    "addr:housenumber":"80",
+    "addr:postcode":"08824",
+    "addr:street":"Henderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533944,40.430438,-74.533944,40.430438",
     "geom:latitude":40.430438,
     "geom:longitude":-74.533944,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QvQGd3ezrDdC3Y2o6iWUS_40.430438_-74.533944@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283470,
     "wof:geomhash":"70980aee6f94ba9ee7cbdf34c17caf8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":638928249
+        }
+    ],
     "wof:id":638928249,
-    "wof:lastmodified":1466690834,
+    "wof:lastmodified":1492049836,
     "wof:name":"Sistemas Copr",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

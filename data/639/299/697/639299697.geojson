@@ -2,9 +2,14 @@
   "id": 639299697,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Stonehurst Ct Northvale NJ 07647",
+    "addr:housenumber":"106",
+    "addr:postcode":"07647",
+    "addr:street":"Stonehurst Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.944019,40.999708,-73.944019,40.999708",
     "geom:latitude":40.999708,
     "geom:longitude":-73.944019,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KC29bt0UBjQD8en30a9GT_40.999708_-73.944019@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461291962,
     "wof:geomhash":"a62e504252b250d96809c68de78fa460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639299697
+        }
+    ],
     "wof:id":639299697,
-    "wof:lastmodified":1466691202,
+    "wof:lastmodified":1492076400,
     "wof:name":"Zenith Laboratories Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

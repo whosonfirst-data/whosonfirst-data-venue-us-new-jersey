@@ -2,9 +2,14 @@
   "id": 655787937,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 Mansfield St Belvidere NJ 07823",
+    "addr:housenumber":"519",
+    "addr:postcode":"07823",
+    "addr:street":"Mansfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.07676,40.822852,-75.07676,40.822852",
     "geom:latitude":40.822852,
     "geom:longitude":-75.07676,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NWnu4mccMPJ3ZaewhrOeb_40.822852_-75.076760@1303262270"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320890,
     "wof:geomhash":"bb942c6e06c950fe1b541dc624d4de63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787937
+        }
+    ],
     "wof:id":655787937,
-    "wof:lastmodified":1466686751,
+    "wof:lastmodified":1492029613,
     "wof:name":"R & T Eggers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

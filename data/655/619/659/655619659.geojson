@@ -2,9 +2,14 @@
   "id": 655619659,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Sunnyside Rd Howell NJ 07731",
+    "addr:housenumber":"26",
+    "addr:postcode":"07731",
+    "addr:street":"Sunnyside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247395,40.175112,-74.247395,40.175112",
     "geom:latitude":40.175112,
     "geom:longitude":-74.247395,
@@ -35,7 +40,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cK1tiwVqIuN0SCl1Ar7F2_40.175112_-74.247395@1294171694"
@@ -43,11 +51,17 @@
     "wof:country":"US",
     "wof:created":1461313876,
     "wof:geomhash":"a7ec197ac4e3380a72777ae39a753077",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":655619659
+        }
+    ],
     "wof:id":655619659,
-    "wof:lastmodified":1466681846,
+    "wof:lastmodified":1492056932,
     "wof:name":"Alexander Contracting Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

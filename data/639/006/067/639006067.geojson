@@ -2,9 +2,14 @@
   "id": 639006067,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Philip Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"115",
+    "addr:postcode":"07407",
+    "addr:street":"Philip Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123749,40.908729,-74.123749,40.908729",
     "geom:latitude":40.908729,
     "geom:longitude":-74.123749,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zxmX3wuiXBqmMFw8R8kK7_40.908729_-74.123749@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285231,
     "wof:geomhash":"0674b14abfff993f5e6daee86c99bcf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":639006067
+        }
+    ],
     "wof:id":639006067,
-    "wof:lastmodified":1466673164,
+    "wof:lastmodified":1492034145,
     "wof:name":"Rise & Shine Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639456049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2441 N Firelane Rd Southampton NJ 08088",
+    "addr:housenumber":"2441",
+    "addr:postcode":"08088",
+    "addr:street":"N Firelane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.635268,39.891265,-74.635268,39.891265",
     "geom:latitude":39.891265,
     "geom:longitude":-74.635268,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W5mJbtdqawwvA90DBaCFv_39.891265_-74.635268@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295650,
     "wof:geomhash":"8fc5d082d338b75c6ca3fbb28d498ff2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639456049
+        }
+    ],
     "wof:id":639456049,
-    "wof:lastmodified":1466693621,
+    "wof:lastmodified":1492051811,
     "wof:name":"Trust For Public Land",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

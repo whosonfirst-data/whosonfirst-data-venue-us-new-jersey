@@ -2,9 +2,14 @@
   "id": 639488051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1999 Marlton Pike E Cherry Hill NJ 08003",
+    "addr:housenumber":"1999",
+    "addr:postcode":"08003",
+    "addr:street":"Marlton Pike E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.958294,39.899767,-74.958294,39.899767",
     "geom:latitude":39.899767,
     "geom:longitude":-74.958294,
@@ -29,13 +34,14 @@
     "sg:website":"www.saltzpolisher.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822883,
+        420526769,
         102191575,
         404477993,
         85633793,
         85976231,
         102081131,
-        85688607
+        85688607,
+        85822883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081131,
             "localadmin_id":404477993,
             "locality_id":85976231,
+            "neighbourhood_id":420526769,
+            "region_id":85688607,
+            "venue_id":639488051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
             "neighbourhood_id":85822883,
             "region_id":85688607,
             "venue_id":639488051
         }
     ],
     "wof:id":639488051,
-    "wof:lastmodified":1466694361,
+    "wof:lastmodified":1492042450,
     "wof:name":"Saltz Polisher",
-    "wof:parent_id":85822883,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

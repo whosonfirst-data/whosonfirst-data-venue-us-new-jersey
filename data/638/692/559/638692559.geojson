@@ -2,9 +2,14 @@
   "id": 638692559,
   "type": "Feature",
   "properties": {
+    "addr:full":"87 Rollingmead St Princeton NJ 08540",
+    "addr:housenumber":"87",
+    "addr:postcode":"08540",
+    "addr:street":"Rollingmead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.640598,40.358741,-74.640598,40.358741",
     "geom:latitude":40.358741,
     "geom:longitude":-74.640598,
@@ -31,7 +36,13 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uXU8ThFOaLHHeE1GAdz4C_40.358741_-74.640598@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461277275,
     "wof:geomhash":"d782e775fa20e1f9aa8b18f40e13a2f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":638692559
+        }
+    ],
     "wof:id":638692559,
-    "wof:lastmodified":1466688393,
+    "wof:lastmodified":1492052201,
     "wof:name":"Interior Design Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

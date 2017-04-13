@@ -2,9 +2,14 @@
   "id": 639490595,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Sunny Woods Ln Jackson NJ 08527",
+    "addr:housenumber":"22",
+    "addr:postcode":"08527",
+    "addr:street":"Sunny Woods Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275178,40.149235,-74.275178,40.149235",
     "geom:latitude":40.149235,
     "geom:longitude":-74.275178,
@@ -29,7 +34,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69dUjaBMimKf8D583qiNAe_40.149235_-74.275178@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461297049,
     "wof:geomhash":"82ead83dc9d553490fc03240005a455d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639490595
+        }
+    ],
     "wof:id":639490595,
-    "wof:lastmodified":1466694573,
+    "wof:lastmodified":1492050203,
     "wof:name":"Jersey Fitness Works LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

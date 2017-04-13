@@ -2,9 +2,14 @@
   "id": 639029847,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 Main St Belmar NJ 07719",
+    "addr:housenumber":"902",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025291,40.180236,-74.025291,40.180236",
     "geom:latitude":40.180236,
     "geom:longitude":-74.025291,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cu05wFQhgWiSEEy5c1l2r_40.180236_-74.025291@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285781,
     "wof:geomhash":"74f7166ef26419065356d31f0d2a27cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639029847
+        }
+    ],
     "wof:id":639029847,
-    "wof:lastmodified":1466673802,
+    "wof:lastmodified":1492070274,
     "wof:name":"Americas Chice Prtection Plans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

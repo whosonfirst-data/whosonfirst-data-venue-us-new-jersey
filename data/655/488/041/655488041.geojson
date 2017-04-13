@@ -2,9 +2,14 @@
   "id": 655488041,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 Chestnut St Union NJ 07083",
+    "addr:housenumber":"349",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26801,40.678498,-74.26801,40.678498",
     "geom:latitude":40.678498,
     "geom:longitude":-74.26801,
@@ -28,7 +33,10 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vc1xm45IPbZfVS1Xf9LWI_40.678498_-74.268010@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308323,
     "wof:geomhash":"09e4cb487d15db58083211814711f1bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655488041
+        }
+    ],
     "wof:id":655488041,
-    "wof:lastmodified":1466677785,
+    "wof:lastmodified":1492028537,
     "wof:name":"24 Hour 7 Day Emergency",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

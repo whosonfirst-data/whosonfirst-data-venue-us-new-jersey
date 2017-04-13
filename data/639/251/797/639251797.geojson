@@ -2,9 +2,14 @@
   "id": 639251797,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 W Washington Ave Washington NJ 07882",
+    "addr:housenumber":"217",
+    "addr:postcode":"07882",
+    "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.989989,40.756211,-74.989989,40.756211",
     "geom:latitude":40.756211,
     "geom:longitude":-74.989989,
@@ -25,10 +30,11 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527795,
         85807129,
         102191575,
         404478533,
-        85633793,
         85976419,
         102083873,
         85688607
@@ -42,6 +48,11 @@
     "wof:geomhash":"465a13790046788db6a20df119e32759",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639251797
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083873,
@@ -53,9 +64,9 @@
         }
     ],
     "wof:id":639251797,
-    "wof:lastmodified":1466690278,
+    "wof:lastmodified":1492030760,
     "wof:name":"William Realty Group LLC",
-    "wof:parent_id":85807129,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

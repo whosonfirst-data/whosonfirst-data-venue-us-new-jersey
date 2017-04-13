@@ -2,9 +2,14 @@
   "id": 638742823,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Briarwood Ct Whiting NJ 08759",
+    "addr:housenumber":"120",
+    "addr:postcode":"08759",
+    "addr:street":"Briarwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.328818,39.945293,-74.328818,39.945293",
     "geom:latitude":39.945293,
     "geom:longitude":-74.328818,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PWs2yQyO2WyKKSuBNO9ww_39.945293_-74.328818@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278816,
     "wof:geomhash":"822436fe2f5e1456de1eab817f3e6e45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":638742823
+        }
+    ],
     "wof:id":638742823,
-    "wof:lastmodified":1466677205,
+    "wof:lastmodified":1492065370,
     "wof:name":"Nonpub Tri State Manufacture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639547943,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Chestnut St Union NJ 07083",
+    "addr:housenumber":"345",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268026,40.678613,-74.268026,40.678613",
     "geom:latitude":40.678613,
     "geom:longitude":-74.268026,
@@ -28,7 +33,10 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NW2FY42C2aMEms57Yj654_40.678613_-74.268026@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299663,
     "wof:geomhash":"cc67a38f2c43bc8856fcd0cf22c9bac8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639547943
+        }
+    ],
     "wof:id":639547943,
-    "wof:lastmodified":1466695387,
+    "wof:lastmodified":1492049623,
     "wof:name":"Manzos Restaurant",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

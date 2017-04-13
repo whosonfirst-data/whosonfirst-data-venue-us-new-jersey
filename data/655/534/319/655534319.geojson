@@ -2,9 +2,14 @@
   "id": 655534319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Hubert Pl Maplewood NJ 07040",
+    "addr:housenumber":"1",
+    "addr:postcode":"07040",
+    "addr:street":"Hubert Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274633,40.723906,-74.274633,40.723906",
     "geom:latitude":40.723906,
     "geom:longitude":-74.274633,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zDkObaGAzmwXPS92uOmze_40.723906_-74.274633@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310215,
     "wof:geomhash":"98749f7ed770e806b06fbeac578bea2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655534319
+        }
+    ],
     "wof:id":655534319,
-    "wof:lastmodified":1466679031,
+    "wof:lastmodified":1492028981,
     "wof:name":"Percher Consulting LLC",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638978039,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Salem Rd Union NJ 07083",
+    "addr:housenumber":"317",
+    "addr:postcode":"07083",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261979,40.677438,-74.261979,40.677438",
     "geom:latitude":40.677438,
     "geom:longitude":-74.261979,
@@ -31,7 +36,10 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20iIQCnmh263v7n2XDUpLO_40.677438_-74.261979@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461284611,
     "wof:geomhash":"057efd2d94d6da717aecc3d6ddf42b83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":638978039
+        }
+    ],
     "wof:id":638978039,
-    "wof:lastmodified":1466691965,
+    "wof:lastmodified":1492030582,
     "wof:name":"Web Honey",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

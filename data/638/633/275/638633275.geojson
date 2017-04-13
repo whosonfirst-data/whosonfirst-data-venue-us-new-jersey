@@ -2,9 +2,14 @@
   "id": 638633275,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Edgeview Rd Keyport NJ 07735",
+    "addr:housenumber":"240",
+    "addr:postcode":"07735",
+    "addr:street":"Edgeview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.222962,40.431907,-74.222962,40.431907",
     "geom:latitude":40.431907,
     "geom:longitude":-74.222962,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jQTA1gNCUrQvGv4EW5kLn_40.431907_-74.222962@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461275318,
     "wof:geomhash":"c1ae458550d949de47cd92993b141f20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":638633275
+        }
+    ],
     "wof:id":638633275,
-    "wof:lastmodified":1466673329,
+    "wof:lastmodified":1492028595,
     "wof:name":"Kellys Welding & Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

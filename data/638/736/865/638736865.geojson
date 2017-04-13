@@ -2,9 +2,14 @@
   "id": 638736865,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Country Ln Howell NJ 07731",
+    "addr:housenumber":"2",
+    "addr:postcode":"07731",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170419,40.112202,-74.170419,40.112202",
     "geom:latitude":40.112202,
     "geom:longitude":-74.170419,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08YBUnU4SqfWVxot7Nnepx_40.112202_-74.170419@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461278662,
     "wof:geomhash":"f737f331d7f69c0638177567df0cda78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":638736865
+        }
+    ],
     "wof:id":638736865,
-    "wof:lastmodified":1466676418,
+    "wof:lastmodified":1492062560,
     "wof:name":"Venture Drywall Corp",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

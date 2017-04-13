@@ -2,9 +2,14 @@
   "id": 639615749,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 State Rte 17 Ramsey NJ 07446",
+    "addr:housenumber":"900",
+    "addr:postcode":"07446",
+    "addr:street":"State Rte 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1258,41.062944,-74.1258,41.062944",
     "geom:latitude":41.062944,
     "geom:longitude":-74.1258,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oMXa7r9jFyOVOSe8y32ne_41.062944_-74.125800@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302341,
     "wof:geomhash":"84c7149d97efc8b7402886ac13071509",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":639615749
+        }
+    ],
     "wof:id":639615749,
-    "wof:lastmodified":1466697213,
+    "wof:lastmodified":1492082077,
     "wof:name":"Chilis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

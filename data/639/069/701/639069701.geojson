@@ -2,9 +2,14 @@
   "id": 639069701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Park Rd Maplewood NJ 07040",
+    "addr:housenumber":"1",
+    "addr:postcode":"07040",
+    "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268053,40.729758,-74.268053,40.729758",
     "geom:latitude":40.729758,
     "geom:longitude":-74.268053,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526931,
+        85688607,
         85892401,
         102085043
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639069701
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85892401,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":639069701,
-    "wof:lastmodified":1466688302,
+    "wof:lastmodified":1492039794,
     "wof:name":"Geraldine Botwinick",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

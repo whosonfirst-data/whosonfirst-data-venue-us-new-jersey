@@ -2,9 +2,14 @@
   "id": 639445259,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Ridge Rd Whitehouse Sta NJ 08889",
+    "addr:housenumber":"25",
+    "addr:postcode":"08889",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735792,40.60206,-74.735792,40.60206",
     "geom:latitude":40.60206,
     "geom:longitude":-74.735792,
@@ -31,7 +36,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38koMk5RU3SWsdsOmJ9FRu_40.602060_-74.735792@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461295227,
     "wof:geomhash":"b525019221e80d9be44898584b1340d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639445259
+        }
+    ],
     "wof:id":639445259,
-    "wof:lastmodified":1466693489,
+    "wof:lastmodified":1492076839,
     "wof:name":"Support Systems Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

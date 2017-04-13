@@ -2,9 +2,14 @@
   "id": 639434059,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 Westminster Dr Toms River NJ 08753",
+    "addr:housenumber":"840",
+    "addr:postcode":"08753",
+    "addr:street":"Westminster Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.159673,39.964918,-74.159673,39.964918",
     "geom:latitude":39.964918,
     "geom:longitude":-74.159673,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527455,
+        420527373,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        420527455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":420527373,
+            "region_id":85688607,
+            "venue_id":639434059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":420527455,
             "region_id":85688607,
             "venue_id":639434059
         }
     ],
     "wof:id":639434059,
-    "wof:lastmodified":1466692981,
+    "wof:lastmodified":1492040368,
     "wof:name":"M & E Assoc Inc",
-    "wof:parent_id":420527455,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

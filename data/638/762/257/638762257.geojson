@@ -2,9 +2,14 @@
   "id": 638762257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1380 River Rd Titusville NJ 08560",
+    "addr:housenumber":"1380",
+    "addr:postcode":"08560",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.86936,40.30011,-74.86936,40.30011",
     "geom:latitude":40.30011,
     "geom:longitude":-74.86936,
@@ -32,7 +37,10 @@
         85688481,
         85633793,
         85851885,
-        102080987
+        102080987,
+        85688607,
+        85805063,
+        102081129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +56,19 @@
             "neighbourhood_id":85851885,
             "region_id":85688481,
             "venue_id":638762257
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85805063,
+            "region_id":85688607,
+            "venue_id":638762257
         }
     ],
     "wof:id":638762257,
-    "wof:lastmodified":1466679731,
+    "wof:lastmodified":1492043178,
     "wof:name":"Jonico Inc",
-    "wof:parent_id":85851885,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

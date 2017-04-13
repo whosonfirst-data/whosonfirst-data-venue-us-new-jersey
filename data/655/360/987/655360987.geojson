@@ -2,9 +2,14 @@
   "id": 655360987,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Ridge Rd Southampton NJ 08088",
+    "addr:housenumber":"207",
+    "addr:postcode":"08088",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.72675,39.916,-74.72675,39.916",
     "geom:latitude":39.916,
     "geom:longitude":-74.72675,
@@ -28,7 +33,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TWwBVrtYLpbtXfhSdnZdv_39.916000_-74.726750@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303042,
     "wof:geomhash":"c155e806f5a4a1230b3086d498527fcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655360987
+        }
+    ],
     "wof:id":655360987,
-    "wof:lastmodified":1466674636,
+    "wof:lastmodified":1492051140,
     "wof:name":"Pharoh Gourmet Corp",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

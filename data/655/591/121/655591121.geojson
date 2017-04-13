@@ -2,9 +2,14 @@
   "id": 655591121,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Paine Ave Irvington NJ 07111",
+    "addr:housenumber":"4",
+    "addr:postcode":"07111",
+    "addr:street":"Paine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232867,40.709858,-74.232867,40.709858",
     "geom:latitude":40.709858,
     "geom:longitude":-74.232867,
@@ -27,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lFJcHfAHHW0yP0K1uEeWe_40.709858_-74.232867@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312639,
     "wof:geomhash":"7c959c8db695140c884c4fdcbc5d85cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655591121
+        }
+    ],
     "wof:id":655591121,
-    "wof:lastmodified":1466680578,
+    "wof:lastmodified":1492052249,
     "wof:name":"Genesis Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

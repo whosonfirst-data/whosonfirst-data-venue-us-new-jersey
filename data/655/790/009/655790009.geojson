@@ -2,9 +2,14 @@
   "id": 655790009,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 Spring St Newton NJ 07860",
+    "addr:housenumber":"249",
+    "addr:postcode":"07860",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749209,41.05514,-74.749209,41.05514",
     "geom:latitude":41.05514,
     "geom:longitude":-74.749209,
@@ -39,7 +44,10 @@
     ],
     "sg:website":"http://www.mobil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38MMRen12EKI9Km5MWZpRe_41.055140_-74.749209@1303262270"
@@ -47,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461320978,
     "wof:geomhash":"dbfafcbac19951d2edaef01831d747b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655790009
+        }
+    ],
     "wof:id":655790009,
-    "wof:lastmodified":1466686522,
+    "wof:lastmodified":1492070867,
     "wof:name":"Gormley's Auto Center",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

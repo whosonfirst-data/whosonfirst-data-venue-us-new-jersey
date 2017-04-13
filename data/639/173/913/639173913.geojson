@@ -2,9 +2,14 @@
   "id": 639173913,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 Lancaster Ct Mahwah NJ 07430",
+    "addr:housenumber":"2219",
+    "addr:postcode":"07430",
+    "addr:street":"Lancaster Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138899,41.100052,-74.138899,41.100052",
     "geom:latitude":41.100052,
     "geom:longitude":-74.138899,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aW8Ya4Td7utIMrmFnuYQV_41.100052_-74.138899@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289050,
     "wof:geomhash":"49ee5bff316efcbed9c920664c706fa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639173913
+        }
+    ],
     "wof:id":639173913,
-    "wof:lastmodified":1466684975,
+    "wof:lastmodified":1492066649,
     "wof:name":"Rsn Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

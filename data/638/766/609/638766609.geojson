@@ -2,9 +2,14 @@
   "id": 638766609,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Mariner Ln Willingboro NJ 08046",
+    "addr:housenumber":"42",
+    "addr:postcode":"08046",
+    "addr:street":"Mariner Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.894961,40.02492,-74.894961,40.02492",
     "geom:latitude":40.02492,
     "geom:longitude":-74.894961,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NFzKGOol6iGe9Hh19yZoy_40.024920_-74.894961@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461279465,
     "wof:geomhash":"75e7fecfcf49735f40602fbb9c7e5b28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638766609
+        }
+    ],
     "wof:id":638766609,
-    "wof:lastmodified":1466680416,
+    "wof:lastmodified":1492030660,
     "wof:name":"Royal Managed Properties",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

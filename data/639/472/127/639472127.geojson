@@ -2,9 +2,14 @@
   "id": 639472127,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mendham Rd Gladstone NJ 07934",
+    "addr:housenumber":"15",
+    "addr:postcode":"07934",
+    "addr:street":"Mendham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66247,40.719256,-74.66247,40.719256",
     "geom:latitude":40.719256,
     "geom:longitude":-74.66247,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VQUt9ztU6GpOYjKlNjqr1_40.719256_-74.662470@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296275,
     "wof:geomhash":"9a3261fd527fc51f2ad5250b90c8adf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":639472127
+        }
+    ],
     "wof:id":639472127,
-    "wof:lastmodified":1466694061,
+    "wof:lastmodified":1492049875,
     "wof:name":"Belvidere Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

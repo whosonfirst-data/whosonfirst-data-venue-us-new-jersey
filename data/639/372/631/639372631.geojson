@@ -2,9 +2,14 @@
   "id": 639372631,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Headley Ter Irvington NJ 07111",
+    "addr:housenumber":"11",
+    "addr:postcode":"07111",
+    "addr:street":"Headley Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245728,40.725774,-74.245728,40.725774",
     "geom:latitude":40.725774,
     "geom:longitude":-74.245728,
@@ -27,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NephjC1AyeU3VFzUCjORF_40.725774_-74.245728@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293480,
     "wof:geomhash":"8cf96f48ff7e6402bab78785649cae4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639372631
+        }
+    ],
     "wof:id":639372631,
-    "wof:lastmodified":1466692704,
+    "wof:lastmodified":1492076684,
     "wof:name":"Alice Cleaning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

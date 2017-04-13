@@ -2,9 +2,14 @@
   "id": 639154455,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Marion St Union NJ 07083",
+    "addr:housenumber":"123",
+    "addr:postcode":"07083",
+    "addr:street":"Marion St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283035,40.715782,-74.283035,40.715782",
     "geom:latitude":40.715782,
     "geom:longitude":-74.283035,
@@ -27,7 +32,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ypOf29gxH2EBzT3FzY9QJ_40.715782_-74.283035@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461288623,
     "wof:geomhash":"490b4ef093e6c8bd5ea49ac33f74bd5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639154455
+        }
+    ],
     "wof:id":639154455,
-    "wof:lastmodified":1466682028,
+    "wof:lastmodified":1492023811,
     "wof:name":"Andrea's Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

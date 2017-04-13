@@ -2,9 +2,14 @@
   "id": 639455965,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Teak Ln Princeton NJ 08540",
+    "addr:housenumber":"4",
+    "addr:postcode":"08540",
+    "addr:street":"Teak Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.700555,40.31046,-74.700555,40.31046",
     "geom:latitude":40.31046,
     "geom:longitude":-74.700555,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85843153,
-        102081129
+        85812657,
+        102081129,
+        85843153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102081129,
+            "neighbourhood_id":85812657,
+            "region_id":85688607,
+            "venue_id":639455965
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
             "neighbourhood_id":85843153,
             "region_id":85688607,
             "venue_id":639455965
         }
     ],
     "wof:id":639455965,
-    "wof:lastmodified":1466693725,
+    "wof:lastmodified":1492054867,
     "wof:name":"T Logic Inc",
-    "wof:parent_id":85843153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

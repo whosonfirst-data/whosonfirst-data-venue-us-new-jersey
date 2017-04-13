@@ -2,9 +2,14 @@
   "id": 639577173,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Norman Rd Newark NJ 07106",
+    "addr:housenumber":"195",
+    "addr:postcode":"07106",
+    "addr:street":"Norman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243385,40.734853,-74.243385,40.734853",
     "geom:latitude":40.734853,
     "geom:longitude":-74.243385,
@@ -24,7 +29,13 @@
     "sg:postcode":"07106",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TyX67rozAhO4EuRSUSvHE_40.734853_-74.243385@1294171694"
@@ -32,11 +43,20 @@
     "wof:country":"US",
     "wof:created":1461300790,
     "wof:geomhash":"fe7b04c2fff6d4f5b36338866ac954b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639577173
+        }
+    ],
     "wof:id":639577173,
-    "wof:lastmodified":1466696565,
+    "wof:lastmodified":1491938456,
     "wof:name":"Newark Board Of Education Cu",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

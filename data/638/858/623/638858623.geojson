@@ -2,9 +2,14 @@
   "id": 638858623,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 8th Ave Belmar NJ 07719",
+    "addr:housenumber":"109",
+    "addr:postcode":"07719",
+    "addr:street":"8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.015067,40.179208,-74.015067,40.179208",
     "geom:latitude":40.179208,
     "geom:longitude":-74.015067,
@@ -27,7 +32,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S7s5Fo6GP3PModjL4fjRD_40.179208_-74.015067@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281726,
     "wof:geomhash":"a0a68715a4c99dfa0cb1afee5c3fc130",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638858623
+        }
+    ],
     "wof:id":638858623,
-    "wof:lastmodified":1466689371,
+    "wof:lastmodified":1492028446,
     "wof:name":"M&A Towing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

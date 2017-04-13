@@ -2,9 +2,14 @@
   "id": 638906603,
   "type": "Feature",
   "properties": {
+    "addr:full":"688 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"688",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986542,40.827877,-73.986542,40.827877",
     "geom:latitude":40.827877,
     "geom:longitude":-73.986542,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.libertytax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FIzAM9G4XsAnULZqFMSoz_40.827877_-73.986542@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461282914,
     "wof:geomhash":"5362b062690fe1321af79db9290d16e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":638906603
+        }
+    ],
     "wof:id":638906603,
-    "wof:lastmodified":1466690208,
+    "wof:lastmodified":1492076101,
     "wof:name":"Liberty Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

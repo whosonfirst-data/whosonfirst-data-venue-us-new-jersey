@@ -2,9 +2,14 @@
   "id": 638951461,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"666",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.98678,40.827591,-73.98678,40.827591",
     "geom:latitude":40.827591,
     "geom:longitude":-73.98678,
@@ -24,7 +29,14 @@
     "sg:postcode":"07010",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xfbbVPumPCUlgHzs8vhmH_40.827591_-73.986780@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461284056,
     "wof:geomhash":"163ad256f9fec74624d34063b7d54d37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":638951461
+        }
+    ],
     "wof:id":638951461,
-    "wof:lastmodified":1466691143,
+    "wof:lastmodified":1492048548,
     "wof:name":"Mr Chips Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

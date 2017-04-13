@@ -2,9 +2,14 @@
   "id": 639489001,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Castners Rd Belvidere NJ 07823",
+    "addr:housenumber":"40",
+    "addr:postcode":"07823",
+    "addr:street":"Castners Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067241,40.780415,-75.067241,40.780415",
     "geom:latitude":40.780415,
     "geom:longitude":-75.067241,
@@ -29,7 +34,11 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527747,
+        420527801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27OoLaGIrbii4RDwChy2sT_40.780415_-75.067241@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461296991,
     "wof:geomhash":"77ffa9e9c75abd59d457e929cedebba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527747,
+            "venue_id":639489001
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527801,
+            "venue_id":639489001
+        }
+    ],
     "wof:id":639489001,
-    "wof:lastmodified":1466694521,
+    "wof:lastmodified":1492042361,
     "wof:name":"Laurie Dickerson",
-    "wof:parent_id":420527801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

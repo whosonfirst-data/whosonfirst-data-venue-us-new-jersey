@@ -2,9 +2,14 @@
   "id": 639214609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 S Main St Pennington NJ 08534",
+    "addr:housenumber":"2",
+    "addr:postcode":"08534",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790728,40.325809,-74.790728,40.325809",
     "geom:latitude":40.325809,
     "geom:longitude":-74.790728,
@@ -25,7 +30,12 @@
     "sg:province":"NJ",
     "sg:website":"www.thevillagesalon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85810187,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NEPMHg9eQfe5eTJKPMexa_40.325809_-74.790728@1294171694"
@@ -33,11 +43,19 @@
     "wof:country":"US",
     "wof:created":1461290015,
     "wof:geomhash":"65508cf25d2c2a0d55e6684be10fccf2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85810187,
+            "region_id":85688607,
+            "venue_id":639214609
+        }
+    ],
     "wof:id":639214609,
-    "wof:lastmodified":1466689610,
+    "wof:lastmodified":1492047903,
     "wof:name":"Village Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

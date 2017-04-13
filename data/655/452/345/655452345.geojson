@@ -2,9 +2,14 @@
   "id": 655452345,
   "type": "Feature",
   "properties": {
+    "addr:full":"3455 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"3455",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.679135,40.257065,-74.679135,40.257065",
     "geom:latitude":40.257065,
     "geom:longitude":-74.679135,
@@ -37,7 +42,10 @@
         "bathtub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HGNMo9GZiRF5ZdVeGDrKV_40.257065_-74.679135@1294171694"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461306795,
     "wof:geomhash":"3910ca4203dbffea512cfb2531cb6ae3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655452345
+        }
+    ],
     "wof:id":655452345,
-    "wof:lastmodified":1466676862,
+    "wof:lastmodified":1492041913,
     "wof:name":"Cifelli N General Contractor",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

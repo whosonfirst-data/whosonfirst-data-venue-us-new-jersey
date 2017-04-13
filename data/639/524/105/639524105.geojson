@@ -2,9 +2,14 @@
   "id": 639524105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 E Hazelwood Ave Rahway NJ 07065",
+    "addr:housenumber":"1",
+    "addr:postcode":"07065",
+    "addr:street":"E Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280665,40.602525,-74.280665,40.602525",
     "geom:latitude":40.602525,
     "geom:longitude":-74.280665,
@@ -27,7 +32,14 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58QqeXevKGLShleNDUZTjF_40.602525_-74.280665@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298512,
     "wof:geomhash":"833c1cde8e828430c2470a4ba1580731",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639524105
+        }
+    ],
     "wof:id":639524105,
-    "wof:lastmodified":1466695160,
+    "wof:lastmodified":1492074593,
     "wof:name":"Ben Den Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

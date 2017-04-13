@@ -2,9 +2,14 @@
   "id": 655513293,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Elizabeth St Hackensack NJ 07601",
+    "addr:housenumber":"43",
+    "addr:postcode":"07601",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051198,40.873156,-74.051198,40.873156",
     "geom:latitude":40.873156,
     "geom:longitude":-74.051198,
@@ -30,13 +35,14 @@
     "sg:website":"www.kiaheavyindustries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856549,
+        85892513,
         102191575,
         404477545,
         85633793,
         85975997,
         102086773,
-        85688607
+        85688607,
+        85856549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102086773,
             "localadmin_id":404477545,
             "locality_id":85975997,
+            "neighbourhood_id":85892513,
+            "region_id":85688607,
+            "venue_id":655513293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477545,
+            "locality_id":85975997,
             "neighbourhood_id":85856549,
             "region_id":85688607,
             "venue_id":655513293
         }
     ],
     "wof:id":655513293,
-    "wof:lastmodified":1466678430,
+    "wof:lastmodified":1492046861,
     "wof:name":"KIA Machine Tool Co",
-    "wof:parent_id":85856549,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

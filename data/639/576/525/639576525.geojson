@@ -2,9 +2,14 @@
   "id": 639576525,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 Cole Rd Flemington NJ 08822",
+    "addr:housenumber":"126",
+    "addr:postcode":"08822",
+    "addr:street":"Cole Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.784701,40.571446,-74.784701,40.571446",
     "geom:latitude":40.571446,
     "geom:longitude":-74.784701,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LfdknRYqZQfkYkyYcvb5r_40.571446_-74.784701@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300762,
     "wof:geomhash":"b28da263b321dcfe10b88193f4b8cc91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527047,
+            "venue_id":639576525
+        }
+    ],
     "wof:id":639576525,
-    "wof:lastmodified":1466696446,
+    "wof:lastmodified":1492049867,
     "wof:name":"Crystal Clear",
     "wof:parent_id":420527047,
     "wof:placetype":"venue",

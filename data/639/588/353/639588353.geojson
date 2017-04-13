@@ -2,9 +2,14 @@
   "id": 639588353,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Ridge Rd Rahway NJ 07065",
+    "addr:housenumber":"109",
+    "addr:postcode":"07065",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292503,40.594324,-74.292503,40.594324",
     "geom:latitude":40.594324,
     "geom:longitude":-74.292503,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lreyruQ8s8cH4LFq0OMi7_40.594324_-74.292503@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461301261,
     "wof:geomhash":"2c43e55697fdf614891d2b2dfec418ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639588353
+        }
+    ],
     "wof:id":639588353,
-    "wof:lastmodified":1466696413,
+    "wof:lastmodified":1492024642,
     "wof:name":"Michael Arent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639195199,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Mine St New Brunswick NJ 08901",
+    "addr:housenumber":"30",
+    "addr:postcode":"08901",
+    "addr:street":"Mine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.450546,40.500697,-74.450546,40.500697",
     "geom:latitude":40.500697,
     "geom:longitude":-74.450546,
@@ -25,14 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85845173,
+        102087417,
         85819055,
         102191575,
         404478289,
-        85633793,
-        85975739,
-        102087417,
-        85688607,
-        85845173
+        85975739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,13 @@
     "wof:geomhash":"dc6b4e70eda86e21079084af252c26cb",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85845173,
+            "region_id":85688607,
+            "venue_id":639195199
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -51,19 +63,12 @@
             "neighbourhood_id":85819055,
             "region_id":85688607,
             "venue_id":639195199
-        },
-        {
-            "country_id":85633793,
-            "county_id":102087417,
-            "neighbourhood_id":85845173,
-            "region_id":85688607,
-            "venue_id":639195199
         }
     ],
     "wof:id":639195199,
-    "wof:lastmodified":1466687866,
+    "wof:lastmodified":1492042769,
     "wof:name":"Epsilon Psi Of Delta Gamma",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

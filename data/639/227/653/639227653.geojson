@@ -2,9 +2,14 @@
   "id": 639227653,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Ringwood Ave Wanaque NJ 07465",
+    "addr:housenumber":"600",
+    "addr:postcode":"07465",
+    "addr:street":"Ringwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289257,41.050284,-74.289257,41.050284",
     "geom:latitude":41.050284,
     "geom:longitude":-74.289257,
@@ -24,7 +29,14 @@
     "sg:postcode":"07465",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59JLp1H3oHg85ljVuwjkvu_41.050284_-74.289257@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461290310,
     "wof:geomhash":"9490fb800ffdc3db43751f0eb33043ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639227653
+        }
+    ],
     "wof:id":639227653,
-    "wof:lastmodified":1466689833,
+    "wof:lastmodified":1492043345,
     "wof:name":"Wanaque Republican Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

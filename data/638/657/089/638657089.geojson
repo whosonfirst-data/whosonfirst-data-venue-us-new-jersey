@@ -2,9 +2,14 @@
   "id": 638657089,
   "type": "Feature",
   "properties": {
+    "addr:full":"814 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"814",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218523,40.067733,-74.218523,40.067733",
     "geom:latitude":40.067733,
     "geom:longitude":-74.218523,
@@ -29,7 +34,10 @@
         "testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UBVsfP9KXwn85pk0YX8zK_40.067733_-74.218523@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461276003,
     "wof:geomhash":"64779e88afdf693e165891dac4796cb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":638657089
+        }
+    ],
     "wof:id":638657089,
-    "wof:lastmodified":1466673984,
+    "wof:lastmodified":1492024126,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

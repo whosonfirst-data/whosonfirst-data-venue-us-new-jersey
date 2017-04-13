@@ -2,9 +2,14 @@
   "id": 639332381,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Diamond Rd Jackson NJ 08527",
+    "addr:housenumber":"565",
+    "addr:postcode":"08527",
+    "addr:street":"Diamond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.370221,40.150107,-74.370221,40.150107",
     "geom:latitude":40.150107,
     "geom:longitude":-74.370221,
@@ -29,7 +34,13 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XHE1wzLChqAGyUChr7TwI_40.150107_-74.370221@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461292652,
     "wof:geomhash":"a8d4e2c38e339b77de432172bb8a0e8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639332381
+        }
+    ],
     "wof:id":639332381,
-    "wof:lastmodified":1466692135,
+    "wof:lastmodified":1492051538,
     "wof:name":"Oak Tree Mobile Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

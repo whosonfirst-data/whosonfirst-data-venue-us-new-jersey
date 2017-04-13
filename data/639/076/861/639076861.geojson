@@ -2,9 +2,14 @@
   "id": 639076861,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Willow St Elmwood Park NJ 07407",
+    "addr:housenumber":"69",
+    "addr:postcode":"07407",
+    "addr:street":"Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127457,40.923308,-74.127457,40.923308",
     "geom:latitude":40.923308,
     "geom:longitude":-74.127457,
@@ -27,7 +32,14 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nDnF9WtHdnhRYKA0Zxron_40.923308_-74.127457@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286856,
     "wof:geomhash":"6ebf7f852234b2364aef956aaca57a7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":639076861
+        }
+    ],
     "wof:id":639076861,
-    "wof:lastmodified":1466688567,
+    "wof:lastmodified":1492069569,
     "wof:name":"Argus Television Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

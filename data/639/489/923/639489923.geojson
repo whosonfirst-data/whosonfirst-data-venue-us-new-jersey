@@ -2,9 +2,14 @@
   "id": 639489923,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Parson Ln Willingboro NJ 08046",
+    "addr:housenumber":"20",
+    "addr:postcode":"08046",
+    "addr:street":"Parson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.89561,40.033014,-74.89561,40.033014",
     "geom:latitude":40.033014,
     "geom:longitude":-74.89561,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gr7gEINmwZgmExglkAAHR_40.033014_-74.895610@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461297024,
     "wof:geomhash":"0f4b8031c0aab0b73c7fa25d897727cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639489923
+        }
+    ],
     "wof:id":639489923,
-    "wof:lastmodified":1466694536,
+    "wof:lastmodified":1492047602,
     "wof:name":"One Day Rental",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

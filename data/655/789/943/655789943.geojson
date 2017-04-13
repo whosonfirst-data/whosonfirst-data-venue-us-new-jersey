@@ -2,9 +2,14 @@
   "id": 655789943,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Clinton St Newton NJ 07860",
+    "addr:housenumber":"10",
+    "addr:postcode":"07860",
+    "addr:street":"Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752408,41.061694,-74.752408,41.061694",
     "geom:latitude":41.061694,
     "geom:longitude":-74.752408,
@@ -30,7 +35,10 @@
         "cat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yWcDwhnwjJ5NL7T1S21KG_41.061694_-74.752408@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320975,
     "wof:geomhash":"af8e0f1e1e077157a554ada81945ff8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789943
+        }
+    ],
     "wof:id":655789943,
-    "wof:lastmodified":1466686761,
+    "wof:lastmodified":1492027860,
     "wof:name":"J & G Discount Pet Foods Inc",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

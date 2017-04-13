@@ -2,9 +2,14 @@
   "id": 639477925,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Co Rd 519 Newton NJ 07860",
+    "addr:housenumber":"204;519",
+    "addr:postcode":"07860",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.833559,40.998874,-74.833559,40.998874",
     "geom:latitude":40.998874,
     "geom:longitude":-74.833559,
@@ -30,7 +35,10 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gRQ353qqitJRR6EPNRcuv_40.998874_-74.833559@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461296526,
     "wof:geomhash":"13e801e38bc75ea2a0b53caa33031dd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":639477925
+        }
+    ],
     "wof:id":639477925,
-    "wof:lastmodified":1466694301,
+    "wof:lastmodified":1492047627,
     "wof:name":"Sussex County Mailing Service",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

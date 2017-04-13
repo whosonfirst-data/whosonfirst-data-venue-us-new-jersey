@@ -2,9 +2,14 @@
   "id": 655733433,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Raritan Rd Ste 1 Clark NJ 07066",
+    "addr:housenumber":"999",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.316825,40.625851,-74.316825,40.625851",
     "geom:latitude":40.625851,
     "geom:longitude":-74.316825,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MvZvPLqJdUk4jEIuirRbJ_40.625851_-74.316825@1303262257"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318661,
     "wof:geomhash":"8baeec7f6282f28c6bffcddb37749a45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733433
+        }
+    ],
     "wof:id":655733433,
-    "wof:lastmodified":1466685129,
+    "wof:lastmodified":1492049108,
     "wof:name":"Union County Health Care Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

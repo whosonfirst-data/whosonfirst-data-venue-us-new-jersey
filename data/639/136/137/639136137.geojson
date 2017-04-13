@@ -2,9 +2,14 @@
   "id": 639136137,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Hilton Ave Vauxhall NJ 07088",
+    "addr:housenumber":"110",
+    "addr:postcode":"07088",
+    "addr:street":"Hilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281554,40.71562,-74.281554,40.71562",
     "geom:latitude":40.71562,
     "geom:longitude":-74.281554,
@@ -27,7 +32,10 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dciAF4hhSWP68GCrdl8Q2_40.715620_-74.281554@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461288208,
     "wof:geomhash":"62fd9d644ec8f2115e2d2fd7bb649e8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639136137
+        }
+    ],
     "wof:id":639136137,
-    "wof:lastmodified":1466679205,
+    "wof:lastmodified":1492050582,
     "wof:name":"Vauxhall Printing & Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

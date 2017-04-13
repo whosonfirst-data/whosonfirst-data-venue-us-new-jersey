@@ -2,9 +2,14 @@
   "id": 639220955,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 Main St Ledgewood NJ 07852",
+    "addr:housenumber":"246",
+    "addr:postcode":"07852",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.657564,40.883699,-74.657564,40.883699",
     "geom:latitude":40.883699,
     "geom:longitude":-74.657564,
@@ -28,7 +33,15 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527343,
+        102191575,
+        404477677,
+        85633793,
+        85976189,
+        102087413,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2talFeb7wpKIaY8MUq2Lfd_40.883699_-74.657564@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461290169,
     "wof:geomhash":"fda903c07200108b8907200b90c9c79e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477677,
+            "locality_id":85976189,
+            "neighbourhood_id":420527343,
+            "region_id":85688607,
+            "venue_id":639220955
+        }
+    ],
     "wof:id":639220955,
-    "wof:lastmodified":1466689708,
+    "wof:lastmodified":1492054550,
     "wof:name":"North Jersey Gymnastics & Danc",
-    "wof:parent_id":420527361,
+    "wof:parent_id":420527343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

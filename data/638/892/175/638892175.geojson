@@ -2,9 +2,14 @@
   "id": 638892175,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 18th Ave Belmar NJ 07719",
+    "addr:housenumber":"2610",
+    "addr:postcode":"07719",
+    "addr:street":"18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.075444,40.165138,-74.075444,40.165138",
     "geom:latitude":40.165138,
     "geom:longitude":-74.075444,
@@ -32,7 +37,10 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63Fgwqqoe5bKT2cUViFZ8n_40.165138_-74.075444@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461282547,
     "wof:geomhash":"7109654c13bb8d67e09bd67086329a2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":638892175
+        }
+    ],
     "wof:id":638892175,
-    "wof:lastmodified":1466690002,
+    "wof:lastmodified":1492070272,
     "wof:name":"GBS Mechanical Inc",
     "wof:parent_id":420527307,
     "wof:placetype":"venue",

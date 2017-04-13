@@ -2,9 +2,14 @@
   "id": 655601681,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 State Rte 181 Lake Hopatcong NJ 07849",
+    "addr:housenumber":"181",
+    "addr:postcode":"07849",
+    "addr:street":"State Rte 181",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.613105,40.989466,-74.613105,40.989466",
     "geom:latitude":40.989466,
     "geom:longitude":-74.613105,
@@ -29,7 +34,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Qwr5SdeMZs7eZGISpBGEf_40.989466_-74.613105@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461313077,
     "wof:geomhash":"72ed59b2306baac19f9a60352f5968e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":655601681
+        }
+    ],
     "wof:id":655601681,
-    "wof:lastmodified":1466681148,
+    "wof:lastmodified":1492070811,
     "wof:name":"Weldon Asphalt Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

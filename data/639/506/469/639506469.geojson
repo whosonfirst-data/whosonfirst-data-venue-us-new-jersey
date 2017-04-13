@@ -2,9 +2,14 @@
   "id": 639506469,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Strickland Rd Freehold NJ 07728",
+    "addr:housenumber":"46",
+    "addr:postcode":"07728",
+    "addr:street":"Strickland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271855,40.209161,-74.271855,40.209161",
     "geom:latitude":40.209161,
     "geom:longitude":-74.271855,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.jesuslovesfreeholdnj.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85976029,
+        102085049,
+        85851127,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SwZ5AkYlnShx7iR83JoLr_40.209161_-74.271855@1294171694"
@@ -36,11 +48,25 @@
     "wof:country":"US",
     "wof:created":1461297696,
     "wof:geomhash":"8b5a3079ad55b5a6b7d24147163efed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85976029,
+            "neighbourhood_id":85851127,
+            "region_id":85688607,
+            "venue_id":639506469
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":639506469
+        }
+    ],
     "wof:id":639506469,
-    "wof:lastmodified":1466694709,
+    "wof:lastmodified":1492052322,
     "wof:name":"Freehold Church of Christ Inc",
-    "wof:parent_id":420527263,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

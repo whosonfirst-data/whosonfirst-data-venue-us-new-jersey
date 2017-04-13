@@ -2,9 +2,14 @@
   "id": 655711733,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 River Dr Garfield NJ 07026",
+    "addr:housenumber":"514",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115227,40.876301,-74.115227,40.876301",
     "geom:latitude":40.876301,
     "geom:longitude":-74.115227,
@@ -42,7 +47,14 @@
     ],
     "sg:website":"http://www.barciabros.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N4fFP7hXCcT6qDoXZd5AW_40.876301_-74.115227@1303262251"
@@ -50,9 +62,19 @@
     "wof:country":"US",
     "wof:created":1461317832,
     "wof:geomhash":"e72141ce19a8b2fc5c625d8661271efd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655711733
+        }
+    ],
     "wof:id":655711733,
-    "wof:lastmodified":1466684626,
+    "wof:lastmodified":1492026572,
     "wof:name":"Barcia Bros Fence Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

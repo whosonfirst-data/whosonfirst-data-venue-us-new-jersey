@@ -2,9 +2,14 @@
   "id": 638971781,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Yellow Brick Rd Wayne NJ 07470",
+    "addr:housenumber":"44",
+    "addr:postcode":"07470",
+    "addr:street":"Yellow Brick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267298,40.953319,-74.267298,40.953319",
     "geom:latitude":40.953319,
     "geom:longitude":-74.267298,
@@ -37,7 +42,10 @@
         "fab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fXa5L8FahKTknH58d92tP_40.953319_-74.267298@1294171694"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461284484,
     "wof:geomhash":"4fde51d0a5268804e1b41058c4b71e18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638971781
+        }
+    ],
     "wof:id":638971781,
-    "wof:lastmodified":1466691783,
+    "wof:lastmodified":1492076315,
     "wof:name":"Karisma Embroideries",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

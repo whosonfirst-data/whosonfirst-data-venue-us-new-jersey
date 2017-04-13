@@ -2,9 +2,14 @@
   "id": 638701495,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 5th St Atco NJ 08004",
+    "addr:housenumber":"501",
+    "addr:postcode":"08004",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876389,39.777802,-74.876389,39.777802",
     "geom:latitude":39.777802,
     "geom:longitude":-74.876389,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yR9mIV8cWAsGDC7pfzkwM_39.777802_-74.876389@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461277564,
     "wof:geomhash":"409ab4ec6b4bb66f0dae9dbcafe652c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":638701495
+        }
+    ],
     "wof:id":638701495,
-    "wof:lastmodified":1466688572,
+    "wof:lastmodified":1492068648,
     "wof:name":"South Jersey Gastroenterology",
     "wof:parent_id":420526725,
     "wof:placetype":"venue",

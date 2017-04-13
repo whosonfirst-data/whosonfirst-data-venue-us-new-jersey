@@ -2,9 +2,14 @@
   "id": 639439431,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 June Ln Montvale NJ 07645",
+    "addr:housenumber":"5",
+    "addr:postcode":"07645",
+    "addr:street":"June Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.042806,41.049328,-74.042806,41.049328",
     "geom:latitude":41.049328,
     "geom:longitude":-74.042806,
@@ -27,7 +32,14 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mDw1IGS7DSorHn34vgerh_41.049328_-74.042806@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295103,
     "wof:geomhash":"81af7fdd6e32ea4796ee3b2d07b975a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639439431
+        }
+    ],
     "wof:id":639439431,
-    "wof:lastmodified":1466693228,
+    "wof:lastmodified":1492026231,
     "wof:name":"Emerson Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639564099,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Monroe St Hoboken NJ 07030",
+    "addr:housenumber":"900",
+    "addr:postcode":"07030",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.036363,40.751233,-74.036363,40.751233",
     "geom:latitude":40.751233,
     "geom:longitude":-74.036363,
@@ -28,7 +33,11 @@
         85688607,
         85633793,
         85892529,
-        102080719
+        102080719,
+        85878421,
+        102191575,
+        404478139,
+        85975295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +53,22 @@
             "neighbourhood_id":85892529,
             "region_id":85688607,
             "venue_id":639564099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878421,
+            "region_id":85688607,
+            "venue_id":639564099
         }
     ],
     "wof:id":639564099,
-    "wof:lastmodified":1466696076,
+    "wof:lastmodified":1492076080,
     "wof:name":"Edward W Morris",
-    "wof:parent_id":85892529,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

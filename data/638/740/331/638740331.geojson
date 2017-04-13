@@ -2,9 +2,14 @@
   "id": 638740331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Homestead Dr Columbus NJ 08022",
+    "addr:housenumber":"5",
+    "addr:postcode":"08022",
+    "addr:street":"Homestead Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.747135,40.072042,-74.747135,40.072042",
     "geom:latitude":40.072042,
     "geom:longitude":-74.747135,
@@ -28,7 +33,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JNg6yiq2u818SctokSKQ0_40.072042_-74.747135@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461278740,
     "wof:geomhash":"24a87047e37a1d8d6d8caa579ed18a95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":638740331
+        }
+    ],
     "wof:id":638740331,
-    "wof:lastmodified":1466676903,
+    "wof:lastmodified":1492062252,
     "wof:name":"Fleet",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

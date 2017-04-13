@@ -2,9 +2,14 @@
   "id": 639316115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1387 Brookside Dr Union NJ 07083",
+    "addr:housenumber":"1387",
+    "addr:postcode":"07083",
+    "addr:street":"Brookside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.242834,40.691296,-74.242834,40.691296",
     "geom:latitude":40.691296,
     "geom:longitude":-74.242834,
@@ -27,7 +32,13 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vycKqyc85iRdbPx50YqpS_40.691296_-74.242834@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461292309,
     "wof:geomhash":"62d96cbef9364b3f1fb08226abfb668e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639316115
+        }
+    ],
     "wof:id":639316115,
-    "wof:lastmodified":1466691717,
+    "wof:lastmodified":1492055913,
     "wof:name":"Gilmartin Court Reporting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

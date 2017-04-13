@@ -2,9 +2,14 @@
   "id": 638909699,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Walnford Rd Allentown NJ 08501",
+    "addr:housenumber":"91",
+    "addr:postcode":"08501",
+    "addr:street":"Walnford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.562866,40.140743,-74.562866,40.140743",
     "geom:latitude":40.140743,
     "geom:longitude":-74.562866,
@@ -27,7 +32,10 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YQdGXoPb2VI7pvBtiZd1S_40.140743_-74.562866@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461282990,
     "wof:geomhash":"8c6ab4ce3b34062706989bcf3bdfd70f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527283,
+            "venue_id":638909699
+        }
+    ],
     "wof:id":638909699,
-    "wof:lastmodified":1466690389,
+    "wof:lastmodified":1492042911,
     "wof:name":"Historic Walnford",
     "wof:parent_id":420527283,
     "wof:placetype":"venue",

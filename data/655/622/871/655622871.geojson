@@ -2,9 +2,14 @@
   "id": 655622871,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"25",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259993,40.746474,-74.259993,40.746474",
     "geom:latitude":40.746474,
     "geom:longitude":-74.259993,
@@ -24,7 +29,10 @@
     "sg:postcode":"07079",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10lRxmyKwtG8OM50GQmifa_40.746474_-74.259993@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461314009,
     "wof:geomhash":"610035b827588eaf2a1ee833a2e6eead",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655622871
+        }
+    ],
     "wof:id":655622871,
-    "wof:lastmodified":1466681972,
+    "wof:lastmodified":1492029443,
     "wof:name":"Wine Emporium",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655382815,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 2nd Ave Hightstown NJ 08520",
+    "addr:housenumber":"125",
+    "addr:postcode":"08520",
+    "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528003,40.269831,-74.528003,40.269831",
     "geom:latitude":40.269831,
     "geom:longitude":-74.528003,
@@ -27,7 +32,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZAINyZCAp68KIT9QxDAcB_40.269831_-74.528003@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303904,
     "wof:geomhash":"cf1c0b19c78066363ab492b35c70ca54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655382815
+        }
+    ],
     "wof:id":655382815,
-    "wof:lastmodified":1466675142,
+    "wof:lastmodified":1492049443,
     "wof:name":"Cbsi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

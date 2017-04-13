@@ -2,9 +2,14 @@
   "id": 655413077,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Jackson Valley Rd Oxford NJ 07863",
+    "addr:housenumber":"610",
+    "addr:postcode":"07863",
+    "addr:street":"Jackson Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.957354,40.785776,-74.957354,40.785776",
     "geom:latitude":40.785776,
     "geom:longitude":-74.957354,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527795,
+        85688607,
         85803097,
         102083873
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655413077
+        },
+        {
+            "country_id":85633793,
             "county_id":102083873,
             "neighbourhood_id":85803097,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":655413077,
-    "wof:lastmodified":1466675738,
+    "wof:lastmodified":1492051399,
     "wof:name":"M Samuel Stable",
-    "wof:parent_id":85803097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

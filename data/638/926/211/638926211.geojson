@@ -2,9 +2,14 @@
   "id": 638926211,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Federal St Camden NJ 08105",
+    "addr:housenumber":"3000",
+    "addr:postcode":"08105",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.081468,39.946929,-75.081468,39.946929",
     "geom:latitude":39.946929,
     "geom:longitude":-75.081468,
@@ -29,7 +34,16 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607,
+        85840939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wt3vBzkSvTuCzYl1ZRLl5_39.946929_-75.081468@1294171694"
@@ -37,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1461283424,
     "wof:geomhash":"aa2503b571226de49ea0afef77c36d26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":638926211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":85840939,
+            "region_id":85688607,
+            "venue_id":638926211
+        }
+    ],
     "wof:id":638926211,
-    "wof:lastmodified":1466690628,
+    "wof:lastmodified":1492043240,
     "wof:name":"Cars Unlimited",
-    "wof:parent_id":420526785,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

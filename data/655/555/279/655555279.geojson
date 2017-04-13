@@ -2,9 +2,14 @@
   "id": 655555279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2591 Haddonfield Rd Pennsauken NJ 08110",
+    "addr:housenumber":"2591",
+    "addr:postcode":"08110",
+    "addr:street":"Haddonfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022472,39.97373,-75.022472,39.97373",
     "geom:latitude":39.97373,
     "geom:longitude":-75.022472,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SKKvqewAccUMMi7YV0K0Z_39.973730_-75.022472@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311039,
     "wof:geomhash":"13d7f143c0c627ecbab6f85e66acb952",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655555279
+        }
+    ],
     "wof:id":655555279,
-    "wof:lastmodified":1466679562,
+    "wof:lastmodified":1492045157,
     "wof:name":"Amalias Breakfast & Lunch Hou",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

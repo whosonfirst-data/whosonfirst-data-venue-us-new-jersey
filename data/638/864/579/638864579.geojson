@@ -2,9 +2,14 @@
   "id": 638864579,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Spring Rd Newton NJ 07860",
+    "addr:housenumber":"53",
+    "addr:postcode":"07860",
+    "addr:street":"Spring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.730015,41.076613,-74.730015,41.076613",
     "geom:latitude":41.076613,
     "geom:longitude":-74.730015,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WW7CdyyRiIai6JtpkseBD_41.076613_-74.730015@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281852,
     "wof:geomhash":"c0d08d40b702c8aacb39101822f7b5e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":638864579
+        }
+    ],
     "wof:id":638864579,
-    "wof:lastmodified":1466689530,
+    "wof:lastmodified":1492030738,
     "wof:name":"Dolan & Dolan Pa",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

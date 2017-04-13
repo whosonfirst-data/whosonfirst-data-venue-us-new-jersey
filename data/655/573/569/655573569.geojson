@@ -2,9 +2,14 @@
   "id": 655573569,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"158",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253938,40.745069,-74.253938,40.745069",
     "geom:latitude":40.745069,
     "geom:longitude":-74.253938,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b5PjkJetiFL8WQS5fsDTZ_40.745069_-74.253938@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311889,
     "wof:geomhash":"149be29d9e0b845309dfc66f7cbb27ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655573569
+        }
+    ],
     "wof:id":655573569,
-    "wof:lastmodified":1466680161,
+    "wof:lastmodified":1492029660,
     "wof:name":"C Gant Construction",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

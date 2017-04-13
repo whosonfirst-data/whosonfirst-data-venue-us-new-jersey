@@ -2,9 +2,14 @@
   "id": 638997041,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Tall Timber Dr Califon NJ 07830",
+    "addr:housenumber":"16",
+    "addr:postcode":"07830",
+    "addr:street":"Tall Timber Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790437,40.744695,-74.790437,40.744695",
     "geom:latitude":40.744695,
     "geom:longitude":-74.790437,
@@ -29,7 +34,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477679,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cAc6psbZAiPzRPFcocf4R_40.744695_-74.790437@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461285047,
     "wof:geomhash":"eaba380795a6f2a53916b2c27e47c739",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477679,
+            "region_id":85688607,
+            "venue_id":638997041
+        }
+    ],
     "wof:id":638997041,
-    "wof:lastmodified":1466692179,
+    "wof:lastmodified":1492049868,
     "wof:name":"Weissco Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

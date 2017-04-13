@@ -2,9 +2,14 @@
   "id": 655586085,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 Broad St Glen Rock NJ 07452",
+    "addr:housenumber":"434",
+    "addr:postcode":"07452",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.124963,40.971147,-74.124963,40.971147",
     "geom:latitude":40.971147,
     "geom:longitude":-74.124963,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CrwslZ7duyAphVe1OH2Xk_40.971147_-74.124963@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312434,
     "wof:geomhash":"888adbbc27153f794b068ec7574b0c09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655586085
+        }
+    ],
     "wof:id":655586085,
-    "wof:lastmodified":1466680391,
+    "wof:lastmodified":1492027642,
     "wof:name":"Hope Worldwide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

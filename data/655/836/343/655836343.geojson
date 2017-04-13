@@ -2,9 +2,14 @@
   "id": 655836343,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Gallmeier Rd Frenchtown NJ 08825",
+    "addr:housenumber":"83",
+    "addr:postcode":"08825",
+    "addr:street":"Gallmeier Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044435,40.563832,-75.044435,40.563832",
     "geom:latitude":40.563832,
     "geom:longitude":-75.044435,
@@ -28,7 +33,10 @@
         "news"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rzEzEU9bifBtYwRjmb84f_40.563832_-75.044435@1303262282"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322921,
     "wof:geomhash":"436fbbac5149bf63ab7bba0a76a87780",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":655836343
+        }
+    ],
     "wof:id":655836343,
-    "wof:lastmodified":1466687893,
+    "wof:lastmodified":1492020115,
     "wof:name":"Sentinel Press",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639210801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1478 Chestnut Ave Hillside NJ 07205",
+    "addr:housenumber":"1478",
+    "addr:postcode":"07205",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232766,40.70893,-74.232766,40.70893",
     "geom:latitude":40.70893,
     "geom:longitude":-74.232766,
@@ -30,7 +35,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pPr2cIxBhDqhv0wFuMLjN_40.708930_-74.232766@1294171694"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461289929,
     "wof:geomhash":"b03e6160dc6d381dd171197f8b854a4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639210801
+        }
+    ],
     "wof:id":639210801,
-    "wof:lastmodified":1466689304,
+    "wof:lastmodified":1492050516,
     "wof:name":"H&H Swiss Machine Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

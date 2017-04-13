@@ -2,9 +2,14 @@
   "id": 639492843,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 State Rte 94 Columbia NJ 07832",
+    "addr:housenumber":"616",
+    "addr:postcode":"07832",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.085009,40.932379,-75.085009,40.932379",
     "geom:latitude":40.932379,
     "geom:longitude":-75.085009,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478431,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WM1VCq0cBGcWcqp1j92IR_40.932379_-75.085009@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297133,
     "wof:geomhash":"9be5f3b4c0437dc44af4a3bdc5c09359",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478431,
+            "region_id":85688607,
+            "venue_id":639492843
+        }
+    ],
     "wof:id":639492843,
-    "wof:lastmodified":1466694500,
+    "wof:lastmodified":1492076804,
     "wof:name":"Eric Neuwirth Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655589135,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Hunter Ave Fanwood NJ 07023",
+    "addr:housenumber":"119",
+    "addr:postcode":"07023",
+    "addr:street":"Hunter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.393977,40.642168,-74.393977,40.642168",
     "geom:latitude":40.642168,
     "geom:longitude":-74.393977,
@@ -31,7 +36,14 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477583,
+        85633793,
+        85975845,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67Sd5nXkWlBl7HM64HzHOI_40.642168_-74.393977@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461312554,
     "wof:geomhash":"9b5a97ecd1f45b4389ddf6dce5afadf0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404477583,
+            "locality_id":85975845,
+            "region_id":85688607,
+            "venue_id":655589135
+        }
+    ],
     "wof:id":655589135,
-    "wof:lastmodified":1466680583,
+    "wof:lastmodified":1492055330,
     "wof:name":"Advancements In Hearing C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638942045,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 E Cherry St Rahway NJ 07065",
+    "addr:housenumber":"93",
+    "addr:postcode":"07065",
+    "addr:street":"E Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274963,40.606951,-74.274963,40.606951",
     "geom:latitude":40.606951,
     "geom:longitude":-74.274963,
@@ -27,7 +32,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s1IHq6OnGJWLxNhBAeAkl_40.606951_-74.274963@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283846,
     "wof:geomhash":"78cd722faa6e69672e7ef2d08ab98461",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638942045
+        }
+    ],
     "wof:id":638942045,
-    "wof:lastmodified":1466691137,
+    "wof:lastmodified":1492069591,
     "wof:name":"241 Sub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

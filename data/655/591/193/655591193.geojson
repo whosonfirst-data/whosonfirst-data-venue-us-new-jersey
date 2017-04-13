@@ -2,9 +2,14 @@
   "id": 655591193,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Doremus Ave Glen Rock NJ 07452",
+    "addr:housenumber":"319",
+    "addr:postcode":"07452",
+    "addr:street":"Doremus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130251,40.967464,-74.130251,40.967464",
     "geom:latitude":40.967464,
     "geom:longitude":-74.130251,
@@ -27,7 +32,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1coFjAinZ2kHIrFDHu0a4B_40.967464_-74.130251@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312642,
     "wof:geomhash":"437b641a4032d3acfff7c92bb2c0ca80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655591193
+        }
+    ],
     "wof:id":655591193,
-    "wof:lastmodified":1466680605,
+    "wof:lastmodified":1492047646,
     "wof:name":"Black Bullet Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

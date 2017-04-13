@@ -2,9 +2,14 @@
   "id": 655568801,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Lacey Rd Lakehurst NJ 08759",
+    "addr:housenumber":"77",
+    "addr:postcode":"08759",
+    "addr:street":"Lacey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.369018,39.94999,-74.369018,39.94999",
     "geom:latitude":39.94999,
     "geom:longitude":-74.369018,
@@ -27,7 +32,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        85976365,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JFVVstOqVDwk4HH41wzqm_39.949990_-74.369018@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311657,
     "wof:geomhash":"2b72a3e42727a856e056339cc225f987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "locality_id":85976365,
+            "region_id":85688607,
+            "venue_id":655568801
+        }
+    ],
     "wof:id":655568801,
-    "wof:lastmodified":1466680162,
+    "wof:lastmodified":1492070470,
     "wof:name":"Investors Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

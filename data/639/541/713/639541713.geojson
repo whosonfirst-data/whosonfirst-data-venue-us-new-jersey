@@ -2,9 +2,14 @@
   "id": 639541713,
   "type": "Feature",
   "properties": {
+    "addr:full":"24491 W Main St Columbus NJ 08022",
+    "addr:housenumber":"24491",
+    "addr:postcode":"08022",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.722033,40.072841,-74.722033,40.072841",
     "geom:latitude":40.072841,
     "geom:longitude":-74.722033,
@@ -28,7 +33,11 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526685,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CFEaGFEwApDoH1HGW4Zzb_40.072841_-74.722033@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461299395,
     "wof:geomhash":"9d28e5cf560ff0cc72c6019c1a5d0c1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526685,
+            "venue_id":639541713
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":639541713
+        }
+    ],
     "wof:id":639541713,
-    "wof:lastmodified":1466695800,
+    "wof:lastmodified":1492057064,
     "wof:name":"Olde Columbus Inne",
-    "wof:parent_id":420526689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

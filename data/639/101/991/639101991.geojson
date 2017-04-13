@@ -2,9 +2,14 @@
   "id": 639101991,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Cedar Lake Rd Blairstown NJ 07825",
+    "addr:housenumber":"122",
+    "addr:postcode":"07825",
+    "addr:street":"Cedar Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.995092,40.967287,-74.995092,40.967287",
     "geom:latitude":40.967287,
     "geom:longitude":-74.995092,
@@ -28,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZJHCyUAqj0qlzczJ6uhW2_40.967287_-74.995092@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461287387,
     "wof:geomhash":"e6743a3354287706a9f9035673611e4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":639101991
+        }
+    ],
     "wof:id":639101991,
-    "wof:lastmodified":1466674537,
+    "wof:lastmodified":1492076811,
     "wof:name":"Waller Enterprises",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

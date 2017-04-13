@@ -2,9 +2,14 @@
   "id": 655361583,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Carnegie Plz Cherry Hill NJ 08003",
+    "addr:housenumber":"57",
+    "addr:postcode":"08003",
+    "addr:street":"Carnegie Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.961411,39.915834,-74.961411,39.915834",
     "geom:latitude":39.915834,
     "geom:longitude":-74.961411,
@@ -24,7 +29,14 @@
     "sg:postcode":"08003",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qCsOH9NihLEBI2TLxt89y_39.915834_-74.961411@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461303067,
     "wof:geomhash":"0d4d76bcbd8aced427d850eb5bcd18bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":655361583
+        }
+    ],
     "wof:id":655361583,
-    "wof:lastmodified":1466674530,
+    "wof:lastmodified":1492029414,
     "wof:name":"OKI America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

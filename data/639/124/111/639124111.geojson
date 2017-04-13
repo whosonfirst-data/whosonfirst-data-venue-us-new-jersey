@@ -2,9 +2,14 @@
   "id": 639124111,
   "type": "Feature",
   "properties": {
+    "addr:full":"558 Lakehurst Rd Browns Mills NJ 08015",
+    "addr:housenumber":"558",
+    "addr:postcode":"08015",
+    "addr:street":"Lakehurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.551661,39.954077,-74.551661,39.954077",
     "geom:latitude":39.954077,
     "geom:longitude":-74.551661,
@@ -29,7 +34,14 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477957,
+        85633793,
+        85976185,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iLeP0jRQA2Pflrb2mnLta_39.954077_-74.551661@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461287942,
     "wof:geomhash":"592f89f0b13179913bb51b580f15d480",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477957,
+            "locality_id":85976185,
+            "region_id":85688607,
+            "venue_id":639124111
+        }
+    ],
     "wof:id":639124111,
-    "wof:lastmodified":1466677558,
+    "wof:lastmodified":1492069457,
     "wof:name":"US Army Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

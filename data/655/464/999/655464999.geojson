@@ -2,9 +2,14 @@
   "id": 655464999,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Grove St Tenafly NJ 07670",
+    "addr:housenumber":"115",
+    "addr:postcode":"07670",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.964473,40.93185,-73.964473,40.93185",
     "geom:latitude":40.93185,
     "geom:longitude":-73.964473,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vmoAk3Cm4AUOYVEDSRgUc_40.931850_-73.964473@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461307380,
     "wof:geomhash":"6d0257e2e816b67fc4eaabee28e8efcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":655464999
+        }
+    ],
     "wof:id":655464999,
-    "wof:lastmodified":1466677300,
+    "wof:lastmodified":1492051921,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

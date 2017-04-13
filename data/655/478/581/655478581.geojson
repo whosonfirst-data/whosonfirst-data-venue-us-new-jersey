@@ -2,9 +2,14 @@
   "id": 655478581,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Sachem Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"43",
+    "addr:postcode":"07849",
+    "addr:street":"Sachem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.602704,40.989179,-74.602704,40.989179",
     "geom:latitude":40.989179,
     "geom:longitude":-74.602704,
@@ -24,7 +29,10 @@
     "sg:postcode":"07849",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15bH89r5wW7HiMLBG61LPj_40.989179_-74.602704@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461307942,
     "wof:geomhash":"c009e791dc281816c969cd11da05d5d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":655478581
+        }
+    ],
     "wof:id":655478581,
-    "wof:lastmodified":1466677663,
+    "wof:lastmodified":1492048449,
     "wof:name":"Greenscapes Lawn MGT LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

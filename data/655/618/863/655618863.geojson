@@ -2,9 +2,14 @@
   "id": 655618863,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Baldwin Ave S Bound Brook NJ 08880",
+    "addr:housenumber":"18",
+    "addr:postcode":"08880",
+    "addr:street":"Baldwin Ave S Bound",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.525362,40.54934,-74.525362,40.54934",
     "geom:latitude":40.54934,
     "geom:longitude":-74.525362,
@@ -29,7 +34,14 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CwLt3HBhYYgLOdGu62ByK_40.549340_-74.525362@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313832,
     "wof:geomhash":"18854752bc4d931797cf53157d412e47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":655618863
+        }
+    ],
     "wof:id":655618863,
-    "wof:lastmodified":1466681899,
+    "wof:lastmodified":1492028333,
     "wof:name":"Huszar Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

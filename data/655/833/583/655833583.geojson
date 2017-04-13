@@ -2,9 +2,14 @@
   "id": 655833583,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 State Rd Ste 120 Princeton NJ 08540",
+    "addr:housenumber":"812",
+    "addr:postcode":"08540",
+    "addr:street":"State Rd Ste 120",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.656842,40.389087,-74.656842,40.389087",
     "geom:latitude":40.389087,
     "geom:longitude":-74.656842,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"http://www.beautydream.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rEuc6neiiaBDNQKrh02ys_40.389087_-74.656842@1303262281"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461322808,
     "wof:geomhash":"48de4801e27dfb3c2e9f85d2a6b8508d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655833583
+        }
+    ],
     "wof:id":655833583,
-    "wof:lastmodified":1466687793,
+    "wof:lastmodified":1492049844,
     "wof:name":"Beauty Dream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

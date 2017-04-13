@@ -2,9 +2,14 @@
   "id": 639180713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Field Ave Plainfield NJ 07060",
+    "addr:housenumber":"1111",
+    "addr:postcode":"07060",
+    "addr:street":"Field Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.418574,40.600925,-74.418574,40.600925",
     "geom:latitude":40.600925,
     "geom:longitude":-74.418574,
@@ -24,7 +29,14 @@
     "sg:postcode":"07060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b7i93bAFi7sy0J4lTiWDT_40.600925_-74.418574@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461289206,
     "wof:geomhash":"54b5bb13c3b17f408b1f73b343b3dde0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639180713
+        }
+    ],
     "wof:id":639180713,
-    "wof:lastmodified":1466685898,
+    "wof:lastmodified":1492039079,
     "wof:name":"Alston Insurance Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

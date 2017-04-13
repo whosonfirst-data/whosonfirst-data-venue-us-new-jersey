@@ -2,9 +2,14 @@
   "id": 655709963,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Bergen Blvd Fairview NJ 07022",
+    "addr:housenumber":"50",
+    "addr:postcode":"07022",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.003098,40.813499,-74.003098,40.813499",
     "geom:latitude":40.813499,
     "geom:longitude":-74.003098,
@@ -34,7 +39,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wy2oNODLUeeav0Ze1lTo5_40.813499_-74.003098@1303262251"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461317765,
     "wof:geomhash":"01318a3c73c9da56b97e07eac0da0a21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655709963
+        }
+    ],
     "wof:id":655709963,
-    "wof:lastmodified":1466684669,
+    "wof:lastmodified":1492027488,
     "wof:name":"Krause's Homemade Candy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

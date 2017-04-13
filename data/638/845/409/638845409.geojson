@@ -2,9 +2,14 @@
   "id": 638845409,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Lacey Rd Lakehurst NJ 08759",
+    "addr:housenumber":"108",
+    "addr:postcode":"08759",
+    "addr:street":"Lacey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.379315,39.954409,-74.379315,39.954409",
     "geom:latitude":39.954409,
     "geom:longitude":-74.379315,
@@ -31,7 +36,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lGlyGc7HEjLSedmn90TTD_39.954409_-74.379315@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461281372,
     "wof:geomhash":"88c043d82140fa8951ba41bbca6837d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":638845409
+        }
+    ],
     "wof:id":638845409,
-    "wof:lastmodified":1466689163,
+    "wof:lastmodified":1492028404,
     "wof:name":"A Lada Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

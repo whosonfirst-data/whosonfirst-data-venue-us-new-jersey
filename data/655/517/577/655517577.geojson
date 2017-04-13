@@ -2,9 +2,14 @@
   "id": 655517577,
   "type": "Feature",
   "properties": {
+    "addr:full":"2126 Fernwood Ave Atco NJ 08004",
+    "addr:housenumber":"2126",
+    "addr:postcode":"08004",
+    "addr:street":"Fernwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.834404,39.782663,-74.834404,39.782663",
     "geom:latitude":39.782663,
     "geom:longitude":-74.834404,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60uVhG3oFcy16HactiBWNJ_39.782663_-74.834404@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461309587,
     "wof:geomhash":"8818d59df7a8e99f7ddd680d63fa8ce3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":655517577
+        }
+    ],
     "wof:id":655517577,
-    "wof:lastmodified":1466678693,
+    "wof:lastmodified":1492020632,
     "wof:name":"Electric Light & Power Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

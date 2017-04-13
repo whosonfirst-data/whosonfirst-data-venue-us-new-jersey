@@ -2,9 +2,14 @@
   "id": 655529279,
   "type": "Feature",
   "properties": {
+    "addr:full":"482 State Rte 57 Washington NJ 07882",
+    "addr:housenumber":"482",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 57",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019411,40.746296,-75.019411,40.746296",
     "geom:latitude":40.746296,
     "geom:longitude":-75.019411,
@@ -31,7 +36,10 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72gp9WfOsAtYKoSc4i7UUf_40.746296_-75.019411@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461310018,
     "wof:geomhash":"64a3602ca50ad20bb8f880abbcefa6ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655529279
+        }
+    ],
     "wof:id":655529279,
-    "wof:lastmodified":1466678955,
+    "wof:lastmodified":1492051686,
     "wof:name":"A-Sential Well & Pump Inc",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

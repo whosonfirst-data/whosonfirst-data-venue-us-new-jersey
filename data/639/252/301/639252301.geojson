@@ -2,9 +2,14 @@
   "id": 639252301,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"506",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.527825,40.561404,-74.527825,40.561404",
     "geom:latitude":40.561404,
     "geom:longitude":-74.527825,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.hitchone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tERCbPWEUWMYXnF7y0Xuc_40.561404_-74.527825@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461290878,
     "wof:geomhash":"feaaffe1044e1f5959c125d0d5a24df1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639252301
+        }
+    ],
     "wof:id":639252301,
-    "wof:lastmodified":1466690403,
+    "wof:lastmodified":1492069473,
     "wof:name":"Scagliotta Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

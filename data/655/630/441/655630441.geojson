@@ -2,9 +2,14 @@
   "id": 655630441,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Old Fourth Dr Oak Ridge NJ 07438",
+    "addr:housenumber":"73",
+    "addr:postcode":"07438",
+    "addr:street":"Old Fourth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532421,41.029357,-74.532421,41.029357",
     "geom:latitude":41.029357,
     "geom:longitude":-74.532421,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527327
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FxOULhpJXAZq0tDYIAu1d_41.029357_-74.532421@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314341,
     "wof:geomhash":"de41247a94c02183e3f73e32d480d459",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527327,
+            "venue_id":655630441
+        }
+    ],
     "wof:id":655630441,
-    "wof:lastmodified":1466682097,
+    "wof:lastmodified":1492058331,
     "wof:name":"Marr Consulting Service Inc",
     "wof:parent_id":420527327,
     "wof:placetype":"venue",

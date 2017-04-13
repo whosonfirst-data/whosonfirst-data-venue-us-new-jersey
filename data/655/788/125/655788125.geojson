@@ -2,9 +2,14 @@
   "id": 655788125,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Wantage Ave Branchville NJ 07826",
+    "addr:housenumber":"40",
+    "addr:postcode":"07826",
+    "addr:street":"Wantage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75021,41.148053,-74.75021,41.148053",
     "geom:latitude":41.148053,
     "geom:longitude":-74.75021,
@@ -34,7 +39,10 @@
         "casualty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uelTzwGKcyufYp2lTrLBB_41.148053_-74.750210@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320898,
     "wof:geomhash":"479b590971d72f73a56d704f4bebae8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788125
+        }
+    ],
     "wof:id":655788125,
-    "wof:lastmodified":1466686543,
+    "wof:lastmodified":1492048141,
     "wof:name":"Srm Insurance Brokerage",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

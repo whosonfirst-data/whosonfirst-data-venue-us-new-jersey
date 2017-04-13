@@ -2,9 +2,14 @@
   "id": 655833221,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Broemel Pl Pennington NJ 08534",
+    "addr:housenumber":"108",
+    "addr:postcode":"08534",
+    "addr:street":"Broemel Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.796759,40.330112,-74.796759,40.330112",
     "geom:latitude":40.330112,
     "geom:longitude":-74.796759,
@@ -28,7 +33,14 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17oxKiDYqA5tQEb7wXamcA_40.330112_-74.796759@1303262281"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322794,
     "wof:geomhash":"8592ab47d09218047a45463160bcace4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":655833221
+        }
+    ],
     "wof:id":655833221,
-    "wof:lastmodified":1466687696,
+    "wof:lastmodified":1492057378,
     "wof:name":"Pennington Fire Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

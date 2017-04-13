@@ -2,9 +2,14 @@
   "id": 639459607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1358 Burnet Ave Union NJ 07083",
+    "addr:housenumber":"1358",
+    "addr:postcode":"07083",
+    "addr:street":"Burnet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28214,40.710703,-74.28214,40.710703",
     "geom:latitude":40.710703,
     "geom:longitude":-74.28214,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X1ANyWSyOEAKlqYwaitqP_40.710703_-74.282140@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461295782,
     "wof:geomhash":"f57d0b826ae47f768c030cffc7456b86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639459607
+        }
+    ],
     "wof:id":639459607,
-    "wof:lastmodified":1466693927,
+    "wof:lastmodified":1492057640,
     "wof:name":"Sypco Home Improvement LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

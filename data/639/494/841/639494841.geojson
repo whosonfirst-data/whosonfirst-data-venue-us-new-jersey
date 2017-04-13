@@ -2,9 +2,14 @@
   "id": 639494841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1919",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271684,40.720362,-74.271684,40.720362",
     "geom:latitude":40.720362,
     "geom:longitude":-74.271684,
@@ -27,7 +32,10 @@
         "modeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ru51Wuk0mq74KHTKKQb49_40.720362_-74.271684@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297206,
     "wof:geomhash":"7659d92cbffe9240e414b377a5b19976",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639494841
+        }
+    ],
     "wof:id":639494841,
-    "wof:lastmodified":1466694589,
+    "wof:lastmodified":1492051351,
     "wof:name":"Beyond Talent",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655813201,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Genesee Ln Willingboro NJ 08046",
+    "addr:housenumber":"30",
+    "addr:postcode":"08046",
+    "addr:street":"Genesee Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.884003,40.0187,-74.884003,40.0187",
     "geom:latitude":40.0187,
     "geom:longitude":-74.884003,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_583ixVKergj67OiG0h9SbF_40.018700_-74.884003@1303262276"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461321955,
     "wof:geomhash":"3096e594d84c60d2418a451c345f1479",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":655813201
+        }
+    ],
     "wof:id":655813201,
-    "wof:lastmodified":1466687167,
+    "wof:lastmodified":1492049202,
     "wof:name":"Brown B Rev",
     "wof:parent_id":420526697,
     "wof:placetype":"venue",

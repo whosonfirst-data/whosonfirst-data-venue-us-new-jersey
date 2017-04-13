@@ -2,9 +2,14 @@
   "id": 655687381,
   "type": "Feature",
   "properties": {
+    "addr:full":"1833 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1833",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267528,40.721012,-74.267528,40.721012",
     "geom:latitude":40.721012,
     "geom:longitude":-74.267528,
@@ -29,7 +34,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UynIhbSaqWb8E5q1LkaK1_40.721012_-74.267528@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316754,
     "wof:geomhash":"872dfe481d7a25c554f52d1e310d64dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655687381
+        }
+    ],
     "wof:id":655687381,
-    "wof:lastmodified":1466683992,
+    "wof:lastmodified":1492076649,
     "wof:name":"Burger King",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

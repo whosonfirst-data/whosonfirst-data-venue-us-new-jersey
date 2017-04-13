@@ -2,9 +2,14 @@
   "id": 639439851,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 US Hwy 130 Cinnaminson NJ 08077",
+    "addr:housenumber":"2602",
+    "addr:postcode":"08077",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975487,40.006175,-74.975487,40.006175",
     "geom:latitude":40.006175,
     "geom:longitude":-74.975487,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.theharvestdiner.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z8vhFOxkHPdYUeVW6knl6_40.006175_-74.975487@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295112,
     "wof:geomhash":"921daa514587d7a702c9001116e6a417",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639439851
+        }
+    ],
     "wof:id":639439851,
-    "wof:lastmodified":1466693264,
+    "wof:lastmodified":1492056074,
     "wof:name":"Harvest Diner Restaurant",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

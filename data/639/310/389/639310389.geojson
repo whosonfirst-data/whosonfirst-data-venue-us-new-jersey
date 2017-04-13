@@ -2,9 +2,14 @@
   "id": 639310389,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"20",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148349,41.104181,-74.148349,41.104181",
     "geom:latitude":41.104181,
     "geom:longitude":-74.148349,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mbUYQ7mPu0cpAc9eFWMpa_41.104181_-74.148349@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461292181,
     "wof:geomhash":"243eaa5bd08e9295d2e71b6498b0b985",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639310389
+        }
+    ],
     "wof:id":639310389,
-    "wof:lastmodified":1466691688,
+    "wof:lastmodified":1492021125,
     "wof:name":"Front End Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655567571,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Prospect Ave Princeton NJ 08540",
+    "addr:housenumber":"65",
+    "addr:postcode":"08540",
+    "addr:street":"Prospect Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.651183,40.348777,-74.651183,40.348777",
     "geom:latitude":40.348777,
     "geom:longitude":-74.651183,
@@ -27,7 +32,14 @@
         "inn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25uiPwqh7h3jiCemG3he5y_40.348777_-74.651183@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311605,
     "wof:geomhash":"ac0d9e6415ba8db42671c4d81cb004eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":655567571
+        }
+    ],
     "wof:id":655567571,
-    "wof:lastmodified":1466680095,
+    "wof:lastmodified":1492051670,
     "wof:name":"Cloister Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

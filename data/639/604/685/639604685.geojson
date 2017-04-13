@@ -2,9 +2,14 @@
   "id": 639604685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Rose Dr Jackson NJ 08527",
+    "addr:housenumber":"1",
+    "addr:postcode":"08527",
+    "addr:street":"Rose Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297055,40.13191,-74.297055,40.13191",
     "geom:latitude":40.13191,
     "geom:longitude":-74.297055,
@@ -29,7 +34,13 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jFlG92vVDPEBajSrdRakK_40.131910_-74.297055@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461301916,
     "wof:geomhash":"b21c8cdcbb19ac85e58a289b681168a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639604685
+        }
+    ],
     "wof:id":639604685,
-    "wof:lastmodified":1466697208,
+    "wof:lastmodified":1492056018,
     "wof:name":"Fountainhead Adult Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

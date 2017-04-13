@@ -2,9 +2,14 @@
   "id": 655388971,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Oak Pines Blvd Pemberton NJ 08068",
+    "addr:housenumber":"104",
+    "addr:postcode":"08068",
+    "addr:street":"Oak Pines Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.671538,39.9572,-74.671538,39.9572",
     "geom:latitude":39.9572,
     "geom:longitude":-74.671538,
@@ -24,7 +29,10 @@
     "sg:postcode":"08068",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ri8RI7O4nlEKOZBNCgkPr_39.957200_-74.671538@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461304158,
     "wof:geomhash":"7cca0b8d63b7091f0666cd4ee86bb93a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655388971
+        }
+    ],
     "wof:id":655388971,
-    "wof:lastmodified":1466675322,
+    "wof:lastmodified":1492049095,
     "wof:name":"D O Enterprizes",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

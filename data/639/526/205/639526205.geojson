@@ -2,9 +2,14 @@
   "id": 639526205,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Madison Ave New Milford NJ 07646",
+    "addr:housenumber":"440",
+    "addr:postcode":"07646",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.010994,40.940119,-74.010994,40.940119",
     "geom:latitude":40.940119,
     "geom:longitude":-74.010994,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477695,
+        85633793,
+        85975969,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1efg5yMioPBqWm08jqny2n_40.940119_-74.010994@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298650,
     "wof:geomhash":"222e6044b15d88bcc7eee69a31676757",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477695,
+            "locality_id":85975969,
+            "region_id":85688607,
+            "venue_id":639526205
+        }
+    ],
     "wof:id":639526205,
-    "wof:lastmodified":1466695304,
+    "wof:lastmodified":1492048854,
     "wof:name":"Dr ND Bookstaver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

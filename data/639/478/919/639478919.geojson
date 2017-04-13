@@ -2,9 +2,14 @@
   "id": 639478919,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 Monmouth St Jersey City NJ 07302",
+    "addr:housenumber":"419",
+    "addr:postcode":"07302",
+    "addr:street":"Monmouth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.049125,40.723665,-74.049125,40.723665",
     "geom:latitude":40.723665,
     "geom:longitude":-74.049125,
@@ -27,7 +32,16 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85878419,
+        102191575,
+        404478139,
+        85633793,
+        85975295,
+        102080719,
+        85688607,
+        85878415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AG1oG8jIW7wyhxx7EhSSF_40.723665_-74.049125@1294171694"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1461296561,
     "wof:geomhash":"fcbba6fff8b4cc7131559bc5a1f2e982",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878419,
+            "region_id":85688607,
+            "venue_id":639478919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878415,
+            "region_id":85688607,
+            "venue_id":639478919
+        }
+    ],
     "wof:id":639478919,
-    "wof:lastmodified":1466693881,
+    "wof:lastmodified":1492028554,
     "wof:name":"Rivera Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

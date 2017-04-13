@@ -2,9 +2,14 @@
   "id": 655598239,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Flock Rd Mercerville NJ 08619",
+    "addr:housenumber":"109",
+    "addr:postcode":"08619",
+    "addr:street":"Flock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.6829,40.248907,-74.6829,40.248907",
     "geom:latitude":40.248907,
     "geom:longitude":-74.6829,
@@ -38,7 +43,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pFtmGEK4gA3rSRENWC7YQ_40.248907_-74.682900@1294171694"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461312935,
     "wof:geomhash":"b597d165029df9eb2d1d209a10eada14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655598239
+        }
+    ],
     "wof:id":655598239,
-    "wof:lastmodified":1466680972,
+    "wof:lastmodified":1492053584,
     "wof:name":"Creston Inc",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639521491,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Powell Place Rd Vincentown NJ 08088",
+    "addr:housenumber":"30",
+    "addr:postcode":"08088",
+    "addr:street":"Powell Place Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.701274,39.873343,-74.701274,39.873343",
     "geom:latitude":39.873343,
     "geom:longitude":-74.701274,
@@ -28,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526613,
+        420526633,
+        85688607,
         85806961,
         102087415
     ],
@@ -43,6 +50,16 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639521491
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526633,
+            "venue_id":639521491
+        },
+        {
+            "country_id":85633793,
             "county_id":102087415,
             "neighbourhood_id":85806961,
             "region_id":85688607,
@@ -50,9 +67,9 @@
         }
     ],
     "wof:id":639521491,
-    "wof:lastmodified":1466695270,
+    "wof:lastmodified":1492020647,
     "wof:name":"Russell T Dibella",
-    "wof:parent_id":85806961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

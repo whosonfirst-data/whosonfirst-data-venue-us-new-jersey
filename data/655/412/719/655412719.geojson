@@ -2,9 +2,14 @@
   "id": 655412719,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"351",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142047,40.044143,-74.142047,40.044143",
     "geom:latitude":40.044143,
     "geom:longitude":-74.142047,
@@ -28,7 +33,10 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67ewRgz4N8MIlkBvzTqHty_40.044143_-74.142047@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305178,
     "wof:geomhash":"482aa6284d005884af8bfbb9366651fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655412719
+        }
+    ],
     "wof:id":655412719,
-    "wof:lastmodified":1466675908,
+    "wof:lastmodified":1492056711,
     "wof:name":"Drum Point Plaza Laundromat",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

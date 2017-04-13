@@ -2,9 +2,14 @@
   "id": 639125347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3790 US Hwy 1 Monmouth Jct NJ 08852",
+    "addr:housenumber":"3790",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.529465,40.420742,-74.529465,40.420742",
     "geom:latitude":40.420742,
     "geom:longitude":-74.529465,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527179,
+        85688607,
         85806263,
         102087417
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639125347
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85806263,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639125347,
-    "wof:lastmodified":1466677727,
+    "wof:lastmodified":1492046203,
     "wof:name":"Carkhuff's Patio & Garden Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

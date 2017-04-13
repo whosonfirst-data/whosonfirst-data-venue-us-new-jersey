@@ -2,9 +2,14 @@
   "id": 639494619,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Orchard Dr Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"25",
+    "addr:postcode":"07458",
+    "addr:street":"Orchard Dr Upper Saddle Rvr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.10704,41.063075,-74.10704,41.063075",
     "geom:latitude":41.063075,
     "geom:longitude":-74.10704,
@@ -28,7 +33,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vYZMgCQa7Tj4g7UqFIzuV_41.063075_-74.107040@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297198,
     "wof:geomhash":"12cc509bed5e6b857e9bbe59c03de8ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639494619
+        }
+    ],
     "wof:id":639494619,
-    "wof:lastmodified":1466694505,
+    "wof:lastmodified":1492039207,
     "wof:name":"Grant Benton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

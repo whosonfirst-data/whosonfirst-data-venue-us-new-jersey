@@ -2,9 +2,14 @@
   "id": 638707011,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Ellisdale Rd Allentown NJ 08501",
+    "addr:housenumber":"80",
+    "addr:postcode":"08501",
+    "addr:street":"Ellisdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.593252,40.143813,-74.593252,40.143813",
     "geom:latitude":40.143813,
     "geom:longitude":-74.593252,
@@ -24,7 +29,13 @@
     "sg:postcode":"08501",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eVcXBlqH2YjEUS8G3G4et_40.143813_-74.593252@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461277808,
     "wof:geomhash":"336f78fc3fda42f8cac9352042fe700f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":638707011
+        }
+    ],
     "wof:id":638707011,
-    "wof:lastmodified":1466688689,
+    "wof:lastmodified":1492062563,
     "wof:name":"Grey Horse Carriage Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

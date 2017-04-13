@@ -2,9 +2,14 @@
   "id": 638951717,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 State Rte 70 Medford NJ 08055",
+    "addr:housenumber":"109",
+    "addr:postcode":"08055",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.85623,39.898477,-74.85623,39.898477",
     "geom:latitude":39.898477,
     "geom:longitude":-74.85623,
@@ -32,7 +37,10 @@
         "poultry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m17BoJmOehIqh0rpGT9FH_39.898477_-74.856230@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461284061,
     "wof:geomhash":"ef5658c7b2233e9861365965aad56617",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":638951717
+        }
+    ],
     "wof:id":638951717,
-    "wof:lastmodified":1466691171,
+    "wof:lastmodified":1492052219,
     "wof:name":"Paradise Valley Poultry",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

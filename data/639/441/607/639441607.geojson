@@ -2,9 +2,14 @@
   "id": 639441607,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Atlantic Ave Columbus NJ 08022",
+    "addr:housenumber":"10",
+    "addr:postcode":"08022",
+    "addr:street":"Atlantic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.721616,40.070316,-74.721616,40.070316",
     "geom:latitude":40.070316,
     "geom:longitude":-74.721616,
@@ -27,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YayxdWwMm2ZFpYZuNBPqt_40.070316_-74.721616@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295144,
     "wof:geomhash":"7913fd1019e4f2047f35987cb79f041d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":639441607
+        }
+    ],
     "wof:id":639441607,
-    "wof:lastmodified":1466693461,
+    "wof:lastmodified":1492051311,
     "wof:name":"Franklin Fire Co",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

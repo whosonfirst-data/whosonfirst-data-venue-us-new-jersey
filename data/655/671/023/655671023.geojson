@@ -2,9 +2,14 @@
   "id": 655671023,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Hardwick St Belvidere NJ 07823",
+    "addr:housenumber":"613",
+    "addr:postcode":"07823",
+    "addr:street":"Hardwick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.074799,40.821499,-75.074799,40.821499",
     "geom:latitude":40.821499,
     "geom:longitude":-75.074799,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.sitemanagersinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uMs4QxFGcS2U5SUA2JiVg_40.821247_-75.074865@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316052,
     "wof:geomhash":"0880d2b82cf387c57cd10c098f121ebb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655671023
+        }
+    ],
     "wof:id":655671023,
-    "wof:lastmodified":1466683399,
+    "wof:lastmodified":1492048112,
     "wof:name":"Site Managers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639529513,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Aberdeen Rd Matawan NJ 07747",
+    "addr:housenumber":"43",
+    "addr:postcode":"07747",
+    "addr:street":"Aberdeen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234972,40.426168,-74.234972,40.426168",
     "geom:latitude":40.426168,
     "geom:longitude":-74.234972,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478367,
+        85633793,
+        85975419,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ou9TqFM2sW594S8arJFWp_40.426168_-74.234972@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298812,
     "wof:geomhash":"4467a977bff4b21b1a44fec95b282b8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478367,
+            "locality_id":85975419,
+            "region_id":85688607,
+            "venue_id":639529513
+        }
+    ],
     "wof:id":639529513,
-    "wof:lastmodified":1466695738,
+    "wof:lastmodified":1492047134,
     "wof:name":"D N D Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

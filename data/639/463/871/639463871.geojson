@@ -2,9 +2,14 @@
   "id": 639463871,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 River Rd Clifton NJ 07014",
+    "addr:housenumber":"112",
+    "addr:postcode":"07014",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132526,40.826349,-74.132526,40.826349",
     "geom:latitude":40.826349,
     "geom:longitude":-74.132526,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52E4iMDLdEVKK4wEdmbFrq_40.826349_-74.132526@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295955,
     "wof:geomhash":"5f85c34bf4571b10f13d22decd4d45e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":639463871
+        }
+    ],
     "wof:id":639463871,
-    "wof:lastmodified":1466694009,
+    "wof:lastmodified":1492042492,
     "wof:name":"Young Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

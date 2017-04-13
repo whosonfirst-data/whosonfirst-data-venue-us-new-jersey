@@ -2,9 +2,14 @@
   "id": 639125661,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 W Washington Ave Washington NJ 07882",
+    "addr:housenumber":"102",
+    "addr:postcode":"07882",
+    "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.981755,40.758019,-74.981755,40.758019",
     "geom:latitude":40.758019,
     "geom:longitude":-74.981755,
@@ -24,7 +29,10 @@
     "sg:postcode":"07882",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24lvX2ihzMx7puc8WQ0XC7_40.758019_-74.981755@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461287982,
     "wof:geomhash":"687cf1f2afefb87ffa647cddd411e718",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639125661
+        }
+    ],
     "wof:id":639125661,
-    "wof:lastmodified":1466677783,
+    "wof:lastmodified":1492061315,
     "wof:name":"Northwestern Mutual Financial",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

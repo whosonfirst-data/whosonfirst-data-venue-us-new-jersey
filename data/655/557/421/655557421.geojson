@@ -2,9 +2,14 @@
   "id": 655557421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 State Rte 35 Normandy Beach NJ 08735",
+    "addr:housenumber":"3505",
+    "addr:postcode":"08735",
+    "addr:street":"State Rte 35 Normandy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.063219,39.994589,-74.063219,39.994589",
     "geom:latitude":39.994589,
     "geom:longitude":-74.063219,
@@ -25,14 +30,15 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85865309,
-        102081485,
         85839143,
         102191575,
         404477803,
-        85976357
+        85633793,
+        85976357,
+        102081485,
+        85688607,
+        85865309,
+        420558337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +48,16 @@
     "wof:created":1461311130,
     "wof:geomhash":"acf34e943e154850d2be5f3182c74cc2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976357,
+            "neighbourhood_id":85839143,
+            "region_id":85688607,
+            "venue_id":655557421
+        },
         {
             "country_id":85633793,
             "county_id":102081485,
@@ -55,15 +71,15 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976357,
-            "neighbourhood_id":85839143,
+            "neighbourhood_id":420558337,
             "region_id":85688607,
             "venue_id":655557421
         }
     ],
     "wof:id":655557421,
-    "wof:lastmodified":1466679711,
+    "wof:lastmodified":1492045216,
     "wof:name":"Wawa 428",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

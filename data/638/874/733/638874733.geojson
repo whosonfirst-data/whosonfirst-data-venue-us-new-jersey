@@ -2,9 +2,14 @@
   "id": 638874733,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"30",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148254,41.103823,-74.148254,41.103823",
     "geom:latitude":41.103823,
     "geom:longitude":-74.148254,
@@ -28,7 +33,13 @@
         "finishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OMevbLYW2zwtKg5x8GHeZ_41.103823_-74.148254@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282067,
     "wof:geomhash":"6cee72e7730b85b1e99f2b50dce46986",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638874733
+        }
+    ],
     "wof:id":638874733,
-    "wof:lastmodified":1466689569,
+    "wof:lastmodified":1492022067,
     "wof:name":"Crosstown Photo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

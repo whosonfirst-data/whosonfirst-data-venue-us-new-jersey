@@ -2,9 +2,14 @@
   "id": 639555241,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Boulevard Washington NJ 07882",
+    "addr:housenumber":"150",
+    "addr:postcode":"07882",
+    "addr:street":"Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975753,40.761258,-74.975753,40.761258",
     "geom:latitude":40.761258,
     "geom:longitude":-74.975753,
@@ -24,7 +29,10 @@
     "sg:postcode":"07882",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74HUztFZcTBsA9pX8cNs7C_40.761258_-74.975753@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461299951,
     "wof:geomhash":"d955cf330486837442a2819fa920a1b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639555241
+        }
+    ],
     "wof:id":639555241,
-    "wof:lastmodified":1466695843,
+    "wof:lastmodified":1492051421,
     "wof:name":"Greenfield Online",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639236561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Sunset Ave Ocean NJ 07712",
+    "addr:housenumber":"2100",
+    "addr:postcode":"07712",
+    "addr:street":"Sunset Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.026522,40.232121,-74.026522,40.232121",
     "geom:latitude":40.232121,
     "geom:longitude":-74.026522,
@@ -31,7 +36,9 @@
         85633793,
         85975435,
         102085049,
-        85688607
+        85688607,
+        85976033,
+        85855351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +57,20 @@
             "neighbourhood_id":85892317,
             "region_id":85688607,
             "venue_id":639236561
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85976033,
+            "neighbourhood_id":85855351,
+            "region_id":85688607,
+            "venue_id":639236561
         }
     ],
     "wof:id":639236561,
-    "wof:lastmodified":1466690066,
+    "wof:lastmodified":1492053491,
     "wof:name":"Sunset Florist",
-    "wof:parent_id":85892317,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

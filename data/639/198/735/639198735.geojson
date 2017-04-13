@@ -2,9 +2,14 @@
   "id": 639198735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3055 State Rte 27 Franklin Park NJ 08823",
+    "addr:housenumber":"3055",
+    "addr:postcode":"08823",
+    "addr:street":"State Rte 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537576,40.437793,-74.537576,40.437793",
     "geom:latitude":40.437793,
     "geom:longitude":-74.537576,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VXknJRwqUe0XN8yi7VjTV_40.437793_-74.537576@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289602,
     "wof:geomhash":"3aaf3e6043ae1d16549cf528ab318868",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639198735
+        }
+    ],
     "wof:id":639198735,
-    "wof:lastmodified":1466688380,
+    "wof:lastmodified":1492069484,
     "wof:name":"Arthur W Perry MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

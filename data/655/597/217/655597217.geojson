@@ -2,9 +2,14 @@
   "id": 655597217,
   "type": "Feature",
   "properties": {
+    "addr:full":"769 Irvington Ave Maplewood NJ 07040",
+    "addr:housenumber":"769",
+    "addr:postcode":"07040",
+    "addr:street":"Irvington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244284,40.731686,-74.244284,40.731686",
     "geom:latitude":40.731686,
     "geom:longitude":-74.244284,
@@ -27,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6imhV0tku8din8Pfy0S26e_40.731686_-74.244284@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312890,
     "wof:geomhash":"2cf2ebd4f7dff36638bfacd7fb375f0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":655597217
+        }
+    ],
     "wof:id":655597217,
-    "wof:lastmodified":1466680965,
+    "wof:lastmodified":1492024391,
     "wof:name":"Marina Travel Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

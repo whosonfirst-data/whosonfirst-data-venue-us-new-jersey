@@ -2,9 +2,14 @@
   "id": 655772001,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Grant Avenue Totowa NJ 07512",
+    "addr:housenumber":"97",
+    "addr:postcode":"07512",
+    "addr:street":"Grant Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210276,40.902285,-74.210276,40.902285",
     "geom:latitude":40.902285,
     "geom:longitude":-74.210276,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"www.njcakemama.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zq9b1Ph3SzADPo5Jll5Xn_40.902285_-74.210276@1303262266"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461320194,
     "wof:geomhash":"07f9ee14ba9f69920de10256b67b0784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655772001
+        }
+    ],
     "wof:id":655772001,
-    "wof:lastmodified":1466688852,
+    "wof:lastmodified":1492061331,
     "wof:name":"NJ Cake Mama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

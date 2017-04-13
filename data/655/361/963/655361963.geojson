@@ -2,9 +2,14 @@
   "id": 655361963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Albany Ave Belle Mead NJ 08527",
+    "addr:housenumber":"2",
+    "addr:postcode":"08527",
+    "addr:street":"Albany Ave Belle Mead",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257108,40.135633,-74.257108,40.135633",
     "geom:latitude":40.135633,
     "geom:longitude":-74.257108,
@@ -27,7 +32,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JnOoXsQB1Y0GjvnIvOk2e_40.135633_-74.257108@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303087,
     "wof:geomhash":"8d7fb02c571ec34f2ffc3481b475c662",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655361963
+        }
+    ],
     "wof:id":655361963,
-    "wof:lastmodified":1466674634,
+    "wof:lastmodified":1492056020,
     "wof:name":"Central Parking Corporation",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

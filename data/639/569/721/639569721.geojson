@@ -2,9 +2,14 @@
   "id": 639569721,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Sturbridge Dr Saddle River NJ 07458",
+    "addr:housenumber":"31",
+    "addr:postcode":"07458",
+    "addr:street":"Sturbridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.078634,41.059125,-74.078634,41.059125",
     "geom:latitude":41.059125,
     "geom:longitude":-74.078634,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U5lWW1QS2KR9Q7EWfeWi2_41.059125_-74.078634@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300501,
     "wof:geomhash":"077f358cdabe7ad9cab4fc75972ff012",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639569721
+        }
+    ],
     "wof:id":639569721,
-    "wof:lastmodified":1466696310,
+    "wof:lastmodified":1492049494,
     "wof:name":"Kamen Mazen MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639460999,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 E Railroad Ave Jamesburg NJ 08831",
+    "addr:housenumber":"51",
+    "addr:postcode":"08831",
+    "addr:street":"E Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.438952,40.351409,-74.438952,40.351409",
     "geom:latitude":40.351409,
     "geom:longitude":-74.438952,
@@ -29,7 +34,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177,
+        85688607,
+        85865299,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yaloanIJ8y8QwP8vvnPNE_40.351409_-74.438952@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461295845,
     "wof:geomhash":"2081c4679d9de72b942017697d56f3f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639460999
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85865299,
+            "region_id":85688607,
+            "venue_id":639460999
+        }
+    ],
     "wof:id":639460999,
-    "wof:lastmodified":1466694036,
+    "wof:lastmodified":1492044433,
     "wof:name":"Steve's Machine",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

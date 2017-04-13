@@ -2,9 +2,14 @@
   "id": 638927461,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 W Valley Brook Rd Califon NJ 07830",
+    "addr:housenumber":"277",
+    "addr:postcode":"07830",
+    "addr:street":"W Valley Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.808167,40.743947,-74.808167,40.743947",
     "geom:latitude":40.743947,
     "geom:longitude":-74.808167,
@@ -27,7 +32,13 @@
         "exporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477679,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q1VG4joEuzGrHnJzjHPNM_40.743947_-74.808167@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283451,
     "wof:geomhash":"3646438084d0da78cd6b5fc683d1041b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477679,
+            "region_id":85688607,
+            "venue_id":638927461
+        }
+    ],
     "wof:id":638927461,
-    "wof:lastmodified":1466690707,
+    "wof:lastmodified":1492030739,
     "wof:name":"IES Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

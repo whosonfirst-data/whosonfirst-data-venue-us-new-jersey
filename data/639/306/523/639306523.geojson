@@ -2,9 +2,14 @@
   "id": 639306523,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Nautilus Dr Leonardo NJ 07737",
+    "addr:housenumber":"55",
+    "addr:postcode":"07737",
+    "addr:street":"Nautilus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.063175,40.409546,-74.063175,40.409546",
     "geom:latitude":40.409546,
     "geom:longitude":-74.063175,
@@ -28,7 +33,10 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rjwzKHy5sOM08nfSIBWk8_40.409546_-74.063175@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292100,
     "wof:geomhash":"ee61170fe9e58a295d0714b3e0b07cc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639306523
+        }
+    ],
     "wof:id":639306523,
-    "wof:lastmodified":1466691514,
+    "wof:lastmodified":1492075332,
     "wof:name":"Preferred Fire Protection",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

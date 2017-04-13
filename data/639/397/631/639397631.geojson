@@ -2,9 +2,14 @@
   "id": 639397631,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Robin Rd Mahwah NJ 07430",
+    "addr:housenumber":"19",
+    "addr:postcode":"07430",
+    "addr:street":"Robin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116252,41.085254,-74.116252,41.085254",
     "geom:latitude":41.085254,
     "geom:longitude":-74.116252,
@@ -30,7 +35,13 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bdk5X3Eftv0OTbt8mJoyx_41.085254_-74.116252@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461294092,
     "wof:geomhash":"fb2b665487c82db7a026c6ca63b7771f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639397631
+        }
+    ],
     "wof:id":639397631,
-    "wof:lastmodified":1466692938,
+    "wof:lastmodified":1492039014,
     "wof:name":"A C Flooring Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

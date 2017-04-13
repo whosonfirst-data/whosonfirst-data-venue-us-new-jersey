@@ -2,9 +2,14 @@
   "id": 655538835,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Grant Ave Dumont NJ 07628",
+    "addr:housenumber":"17",
+    "addr:postcode":"07628",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987544,40.948638,-73.987544,40.948638",
     "geom:latitude":40.948638,
     "geom:longitude":-73.987544,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RNijX1BQpTYGk2yukPgov_40.948638_-73.987544@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461310379,
     "wof:geomhash":"6af23d6250eea647fb3456c329f8938d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655538835
+        }
+    ],
     "wof:id":655538835,
-    "wof:lastmodified":1466679367,
+    "wof:lastmodified":1492053871,
     "wof:name":"Dumont Bagel Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

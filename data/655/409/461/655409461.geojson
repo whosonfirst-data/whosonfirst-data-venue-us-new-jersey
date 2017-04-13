@@ -2,9 +2,14 @@
   "id": 655409461,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Staats Rd Bloomsbury NJ 08804",
+    "addr:housenumber":"14",
+    "addr:postcode":"08804",
+    "addr:street":"Staats Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.100268,40.637004,-75.100268,40.637004",
     "geom:latitude":40.637004,
     "geom:longitude":-75.100268,
@@ -28,7 +33,13 @@
         "blind"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7USwXiO4etqydYZqrDIl72_40.637004_-75.100268@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461305033,
     "wof:geomhash":"5bea1b86433185ab8c56533fef907ef4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655409461
+        }
+    ],
     "wof:id":655409461,
-    "wof:lastmodified":1466675792,
+    "wof:lastmodified":1492029576,
     "wof:name":"Budget Blinds Of Flemington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

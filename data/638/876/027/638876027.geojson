@@ -2,9 +2,14 @@
   "id": 638876027,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Greenbriar Blvd Brick NJ 08724",
+    "addr:housenumber":"29",
+    "addr:postcode":"08724",
+    "addr:street":"Greenbriar Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126797,40.100623,-74.126797,40.100623",
     "geom:latitude":40.100623,
     "geom:longitude":-74.126797,
@@ -27,7 +32,13 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hKt1qQXbzgIiQcMw4C0d8_40.100623_-74.126797@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282095,
     "wof:geomhash":"e28e21d462946edf9908f9f17d51d1c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":638876027
+        }
+    ],
     "wof:id":638876027,
-    "wof:lastmodified":1466689776,
+    "wof:lastmodified":1492049945,
     "wof:name":"Ppanj Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639199257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Chancellor Ave Maplewood NJ 07040",
+    "addr:housenumber":"1033",
+    "addr:postcode":"07040",
+    "addr:street":"Chancellor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251865,40.723178,-74.251865,40.723178",
     "geom:latitude":40.723178,
     "geom:longitude":-74.251865,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526929,
+        85688607,
         85892405,
         102085043
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":639199257
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85892405,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":639199257,
-    "wof:lastmodified":1466688435,
+    "wof:lastmodified":1492063990,
     "wof:name":"Blessed Day Care Ctr",
-    "wof:parent_id":85892405,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

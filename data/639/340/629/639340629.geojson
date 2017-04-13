@@ -2,9 +2,14 @@
   "id": 639340629,
   "type": "Feature",
   "properties": {
+    "addr:full":"72 Central Ave Clark NJ 07066",
+    "addr:housenumber":"72",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307252,40.628828,-74.307252,40.628828",
     "geom:latitude":40.628828,
     "geom:longitude":-74.307252,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cAAYDdCJQadGz0r0fz3We_40.628828_-74.307252@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461292823,
     "wof:geomhash":"c4c784941d306b25346500cd8cc02e5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639340629
+        }
+    ],
     "wof:id":639340629,
-    "wof:lastmodified":1466692342,
+    "wof:lastmodified":1492018831,
     "wof:name":"Salon Easy Street Of Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

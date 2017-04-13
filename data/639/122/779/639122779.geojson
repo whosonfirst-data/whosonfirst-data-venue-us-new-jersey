@@ -2,9 +2,14 @@
   "id": 639122779,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Old Turnpike Rd Port Murray NJ 07865",
+    "addr:housenumber":"128",
+    "addr:postcode":"07865",
+    "addr:street":"Old Turnpike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.87746,40.789884,-74.87746,40.789884",
     "geom:latitude":40.789884,
     "geom:longitude":-74.87746,
@@ -35,7 +40,10 @@
         "strategic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sLgfUXgJMiVP5X5Gv0oz1_40.789884_-74.877460@1294171694"
@@ -43,11 +51,17 @@
     "wof:country":"US",
     "wof:created":1461287899,
     "wof:geomhash":"c147fdca612c7de66a7b6f4995ff66a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":639122779
+        }
+    ],
     "wof:id":639122779,
-    "wof:lastmodified":1466677420,
+    "wof:lastmodified":1492055425,
     "wof:name":"Neuro Tech Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

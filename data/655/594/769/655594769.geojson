@@ -2,9 +2,14 @@
   "id": 655594769,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Jockey Hollow Way Union NJ 07083",
+    "addr:housenumber":"133",
+    "addr:postcode":"07083",
+    "addr:street":"Jockey Hollow Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287478,40.712466,-74.287478,40.712466",
     "geom:latitude":40.712466,
     "geom:longitude":-74.287478,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u2JnA2vt8eWAIHbtHdXUS_40.712466_-74.287478@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461312779,
     "wof:geomhash":"1f7e8ae58fae89d5e7e4740e474bbb7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655594769
+        }
+    ],
     "wof:id":655594769,
-    "wof:lastmodified":1466680912,
+    "wof:lastmodified":1492048154,
     "wof:name":"Manzella R H & Associates LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

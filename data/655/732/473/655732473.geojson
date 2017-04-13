@@ -2,9 +2,14 @@
   "id": 655732473,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 E Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"41",
+    "addr:postcode":"07065",
+    "addr:street":"E Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276608,40.605774,-74.276608,40.605774",
     "geom:latitude":40.605774,
     "geom:longitude":-74.276608,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YRnJmxWKG4ngNI6QqrjP5_40.605774_-74.276608@1303262256"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318627,
     "wof:geomhash":"1b54ba66cecba330641155c09daf4184",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732473
+        }
+    ],
     "wof:id":655732473,
-    "wof:lastmodified":1466685113,
+    "wof:lastmodified":1492065356,
     "wof:name":"Emergency 1 24 Hour A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

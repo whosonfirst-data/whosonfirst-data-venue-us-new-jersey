@@ -2,9 +2,14 @@
   "id": 655509257,
   "type": "Feature",
   "properties": {
+    "addr:full":"391 State Rte 94 Newton NJ 07860",
+    "addr:housenumber":"391",
+    "addr:postcode":"07860",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800423,41.042628,-74.800423,41.042628",
     "geom:latitude":41.042628,
     "geom:longitude":-74.800423,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zTdaSNwMBOyqkkvzFa8Qg_41.042628_-74.800423@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309253,
     "wof:geomhash":"07ea5265597e857d6ed19f2d28549a93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655509257
+        }
+    ],
     "wof:id":655509257,
-    "wof:lastmodified":1466678414,
+    "wof:lastmodified":1492047567,
     "wof:name":"Fredon Animal Hospital",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

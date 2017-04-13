@@ -2,9 +2,14 @@
   "id": 655570275,
   "type": "Feature",
   "properties": {
+    "addr:full":"272 Stanton St Rahway NJ 07065",
+    "addr:housenumber":"272",
+    "addr:postcode":"07065",
+    "addr:street":"Stanton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286479,40.603477,-74.286479,40.603477",
     "geom:latitude":40.603477,
     "geom:longitude":-74.286479,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bNCrHacPS0hfFWu7kMIf8_40.603477_-74.286479@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311722,
     "wof:geomhash":"b5ec52080a619936414e66c0cb360c28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655570275
+        }
+    ],
     "wof:id":655570275,
-    "wof:lastmodified":1466680009,
+    "wof:lastmodified":1492023532,
     "wof:name":"Novartis Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

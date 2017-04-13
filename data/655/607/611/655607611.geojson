@@ -2,9 +2,14 @@
   "id": 655607611,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Settlers Rd Sussex NJ 07461",
+    "addr:housenumber":"13",
+    "addr:postcode":"07461",
+    "addr:street":"Settlers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523939,41.221454,-74.523939,41.221454",
     "geom:latitude":41.221454,
     "geom:longitude":-74.523939,
@@ -28,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527649,
         85846973,
         102191575,
         404478483,
-        85633793,
         85976265,
         102086779,
         85688607
@@ -45,6 +51,11 @@
     "wof:geomhash":"7343457aa0af702248ae8f5a45371469",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":655607611
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086779,
@@ -56,9 +67,9 @@
         }
     ],
     "wof:id":655607611,
-    "wof:lastmodified":1466681506,
+    "wof:lastmodified":1492048029,
     "wof:name":"C & B Point Of View",
-    "wof:parent_id":85846973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638968499,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Lisa Dr Chatham NJ 07928",
+    "addr:housenumber":"32",
+    "addr:postcode":"07928",
+    "addr:street":"Lisa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.441077,40.699028,-74.441077,40.699028",
     "geom:latitude":40.699028,
     "geom:longitude":-74.441077,
@@ -24,7 +29,13 @@
     "sg:postcode":"07928",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jcQi39L5C9dwyZNVV7KVZ_40.699028_-74.441077@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461284419,
     "wof:geomhash":"9169d50b30c4dbd66153c5ea55bc51bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":638968499
+        }
+    ],
     "wof:id":638968499,
-    "wof:lastmodified":1466691618,
+    "wof:lastmodified":1492042911,
     "wof:name":"Global Chemical Products LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

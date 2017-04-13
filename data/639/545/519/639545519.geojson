@@ -2,9 +2,14 @@
   "id": 639545519,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 E Johnson Ave Bergenfield NJ 07621",
+    "addr:housenumber":"182",
+    "addr:postcode":"07621",
+    "addr:street":"E Johnson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985299,40.931872,-73.985299,40.931872",
     "geom:latitude":40.931872,
     "geom:longitude":-73.985299,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r7T2yYBpAxbqimo9uy6yT_40.931872_-73.985299@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299552,
     "wof:geomhash":"e7420fad2a65982af98f9b781249b232",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639545519
+        }
+    ],
     "wof:id":639545519,
-    "wof:lastmodified":1466695701,
+    "wof:lastmodified":1492049652,
     "wof:name":"Cobra Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

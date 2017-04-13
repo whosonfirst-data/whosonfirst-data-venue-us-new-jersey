@@ -2,9 +2,14 @@
   "id": 655679609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2526 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2526",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291603,40.7174,-74.291603,40.7174",
     "geom:latitude":40.7174,
     "geom:longitude":-74.291603,
@@ -24,7 +29,10 @@
     "sg:postcode":"07088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZHriN4TO7nXbt0k6Ycv2a_40.717118_-74.291847@1293134755"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461316395,
     "wof:geomhash":"128f6bfa39fea898ddcfc0ffa258afa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655679609
+        }
+    ],
     "wof:id":655679609,
-    "wof:lastmodified":1466683797,
+    "wof:lastmodified":1492025507,
     "wof:name":"Spence Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

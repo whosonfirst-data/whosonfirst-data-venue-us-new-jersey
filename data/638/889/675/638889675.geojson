@@ -2,9 +2,14 @@
   "id": 638889675,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Allerton Rd Lebanon NJ 08833",
+    "addr:housenumber":"35",
+    "addr:postcode":"08833",
+    "addr:street":"Allerton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.869491,40.614045,-74.869491,40.614045",
     "geom:latitude":40.614045,
     "geom:longitude":-74.869491,
@@ -28,7 +33,8 @@
         85688607,
         85633793,
         85833335,
-        102085997
+        102085997,
+        85802837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +50,19 @@
             "neighbourhood_id":85833335,
             "region_id":85688607,
             "venue_id":638889675
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85802837,
+            "region_id":85688607,
+            "venue_id":638889675
         }
     ],
     "wof:id":638889675,
-    "wof:lastmodified":1466689883,
+    "wof:lastmodified":1492052211,
     "wof:name":"Computer Room Technologies",
-    "wof:parent_id":85833335,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

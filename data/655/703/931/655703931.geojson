@@ -2,9 +2,14 @@
   "id": 655703931,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"702",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986068,40.828449,-73.986068,40.828449",
     "geom:latitude":40.828449,
     "geom:longitude":-73.986068,
@@ -32,7 +37,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P0hn0x5CiV6pxLKz1TMnv_40.828449_-73.986068@1303262249"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461317533,
     "wof:geomhash":"62f2605f3a5793a984c007ab955a1b1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703931
+        }
+    ],
     "wof:id":655703931,
-    "wof:lastmodified":1466684478,
+    "wof:lastmodified":1492044210,
     "wof:name":"La Deliziosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

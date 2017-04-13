@@ -2,9 +2,14 @@
   "id": 639464791,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Church St Bloomsbury NJ 08804",
+    "addr:housenumber":"32",
+    "addr:postcode":"08804",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.088437,40.655164,-75.088437,40.655164",
     "geom:latitude":40.655164,
     "geom:longitude":-75.088437,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478155,
+        85633793,
+        85975703,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3psfFYUOiYjHy2wbS1iT80_40.655164_-75.088437@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295991,
     "wof:geomhash":"1901bad780fdeb29b880ccb25bf1ee89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478155,
+            "locality_id":85975703,
+            "region_id":85688607,
+            "venue_id":639464791
+        }
+    ],
     "wof:id":639464791,
-    "wof:lastmodified":1466693850,
+    "wof:lastmodified":1492042246,
     "wof:name":"Famiglia Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

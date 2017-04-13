@@ -2,9 +2,14 @@
   "id": 638886577,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Phillips Rd Branchville NJ 07826",
+    "addr:housenumber":"27",
+    "addr:postcode":"07826",
+    "addr:street":"Phillips Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.743861,41.163739,-74.743861,41.163739",
     "geom:latitude":41.163739,
     "geom:longitude":-74.743861,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639,
+        85688607,
+        85838309,
+        102086779,
+        85813187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w8B8HmpUsLYqFML5h5ard_41.163739_-74.743861@1294171694"
@@ -35,11 +47,31 @@
     "wof:country":"US",
     "wof:created":1461282384,
     "wof:geomhash":"d439031c0881ea1c19667e30fad2a9d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":638886577
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85838309,
+            "region_id":85688607,
+            "venue_id":638886577
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85813187,
+            "region_id":85688607,
+            "venue_id":638886577
+        }
+    ],
     "wof:id":638886577,
-    "wof:lastmodified":1466689939,
+    "wof:lastmodified":1492030684,
     "wof:name":"True Drywall",
-    "wof:parent_id":420527639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

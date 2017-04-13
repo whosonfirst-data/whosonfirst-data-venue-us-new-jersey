@@ -2,9 +2,14 @@
   "id": 639492961,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 Venice Ave Hammonton NJ 08037",
+    "addr:housenumber":"5120",
+    "addr:postcode":"08037",
+    "addr:street":"Venice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617588,39.622264,-74.617588,39.622264",
     "geom:latitude":39.622264,
     "geom:longitude":-74.617588,
@@ -27,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06ZleUjWQmmE3MWKDTM2X6_39.622264_-74.617588@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461297137,
     "wof:geomhash":"a7ea1f858a919496da39c96efb3a8bce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526667,
+            "venue_id":639492961
+        }
+    ],
     "wof:id":639492961,
-    "wof:lastmodified":1466694409,
+    "wof:lastmodified":1492042549,
     "wof:name":"Specialty Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

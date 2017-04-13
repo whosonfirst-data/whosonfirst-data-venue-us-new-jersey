@@ -2,9 +2,14 @@
   "id": 655812241,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Battery Hill Dr Voorhees NJ 08043",
+    "addr:housenumber":"48",
+    "addr:postcode":"08043",
+    "addr:street":"Battery Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.918098,39.84164,-74.918098,39.84164",
     "geom:latitude":39.84164,
     "geom:longitude":-74.918098,
@@ -27,7 +32,13 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j1jExpFm4bL2u0RwQlBs8_39.841640_-74.918098@1303262276"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461321911,
     "wof:geomhash":"3c9f50db25b37dde2d9f2de666f370e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":655812241
+        }
+    ],
     "wof:id":655812241,
-    "wof:lastmodified":1466687126,
+    "wof:lastmodified":1492027218,
     "wof:name":"Voorhees Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

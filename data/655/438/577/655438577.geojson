@@ -2,9 +2,14 @@
   "id": 655438577,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 County Rd Tenafly NJ 07670",
+    "addr:housenumber":"274",
+    "addr:postcode":"07670",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.957568,40.933944,-73.957568,40.933944",
     "geom:latitude":40.933944,
     "geom:longitude":-73.957568,
@@ -29,7 +34,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gjeniW8fF3vHOwwBgrAnX_40.933944_-73.957568@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461306237,
     "wof:geomhash":"88fc08ba8d2c7ef115641f3b22e2a836",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":655438577
+        }
+    ],
     "wof:id":655438577,
-    "wof:lastmodified":1466676606,
+    "wof:lastmodified":1492066279,
     "wof:name":"Park Medical Group PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

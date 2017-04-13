@@ -2,9 +2,14 @@
   "id": 639621865,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 School Ave Somerset NJ 08873",
+    "addr:housenumber":"56",
+    "addr:postcode":"08873",
+    "addr:street":"School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.486091,40.482772,-74.486091,40.482772",
     "geom:latitude":40.482772,
     "geom:longitude":-74.486091,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.automation-research.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YQs5P1kArEGrnlkhMOIcZ_40.482772_-74.486091@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302570,
     "wof:geomhash":"4eae73eb31c97b314f450b4d36e1c8ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":639621865
+        }
+    ],
     "wof:id":639621865,
-    "wof:lastmodified":1466697539,
+    "wof:lastmodified":1492051081,
     "wof:name":"Automation Research Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

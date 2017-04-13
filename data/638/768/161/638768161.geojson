@@ -2,9 +2,14 @@
   "id": 638768161,
   "type": "Feature",
   "properties": {
+    "addr:full":"4915 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4915",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.064878,39.959008,-75.064878,39.959008",
     "geom:latitude":39.959008,
     "geom:longitude":-75.064878,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gZps0qyANdHXDBhXPgEo1_39.959008_-75.064878@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279507,
     "wof:geomhash":"1c1d0e6d57159fbe97100baa70a73024",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638768161
+        }
+    ],
     "wof:id":638768161,
-    "wof:lastmodified":1466680706,
+    "wof:lastmodified":1492043193,
     "wof:name":"Outpost",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655612711,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Leona Ct Westwood NJ 07675",
+    "addr:housenumber":"40",
+    "addr:postcode":"07675",
+    "addr:street":"Leona Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994683,40.988443,-73.994683,40.988443",
     "geom:latitude":40.988443,
     "geom:longitude":-73.994683,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wXKKPEYj1Uzd21hbPnzID_40.988443_-73.994683@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461313543,
     "wof:geomhash":"a9188ac04014f4b5f0d1299037aeef85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":655612711
+        }
+    ],
     "wof:id":655612711,
-    "wof:lastmodified":1466681631,
+    "wof:lastmodified":1492025350,
     "wof:name":"Lucas Consultant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

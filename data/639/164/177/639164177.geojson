@@ -2,9 +2,14 @@
   "id": 639164177,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Rockaway Rd Dover NJ 07801",
+    "addr:housenumber":"440",
+    "addr:postcode":"07801",
+    "addr:street":"Rockaway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532698,40.881989,-74.532698,40.881989",
     "geom:latitude":40.881989,
     "geom:longitude":-74.532698,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O78xdBelaT64DNQUSqyqo_40.881989_-74.532698@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288841,
     "wof:geomhash":"9852c85f6fbb262efda7db03dd4f2687",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639164177
+        }
+    ],
     "wof:id":639164177,
-    "wof:lastmodified":1466683688,
+    "wof:lastmodified":1492042777,
     "wof:name":"Carlos Cardona",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

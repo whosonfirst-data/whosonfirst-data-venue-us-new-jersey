@@ -2,9 +2,14 @@
   "id": 639303915,
   "type": "Feature",
   "properties": {
+    "addr:full":"288 Woodward Rd Manalapan NJ 07726",
+    "addr:housenumber":"288",
+    "addr:postcode":"07726",
+    "addr:street":"Woodward Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.368535,40.240559,-74.368535,40.240559",
     "geom:latitude":40.240559,
     "geom:longitude":-74.368535,
@@ -28,7 +33,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VPROlDZAqCdyMRbi13h4d_40.240559_-74.368535@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461292048,
     "wof:geomhash":"4a50501fd324bb0126e9fe817f0931c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639303915
+        }
+    ],
     "wof:id":639303915,
-    "wof:lastmodified":1466691822,
+    "wof:lastmodified":1492052316,
     "wof:name":"Ted Hindin Cla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655512323,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Collins Ave Closter NJ 07624",
+    "addr:housenumber":"56",
+    "addr:postcode":"07624",
+    "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.944653,40.97224,-73.944653,40.97224",
     "geom:latitude":40.97224,
     "geom:longitude":-73.944653,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f678eJLidYpdYEAHbmjaF_40.972240_-73.944653@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309384,
     "wof:geomhash":"0197635b3be92dc956a40b60792e04af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655512323
+        }
+    ],
     "wof:id":655512323,
-    "wof:lastmodified":1466678438,
+    "wof:lastmodified":1492052068,
     "wof:name":"R&T International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

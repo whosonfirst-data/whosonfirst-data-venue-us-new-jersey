@@ -2,9 +2,14 @@
   "id": 655732925,
   "type": "Feature",
   "properties": {
+    "addr:full":"398 W Grand Ave Rahway NJ 07065",
+    "addr:housenumber":"398",
+    "addr:postcode":"07065",
+    "addr:street":"W Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277603,40.6134,-74.277603,40.6134",
     "geom:latitude":40.6134,
     "geom:longitude":-74.277603,
@@ -29,7 +34,14 @@
         "musical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ExLBITziOK37JrpSSlcLU_40.613400_-74.277603@1303262257"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461318643,
     "wof:geomhash":"a64365619767ee152181a316accd0fc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732925
+        }
+    ],
     "wof:id":655732925,
-    "wof:lastmodified":1466685232,
+    "wof:lastmodified":1492042838,
     "wof:name":"Loria Music Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

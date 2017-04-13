@@ -2,9 +2,14 @@
   "id": 638944889,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Irving Pl Basking Ridge NJ 07920",
+    "addr:housenumber":"239",
+    "addr:postcode":"07920",
+    "addr:street":"Irving Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.568853,40.655711,-74.568853,40.655711",
     "geom:latitude":40.655711,
     "geom:longitude":-74.568853,
@@ -27,7 +32,13 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YMADHG435x8QHRQUYjeqs_40.655711_-74.568853@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283910,
     "wof:geomhash":"6bf4d8a2ca8e3ad8f4ffaca7bdcd5f34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":638944889
+        }
+    ],
     "wof:id":638944889,
-    "wof:lastmodified":1466691298,
+    "wof:lastmodified":1492050004,
     "wof:name":"Society Hill At Bernards II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

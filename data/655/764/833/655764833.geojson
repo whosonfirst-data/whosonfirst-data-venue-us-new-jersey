@@ -2,9 +2,14 @@
   "id": 655764833,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 State Rt 23 Pequannock NJ 07444",
+    "addr:housenumber":"142",
+    "addr:postcode":"07444",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280491,40.955529,-74.280491,40.955529",
     "geom:latitude":40.955529,
     "geom:longitude":-74.280491,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.gowireless.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IhN8SdWG8oeJaTPbSJjIb_40.955529_-74.280491@1303262264"
@@ -33,11 +41,17 @@
     "wof:country":"US",
     "wof:created":1461319842,
     "wof:geomhash":"9910de08dc478a2af0513d5f75cf79d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764833
+        }
+    ],
     "wof:id":655764833,
-    "wof:lastmodified":1466686037,
+    "wof:lastmodified":1492027644,
     "wof:name":"Go Wireless",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

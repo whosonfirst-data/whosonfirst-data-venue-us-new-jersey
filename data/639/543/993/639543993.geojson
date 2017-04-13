@@ -2,9 +2,14 @@
   "id": 639543993,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 Signal Ln Toms River NJ 08755",
+    "addr:housenumber":"551",
+    "addr:postcode":"08755",
+    "addr:street":"Signal Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226707,39.965111,-74.226707,39.965111",
     "geom:latitude":39.965111,
     "geom:longitude":-74.226707,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477803,
+        85633793,
+        85976323,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00ktO5E4vCROWhvRlJQhzt_39.965111_-74.226707@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461299495,
     "wof:geomhash":"529a780b85242f74fe9c882a50a19e58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "region_id":85688607,
+            "venue_id":639543993
+        }
+    ],
     "wof:id":639543993,
-    "wof:lastmodified":1466695752,
+    "wof:lastmodified":1492056147,
     "wof:name":"Kuipers Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

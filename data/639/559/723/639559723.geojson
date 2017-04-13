@@ -2,9 +2,14 @@
   "id": 639559723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1300",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264561,40.701169,-74.264561,40.701169",
     "geom:latitude":40.701169,
     "geom:longitude":-74.264561,
@@ -28,7 +33,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N2fu9KiMYkWC9Q1LU92mi_40.701169_-74.264561@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300119,
     "wof:geomhash":"0f2173799d2bf7021c0b366c0d3e3f13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639559723
+        }
+    ],
     "wof:id":639559723,
-    "wof:lastmodified":1466696224,
+    "wof:lastmodified":1492049723,
     "wof:name":"Braica John",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

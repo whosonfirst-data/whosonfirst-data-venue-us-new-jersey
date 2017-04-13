@@ -2,9 +2,14 @@
   "id": 638624735,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Edwards Dr Hightstown NJ 08520",
+    "addr:housenumber":"8",
+    "addr:postcode":"08520",
+    "addr:street":"Edwards Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.551699,40.267239,-74.551699,40.267239",
     "geom:latitude":40.267239,
     "geom:longitude":-74.551699,
@@ -27,7 +32,13 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gQDPsz08wGoouYJMIcIRn_40.267239_-74.551699@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461275052,
     "wof:geomhash":"08afbfc7d1bca8c0122b1e8695e7155b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":638624735
+        }
+    ],
     "wof:id":638624735,
-    "wof:lastmodified":1466673128,
+    "wof:lastmodified":1492062592,
     "wof:name":"Sarmite Wearable Art Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

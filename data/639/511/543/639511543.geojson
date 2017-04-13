@@ -2,9 +2,14 @@
   "id": 639511543,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Hardenbergh Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"613",
+    "addr:postcode":"08742",
+    "addr:street":"Hardenbergh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.081392,40.081779,-74.081392,40.081779",
     "geom:latitude":40.081779,
     "geom:longitude":-74.081392,
@@ -27,7 +32,14 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7luDwnZJwC1nooIjPSN9tJ_40.081779_-74.081392@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297920,
     "wof:geomhash":"9f414004bf5a5e7ac283cc1e84425572",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639511543
+        }
+    ],
     "wof:id":639511543,
-    "wof:lastmodified":1466695050,
+    "wof:lastmodified":1492053461,
     "wof:name":"Brownstone Publishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

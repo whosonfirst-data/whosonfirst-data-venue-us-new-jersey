@@ -2,9 +2,14 @@
   "id": 638943283,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Sellers St Kearny NJ 07032",
+    "addr:housenumber":"4",
+    "addr:postcode":"07032",
+    "addr:street":"Sellers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131434,40.767479,-74.131434,40.767479",
     "geom:latitude":40.767479,
     "geom:longitude":-74.131434,
@@ -27,7 +32,15 @@
         "exporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85803515,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KxKUtYOO4HeZQ4R3HGzBG_40.767479_-74.131434@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461283874,
     "wof:geomhash":"dc4084a1d65b658b2fe5506d240104ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "neighbourhood_id":85803515,
+            "region_id":85688607,
+            "venue_id":638943283
+        }
+    ],
     "wof:id":638943283,
-    "wof:lastmodified":1466691161,
+    "wof:lastmodified":1492041243,
     "wof:name":"Perfect Textiles Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

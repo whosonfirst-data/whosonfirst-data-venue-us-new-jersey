@@ -2,9 +2,14 @@
   "id": 655476001,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Chadwick Ln Jamesburg NJ 08831",
+    "addr:housenumber":"13",
+    "addr:postcode":"08831",
+    "addr:street":"Chadwick Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.439128,40.320416,-74.439128,40.320416",
     "geom:latitude":40.320416,
     "geom:longitude":-74.439128,
@@ -28,7 +33,10 @@
         "invitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NoHlNYFPfUa1Ehd9VOINz_40.320416_-74.439128@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461307834,
     "wof:geomhash":"db6602a331a85e774bed6a3d365d26f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527181,
+            "venue_id":655476001
+        }
+    ],
     "wof:id":655476001,
-    "wof:lastmodified":1466688834,
+    "wof:lastmodified":1492023962,
     "wof:name":"Discount Invitations Plus",
     "wof:parent_id":420527181,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638855983,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Old Clinton Rd Flemington NJ 08822",
+    "addr:housenumber":"56",
+    "addr:postcode":"08822",
+    "addr:street":"Old Clinton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.865664,40.554019,-74.865664,40.554019",
     "geom:latitude":40.554019,
     "geom:longitude":-74.865664,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72amnkbOIuj19OAd9Tb7rB_40.554019_-74.865664@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281656,
     "wof:geomhash":"8bfbc0d89c5ca6dee455dd51fc89c87c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":638855983
+        }
+    ],
     "wof:id":638855983,
-    "wof:lastmodified":1466689441,
+    "wof:lastmodified":1492030680,
     "wof:name":"E Bennington",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

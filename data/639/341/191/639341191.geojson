@@ -2,9 +2,14 @@
   "id": 639341191,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Homans Ave Closter NJ 07624",
+    "addr:housenumber":"97",
+    "addr:postcode":"07624",
+    "addr:street":"Homans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954545,40.970565,-73.954545,40.970565",
     "geom:latitude":40.970565,
     "geom:longitude":-73.954545,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kLbggKu5z0STMwzFHXhhJ_40.970565_-73.954545@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292835,
     "wof:geomhash":"4825b61864b1b37292007853cdcbe2d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639341191
+        }
+    ],
     "wof:id":639341191,
-    "wof:lastmodified":1466692271,
+    "wof:lastmodified":1492047968,
     "wof:name":"Boem Eatery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

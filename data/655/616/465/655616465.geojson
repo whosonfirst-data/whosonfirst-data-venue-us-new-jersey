@@ -2,9 +2,14 @@
   "id": 655616465,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Oakland Dr Jackson NJ 08527",
+    "addr:housenumber":"3",
+    "addr:postcode":"08527",
+    "addr:street":"Oakland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28716,40.123841,-74.28716,40.123841",
     "geom:latitude":40.123841,
     "geom:longitude":-74.28716,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JrrxMu3X3NibHHDzOozRW_40.123841_-74.287160@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313716,
     "wof:geomhash":"74b1f76da6d677a074b58d3d7bf2f9ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655616465
+        }
+    ],
     "wof:id":655616465,
-    "wof:lastmodified":1466681639,
+    "wof:lastmodified":1492031977,
     "wof:name":"Lipari Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

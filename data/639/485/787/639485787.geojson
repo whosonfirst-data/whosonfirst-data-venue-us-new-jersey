@@ -2,9 +2,14 @@
   "id": 639485787,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ridge Dr Washington NJ 07882",
+    "addr:housenumber":"9",
+    "addr:postcode":"07882",
+    "addr:street":"Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.983811,40.746984,-74.983811,40.746984",
     "geom:latitude":40.746984,
     "geom:longitude":-74.983811,
@@ -27,7 +32,10 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XoLCp0eo1N7FSoxcEZxJR_40.746984_-74.983811@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296848,
     "wof:geomhash":"b657f848cfb542f4972a821645664cac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639485787
+        }
+    ],
     "wof:id":639485787,
-    "wof:lastmodified":1466694456,
+    "wof:lastmodified":1492044265,
     "wof:name":"A S Developers",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

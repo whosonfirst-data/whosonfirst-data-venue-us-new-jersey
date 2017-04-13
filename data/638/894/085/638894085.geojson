@@ -2,9 +2,14 @@
   "id": 638894085,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"255",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.980012,40.770228,-74.980012,40.770228",
     "geom:latitude":40.770228,
     "geom:longitude":-74.980012,
@@ -27,7 +32,10 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ow9bfUllgjlmxkiYZh1UQ_40.770228_-74.980012@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461282594,
     "wof:geomhash":"6100ddababab703e044d3ca739183c62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638894085
+        }
+    ],
     "wof:id":638894085,
-    "wof:lastmodified":1466689991,
+    "wof:lastmodified":1492050481,
     "wof:name":"Taylor Rental Center",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

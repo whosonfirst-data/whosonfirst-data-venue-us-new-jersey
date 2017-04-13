@@ -2,9 +2,14 @@
   "id": 655640311,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Meadow St Demarest NJ 07627",
+    "addr:housenumber":"48",
+    "addr:postcode":"07627",
+    "addr:street":"Meadow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.957918,40.949046,-73.957918,40.949046",
     "geom:latitude":40.949046,
     "geom:longitude":-73.957918,
@@ -30,7 +35,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X023mVVAAhVSC4HFnVe2P_40.949046_-73.957918@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461314773,
     "wof:geomhash":"be619f0a915cde0f2b18fa97a97cde27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655640311
+        }
+    ],
     "wof:id":655640311,
-    "wof:lastmodified":1466682410,
+    "wof:lastmodified":1492024294,
     "wof:name":"Very Special Pets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

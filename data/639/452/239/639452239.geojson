@@ -2,9 +2,14 @@
   "id": 639452239,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Spruce Dr Andover NJ 07821",
+    "addr:housenumber":"19",
+    "addr:postcode":"07821",
+    "addr:street":"Spruce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.785284,40.954593,-74.785284,40.954593",
     "geom:latitude":40.954593,
     "geom:longitude":-74.785284,
@@ -27,7 +32,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gNOoPwSa2GOb1Za3djY6v_40.954593_-74.785284@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295509,
     "wof:geomhash":"309887424cd69364af37b234d94c2dce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639452239
+        }
+    ],
     "wof:id":639452239,
-    "wof:lastmodified":1466693554,
+    "wof:lastmodified":1492076812,
     "wof:name":"Sofia's Deli",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

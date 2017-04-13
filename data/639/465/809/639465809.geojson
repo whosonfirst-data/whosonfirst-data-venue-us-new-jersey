@@ -2,9 +2,14 @@
   "id": 639465809,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Co Rd 520 Morganville NJ 07751",
+    "addr:housenumber":"94;520",
+    "addr:postcode":"07751",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300508,40.351742,-74.300508,40.351742",
     "geom:latitude":40.351742,
     "geom:longitude":-74.300508,
@@ -27,7 +32,15 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O5r8u4qscCBzyEEHPfeSp_40.351742_-74.300508@1294171694"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1461296026,
     "wof:geomhash":"4d5ead1f24bdfafd517af1474b0a438a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":639465809
+        }
+    ],
     "wof:id":639465809,
-    "wof:lastmodified":1466694068,
+    "wof:lastmodified":1492042567,
     "wof:name":"Robertsville Vlntr Fire Co 1",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

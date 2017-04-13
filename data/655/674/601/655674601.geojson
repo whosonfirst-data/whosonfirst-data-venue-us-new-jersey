@@ -2,9 +2,14 @@
   "id": 655674601,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S 4th St Phillipsburg NJ 08865",
+    "addr:housenumber":"500",
+    "addr:postcode":"08865",
+    "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172111,40.703879,-75.172111,40.703879",
     "geom:latitude":40.703879,
     "geom:longitude":-75.172111,
@@ -23,7 +28,13 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r8iQZd9QQOf9inf9nHVLI_40.703879_-75.172111@1294171694"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461316203,
     "wof:geomhash":"6b02f97a9169b6e088baa0b17b6ea607",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":655674601
+        }
+    ],
     "wof:id":655674601,
-    "wof:lastmodified":1466683620,
+    "wof:lastmodified":1492020751,
     "wof:name":"Hamlen Frank Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

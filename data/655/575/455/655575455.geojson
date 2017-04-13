@@ -2,9 +2,14 @@
   "id": 655575455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1374 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1374",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263146,40.703044,-74.263146,40.703044",
     "geom:latitude":40.703044,
     "geom:longitude":-74.263146,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RdMW46vpZEe77craQRFrO_40.703044_-74.263146@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311966,
     "wof:geomhash":"2315cd84313051d822ff969d358f1bca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655575455
+        }
+    ],
     "wof:id":655575455,
-    "wof:lastmodified":1466680145,
+    "wof:lastmodified":1492026323,
     "wof:name":"Vitos Auto Electric",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

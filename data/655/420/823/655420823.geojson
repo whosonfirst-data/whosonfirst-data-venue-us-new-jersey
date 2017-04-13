@@ -2,9 +2,14 @@
   "id": 655420823,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Hog Hollow Rd Pittstown NJ 08867",
+    "addr:housenumber":"15",
+    "addr:postcode":"08867",
+    "addr:street":"Hog Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.01556,40.56151,-75.01556,40.56151",
     "geom:latitude":40.56151,
     "geom:longitude":-75.01556,
@@ -28,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85831045,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZT4M300bgA1vCYAtteKqc_40.561510_-75.015560@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461305509,
     "wof:geomhash":"5552559dbc21d8ab351f90022cc4db0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85831045,
+            "region_id":85688607,
+            "venue_id":655420823
+        }
+    ],
     "wof:id":655420823,
-    "wof:lastmodified":1466676184,
+    "wof:lastmodified":1492057202,
     "wof:name":"A Plumber Now LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

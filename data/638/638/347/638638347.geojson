@@ -2,9 +2,14 @@
   "id": 638638347,
   "type": "Feature",
   "properties": {
+    "addr:full":"497 US Hwy 9 Woodbridge NJ 07095",
+    "addr:housenumber":"497",
+    "addr:postcode":"07095",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295405,40.537855,-74.295405,40.537855",
     "geom:latitude":40.537855,
     "geom:longitude":-74.295405,
@@ -30,7 +35,16 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892565,
+        102191575,
+        404478217,
+        85633793,
+        85976299,
+        102087417,
+        85688607,
+        85826235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SklM4pvuQ3cJbjQmPm74R_40.537855_-74.295405@1294171694"
@@ -38,11 +52,29 @@
     "wof:country":"US",
     "wof:created":1461275476,
     "wof:geomhash":"5a9fc7619f06b5e6bbadffc1ff2dccaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976299,
+            "neighbourhood_id":85892565,
+            "region_id":85688607,
+            "venue_id":638638347
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85826235,
+            "region_id":85688607,
+            "venue_id":638638347
+        }
+    ],
     "wof:id":638638347,
-    "wof:lastmodified":1466673469,
+    "wof:lastmodified":1492039712,
     "wof:name":"Transportation New Jersey Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639207187,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Kevin Rd Scotch Plains NJ 07076",
+    "addr:housenumber":"16",
+    "addr:postcode":"07076",
+    "addr:street":"Kevin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.385213,40.627218,-74.385213,40.627218",
     "geom:latitude":40.627218,
     "geom:longitude":-74.385213,
@@ -24,7 +29,15 @@
     "sg:postcode":"07076",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527707,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VNikVcXgxpJfq2f4WlAjN_40.627218_-74.385213@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461289829,
     "wof:geomhash":"7f38818d73e7aad0dc74fc46f377aeb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "neighbourhood_id":420527707,
+            "region_id":85688607,
+            "venue_id":639207187
+        }
+    ],
     "wof:id":639207187,
-    "wof:lastmodified":1466689228,
+    "wof:lastmodified":1492049107,
     "wof:name":"J Ackerman Coles Elem School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

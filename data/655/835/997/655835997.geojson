@@ -2,9 +2,14 @@
   "id": 655835997,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Cherry St Edison NJ 08817",
+    "addr:housenumber":"10",
+    "addr:postcode":"08817",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.362806,40.513093,-74.362806,40.513093",
     "geom:latitude":40.513093,
     "geom:longitude":-74.362806,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.modifiedcars.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kstYfEEOsh9bmKxtywOdO_40.513093_-74.362806@1303262282"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461322909,
     "wof:geomhash":"2ab4f6e336f6f1c82e6f5add3b63feec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527235,
+            "venue_id":655835997
+        }
+    ],
     "wof:id":655835997,
-    "wof:lastmodified":1466688049,
+    "wof:lastmodified":1492040363,
     "wof:name":"Modified Rides Inc",
     "wof:parent_id":420527235,
     "wof:placetype":"venue",

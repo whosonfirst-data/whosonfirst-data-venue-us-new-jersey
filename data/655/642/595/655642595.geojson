@@ -2,9 +2,14 @@
   "id": 655642595,
   "type": "Feature",
   "properties": {
+    "addr:full":"5152 Venice Ave Hammonton NJ 08037",
+    "addr:housenumber":"5152",
+    "addr:postcode":"08037",
+    "addr:street":"Venice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.619314,39.621888,-74.619314,39.621888",
     "geom:latitude":39.621888,
     "geom:longitude":-74.619314,
@@ -24,7 +29,10 @@
     "sg:postcode":"08037",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S2YwRa36ep68UqavL12TO_39.621888_-74.619314@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461314869,
     "wof:geomhash":"49b7749be417451fb6d9b40ed593411e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526667,
+            "venue_id":655642595
+        }
+    ],
     "wof:id":655642595,
-    "wof:lastmodified":1466682584,
+    "wof:lastmodified":1492028455,
     "wof:name":"Mark A Redding",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

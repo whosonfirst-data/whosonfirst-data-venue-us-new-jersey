@@ -2,9 +2,14 @@
   "id": 638955719,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Chestnut St Union NJ 07083",
+    "addr:housenumber":"509",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268993,40.684075,-74.268993,40.684075",
     "geom:latitude":40.684075,
     "geom:longitude":-74.268993,
@@ -28,7 +33,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qr9JWlCr6GS1CRCzGatvL_40.684075_-74.268993@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284157,
     "wof:geomhash":"1f77bdb94f47c970284ea27865b638d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":638955719
+        }
+    ],
     "wof:id":638955719,
-    "wof:lastmodified":1466691524,
+    "wof:lastmodified":1492044135,
     "wof:name":"Petti Gennaro",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

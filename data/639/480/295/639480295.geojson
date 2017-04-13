@@ -2,9 +2,14 @@
   "id": 639480295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Springhill Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"1",
+    "addr:postcode":"08550",
+    "addr:street":"Springhill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.646324,40.291367,-74.646324,40.291367",
     "geom:latitude":40.291367,
     "geom:longitude":-74.646324,
@@ -24,7 +29,13 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143,
+        85688607,
+        85811197,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_291m9KtjymxnQX1WVKf8ND_40.291367_-74.646324@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461296623,
     "wof:geomhash":"4068159bb1d7dc1dd7870d01adb91382",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":639480295
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85811197,
+            "region_id":85688607,
+            "venue_id":639480295
+        }
+    ],
     "wof:id":639480295,
-    "wof:lastmodified":1466694322,
+    "wof:lastmodified":1492064586,
     "wof:name":"Studio Spectrum",
-    "wof:parent_id":420527143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

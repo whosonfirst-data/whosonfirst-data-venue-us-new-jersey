@@ -2,9 +2,14 @@
   "id": 639081691,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Pegasus Ave Northvale NJ 07647",
+    "addr:housenumber":"234",
+    "addr:postcode":"07647",
+    "addr:street":"Pegasus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.942959,41.014249,-73.942959,41.014249",
     "geom:latitude":41.014249,
     "geom:longitude":-73.942959,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"www.japanexpress.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rRBZWDn6gp5fDpfF8n4S2_41.014249_-73.942959@1294171694"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461286961,
     "wof:geomhash":"93ee6dbbc351ae7c2af59352cc5874ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639081691
+        }
+    ],
     "wof:id":639081691,
-    "wof:lastmodified":1466688666,
+    "wof:lastmodified":1492071457,
     "wof:name":"Japan Express America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

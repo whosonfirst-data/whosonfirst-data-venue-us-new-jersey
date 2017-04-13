@@ -2,9 +2,14 @@
   "id": 638801975,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Warford Rd Frenchtown NJ 08825",
+    "addr:housenumber":"100",
+    "addr:postcode":"08825",
+    "addr:street":"Warford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.047591,40.470923,-75.047591,40.470923",
     "geom:latitude":40.470923,
     "geom:longitude":-75.047591,
@@ -27,7 +32,10 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wLnMDll5RLPs6AxbpcvgJ_40.470923_-75.047591@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280273,
     "wof:geomhash":"01074328ba91807d1712aa53b3cb8631",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527063,
+            "venue_id":638801975
+        }
+    ],
     "wof:id":638801975,
-    "wof:lastmodified":1466685849,
+    "wof:lastmodified":1492056583,
     "wof:name":"Electronic Medical Billing",
     "wof:parent_id":420527063,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638641289,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 Remington Ave Pennsauken NJ 08110",
+    "addr:housenumber":"8400",
+    "addr:postcode":"08110",
+    "addr:street":"Remington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.025091,39.98507,-75.025091,39.98507",
     "geom:latitude":39.98507,
     "geom:longitude":-75.025091,
@@ -27,7 +32,14 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LuwO7c8pCdulcBohkajDv_39.985070_-75.025091@1294171694"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461275558,
     "wof:geomhash":"72da626da3ae13ae3d5f732f5b3796fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638641289
+        }
+    ],
     "wof:id":638641289,
-    "wof:lastmodified":1466673483,
+    "wof:lastmodified":1492030696,
     "wof:name":"Appliance Replacement Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

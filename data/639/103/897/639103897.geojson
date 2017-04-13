@@ -2,9 +2,14 @@
   "id": 639103897,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Springfield Ave Summit NJ 07901",
+    "addr:housenumber":"100",
+    "addr:postcode":"07901",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.339484,40.715887,-74.339484,40.715887",
     "geom:latitude":40.715887,
     "geom:longitude":-74.339484,
@@ -27,7 +32,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LqNJxeKwTw9EYkl8u1D4K_40.715887_-74.339484@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287435,
     "wof:geomhash":"e7f295fbff7539d8c151e210237d438f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639103897
+        }
+    ],
     "wof:id":639103897,
-    "wof:lastmodified":1466674823,
+    "wof:lastmodified":1492056135,
     "wof:name":"Rolfs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

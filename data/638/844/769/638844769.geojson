@@ -2,9 +2,14 @@
   "id": 638844769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Sanford Ave Irvington NJ 07111",
+    "addr:housenumber":"1022",
+    "addr:postcode":"07111",
+    "addr:street":"Sanford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240929,40.727548,-74.240929,40.727548",
     "geom:latitude":40.727548,
     "geom:longitude":-74.240929,
@@ -27,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SKQ76an7NzbDR1KWrAam5_40.727548_-74.240929@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461281357,
     "wof:geomhash":"575b0e1448844001317d0eb6ffe66f34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638844769
+        }
+    ],
     "wof:id":638844769,
-    "wof:lastmodified":1466689218,
+    "wof:lastmodified":1492050534,
     "wof:name":"Skyline Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

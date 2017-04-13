@@ -2,9 +2,14 @@
   "id": 639209845,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Franklin Ave Wyckoff NJ 07481",
+    "addr:housenumber":"339",
+    "addr:postcode":"07481",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167667,41.010524,-74.167667,41.010524",
     "geom:latitude":41.010524,
     "geom:longitude":-74.167667,
@@ -28,7 +33,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892569,
+        102086773,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e5VaE7Fjo6wxJ9l135fOL_41.010524_-74.167667@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461289898,
     "wof:geomhash":"65dbf87521b422e0f91d1361350a99a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85892569,
+            "region_id":85688607,
+            "venue_id":639209845
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":639209845
+        }
+    ],
     "wof:id":639209845,
-    "wof:lastmodified":1466689107,
+    "wof:lastmodified":1492041653,
     "wof:name":"Fleet",
-    "wof:parent_id":420526555,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

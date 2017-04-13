@@ -2,9 +2,14 @@
   "id": 639345785,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Walter Way Flemington NJ 08831",
+    "addr:housenumber":"4",
+    "addr:postcode":"08831",
+    "addr:street":"Walter Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.441123,40.321673,-74.441123,40.321673",
     "geom:latitude":40.321673,
     "geom:longitude":-74.441123,
@@ -24,7 +29,10 @@
     "sg:postcode":"08831",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AgiluwCCVk8uz6BDSg522_40.321673_-74.441123@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461292935,
     "wof:geomhash":"89b00c24e931b539addf57e51b795e32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527181,
+            "venue_id":639345785
+        }
+    ],
     "wof:id":639345785,
-    "wof:lastmodified":1466692569,
+    "wof:lastmodified":1492056047,
     "wof:name":"All County Chiropractic Ctr",
     "wof:parent_id":420527181,
     "wof:placetype":"venue",

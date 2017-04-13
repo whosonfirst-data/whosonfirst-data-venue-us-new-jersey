@@ -2,9 +2,14 @@
   "id": 655733739,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"170",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301598,40.6217,-74.301598,40.6217",
     "geom:latitude":40.6217,
     "geom:longitude":-74.301598,
@@ -27,7 +32,13 @@
         "card"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08EVMqwfd5jdOJSH11FWUW_40.621700_-74.301598@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318676,
     "wof:geomhash":"1c90ab00e888467687c03041d8f1db61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733739
+        }
+    ],
     "wof:id":655733739,
-    "wof:lastmodified":1466685208,
+    "wof:lastmodified":1492068960,
     "wof:name":"O'johnnies Hallmark Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

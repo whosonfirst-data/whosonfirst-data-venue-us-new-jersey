@@ -2,9 +2,14 @@
   "id": 655827965,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 N Crescent Blvd # 5 Pennsauken NJ 08110",
+    "addr:housenumber":"7300",
+    "addr:postcode":"08110",
+    "addr:street":"N Crescent Blvd # 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.045112,39.968642,-75.045112,39.968642",
     "geom:latitude":39.968642,
     "geom:longitude":-75.045112,
@@ -32,7 +37,14 @@
     ],
     "sg:website":"http://www.dcccorporation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uyBG9Yeqf0zqgVtHGHo1X_39.968642_-75.045112@1303262280"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461322560,
     "wof:geomhash":"4762d699b40d20c9b61f757bb86351ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827965
+        }
+    ],
     "wof:id":655827965,
-    "wof:lastmodified":1466687798,
+    "wof:lastmodified":1492053696,
     "wof:name":"Dcc Corp",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

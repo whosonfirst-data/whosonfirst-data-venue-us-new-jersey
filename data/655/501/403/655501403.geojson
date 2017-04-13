@@ -2,9 +2,14 @@
   "id": 655501403,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 State Rte 10 Denville NJ 07834",
+    "addr:housenumber":"3125",
+    "addr:postcode":"07834",
+    "addr:street":"State Rte 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.516831,40.870305,-74.516831,40.870305",
     "geom:latitude":40.870305,
     "geom:longitude":-74.516831,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W7a25ZmiVwVn1lOd6MrmR_40.870305_-74.516831@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308909,
     "wof:geomhash":"6f1c2dc4edba19455fb8e2bd465198d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655501403
+        }
+    ],
     "wof:id":655501403,
-    "wof:lastmodified":1466678185,
+    "wof:lastmodified":1492047982,
     "wof:name":"Mountain Lakes Dental Assoc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

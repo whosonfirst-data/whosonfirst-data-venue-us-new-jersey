@@ -2,9 +2,14 @@
   "id": 655600009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 South St Lakewood NJ 08701",
+    "addr:housenumber":"1435",
+    "addr:postcode":"08701",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.195815,40.062219,-74.195815,40.062219",
     "geom:latitude":40.062219,
     "geom:longitude":-74.195815,
@@ -29,7 +34,10 @@
         "saw"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YhLBRgm3Pb90YCknOJJL2_40.062219_-74.195815@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461313013,
     "wof:geomhash":"3d177bd55d8a1ef3692ddd0ca2ba4bcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655600009
+        }
+    ],
     "wof:id":655600009,
-    "wof:lastmodified":1466680889,
+    "wof:lastmodified":1492045217,
     "wof:name":"Jackson Saw & Tool",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

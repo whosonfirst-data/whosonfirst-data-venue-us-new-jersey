@@ -2,9 +2,14 @@
   "id": 638887675,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 N Riverview Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"84",
+    "addr:postcode":"08865",
+    "addr:street":"N Riverview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174543,40.677577,-75.174543,40.677577",
     "geom:latitude":40.677577,
     "geom:longitude":-75.174543,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_327Uhn73bDQlvrgHjfRBIb_40.677577_-75.174543@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282421,
     "wof:geomhash":"585136abdeeca2c47f9d859679471a51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638887675
+        }
+    ],
     "wof:id":638887675,
-    "wof:lastmodified":1466689881,
+    "wof:lastmodified":1492024157,
     "wof:name":"J Pip's Paving Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

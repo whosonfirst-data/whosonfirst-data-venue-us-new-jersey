@@ -2,9 +2,14 @@
   "id": 655457429,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Brighton Rd Clifton NJ 07012",
+    "addr:housenumber":"48",
+    "addr:postcode":"07012",
+    "addr:street":"Brighton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.159163,40.846975,-74.159163,40.846975",
     "geom:latitude":40.846975,
     "geom:longitude":-74.159163,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_789MgS0STEDc88QTXDYttu_40.846975_-74.159163@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307046,
     "wof:geomhash":"c82f306f7f67165278fbc881b3673295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655457429
+        }
+    ],
     "wof:id":655457429,
-    "wof:lastmodified":1466677064,
+    "wof:lastmodified":1492053173,
     "wof:name":"Manpower Professional",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

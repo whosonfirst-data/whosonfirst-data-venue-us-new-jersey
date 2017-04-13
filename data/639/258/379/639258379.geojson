@@ -2,9 +2,14 @@
   "id": 639258379,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 N Union St Lambertville NJ 08530",
+    "addr:housenumber":"13",
+    "addr:postcode":"08530",
+    "addr:street":"N Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945108,40.36625,-74.945108,40.36625",
     "geom:latitude":40.36625,
     "geom:longitude":-74.945108,
@@ -34,7 +39,14 @@
         "gallery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JE2PslClJ9fzDZAMDXaBm_40.366250_-74.945108@1294171694"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461291023,
     "wof:geomhash":"3c9ecbd010ae3f291e79a3553c6d9f42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639258379
+        }
+    ],
     "wof:id":639258379,
-    "wof:lastmodified":1466690506,
+    "wof:lastmodified":1492023418,
     "wof:name":"Sally French Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

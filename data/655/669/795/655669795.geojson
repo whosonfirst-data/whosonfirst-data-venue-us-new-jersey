@@ -2,9 +2,14 @@
   "id": 655669795,
   "type": "Feature",
   "properties": {
+    "addr:full":"6225 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6225",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057503,39.963799,-75.057503,39.963799",
     "geom:latitude":39.963799,
     "geom:longitude":-75.057503,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.macaros.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LkO23AZFmweEy99J2lBnu_39.963994_-75.056949@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315986,
     "wof:geomhash":"a56e75e6aaa9668e1f838d6c0b46992b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655669795
+        }
+    ],
     "wof:id":655669795,
-    "wof:lastmodified":1466683582,
+    "wof:lastmodified":1492057981,
     "wof:name":"MacAro's Deli Caterer",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

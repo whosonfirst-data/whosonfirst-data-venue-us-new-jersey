@@ -2,9 +2,14 @@
   "id": 639517109,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 County Rd Tenafly NJ 07670",
+    "addr:housenumber":"236",
+    "addr:postcode":"07670",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959997,40.931281,-73.959997,40.931281",
     "geom:latitude":40.931281,
     "geom:longitude":-73.959997,
@@ -24,7 +29,14 @@
     "sg:postcode":"07670",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01CecjfgMlfpt7oa5BiUCS_40.931281_-73.959997@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298163,
     "wof:geomhash":"c82b830226086bc3a2005742ca1d68f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":639517109
+        }
+    ],
     "wof:id":639517109,
-    "wof:lastmodified":1466694958,
+    "wof:lastmodified":1492048852,
     "wof:name":"Tenafly Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

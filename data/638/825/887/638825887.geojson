@@ -2,9 +2,14 @@
   "id": 638825887,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"250;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.650255,41.181114,-74.650255,41.181114",
     "geom:latitude":41.181114,
     "geom:longitude":-74.650255,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GpWc6QkrUZY2O8tHHYAbF_41.181114_-74.650255@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280882,
     "wof:geomhash":"1657da298496490e6ba032b7454c6898",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":638825887
+        }
+    ],
     "wof:id":638825887,
-    "wof:lastmodified":1466688889,
+    "wof:lastmodified":1492024286,
     "wof:name":"Dean Frey Equipment Sales Inc",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

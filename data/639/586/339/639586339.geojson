@@ -2,9 +2,14 @@
   "id": 639586339,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Lafayette St Hackettstown NJ 07840",
+    "addr:housenumber":"303",
+    "addr:postcode":"07840",
+    "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.826414,40.85498,-74.826414,40.85498",
     "geom:latitude":40.85498,
     "geom:longitude":-74.826414,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uw4kupsuiC13s4FU8l4b9_40.854980_-74.826414@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461301176,
     "wof:geomhash":"ec3e6df6a719e35911d21ab4c34f0960",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":639586339
+        }
+    ],
     "wof:id":639586339,
-    "wof:lastmodified":1466696603,
+    "wof:lastmodified":1492065624,
     "wof:name":"Burd H & Sons Excvtg Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

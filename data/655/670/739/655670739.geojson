@@ -2,9 +2,14 @@
   "id": 655670739,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Smith Ln Wayne NJ 07470",
+    "addr:housenumber":"60",
+    "addr:postcode":"07470",
+    "addr:street":"Smith Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260002,40.963501,-74.260002,40.963501",
     "geom:latitude":40.963501,
     "geom:longitude":-74.260002,
@@ -24,7 +29,10 @@
     "sg:postcode":"07470",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sQLKt2SkcpVxgJxEnA597_40.963506_-74.260182@1293134755"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461316042,
     "wof:geomhash":"7ba45354ad3c4623431f70f4e40cd51e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655670739
+        }
+    ],
     "wof:id":655670739,
-    "wof:lastmodified":1466683576,
+    "wof:lastmodified":1492053982,
     "wof:name":"Wayne Christian Assembly",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

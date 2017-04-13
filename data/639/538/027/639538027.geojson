@@ -2,9 +2,14 @@
   "id": 639538027,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Maple Ave Springfield NJ 07081",
+    "addr:housenumber":"50",
+    "addr:postcode":"07081",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304717,40.711968,-74.304717,40.711968",
     "geom:latitude":40.711968,
     "geom:longitude":-74.304717,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526947,
+        85688607,
         85834427,
         102085995
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639538027
+        },
+        {
+            "country_id":85633793,
             "county_id":102085995,
             "neighbourhood_id":85834427,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639538027,
-    "wof:lastmodified":1466695364,
+    "wof:lastmodified":1492076848,
     "wof:name":"Malki Systems Inc",
-    "wof:parent_id":85834427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

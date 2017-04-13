@@ -2,9 +2,14 @@
   "id": 639276365,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Buttonwood Dr Trenton NJ 08638",
+    "addr:housenumber":"209",
+    "addr:postcode":"08638",
+    "addr:street":"Buttonwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.770755,40.260402,-74.770755,40.260402",
     "geom:latitude":40.260402,
     "geom:longitude":-74.770755,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LyrwipwME1h5RzSyoMHKe_40.260402_-74.770755@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291465,
     "wof:geomhash":"8d6432cd14fea4d841eba30d104061c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527165,
+            "venue_id":639276365
+        }
+    ],
     "wof:id":639276365,
-    "wof:lastmodified":1466690719,
+    "wof:lastmodified":1492051555,
     "wof:name":"Sondras Skin & Body Care",
     "wof:parent_id":420527165,
     "wof:placetype":"venue",

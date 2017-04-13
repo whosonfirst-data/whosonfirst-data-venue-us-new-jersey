@@ -2,9 +2,14 @@
   "id": 655609253,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Lawton Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"435",
+    "addr:postcode":"07010",
+    "addr:street":"Lawton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989836,40.829377,-73.989836,40.829377",
     "geom:latitude":40.829377,
     "geom:longitude":-73.989836,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ihvq0ku4is8NomIQcos4y_40.829377_-73.989836@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313394,
     "wof:geomhash":"15d5a178b32388ac6e8057d062302d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655609253
+        }
+    ],
     "wof:id":655609253,
-    "wof:lastmodified":1466681377,
+    "wof:lastmodified":1492023758,
     "wof:name":"Alfreds Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

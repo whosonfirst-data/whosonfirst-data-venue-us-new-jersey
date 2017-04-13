@@ -2,9 +2,14 @@
   "id": 638676809,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Foundry St Newark NJ 07105",
+    "addr:housenumber":"185",
+    "addr:postcode":"07105",
+    "addr:street":"Foundry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131155,40.726887,-74.131155,40.726887",
     "geom:latitude":40.726887,
     "geom:longitude":-74.131155,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838783,
+        85873013,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85892399,
+        85838783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,35 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873013,
+            "region_id":85688607,
+            "venue_id":638676809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85892399,
+            "region_id":85688607,
+            "venue_id":638676809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85838783,
             "region_id":85688607,
             "venue_id":638676809
         }
     ],
     "wof:id":638676809,
-    "wof:lastmodified":1466684663,
+    "wof:lastmodified":1492062373,
     "wof:name":"Ramco",
-    "wof:parent_id":85838783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

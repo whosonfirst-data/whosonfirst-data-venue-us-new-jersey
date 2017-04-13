@@ -2,9 +2,14 @@
   "id": 639130015,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Berkshire Valley Rd Kenvil NJ 07847",
+    "addr:housenumber":"25",
+    "addr:postcode":"07847",
+    "addr:street":"Berkshire Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.626295,40.883272,-74.626295,40.883272",
     "geom:latitude":40.883272,
     "geom:longitude":-74.626295,
@@ -31,11 +36,16 @@
     "sg:website":"www.superior-carriers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        420527343,
+        102191575,
+        404477677,
         85633793,
-        85975571,
+        85976189,
         102087413,
-        85829143
+        85688607,
+        85829143,
+        404477327,
+        85975571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +56,20 @@
     "wof:geomhash":"d9cf54fa9f7277fc99e67c5c5f450683",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087413,
+            "localadmin_id":404477677,
+            "locality_id":85976189,
+            "neighbourhood_id":420527343,
+            "region_id":85688607,
+            "venue_id":639130015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477327,
             "locality_id":85975571,
             "neighbourhood_id":85829143,
             "region_id":85688607,
@@ -55,9 +77,9 @@
         }
     ],
     "wof:id":639130015,
-    "wof:lastmodified":1466678346,
+    "wof:lastmodified":1492054546,
     "wof:name":"Superior Carriers Inc",
-    "wof:parent_id":85829143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

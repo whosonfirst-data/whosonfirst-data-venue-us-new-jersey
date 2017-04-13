@@ -2,9 +2,14 @@
   "id": 655462315,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"57",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735634,41.080793,-74.735634,41.080793",
     "geom:latitude":41.080793,
     "geom:longitude":-74.735634,
@@ -30,7 +35,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ft6ZysZwMFOiYZuT911YG_41.080793_-74.735634@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461307263,
     "wof:geomhash":"7187d298fe6f45bed2679e5c452f7118",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655462315
+        }
+    ],
     "wof:id":655462315,
-    "wof:lastmodified":1466677117,
+    "wof:lastmodified":1492071466,
     "wof:name":"Intercorp Leasing",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

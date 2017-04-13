@@ -2,9 +2,14 @@
   "id": 655608813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1354 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1354",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26314,40.70295,-74.26314,40.70295",
     "geom:latitude":40.70295,
     "geom:longitude":-74.26314,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RsCbxcUFpYyfu25mCQASf_40.702950_-74.263140@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313378,
     "wof:geomhash":"4ffd08507684418fedb8f77f1e35e33e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655608813
+        }
+    ],
     "wof:id":655608813,
-    "wof:lastmodified":1466681588,
+    "wof:lastmodified":1492069850,
     "wof:name":"Signworks",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

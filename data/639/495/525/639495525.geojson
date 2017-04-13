@@ -2,9 +2,14 @@
   "id": 639495525,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 State Rte 36 Leonardo NJ 07737",
+    "addr:housenumber":"810",
+    "addr:postcode":"07737",
+    "addr:street":"State Rte 36 Leonardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.065232,40.415583,-74.065232,40.415583",
     "geom:latitude":40.415583,
     "geom:longitude":-74.065232,
@@ -27,7 +32,11 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tnO3bQWu0BRlAsaGGBqbU_40.415583_-74.065232@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461297234,
     "wof:geomhash":"dd25e3cbdff016bde80e7892bbbfe75b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639495525
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":639495525
+        }
+    ],
     "wof:id":639495525,
-    "wof:lastmodified":1466694625,
+    "wof:lastmodified":1492042477,
     "wof:name":"Joseph Uras",
-    "wof:parent_id":420527279,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

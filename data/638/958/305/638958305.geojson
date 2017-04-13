@@ -2,9 +2,14 @@
   "id": 638958305,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 Sudbury Rd Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"278",
+    "addr:postcode":"08742",
+    "addr:street":"Sudbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.088511,40.093502,-74.088511,40.093502",
     "geom:latitude":40.093502,
     "geom:longitude":-74.088511,
@@ -29,7 +34,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85845193,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36AAQKclNjVVXzKnBRjWMx_40.093502_-74.088511@1294171694"
@@ -37,11 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284210,
     "wof:geomhash":"1805e171cfc1e16515b1a20269616011",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85845193,
+            "region_id":85688607,
+            "venue_id":638958305
+        }
+    ],
     "wof:id":638958305,
-    "wof:lastmodified":1466691478,
+    "wof:lastmodified":1492047740,
     "wof:name":"Sunrise Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

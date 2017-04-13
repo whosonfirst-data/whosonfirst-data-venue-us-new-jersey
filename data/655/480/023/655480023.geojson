@@ -2,9 +2,14 @@
   "id": 655480023,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Cedar Hill Ave Mahwah NJ 07430",
+    "addr:housenumber":"110",
+    "addr:postcode":"07430",
+    "addr:street":"Cedar Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146321,41.101749,-74.146321,41.101749",
     "geom:latitude":41.101749,
     "geom:longitude":-74.146321,
@@ -30,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58JwV8aLlrK9VBIb1J82nY_41.101749_-74.146321@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461308013,
     "wof:geomhash":"c6338563dc3bd3a184752c05ec412beb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655480023
+        }
+    ],
     "wof:id":655480023,
-    "wof:lastmodified":1466677557,
+    "wof:lastmodified":1492051736,
     "wof:name":"Energy Management Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

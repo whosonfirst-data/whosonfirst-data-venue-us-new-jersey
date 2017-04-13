@@ -2,9 +2,14 @@
   "id": 639034103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1618 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1618",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258977,40.710732,-74.258977,40.710732",
     "geom:latitude":40.710732,
     "geom:longitude":-74.258977,
@@ -28,7 +33,10 @@
         "tablet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wbGAEiOR45cjSHp3idcbJ_40.710732_-74.258977@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461285876,
     "wof:geomhash":"cfe8a2a90afaf55b41eebdbf45746f48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":639034103
+        }
+    ],
     "wof:id":639034103,
-    "wof:lastmodified":1466673837,
+    "wof:lastmodified":1492057637,
     "wof:name":"Hollywood Monumental Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

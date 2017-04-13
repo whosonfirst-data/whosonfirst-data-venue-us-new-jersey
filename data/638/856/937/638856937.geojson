@@ -2,9 +2,14 @@
   "id": 638856937,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"812",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.479013,40.489062,-74.479013,40.489062",
     "geom:latitude":40.489062,
     "geom:longitude":-74.479013,
@@ -28,7 +33,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7liPEaflci17tt0CJWA4Xc_40.489062_-74.479013@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281684,
     "wof:geomhash":"687135d3ee2e9de1226078c27d5be018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":638856937
+        }
+    ],
     "wof:id":638856937,
-    "wof:lastmodified":1466689447,
+    "wof:lastmodified":1492017017,
     "wof:name":"Del Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

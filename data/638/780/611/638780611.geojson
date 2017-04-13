@@ -2,9 +2,14 @@
   "id": 638780611,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Gorge Rd Edgewater NJ 07020",
+    "addr:housenumber":"75",
+    "addr:postcode":"07020",
+    "addr:street":"Gorge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99163,40.808498,-73.99163,40.808498",
     "geom:latitude":40.808498,
     "geom:longitude":-73.99163,
@@ -24,7 +29,14 @@
     "sg:postcode":"07020",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QnA8acL3KsuoBg0gSsXFk_40.808498_-73.991630@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461279815,
     "wof:geomhash":"1e24f978a809bbb1128b350bab08958b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":638780611
+        }
+    ],
     "wof:id":638780611,
-    "wof:lastmodified":1466683008,
+    "wof:lastmodified":1492023708,
     "wof:name":"Hydrogen Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

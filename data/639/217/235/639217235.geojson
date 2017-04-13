@@ -2,9 +2,14 @@
   "id": 639217235,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Vivian Ln Closter NJ 07624",
+    "addr:housenumber":"11",
+    "addr:postcode":"07624",
+    "addr:street":"Vivian Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951633,40.962931,-73.951633,40.962931",
     "geom:latitude":40.962931,
     "geom:longitude":-73.951633,
@@ -28,7 +33,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Sv4KtTOxMtc5m2B2TkXBl_40.962931_-73.951633@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290080,
     "wof:geomhash":"b05e82a3df13c7f5387fe2fad6b4a5d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639217235
+        }
+    ],
     "wof:id":639217235,
-    "wof:lastmodified":1466689510,
+    "wof:lastmodified":1492070301,
     "wof:name":"Faith Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

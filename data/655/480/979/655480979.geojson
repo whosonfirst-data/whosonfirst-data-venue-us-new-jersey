@@ -2,9 +2,14 @@
   "id": 655480979,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 Coolidge Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"424",
+    "addr:postcode":"08002",
+    "addr:street":"Coolidge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.006567,39.93498,-75.006567,39.93498",
     "geom:latitude":39.93498,
     "geom:longitude":-75.006567,
@@ -27,7 +32,14 @@
         "electromagnetic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xIiCFtVhCOyon9RiUksoM_39.934980_-75.006567@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308047,
     "wof:geomhash":"a40e2d8b64cef7dcfa5efe119c673653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":655480979
+        }
+    ],
     "wof:id":655480979,
-    "wof:lastmodified":1466677811,
+    "wof:lastmodified":1492046127,
     "wof:name":"Robert Blank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

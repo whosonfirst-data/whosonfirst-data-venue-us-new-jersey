@@ -2,9 +2,14 @@
   "id": 639459319,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 State Rte 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"500",
+    "addr:postcode":"07444",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285844,40.9689,-74.285844,40.9689",
     "geom:latitude":40.9689,
     "geom:longitude":-74.285844,
@@ -27,7 +32,10 @@
         "retail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v3lEBEwO7gkNdc1Wp4b0j_40.968900_-74.285844@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461295772,
     "wof:geomhash":"34064c98b74e417c64d38d4180b93c12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639459319
+        }
+    ],
     "wof:id":639459319,
-    "wof:lastmodified":1466694182,
+    "wof:lastmodified":1492076672,
     "wof:name":"Homegoods 176",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

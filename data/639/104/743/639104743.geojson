@@ -2,9 +2,14 @@
   "id": 639104743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Church Rd Toms River NJ 08755",
+    "addr:housenumber":"1209",
+    "addr:postcode":"08755",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210884,40.01173,-74.210884,40.01173",
     "geom:latitude":40.01173,
     "geom:longitude":-74.210884,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844849,
+        85842287,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        85844849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":85842287,
+            "region_id":85688607,
+            "venue_id":639104743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":85844849,
             "region_id":85688607,
             "venue_id":639104743
         }
     ],
     "wof:id":639104743,
-    "wof:lastmodified":1466674916,
+    "wof:lastmodified":1492081895,
     "wof:name":"Hanlon Studio",
-    "wof:parent_id":85844849,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

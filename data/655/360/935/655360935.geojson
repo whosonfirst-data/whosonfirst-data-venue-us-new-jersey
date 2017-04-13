@@ -2,9 +2,14 @@
   "id": 655360935,
   "type": "Feature",
   "properties": {
+    "addr:full":"488 US Hwy 22 E White House Station NJ 08889",
+    "addr:housenumber":"488",
+    "addr:postcode":"08889",
+    "addr:street":"Us Hwy 22 E;Station",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.753231,40.61861,-74.753231,40.61861",
     "geom:latitude":40.61861,
     "geom:longitude":-74.753231,
@@ -24,7 +29,13 @@
     "sg:postcode":"08889",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MP0qd6X6nnOYItNT7oBKA_40.618610_-74.753231@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461303040,
     "wof:geomhash":"8d4299efbbb181f31c7c9a1d7e19de3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":655360935
+        }
+    ],
     "wof:id":655360935,
-    "wof:lastmodified":1466674623,
+    "wof:lastmodified":1492061673,
     "wof:name":"NAPA Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

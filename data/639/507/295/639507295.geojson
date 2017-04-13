@@ -2,9 +2,14 @@
   "id": 639507295,
   "type": "Feature",
   "properties": {
+    "addr:full":"738 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"738",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240704,40.721993,-74.240704,40.721993",
     "geom:latitude":40.721993,
     "geom:longitude":-74.240704,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yL1jS0Cn26r9rohoh8XjC_40.721993_-74.240704@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297725,
     "wof:geomhash":"e939c3c900753d26d3c41d4af0c08eaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639507295
+        }
+    ],
     "wof:id":639507295,
-    "wof:lastmodified":1466694861,
+    "wof:lastmodified":1492041598,
     "wof:name":"E A Gonzales MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

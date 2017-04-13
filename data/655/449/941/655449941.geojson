@@ -2,9 +2,14 @@
   "id": 655449941,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 Cheryl Ln Brick NJ 08723",
+    "addr:housenumber":"280",
+    "addr:postcode":"08723",
+    "addr:street":"Cheryl Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126506,40.036597,-74.126506,40.036597",
     "geom:latitude":40.036597,
     "geom:longitude":-74.126506,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33ja9zo5Rx7lZ4gL39rxbK_40.036597_-74.126506@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306691,
     "wof:geomhash":"6077445405d03b392e2fded00d71b53d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655449941
+        }
+    ],
     "wof:id":655449941,
-    "wof:lastmodified":1466677003,
+    "wof:lastmodified":1492024129,
     "wof:name":"Westlund Builders",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

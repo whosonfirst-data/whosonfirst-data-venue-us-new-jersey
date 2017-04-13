@@ -2,9 +2,14 @@
   "id": 655552199,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Godwin Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"39",
+    "addr:postcode":"07407",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120257,40.914779,-74.120257,40.914779",
     "geom:latitude":40.914779,
     "geom:longitude":-74.120257,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xqFqrPViEfKsC4NHkWR9r_40.914779_-74.120257@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310914,
     "wof:geomhash":"3ff3ec320c95b51a284b519057bc074d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655552199
+        }
+    ],
     "wof:id":655552199,
-    "wof:lastmodified":1466679465,
+    "wof:lastmodified":1492046610,
     "wof:name":"Angel Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

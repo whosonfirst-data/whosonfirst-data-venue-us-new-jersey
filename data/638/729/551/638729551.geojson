@@ -2,9 +2,14 @@
   "id": 638729551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Gulfstream Ave Winfield Park NJ 07036",
+    "addr:housenumber":"1",
+    "addr:postcode":"07036",
+    "addr:street":"Gulfstream Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286828,40.635776,-74.286828,40.635776",
     "geom:latitude":40.635776,
     "geom:longitude":-74.286828,
@@ -28,11 +33,12 @@
     "wof:belongsto":[
         85802619,
         102191575,
-        404477587,
+        404478515,
         85633793,
-        85975833,
+        85975831,
         102085995,
-        85688607
+        85688607,
+        85850963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +52,24 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085995,
-            "localadmin_id":404477587,
-            "locality_id":85975833,
+            "localadmin_id":404478515,
+            "locality_id":85975831,
             "neighbourhood_id":85802619,
+            "region_id":85688607,
+            "venue_id":638729551
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85850963,
             "region_id":85688607,
             "venue_id":638729551
         }
     ],
     "wof:id":638729551,
-    "wof:lastmodified":1466675347,
+    "wof:lastmodified":1492023640,
     "wof:name":"Winfield Park School",
-    "wof:parent_id":85802619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639355209,
   "type": "Feature",
   "properties": {
+    "addr:full":"169 Palisade Ave Garfield NJ 07026",
+    "addr:housenumber":"169",
+    "addr:postcode":"07026",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.108588,40.87031,-74.108588,40.87031",
     "geom:latitude":40.87031,
     "geom:longitude":-74.108588,
@@ -27,7 +32,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IRdmAFFD3tUYGiegQZTYp_40.870310_-74.108588@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293135,
     "wof:geomhash":"be3cde058e3038fb0c7dd43481feddd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639355209
+        }
+    ],
     "wof:id":639355209,
-    "wof:lastmodified":1466692417,
+    "wof:lastmodified":1492042551,
     "wof:name":"Barry's Olde Tyme Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

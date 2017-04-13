@@ -2,9 +2,14 @@
   "id": 655662687,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 State Rte 72 Barnegat NJ 08005",
+    "addr:housenumber":"309",
+    "addr:postcode":"08005",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343068,39.782287,-74.343068,39.782287",
     "geom:latitude":39.782287,
     "geom:longitude":-74.343068,
@@ -21,7 +26,10 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527405
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TIVEnq9PY6WlmkRmDz5XS_39.782287_-74.343068@1294171694"
@@ -29,9 +37,15 @@
     "wof:country":"US",
     "wof:created":1461315718,
     "wof:geomhash":"b8e1eb5c62fd563b83ca4e22512ae1f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527405,
+            "venue_id":655662687
+        }
+    ],
     "wof:id":655662687,
-    "wof:lastmodified":1466683342,
+    "wof:lastmodified":1492050446,
     "wof:name":"MGS Corp",
     "wof:parent_id":420527405,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638866347,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 US Hwy 206 Stanhope NJ 07874",
+    "addr:housenumber":"58",
+    "addr:postcode":"07874",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718796,40.928056,-74.718796,40.928056",
     "geom:latitude":40.928056,
     "geom:longitude":-74.718796,
@@ -27,7 +32,14 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        85976261,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HxWqK8IjWRq2Zg3bl1hGJ_40.928056_-74.718796@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281885,
     "wof:geomhash":"f23d1bbb4a770119e0be379893a6219c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "locality_id":85976261,
+            "region_id":85688607,
+            "venue_id":638866347
+        }
+    ],
     "wof:id":638866347,
-    "wof:lastmodified":1466689507,
+    "wof:lastmodified":1492052272,
     "wof:name":"STS Tire & Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

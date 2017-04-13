@@ -2,9 +2,14 @@
   "id": 655788055,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Sipley Rd Blairstown NJ 07825",
+    "addr:housenumber":"7",
+    "addr:postcode":"07825",
+    "addr:street":"Sipley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012788,40.966451,-75.012788,40.966451",
     "geom:latitude":40.966451,
     "geom:longitude":-75.012788,
@@ -27,7 +32,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gFyvmeKgPwM7zX2d0Jebx_40.966451_-75.012788@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320895,
     "wof:geomhash":"d3a7be9554eacfdc3d36639c50c552eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655788055
+        }
+    ],
     "wof:id":655788055,
-    "wof:lastmodified":1466686525,
+    "wof:lastmodified":1492048122,
     "wof:name":"Quality Tools Inc",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639485927,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Hamilton Rd Hillsborough NJ 08844",
+    "addr:housenumber":"75",
+    "addr:postcode":"08844",
+    "addr:street":"Hamilton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.629733,40.506009,-74.629733,40.506009",
     "geom:latitude":40.506009,
     "geom:longitude":-74.629733,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85806449,
-        102085045
+        85823663,
+        102085045,
+        85806449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85823663,
+            "region_id":85688607,
+            "venue_id":639485927
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85806449,
             "region_id":85688607,
             "venue_id":639485927
         }
     ],
     "wof:id":639485927,
-    "wof:lastmodified":1466694557,
+    "wof:lastmodified":1492042389,
     "wof:name":"Glen - Gery Corporation",
-    "wof:parent_id":85806449,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

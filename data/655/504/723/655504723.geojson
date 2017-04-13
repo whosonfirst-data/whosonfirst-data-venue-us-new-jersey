@@ -2,9 +2,14 @@
   "id": 655504723,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 Lafayette Rd Sparta NJ 07871",
+    "addr:housenumber":"429",
+    "addr:postcode":"07871",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.654665,41.070727,-74.654665,41.070727",
     "geom:latitude":41.070727,
     "geom:longitude":-74.654665,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.spartaefc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85849915,
+        102191575,
+        404478473,
+        85633793,
+        85975709,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ceIEFMIw6ukP1beeq3wZn_41.070727_-74.654665@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461309049,
     "wof:geomhash":"07fed738edc564db49908acef203de34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478473,
+            "locality_id":85975709,
+            "neighbourhood_id":85849915,
+            "region_id":85688607,
+            "venue_id":655504723
+        }
+    ],
     "wof:id":655504723,
-    "wof:lastmodified":1466678276,
+    "wof:lastmodified":1492039834,
     "wof:name":"Sparta Evangelical Free Church",
-    "wof:parent_id":420527665,
+    "wof:parent_id":85849915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

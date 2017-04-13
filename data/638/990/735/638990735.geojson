@@ -2,9 +2,14 @@
   "id": 638990735,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 Hudson Ave Maplewood NJ 07040",
+    "addr:housenumber":"84",
+    "addr:postcode":"07040",
+    "addr:street":"Hudson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253853,40.733178,-74.253853,40.733178",
     "geom:latitude":40.733178,
     "geom:longitude":-74.253853,
@@ -24,7 +29,10 @@
     "sg:postcode":"07040",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6evV3by02M3yco2iYH0faO_40.733178_-74.253853@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461284915,
     "wof:geomhash":"db5b39738577dc2833c72f1e5698e027",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526945,
+            "venue_id":638990735
+        }
+    ],
     "wof:id":638990735,
-    "wof:lastmodified":1466692154,
+    "wof:lastmodified":1492024640,
     "wof:name":"Pen Processing",
     "wof:parent_id":420526945,
     "wof:placetype":"venue",

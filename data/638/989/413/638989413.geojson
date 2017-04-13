@@ -2,9 +2,14 @@
   "id": 638989413,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 New York Ave Dumont NJ 07628",
+    "addr:housenumber":"130",
+    "addr:postcode":"07628",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986311,40.942477,-73.986311,40.942477",
     "geom:latitude":40.942477,
     "geom:longitude":-73.986311,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Macsv3s0LcweShijuVTH_40.942477_-73.986311@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461284888,
     "wof:geomhash":"100a8acb73968d3e92f1bbde7c6c46a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":638989413
+        }
+    ],
     "wof:id":638989413,
-    "wof:lastmodified":1466692019,
+    "wof:lastmodified":1492025598,
     "wof:name":"Tiffany's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639060793,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Lincoln Ave Jamesburg NJ 08831",
+    "addr:housenumber":"46",
+    "addr:postcode":"08831",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.439983,40.354889,-74.439983,40.354889",
     "geom:latitude":40.354889,
     "geom:longitude":-74.439983,
@@ -30,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527177,
+        85688607,
         85865299,
         102087417
     ],
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639060793
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85865299,
             "region_id":85688607,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":639060793,
-    "wof:lastmodified":1466688062,
+    "wof:lastmodified":1492030628,
     "wof:name":"Platt's Performance Plus Inc",
-    "wof:parent_id":85865299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

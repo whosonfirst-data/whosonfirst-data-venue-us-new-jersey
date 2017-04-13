@@ -2,9 +2,14 @@
   "id": 638850691,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 N Main St Hightstown NJ 08520",
+    "addr:housenumber":"148",
+    "addr:postcode":"08520",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.522536,40.270409,-74.522536,40.270409",
     "geom:latitude":40.270409,
     "geom:longitude":-74.522536,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.hightstownborough.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lQk4aCh3FaA1JG7vHl5YE_40.270409_-74.522536@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461281533,
     "wof:geomhash":"7e52730c3aae9d39c48ded6747660b5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":638850691
+        }
+    ],
     "wof:id":638850691,
-    "wof:lastmodified":1466689230,
+    "wof:lastmodified":1492056753,
     "wof:name":"Hightstown Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

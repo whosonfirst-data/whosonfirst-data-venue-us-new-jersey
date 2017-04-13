@@ -2,9 +2,14 @@
   "id": 638999879,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Harcourt Ave Bergenfield NJ 07621",
+    "addr:housenumber":"71",
+    "addr:postcode":"07621",
+    "addr:street":"Harcourt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.007253,40.92735,-74.007253,40.92735",
     "geom:latitude":40.92735,
     "geom:longitude":-74.007253,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eNfyEVXDXL1xGHqLM4Z1l_40.927350_-74.007253@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285106,
     "wof:geomhash":"190c8554fabf4850f3e4ad3f9716cab7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":638999879
+        }
+    ],
     "wof:id":638999879,
-    "wof:lastmodified":1466692350,
+    "wof:lastmodified":1492029602,
     "wof:name":"Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

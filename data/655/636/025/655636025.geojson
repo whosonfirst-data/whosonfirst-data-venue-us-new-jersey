@@ -2,9 +2,14 @@
   "id": 655636025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 Ocean Ave Spring Lake NJ 07762",
+    "addr:housenumber":"1507",
+    "addr:postcode":"07762",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.021416,40.155384,-74.021416,40.155384",
     "geom:latitude":40.155384,
     "geom:longitude":-74.021416,
@@ -24,7 +29,14 @@
     "sg:postcode":"07762",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478393,
+        85633793,
+        85975397,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IKLnCyTv9ltjgBPxlar4d_40.155384_-74.021416@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314603,
     "wof:geomhash":"7a36d6d8f0fa2e369e54d9a4642a1a08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478393,
+            "locality_id":85975397,
+            "region_id":85688607,
+            "venue_id":655636025
+        }
+    ],
     "wof:id":655636025,
-    "wof:lastmodified":1466682122,
+    "wof:lastmodified":1492070282,
     "wof:name":"Life Light",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

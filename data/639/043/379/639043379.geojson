@@ -2,9 +2,14 @@
   "id": 639043379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Corporate Pl S Piscataway NJ 08854",
+    "addr:housenumber":"1",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Pl S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.454807,40.549796,-74.454807,40.549796",
     "geom:latitude":40.549796,
     "geom:longitude":-74.454807,
@@ -27,7 +32,10 @@
         "bagel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sOx40CFIyPobZyCgHVgwj_40.549796_-74.454807@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286120,
     "wof:geomhash":"00d45f07f15b26f4c69df204650f93cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":639043379
+        }
+    ],
     "wof:id":639043379,
-    "wof:lastmodified":1466674052,
+    "wof:lastmodified":1492045176,
     "wof:name":"Zee Best Bagels",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

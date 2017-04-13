@@ -2,9 +2,14 @@
   "id": 639376527,
   "type": "Feature",
   "properties": {
+    "addr:full":"2807 Allen Ave Union NJ 07083",
+    "addr:housenumber":"2807",
+    "addr:postcode":"07083",
+    "addr:street":"Allen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293174,40.712106,-74.293174,40.712106",
     "geom:latitude":40.712106,
     "geom:longitude":-74.293174,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mw4vGZ6iLySI0LlP60ncQ_40.712106_-74.293174@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461293568,
     "wof:geomhash":"94de259609234740e13c9386de81d838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639376527
+        }
+    ],
     "wof:id":639376527,
-    "wof:lastmodified":1466692690,
+    "wof:lastmodified":1492068402,
     "wof:name":"Thomas Benjamin",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

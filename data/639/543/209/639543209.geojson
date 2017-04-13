@@ -2,9 +2,14 @@
   "id": 639543209,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Manalapan Woods Dr Englishtown NJ 07726",
+    "addr:housenumber":"14",
+    "addr:postcode":"07726",
+    "addr:street":"Manalapan Woods Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.370247,40.242787,-74.370247,40.242787",
     "geom:latitude":40.242787,
     "geom:longitude":-74.370247,
@@ -27,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qEf3ZNd0kCPP6l12BkFkf_40.242787_-74.370247@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461299464,
     "wof:geomhash":"d80c8d9894f76ec6743ad34452529710",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639543209
+        }
+    ],
     "wof:id":639543209,
-    "wof:lastmodified":1466695597,
+    "wof:lastmodified":1492047670,
     "wof:name":"Image Creators LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

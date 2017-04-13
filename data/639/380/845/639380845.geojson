@@ -2,9 +2,14 @@
   "id": 639380845,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Knollcroft Rd Lyons NJ 07939",
+    "addr:housenumber":"151",
+    "addr:postcode":"07939",
+    "addr:street":"Knollcroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.554253,40.665578,-74.554253,40.665578",
     "geom:latitude":40.665578,
     "geom:longitude":-74.554253,
@@ -27,7 +32,12 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85813643,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11mQLy4BFcjiLfFXW9TYjb_40.665578_-74.554253@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461293652,
     "wof:geomhash":"5c95633fc7d08719eea1d5756d12fe84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85813643,
+            "region_id":85688607,
+            "venue_id":639380845
+        }
+    ],
     "wof:id":639380845,
-    "wof:lastmodified":1466692756,
+    "wof:lastmodified":1492046909,
     "wof:name":"Coakley Russo Mem Golf Crse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

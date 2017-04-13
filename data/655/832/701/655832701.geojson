@@ -2,9 +2,14 @@
   "id": 655832701,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Cemetery Ln Bordentown NJ 08505",
+    "addr:housenumber":"32",
+    "addr:postcode":"08505",
+    "addr:street":"Cemetery Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.701912,40.141319,-74.701912,40.141319",
     "geom:latitude":40.141319,
     "geom:longitude":-74.701912,
@@ -27,7 +32,10 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Xiues0A2MGO0SNMEPgwVb_40.141319_-74.701912@1303262281"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461322770,
     "wof:geomhash":"0c909942822a1f2d8a2c2859f3d9df16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655832701
+        }
+    ],
     "wof:id":655832701,
-    "wof:lastmodified":1466687773,
+    "wof:lastmodified":1492065327,
     "wof:name":"Pine Crest Village",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

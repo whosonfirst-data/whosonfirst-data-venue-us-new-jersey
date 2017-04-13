@@ -2,9 +2,14 @@
   "id": 638948951,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Nolan Ave Bayville NJ 08721",
+    "addr:housenumber":"314",
+    "addr:postcode":"08721",
+    "addr:street":"Nolan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.181196,39.886302,-74.181196,39.886302",
     "geom:latitude":39.886302,
     "geom:longitude":-74.181196,
@@ -24,7 +29,10 @@
     "sg:postcode":"08721",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527389
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_112IbkClNehjy0pUXiZE0y_39.886302_-74.181196@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461284000,
     "wof:geomhash":"a0301e0aedbb68e7056c21c84d6b9582",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527389,
+            "venue_id":638948951
+        }
+    ],
     "wof:id":638948951,
-    "wof:lastmodified":1466691411,
+    "wof:lastmodified":1492053614,
     "wof:name":"AJS Stump Removal",
     "wof:parent_id":420527389,
     "wof:placetype":"venue",

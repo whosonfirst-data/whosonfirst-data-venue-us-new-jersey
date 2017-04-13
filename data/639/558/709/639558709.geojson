@@ -2,9 +2,14 @@
   "id": 639558709,
   "type": "Feature",
   "properties": {
+    "addr:full":"2787 State Rte 23 Stockholm NJ 07460",
+    "addr:housenumber":"2787",
+    "addr:postcode":"07460",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524507,41.091561,-74.524507,41.091561",
     "geom:latitude":41.091561,
     "geom:longitude":-74.524507,
@@ -36,7 +41,9 @@
         85633793,
         85975709,
         102086779,
-        85688607
+        85688607,
+        85975719,
+        85823953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +62,20 @@
             "neighbourhood_id":85849915,
             "region_id":85688607,
             "venue_id":639558709
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "locality_id":85975719,
+            "neighbourhood_id":85823953,
+            "region_id":85688607,
+            "venue_id":639558709
         }
     ],
     "wof:id":639558709,
-    "wof:lastmodified":1466696041,
+    "wof:lastmodified":1492081930,
     "wof:name":"All County Fuel Oil",
-    "wof:parent_id":85849915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

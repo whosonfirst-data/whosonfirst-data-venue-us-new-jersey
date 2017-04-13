@@ -2,9 +2,14 @@
   "id": 655638911,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Philhower Rd Lebanon NJ 08833",
+    "addr:housenumber":"32",
+    "addr:postcode":"08833",
+    "addr:street":"Philhower Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.83102,40.704083,-74.83102,40.704083",
     "geom:latitude":40.704083,
     "geom:longitude":-74.83102,
@@ -27,7 +32,17 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101,
+        420527129,
+        85831595,
+        102191575,
+        404478157,
+        85975701,
+        102085997,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vfa7l6A8PbahZh2q3OQFW_40.704083_-74.831020@1294171694"
@@ -35,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1461314721,
     "wof:geomhash":"4f2fbca91b00e4e8f9d3b331fbdaf377",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655638911
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527129,
+            "venue_id":655638911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478157,
+            "locality_id":85975701,
+            "neighbourhood_id":85831595,
+            "region_id":85688607,
+            "venue_id":655638911
+        }
+    ],
     "wof:id":655638911,
-    "wof:lastmodified":1466682623,
+    "wof:lastmodified":1492023727,
     "wof:name":"New Jersey Heart Savers",
-    "wof:parent_id":420527129,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

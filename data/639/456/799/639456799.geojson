@@ -2,9 +2,14 @@
   "id": 639456799,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Valley St Vauxhall NJ 07088",
+    "addr:housenumber":"911",
+    "addr:postcode":"07088",
+    "addr:street":"Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288352,40.719683,-74.288352,40.719683",
     "geom:latitude":40.719683,
     "geom:longitude":-74.288352,
@@ -29,7 +34,10 @@
         "dispensing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H5i9n2VCErRIB88CBSS1k_40.719683_-74.288352@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461295682,
     "wof:geomhash":"3a644b8cfea15a009334e58f65c0e7de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639456799
+        }
+    ],
     "wof:id":639456799,
-    "wof:lastmodified":1466693580,
+    "wof:lastmodified":1492049557,
     "wof:name":"Methods Engineering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

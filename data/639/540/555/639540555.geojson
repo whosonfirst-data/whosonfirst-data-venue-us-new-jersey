@@ -2,9 +2,14 @@
   "id": 639540555,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Fulton Ave Fairview NJ 07022",
+    "addr:housenumber":"117",
+    "addr:postcode":"07022",
+    "addr:street":"Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996125,40.812217,-73.996125,40.812217",
     "geom:latitude":40.812217,
     "geom:longitude":-73.996125,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gwwVIanIA6TgzFxME1hme_40.812217_-73.996125@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299325,
     "wof:geomhash":"8c4acb4b467c5fde4b7a0e5f92811cfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639540555
+        }
+    ],
     "wof:id":639540555,
-    "wof:lastmodified":1466695672,
+    "wof:lastmodified":1492050903,
     "wof:name":"Sal Limousine Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

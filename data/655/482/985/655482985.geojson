@@ -2,9 +2,14 @@
   "id": 655482985,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Ave A Garwood NJ 07002",
+    "addr:housenumber":"354",
+    "addr:postcode":"07002",
+    "addr:street":"Ave A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129851,40.660193,-74.129851,40.660193",
     "geom:latitude":40.660193,
     "geom:longitude":-74.129851,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.d-a-dkitchens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48U93qSw91nlniAifhC6Pe_40.660193_-74.129851@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461308128,
     "wof:geomhash":"5067d31af264fa6d083e3d40fb0f97c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655482985
+        }
+    ],
     "wof:id":655482985,
-    "wof:lastmodified":1466677819,
+    "wof:lastmodified":1492028323,
     "wof:name":"DAD Kitchens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

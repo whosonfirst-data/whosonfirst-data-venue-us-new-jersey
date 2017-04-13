@@ -2,9 +2,14 @@
   "id": 655523655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Park Ln White House Station NJ 08889",
+    "addr:housenumber":"1",
+    "addr:postcode":"08889",
+    "addr:street":"Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.757714,40.618114,-74.757714,40.618114",
     "geom:latitude":40.618114,
     "geom:longitude":-74.757714,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        85976249,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59zRkWMDuol80NiaMTs0nj_40.618114_-74.757714@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309807,
     "wof:geomhash":"a0088b2651d31621f2a54a21f1fdbfec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "locality_id":85976249,
+            "region_id":85688607,
+            "venue_id":655523655
+        }
+    ],
     "wof:id":655523655,
-    "wof:lastmodified":1466678793,
+    "wof:lastmodified":1492048431,
     "wof:name":"Expert Heating & Cooling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

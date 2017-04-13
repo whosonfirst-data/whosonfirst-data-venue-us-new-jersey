@@ -2,9 +2,14 @@
   "id": 639356757,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Franklin Ave Wyckoff NJ 07481",
+    "addr:housenumber":"350",
+    "addr:postcode":"07481",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168945,41.010003,-74.168945,41.010003",
     "geom:latitude":41.010003,
     "geom:longitude":-74.168945,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oqmEnVYVnpUGVY8awSa2j_41.010003_-74.168945@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461293166,
     "wof:geomhash":"f9b766d77ccf08a5b4e61ac9573643c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":639356757
+        }
+    ],
     "wof:id":639356757,
-    "wof:lastmodified":1466692493,
+    "wof:lastmodified":1492076257,
     "wof:name":"E R Nieuwenhuis DPM",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

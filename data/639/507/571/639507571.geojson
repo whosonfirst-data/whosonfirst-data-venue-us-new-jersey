@@ -2,9 +2,14 @@
   "id": 639507571,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"5900",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.059775,39.962196,-75.059775,39.962196",
     "geom:latitude":39.962196,
     "geom:longitude":-75.059775,
@@ -24,7 +29,15 @@
     "sg:postcode":"08110",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607,
+        420526803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12JAMzV3bG0xlyOrpjkTEY_39.962196_-75.059775@1294171694"
@@ -32,11 +45,30 @@
     "wof:country":"US",
     "wof:created":1461297739,
     "wof:geomhash":"fc383cd06b655ec2ec8eda63d2a6ffe1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639507571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526803,
+            "region_id":85688607,
+            "venue_id":639507571
+        }
+    ],
     "wof:id":639507571,
-    "wof:lastmodified":1466694874,
+    "wof:lastmodified":1492059644,
     "wof:name":"Roy Ludwick",
-    "wof:parent_id":420526803,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

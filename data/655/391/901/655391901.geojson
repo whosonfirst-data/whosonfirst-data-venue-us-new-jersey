@@ -2,9 +2,14 @@
   "id": 655391901,
   "type": "Feature",
   "properties": {
+    "addr:full":"8715 Orchard Ave Merchantville NJ 08109",
+    "addr:housenumber":"8715",
+    "addr:postcode":"08109",
+    "addr:street":"Orchard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.020623,39.962858,-75.020623,39.962858",
     "geom:latitude":39.962858,
     "geom:longitude":-75.020623,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cZJlm1dYdTxwHYAUDlzam_39.962858_-75.020623@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461304296,
     "wof:geomhash":"61eff0720150cbe0045c441cca47fe63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":655391901
+        }
+    ],
     "wof:id":655391901,
-    "wof:lastmodified":1466675417,
+    "wof:lastmodified":1492047713,
     "wof:name":"Howie Electrical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

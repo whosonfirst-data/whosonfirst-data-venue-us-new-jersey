@@ -2,9 +2,14 @@
   "id": 655639049,
   "type": "Feature",
   "properties": {
+    "addr:full":"569 Kirk Ln Brick NJ 08724",
+    "addr:housenumber":"569",
+    "addr:postcode":"08724",
+    "addr:street":"Kirk Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.118867,40.109855,-74.118867,40.109855",
     "geom:latitude":40.109855,
     "geom:longitude":-74.118867,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GKDUgYmeG2Eki37n37ZiL_40.109855_-74.118867@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314726,
     "wof:geomhash":"b22a6b2ce9c97f36e0d6328340fd49c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":655639049
+        }
+    ],
     "wof:id":655639049,
-    "wof:lastmodified":1466682316,
+    "wof:lastmodified":1492049952,
     "wof:name":"Wise Potatoe Chips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

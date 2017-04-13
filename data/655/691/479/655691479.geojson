@@ -2,9 +2,14 @@
   "id": 655691479,
   "type": "Feature",
   "properties": {
+    "addr:full":"789 RT-70 Marlton NJ 08053",
+    "addr:housenumber":"789",
+    "addr:postcode":"08053",
+    "addr:street":"Rt-70 Marlton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876804,39.895073,-74.876804,39.895073",
     "geom:latitude":39.895073,
     "geom:longitude":-74.876804,
@@ -29,7 +34,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IgQIJRDC28xkNMSd6WEnT_39.895073_-74.876804@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316919,
     "wof:geomhash":"b8324b4d7dfa09424905061a3a9119f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655691479
+        }
+    ],
     "wof:id":655691479,
-    "wof:lastmodified":1466684042,
+    "wof:lastmodified":1492025023,
     "wof:name":"Pizza Hut",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

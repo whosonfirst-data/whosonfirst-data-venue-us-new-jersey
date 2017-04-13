@@ -2,9 +2,14 @@
   "id": 639600485,
   "type": "Feature",
   "properties": {
+    "addr:full":"789 New Brunswick Rd Somerset NJ 08873",
+    "addr:housenumber":"789",
+    "addr:postcode":"08873",
+    "addr:street":"New Brunswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537438,40.528781,-74.537438,40.528781",
     "geom:latitude":40.528781,
     "geom:longitude":-74.537438,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PxFYVjKoXiYlXdpMdRYoW_40.528781_-74.537438@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301751,
     "wof:geomhash":"238ac6417af62d6e2c0fa690fad2547e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":639600485
+        }
+    ],
     "wof:id":639600485,
-    "wof:lastmodified":1466696832,
+    "wof:lastmodified":1492050336,
     "wof:name":"Polyone Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

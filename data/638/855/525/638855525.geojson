@@ -2,9 +2,14 @@
   "id": 638855525,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Shaytown Rd Montague NJ 07827",
+    "addr:housenumber":"7",
+    "addr:postcode":"07827",
+    "addr:street":"Shaytown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.787091,41.265108,-74.787091,41.265108",
     "geom:latitude":41.265108,
     "geom:longitude":-74.787091,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04qYGFvWyZq80QIlLjgXEy_41.265108_-74.787091@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461281647,
     "wof:geomhash":"b97f45117ea6a8a1c049240fc0398fc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527687,
+            "venue_id":638855525
+        }
+    ],
     "wof:id":638855525,
-    "wof:lastmodified":1466689381,
+    "wof:lastmodified":1492050597,
     "wof:name":"DH Construction",
     "wof:parent_id":420527687,
     "wof:placetype":"venue",

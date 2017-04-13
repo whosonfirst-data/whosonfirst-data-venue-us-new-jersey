@@ -2,9 +2,14 @@
   "id": 655565941,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Mount Vernon Rd Columbia NJ 07832",
+    "addr:housenumber":"46",
+    "addr:postcode":"07832",
+    "addr:street":"Mount Vernon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022363,40.990705,-75.022363,40.990705",
     "geom:latitude":40.990705,
     "geom:longitude":-75.022363,
@@ -29,7 +34,14 @@
         "softening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85976447,
+        102083873,
+        85823511,
+        420527807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47XztH13zQKbCvAy667WwE_40.990705_-75.022363@1294171694"
@@ -37,11 +49,25 @@
     "wof:country":"US",
     "wof:created":1461311537,
     "wof:geomhash":"e9fd200f6eaf97007f300c1654f5673e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "locality_id":85976447,
+            "neighbourhood_id":85823511,
+            "region_id":85688607,
+            "venue_id":655565941
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527807,
+            "venue_id":655565941
+        }
+    ],
     "wof:id":655565941,
-    "wof:lastmodified":1466680002,
+    "wof:lastmodified":1492048106,
     "wof:name":"Argosy Water Treatment",
-    "wof:parent_id":420527807,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

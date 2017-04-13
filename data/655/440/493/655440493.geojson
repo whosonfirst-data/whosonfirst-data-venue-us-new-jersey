@@ -2,9 +2,14 @@
   "id": 655440493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2261 42nd St Pennsauken NJ 08110",
+    "addr:housenumber":"2261",
+    "addr:postcode":"08110",
+    "addr:street":"42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.069303,39.953682,-75.069303,39.953682",
     "geom:latitude":39.953682,
     "geom:longitude":-75.069303,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79UjnR4Cu7voNcJq6aFE9l_39.953682_-75.069303@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306302,
     "wof:geomhash":"b959245e3f9631e6ee7bceae03579d9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655440493
+        }
+    ],
     "wof:id":655440493,
-    "wof:lastmodified":1466676621,
+    "wof:lastmodified":1492029416,
     "wof:name":"John Wright Roofing & Siding",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

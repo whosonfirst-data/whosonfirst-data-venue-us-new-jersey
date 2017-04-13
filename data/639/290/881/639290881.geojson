@@ -2,9 +2,14 @@
   "id": 639290881,
   "type": "Feature",
   "properties": {
+    "addr:full":"774 Martin St Rahway NJ 07065",
+    "addr:housenumber":"774",
+    "addr:postcode":"07065",
+    "addr:street":"Martin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276242,40.595832,-74.276242,40.595832",
     "geom:latitude":40.595832,
     "geom:longitude":-74.276242,
@@ -27,7 +32,14 @@
         "fabricator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CD3vmKmA42DxvTvHTpm3P_40.595832_-74.276242@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291788,
     "wof:geomhash":"ba76a265ac827dfab2751c31affeb0bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639290881
+        }
+    ],
     "wof:id":639290881,
-    "wof:lastmodified":1466691317,
+    "wof:lastmodified":1492043873,
     "wof:name":"Babinec Sheet Metal Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

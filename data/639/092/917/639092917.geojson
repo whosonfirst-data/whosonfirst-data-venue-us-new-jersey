@@ -2,9 +2,14 @@
   "id": 639092917,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 Jackson Mills Rd Jackson NJ 08527",
+    "addr:housenumber":"366",
+    "addr:postcode":"08527",
+    "addr:street":"Jackson Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.31779,40.152326,-74.31779,40.152326",
     "geom:latitude":40.152326,
     "geom:longitude":-74.31779,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        85976329,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vTNCZs3AIYah6u307oOg0_40.152326_-74.317790@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287201,
     "wof:geomhash":"1adbe98bc04288d49d6de5aabc4635dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "locality_id":85976329,
+            "region_id":85688607,
+            "venue_id":639092917
+        }
+    ],
     "wof:id":639092917,
-    "wof:lastmodified":1466673356,
+    "wof:lastmodified":1492043908,
     "wof:name":"Quality Building Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

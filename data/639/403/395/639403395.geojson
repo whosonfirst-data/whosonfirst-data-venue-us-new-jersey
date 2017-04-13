@@ -2,9 +2,14 @@
   "id": 639403395,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Georges Rd Dayton NJ 08810",
+    "addr:housenumber":"485",
+    "addr:postcode":"08810",
+    "addr:street":"Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517607,40.382994,-74.517607,40.382994",
     "geom:latitude":40.382994,
     "geom:longitude":-74.517607,
@@ -28,7 +33,11 @@
         "tanning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55ere604LWC0hl3ApCGqpp_40.382994_-74.517607@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461294303,
     "wof:geomhash":"bb5161f3ee224e8b95e44c2680be7257",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639403395
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639403395
+        }
+    ],
     "wof:id":639403395,
-    "wof:lastmodified":1466693006,
+    "wof:lastmodified":1492051832,
     "wof:name":"Cyber-Tan Tanning Salon Corp",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

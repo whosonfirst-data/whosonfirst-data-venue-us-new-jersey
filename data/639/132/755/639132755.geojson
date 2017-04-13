@@ -2,9 +2,14 @@
   "id": 639132755,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Bradley Ave Northvale NJ 07647",
+    "addr:housenumber":"307",
+    "addr:postcode":"07647",
+    "addr:street":"Bradley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951899,41.008392,-73.951899,41.008392",
     "geom:latitude":41.008392,
     "geom:longitude":-73.951899,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SeuD34cEMeN7taJKWN5eH_41.008392_-73.951899@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288133,
     "wof:geomhash":"640904e27cf8d3feefe5b5d455aacc3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639132755
+        }
+    ],
     "wof:id":639132755,
-    "wof:lastmodified":1466678716,
+    "wof:lastmodified":1492027242,
     "wof:name":"Custom Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

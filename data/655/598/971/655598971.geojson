@@ -2,9 +2,14 @@
   "id": 655598971,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Dupont Ave Hopatcong NJ 07843",
+    "addr:housenumber":"122",
+    "addr:postcode":"07843",
+    "addr:street":"Dupont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660256,40.943114,-74.660256,40.943114",
     "geom:latitude":40.943114,
     "geom:longitude":-74.660256,
@@ -28,7 +33,14 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Hwmf64ktGirJMQQlkuByQ_40.943114_-74.660256@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312963,
     "wof:geomhash":"363cdee4827585e574501902d4d9c8b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "region_id":85688607,
+            "venue_id":655598971
+        }
+    ],
     "wof:id":655598971,
-    "wof:lastmodified":1466681265,
+    "wof:lastmodified":1492048507,
     "wof:name":"Bfh Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

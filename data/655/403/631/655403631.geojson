@@ -2,9 +2,14 @@
   "id": 655403631,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Co Rd 519 Bloomsbury NJ 08804",
+    "addr:housenumber":"45;519",
+    "addr:postcode":"08804",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.133579,40.637387,-75.133579,40.637387",
     "geom:latitude":40.637387,
     "geom:longitude":-75.133579,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.sstoneschool.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02d9arTY1k1mYoG2AvyFIS_40.637387_-75.133579@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461304780,
     "wof:geomhash":"a24a82ccfa1af11bca56fd726417cad7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527777,
+            "venue_id":655403631
+        }
+    ],
     "wof:id":655403631,
-    "wof:lastmodified":1466675620,
+    "wof:lastmodified":1492029576,
     "wof:name":"Stepping Stone School",
     "wof:parent_id":420527777,
     "wof:placetype":"venue",

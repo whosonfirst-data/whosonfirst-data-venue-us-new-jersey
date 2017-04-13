@@ -2,9 +2,14 @@
   "id": 639508233,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 S Main St Stockton NJ 08559",
+    "addr:housenumber":"13",
+    "addr:postcode":"08559",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.976463,40.405672,-74.976463,40.405672",
     "geom:latitude":40.405672,
     "geom:longitude":-74.976463,
@@ -24,7 +29,14 @@
     "sg:postcode":"08559",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477461,
+        85633793,
+        85975679,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jmeXEu5xYBD1t1eTcwTJz_40.405672_-74.976463@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297768,
     "wof:geomhash":"af97ad476ba930aa5a773759988bbc78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477461,
+            "locality_id":85975679,
+            "region_id":85688607,
+            "venue_id":639508233
+        }
+    ],
     "wof:id":639508233,
-    "wof:lastmodified":1466694767,
+    "wof:lastmodified":1492042258,
     "wof:name":"American Liquid Waste Magazine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

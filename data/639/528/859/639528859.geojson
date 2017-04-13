@@ -2,9 +2,14 @@
   "id": 639528859,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 S Main St Barnegat NJ 08005",
+    "addr:housenumber":"21",
+    "addr:postcode":"08005",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236336,39.733925,-74.236336,39.733925",
     "geom:latitude":39.733925,
     "geom:longitude":-74.236336,
@@ -24,7 +29,16 @@
     "sg:postcode":"08005",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411,
+        85841035,
+        102191575,
+        404477823,
+        85976363,
+        102081485,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SPL8rKdvzAuOv6dNzQl91_39.733925_-74.236336@1294171694"
@@ -32,11 +46,27 @@
     "wof:country":"US",
     "wof:created":1461298781,
     "wof:geomhash":"aa0eaf01918eed0fd7d9d9d34cf61de6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":639528859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477823,
+            "locality_id":85976363,
+            "neighbourhood_id":85841035,
+            "region_id":85688607,
+            "venue_id":639528859
+        }
+    ],
     "wof:id":639528859,
-    "wof:lastmodified":1466695490,
+    "wof:lastmodified":1492047845,
     "wof:name":"Asylum Skate Shop",
-    "wof:parent_id":420527411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

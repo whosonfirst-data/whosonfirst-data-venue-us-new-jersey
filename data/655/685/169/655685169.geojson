@@ -2,9 +2,14 @@
   "id": 655685169,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Summit Ave Phillipsburg NJ 08865",
+    "addr:housenumber":"51",
+    "addr:postcode":"08865",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.197304,40.692249,-75.197304,40.692249",
     "geom:latitude":40.692249,
     "geom:longitude":-75.197304,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Gm2YCv1qzDaQCLGv31pfH_40.692378_-75.197057@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316645,
     "wof:geomhash":"8362cefa182ad51b27659a090b6b57c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655685169
+        }
+    ],
     "wof:id":655685169,
-    "wof:lastmodified":1466683808,
+    "wof:lastmodified":1492041142,
     "wof:name":"Delaney Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

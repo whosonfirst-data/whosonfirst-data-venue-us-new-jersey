@@ -2,9 +2,14 @@
   "id": 638857301,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Farmersville Rd Califon NJ 07830",
+    "addr:housenumber":"44",
+    "addr:postcode":"07830",
+    "addr:street":"Farmersville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800769,40.714357,-74.800769,40.714357",
     "geom:latitude":40.714357,
     "geom:longitude":-74.800769,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527075,
+        85688607,
+        85818959,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03073X5zFS1BsPWH0678TF_40.714357_-74.800769@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461281691,
     "wof:geomhash":"8bc06d11f7a18667d5f58ab07ac01e29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":638857301
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85818959,
+            "region_id":85688607,
+            "venue_id":638857301
+        }
+    ],
     "wof:id":638857301,
-    "wof:lastmodified":1466689352,
+    "wof:lastmodified":1492049868,
     "wof:name":"Brielle Music",
-    "wof:parent_id":420527075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

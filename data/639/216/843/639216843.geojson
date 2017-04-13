@@ -2,9 +2,14 @@
   "id": 639216843,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Weiss Rd Saddle River NJ 07458",
+    "addr:housenumber":"42",
+    "addr:postcode":"07458",
+    "addr:street":"Weiss Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.079845,41.069373,-74.079845,41.069373",
     "geom:latitude":41.069373,
     "geom:longitude":-74.079845,
@@ -24,7 +29,14 @@
     "sg:postcode":"07458",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mz2DaBNhImg8P4bO74ZQX_41.069373_-74.079845@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461290072,
     "wof:geomhash":"299d5ae018705abc10ce44fd49e87a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639216843
+        }
+    ],
     "wof:id":639216843,
-    "wof:lastmodified":1466689471,
+    "wof:lastmodified":1492076142,
     "wof:name":"Val S Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

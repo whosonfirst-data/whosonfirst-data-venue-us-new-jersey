@@ -2,9 +2,14 @@
   "id": 655628401,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Lime Kiln Rd Columbia NJ 07832",
+    "addr:housenumber":"81",
+    "addr:postcode":"07832",
+    "addr:street":"Lime Kiln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041907,40.915592,-75.041907,40.915592",
     "geom:latitude":40.915592,
     "geom:longitude":-75.041907,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478431,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VuYOj4wLId51GkMCMyUUx_40.915592_-75.041907@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314254,
     "wof:geomhash":"cfdb990aa42c6c12fb2a4a8d0033bd9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478431,
+            "region_id":85688607,
+            "venue_id":655628401
+        }
+    ],
     "wof:id":655628401,
-    "wof:lastmodified":1466682076,
+    "wof:lastmodified":1492048109,
     "wof:name":"Mark Kitchen Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

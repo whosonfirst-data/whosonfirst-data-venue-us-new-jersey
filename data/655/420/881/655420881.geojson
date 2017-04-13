@@ -2,9 +2,14 @@
   "id": 655420881,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"274",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142963,40.036861,-74.142963,40.036861",
     "geom:latitude":40.036861,
     "geom:longitude":-74.142963,
@@ -28,7 +33,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V0GA2mwtmzf9im1LnhGvw_40.036861_-74.142963@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305510,
     "wof:geomhash":"1a1f40012cfee37131a5a5b423fb58a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655420881
+        }
+    ],
     "wof:id":655420881,
-    "wof:lastmodified":1466676199,
+    "wof:lastmodified":1492036266,
     "wof:name":"Squeeky Kleen Car Wash",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

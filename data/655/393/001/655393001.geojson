@@ -2,9 +2,14 @@
   "id": 655393001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2140 US Hwy 130 Monmouth Junction NJ 08852",
+    "addr:housenumber":"2140",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.506466,40.393788,-74.506466,40.393788",
     "geom:latitude":40.393788,
     "geom:longitude":-74.506466,
@@ -28,7 +33,11 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rRxIqszwcE1WSwxXtzsIV_40.393788_-74.506466@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461304336,
     "wof:geomhash":"4f23b073d9a240c96ab4b3db8adf0976",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655393001
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655393001
+        }
+    ],
     "wof:id":655393001,
-    "wof:lastmodified":1466688828,
+    "wof:lastmodified":1492029461,
     "wof:name":"Citgo",
-    "wof:parent_id":420527179,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

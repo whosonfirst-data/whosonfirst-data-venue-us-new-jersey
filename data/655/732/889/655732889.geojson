@@ -2,9 +2,14 @@
   "id": 655732889,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 W Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"12",
+    "addr:postcode":"07065",
+    "addr:street":"W Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277702,40.606098,-74.277702,40.606098",
     "geom:latitude":40.606098,
     "geom:longitude":-74.277702,
@@ -30,7 +35,14 @@
     "sg:province":"NJ",
     "sg:website":"www.libertyharley.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20idKVDYq02FKjMjFbqwkI_40.606098_-74.277702@1303262257"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461318641,
     "wof:geomhash":"5b7ae9381e2c46f9e96097b945c25236",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732889
+        }
+    ],
     "wof:id":655732889,
-    "wof:lastmodified":1466685223,
+    "wof:lastmodified":1492065357,
     "wof:name":"Liberty Harley Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

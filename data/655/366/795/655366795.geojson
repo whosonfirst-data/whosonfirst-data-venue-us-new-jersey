@@ -2,9 +2,14 @@
   "id": 655366795,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Wiltshire Dr Hightstown NJ 08520",
+    "addr:housenumber":"7",
+    "addr:postcode":"08520",
+    "addr:street":"Wiltshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.564302,40.26875,-74.564302,40.26875",
     "geom:latitude":40.26875,
     "geom:longitude":-74.564302,
@@ -30,7 +35,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05oRKypT38vHjfUEaRkRdP_40.268750_-74.564302@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461303292,
     "wof:geomhash":"9b0cd68fa71ac8ad7d24a6f742e39c4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":655366795
+        }
+    ],
     "wof:id":655366795,
-    "wof:lastmodified":1466674620,
+    "wof:lastmodified":1492047945,
     "wof:name":"East Wndsor Mncpl Utlties Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

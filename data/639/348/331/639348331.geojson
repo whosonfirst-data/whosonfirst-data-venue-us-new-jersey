@@ -2,9 +2,14 @@
   "id": 639348331,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Major Rd Monmouth Jct NJ 08852",
+    "addr:housenumber":"140",
+    "addr:postcode":"08852",
+    "addr:street":"Major Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.547076,40.401975,-74.547076,40.401975",
     "geom:latitude":40.401975,
     "geom:longitude":-74.547076,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0co64BTWJnlS8p1roqUbfA_40.401975_-74.547076@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292984,
     "wof:geomhash":"76b442197a050584d610b67e470f1c5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639348331
+        }
+    ],
     "wof:id":639348331,
-    "wof:lastmodified":1466692378,
+    "wof:lastmodified":1492051814,
     "wof:name":"Windsor Assocs",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

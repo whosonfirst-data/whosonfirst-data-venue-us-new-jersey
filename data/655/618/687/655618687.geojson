@@ -2,9 +2,14 @@
   "id": 655618687,
   "type": "Feature",
   "properties": {
+    "addr:full":"670 S 21st St Irvington NJ 07111",
+    "addr:housenumber":"670",
+    "addr:postcode":"07111",
+    "addr:street":"S 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.222558,40.720233,-74.222558,40.720233",
     "geom:latitude":40.720233,
     "geom:longitude":-74.222558,
@@ -27,7 +32,13 @@
         "export"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qwh8So08LCrj8JK5rjWSp_40.720233_-74.222558@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461313821,
     "wof:geomhash":"1e95e2ad9976eb280f44ec990cecdd1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655618687
+        }
+    ],
     "wof:id":655618687,
-    "wof:lastmodified":1466681848,
+    "wof:lastmodified":1492023750,
     "wof:name":"Lesniewski Shipping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

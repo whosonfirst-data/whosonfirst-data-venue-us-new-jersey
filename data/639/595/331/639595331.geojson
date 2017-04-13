@@ -2,9 +2,14 @@
   "id": 639595331,
   "type": "Feature",
   "properties": {
+    "addr:full":"1251 US Hwy 206 Bridgewater NJ 08807",
+    "addr:housenumber":"1251",
+    "addr:postcode":"08807",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.635635,40.638547,-74.635635,40.638547",
     "geom:latitude":40.638547,
     "geom:longitude":-74.635635,
@@ -27,7 +32,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RXi44AcxlRvttgMewDaSx_40.638547_-74.635635@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301561,
     "wof:geomhash":"c62d600572704023baf6235ee58ff9b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":639595331
+        }
+    ],
     "wof:id":639595331,
-    "wof:lastmodified":1466696794,
+    "wof:lastmodified":1492055772,
     "wof:name":"Bridgewater Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

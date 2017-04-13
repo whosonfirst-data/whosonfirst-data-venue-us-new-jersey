@@ -2,9 +2,14 @@
   "id": 655645115,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 Cedar Ridge Rd Newton NJ 07860",
+    "addr:housenumber":"906",
+    "addr:postcode":"07860",
+    "addr:street":"Cedar Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.870135,41.030214,-74.870135,41.030214",
     "geom:latitude":41.030214,
     "geom:longitude":-74.870135,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kX04MDEv9zSaP0PtuC32k_41.030214_-74.870135@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314976,
     "wof:geomhash":"2770c050644bcc94148642e8fc880e33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655645115
+        }
+    ],
     "wof:id":655645115,
-    "wof:lastmodified":1466682496,
+    "wof:lastmodified":1492023704,
     "wof:name":"Cedar Ridge Construction",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

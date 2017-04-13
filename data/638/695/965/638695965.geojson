@@ -2,9 +2,14 @@
   "id": 638695965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1545 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1545",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259896,40.708509,-74.259896,40.708509",
     "geom:latitude":40.708509,
     "geom:longitude":-74.259896,
@@ -27,7 +32,10 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rpCD17oAUvvIsDoJ6etwN_40.708509_-74.259896@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461277396,
     "wof:geomhash":"854d5ef9ed73dc72527915de5baed685",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":638695965
+        }
+    ],
     "wof:id":638695965,
-    "wof:lastmodified":1466688471,
+    "wof:lastmodified":1492081919,
     "wof:name":"Q S I Technologies",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

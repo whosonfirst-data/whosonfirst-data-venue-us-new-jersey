@@ -2,9 +2,14 @@
   "id": 639397313,
   "type": "Feature",
   "properties": {
+    "addr:full":"2190 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2190",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.284995,40.718369,-74.284995,40.718369",
     "geom:latitude":40.718369,
     "geom:longitude":-74.284995,
@@ -24,7 +29,10 @@
     "sg:postcode":"07088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45vtNAVQV5X4zM9KUswliz_40.718369_-74.284995@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461294081,
     "wof:geomhash":"136b9ac5bf200fffb84703b8f7a0eb1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639397313
+        }
+    ],
     "wof:id":639397313,
-    "wof:lastmodified":1466692871,
+    "wof:lastmodified":1492051376,
     "wof:name":"Menschner's Specialty Hardware",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

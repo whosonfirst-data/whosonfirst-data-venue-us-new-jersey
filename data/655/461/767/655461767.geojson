@@ -2,9 +2,14 @@
   "id": 655461767,
   "type": "Feature",
   "properties": {
+    "addr:full":"391 Washington Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"391",
+    "addr:postcode":"07010",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988318,40.825719,-73.988318,40.825719",
     "geom:latitude":40.825719,
     "geom:longitude":-73.988318,
@@ -29,7 +34,14 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mv3FpJcVTnZNXzQyFBPRJ_40.825719_-73.988318@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461307235,
     "wof:geomhash":"26e93b3e330cd306acb987ee4df40db3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655461767
+        }
+    ],
     "wof:id":655461767,
-    "wof:lastmodified":1466677227,
+    "wof:lastmodified":1492029498,
     "wof:name":"TVB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

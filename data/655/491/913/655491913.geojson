@@ -2,9 +2,14 @@
   "id": 655491913,
   "type": "Feature",
   "properties": {
+    "addr:full":"868 Mountain Ave Berkeley Heights NJ 07922",
+    "addr:housenumber":"868",
+    "addr:postcode":"07922",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.445736,40.667578,-74.445736,40.667578",
     "geom:latitude":40.667578,
     "geom:longitude":-74.445736,
@@ -27,7 +32,12 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892331,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74fke4Iu80CIJtUrSlnBlx_40.667578_-74.445736@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461308497,
     "wof:geomhash":"d9bbd4e29d6ecc92cf580438fba1f4b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892331,
+            "region_id":85688607,
+            "venue_id":655491913
+        }
+    ],
     "wof:id":655491913,
-    "wof:lastmodified":1466678058,
+    "wof:lastmodified":1492027707,
     "wof:name":"Robert A Angelica DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

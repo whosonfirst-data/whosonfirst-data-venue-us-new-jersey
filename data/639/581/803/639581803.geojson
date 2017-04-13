@@ -2,9 +2,14 @@
   "id": 639581803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2162 Cooper Rd Atco NJ 08004",
+    "addr:housenumber":"2162",
+    "addr:postcode":"08004",
+    "addr:street":"Cooper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.89394,39.773707,-74.89394,39.773707",
     "geom:latitude":39.773707,
     "geom:longitude":-74.89394,
@@ -29,7 +34,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YVNAcYmGZGpQfNwbkKul4_39.773707_-74.893940@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461300975,
     "wof:geomhash":"190b377bacace9ececaafabd9704abf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639581803
+        }
+    ],
     "wof:id":639581803,
-    "wof:lastmodified":1466696571,
+    "wof:lastmodified":1492055635,
     "wof:name":"Atco Elementary School",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

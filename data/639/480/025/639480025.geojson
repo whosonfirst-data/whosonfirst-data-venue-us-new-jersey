@@ -2,9 +2,14 @@
   "id": 639480025,
   "type": "Feature",
   "properties": {
+    "addr:full":"392 James St Phillipsburg NJ 08865",
+    "addr:housenumber":"392",
+    "addr:postcode":"08865",
+    "addr:street":"James St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174899,40.685143,-75.174899,40.685143",
     "geom:latitude":40.685143,
     "geom:longitude":-75.174899,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kiu7Sxa6RKR9076OsfMTE_40.685143_-75.174899@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296609,
     "wof:geomhash":"0953fc30dabf08c51138b4a613f0e554",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639480025
+        }
+    ],
     "wof:id":639480025,
-    "wof:lastmodified":1466694238,
+    "wof:lastmodified":1492041829,
     "wof:name":"Mantoni's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

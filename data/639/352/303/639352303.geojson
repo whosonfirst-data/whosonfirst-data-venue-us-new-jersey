@@ -2,9 +2,14 @@
   "id": 639352303,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"305",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530458,40.561645,-74.530458,40.561645",
     "geom:latitude":40.561645,
     "geom:longitude":-74.530458,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XaUjEiZ6itdp7wLGRak6b_40.561645_-74.530458@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293071,
     "wof:geomhash":"1e116bb434909407376e8f82395a18a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639352303
+        }
+    ],
     "wof:id":639352303,
-    "wof:lastmodified":1466692429,
+    "wof:lastmodified":1492042379,
     "wof:name":"Carolina's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

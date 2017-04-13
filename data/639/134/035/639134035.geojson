@@ -2,9 +2,14 @@
   "id": 639134035,
   "type": "Feature",
   "properties": {
+    "addr:full":"3955 US Hwy 1 Monmouth Jct NJ 08852",
+    "addr:housenumber":"3955",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.546984,40.4063,-74.546984,40.4063",
     "geom:latitude":40.4063,
     "geom:longitude":-74.546984,
@@ -26,10 +31,11 @@
     "sg:website":"www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527179,
         420527171,
         102191575,
         404478211,
-        85633793,
         85976279,
         102087417,
         85688607
@@ -43,6 +49,11 @@
     "wof:geomhash":"3fd4571c64a5018ebd3dbac9d515cdba",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639134035
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -54,9 +65,9 @@
         }
     ],
     "wof:id":639134035,
-    "wof:lastmodified":1466678911,
+    "wof:lastmodified":1492051812,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":420527171,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

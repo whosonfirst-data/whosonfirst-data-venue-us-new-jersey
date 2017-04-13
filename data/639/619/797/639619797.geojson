@@ -2,9 +2,14 @@
   "id": 639619797,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Hartshorn Dr Colts Neck NJ 07722",
+    "addr:housenumber":"44",
+    "addr:postcode":"07722",
+    "addr:street":"Hartshorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216867,40.327663,-74.216867,40.327663",
     "geom:latitude":40.327663,
     "geom:longitude":-74.216867,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85825581,
-        102085049
+        85818331,
+        102085049,
+        85825581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85818331,
+            "region_id":85688607,
+            "venue_id":639619797
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "neighbourhood_id":85825581,
             "region_id":85688607,
             "venue_id":639619797
         }
     ],
     "wof:id":639619797,
-    "wof:lastmodified":1466697375,
+    "wof:lastmodified":1492056093,
     "wof:name":"Chiron Technologies",
-    "wof:parent_id":85825581,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

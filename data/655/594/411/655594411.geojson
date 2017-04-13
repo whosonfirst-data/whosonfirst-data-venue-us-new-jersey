@@ -2,9 +2,14 @@
   "id": 655594411,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Smith Ave Haskell NJ 07420",
+    "addr:housenumber":"49",
+    "addr:postcode":"07420",
+    "addr:street":"Smith Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292051,41.034656,-74.292051,41.034656",
     "geom:latitude":41.034656,
     "geom:longitude":-74.292051,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mMts7feAHjA2dPSDGiwXc_41.034656_-74.292051@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461312766,
     "wof:geomhash":"70216af091971b3c2aa5eba2a14ddcb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":655594411
+        }
+    ],
     "wof:id":655594411,
-    "wof:lastmodified":1466680783,
+    "wof:lastmodified":1492047695,
     "wof:name":"Steve's Tools In Motion Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

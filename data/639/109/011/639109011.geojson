@@ -2,9 +2,14 @@
   "id": 639109011,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 Orchard St Keyport NJ 07735",
+    "addr:housenumber":"224",
+    "addr:postcode":"07735",
+    "addr:street":"Orchard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.222086,40.441491,-74.222086,40.441491",
     "geom:latitude":40.441491,
     "geom:longitude":-74.222086,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bz2ilhaj96xH7dKDv6r76_40.441491_-74.222086@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461287547,
     "wof:geomhash":"b8d60ad4d19d1853162390141c117ad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":639109011
+        }
+    ],
     "wof:id":639109011,
-    "wof:lastmodified":1466675533,
+    "wof:lastmodified":1492030960,
     "wof:name":"Monmouth Grounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

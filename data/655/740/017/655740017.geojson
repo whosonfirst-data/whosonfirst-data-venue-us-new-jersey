@@ -2,9 +2,14 @@
   "id": 655740017,
   "type": "Feature",
   "properties": {
+    "addr:full":"1275 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1275",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.265182,40.700451,-74.265182,40.700451",
     "geom:latitude":40.700451,
     "geom:longitude":-74.265182,
@@ -30,7 +35,10 @@
     "sg:province":"NJ",
     "sg:website":"http://www.dipaoloandsonbakery.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42KX9lig7Ql4skp8gSUCYP_40.700451_-74.265182@1303262258"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461318915,
     "wof:geomhash":"bc463a9b3f51bbb37a1abadeadbfce5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655740017
+        }
+    ],
     "wof:id":655740017,
-    "wof:lastmodified":1466685219,
+    "wof:lastmodified":1492068408,
     "wof:name":"Dipaolo & Son Bakery",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

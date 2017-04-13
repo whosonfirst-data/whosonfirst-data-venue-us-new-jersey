@@ -2,9 +2,14 @@
   "id": 639314051,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Pergola Ave Jamesburg NJ 08831",
+    "addr:housenumber":"68",
+    "addr:postcode":"08831",
+    "addr:street":"Pergola Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.427591,40.34923,-74.427591,40.34923",
     "geom:latitude":40.34923,
     "geom:longitude":-74.427591,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qH7AFGkGNcNTOBAYxTYIj_40.349230_-74.427591@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292260,
     "wof:geomhash":"092f99df8f2c2f9d4d9a0b310c640c96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639314051
+        }
+    ],
     "wof:id":639314051,
-    "wof:lastmodified":1466691707,
+    "wof:lastmodified":1492051461,
     "wof:name":"Old Forge Svc Ctr",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

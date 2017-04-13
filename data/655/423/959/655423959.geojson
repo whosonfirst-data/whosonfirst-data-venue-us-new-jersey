@@ -2,9 +2,14 @@
   "id": 655423959,
   "type": "Feature",
   "properties": {
+    "addr:full":"1131 Kline Pl Rahway NJ 07065",
+    "addr:housenumber":"1131",
+    "addr:postcode":"07065",
+    "addr:street":"Kline Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294223,40.61643,-74.294223,40.61643",
     "geom:latitude":40.61643,
     "geom:longitude":-74.294223,
@@ -24,7 +29,14 @@
     "sg:postcode":"07065",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gcD7OewcgseRS061JeRS8_40.616430_-74.294223@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461305623,
     "wof:geomhash":"c978b6185c1172ccb023ae87f3941cdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655423959
+        }
+    ],
     "wof:id":655423959,
-    "wof:lastmodified":1466676241,
+    "wof:lastmodified":1492051938,
     "wof:name":"Creative Code",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

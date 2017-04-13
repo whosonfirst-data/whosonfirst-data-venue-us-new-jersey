@@ -2,9 +2,14 @@
   "id": 638843275,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Brookview Ln Englishtown NJ 07726",
+    "addr:housenumber":"14",
+    "addr:postcode":"07726",
+    "addr:street":"Brookview Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.355995,40.321264,-74.355995,40.321264",
     "geom:latitude":40.321264,
     "geom:longitude":-74.355995,
@@ -29,7 +34,13 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53qquBDnrZrVciWhBQc4PD_40.321264_-74.355995@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461281324,
     "wof:geomhash":"6601ee13cc56ffb0cd6c1b26e74b3e21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":638843275
+        }
+    ],
     "wof:id":638843275,
-    "wof:lastmodified":1466689148,
+    "wof:lastmodified":1492047851,
     "wof:name":"C P Computer Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

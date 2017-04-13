@@ -2,9 +2,14 @@
   "id": 639521177,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Westerly Ave Madison NJ 07940",
+    "addr:housenumber":"9",
+    "addr:postcode":"07940",
+    "addr:street":"Westerly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.405254,40.767698,-74.405254,40.767698",
     "geom:latitude":40.767698,
     "geom:longitude":-74.405254,
@@ -29,7 +34,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477521,
+        85633793,
+        85975549,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PPCTLLHrlB22wGG7BE2TM_40.767698_-74.405254@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461298359,
     "wof:geomhash":"61250c1c9a7d136d611cc2ca95098464",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477521,
+            "locality_id":85975549,
+            "region_id":85688607,
+            "venue_id":639521177
+        }
+    ],
     "wof:id":639521177,
-    "wof:lastmodified":1466695138,
+    "wof:lastmodified":1492030894,
     "wof:name":"Nj Area Council Boys & Girls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

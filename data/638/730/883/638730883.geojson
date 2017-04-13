@@ -2,9 +2,14 @@
   "id": 638730883,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Somerset St Hopewell NJ 08525",
+    "addr:housenumber":"95",
+    "addr:postcode":"08525",
+    "addr:street":"Somerset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.758773,40.392478,-74.758773,40.392478",
     "geom:latitude":40.392478,
     "geom:longitude":-74.758773,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Bebq3K9F4SzUKrLS2FLY_40.392478_-74.758773@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278507,
     "wof:geomhash":"ad70d7c15bf3ee7aef9b4752fd264299",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":638730883
+        }
+    ],
     "wof:id":638730883,
-    "wof:lastmodified":1466675534,
+    "wof:lastmodified":1492062585,
     "wof:name":"Perone Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

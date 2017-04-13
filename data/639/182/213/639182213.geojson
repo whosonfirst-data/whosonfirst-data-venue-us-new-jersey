@@ -2,9 +2,14 @@
   "id": 639182213,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Brighton Way Frenchtown NJ 08831",
+    "addr:housenumber":"10",
+    "addr:postcode":"08831",
+    "addr:street":"Brighton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.447471,40.326467,-74.447471,40.326467",
     "geom:latitude":40.326467,
     "geom:longitude":-74.447471,
@@ -28,7 +33,10 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13s7Ml9hgk7JfzpaiA99Fo_40.326467_-74.447471@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289233,
     "wof:geomhash":"b404bb2b6d172f268fff7dca30a45abc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527181,
+            "venue_id":639182213
+        }
+    ],
     "wof:id":639182213,
-    "wof:lastmodified":1466686100,
+    "wof:lastmodified":1492056046,
     "wof:name":"Garbo & Sasha Boutique",
     "wof:parent_id":420527181,
     "wof:placetype":"venue",

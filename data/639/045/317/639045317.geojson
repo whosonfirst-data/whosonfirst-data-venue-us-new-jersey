@@ -2,9 +2,14 @@
   "id": 639045317,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Madison Hill Rd Clark NJ 07066",
+    "addr:housenumber":"616",
+    "addr:postcode":"07066",
+    "addr:street":"Madison Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307502,40.613397,-74.307502,40.613397",
     "geom:latitude":40.613397,
     "geom:longitude":-74.307502,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pG1SRVEGzm3rlfSRPZhh7_40.613397_-74.307502@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286163,
     "wof:geomhash":"60b059da37c354df4cd700169899b6f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639045317
+        }
+    ],
     "wof:id":639045317,
-    "wof:lastmodified":1466674152,
+    "wof:lastmodified":1492069593,
     "wof:name":"JBA Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

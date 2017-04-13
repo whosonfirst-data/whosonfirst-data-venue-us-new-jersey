@@ -2,9 +2,14 @@
   "id": 655683865,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Maple Ln Wayne NJ 07470",
+    "addr:housenumber":"77",
+    "addr:postcode":"07470",
+    "addr:street":"Maple Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276294,40.973457,-74.276294,40.973457",
     "geom:latitude":40.973457,
     "geom:longitude":-74.276294,
@@ -28,7 +33,10 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74eocXxGyGK4CBeNFnBlae_40.973603_-74.276494@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316585,
     "wof:geomhash":"f3774f48e8509ebe627f817beae886ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655683865
+        }
+    ],
     "wof:id":655683865,
-    "wof:lastmodified":1466683938,
+    "wof:lastmodified":1492070304,
     "wof:name":"Cleaning Impulse the",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

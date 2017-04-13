@@ -2,9 +2,14 @@
   "id": 655536227,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Willow Brook Rd Freehold NJ 07728",
+    "addr:housenumber":"100",
+    "addr:postcode":"07728",
+    "addr:street":"Willow Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258274,40.24099,-74.258274,40.24099",
     "geom:latitude":40.24099,
     "geom:longitude":-74.258274,
@@ -27,8 +32,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976029,
+        85976063,
         102085049,
+        85808533,
+        85976029,
         85851127
     ],
     "wof:breaches":[],
@@ -42,6 +49,14 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "locality_id":85976063,
+            "neighbourhood_id":85808533,
+            "region_id":85688607,
+            "venue_id":655536227
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "locality_id":85976029,
             "neighbourhood_id":85851127,
             "region_id":85688607,
@@ -49,9 +64,9 @@
         }
     ],
     "wof:id":655536227,
-    "wof:lastmodified":1466679076,
+    "wof:lastmodified":1492060712,
     "wof:name":"Killam Assoc Cnslting Engneers",
-    "wof:parent_id":85851127,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

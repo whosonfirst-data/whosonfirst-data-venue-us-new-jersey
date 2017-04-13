@@ -2,9 +2,14 @@
   "id": 655474259,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Jordan Ct Cherry Hill NJ 08003",
+    "addr:housenumber":"2",
+    "addr:postcode":"08003",
+    "addr:street":"Jordan Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.944075,39.887153,-74.944075,39.887153",
     "geom:latitude":39.887153,
     "geom:longitude":-74.944075,
@@ -28,7 +33,14 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0APeFZ6AXglNVOKUDuVUAo_39.887153_-74.944075@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307765,
     "wof:geomhash":"0403618b4ef91b4fa3f116450f8df473",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":655474259
+        }
+    ],
     "wof:id":655474259,
-    "wof:lastmodified":1466677370,
+    "wof:lastmodified":1492048466,
     "wof:name":"M G Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

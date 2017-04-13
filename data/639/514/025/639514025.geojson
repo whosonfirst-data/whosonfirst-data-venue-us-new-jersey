@@ -2,9 +2,14 @@
   "id": 639514025,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Linda St Belford NJ 07718",
+    "addr:housenumber":"300",
+    "addr:postcode":"07718",
+    "addr:street":"Linda St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.083015,40.410588,-74.083015,40.410588",
     "geom:latitude":40.410588,
     "geom:longitude":-74.083015,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EuqFPAhcoxcuGDnUWsNoa_40.410588_-74.083015@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298021,
     "wof:geomhash":"9238af79087c054f65f8fc6d9db83eb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":639514025
+        }
+    ],
     "wof:id":639514025,
-    "wof:lastmodified":1466694956,
+    "wof:lastmodified":1492044428,
     "wof:name":"NJ Homes Inc",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

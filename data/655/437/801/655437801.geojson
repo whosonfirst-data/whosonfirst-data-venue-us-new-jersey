@@ -2,9 +2,14 @@
   "id": 655437801,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Shelley Ct Bergenfield NJ 07621",
+    "addr:housenumber":"26",
+    "addr:postcode":"07621",
+    "addr:street":"Shelley Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.983367,40.936224,-73.983367,40.936224",
     "geom:latitude":40.936224,
     "geom:longitude":-73.983367,
@@ -28,7 +33,14 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eCI5JNQvNSLpUspDbI9XL_40.936224_-73.983367@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306210,
     "wof:geomhash":"fa0c7bb5d3829c5c4385cedab980ff35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655437801
+        }
+    ],
     "wof:id":655437801,
-    "wof:lastmodified":1466676537,
+    "wof:lastmodified":1492053623,
     "wof:name":"Manning Carting & Demolition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

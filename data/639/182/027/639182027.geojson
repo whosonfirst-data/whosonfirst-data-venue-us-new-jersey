@@ -2,9 +2,14 @@
   "id": 639182027,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Hamilton Rd Newton NJ 07860",
+    "addr:housenumber":"34",
+    "addr:postcode":"07860",
+    "addr:street":"Hamilton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.822401,40.972574,-74.822401,40.972574",
     "geom:latitude":40.972574,
     "geom:longitude":-74.822401,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yQhDU8HLDqJJWrCCMiuu7_40.972574_-74.822401@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289230,
     "wof:geomhash":"12be0a9add822c03d2d6e101d2ce6c30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":639182027
+        }
+    ],
     "wof:id":639182027,
-    "wof:lastmodified":1466686074,
+    "wof:lastmodified":1492054548,
     "wof:name":"Decks By Don",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

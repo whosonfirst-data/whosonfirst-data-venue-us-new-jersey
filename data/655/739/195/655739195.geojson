@@ -2,9 +2,14 @@
   "id": 655739195,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"155",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307899,40.7104,-74.307899,40.7104",
     "geom:latitude":40.7104,
     "geom:longitude":-74.307899,
@@ -24,7 +29,10 @@
     "sg:postcode":"07081",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eHc16RDSqmYNE45HC4Ghz_40.710400_-74.307899@1303262258"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461318888,
     "wof:geomhash":"e3c4171bc90baa3fa1fc4fbc6ea632fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655739195
+        }
+    ],
     "wof:id":655739195,
-    "wof:lastmodified":1466685260,
+    "wof:lastmodified":1492040310,
     "wof:name":"Pitman Pitman Mindas and Lee PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

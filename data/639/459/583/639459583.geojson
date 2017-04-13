@@ -2,9 +2,14 @@
   "id": 639459583,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Fisk Rd Wayne NJ 07470",
+    "addr:housenumber":"58",
+    "addr:postcode":"07470",
+    "addr:street":"Fisk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23469,40.956159,-74.23469,40.956159",
     "geom:latitude":40.956159,
     "geom:longitude":-74.23469,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85843063,
-        102081133
+        102081133,
+        85892547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85843063,
             "region_id":85688607,
             "venue_id":639459583
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081133,
+            "neighbourhood_id":85892547,
+            "region_id":85688607,
+            "venue_id":639459583
         }
     ],
     "wof:id":639459583,
-    "wof:lastmodified":1466693921,
+    "wof:lastmodified":1492053844,
     "wof:name":"Sean W Burns",
-    "wof:parent_id":85843063,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

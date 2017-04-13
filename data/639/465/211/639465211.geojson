@@ -2,9 +2,14 @@
   "id": 639465211,
   "type": "Feature",
   "properties": {
+    "addr:full":"1622 May St Union NJ 07083",
+    "addr:housenumber":"1622",
+    "addr:postcode":"07083",
+    "addr:street":"May St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259517,40.7115,-74.259517,40.7115",
     "geom:latitude":40.7115,
     "geom:longitude":-74.259517,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DWl5tSSYSympD7Ley8GbB_40.711500_-74.259517@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461296006,
     "wof:geomhash":"8f58948a44013935713acc9496c51ef9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":639465211
+        }
+    ],
     "wof:id":639465211,
-    "wof:lastmodified":1466693915,
+    "wof:lastmodified":1492048881,
     "wof:name":"Lorenzo Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

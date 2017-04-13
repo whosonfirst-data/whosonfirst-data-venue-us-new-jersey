@@ -2,9 +2,14 @@
   "id": 655615159,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 Federal St Trenton NJ 08611",
+    "addr:housenumber":"421",
+    "addr:postcode":"08611",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.757743,40.208466,-74.757743,40.208466",
     "geom:latitude":40.208466,
     "geom:longitude":-74.757743,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0znOg7G3vJamA04pyC4uCW_40.208466_-74.757743@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313658,
     "wof:geomhash":"f1bcbc022cd89b3959cc27d9243249c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655615159
+        }
+    ],
     "wof:id":655615159,
-    "wof:lastmodified":1466681524,
+    "wof:lastmodified":1492020665,
     "wof:name":"Tropical Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655617669,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Nassau St S Bound Brook NJ 08880",
+    "addr:housenumber":"235",
+    "addr:postcode":"08880",
+    "addr:street":"Nassau St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533728,40.556458,-74.533728,40.556458",
     "geom:latitude":40.556458,
     "geom:longitude":-74.533728,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kEdg8Oy06qfmsBMLc3oXe_40.556458_-74.533728@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313777,
     "wof:geomhash":"f6f3fc8aec3df3e0cd143f0abedb82fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":655617669
+        }
+    ],
     "wof:id":655617669,
-    "wof:lastmodified":1466681844,
+    "wof:lastmodified":1492036421,
     "wof:name":"Artisan Painting & Hm Imprvmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639048557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 Campus Dr Morganville NJ 07751",
+    "addr:housenumber":"1130",
+    "addr:postcode":"07751",
+    "addr:street":"Campus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29085,40.353718,-74.29085,40.353718",
     "geom:latitude":40.353718,
     "geom:longitude":-74.29085,
@@ -28,7 +33,15 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NquqQHs5IsbJiKcj0o5Vc_40.353718_-74.290850@1294171694"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461286241,
     "wof:geomhash":"e424f6b089ad612a678b407d9f961432",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":639048557
+        }
+    ],
     "wof:id":639048557,
-    "wof:lastmodified":1466674203,
+    "wof:lastmodified":1492051025,
     "wof:name":"Software Synergy Inc",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

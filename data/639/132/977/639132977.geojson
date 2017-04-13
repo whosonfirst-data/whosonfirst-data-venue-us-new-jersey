@@ -2,9 +2,14 @@
   "id": 639132977,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"999",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256102,40.204448,-74.256102,40.204448",
     "geom:latitude":40.204448,
     "geom:longitude":-74.256102,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85859203,
-        102085049
+        85803415,
+        102085049,
+        85859203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85803415,
+            "region_id":85688607,
+            "venue_id":639132977
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "neighbourhood_id":85859203,
             "region_id":85688607,
             "venue_id":639132977
         }
     ],
     "wof:id":639132977,
-    "wof:lastmodified":1466678747,
+    "wof:lastmodified":1492051965,
     "wof:name":"Good Cookers Cafe",
-    "wof:parent_id":85859203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

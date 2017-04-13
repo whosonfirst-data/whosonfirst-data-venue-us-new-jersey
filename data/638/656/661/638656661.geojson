@@ -2,9 +2,14 @@
   "id": 638656661,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Grant Ave Dumont NJ 07628",
+    "addr:housenumber":"38",
+    "addr:postcode":"07628",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985007,40.947649,-73.985007,40.947649",
     "geom:latitude":40.947649,
     "geom:longitude":-73.985007,
@@ -29,7 +34,14 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cLZHLnUs8ctiFC0pqUjvM_40.947649_-73.985007@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461275991,
     "wof:geomhash":"39f558ffbcc137751d4d80fa6d93e131",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":638656661
+        }
+    ],
     "wof:id":638656661,
-    "wof:lastmodified":1466674051,
+    "wof:lastmodified":1492062265,
     "wof:name":"Homebodies Personal Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

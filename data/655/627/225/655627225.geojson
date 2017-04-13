@@ -2,9 +2,14 @@
   "id": 655627225,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Michele Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"22",
+    "addr:postcode":"07438",
+    "addr:street":"Michele Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.48928,41.027063,-74.48928,41.027063",
     "geom:latitude":41.027063,
     "geom:longitude":-74.48928,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K5yHknNgSLxQwcX3aA3OJ_41.027063_-74.489280@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314208,
     "wof:geomhash":"c049daeb13075e6e7465087238eaf738",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527329,
+            "venue_id":655627225
+        }
+    ],
     "wof:id":655627225,
-    "wof:lastmodified":1466682019,
+    "wof:lastmodified":1492027614,
     "wof:name":"Beauty Resources",
     "wof:parent_id":420527329,
     "wof:placetype":"venue",

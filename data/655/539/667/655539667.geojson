@@ -2,9 +2,14 @@
   "id": 655539667,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"246",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252575,40.745003,-74.252575,40.745003",
     "geom:latitude":40.745003,
     "geom:longitude":-74.252575,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"www.keepthebeat.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XQnhwxVbvOb3ZWdxPdb5k_40.745003_-74.252575@1294171694"
@@ -39,11 +51,25 @@
     "wof:country":"US",
     "wof:created":1461310416,
     "wof:geomhash":"f60fb35d4883375352aa4d0b65ba9ee2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":655539667
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655539667
+        }
+    ],
     "wof:id":655539667,
-    "wof:lastmodified":1466679321,
+    "wof:lastmodified":1491938450,
     "wof:name":"Bennie Girl Productions Inc",
-    "wof:parent_id":420526941,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

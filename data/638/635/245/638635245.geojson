@@ -2,9 +2,14 @@
   "id": 638635245,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 State Rte 23 Riverdale NJ 07457",
+    "addr:housenumber":"110",
+    "addr:postcode":"07457",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.315229,40.991847,-74.315229,40.991847",
     "geom:latitude":40.991847,
     "geom:longitude":-74.315229,
@@ -28,7 +33,14 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VW29HvAnYITE4r5JEa1Dl_40.991847_-74.315229@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461275380,
     "wof:geomhash":"b07c5207b33c99fd8dd60b200cb6aa78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":638635245
+        }
+    ],
     "wof:id":638635245,
-    "wof:lastmodified":1466673336,
+    "wof:lastmodified":1492046261,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

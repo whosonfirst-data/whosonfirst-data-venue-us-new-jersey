@@ -2,9 +2,14 @@
   "id": 638797787,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Terrace St Haworth NJ 07641",
+    "addr:housenumber":"139",
+    "addr:postcode":"07641",
+    "addr:street":"Terrace St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989445,40.958363,-73.989445,40.958363",
     "geom:latitude":40.958363,
     "geom:longitude":-73.989445,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.wamu.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qXTXKCg5xSMniq8ZtPlGE_40.958363_-73.989445@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461280183,
     "wof:geomhash":"6ea6e47a498cbc138e4f45bb22a38d04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":638797787
+        }
+    ],
     "wof:id":638797787,
-    "wof:lastmodified":1466685269,
+    "wof:lastmodified":1492023467,
     "wof:name":"Washington Mutual Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

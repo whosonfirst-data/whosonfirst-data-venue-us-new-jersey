@@ -2,9 +2,14 @@
   "id": 655522963,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 Antrim Rd Westwood NJ 07675",
+    "addr:housenumber":"618",
+    "addr:postcode":"07675",
+    "addr:street":"Antrim Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.012673,41.043101,-74.012673,41.043101",
     "geom:latitude":41.043101,
     "geom:longitude":-74.012673,
@@ -24,7 +29,13 @@
     "sg:postcode":"07675",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vjYaahmwgegZQGSW5iNyM_41.043101_-74.012673@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461309782,
     "wof:geomhash":"5fe51beb0e10b0a505d0766469fbc831",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":655522963
+        }
+    ],
     "wof:id":655522963,
-    "wof:lastmodified":1466678874,
+    "wof:lastmodified":1492053745,
     "wof:name":"Marketing Experience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655680269,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Summit Ave Belford NJ 07718",
+    "addr:housenumber":"108",
+    "addr:postcode":"07718",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.082249,40.418262,-74.082249,40.418262",
     "geom:latitude":40.418262,
     "geom:longitude":-74.082249,
@@ -28,7 +33,10 @@
         "fish"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68tJ48gYfNmsBqSJwoxnSw_40.417946_-74.082374@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316419,
     "wof:geomhash":"e19460d2b690f903be43383596da72ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":655680269
+        }
+    ],
     "wof:id":655680269,
-    "wof:lastmodified":1466683714,
+    "wof:lastmodified":1492042991,
     "wof:name":"Atc Island Tropicals",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

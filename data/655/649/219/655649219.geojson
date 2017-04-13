@@ -2,9 +2,14 @@
   "id": 655649219,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Karen Pl Edison NJ 08817",
+    "addr:housenumber":"45",
+    "addr:postcode":"08817",
+    "addr:street":"Karen Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388719,40.543653,-74.388719,40.543653",
     "geom:latitude":40.543653,
     "geom:longitude":-74.388719,
@@ -34,8 +39,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85829039,
-        102087417
+        85892379,
+        102087417,
+        85829039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,22 @@
         {
             "country_id":85633793,
             "county_id":102087417,
+            "neighbourhood_id":85892379,
+            "region_id":85688607,
+            "venue_id":655649219
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
             "neighbourhood_id":85829039,
             "region_id":85688607,
             "venue_id":655649219
         }
     ],
     "wof:id":655649219,
-    "wof:lastmodified":1466682746,
+    "wof:lastmodified":1492028618,
     "wof:name":"Cybermatics Inc",
-    "wof:parent_id":85829039,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

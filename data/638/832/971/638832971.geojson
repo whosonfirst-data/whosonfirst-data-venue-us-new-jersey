@@ -2,9 +2,14 @@
   "id": 638832971,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Broadway Elmwood Park NJ 07407",
+    "addr:housenumber":"67",
+    "addr:postcode":"07407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127946,40.918476,-74.127946,40.918476",
     "geom:latitude":40.918476,
     "geom:longitude":-74.127946,
@@ -28,7 +33,14 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p8Eolcw1MlHOpUDxRIta8_40.918476_-74.127946@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281061,
     "wof:geomhash":"17516242dbc7b25d811a9aab91f5b7c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638832971
+        }
+    ],
     "wof:id":638832971,
-    "wof:lastmodified":1466689286,
+    "wof:lastmodified":1492075860,
     "wof:name":"Advanced Ctr For Rhabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

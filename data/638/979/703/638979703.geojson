@@ -2,9 +2,14 @@
   "id": 638979703,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Industrial Way W Eatontown NJ 07724",
+    "addr:housenumber":"307",
+    "addr:postcode":"07724",
+    "addr:street":"Industrial Way W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067047,40.273885,-74.067047,40.273885",
     "geom:latitude":40.273885,
     "geom:longitude":-74.067047,
@@ -28,7 +33,11 @@
         85688607,
         85633793,
         85814731,
-        102085049
+        102085049,
+        420527287,
+        102191575,
+        404478397,
+        85975393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +53,22 @@
             "neighbourhood_id":85814731,
             "region_id":85688607,
             "venue_id":638979703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478397,
+            "locality_id":85975393,
+            "neighbourhood_id":420527287,
+            "region_id":85688607,
+            "venue_id":638979703
         }
     ],
     "wof:id":638979703,
-    "wof:lastmodified":1466691904,
+    "wof:lastmodified":1492069479,
     "wof:name":"Mail Handlers Union Local 300",
-    "wof:parent_id":85814731,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

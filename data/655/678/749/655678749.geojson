@@ -2,9 +2,14 @@
   "id": 655678749,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Front St Belvidere NJ 07823",
+    "addr:housenumber":"324",
+    "addr:postcode":"07823",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077904,40.8284,-75.077904,40.8284",
     "geom:latitude":40.8284,
     "geom:longitude":-75.077904,
@@ -29,7 +34,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sJKp4eKfREMuNlDDtLyaH_40.828383_-75.077674@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316365,
     "wof:geomhash":"fa063dc688b983668303144640a507c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655678749
+        }
+    ],
     "wof:id":655678749,
-    "wof:lastmodified":1466683835,
+    "wof:lastmodified":1492048113,
     "wof:name":"Corner Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

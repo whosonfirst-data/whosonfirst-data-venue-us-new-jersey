@@ -2,9 +2,14 @@
   "id": 639276247,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Broadmead St Princeton NJ 08540",
+    "addr:housenumber":"139",
+    "addr:postcode":"08540",
+    "addr:street":"Broadmead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.642453,40.345591,-74.642453,40.345591",
     "geom:latitude":40.345591,
     "geom:longitude":-74.642453,
@@ -28,7 +33,13 @@
         "coating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t2U9nJe0skyA9rUlQKlwe_40.345591_-74.642453@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461291463,
     "wof:geomhash":"272276b5ec29fde9a6ed3fd9d5e3e967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639276247
+        }
+    ],
     "wof:id":639276247,
-    "wof:lastmodified":1466690799,
+    "wof:lastmodified":1492051282,
     "wof:name":"Walcott Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639397559,
   "type": "Feature",
   "properties": {
+    "addr:full":"343 Frank Applegate Rd Jackson NJ 08527",
+    "addr:housenumber":"343",
+    "addr:postcode":"08527",
+    "addr:street":"Frank Applegate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.320337,40.135265,-74.320337,40.135265",
     "geom:latitude":40.135265,
     "geom:longitude":-74.320337,
@@ -24,7 +29,13 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bnU25NSs6XqX5qwLoypyM_40.135265_-74.320337@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461294089,
     "wof:geomhash":"a8559856047a6d3caab57a0c417c8e9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639397559
+        }
+    ],
     "wof:id":639397559,
-    "wof:lastmodified":1466692937,
+    "wof:lastmodified":1492051541,
     "wof:name":"Starbox Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

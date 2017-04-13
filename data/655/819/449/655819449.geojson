@@ -2,9 +2,14 @@
   "id": 655819449,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Oak St Waterford Works NJ 08089",
+    "addr:housenumber":"157",
+    "addr:postcode":"08089",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.851484,39.722188,-74.851484,39.722188",
     "geom:latitude":39.722188,
     "geom:longitude":-74.851484,
@@ -24,7 +29,13 @@
     "sg:postcode":"08089",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39szvvooXa2tmvDXRIKPzY_39.722188_-74.851484@1303262278"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461322241,
     "wof:geomhash":"dafb757c905baad6c0993e96fe427f67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":655819449
+        }
+    ],
     "wof:id":655819449,
-    "wof:lastmodified":1466687408,
+    "wof:lastmodified":1492070094,
     "wof:name":"Waterford Catholic Mens Assoc Knights of Columbus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

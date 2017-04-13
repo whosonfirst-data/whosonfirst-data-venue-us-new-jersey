@@ -2,9 +2,14 @@
   "id": 655534495,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 W Delaware Ave Pennington NJ 08534",
+    "addr:housenumber":"23",
+    "addr:postcode":"08534",
+    "addr:street":"W Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792145,40.328008,-74.792145,40.328008",
     "geom:latitude":40.328008,
     "geom:longitude":-74.792145,
@@ -27,7 +32,14 @@
         "pottery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FybYqV5ToC09Y44ZVfWIY_40.328008_-74.792145@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310223,
     "wof:geomhash":"91f546305e06bdb8dc29a1fcf571a9e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":655534495
+        }
+    ],
     "wof:id":655534495,
-    "wof:lastmodified":1466679078,
+    "wof:lastmodified":1492053581,
     "wof:name":"Potter's Alley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

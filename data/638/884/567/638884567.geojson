@@ -2,9 +2,14 @@
   "id": 638884567,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Mill Rd Irvington NJ 07111",
+    "addr:housenumber":"80",
+    "addr:postcode":"07111",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246805,40.712475,-74.246805,40.712475",
     "geom:latitude":40.712475,
     "geom:longitude":-74.246805,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r039ECTU2dbHkPpRQ6MLu_40.712475_-74.246805@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461282324,
     "wof:geomhash":"10a61373678b9a4cb33761e33e39d479",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638884567
+        }
+    ],
     "wof:id":638884567,
-    "wof:lastmodified":1466689849,
+    "wof:lastmodified":1492050511,
     "wof:name":"New U Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

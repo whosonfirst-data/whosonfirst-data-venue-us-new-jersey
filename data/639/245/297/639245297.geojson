@@ -2,9 +2,14 @@
   "id": 639245297,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"660",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17815,40.69704,-75.17815,40.69704",
     "geom:latitude":40.69704,
     "geom:longitude":-75.17815,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2obngU24BGEVI5xjb0JpW4_40.697040_-75.178150@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290724,
     "wof:geomhash":"9105b3eede7d3119bdf74bdd89aa7634",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639245297
+        }
+    ],
     "wof:id":639245297,
-    "wof:lastmodified":1466690253,
+    "wof:lastmodified":1492056053,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

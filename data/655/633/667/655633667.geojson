@@ -2,9 +2,14 @@
   "id": 655633667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1460 Chestnut Ave Hillside NJ 07205",
+    "addr:housenumber":"1460",
+    "addr:postcode":"07205",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233015,40.707758,-74.233015,40.707758",
     "geom:latitude":40.707758,
     "geom:longitude":-74.233015,
@@ -32,7 +37,10 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6byOBV0rUgKSQ6Al5KdgmP_40.707758_-74.233015@1294171694"
@@ -40,11 +48,17 @@
     "wof:country":"US",
     "wof:created":1461314498,
     "wof:geomhash":"fbba2778f70f7d8f0a8df6028ffd55b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":655633667
+        }
+    ],
     "wof:id":655633667,
-    "wof:lastmodified":1466682273,
+    "wof:lastmodified":1492052253,
     "wof:name":"Associated Mechanical Devices",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

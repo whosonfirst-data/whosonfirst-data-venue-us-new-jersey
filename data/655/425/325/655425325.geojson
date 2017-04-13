@@ -2,9 +2,14 @@
   "id": 655425325,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Ferguson Rd Warren NJ 07059",
+    "addr:housenumber":"17",
+    "addr:postcode":"07059",
+    "addr:street":"Ferguson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537034,40.612186,-74.537034,40.612186",
     "geom:latitude":40.612186,
     "geom:longitude":-74.537034,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IQtHvxRgxLCMkMytil3cb_40.612186_-74.537034@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305672,
     "wof:geomhash":"10bbfe12207d17296cc1ccc3da865c7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527597,
+            "venue_id":655425325
+        }
+    ],
     "wof:id":655425325,
-    "wof:lastmodified":1466676078,
+    "wof:lastmodified":1492039482,
     "wof:name":"Atlantis Electric",
     "wof:parent_id":420527597,
     "wof:placetype":"venue",

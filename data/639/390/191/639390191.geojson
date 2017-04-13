@@ -2,9 +2,14 @@
   "id": 639390191,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 Monmouth Rd Millstone Twp NJ 08510",
+    "addr:housenumber":"422",
+    "addr:postcode":"08510",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388295,40.185292,-74.388295,40.185292",
     "geom:latitude":40.185292,
     "geom:longitude":-74.388295,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478343,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KbnuM5pFDCkWACZ2VDAgm_40.185292_-74.388295@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293852,
     "wof:geomhash":"23ff7b947d3b23a5a2be8f5bce530a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478343,
+            "region_id":85688607,
+            "venue_id":639390191
+        }
+    ],
     "wof:id":639390191,
-    "wof:lastmodified":1466692835,
+    "wof:lastmodified":1492056068,
     "wof:name":"Golden Times Housekeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

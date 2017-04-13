@@ -2,9 +2,14 @@
   "id": 655484089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Paris Ct Lakewood NJ 08701",
+    "addr:housenumber":"1314",
+    "addr:postcode":"08701",
+    "addr:street":"Paris Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.173558,40.096432,-74.173558,40.096432",
     "geom:latitude":40.096432,
     "geom:longitude":-74.173558,
@@ -34,7 +39,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PZ7uIzWzgPuW6GCdOQy8z_40.096432_-74.173558@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461308166,
     "wof:geomhash":"4d2709834a373168142042a5edc00e34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655484089
+        }
+    ],
     "wof:id":655484089,
-    "wof:lastmodified":1466677586,
+    "wof:lastmodified":1492045257,
     "wof:name":"Za -Tech Inc",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

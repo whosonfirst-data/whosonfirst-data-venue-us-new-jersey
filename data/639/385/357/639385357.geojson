@@ -2,9 +2,14 @@
   "id": 639385357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1195 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1195",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238546,40.724982,-74.238546,40.724982",
     "geom:latitude":40.724982,
     "geom:longitude":-74.238546,
@@ -24,7 +29,13 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w22AGi0NeEVvMQw7XgV7U_40.724982_-74.238546@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461293751,
     "wof:geomhash":"089ef40ac4dd1c49265eadebff1ef176",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639385357
+        }
+    ],
     "wof:id":639385357,
-    "wof:lastmodified":1466692890,
+    "wof:lastmodified":1492049733,
     "wof:name":"International Rockers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

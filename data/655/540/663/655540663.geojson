@@ -2,9 +2,14 @@
   "id": 655540663,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Schindler Dr S Old Bridge NJ 08857",
+    "addr:housenumber":"3",
+    "addr:postcode":"08857",
+    "addr:street":"Schindler Dr S;Bridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.315846,40.38326,-74.315846,40.38326",
     "geom:latitude":40.38326,
     "geom:longitude":-74.315846,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U2OQj233yJcfbRca8DsDF_40.383260_-74.315846@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310450,
     "wof:geomhash":"c119fafe8172030366e42866b4b0e6a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527217,
+            "venue_id":655540663
+        }
+    ],
     "wof:id":655540663,
-    "wof:lastmodified":1466679324,
+    "wof:lastmodified":1492053671,
     "wof:name":"Ahteck Inc",
     "wof:parent_id":420527217,
     "wof:placetype":"venue",

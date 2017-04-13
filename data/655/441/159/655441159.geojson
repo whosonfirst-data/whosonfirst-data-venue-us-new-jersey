@@ -2,9 +2,14 @@
   "id": 655441159,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Main St Branchville NJ 07826",
+    "addr:housenumber":"8",
+    "addr:postcode":"07826",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75331,41.146755,-74.75331,41.146755",
     "geom:latitude":41.146755,
     "geom:longitude":-74.75331,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rMEeVrYgR3PqILRI0AtT3_41.146755_-74.753310@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306330,
     "wof:geomhash":"ad0759ab21df740154573c81dcfa04a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655441159
+        }
+    ],
     "wof:id":655441159,
-    "wof:lastmodified":1466676544,
+    "wof:lastmodified":1492024259,
     "wof:name":"Allen May General Contractors",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

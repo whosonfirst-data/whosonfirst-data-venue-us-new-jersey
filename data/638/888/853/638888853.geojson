@@ -2,9 +2,14 @@
   "id": 638888853,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 East Dr Oradell NJ 07649",
+    "addr:housenumber":"680",
+    "addr:postcode":"07649",
+    "addr:street":"East Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.032202,40.963118,-74.032202,40.963118",
     "geom:latitude":40.963118,
     "geom:longitude":-74.032202,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477707,
+        85633793,
+        85975955,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hngAjdfSeCJ7PFqa9remq_40.963118_-74.032202@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282460,
     "wof:geomhash":"25a39b80b2f9a8f1f5f966ab7941cbec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477707,
+            "locality_id":85975955,
+            "region_id":85688607,
+            "venue_id":638888853
+        }
+    ],
     "wof:id":638888853,
-    "wof:lastmodified":1466689786,
+    "wof:lastmodified":1492025596,
     "wof:name":"Clarence Tsung Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

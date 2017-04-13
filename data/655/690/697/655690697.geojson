@@ -2,9 +2,14 @@
   "id": 655690697,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 State Route 10 Randolph NJ 07869",
+    "addr:housenumber":"140",
+    "addr:postcode":"07869",
+    "addr:street":"State Route 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.538949,40.875668,-74.538949,40.875668",
     "geom:latitude":40.875668,
     "geom:longitude":-74.538949,
@@ -29,7 +34,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tgAryBXyca8VSofbG85fA_40.875668_-74.538949@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316891,
     "wof:geomhash":"163cd782b9694241161fcb6ed0dfe72d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655690697
+        }
+    ],
     "wof:id":655690697,
-    "wof:lastmodified":1466684091,
+    "wof:lastmodified":1492027614,
     "wof:name":"Little Caesar's Pizza",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

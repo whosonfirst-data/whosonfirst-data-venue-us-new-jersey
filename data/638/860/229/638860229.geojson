@@ -2,9 +2,14 @@
   "id": 638860229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 William St Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"1305",
+    "addr:postcode":"08742",
+    "addr:street":"William St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061716,40.079666,-74.061716,40.079666",
     "geom:latitude":40.079666,
     "geom:longitude":-74.061716,
@@ -27,7 +32,14 @@
         "investigation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L6F7fq2gLLAQ9WipPI3au_40.079666_-74.061716@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281760,
     "wof:geomhash":"9c6dd5d7818565770c661ecbbcc2a5d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638860229
+        }
+    ],
     "wof:id":638860229,
-    "wof:lastmodified":1466689342,
+    "wof:lastmodified":1492053455,
     "wof:name":"Donald Knapp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

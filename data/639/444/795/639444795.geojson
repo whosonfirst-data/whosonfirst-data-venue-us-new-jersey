@@ -2,9 +2,14 @@
   "id": 639444795,
   "type": "Feature",
   "properties": {
+    "addr:full":"373 W Market St Newark NJ 07107",
+    "addr:housenumber":"373",
+    "addr:postcode":"07107",
+    "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.191965,40.747035,-74.191965,40.747035",
     "geom:latitude":40.747035,
     "geom:longitude":-74.191965,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872989,
+        85872981,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85872989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85872981,
+            "region_id":85688607,
+            "venue_id":639444795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85872989,
             "region_id":85688607,
             "venue_id":639444795
         }
     ],
     "wof:id":639444795,
-    "wof:lastmodified":1466693456,
+    "wof:lastmodified":1491914680,
     "wof:name":"373 Wines & Liquor",
-    "wof:parent_id":85872989,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

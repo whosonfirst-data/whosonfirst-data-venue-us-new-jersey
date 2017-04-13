@@ -2,9 +2,14 @@
   "id": 638660271,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Florence Ave Cresskill NJ 07626",
+    "addr:housenumber":"32",
+    "addr:postcode":"07626",
+    "addr:street":"Florence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979208,40.939938,-73.979208,40.939938",
     "geom:latitude":40.939938,
     "geom:longitude":-73.979208,
@@ -27,7 +32,14 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qu2YcZrS53vWpgx5QbrHh_40.939938_-73.979208@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461276151,
     "wof:geomhash":"03cc455177b32e0b185c986610a953d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":638660271
+        }
+    ],
     "wof:id":638660271,
-    "wof:lastmodified":1466674097,
+    "wof:lastmodified":1492062265,
     "wof:name":"Nova Line Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

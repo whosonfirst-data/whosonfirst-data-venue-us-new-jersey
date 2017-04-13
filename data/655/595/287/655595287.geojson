@@ -2,9 +2,14 @@
   "id": 655595287,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Timber Dr Caldwell NJ 07006",
+    "addr:housenumber":"20",
+    "addr:postcode":"07006",
+    "addr:street":"Timber Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249767,40.863246,-74.249767,40.863246",
     "geom:latitude":40.863246,
     "geom:longitude":-74.249767,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZOFaTE8LfT1J4ANvxsS33_40.863246_-74.249767@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312800,
     "wof:geomhash":"998800e8fd04a3447086a033757d0acc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":655595287
+        }
+    ],
     "wof:id":655595287,
-    "wof:lastmodified":1466680805,
+    "wof:lastmodified":1492048154,
     "wof:name":"Lucien O Frohling Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639252453,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Patrick Dr Fords NJ 08867",
+    "addr:housenumber":"2",
+    "addr:postcode":"08867",
+    "addr:street":"Patrick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.938302,40.62262,-74.938302,40.62262",
     "geom:latitude":40.62262,
     "geom:longitude":-74.938302,
@@ -28,7 +33,10 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fmIiRuoFcew1XsJ3Kvhuu_40.622620_-74.938302@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290880,
     "wof:geomhash":"e4e2e858aee8f51f52e73fcb5447a3ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":639252453
+        }
+    ],
     "wof:id":639252453,
-    "wof:lastmodified":1466690341,
+    "wof:lastmodified":1492042885,
     "wof:name":"Sit Computer Inc",
     "wof:parent_id":420527125,
     "wof:placetype":"venue",

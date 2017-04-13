@@ -2,9 +2,14 @@
   "id": 639566643,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Davis Rd Franklin NJ 07416",
+    "addr:housenumber":"137",
+    "addr:postcode":"07416",
+    "addr:street":"Davis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.598719,41.118077,-74.598719,41.118077",
     "geom:latitude":41.118077,
     "geom:longitude":-74.598719,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85975719,
+        102086779,
+        85823953,
         85849915,
         102191575,
         404478473,
-        85633793,
-        85975709,
-        102086779,
-        85688607
+        85975709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +51,14 @@
     "wof:created":1461300370,
     "wof:geomhash":"5015ebb6b86a3d4d52cb5af38ec266e4",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "locality_id":85975719,
+            "neighbourhood_id":85823953,
+            "region_id":85688607,
+            "venue_id":639566643
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":639566643,
-    "wof:lastmodified":1466696166,
+    "wof:lastmodified":1492076626,
     "wof:name":"Execu/Forms Ltd Inc",
-    "wof:parent_id":85849915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

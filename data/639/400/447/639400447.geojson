@@ -2,9 +2,14 @@
   "id": 639400447,
   "type": "Feature",
   "properties": {
+    "addr:full":"495 Madison Dr Hightstown NJ 08520",
+    "addr:housenumber":"495",
+    "addr:postcode":"08520",
+    "addr:street":"Madison Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485498,40.264289,-74.485498,40.264289",
     "geom:latitude":40.264289,
     "geom:longitude":-74.485498,
@@ -24,7 +29,14 @@
     "sg:postcode":"08520",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        85976393,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FlPbV8Ove3p0q3kgK1pdz_40.264289_-74.485498@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461294205,
     "wof:geomhash":"4b4690ac359e251f78eb8d19a499e6a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "locality_id":85976393,
+            "region_id":85688607,
+            "venue_id":639400447
+        }
+    ],
     "wof:id":639400447,
-    "wof:lastmodified":1466693004,
+    "wof:lastmodified":1492050836,
     "wof:name":"Richard Bredhoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

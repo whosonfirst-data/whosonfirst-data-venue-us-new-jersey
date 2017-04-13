@@ -2,9 +2,14 @@
   "id": 655707667,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Kingsland Rd Clifton NJ 07014",
+    "addr:housenumber":"106",
+    "addr:postcode":"07014",
+    "addr:street":"Kingsland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.13891,40.825258,-74.13891,40.825258",
     "geom:latitude":40.825258,
     "geom:longitude":-74.13891,
@@ -24,7 +29,14 @@
     "sg:postcode":"07014",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D9kZXcpombN2kPuGZd2TL_40.825258_-74.138910@1303262250"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317667,
     "wof:geomhash":"fb95b772ce4a8b852292eb5c88cc0997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655707667
+        }
+    ],
     "wof:id":655707667,
-    "wof:lastmodified":1466684586,
+    "wof:lastmodified":1492025444,
     "wof:name":"Clifton Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639569675,
   "type": "Feature",
   "properties": {
+    "addr:full":"6940 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6940",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050266,39.967329,-75.050266,39.967329",
     "geom:latitude":39.967329,
     "geom:longitude":-75.050266,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KU8O4ibimxQaq8ZZBwHy8_39.967329_-75.050266@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300499,
     "wof:geomhash":"1ae4148f492edda35ff78e0713cabad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":639569675
+        }
+    ],
     "wof:id":639569675,
-    "wof:lastmodified":1466696248,
+    "wof:lastmodified":1492053469,
     "wof:name":"Coffee Plus",
     "wof:parent_id":420526789,
     "wof:placetype":"venue",

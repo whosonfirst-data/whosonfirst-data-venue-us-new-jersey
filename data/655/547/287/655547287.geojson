@@ -2,9 +2,14 @@
   "id": 655547287,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 River Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"525",
+    "addr:postcode":"07407",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128132,40.90465,-74.128132,40.90465",
     "geom:latitude":40.90465,
     "geom:longitude":-74.128132,
@@ -27,7 +32,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24q55jth62lWyjh6q4WUbn_40.904650_-74.128132@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310716,
     "wof:geomhash":"df87805b44cb6f5e5a1097b83548f075",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655547287
+        }
+    ],
     "wof:id":655547287,
-    "wof:lastmodified":1466679410,
+    "wof:lastmodified":1492047656,
     "wof:name":"Fat Belly Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

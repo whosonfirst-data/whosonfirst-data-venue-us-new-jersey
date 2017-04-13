@@ -2,9 +2,14 @@
   "id": 655733721,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Valley Rd Clark NJ 07066",
+    "addr:housenumber":"36",
+    "addr:postcode":"07066",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301399,40.626598,-74.301399,40.626598",
     "geom:latitude":40.626598,
     "geom:longitude":-74.301399,
@@ -27,7 +32,13 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BNkQF84TVEAQMauq2zs7Q_40.626598_-74.301399@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318675,
     "wof:geomhash":"d43f8eadf27436ffc580b37d9ed463c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733721
+        }
+    ],
     "wof:id":655733721,
-    "wof:lastmodified":1466685203,
+    "wof:lastmodified":1492048166,
     "wof:name":"Mother Seton Regional High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

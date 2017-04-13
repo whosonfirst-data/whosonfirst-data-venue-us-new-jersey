@@ -2,9 +2,14 @@
   "id": 639595187,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Co Rd 627 Phillipsburg NJ 08865",
+    "addr:housenumber":"112",
+    "addr:postcode":"627;08865",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.181668,40.598252,-75.181668,40.598252",
     "geom:latitude":40.598252,
     "geom:longitude":-75.181668,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
         85835555,
-        102083873
+        102191575,
+        404482769,
+        85633793,
+        101716801,
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"63ecb89d99acc6f9fc76289b447a4855",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083873,
+            "county_id":102080987,
+            "localadmin_id":404482769,
+            "locality_id":101716801,
             "neighbourhood_id":85835555,
-            "region_id":85688607,
+            "region_id":85688481,
             "venue_id":639595187
         }
     ],
     "wof:id":639595187,
-    "wof:lastmodified":1466696755,
+    "wof:lastmodified":1492025436,
     "wof:name":"T Vann Ausdale",
     "wof:parent_id":85835555,
     "wof:placetype":"venue",

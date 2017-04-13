@@ -2,9 +2,14 @@
   "id": 639300865,
   "type": "Feature",
   "properties": {
+    "addr:full":"654 S 2nd St Plainfield NJ 07060",
+    "addr:housenumber":"654",
+    "addr:postcode":"07060",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.43091,40.611477,-74.43091,40.611477",
     "geom:latitude":40.611477,
     "geom:longitude":-74.43091,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YDvN2Wd3T9KnTKqrcitoP_40.611477_-74.430910@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291983,
     "wof:geomhash":"f0775796ee9fd82c5e7d62b88c035f4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639300865
+        }
+    ],
     "wof:id":639300865,
-    "wof:lastmodified":1466691439,
+    "wof:lastmodified":1492044196,
     "wof:name":"Millenium Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

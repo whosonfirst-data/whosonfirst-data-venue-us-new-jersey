@@ -2,9 +2,14 @@
   "id": 655687271,
   "type": "Feature",
   "properties": {
+    "addr:full":"871 Kearny Ave Kearny NJ 07032",
+    "addr:housenumber":"871",
+    "addr:postcode":"07032",
+    "addr:street":"Kearny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138624,40.781716,-74.138624,40.781716",
     "geom:latitude":40.781716,
     "geom:longitude":-74.138624,
@@ -29,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oXnoVx3GrvjwkkQKWqgJj_40.781716_-74.138624@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316750,
     "wof:geomhash":"70d772683861109c394f9d98898cbcbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655687271
+        }
+    ],
     "wof:id":655687271,
-    "wof:lastmodified":1466683963,
+    "wof:lastmodified":1492041334,
     "wof:name":"Papa John's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

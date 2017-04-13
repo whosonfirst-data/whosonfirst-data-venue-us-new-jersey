@@ -2,9 +2,14 @@
   "id": 655419207,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Gregg Ln Bayonne NJ 07002",
+    "addr:housenumber":"5",
+    "addr:postcode":"07002",
+    "addr:street":"Gregg Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116754,40.663276,-74.116754,40.663276",
     "geom:latitude":40.663276,
     "geom:longitude":-74.116754,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54EKv9Tsr7DgHdG5dyPLy8_40.663276_-74.116754@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461305431,
     "wof:geomhash":"cec7f4f2004125d1ec752fbc74501216",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655419207
+        }
+    ],
     "wof:id":655419207,
-    "wof:lastmodified":1466676021,
+    "wof:lastmodified":1492025489,
     "wof:name":"Bayonee Green Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

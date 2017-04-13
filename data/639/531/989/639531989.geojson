@@ -2,9 +2,14 @@
   "id": 639531989,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Maple Ave Waterford Works NJ 08089",
+    "addr:housenumber":"123",
+    "addr:postcode":"08089",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.853693,39.722995,-74.853693,39.722995",
     "geom:latitude":39.722995,
     "geom:longitude":-74.853693,
@@ -24,7 +29,13 @@
     "sg:postcode":"08089",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A3kBTFvVtBsi3z5h99Ajr_39.722995_-74.853693@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461298917,
     "wof:geomhash":"33c48efc2ef3a99af55ceb863dfee4d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":639531989
+        }
+    ],
     "wof:id":639531989,
-    "wof:lastmodified":1466695357,
+    "wof:lastmodified":1492047781,
     "wof:name":"P & J Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

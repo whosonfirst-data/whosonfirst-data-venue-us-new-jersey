@@ -2,9 +2,14 @@
   "id": 639591161,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Ironside Ct Willingboro NJ 08046",
+    "addr:housenumber":"6",
+    "addr:postcode":"08046",
+    "addr:street":"Ironside Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.918641,40.029922,-74.918641,40.029922",
     "geom:latitude":40.029922,
     "geom:longitude":-74.918641,
@@ -28,7 +33,10 @@
         "sewerage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QfznmvwYmuvJ4Ia8Szmso_40.029922_-74.918641@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301404,
     "wof:geomhash":"d0746ea668bcb1dd3b7108ea31250833",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":639591161
+        }
+    ],
     "wof:id":639591161,
-    "wof:lastmodified":1466696747,
+    "wof:lastmodified":1492027893,
     "wof:name":"Water Department",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

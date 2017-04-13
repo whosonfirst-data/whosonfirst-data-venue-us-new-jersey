@@ -2,9 +2,14 @@
   "id": 655764901,
   "type": "Feature",
   "properties": {
+    "addr:full":"341 State Rt 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"341",
+    "addr:postcode":"07444",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283781,40.962208,-74.283781,40.962208",
     "geom:latitude":40.962208,
     "geom:longitude":-74.283781,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uSzP2L8VM9DaZop3gw7ow_40.962208_-74.283781@1303262264"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319850,
     "wof:geomhash":"097f02579c2839386bb323f9b532a935",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764901
+        }
+    ],
     "wof:id":655764901,
-    "wof:lastmodified":1466686055,
+    "wof:lastmodified":1492058420,
     "wof:name":"Grab-N-Go",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

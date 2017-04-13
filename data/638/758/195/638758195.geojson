@@ -2,9 +2,14 @@
   "id": 638758195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1722 New Bedford Rd Belmar NJ 07719",
+    "addr:housenumber":"1722",
+    "addr:postcode":"07719",
+    "addr:street":"New Bedford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.063377,40.171972,-74.063377,40.171972",
     "geom:latitude":40.171972,
     "geom:longitude":-74.063377,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527307,
+        85688607,
         85836553,
         102085049
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":638758195
+        },
+        {
+            "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85836553,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":638758195,
-    "wof:lastmodified":1466679260,
+    "wof:lastmodified":1492028443,
     "wof:name":"Shelli Ravine",
-    "wof:parent_id":85836553,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

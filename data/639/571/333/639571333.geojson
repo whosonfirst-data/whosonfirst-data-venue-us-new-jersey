@@ -2,9 +2,14 @@
   "id": 639571333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1608 E 2nd St Scotch Plains NJ 07076",
+    "addr:housenumber":"1608",
+    "addr:postcode":"07076",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.400668,40.644556,-74.400668,40.644556",
     "geom:latitude":40.644556,
     "geom:longitude":-74.400668,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gFd1MjzFYhopfmZXLjIHN_40.644556_-74.400668@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300573,
     "wof:geomhash":"12420dc283edc9713e89cefa5c8eb69a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639571333
+        }
+    ],
     "wof:id":639571333,
-    "wof:lastmodified":1466696332,
+    "wof:lastmodified":1492049677,
     "wof:name":"Scotch Plains Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

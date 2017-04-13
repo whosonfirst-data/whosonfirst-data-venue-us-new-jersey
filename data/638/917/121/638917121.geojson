@@ -2,9 +2,14 @@
   "id": 638917121,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Elizabeth St Pemberton NJ 08068",
+    "addr:housenumber":"73",
+    "addr:postcode":"08068",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.676745,39.970541,-74.676745,39.970541",
     "geom:latitude":39.970541,
     "geom:longitude":-74.676745,
@@ -24,7 +29,10 @@
     "sg:postcode":"08068",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wtkLWuUvoMnIXT3p5UM73_39.970541_-74.676745@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461283190,
     "wof:geomhash":"6114a2a811f12bfff14536b52dd7cc4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":638917121
+        }
+    ],
     "wof:id":638917121,
-    "wof:lastmodified":1466690489,
+    "wof:lastmodified":1492051221,
     "wof:name":"US Post Office",
     "wof:parent_id":420526589,
     "wof:placetype":"venue",

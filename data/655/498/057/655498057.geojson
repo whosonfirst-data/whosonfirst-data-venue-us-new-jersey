@@ -2,9 +2,14 @@
   "id": 655498057,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Bender Pl Cliffside Park NJ 07010",
+    "addr:housenumber":"6",
+    "addr:postcode":"07010",
+    "addr:street":"Bender Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991548,40.811169,-73.991548,40.811169",
     "geom:latitude":40.811169,
     "geom:longitude":-73.991548,
@@ -28,7 +33,14 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qt9pFvyjjGSa0Bu2InvtE_40.811169_-73.991548@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308753,
     "wof:geomhash":"b98e4e9cd194881869054f1c5b3e5017",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655498057
+        }
+    ],
     "wof:id":655498057,
-    "wof:lastmodified":1466678051,
+    "wof:lastmodified":1492023712,
     "wof:name":"Tonnelle Commercial Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

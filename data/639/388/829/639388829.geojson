@@ -2,9 +2,14 @@
   "id": 639388829,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Trenton Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"903",
+    "addr:postcode":"08742",
+    "addr:street":"Trenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.057356,40.089297,-74.057356,40.089297",
     "geom:latitude":40.089297,
     "geom:longitude":-74.057356,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a8aHcSD1BYxVareo7wUEH_40.089297_-74.057356@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461293817,
     "wof:geomhash":"ec1c0f0f545bf7b372b379be6ca298bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639388829
+        }
+    ],
     "wof:id":639388829,
-    "wof:lastmodified":1466692926,
+    "wof:lastmodified":1492051332,
     "wof:name":"Chuck Romer Custom Carpentry L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655713881,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Hedden Ter North Arlington NJ 07031",
+    "addr:housenumber":"49",
+    "addr:postcode":"07031",
+    "addr:street":"Hedden Ter North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139702,40.786499,-74.139702,40.786499",
     "geom:latitude":40.786499,
     "geom:longitude":-74.139702,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RJxXcI8Q0syBQ2afOBNQC_40.786499_-74.139702@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317920,
     "wof:geomhash":"fd583070d0125be6b4ed30968df68475",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655713881
+        }
+    ],
     "wof:id":655713881,
-    "wof:lastmodified":1466684723,
+    "wof:lastmodified":1492053255,
     "wof:name":"Bowers & Bowers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

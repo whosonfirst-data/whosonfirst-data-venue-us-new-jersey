@@ -2,9 +2,14 @@
   "id": 639488229,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Candace Ln New Egypt NJ 08533",
+    "addr:housenumber":"304",
+    "addr:postcode":"08533",
+    "addr:street":"Candace Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.478341,40.101143,-74.478341,40.101143",
     "geom:latitude":40.101143,
     "geom:longitude":-74.478341,
@@ -27,7 +32,13 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477787,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SPvMUJB1JwV1vIzfceqTu_40.101143_-74.478341@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296962,
     "wof:geomhash":"8ff24917abe2143c7eadfe803faa764b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477787,
+            "region_id":85688607,
+            "venue_id":639488229
+        }
+    ],
     "wof:id":639488229,
-    "wof:lastmodified":1466694371,
+    "wof:lastmodified":1492023981,
     "wof:name":"Sg Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

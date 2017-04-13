@@ -2,9 +2,14 @@
   "id": 639166343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2507 Oak St Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"2507",
+    "addr:postcode":"08742",
+    "addr:street":"Oak St Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.075912,40.080963,-74.075912,40.080963",
     "geom:latitude":40.080963,
     "geom:longitude":-74.075912,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7asJzX4NZI7cfg6ehWhFia_40.080963_-74.075912@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288887,
     "wof:geomhash":"0e11e48f1da9a861af8ff135e8c72ec8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639166343
+        }
+    ],
     "wof:id":639166343,
-    "wof:lastmodified":1466683976,
+    "wof:lastmodified":1492070196,
     "wof:name":"Oak Tree Landscaping LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

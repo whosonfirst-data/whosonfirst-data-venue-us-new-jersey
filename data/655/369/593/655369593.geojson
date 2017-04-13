@@ -2,9 +2,14 @@
   "id": 655369593,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Navarra Dr Brick NJ 08723",
+    "addr:housenumber":"",
+    "addr:postcode":"08723",
+    "addr:street":"Navarra Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.092112,40.027159,-74.092112,40.027159",
     "geom:latitude":40.027159,
     "geom:longitude":-74.092112,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c1ccCUUkxCNRqxIf0T3UM_40.027159_-74.092112@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303404,
     "wof:geomhash":"3fa29bf172d7f53ef3a4347a75c42ace",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527401,
+            "venue_id":655369593
+        }
+    ],
     "wof:id":655369593,
-    "wof:lastmodified":1466674775,
+    "wof:lastmodified":1492056709,
     "wof:name":"L&N Property Manangement Svc",
     "wof:parent_id":420527401,
     "wof:placetype":"venue",

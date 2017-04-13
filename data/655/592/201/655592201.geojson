@@ -2,9 +2,14 @@
   "id": 655592201,
   "type": "Feature",
   "properties": {
+    "addr:full":"787 Dow Rd Bridgewater NJ 08807",
+    "addr:housenumber":"787",
+    "addr:postcode":"08807",
+    "addr:street":"Dow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.642422,40.614895,-74.642422,40.614895",
     "geom:latitude":40.614895,
     "geom:longitude":-74.642422,
@@ -27,7 +32,13 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xxhn8TubBHQquAHt2cbaj_40.614895_-74.642422@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312680,
     "wof:geomhash":"e2c3b0bd900a1ec672c1d091eb09a34e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "region_id":85688607,
+            "venue_id":655592201
+        }
+    ],
     "wof:id":655592201,
-    "wof:lastmodified":1466680691,
+    "wof:lastmodified":1492045185,
     "wof:name":"Cyber Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

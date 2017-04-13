@@ -2,9 +2,14 @@
   "id": 639065669,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Cedar St Bergenfield NJ 07621",
+    "addr:housenumber":"10",
+    "addr:postcode":"07621",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.983934,40.929653,-73.983934,40.929653",
     "geom:latitude":40.929653,
     "geom:longitude":-73.983934,
@@ -27,7 +32,14 @@
         "offset"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RsHScQc49wDRa7eMEMh8K_40.929653_-73.983934@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286599,
     "wof:geomhash":"206433dea8e5675ead558a00b38c210f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639065669
+        }
+    ],
     "wof:id":639065669,
-    "wof:lastmodified":1466688242,
+    "wof:lastmodified":1492028673,
     "wof:name":"Alberts Printing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

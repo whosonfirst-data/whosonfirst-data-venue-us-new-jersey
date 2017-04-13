@@ -2,9 +2,14 @@
   "id": 655601883,
   "type": "Feature",
   "properties": {
+    "addr:full":"490 Columbia Ave Ridgefield NJ 07657",
+    "addr:housenumber":"490",
+    "addr:postcode":"07657",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.993132,40.830299,-73.993132,40.830299",
     "geom:latitude":40.830299,
     "geom:longitude":-73.993132,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_407QoFbHVFCQSrSbkXosA8_40.830299_-73.993132@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313086,
     "wof:geomhash":"18df1f3c9e4f4a9eb4e30354872c06be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":655601883
+        }
+    ],
     "wof:id":655601883,
-    "wof:lastmodified":1466681237,
+    "wof:lastmodified":1492023478,
     "wof:name":"Carmines Limousine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

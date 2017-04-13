@@ -2,9 +2,14 @@
   "id": 639267801,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 South St Newark NJ 07114",
+    "addr:housenumber":"148",
+    "addr:postcode":"07114",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175155,40.723335,-74.175155,40.723335",
     "geom:latitude":40.723335,
     "geom:longitude":-74.175155,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873015,
+        85873003,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85873015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85873003,
+            "region_id":85688607,
+            "venue_id":639267801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85873015,
             "region_id":85688607,
             "venue_id":639267801
         }
     ],
     "wof:id":639267801,
-    "wof:lastmodified":1466690749,
+    "wof:lastmodified":1491934044,
     "wof:name":"Station Pharmacy Wines & Lqrs",
-    "wof:parent_id":85873015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

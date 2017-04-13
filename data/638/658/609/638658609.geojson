@@ -2,9 +2,14 @@
   "id": 638658609,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Newton Sparta Ave Newton NJ 07860",
+    "addr:housenumber":"231",
+    "addr:postcode":"07860",
+    "addr:street":"Newton Sparta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703018,41.038206,-74.703018,41.038206",
     "geom:latitude":41.038206,
     "geom:longitude":-74.703018,
@@ -29,7 +34,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pSOPfXCB8qd63BK2EUcRp_41.038206_-74.703018@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461276063,
     "wof:geomhash":"4f7f9a28aa4e65ef8eae73ccca6042df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":638658609
+        }
+    ],
     "wof:id":638658609,
-    "wof:lastmodified":1466674058,
+    "wof:lastmodified":1492068727,
     "wof:name":"Peewee Keep",
     "wof:parent_id":420527663,
     "wof:placetype":"venue",

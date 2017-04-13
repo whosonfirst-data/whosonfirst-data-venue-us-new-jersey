@@ -2,9 +2,14 @@
   "id": 639103489,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Buttonwood Ln Phillipsburg NJ 08865",
+    "addr:housenumber":"143",
+    "addr:postcode":"08865",
+    "addr:street":"Buttonwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17298,40.738903,-75.17298,40.738903",
     "geom:latitude":40.738903,
     "geom:longitude":-75.17298,
@@ -29,7 +34,13 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478427,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xboflOdnX51goKWGKQHKF_40.738903_-75.172980@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461287424,
     "wof:geomhash":"d055d87273e27ff9f85a847d94b2f958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478427,
+            "region_id":85688607,
+            "venue_id":639103489
+        }
+    ],
     "wof:id":639103489,
-    "wof:lastmodified":1466674764,
+    "wof:lastmodified":1492056052,
     "wof:name":"Sweat Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

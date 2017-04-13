@@ -2,9 +2,14 @@
   "id": 655448441,
   "type": "Feature",
   "properties": {
+    "addr:full":"1088 Carteret Rd Bridgewater NJ 08807",
+    "addr:housenumber":"1088",
+    "addr:postcode":"08807",
+    "addr:street":"Carteret Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.613757,40.628488,-74.613757,40.628488",
     "geom:latitude":40.628488,
     "geom:longitude":-74.613757,
@@ -27,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nptGMaXXIKDAIwXBmWOeS_40.628488_-74.613757@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306623,
     "wof:geomhash":"c787c35ca10b1d815d49ee3d2409c442",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":655448441
+        }
+    ],
     "wof:id":655448441,
-    "wof:lastmodified":1466676831,
+    "wof:lastmodified":1492029524,
     "wof:name":"Baden West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

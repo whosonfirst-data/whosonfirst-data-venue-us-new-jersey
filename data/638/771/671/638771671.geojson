@@ -2,9 +2,14 @@
   "id": 638771671,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Tiffany Pl Irvington NJ 07111",
+    "addr:housenumber":"70",
+    "addr:postcode":"07111",
+    "addr:street":"Tiffany Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245816,40.727627,-74.245816,40.727627",
     "geom:latitude":40.727627,
     "geom:longitude":-74.245816,
@@ -29,7 +34,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X0kj8jhjSp59c7KLkyKBZ_40.727627_-74.245816@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461279587,
     "wof:geomhash":"986eda2ab9dd9667c56a08a85b71f89f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638771671
+        }
+    ],
     "wof:id":638771671,
-    "wof:lastmodified":1466681433,
+    "wof:lastmodified":1492050533,
     "wof:name":"Faster Home Buyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

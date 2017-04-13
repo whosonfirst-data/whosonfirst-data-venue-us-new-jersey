@@ -2,9 +2,14 @@
   "id": 655572503,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 W Gouverneur Ave Rutherford NJ 07070",
+    "addr:housenumber":"77",
+    "addr:postcode":"07070",
+    "addr:street":"W Gouverneur Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.121087,40.824121,-74.121087,40.824121",
     "geom:latitude":40.824121,
     "geom:longitude":-74.121087,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477727,
+        85633793,
+        85975923,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vHQMGvMhuXvzrGWQ8pUy7_40.824121_-74.121087@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311834,
     "wof:geomhash":"2c2a8c5a6b9bf673b03486ffff7e63d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477727,
+            "locality_id":85975923,
+            "region_id":85688607,
+            "venue_id":655572503
+        }
+    ],
     "wof:id":655572503,
-    "wof:lastmodified":1466680079,
+    "wof:lastmodified":1492053885,
     "wof:name":"Seehaus and Walker Cnstr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

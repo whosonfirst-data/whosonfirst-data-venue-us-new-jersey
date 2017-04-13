@@ -2,9 +2,14 @@
   "id": 639470299,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Monroe Trl Hopatcong NJ 07843",
+    "addr:housenumber":"137",
+    "addr:postcode":"07843",
+    "addr:street":"Monroe Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.665611,40.939344,-74.665611,40.939344",
     "geom:latitude":40.939344,
     "geom:longitude":-74.665611,
@@ -24,7 +29,14 @@
     "sg:postcode":"07843",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RzZwbJTdcRDo4YBtaX2Tf_40.939344_-74.665611@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461296190,
     "wof:geomhash":"88953883f5b7a9ad22ea0950920daaa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "region_id":85688607,
+            "venue_id":639470299
+        }
+    ],
     "wof:id":639470299,
-    "wof:lastmodified":1466693937,
+    "wof:lastmodified":1492048845,
     "wof:name":"Ice Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

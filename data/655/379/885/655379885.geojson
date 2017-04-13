@@ -2,9 +2,14 @@
   "id": 655379885,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 N Crescent Blvd Pennsauken NJ 08110",
+    "addr:housenumber":"6901",
+    "addr:postcode":"08110",
+    "addr:street":"N Crescent Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.048788,39.964925,-75.048788,39.964925",
     "geom:latitude":39.964925,
     "geom:longitude":-75.048788,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.permalith.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789,
+        420526749,
+        102191575,
+        404478023,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N44ULalzjV21bn6pAf5oE_39.964925_-75.048788@1294171694"
@@ -36,11 +49,26 @@
     "wof:country":"US",
     "wof:created":1461303803,
     "wof:geomhash":"9403470f97c6508d195f0223eddbcc84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":655379885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655379885
+        }
+    ],
     "wof:id":655379885,
-    "wof:lastmodified":1466675113,
+    "wof:lastmodified":1492047712,
     "wof:name":"Permalith Plastics",
-    "wof:parent_id":420526749,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

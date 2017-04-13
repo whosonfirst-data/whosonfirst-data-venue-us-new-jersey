@@ -2,9 +2,14 @@
   "id": 655669457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1086 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"1086",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287102,40.6077,-74.287102,40.6077",
     "geom:latitude":40.6077,
     "geom:longitude":-74.287102,
@@ -28,7 +33,14 @@
         "eyewear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3J1xQ3t8G1appQARLOqzqF_40.607441_-74.287393@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315972,
     "wof:geomhash":"670c12e294ae96db1b5c1b75622d974e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655669457
+        }
+    ],
     "wof:id":655669457,
-    "wof:lastmodified":1466683494,
+    "wof:lastmodified":1492027537,
     "wof:name":"Gem Family Eyecare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

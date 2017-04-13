@@ -2,9 +2,14 @@
   "id": 639241741,
   "type": "Feature",
   "properties": {
+    "addr:full":"437 Old Hook Rd Emerson NJ 07630",
+    "addr:housenumber":"437",
+    "addr:postcode":"07630",
+    "addr:street":"Old Hook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.006503,40.98183,-74.006503,40.98183",
     "geom:latitude":40.98183,
     "geom:longitude":-74.006503,
@@ -28,7 +33,14 @@
         "greeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GC4TjbPekP0oxcvcpTnVJ_40.981830_-74.006503@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290648,
     "wof:geomhash":"32e6f565d5005c9d480f60c4c57c31e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":639241741
+        }
+    ],
     "wof:id":639241741,
-    "wof:lastmodified":1466690305,
+    "wof:lastmodified":1492042821,
     "wof:name":"Horizons II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

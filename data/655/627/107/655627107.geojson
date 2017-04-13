@@ -2,9 +2,14 @@
   "id": 655627107,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Nassau St Princeton NJ 08542",
+    "addr:housenumber":"102",
+    "addr:postcode":"08542",
+    "addr:street":"Nassau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658931,40.349961,-74.658931,40.349961",
     "geom:latitude":40.349961,
     "geom:longitude":-74.658931,
@@ -24,7 +29,14 @@
     "sg:postcode":"08542",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bj1WACNlDP9MvHen93W54_40.349961_-74.658931@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314204,
     "wof:geomhash":"b418f4d34312fed01e84d5ad36fcb8d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":655627107
+        }
+    ],
     "wof:id":655627107,
-    "wof:lastmodified":1466681979,
+    "wof:lastmodified":1492048427,
     "wof:name":"Landau's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

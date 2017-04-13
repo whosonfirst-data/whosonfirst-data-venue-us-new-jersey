@@ -2,9 +2,14 @@
   "id": 655587841,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 S 20th St Newark NJ 07103",
+    "addr:housenumber":"790",
+    "addr:postcode":"07103",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214647,40.728944,-74.214647,40.728944",
     "geom:latitude":40.728944,
     "geom:longitude":-74.214647,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Oeb9yduxmFLdZjrko0FvQ_40.728944_-74.214647@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312505,
     "wof:geomhash":"16268ced32c1a1591e704e5c2315aeb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":655587841
+        }
+    ],
     "wof:id":655587841,
-    "wof:lastmodified":1466680825,
+    "wof:lastmodified":1492039493,
     "wof:name":"Miracle Temple National Holine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639593825,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"317",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142033,40.045501,-74.142033,40.045501",
     "geom:latitude":40.045501,
     "geom:longitude":-74.142033,
@@ -27,7 +32,10 @@
         "optician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hRkIY25k5fqomIw6WdQfn_40.045501_-74.142033@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301511,
     "wof:geomhash":"c71584ea3b347a00bc2f65b8af4ab843",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639593825
+        }
+    ],
     "wof:id":639593825,
-    "wof:lastmodified":1466696920,
+    "wof:lastmodified":1492053281,
     "wof:name":"Optical Connection",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

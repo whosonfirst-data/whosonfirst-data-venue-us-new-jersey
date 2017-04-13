@@ -2,9 +2,14 @@
   "id": 639152745,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Birmingham Rd Pemberton NJ 08068",
+    "addr:housenumber":"160",
+    "addr:postcode":"08068",
+    "addr:street":"Birmingham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.719016,39.987564,-74.719016,39.987564",
     "geom:latitude":39.987564,
     "geom:longitude":-74.719016,
@@ -28,7 +33,10 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b3BvNDqPkpmIza6wgdIz1_39.987564_-74.719016@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288582,
     "wof:geomhash":"5d7e9b457a180fa96bb13ac7ef973dbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526619,
+            "venue_id":639152745
+        }
+    ],
     "wof:id":639152745,
-    "wof:lastmodified":1466681786,
+    "wof:lastmodified":1492047347,
     "wof:name":"New Brandywine Environmental",
     "wof:parent_id":420526619,
     "wof:placetype":"venue",

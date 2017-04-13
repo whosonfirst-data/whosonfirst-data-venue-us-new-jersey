@@ -2,9 +2,14 @@
   "id": 655672045,
   "type": "Feature",
   "properties": {
+    "addr:full":"247 Water St Belvidere NJ 07823",
+    "addr:housenumber":"247",
+    "addr:postcode":"07823",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078697,40.830002,-75.078697,40.830002",
     "geom:latitude":40.830002,
     "geom:longitude":-75.078697,
@@ -30,7 +35,14 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_452tKO7KDNiFFGm3yCrDAt_40.829841_-75.079094@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316099,
     "wof:geomhash":"fbc1a4b450d78da17ea6d45f40cce4ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655672045
+        }
+    ],
     "wof:id":655672045,
-    "wof:lastmodified":1466683440,
+    "wof:lastmodified":1492029610,
     "wof:name":"Nick's Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

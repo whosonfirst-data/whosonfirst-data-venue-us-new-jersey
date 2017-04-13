@@ -2,9 +2,14 @@
   "id": 638822171,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Boulevard Washington NJ 07882",
+    "addr:housenumber":"140",
+    "addr:postcode":"07882",
+    "addr:street":"Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975795,40.761272,-74.975795,40.761272",
     "geom:latitude":40.761272,
     "geom:longitude":-74.975795,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uw7HygK3KORYgqav2nKIp_40.761272_-74.975795@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280784,
     "wof:geomhash":"4f696bcc71769bc93c5b14f74d47a5b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638822171
+        }
+    ],
     "wof:id":638822171,
-    "wof:lastmodified":1466688407,
+    "wof:lastmodified":1492025898,
     "wof:name":"Laboratory Corp Of America",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

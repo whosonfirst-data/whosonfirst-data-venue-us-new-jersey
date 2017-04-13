@@ -2,9 +2,14 @@
   "id": 638998645,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Firethorn Dr Milford NJ 08848",
+    "addr:housenumber":"11",
+    "addr:postcode":"08848",
+    "addr:street":"Firethorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.120503,40.593676,-75.120503,40.593676",
     "geom:latitude":40.593676,
     "geom:longitude":-75.120503,
@@ -33,7 +38,13 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kwELDh1rsfVungHFZGOel_40.593676_-75.120503@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461285077,
     "wof:geomhash":"ef2c40b328e501dea28e6be1acbbc78a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":638998645
+        }
+    ],
     "wof:id":638998645,
-    "wof:lastmodified":1466692133,
+    "wof:lastmodified":1492043103,
     "wof:name":"DOC Settlement Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

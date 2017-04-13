@@ -2,9 +2,14 @@
   "id": 639084329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 US Hwy 1 Edison NJ 08817",
+    "addr:housenumber":"1110",
+    "addr:postcode":"08817",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.364023,40.521193,-74.364023,40.521193",
     "geom:latitude":40.521193,
     "geom:longitude":-74.364023,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85806645,
-        102087417
+        85892377,
+        102087417,
+        85806645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087417,
+            "neighbourhood_id":85892377,
+            "region_id":85688607,
+            "venue_id":639084329
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
             "neighbourhood_id":85806645,
             "region_id":85688607,
             "venue_id":639084329
         }
     ],
     "wof:id":639084329,
-    "wof:lastmodified":1466688658,
+    "wof:lastmodified":1492077927,
     "wof:name":"Supercuts",
-    "wof:parent_id":85806645,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

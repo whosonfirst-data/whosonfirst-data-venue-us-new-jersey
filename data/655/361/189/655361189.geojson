@@ -2,9 +2,14 @@
   "id": 655361189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1426 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1426",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246301,40.688857,-74.246301,40.688857",
     "geom:latitude":40.688857,
     "geom:longitude":-74.246301,
@@ -28,7 +33,13 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ueEQjAb3pD2FYb9mdL9e_40.688857_-74.246301@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303050,
     "wof:geomhash":"b170936c324ecbbedebacc8bda0a477a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655361189
+        }
+    ],
     "wof:id":655361189,
-    "wof:lastmodified":1466674427,
+    "wof:lastmodified":1492065459,
     "wof:name":"Mart Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

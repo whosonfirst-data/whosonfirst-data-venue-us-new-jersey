@@ -2,9 +2,14 @@
   "id": 655528731,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Pequest Rd Oxford NJ 07863",
+    "addr:housenumber":"118",
+    "addr:postcode":"07863",
+    "addr:street":"Pequest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.986561,40.821116,-74.986561,40.821116",
     "geom:latitude":40.821116,
     "geom:longitude":-74.986561,
@@ -24,7 +29,13 @@
     "sg:postcode":"07863",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478525,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GVvre1RMt9UdqSKpZQLxN_40.821116_-74.986561@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461309993,
     "wof:geomhash":"2aefa9872e97d9c9e49356e6a6d05315",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478525,
+            "region_id":85688607,
+            "venue_id":655528731
+        }
+    ],
     "wof:id":655528731,
-    "wof:lastmodified":1466679075,
+    "wof:lastmodified":1492047788,
     "wof:name":"Storage Systems Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

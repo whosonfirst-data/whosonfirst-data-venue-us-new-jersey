@@ -2,9 +2,14 @@
   "id": 655696067,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 N Maple Ave Marlton NJ 08053",
+    "addr:housenumber":"230",
+    "addr:postcode":"08053",
+    "addr:street":"N Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.924207,39.914154,-74.924207,39.914154",
     "geom:latitude":39.914154,
     "geom:longitude":-74.924207,
@@ -28,7 +33,10 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kOj60200VMCmsYAqVUXOn_39.914138_-74.924263@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461317140,
     "wof:geomhash":"2c22f513047a1155fc91831170ae12e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655696067
+        }
+    ],
     "wof:id":655696067,
-    "wof:lastmodified":1466684163,
+    "wof:lastmodified":1492027931,
     "wof:name":"Scotto Pizza",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

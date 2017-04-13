@@ -2,9 +2,14 @@
   "id": 655688659,
   "type": "Feature",
   "properties": {
+    "addr:full":"164 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"164",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146388,41.097705,-74.146388,41.097705",
     "geom:latitude":41.097705,
     "geom:longitude":-74.146388,
@@ -28,7 +33,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lPo3Ar55Vp0Ch3pcj8hEH_41.097705_-74.146388@1299784598"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461316801,
     "wof:geomhash":"29f726ed99d6743a9dde5e24242b8332",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655688659
+        }
+    ],
     "wof:id":655688659,
-    "wof:lastmodified":1466684069,
+    "wof:lastmodified":1492051915,
     "wof:name":"Java's Brewin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

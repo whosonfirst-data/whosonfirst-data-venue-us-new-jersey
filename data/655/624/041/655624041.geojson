@@ -2,9 +2,14 @@
   "id": 655624041,
   "type": "Feature",
   "properties": {
+    "addr:full":"928 Cross Ave Elizabeth NJ 07208",
+    "addr:housenumber":"928",
+    "addr:postcode":"07208",
+    "addr:street":"Cross Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210215,40.685876,-74.210215,40.685876",
     "geom:latitude":40.685876,
     "geom:longitude":-74.210215,
@@ -27,7 +32,14 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2og9VwDUv2y5uyzVWfCdbU_40.685876_-74.210215@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314067,
     "wof:geomhash":"2a079611152152b5d8b98a4cc2e9309b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655624041
+        }
+    ],
     "wof:id":655624041,
-    "wof:lastmodified":1466681760,
+    "wof:lastmodified":1492052251,
     "wof:name":"T & L Framing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

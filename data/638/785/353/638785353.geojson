@@ -2,9 +2,14 @@
   "id": 638785353,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Oak Ave Cherry Hill NJ 08002",
+    "addr:housenumber":"310",
+    "addr:postcode":"08002",
+    "addr:street":"Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008214,39.934372,-75.008214,39.934372",
     "geom:latitude":39.934372,
     "geom:longitude":-75.008214,
@@ -28,7 +33,14 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75uJdXPFOh0fuwJgyzCH5M_39.934372_-75.008214@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279921,
     "wof:geomhash":"c37d61c03cdd26fc80f6db481204e09d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":638785353
+        }
+    ],
     "wof:id":638785353,
-    "wof:lastmodified":1466683703,
+    "wof:lastmodified":1492030679,
     "wof:name":"Fsm Auctions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

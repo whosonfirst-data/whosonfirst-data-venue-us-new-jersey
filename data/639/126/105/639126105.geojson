@@ -2,9 +2,14 @@
   "id": 639126105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Hooper Ave Toms River NJ 08753",
+    "addr:housenumber":"1108",
+    "addr:postcode":"08753",
+    "addr:street":"Hooper Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.183881,39.972364,-74.183881,39.972364",
     "geom:latitude":39.972364,
     "geom:longitude":-74.183881,
@@ -36,13 +41,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527397,
+        420527467,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        420527397,
+        85809943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +65,35 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":420527467,
+            "region_id":85688607,
+            "venue_id":639126105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":420527397,
+            "region_id":85688607,
+            "venue_id":639126105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":85809943,
             "region_id":85688607,
             "venue_id":639126105
         }
     ],
     "wof:id":639126105,
-    "wof:lastmodified":1466677845,
+    "wof:lastmodified":1492032750,
     "wof:name":"David Friedman Acsw",
-    "wof:parent_id":420527397,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

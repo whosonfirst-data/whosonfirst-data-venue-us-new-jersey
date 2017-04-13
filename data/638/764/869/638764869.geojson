@@ -2,9 +2,14 @@
   "id": 638764869,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Hillcrest Ave Gladstone NJ 07934",
+    "addr:housenumber":"5",
+    "addr:postcode":"07934",
+    "addr:street":"Hillcrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.670197,40.718481,-74.670197,40.718481",
     "geom:latitude":40.718481,
     "geom:longitude":-74.670197,
@@ -28,7 +33,14 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29WGx8r7aZIHcpIRQQoWrn_40.718481_-74.670197@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279418,
     "wof:geomhash":"e06c9fb67879333e9201034353d9acb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":638764869
+        }
+    ],
     "wof:id":638764869,
-    "wof:lastmodified":1466680132,
+    "wof:lastmodified":1492030730,
     "wof:name":"Bri-Lin Basic Programming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655692009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1041 Route 73 Pennsauken NJ 08110",
+    "addr:housenumber":"1041",
+    "addr:postcode":"08110",
+    "addr:street":"Route 73",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027333,39.992051,-75.027333,39.992051",
     "geom:latitude":39.992051,
     "geom:longitude":-75.027333,
@@ -29,7 +34,13 @@
         "chicken"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q5x57sDRtnHB08NTSJD0X_39.992051_-75.027333@1299784598"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316938,
     "wof:geomhash":"496650dd5248bf9638125024e452ca77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":655692009
+        }
+    ],
     "wof:id":655692009,
-    "wof:lastmodified":1466683951,
+    "wof:lastmodified":1492030737,
     "wof:name":"KFC - Kentucky Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

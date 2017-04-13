@@ -2,9 +2,14 @@
   "id": 639402865,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 Woodward Rd Englishtown NJ 07726",
+    "addr:housenumber":"265",
+    "addr:postcode":"07726",
+    "addr:street":"Woodward Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.368894,40.242413,-74.368894,40.242413",
     "geom:latitude":40.242413,
     "geom:longitude":-74.368894,
@@ -27,7 +32,10 @@
         "fireplace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fvGlY2dNm5pGPfUJwnwBI_40.242413_-74.368894@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461294287,
     "wof:geomhash":"704ca60c41a5936f0213e8c7b993363f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527293,
+            "venue_id":639402865
+        }
+    ],
     "wof:id":639402865,
-    "wof:lastmodified":1466693062,
+    "wof:lastmodified":1492052317,
     "wof:name":"Dun-Rite Installations Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

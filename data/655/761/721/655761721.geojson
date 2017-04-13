@@ -2,9 +2,14 @@
   "id": 655761721,
   "type": "Feature",
   "properties": {
+    "addr:full":"557 River Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"557",
+    "addr:postcode":"07407",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127008,40.902763,-74.127008,40.902763",
     "geom:latitude":40.902763,
     "geom:longitude":-74.127008,
@@ -34,7 +39,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L3Tv4DeKlDkeUvzRyP9GF_40.902763_-74.127008@1303262263"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461319717,
     "wof:geomhash":"b36678ebae05eb96d22848e6ee286862",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655761721
+        }
+    ],
     "wof:id":655761721,
-    "wof:lastmodified":1466685927,
+    "wof:lastmodified":1492061329,
     "wof:name":"Artistic Impressions Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

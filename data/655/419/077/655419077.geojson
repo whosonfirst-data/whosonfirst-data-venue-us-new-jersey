@@ -2,9 +2,14 @@
   "id": 655419077,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Ravine Lake Rd Bernardsville NJ 07924",
+    "addr:housenumber":"41",
+    "addr:postcode":"07924",
+    "addr:street":"Ravine Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617978,40.720496,-74.617978,40.720496",
     "geom:latitude":40.720496,
     "geom:longitude":-74.617978,
@@ -28,7 +33,14 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477913,
+        85633793,
+        85975521,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74d9xfShQnX1C70yGx2wBN_40.720496_-74.617978@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461305426,
     "wof:geomhash":"5017666a02bceaf4c5a8abbcea013bb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477913,
+            "locality_id":85975521,
+            "region_id":85688607,
+            "venue_id":655419077
+        }
+    ],
     "wof:id":655419077,
-    "wof:lastmodified":1466675987,
+    "wof:lastmodified":1492050584,
     "wof:name":"E and D I LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

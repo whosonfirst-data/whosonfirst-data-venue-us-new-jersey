@@ -2,9 +2,14 @@
   "id": 639112611,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 York Rd North Arlington NJ 07031",
+    "addr:housenumber":"50",
+    "addr:postcode":"07031",
+    "addr:street":"York Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134648,40.78928,-74.134648,40.78928",
     "geom:latitude":40.78928,
     "geom:longitude":-74.134648,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ATxh3l7TiMXbK9H2IpzqY_40.789280_-74.134648@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287616,
     "wof:geomhash":"cb0e6587bff2e7b3c65336f3d60a317e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639112611
+        }
+    ],
     "wof:id":639112611,
-    "wof:lastmodified":1466676021,
+    "wof:lastmodified":1492022284,
     "wof:name":"Discount Pails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

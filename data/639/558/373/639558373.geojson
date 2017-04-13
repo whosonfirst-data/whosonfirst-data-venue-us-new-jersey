@@ -2,9 +2,14 @@
   "id": 639558373,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Kenlen Dr Edison NJ 08817",
+    "addr:housenumber":"5",
+    "addr:postcode":"08817",
+    "addr:street":"Kenlen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.371698,40.513662,-74.371698,40.513662",
     "geom:latitude":40.513662,
     "geom:longitude":-74.371698,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78jlyuhhbulHfkF0v8XrSn_40.513662_-74.371698@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300073,
     "wof:geomhash":"1107e7ad1b2cc890eb3c5a8fb4ebde5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527235,
+            "venue_id":639558373
+        }
+    ],
     "wof:id":639558373,
-    "wof:lastmodified":1466696198,
+    "wof:lastmodified":1492057039,
     "wof:name":"Photo Depot",
     "wof:parent_id":420527235,
     "wof:placetype":"venue",

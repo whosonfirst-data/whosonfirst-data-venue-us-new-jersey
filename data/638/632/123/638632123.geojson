@@ -2,9 +2,14 @@
   "id": 638632123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Wyckoff Rd Hampton NJ 08827",
+    "addr:housenumber":"1",
+    "addr:postcode":"08827",
+    "addr:street":"Wyckoff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.988005,40.689751,-74.988005,40.689751",
     "geom:latitude":40.689751,
     "geom:longitude":-74.988005,
@@ -28,7 +33,10 @@
         "fabricating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527073
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HA1Lrc46ylA0Mn3qMP5Ka_40.689751_-74.988005@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275284,
     "wof:geomhash":"298da4ba7fce909228ce04af4d02e10d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527073,
+            "venue_id":638632123
+        }
+    ],
     "wof:id":638632123,
-    "wof:lastmodified":1466673276,
+    "wof:lastmodified":1492062393,
     "wof:name":"Fab Tech Inc",
     "wof:parent_id":420527073,
     "wof:placetype":"venue",

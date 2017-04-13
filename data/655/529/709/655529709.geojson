@@ -2,9 +2,14 @@
   "id": 655529709,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Church St Bound Brook NJ 08805",
+    "addr:housenumber":"515",
+    "addr:postcode":"08805",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532907,40.568027,-74.532907,40.568027",
     "geom:latitude":40.568027,
     "geom:longitude":-74.532907,
@@ -29,7 +34,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gp39rQMBGTuqyb3sS3koA_40.568027_-74.532907@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461310032,
     "wof:geomhash":"4d86a4211ef2f0ec0ebf330ef50936be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655529709
+        }
+    ],
     "wof:id":655529709,
-    "wof:lastmodified":1466679068,
+    "wof:lastmodified":1492057940,
     "wof:name":"Surgical Associates Central NJ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655581219,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 State Rte 33 Manalapan NJ 07726",
+    "addr:housenumber":"317",
+    "addr:postcode":"07726",
+    "addr:street":"State Rte 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.373605,40.25493,-74.373605,40.25493",
     "geom:latitude":40.25493,
     "geom:longitude":-74.373605,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dKpOwYC7fZ4KfDZxiJHrm_40.254930_-74.373605@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312212,
     "wof:geomhash":"b8467a6f141a2e22e51b0e4fd0f429e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655581219
+        }
+    ],
     "wof:id":655581219,
-    "wof:lastmodified":1466680275,
+    "wof:lastmodified":1492081969,
     "wof:name":"New Home Maintenance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

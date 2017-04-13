@@ -2,9 +2,14 @@
   "id": 638652353,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Burd St Pennington NJ 08534",
+    "addr:housenumber":"223",
+    "addr:postcode":"08534",
+    "addr:street":"Burd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.79191,40.321246,-74.79191,40.321246",
     "geom:latitude":40.321246,
     "geom:longitude":-74.79191,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21Cpu1pYQGJVE8PKu863tv_40.321246_-74.791910@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275869,
     "wof:geomhash":"4e402e95bd44cc3c04ce077013a15355",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":638652353
+        }
+    ],
     "wof:id":638652353,
-    "wof:lastmodified":1466673870,
+    "wof:lastmodified":1492062578,
     "wof:name":"James Hofacker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

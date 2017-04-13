@@ -2,9 +2,14 @@
   "id": 639605573,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Gristmill Rd Howell NJ 07731",
+    "addr:housenumber":"50",
+    "addr:postcode":"07731",
+    "addr:street":"Gristmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252442,40.17152,-74.252442,40.17152",
     "geom:latitude":40.17152,
     "geom:longitude":-74.252442,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PnwCElhUMwTaGXcerpO6E_40.171520_-74.252442@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461301947,
     "wof:geomhash":"a6ad8a59aada6c9397e9ea6550402279",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":639605573
+        }
+    ],
     "wof:id":639605573,
-    "wof:lastmodified":1466697007,
+    "wof:lastmodified":1492068840,
     "wof:name":"Paulson Bros Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

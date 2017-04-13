@@ -2,9 +2,14 @@
   "id": 638665913,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Jacobson Ln Lavallette NJ 08735",
+    "addr:housenumber":"113",
+    "addr:postcode":"08735",
+    "addr:street":"Jacobson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.062971,39.997549,-74.062971,39.997549",
     "geom:latitude":39.997549,
     "geom:longitude":-74.062971,
@@ -25,14 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85865309,
+        102081485,
         420558337,
         102191575,
         404477803,
-        85633793,
-        85976357,
-        102081485,
-        85688607,
-        85865309
+        85976357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,13 @@
     "wof:geomhash":"cff41e3cdf22587f5fafdc0c287480cc",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85865309,
+            "region_id":85688607,
+            "venue_id":638665913
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -51,19 +63,12 @@
             "neighbourhood_id":420558337,
             "region_id":85688607,
             "venue_id":638665913
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081485,
-            "neighbourhood_id":85865309,
-            "region_id":85688607,
-            "venue_id":638665913
         }
     ],
     "wof:id":638665913,
-    "wof:lastmodified":1466674358,
+    "wof:lastmodified":1492062525,
     "wof:name":"C I S LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

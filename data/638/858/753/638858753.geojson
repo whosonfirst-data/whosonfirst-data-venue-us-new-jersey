@@ -2,9 +2,14 @@
   "id": 638858753,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Washington Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"11",
+    "addr:postcode":"08550",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.621739,40.318689,-74.621739,40.318689",
     "geom:latitude":40.318689,
     "geom:longitude":-74.621739,
@@ -29,7 +34,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WEvERJVeu1O1EjWqb70Kj_40.318689_-74.621739@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461281729,
     "wof:geomhash":"cb8b5e46ffef62f65f5f04af6d3585c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":638858753
+        }
+    ],
     "wof:id":638858753,
-    "wof:lastmodified":1466689388,
+    "wof:lastmodified":1492040394,
     "wof:name":"A & D Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

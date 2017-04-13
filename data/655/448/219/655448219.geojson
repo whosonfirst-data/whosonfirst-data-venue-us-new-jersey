@@ -2,9 +2,14 @@
   "id": 655448219,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Mayhew Dr Fairfield NJ 07004",
+    "addr:housenumber":"7",
+    "addr:postcode":"07004",
+    "addr:street":"Mayhew Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280265,40.863716,-74.280265,40.863716",
     "geom:latitude":40.863716,
     "geom:longitude":-74.280265,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478111,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gYW3BpQwcFONoZbonhs7Q_40.863716_-74.280265@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306615,
     "wof:geomhash":"53dddc4b8e386b5d1fbe6e425f87dc38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478111,
+            "region_id":85688607,
+            "venue_id":655448219
+        }
+    ],
     "wof:id":655448219,
-    "wof:lastmodified":1466676773,
+    "wof:lastmodified":1492058522,
     "wof:name":"Hunterdon Home Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639107735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Bank St Clinton NJ 08889",
+    "addr:housenumber":"2",
+    "addr:postcode":"08889",
+    "addr:street":"Bank St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.769257,40.614528,-74.769257,40.614528",
     "geom:latitude":40.614528,
     "geom:longitude":-74.769257,
@@ -24,7 +29,14 @@
     "sg:postcode":"08889",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        85976249,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SeIAEiVAL5vdON0zAkHid_40.614528_-74.769257@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461287519,
     "wof:geomhash":"d47427823549b8ae3753ac4d2de61b24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "locality_id":85976249,
+            "region_id":85688607,
+            "venue_id":639107735
+        }
+    ],
     "wof:id":639107735,
-    "wof:lastmodified":1466675365,
+    "wof:lastmodified":1492043849,
     "wof:name":"Clinton Station Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639039781,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Tennessee Dr Brick NJ 08723",
+    "addr:housenumber":"317",
+    "addr:postcode":"08723",
+    "addr:street":"Tennessee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147621,40.041805,-74.147621,40.041805",
     "geom:latitude":40.041805,
     "geom:longitude":-74.147621,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uw1NWgWOYUWFXiVEhYrsx_40.041805_-74.147621@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286040,
     "wof:geomhash":"955fe5dea125d0c7f1013450988cdbe1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639039781
+        }
+    ],
     "wof:id":639039781,
-    "wof:lastmodified":1466674044,
+    "wof:lastmodified":1492042712,
     "wof:name":"Air Medics Heating & Cooling",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

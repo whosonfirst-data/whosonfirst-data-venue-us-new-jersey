@@ -2,9 +2,14 @@
   "id": 655656899,
   "type": "Feature",
   "properties": {
+    "addr:full":"871 River Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"871",
+    "addr:postcode":"07407",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127197,40.891899,-74.127197,40.891899",
     "geom:latitude":40.891899,
     "geom:longitude":-74.127197,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.royalwarsaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0elzC012gs2nGiGvrnsn4u_40.892450_-74.127068@1293134755"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461315486,
     "wof:geomhash":"5eb288c2129a66e3b0edfb82b581a4f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655656899
+        }
+    ],
     "wof:id":655656899,
-    "wof:lastmodified":1466683321,
+    "wof:lastmodified":1492029593,
     "wof:name":"Royal Warsaw Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

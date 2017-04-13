@@ -2,9 +2,14 @@
   "id": 639569175,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Lynn St Harrington Park NJ 07640",
+    "addr:housenumber":"306",
+    "addr:postcode":"07640",
+    "addr:street":"Lynn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.983629,40.994419,-73.983629,40.994419",
     "geom:latitude":40.994419,
     "geom:longitude":-73.983629,
@@ -28,7 +33,14 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A3JFSL6AEoF7UGJFoFYBU_40.994419_-73.983629@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300476,
     "wof:geomhash":"c1476fec77db699c28e6c1668c1cc11e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":639569175
+        }
+    ],
     "wof:id":639569175,
-    "wof:lastmodified":1466696288,
+    "wof:lastmodified":1492053715,
     "wof:name":"Circle Of Life Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

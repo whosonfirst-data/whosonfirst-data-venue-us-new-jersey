@@ -2,9 +2,14 @@
   "id": 639560443,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Minneakoning Rd Flemington NJ 08822",
+    "addr:housenumber":"8",
+    "addr:postcode":"08822",
+    "addr:street":"Minneakoning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.852505,40.529769,-74.852505,40.529769",
     "geom:latitude":40.529769,
     "geom:longitude":-74.852505,
@@ -29,13 +34,14 @@
     "sg:website":"www.hcdemocrat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85804631,
+        102085997,
         85819609,
         102191575,
         404477453,
-        85633793,
-        85975697,
-        102085997,
-        85688607
+        85975697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +51,13 @@
     "wof:created":1461300145,
     "wof:geomhash":"61dad6392250ec6ef2b783b878a7aa47",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85804631,
+            "region_id":85688607,
+            "venue_id":639560443
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":639560443,
-    "wof:lastmodified":1466695986,
+    "wof:lastmodified":1492025433,
     "wof:name":"Hunterdon County Democrat",
-    "wof:parent_id":85819609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

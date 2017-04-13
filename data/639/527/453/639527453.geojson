@@ -2,9 +2,14 @@
   "id": 639527453,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Maple Ct Butler NJ 07405",
+    "addr:housenumber":"6",
+    "addr:postcode":"07405",
+    "addr:street":"Maple Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.342282,41.002339,-74.342282,41.002339",
     "geom:latitude":41.002339,
     "geom:longitude":-74.342282,
@@ -28,7 +33,14 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MU0arFpxyjFve3v0tjZyY_41.002339_-74.342282@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298716,
     "wof:geomhash":"19ad649fa50ae88bc99e380a9a61311d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":639527453
+        }
+    ],
     "wof:id":639527453,
-    "wof:lastmodified":1466695395,
+    "wof:lastmodified":1492042446,
     "wof:name":"Laboratory Safety Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

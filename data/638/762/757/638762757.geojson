@@ -2,9 +2,14 @@
   "id": 638762757,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Jefferson St Newton NJ 07882",
+    "addr:housenumber":"15",
+    "addr:postcode":"07882",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.972004,40.760865,-74.972004,40.760865",
     "geom:latitude":40.760865,
     "geom:longitude":-74.972004,
@@ -28,7 +33,10 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29PsVF9UaONwV8p6e7h1Oc_40.760865_-74.972004@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279370,
     "wof:geomhash":"8eb9548e2bfc1faa104411dfe2d84dae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638762757
+        }
+    ],
     "wof:id":638762757,
-    "wof:lastmodified":1466679818,
+    "wof:lastmodified":1492028387,
     "wof:name":"Newton Auto Body",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

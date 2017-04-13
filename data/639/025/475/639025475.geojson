@@ -2,9 +2,14 @@
   "id": 639025475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1330",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264217,40.701599,-74.264217,40.701599",
     "geom:latitude":40.701599,
     "geom:longitude":-74.264217,
@@ -32,7 +37,10 @@
         "uniform"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dYo5xUZwopH3PvXA9LLEd_40.701599_-74.264217@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461285684,
     "wof:geomhash":"be838554ae65bdb9ecfe6f2d73705e55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639025475
+        }
+    ],
     "wof:id":639025475,
-    "wof:lastmodified":1466673669,
+    "wof:lastmodified":1492071355,
     "wof:name":"Emergency Services Uniforms",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

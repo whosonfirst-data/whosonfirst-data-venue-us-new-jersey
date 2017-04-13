@@ -2,9 +2,14 @@
   "id": 655503833,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Alexander Ave Pompton Plains NJ 07444",
+    "addr:housenumber":"100",
+    "addr:postcode":"07444",
+    "addr:street":"Alexander Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289741,40.957373,-74.289741,40.957373",
     "geom:latitude":40.957373,
     "geom:longitude":-74.289741,
@@ -27,7 +32,10 @@
         "beverage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pi8j4Lpd2DRr75aGjsm4F_40.957373_-74.289741@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461309012,
     "wof:geomhash":"11ddce584dc82bf5671385b27b0b7348",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655503833
+        }
+    ],
     "wof:id":655503833,
-    "wof:lastmodified":1466678306,
+    "wof:lastmodified":1492058412,
     "wof:name":"Grayson Beverages",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

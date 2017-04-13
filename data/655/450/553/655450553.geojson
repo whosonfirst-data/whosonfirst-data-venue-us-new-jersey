@@ -2,9 +2,14 @@
   "id": 655450553,
   "type": "Feature",
   "properties": {
+    "addr:full":"167 Asbury Ave Freehold NJ 07728",
+    "addr:housenumber":"167",
+    "addr:postcode":"07728",
+    "addr:street":"Asbury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.213686,40.253265,-74.213686,40.253265",
     "geom:latitude":40.253265,
     "geom:longitude":-74.213686,
@@ -36,8 +41,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976029,
+        85808317,
         102085049,
+        85976029,
         85851127
     ],
     "wof:breaches":[],
@@ -51,6 +57,13 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85808317,
+            "region_id":85688607,
+            "venue_id":655450553
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "locality_id":85976029,
             "neighbourhood_id":85851127,
             "region_id":85688607,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":655450553,
-    "wof:lastmodified":1466676899,
+    "wof:lastmodified":1492053505,
     "wof:name":"Freehold Welding Inc",
-    "wof:parent_id":85851127,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

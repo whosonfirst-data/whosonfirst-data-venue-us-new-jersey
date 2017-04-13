@@ -2,9 +2,14 @@
   "id": 639460117,
   "type": "Feature",
   "properties": {
+    "addr:full":"732 Irvington Ave Maplewood NJ 07040",
+    "addr:housenumber":"732",
+    "addr:postcode":"07040",
+    "addr:street":"Irvington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244448,40.732844,-74.244448,40.732844",
     "geom:latitude":40.732844,
     "geom:longitude":-74.244448,
@@ -30,7 +35,13 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hf0pM1XY3enMLNWRNHQIm_40.732844_-74.244448@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461295806,
     "wof:geomhash":"40457c4c28151453f447bf0ada44db00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":639460117
+        }
+    ],
     "wof:id":639460117,
-    "wof:lastmodified":1466693832,
+    "wof:lastmodified":1492041511,
     "wof:name":"Diamond Gym Sports & Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

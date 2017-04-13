@@ -2,9 +2,14 @@
   "id": 655441103,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Eagle Rock Ave Roseland NJ 07068",
+    "addr:housenumber":"152",
+    "addr:postcode":"07068",
+    "addr:street":"Eagle Rock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293765,40.8208,-74.293765,40.8208",
     "geom:latitude":40.8208,
     "geom:longitude":-74.293765,
@@ -33,7 +38,14 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22CNZreuwgdfGZXFd5EMkS_40.820800_-74.293765@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461306328,
     "wof:geomhash":"2353102f61a6f050c7d244568be68f57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655441103
+        }
+    ],
     "wof:id":655441103,
-    "wof:lastmodified":1466676528,
+    "wof:lastmodified":1492051836,
     "wof:name":"Title Today Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

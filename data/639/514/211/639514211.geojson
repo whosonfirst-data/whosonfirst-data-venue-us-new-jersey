@@ -2,9 +2,14 @@
   "id": 639514211,
   "type": "Feature",
   "properties": {
+    "addr:full":"153 W Lake Ave Rahway NJ 07065",
+    "addr:housenumber":"153",
+    "addr:postcode":"07065",
+    "addr:street":"W Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286017,40.60162,-74.286017,40.60162",
     "geom:latitude":40.60162,
     "geom:longitude":-74.286017,
@@ -27,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56WFL9qsaRrOZzmh55oxUs_40.601620_-74.286017@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298033,
     "wof:geomhash":"f1d72150e2ca7e6bc2fa6df4c320654d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639514211
+        }
+    ],
     "wof:id":639514211,
-    "wof:lastmodified":1466694990,
+    "wof:lastmodified":1492042506,
     "wof:name":"Nogales Computertek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

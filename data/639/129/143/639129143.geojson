@@ -2,9 +2,14 @@
   "id": 639129143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Surrey Ln Lambertville NJ 08520",
+    "addr:housenumber":"1",
+    "addr:postcode":"08520",
+    "addr:street":"Surrey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.569262,40.271343,-74.569262,40.271343",
     "geom:latitude":40.271343,
     "geom:longitude":-74.569262,
@@ -27,7 +32,13 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59mVcxyrHoV3wI2RFfkYK1_40.271343_-74.569262@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288059,
     "wof:geomhash":"fb46f82a2aca847d72ceb0e0a8349fee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639129143
+        }
+    ],
     "wof:id":639129143,
-    "wof:lastmodified":1466678261,
+    "wof:lastmodified":1492047941,
     "wof:name":"Precision Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

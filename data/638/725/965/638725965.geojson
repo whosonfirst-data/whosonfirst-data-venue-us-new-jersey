@@ -2,9 +2,14 @@
   "id": 638725965,
   "type": "Feature",
   "properties": {
+    "addr:full":"162 Main St Metuchen NJ 08840",
+    "addr:housenumber":"162",
+    "addr:postcode":"08840",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.35879,40.531978,-74.35879,40.531978",
     "geom:latitude":40.531978,
     "geom:longitude":-74.35879,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85806645,
+        102087417,
         85845305,
         102191575,
         404478281,
-        85633793,
-        85975745,
-        102087417,
-        85688607
+        85975745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +52,13 @@
     "wof:created":1461278371,
     "wof:geomhash":"34be04c337f1957418fb8dd791072264",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85806645,
+            "region_id":85688607,
+            "venue_id":638725965
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":638725965,
-    "wof:lastmodified":1466674828,
+    "wof:lastmodified":1492041284,
     "wof:name":"Carmencita T Lanez MD",
-    "wof:parent_id":85845305,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

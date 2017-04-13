@@ -2,9 +2,14 @@
   "id": 639539777,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Tree Top Cir Freehold NJ 07728",
+    "addr:housenumber":"111",
+    "addr:postcode":"07728",
+    "addr:street":"Tree Top Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293617,40.172622,-74.293617,40.172622",
     "geom:latitude":40.172622,
     "geom:longitude":-74.293617,
@@ -24,7 +29,10 @@
     "sg:postcode":"07728",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LfAH18HVsrB54Day9wmcJ_40.172622_-74.293617@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461299291,
     "wof:geomhash":"a8c301bf7ff88453222ffdc817d1f845",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527379,
+            "venue_id":639539777
+        }
+    ],
     "wof:id":639539777,
-    "wof:lastmodified":1466695804,
+    "wof:lastmodified":1492049696,
     "wof:name":"RMJ Title Agency Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

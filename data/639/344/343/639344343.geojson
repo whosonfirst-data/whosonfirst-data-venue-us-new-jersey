@@ -2,9 +2,14 @@
   "id": 639344343,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 US Hwy 130 Bordentown NJ 08505",
+    "addr:housenumber":"22",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.682016,40.172086,-74.682016,40.172086",
     "geom:latitude":40.172086,
     "geom:longitude":-74.682016,
@@ -28,7 +33,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477759,
+        85633793,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TNMjx1rJcNAgQjxLdHEvL_40.172086_-74.682016@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461292900,
     "wof:geomhash":"c34b6f10c2fcf7408b5d386242497de0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477759,
+            "region_id":85688607,
+            "venue_id":639344343
+        }
+    ],
     "wof:id":639344343,
-    "wof:lastmodified":1466692294,
+    "wof:lastmodified":1492057206,
     "wof:name":"Hidden View Nursery & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

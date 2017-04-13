@@ -2,9 +2,14 @@
   "id": 655588615,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Crine Rd Morganville NJ 07751",
+    "addr:housenumber":"34",
+    "addr:postcode":"07751",
+    "addr:street":"Crine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26885,40.345108,-74.26885,40.345108",
     "geom:latitude":40.345108,
     "geom:longitude":-74.26885,
@@ -27,7 +32,13 @@
         "marketing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P33JqiqGMCTtXajsXYmDV_40.345108_-74.268850@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312534,
     "wof:geomhash":"6eff4ffb02e7a0f4c82bd160dc1b3169",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":655588615
+        }
+    ],
     "wof:id":655588615,
-    "wof:lastmodified":1466680743,
+    "wof:lastmodified":1492045175,
     "wof:name":"Guider Professional Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

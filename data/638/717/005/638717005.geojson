@@ -2,9 +2,14 @@
   "id": 638717005,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"225",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989693,40.808502,-73.989693,40.808502",
     "geom:latitude":40.808502,
     "geom:longitude":-73.989693,
@@ -24,7 +29,14 @@
     "sg:postcode":"07020",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LJere2jQd1BEIQ7klYqx1_40.808502_-73.989693@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461278104,
     "wof:geomhash":"f1045dbe9974914f8fc38fd5d6312497",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":638717005
+        }
+    ],
     "wof:id":638717005,
-    "wof:lastmodified":1466673567,
+    "wof:lastmodified":1492062491,
     "wof:name":"Communities Kor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

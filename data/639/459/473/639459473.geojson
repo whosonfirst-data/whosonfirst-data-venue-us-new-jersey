@@ -2,9 +2,14 @@
   "id": 639459473,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Sunset Rd Willingboro NJ 08046",
+    "addr:housenumber":"220",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882957,40.048457,-74.882957,40.048457",
     "geom:latitude":40.048457,
     "geom:longitude":-74.882957,
@@ -29,7 +34,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16CApQwOiiwCbxpz7Fm903_40.048457_-74.882957@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461295777,
     "wof:geomhash":"5afc4330df15ac4f84e0d513a2456545",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639459473
+        }
+    ],
     "wof:id":639459473,
-    "wof:lastmodified":1466693892,
+    "wof:lastmodified":1492047351,
     "wof:name":"Delaware Valley Orthpd Assoc",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

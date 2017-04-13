@@ -2,9 +2,14 @@
   "id": 655375763,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 64th St West New York NJ 07093",
+    "addr:housenumber":"50",
+    "addr:postcode":"nj 07093",
+    "addr:street":"64Th St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.005164,40.788367,-74.005164,40.788367",
     "geom:latitude":40.788367,
     "geom:longitude":-74.005164,
@@ -30,14 +35,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869077,
-        102191575,
-        404478149,
-        85633793,
-        85975287,
-        102080719,
         85688607,
-        85826425
+        85633793,
+        85826425,
+        102080719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +49,6 @@
     "wof:geomhash":"41440f9805cb37a81ba81d0034492ff0",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080719,
-            "localadmin_id":404478149,
-            "locality_id":85975287,
-            "neighbourhood_id":85869077,
-            "region_id":85688607,
-            "venue_id":655375763
-        },
-        {
             "country_id":85633793,
             "county_id":102080719,
             "neighbourhood_id":85826425,
@@ -66,9 +57,9 @@
         }
     ],
     "wof:id":655375763,
-    "wof:lastmodified":1466674881,
+    "wof:lastmodified":1492045614,
     "wof:name":"Iggman Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

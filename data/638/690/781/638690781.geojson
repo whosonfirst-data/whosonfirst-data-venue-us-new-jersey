@@ -2,9 +2,14 @@
   "id": 638690781,
   "type": "Feature",
   "properties": {
+    "addr:full":"653 Woodside Ave Westwood NJ 07675",
+    "addr:housenumber":"653",
+    "addr:postcode":"07675",
+    "addr:street":"Woodside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00845,41.033242,-74.00845,41.033242",
     "geom:latitude":41.033242,
     "geom:longitude":-74.00845,
@@ -28,7 +33,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21LCRAtgCnxTBI08295S6i_41.033242_-74.008450@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461277211,
     "wof:geomhash":"ce5ce49448dbee8f14b2e9148842041a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":638690781
+        }
+    ],
     "wof:id":638690781,
-    "wof:lastmodified":1466688366,
+    "wof:lastmodified":1492062337,
     "wof:name":"Tng Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

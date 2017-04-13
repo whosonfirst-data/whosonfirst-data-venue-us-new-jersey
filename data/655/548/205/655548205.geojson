@@ -2,9 +2,14 @@
   "id": 655548205,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Princeton Hightstown Rd Princeton Junction NJ 08550",
+    "addr:housenumber":"43",
+    "addr:postcode":"08550",
+    "addr:street":"Hightstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.619735,40.314203,-74.619735,40.314203",
     "geom:latitude":40.314203,
     "geom:longitude":-74.619735,
@@ -28,7 +33,14 @@
         "blower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mYFLW7RVyqe7VVW5pdxjp_40.314203_-74.619735@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310751,
     "wof:geomhash":"93ad94896c7c4a9a3c4b1e30ea5595c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":655548205
+        }
+    ],
     "wof:id":655548205,
-    "wof:lastmodified":1466679461,
+    "wof:lastmodified":1492023451,
     "wof:name":"Environment Mgt Confederation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

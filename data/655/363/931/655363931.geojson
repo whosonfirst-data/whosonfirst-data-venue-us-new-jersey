@@ -2,9 +2,14 @@
   "id": 655363931,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Petticoat Bridge Rd Columbus NJ 08022",
+    "addr:housenumber":"205",
+    "addr:postcode":"08022",
+    "addr:street":"Petticoat Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.742028,40.054982,-74.742028,40.054982",
     "geom:latitude":40.054982,
     "geom:longitude":-74.742028,
@@ -27,7 +32,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OxsVcl4HUutNz0K2KmVbB_40.054982_-74.742028@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303176,
     "wof:geomhash":"c5c4c5e6e6a322b81067b2e4cb2f1b70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":655363931
+        }
+    ],
     "wof:id":655363931,
-    "wof:lastmodified":1466674645,
+    "wof:lastmodified":1492041954,
     "wof:name":"BTS",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638752921,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Sherwood Ave Trenton NJ 08619",
+    "addr:housenumber":"235",
+    "addr:postcode":"08619",
+    "addr:street":"Sherwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.69588,40.242523,-74.69588,40.242523",
     "geom:latitude":40.242523,
     "geom:longitude":-74.69588,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WT9PgiB6uW0KSzJH7KBiX_40.242523_-74.695880@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279100,
     "wof:geomhash":"4ed0df8045aecec077e68e1749d0f979",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":638752921
+        }
+    ],
     "wof:id":638752921,
-    "wof:lastmodified":1466678574,
+    "wof:lastmodified":1492062484,
     "wof:name":"Moschitti Lucio",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

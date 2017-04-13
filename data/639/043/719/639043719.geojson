@@ -2,9 +2,14 @@
   "id": 639043719,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Depew St Dumont NJ 07628",
+    "addr:housenumber":"25",
+    "addr:postcode":"07628",
+    "addr:street":"Depew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987638,40.936677,-73.987638,40.936677",
     "geom:latitude":40.936677,
     "geom:longitude":-73.987638,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.dumontnj.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yru9I0MaxyftETzXSEs4w_40.936677_-73.987638@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461286126,
     "wof:geomhash":"77bb80d48097d9355fb06490bfa442ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639043719
+        }
+    ],
     "wof:id":639043719,
-    "wof:lastmodified":1466674099,
+    "wof:lastmodified":1492044082,
     "wof:name":"Dumont Superintendant-Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

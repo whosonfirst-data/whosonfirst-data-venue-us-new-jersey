@@ -2,9 +2,14 @@
   "id": 655665641,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Marlton Dr Wayne NJ 07470",
+    "addr:housenumber":"41",
+    "addr:postcode":"07470",
+    "addr:street":"Marlton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263702,40.962299,-74.263702,40.962299",
     "geom:latitude":40.962299,
     "geom:longitude":-74.263702,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lhgy2QIeUgxIEP7lbrBFF_40.962284_-74.264168@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315834,
     "wof:geomhash":"9b51cb95b1463c90fd88f84d52bc53cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655665641
+        }
+    ],
     "wof:id":655665641,
-    "wof:lastmodified":1466683410,
+    "wof:lastmodified":1492058414,
     "wof:name":"Pocsi Laurie L CPA",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

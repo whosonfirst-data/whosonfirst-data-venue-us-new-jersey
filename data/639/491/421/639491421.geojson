@@ -2,9 +2,14 @@
   "id": 639491421,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Featherbed Ln Hopewell NJ 08525",
+    "addr:housenumber":"23",
+    "addr:postcode":"08525",
+    "addr:street":"Featherbed Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.784715,40.406269,-74.784715,40.406269",
     "geom:latitude":40.406269,
     "geom:longitude":-74.784715,
@@ -28,7 +33,13 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HbDSBxer4DsmfF7x7vKDZ_40.406269_-74.784715@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297077,
     "wof:geomhash":"65c6c77ae19d6c57bbafb832d3f66524",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":639491421
+        }
+    ],
     "wof:id":639491421,
-    "wof:lastmodified":1466694563,
+    "wof:lastmodified":1492042257,
     "wof:name":"Lane Featherbed Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

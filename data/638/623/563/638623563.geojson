@@ -2,9 +2,14 @@
   "id": 638623563,
   "type": "Feature",
   "properties": {
+    "addr:full":"3018 Adams St Belmar NJ 07719",
+    "addr:housenumber":"3018",
+    "addr:postcode":"07719",
+    "addr:street":"Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.080223,40.177054,-74.080223,40.177054",
     "geom:latitude":40.177054,
     "geom:longitude":-74.080223,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WWjL98o2ev49aTwBu62I5_40.177054_-74.080223@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275016,
     "wof:geomhash":"3b4efe4f152fef4c726681360f447be0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":638623563
+        }
+    ],
     "wof:id":638623563,
-    "wof:lastmodified":1466673096,
+    "wof:lastmodified":1492028440,
     "wof:name":"Petes Building & Developing",
     "wof:parent_id":420527307,
     "wof:placetype":"venue",

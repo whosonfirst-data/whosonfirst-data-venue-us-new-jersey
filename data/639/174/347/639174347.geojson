@@ -2,9 +2,14 @@
   "id": 639174347,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Milton Ave Rahway NJ 07065",
+    "addr:housenumber":"200",
+    "addr:postcode":"07065",
+    "addr:street":"E Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272394,40.604812,-74.272394,40.604812",
     "geom:latitude":40.604812,
     "geom:longitude":-74.272394,
@@ -29,7 +34,14 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Sin4jQPmDzY4v7yiFuAUR_40.604812_-74.272394@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461289064,
     "wof:geomhash":"e07fb871c437a00b58169324f4319c29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639174347
+        }
+    ],
     "wof:id":639174347,
-    "wof:lastmodified":1466685030,
+    "wof:lastmodified":1492076836,
     "wof:name":"Rahway Senior Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

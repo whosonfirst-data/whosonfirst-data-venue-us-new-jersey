@@ -2,9 +2,14 @@
   "id": 639559367,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Wyoming Ave Maplewood NJ 07040",
+    "addr:housenumber":"130",
+    "addr:postcode":"07040",
+    "addr:street":"Wyoming Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277364,40.74362,-74.277364,40.74362",
     "geom:latitude":40.74362,
     "geom:longitude":-74.277364,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6va11IuHa93wVho4ykAU5J_40.743620_-74.277364@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300106,
     "wof:geomhash":"1dce6539b62904a1cb0b5862e84ba06f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526943,
+            "venue_id":639559367
+        }
+    ],
     "wof:id":639559367,
-    "wof:lastmodified":1466695958,
+    "wof:lastmodified":1492061015,
     "wof:name":"Harvey K Bucholtz MD",
     "wof:parent_id":420526943,
     "wof:placetype":"venue",

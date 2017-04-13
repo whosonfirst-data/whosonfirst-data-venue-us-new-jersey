@@ -2,9 +2,14 @@
   "id": 638801437,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mohawk Dr Burlington NJ 08016",
+    "addr:housenumber":"15",
+    "addr:postcode":"08016",
+    "addr:street":"Mohawk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.805095,40.075451,-74.805095,40.075451",
     "geom:latitude":40.075451,
     "geom:longitude":-74.805095,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41Ie2pPCFw3c0lOWTOF5wM_40.075451_-74.805095@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280262,
     "wof:geomhash":"00df1aacba38d6daedcbebd449e079a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":638801437
+        }
+    ],
     "wof:id":638801437,
-    "wof:lastmodified":1466685773,
+    "wof:lastmodified":1492082111,
     "wof:name":"Kleen- Tech Maintance Service",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

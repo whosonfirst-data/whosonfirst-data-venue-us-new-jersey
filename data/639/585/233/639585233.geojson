@@ -2,9 +2,14 @@
   "id": 639585233,
   "type": "Feature",
   "properties": {
+    "addr:full":"238 Hillcrest Ave Somerset NJ 08873",
+    "addr:housenumber":"238",
+    "addr:postcode":"08873",
+    "addr:street":"Hillcrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.48594,40.495026,-74.48594,40.495026",
     "geom:latitude":40.495026,
     "geom:longitude":-74.48594,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wvyIeYXYxJbGW38Q8wEFn_40.495026_-74.485940@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301130,
     "wof:geomhash":"1b6b91fa6c70a63a00bc8301a90ae46b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639585233
+        }
+    ],
     "wof:id":639585233,
-    "wof:lastmodified":1466696436,
+    "wof:lastmodified":1492029468,
     "wof:name":"Fire District 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

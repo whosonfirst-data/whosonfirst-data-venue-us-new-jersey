@@ -2,9 +2,14 @@
   "id": 655495473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cherry St Lambertville NJ 08530",
+    "addr:housenumber":"1",
+    "addr:postcode":"08530",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.947508,40.376984,-74.947508,40.376984",
     "geom:latitude":40.376984,
     "geom:longitude":-74.947508,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.cvs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PEgFMGgXNRFcNx9v9Keur_40.376984_-74.947508@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461308639,
     "wof:geomhash":"d79cac7bd55d41e5dee6573d3a22f315",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655495473
+        }
+    ],
     "wof:id":655495473,
-    "wof:lastmodified":1466677952,
+    "wof:lastmodified":1492053547,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

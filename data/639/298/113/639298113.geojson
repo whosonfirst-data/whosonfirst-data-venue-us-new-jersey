@@ -2,9 +2,14 @@
   "id": 639298113,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Piermont Rd Cresskill NJ 07626",
+    "addr:housenumber":"80",
+    "addr:postcode":"07626",
+    "addr:street":"Piermont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962381,40.940152,-73.962381,40.940152",
     "geom:latitude":40.940152,
     "geom:longitude":-73.962381,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06ENola1ceFFy3soubTuMe_40.940152_-73.962381@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291929,
     "wof:geomhash":"200a5ba96c78d8126045d82e4a3ec9fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":639298113
+        }
+    ],
     "wof:id":639298113,
-    "wof:lastmodified":1466691089,
+    "wof:lastmodified":1492040077,
     "wof:name":"Gatsby's Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

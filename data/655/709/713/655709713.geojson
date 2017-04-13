@@ -2,9 +2,14 @@
   "id": 655709713,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Anderson Ave # B Fairview NJ 07022",
+    "addr:housenumber":"149",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave # B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.997398,40.814301,-73.997398,40.814301",
     "geom:latitude":40.814301,
     "geom:longitude":-73.997398,
@@ -28,7 +33,14 @@
         "shade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u8ol0mji4XlwEveAc7hbs_40.814301_-73.997398@1303262251"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317755,
     "wof:geomhash":"485c7fc51d047b9dc71bf10dbecf9039",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655709713
+        }
+    ],
     "wof:id":655709713,
-    "wof:lastmodified":1466684605,
+    "wof:lastmodified":1492026748,
     "wof:name":"Nelson Vertical Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

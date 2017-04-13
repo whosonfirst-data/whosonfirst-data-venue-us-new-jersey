@@ -2,9 +2,14 @@
   "id": 655486243,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Rymon Rd Washington NJ 07882",
+    "addr:housenumber":"124",
+    "addr:postcode":"07882",
+    "addr:street":"Rymon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978703,40.73163,-74.978703,40.73163",
     "geom:latitude":40.73163,
     "geom:longitude":-74.978703,
@@ -30,7 +35,10 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23exoO9x9XVehZ3xUwfxiN_40.731630_-74.978703@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461308253,
     "wof:geomhash":"acedd641728652b829715a5c09623401",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655486243
+        }
+    ],
     "wof:id":655486243,
-    "wof:lastmodified":1466677712,
+    "wof:lastmodified":1492057028,
     "wof:name":"A Class Floor Sanding",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

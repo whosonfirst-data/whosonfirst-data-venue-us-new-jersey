@@ -2,9 +2,14 @@
   "id": 655579091,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Garfield Ct Washington NJ 07882",
+    "addr:housenumber":"4",
+    "addr:postcode":"07882",
+    "addr:street":"Garfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.038918,40.73382,-75.038918,40.73382",
     "geom:latitude":40.73382,
     "geom:longitude":-75.038918,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K9Epi4BTfLj8HzrEiXtfv_40.733820_-75.038918@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461312122,
     "wof:geomhash":"1597b4dca183004f82cf8606f2e13818",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655579091
+        }
+    ],
     "wof:id":655579091,
-    "wof:lastmodified":1466680236,
+    "wof:lastmodified":1492051688,
     "wof:name":"Allen Portia",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

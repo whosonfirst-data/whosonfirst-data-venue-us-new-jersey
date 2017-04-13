@@ -2,9 +2,14 @@
   "id": 638783497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2025 Hamburg Tpke Wayne NJ 07470",
+    "addr:housenumber":"2025",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263952,40.972376,-74.263952,40.972376",
     "geom:latitude":40.972376,
     "geom:longitude":-74.263952,
@@ -29,7 +34,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cqqaW3YhyBTmUSffRnrDi_40.972376_-74.263952@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461279878,
     "wof:geomhash":"0e2cd9d1285d91ab5d151e11d336e6f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638783497
+        }
+    ],
     "wof:id":638783497,
-    "wof:lastmodified":1466683482,
+    "wof:lastmodified":1492023613,
     "wof:name":"Adult Pediatric Urology Ctr PA",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

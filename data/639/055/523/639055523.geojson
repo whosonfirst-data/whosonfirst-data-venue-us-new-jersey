@@ -2,9 +2,14 @@
   "id": 639055523,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 School House Rd Pittstown NJ 08867",
+    "addr:housenumber":"61",
+    "addr:postcode":"08867",
+    "addr:street":"School House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02547,40.580391,-75.02547,40.580391",
     "geom:latitude":40.580391,
     "geom:longitude":-75.02547,
@@ -24,7 +29,11 @@
     "sg:postcode":"08867",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527041,
+        420527077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n2dqwebd3qalEoay4SIqo_40.580391_-75.025470@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461286386,
     "wof:geomhash":"52c78da309a9dcbcc71b1f826bec60ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527041,
+            "venue_id":639055523
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527077,
+            "venue_id":639055523
+        }
+    ],
     "wof:id":639055523,
-    "wof:lastmodified":1466674412,
+    "wof:lastmodified":1492053526,
     "wof:name":"Byrnes Land Co LLC",
-    "wof:parent_id":420527077,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

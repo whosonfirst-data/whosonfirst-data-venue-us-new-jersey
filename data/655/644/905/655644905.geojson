@@ -2,9 +2,14 @@
   "id": 655644905,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Sunset Rd Willingboro NJ 08046",
+    "addr:housenumber":"215",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882743,40.048636,-74.882743,40.048636",
     "geom:latitude":40.048636,
     "geom:longitude":-74.882743,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69ApqEW208S4PXFA6pDiIV_40.048636_-74.882743@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314968,
     "wof:geomhash":"951b8c653846cbf5d66c1c33400e74df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655644905
+        }
+    ],
     "wof:id":655644905,
-    "wof:lastmodified":1466682756,
+    "wof:lastmodified":1492023717,
     "wof:name":"Quest Diagnostics",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

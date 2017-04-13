@@ -2,9 +2,14 @@
   "id": 655834025,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Green Farm Ln Stockton NJ 08559",
+    "addr:housenumber":"9",
+    "addr:postcode":"08559",
+    "addr:street":"Green Farm Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.931355,40.444609,-74.931355,40.444609",
     "geom:latitude":40.444609,
     "geom:longitude":-74.931355,
@@ -30,7 +35,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ypDSfgjzaNgRuyZeEJBB6_40.444609_-74.931355@1303262282"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461322825,
     "wof:geomhash":"813c2b0f3a8e57f6a9c402bb7e2e0183",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":655834025
+        }
+    ],
     "wof:id":655834025,
-    "wof:lastmodified":1466687742,
+    "wof:lastmodified":1492068333,
     "wof:name":"Z2a",
     "wof:parent_id":420527135,
     "wof:placetype":"venue",

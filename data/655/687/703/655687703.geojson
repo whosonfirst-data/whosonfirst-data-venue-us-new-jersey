@@ -2,9 +2,14 @@
   "id": 655687703,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Sloan St South Orange NJ 07079",
+    "addr:housenumber":"11",
+    "addr:postcode":"07079",
+    "addr:street":"Sloan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260095,40.746118,-74.260095,40.746118",
     "geom:latitude":40.746118,
     "geom:longitude":-74.260095,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JVkXXc3hm4ij8uLn8Cdl7_40.746118_-74.260095@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316766,
     "wof:geomhash":"e0a5121b1dfd9511ebbaf49831bf6fdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655687703
+        }
+    ],
     "wof:id":655687703,
-    "wof:lastmodified":1466684077,
+    "wof:lastmodified":1492041297,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

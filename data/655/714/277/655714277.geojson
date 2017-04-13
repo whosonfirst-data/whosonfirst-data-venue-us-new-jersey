@@ -2,9 +2,14 @@
   "id": 655714277,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"89",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136565,40.784431,-74.136565,40.784431",
     "geom:latitude":40.784431,
     "geom:longitude":-74.136565,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59xMIegwrjB7duF0eLRz6V_40.784431_-74.136565@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317938,
     "wof:geomhash":"12e277c68b68d560b32901f27c1769b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714277
+        }
+    ],
     "wof:id":655714277,
-    "wof:lastmodified":1466684583,
+    "wof:lastmodified":1492024370,
     "wof:name":"AAA Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

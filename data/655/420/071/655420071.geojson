@@ -2,9 +2,14 @@
   "id": 655420071,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 Buttonwood Dr Lanoka Harbor NJ 08734",
+    "addr:housenumber":"507",
+    "addr:postcode":"08734",
+    "addr:street":"Buttonwood Dr Lanoka",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172675,39.856517,-74.172675,39.856517",
     "geom:latitude":39.856517,
     "geom:longitude":-74.172675,
@@ -32,8 +37,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85836071,
-        102081485
+        85868689,
+        102081485,
+        85836071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,22 @@
         {
             "country_id":85633793,
             "county_id":102081485,
+            "neighbourhood_id":85868689,
+            "region_id":85688607,
+            "venue_id":655420071
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
             "neighbourhood_id":85836071,
             "region_id":85688607,
             "venue_id":655420071
         }
     ],
     "wof:id":655420071,
-    "wof:lastmodified":1466675989,
+    "wof:lastmodified":1492024095,
     "wof:name":"Wright Co",
-    "wof:parent_id":85836071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

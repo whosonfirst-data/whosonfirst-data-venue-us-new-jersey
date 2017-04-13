@@ -2,9 +2,14 @@
   "id": 655374635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1140 Burnt Tavern Rd Brick NJ 08724",
+    "addr:housenumber":"1140",
+    "addr:postcode":"08724",
+    "addr:street":"Burnt Tavern Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139224,40.096674,-74.139224,40.096674",
     "geom:latitude":40.096674,
     "geom:longitude":-74.139224,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XY8D1rYsbY9vP4jAd1QHZ_40.096674_-74.139224@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461303607,
     "wof:geomhash":"3c70f8e18f1c1236a87f5131b9e77fdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655374635
+        }
+    ],
     "wof:id":655374635,
-    "wof:lastmodified":1466674840,
+    "wof:lastmodified":1492047743,
     "wof:name":"Louis M Iorio MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

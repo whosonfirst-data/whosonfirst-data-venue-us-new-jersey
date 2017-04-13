@@ -2,9 +2,14 @@
   "id": 639549259,
   "type": "Feature",
   "properties": {
+    "addr:full":"7024 Irving Ave Pennsauken NJ 08109",
+    "addr:housenumber":"7024",
+    "addr:postcode":"08109",
+    "addr:street":"Irving Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.043608,39.960725,-75.043608,39.960725",
     "geom:latitude":39.960725,
     "geom:longitude":-75.043608,
@@ -29,7 +34,14 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07vdZXBVvgwligVFgVpUIz_39.960725_-75.043608@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461299732,
     "wof:geomhash":"464a6a97aa6be2848436bc7eb8bd80d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639549259
+        }
+    ],
     "wof:id":639549259,
-    "wof:lastmodified":1466695687,
+    "wof:lastmodified":1492029378,
     "wof:name":"Grass Guys",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

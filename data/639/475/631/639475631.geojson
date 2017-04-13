@@ -2,9 +2,14 @@
   "id": 639475631,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Granite Ln Willingboro NJ 08046",
+    "addr:housenumber":"6",
+    "addr:postcode":"08046",
+    "addr:street":"Granite Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.883308,40.021571,-74.883308,40.021571",
     "geom:latitude":40.021571,
     "geom:longitude":-74.883308,
@@ -27,7 +32,11 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jhhjPW1xmpLYI8CvtYUo6_40.021571_-74.883308@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461296418,
     "wof:geomhash":"c27959a72d09a13f16d9134cd1abbb5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":639475631
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639475631
+        }
+    ],
     "wof:id":639475631,
-    "wof:lastmodified":1466694288,
+    "wof:lastmodified":1492066393,
     "wof:name":"Brenda Taylor Travel Agency",
-    "wof:parent_id":420526697,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

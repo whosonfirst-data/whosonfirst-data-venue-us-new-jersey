@@ -2,9 +2,14 @@
   "id": 638861941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Chapel Ave W Cherry Hill NJ 08002",
+    "addr:housenumber":"2700",
+    "addr:postcode":"08002",
+    "addr:street":"Chapel Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.011588,39.927948,-75.011588,39.927948",
     "geom:latitude":39.927948,
     "geom:longitude":-75.011588,
@@ -27,7 +32,15 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131,
+        85976227
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ueAHHnYTsC9Alfhwr24Gb_39.927948_-75.011588@1294171694"
@@ -35,9 +48,28 @@
     "wof:country":"US",
     "wof:created":1461281796,
     "wof:geomhash":"c48ca6432c86c41fd68790f611fceef2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":638861941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976227,
+            "region_id":85688607,
+            "venue_id":638861941
+        }
+    ],
     "wof:id":638861941,
-    "wof:lastmodified":1466689414,
+    "wof:lastmodified":1492052215,
     "wof:name":"Arden Courts Manorcare Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

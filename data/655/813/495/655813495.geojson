@@ -2,9 +2,14 @@
   "id": 655813495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Hospital Dr Willingboro NJ 08046",
+    "addr:housenumber":"1113",
+    "addr:postcode":"08046",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.880087,40.04813,-74.880087,40.04813",
     "geom:latitude":40.04813,
     "geom:longitude":-74.880087,
@@ -28,7 +33,10 @@
         "optical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PqBDBvqlvbxkcvHI9cBS5_40.048130_-74.880087@1303262276"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321971,
     "wof:geomhash":"898bc098b8ecc1cd0c1983c95d5e28e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813495
+        }
+    ],
     "wof:id":655813495,
-    "wof:lastmodified":1466687245,
+    "wof:lastmodified":1492065261,
     "wof:name":"Stacey L Ackerman Md",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

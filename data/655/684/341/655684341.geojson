@@ -2,9 +2,14 @@
   "id": 655684341,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 North Ave Plainfield NJ 07062",
+    "addr:housenumber":"717",
+    "addr:postcode":"07062",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.408735,40.626853,-74.408735,40.626853",
     "geom:latitude":40.626853,
     "geom:longitude":-74.408735,
@@ -21,7 +26,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Aiy0W78UFsckR7fZeA2Ib_40.626853_-74.408735@1294171694"
@@ -29,9 +41,19 @@
     "wof:country":"US",
     "wof:created":1461316616,
     "wof:geomhash":"5110579098fd52637869f073298c8d3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":655684341
+        }
+    ],
     "wof:id":655684341,
-    "wof:lastmodified":1466683817,
+    "wof:lastmodified":1492068708,
     "wof:name":"Queen City Fuel Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

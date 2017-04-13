@@ -2,9 +2,14 @@
   "id": 655365713,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Long Ave Hillside NJ 07205",
+    "addr:housenumber":"323",
+    "addr:postcode":"07205",
+    "addr:street":"Long Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232669,40.698882,-74.232669,40.698882",
     "geom:latitude":40.698882,
     "geom:longitude":-74.232669,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73674U52oEcTKtkUFZn0Z1_40.698882_-74.232669@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303248,
     "wof:geomhash":"830bde4163153fecaed9a2785442b189",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655365713
+        }
+    ],
     "wof:id":655365713,
-    "wof:lastmodified":1466674601,
+    "wof:lastmodified":1492051367,
     "wof:name":"K&K Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

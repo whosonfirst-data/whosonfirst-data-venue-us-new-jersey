@@ -2,9 +2,14 @@
   "id": 639559649,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Brookfield Ave Glen Rock NJ 07452",
+    "addr:housenumber":"48",
+    "addr:postcode":"07452",
+    "addr:street":"Brookfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128282,40.953096,-74.128282,40.953096",
     "geom:latitude":40.953096,
     "geom:longitude":-74.128282,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DBlPVc3P38ifkCfZqP215_40.953096_-74.128282@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300116,
     "wof:geomhash":"6bedca23a745a46622a60a478a020ae1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639559649
+        }
+    ],
     "wof:id":639559649,
-    "wof:lastmodified":1466696213,
+    "wof:lastmodified":1492049492,
     "wof:name":"Design Tech Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

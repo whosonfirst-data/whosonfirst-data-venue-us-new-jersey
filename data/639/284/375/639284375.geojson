@@ -2,9 +2,14 @@
   "id": 639284375,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"456",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135067,40.813731,-74.135067,40.813731",
     "geom:latitude":40.813731,
     "geom:longitude":-74.135067,
@@ -29,7 +34,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fqBGfbfYudzif78v9g3ay_40.813731_-74.135067@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461291637,
     "wof:geomhash":"1a43474730b8245b85bbeebb66329ab0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":639284375
+        }
+    ],
     "wof:id":639284375,
-    "wof:lastmodified":1466690998,
+    "wof:lastmodified":1492067919,
     "wof:name":"Order Amid Chaos Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

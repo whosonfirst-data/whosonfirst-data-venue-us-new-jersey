@@ -2,9 +2,14 @@
   "id": 655733485,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"37",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2971,40.6184,-74.2971,40.6184",
     "geom:latitude":40.6184,
     "geom:longitude":-74.2971,
@@ -27,7 +32,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rOnsAiwqDB7kpwzrurN2E_40.618400_-74.297100@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318663,
     "wof:geomhash":"42265c26d54a183950f032cfe5ef93ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733485
+        }
+    ],
     "wof:id":655733485,
-    "wof:lastmodified":1466685142,
+    "wof:lastmodified":1492028474,
     "wof:name":"Nby Beauty Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

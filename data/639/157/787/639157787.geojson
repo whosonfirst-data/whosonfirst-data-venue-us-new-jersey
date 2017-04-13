@@ -2,9 +2,14 @@
   "id": 639157787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 3rd Ave Spring Lake NJ 07762",
+    "addr:housenumber":"1405",
+    "addr:postcode":"07762",
+    "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.027439,40.155439,-74.027439,40.155439",
     "geom:latitude":40.155439,
     "geom:longitude":-74.027439,
@@ -27,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478393,
+        85633793,
+        85975397,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AuhAggVh9qyGZxqtlc5wY_40.155439_-74.027439@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288704,
     "wof:geomhash":"1d45af75348149a867d020d851a11d2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478393,
+            "locality_id":85975397,
+            "region_id":85688607,
+            "venue_id":639157787
+        }
+    ],
     "wof:id":639157787,
-    "wof:lastmodified":1466682615,
+    "wof:lastmodified":1492040365,
     "wof:name":"JPM Construction Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

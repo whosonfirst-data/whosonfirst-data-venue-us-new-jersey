@@ -2,9 +2,14 @@
   "id": 639233535,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Parsonage Lot Rd Lebanon NJ 08833",
+    "addr:housenumber":"18",
+    "addr:postcode":"08833",
+    "addr:street":"Parsonage Lot Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.785764,40.684236,-74.785764,40.684236",
     "geom:latitude":40.684236,
     "geom:longitude":-74.785764,
@@ -28,7 +33,10 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZbNa66h0Whs5HhgQUjMfC_40.684236_-74.785764@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290438,
     "wof:geomhash":"bceeea18e38209498e15e578b2abbe3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527129,
+            "venue_id":639233535
+        }
+    ],
     "wof:id":639233535,
-    "wof:lastmodified":1466689729,
+    "wof:lastmodified":1492044136,
     "wof:name":"Laurmar Inc",
     "wof:parent_id":420527129,
     "wof:placetype":"venue",

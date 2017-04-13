@@ -2,9 +2,14 @@
   "id": 639575439,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 S Creek Dr West Creek NJ 08092",
+    "addr:housenumber":"106",
+    "addr:postcode":"08092",
+    "addr:street":"S Creek Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281964,39.621975,-74.281964,39.621975",
     "geom:latitude":39.621975,
     "geom:longitude":-74.281964,
@@ -28,7 +33,10 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o5TpQ17t5Y9aqEBsGUsfV_39.621975_-74.281964@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300720,
     "wof:geomhash":"90ac35886f9ea5e55fcde18dd23f285f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527409,
+            "venue_id":639575439
+        }
+    ],
     "wof:id":639575439,
-    "wof:lastmodified":1466696368,
+    "wof:lastmodified":1492049584,
     "wof:name":"Forge Financial Svc",
     "wof:parent_id":420527409,
     "wof:placetype":"venue",

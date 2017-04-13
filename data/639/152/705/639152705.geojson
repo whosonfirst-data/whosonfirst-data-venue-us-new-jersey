@@ -2,9 +2,14 @@
   "id": 639152705,
   "type": "Feature",
   "properties": {
+    "addr:full":"845 Kearny Ave Kearny NJ 07032",
+    "addr:housenumber":"845",
+    "addr:postcode":"07032",
+    "addr:street":"Kearny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139342,40.780807,-74.139342,40.780807",
     "geom:latitude":40.780807,
     "geom:longitude":-74.139342,
@@ -24,7 +29,14 @@
     "sg:postcode":"07032",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_363PdgO8hksqgjY8Fc0hDN_40.780807_-74.139342@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288581,
     "wof:geomhash":"36eddf6efbf22dc3beaedda30c3679f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":639152705
+        }
+    ],
     "wof:id":639152705,
-    "wof:lastmodified":1466681780,
+    "wof:lastmodified":1492074578,
     "wof:name":"North Jersey Administrative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

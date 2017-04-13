@@ -2,9 +2,14 @@
   "id": 639125633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1140 State Rte 88 Lakewood NJ 08701",
+    "addr:housenumber":"1140",
+    "addr:postcode":"08701",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.173012,40.083596,-74.173012,40.083596",
     "geom:latitude":40.083596,
     "geom:longitude":-74.173012,
@@ -27,7 +32,11 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NBDQWir56Cy5iSuq3XOzY_40.083596_-74.173012@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461287981,
     "wof:geomhash":"ea977b861e494870715ebe4731aa60f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639125633
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639125633
+        }
+    ],
     "wof:id":639125633,
-    "wof:lastmodified":1466677776,
+    "wof:lastmodified":1492047922,
     "wof:name":"Pine Belt Enterprises",
-    "wof:parent_id":420527407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

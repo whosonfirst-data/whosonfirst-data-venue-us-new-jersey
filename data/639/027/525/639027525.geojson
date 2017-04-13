@@ -2,9 +2,14 @@
   "id": 639027525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1499 Brown Ave Union NJ 07083",
+    "addr:housenumber":"1499",
+    "addr:postcode":"07083",
+    "addr:street":"Brown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282857,40.716331,-74.282857,40.716331",
     "geom:latitude":40.716331,
     "geom:longitude":-74.282857,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IOUEWdkGsjwiDcPfUlaxV_40.716331_-74.282857@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461285729,
     "wof:geomhash":"aa75261f4cfa2fbd75a287f1ae445a00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639027525
+        }
+    ],
     "wof:id":639027525,
-    "wof:lastmodified":1466673718,
+    "wof:lastmodified":1492076777,
     "wof:name":"Garden AR",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

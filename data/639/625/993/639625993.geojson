@@ -2,9 +2,14 @@
   "id": 639625993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"1200",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220671,40.054314,-74.220671,40.054314",
     "geom:latitude":40.054314,
     "geom:longitude":-74.220671,
@@ -35,7 +40,10 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FGptwak67Tr9hfSyKLcvG_40.054314_-74.220671@1294171694"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461302733,
     "wof:geomhash":"a321b4e1c26ba9a1f41aeb1aeec9adac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":639625993
+        }
+    ],
     "wof:id":639625993,
-    "wof:lastmodified":1466697406,
+    "wof:lastmodified":1492056709,
     "wof:name":"All Star Specialties & Prtg",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

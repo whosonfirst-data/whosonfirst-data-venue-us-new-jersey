@@ -2,9 +2,14 @@
   "id": 638653009,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Herbert Rd Robbinsville NJ 08691",
+    "addr:housenumber":"18",
+    "addr:postcode":"08691",
+    "addr:street":"Herbert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.518856,40.198841,-74.518856,40.198841",
     "geom:latitude":40.198841,
     "geom:longitude":-74.518856,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZvBGkR14Kywp1QgcMEPl3_40.198841_-74.518856@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275884,
     "wof:geomhash":"1ae51d69dd370b7b4490ed2435084d41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527281,
+            "venue_id":638653009
+        }
+    ],
     "wof:id":638653009,
-    "wof:lastmodified":1466673840,
+    "wof:lastmodified":1492041911,
     "wof:name":"D & I Excavating & Trucking",
     "wof:parent_id":420527281,
     "wof:placetype":"venue",

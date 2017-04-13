@@ -2,9 +2,14 @@
   "id": 655558631,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Monmouth Rd Jackson NJ 08527",
+    "addr:housenumber":"509",
+    "addr:postcode":"08527",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.416715,40.165361,-74.416715,40.165361",
     "geom:latitude":40.165361,
     "geom:longitude":-74.416715,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7FTyXdEqNThAJ0XWcy3q_40.165361_-74.416715@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311201,
     "wof:geomhash":"01b24510f4163b8a22158f927a677cc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655558631
+        }
+    ],
     "wof:id":655558631,
-    "wof:lastmodified":1466679837,
+    "wof:lastmodified":1492048154,
     "wof:name":"De Bow's United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

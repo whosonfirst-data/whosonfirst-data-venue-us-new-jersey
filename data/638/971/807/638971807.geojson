@@ -2,9 +2,14 @@
   "id": 638971807,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Ramapo Valley Rd Mahwah NJ 07430",
+    "addr:housenumber":"145",
+    "addr:postcode":"07430",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.155512,41.100769,-74.155512,41.100769",
     "geom:latitude":41.100769,
     "geom:longitude":-74.155512,
@@ -30,7 +35,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QJg57v7RJPYsyUil8cz0E_41.100769_-74.155512@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461284484,
     "wof:geomhash":"0d8e5fc68bb8007dbe71223d0fce6723",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638971807
+        }
+    ],
     "wof:id":638971807,
-    "wof:lastmodified":1466691877,
+    "wof:lastmodified":1492051909,
     "wof:name":"On-Site Fleet Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

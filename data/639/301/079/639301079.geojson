@@ -2,9 +2,14 @@
   "id": 639301079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Earl St Union NJ 07083",
+    "addr:housenumber":"1701",
+    "addr:postcode":"07083",
+    "addr:street":"Earl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256666,40.699506,-74.256666,40.699506",
     "geom:latitude":40.699506,
     "geom:longitude":-74.256666,
@@ -27,7 +32,10 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wz5l60u2NgcKFG2xktXjf_40.699506_-74.256666@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291986,
     "wof:geomhash":"85a20a622631041bf8747c41e40a4861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639301079
+        }
+    ],
     "wof:id":639301079,
-    "wof:lastmodified":1466691236,
+    "wof:lastmodified":1492057646,
     "wof:name":"Webzest",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655457133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1378 Broad St Clifton NJ 07013",
+    "addr:housenumber":"1378",
+    "addr:postcode":"07013",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.180207,40.851103,-74.180207,40.851103",
     "geom:latitude":40.851103,
     "geom:longitude":-74.180207,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qyoqzGyJaecpcbdblAm97_40.851103_-74.180207@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307036,
     "wof:geomhash":"52e9dcd61f93d007d16656bff90ef672",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655457133
+        }
+    ],
     "wof:id":655457133,
-    "wof:lastmodified":1466676986,
+    "wof:lastmodified":1492029488,
     "wof:name":"Douglas Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

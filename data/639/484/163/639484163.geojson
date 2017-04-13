@@ -2,9 +2,14 @@
   "id": 639484163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Enterprise Ave N Secaucus NJ 07094",
+    "addr:housenumber":"1",
+    "addr:postcode":"07094",
+    "addr:street":"Enterprise Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067809,40.786062,-74.067809,40.786062",
     "geom:latitude":40.786062,
     "geom:longitude":-74.067809,
@@ -28,7 +33,15 @@
         "refrigeration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85836607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dW45UIAeYWoF8nGQc4jq2_40.786062_-74.067809@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461296779,
     "wof:geomhash":"4c5cb098698dcacccb20ba05b4416e36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85836607,
+            "region_id":85688607,
+            "venue_id":639484163
+        }
+    ],
     "wof:id":639484163,
-    "wof:lastmodified":1466694258,
+    "wof:lastmodified":1492074787,
     "wof:name":"Christian Salvesen Holdings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

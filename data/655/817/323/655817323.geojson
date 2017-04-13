@@ -2,9 +2,14 @@
   "id": 655817323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Tenby Chase Dr Delran NJ 08075",
+    "addr:housenumber":"1",
+    "addr:postcode":"08075",
+    "addr:street":"Tenby Chase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.963959,40.01038,-74.963959,40.01038",
     "geom:latitude":40.01038,
     "geom:longitude":-74.963959,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"http://www.kindercare.com/our-centers/center-details/300519/?cid=YP_KC300519",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wsB6kWs23va9EmQ5F1vQs_40.010380_-74.963959@1303262277"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461322167,
     "wof:geomhash":"73909cc7de69ce479ddfb07052c3506e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":655817323
+        }
+    ],
     "wof:id":655817323,
-    "wof:lastmodified":1466687370,
+    "wof:lastmodified":1492056536,
     "wof:name":"Delran KinderCare",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

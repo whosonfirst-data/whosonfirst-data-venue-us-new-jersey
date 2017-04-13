@@ -2,9 +2,14 @@
   "id": 655546013,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Roseland Ct Princeton Jct NJ 08550",
+    "addr:housenumber":"15",
+    "addr:postcode":"08550",
+    "addr:street":"Roseland Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.585772,40.293856,-74.585772,40.293856",
     "geom:latitude":40.293856,
     "geom:longitude":-74.585772,
@@ -28,7 +33,13 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DGPfiG8cipzg1JNBy7R70_40.293856_-74.585772@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310651,
     "wof:geomhash":"171d081d9e5df2b7676d5f7a583ea607",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655546013
+        }
+    ],
     "wof:id":655546013,
-    "wof:lastmodified":1466679283,
+    "wof:lastmodified":1492049451,
     "wof:name":"Southport Financial Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

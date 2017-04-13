@@ -2,9 +2,14 @@
   "id": 655654569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 Macarthur Blvd Mahwah NJ 07430",
+    "addr:housenumber":"1007",
+    "addr:postcode":"07430",
+    "addr:street":"Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167746,41.077528,-74.167746,41.077528",
     "geom:latitude":41.077528,
     "geom:longitude":-74.167746,
@@ -24,7 +29,13 @@
     "sg:postcode":"07430",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SrzJvS1fZVba5oCk2u1n5_41.077528_-74.167746@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461315364,
     "wof:geomhash":"a74f97112980d601a3635a5ad0510cb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655654569
+        }
+    ],
     "wof:id":655654569,
-    "wof:lastmodified":1466682988,
+    "wof:lastmodified":1492027787,
     "wof:name":"Pinnacle Commercial Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

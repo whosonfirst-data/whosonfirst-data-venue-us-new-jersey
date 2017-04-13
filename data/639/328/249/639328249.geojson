@@ -2,9 +2,14 @@
   "id": 639328249,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Olde Noah Hunt Rd Clarksburg NJ 08510",
+    "addr:housenumber":"37",
+    "addr:postcode":"08510",
+    "addr:street":"Olde Noah Hunt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.453701,40.168298,-74.453701,40.168298",
     "geom:latitude":40.168298,
     "geom:longitude":-74.453701,
@@ -30,8 +35,11 @@
     "wof:belongsto":[
         85688607,
         85633793,
+        85826059,
+        102085049,
         85808485,
-        102081485
+        102081485,
+        85851109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +51,30 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85826059,
+            "region_id":85688607,
+            "venue_id":639328249
+        },
+        {
+            "country_id":85633793,
             "county_id":102081485,
             "neighbourhood_id":85808485,
+            "region_id":85688607,
+            "venue_id":639328249
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85851109,
             "region_id":85688607,
             "venue_id":639328249
         }
     ],
     "wof:id":639328249,
-    "wof:lastmodified":1466692152,
+    "wof:lastmodified":1492051514,
     "wof:name":"Allen's Lawn & Tree Svc",
-    "wof:parent_id":85808485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

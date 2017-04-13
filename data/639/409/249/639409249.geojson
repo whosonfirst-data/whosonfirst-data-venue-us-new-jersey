@@ -2,9 +2,14 @@
   "id": 639409249,
   "type": "Feature",
   "properties": {
+    "addr:full":"934 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"934",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272712,40.694706,-74.272712,40.694706",
     "geom:latitude":40.694706,
     "geom:longitude":-74.272712,
@@ -24,7 +29,14 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975841,
+        102085995,
+        85892527,
+        420527721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AwK4i3zFGosPU57xPA1Id_40.694706_-74.272712@1294171694"
@@ -32,11 +44,25 @@
     "wof:country":"US",
     "wof:created":1461294474,
     "wof:geomhash":"7c4a9e777a56d175f3f24644569ddeb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "locality_id":85975841,
+            "neighbourhood_id":85892527,
+            "region_id":85688607,
+            "venue_id":639409249
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527721,
+            "venue_id":639409249
+        }
+    ],
     "wof:id":639409249,
-    "wof:lastmodified":1466693106,
+    "wof:lastmodified":1492055917,
     "wof:name":"Janci Inc",
-    "wof:parent_id":420527721,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

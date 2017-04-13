@@ -2,9 +2,14 @@
   "id": 639452541,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 New Rd Southampton NJ 08088",
+    "addr:housenumber":"401",
+    "addr:postcode":"08088",
+    "addr:street":"New Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.725856,39.896961,-74.725856,39.896961",
     "geom:latitude":39.896961,
     "geom:longitude":-74.725856,
@@ -38,7 +43,8 @@
         85688607,
         85633793,
         85844053,
-        102087415
+        102087415,
+        420526613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,17 @@
             "neighbourhood_id":85844053,
             "region_id":85688607,
             "venue_id":639452541
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639452541
         }
     ],
     "wof:id":639452541,
-    "wof:lastmodified":1466693498,
+    "wof:lastmodified":1492064563,
     "wof:name":"Jastin Inc",
-    "wof:parent_id":85844053,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

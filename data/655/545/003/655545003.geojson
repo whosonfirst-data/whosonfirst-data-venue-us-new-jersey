@@ -2,9 +2,14 @@
   "id": 655545003,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Lehigh Ave Lakewood NJ 08701",
+    "addr:housenumber":"175",
+    "addr:postcode":"08701",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172737,40.072747,-74.172737,40.072747",
     "geom:latitude":40.072747,
     "geom:longitude":-74.172737,
@@ -27,7 +32,10 @@
         "railing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jLA3vZe2vfcgDm1083J3F_40.072747_-74.172737@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310615,
     "wof:geomhash":"f2063916f0c702ed0d8df1ea63de2e12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655545003
+        }
+    ],
     "wof:id":655545003,
-    "wof:lastmodified":1466679226,
+    "wof:lastmodified":1492045055,
     "wof:name":"Elk Composite Building Product",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638890989,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Dyer Ct Norwood NJ 07648",
+    "addr:housenumber":"75",
+    "addr:postcode":"07648",
+    "addr:street":"Dyer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.942455,40.985042,-73.942455,40.985042",
     "geom:latitude":40.985042,
     "geom:longitude":-73.942455,
@@ -29,7 +34,14 @@
         "for"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lls7JwBhPJTBfWykZwo9Q_40.985042_-73.942455@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461282519,
     "wof:geomhash":"3bc7c5002c8de244ef4b9b8bcce948c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":638890989
+        }
+    ],
     "wof:id":638890989,
-    "wof:lastmodified":1466690336,
+    "wof:lastmodified":1492038143,
     "wof:name":"S & S International Pdts & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

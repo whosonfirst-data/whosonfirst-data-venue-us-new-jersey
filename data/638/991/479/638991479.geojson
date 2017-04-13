@@ -2,9 +2,14 @@
   "id": 638991479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Bunker Hill Dr Cherry Hill NJ 08003",
+    "addr:housenumber":"1301",
+    "addr:postcode":"08003",
+    "addr:street":"Bunker Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987989,39.882045,-74.987989,39.882045",
     "geom:latitude":39.882045,
     "geom:longitude":-74.987989,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858601,
+        85807801,
         102191575,
         404477993,
         85633793,
-        85976229,
+        85976247,
         102081131,
-        85688607
+        85688607,
+        85858601,
+        85976229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +58,16 @@
             "country_id":85633793,
             "county_id":102081131,
             "localadmin_id":404477993,
+            "locality_id":85976247,
+            "neighbourhood_id":85807801,
+            "region_id":85688607,
+            "venue_id":638991479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
             "locality_id":85976229,
             "neighbourhood_id":85858601,
             "region_id":85688607,
@@ -58,9 +75,9 @@
         }
     ],
     "wof:id":638991479,
-    "wof:lastmodified":1466691974,
+    "wof:lastmodified":1492045142,
     "wof:name":"Empire Window and Glass",
-    "wof:parent_id":85858601,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

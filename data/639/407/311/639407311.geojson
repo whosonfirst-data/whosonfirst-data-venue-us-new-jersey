@@ -2,9 +2,14 @@
   "id": 639407311,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 State Rte 35 Keyport NJ 07735",
+    "addr:housenumber":"182",
+    "addr:postcode":"07735",
+    "addr:street":"State Rte 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226123,40.440054,-74.226123,40.440054",
     "geom:latitude":40.440054,
     "geom:longitude":-74.226123,
@@ -27,7 +32,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qwP4P7tvXdXrgKOAmYDzd_40.440054_-74.226123@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294430,
     "wof:geomhash":"ab52145236f3cf72cae9523f23117bb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":639407311
+        }
+    ],
     "wof:id":639407311,
-    "wof:lastmodified":1466693043,
+    "wof:lastmodified":1492047129,
     "wof:name":"Choice Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

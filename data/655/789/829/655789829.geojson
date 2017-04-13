@@ -2,9 +2,14 @@
   "id": 655789829,
   "type": "Feature",
   "properties": {
+    "addr:full":"179 High St Newton NJ 07860",
+    "addr:housenumber":"179",
+    "addr:postcode":"07860",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765603,41.055297,-74.765603,41.055297",
     "geom:latitude":41.055297,
     "geom:longitude":-74.765603,
@@ -27,7 +32,10 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wUHcP5bqHy0uxDWH0stNZ_41.055297_-74.765603@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320972,
     "wof:geomhash":"0d826d237b059c2797b59daf09cc78ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789829
+        }
+    ],
     "wof:id":655789829,
-    "wof:lastmodified":1466686731,
+    "wof:lastmodified":1492058511,
     "wof:name":"Crisafulli Chiropractic Center",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

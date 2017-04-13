@@ -2,9 +2,14 @@
   "id": 655733337,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Westfield Ave Ste 1 Clark NJ 07066",
+    "addr:housenumber":"5",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29562,40.617703,-74.29562,40.617703",
     "geom:latitude":40.617703,
     "geom:longitude":-74.29562,
@@ -33,7 +38,13 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24mEuZt2sTs9B3vxffbwrG_40.617703_-74.295620@1303262257"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461318657,
     "wof:geomhash":"8808f9d1380d74da1b721a37214b2571",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733337
+        }
+    ],
     "wof:id":655733337,
-    "wof:lastmodified":1466685103,
+    "wof:lastmodified":1492043858,
     "wof:name":"Club House Barbershop the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

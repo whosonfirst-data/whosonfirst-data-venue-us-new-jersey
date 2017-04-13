@@ -2,9 +2,14 @@
   "id": 655468523,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Everett Dr Princeton Jct NJ 08550",
+    "addr:housenumber":"51",
+    "addr:postcode":"08550",
+    "addr:street":"Everett Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.637956,40.303686,-74.637956,40.303686",
     "geom:latitude":40.303686,
     "geom:longitude":-74.637956,
@@ -34,7 +39,13 @@
         "corporate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n0gRsBdjufwihijEXvFXI_40.303686_-74.637956@1294171694"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461307523,
     "wof:geomhash":"6b1c078040e155a5e70b3b072c342e47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655468523
+        }
+    ],
     "wof:id":655468523,
-    "wof:lastmodified":1466677386,
+    "wof:lastmodified":1492028626,
     "wof:name":"Lat & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

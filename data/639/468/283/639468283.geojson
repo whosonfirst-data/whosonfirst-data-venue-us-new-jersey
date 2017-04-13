@@ -2,9 +2,14 @@
   "id": 639468283,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Totowa Rd Wayne NJ 07470",
+    "addr:housenumber":"250",
+    "addr:postcode":"07470",
+    "addr:street":"Totowa Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232703,40.914981,-74.232703,40.914981",
     "geom:latitude":40.914981,
     "geom:longitude":-74.232703,
@@ -27,7 +32,12 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85843063,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xCcayFkCl4fmdeWUrBLUi_40.914981_-74.232703@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461296116,
     "wof:geomhash":"394dd890410c164d08b38951d974a866",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081133,
+            "neighbourhood_id":85843063,
+            "region_id":85688607,
+            "venue_id":639468283
+        }
+    ],
     "wof:id":639468283,
-    "wof:lastmodified":1466693931,
+    "wof:lastmodified":1492047526,
     "wof:name":"My Bagel Heaven",
-    "wof:parent_id":420527487,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

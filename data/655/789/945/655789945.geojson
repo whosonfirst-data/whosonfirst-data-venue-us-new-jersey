@@ -2,9 +2,14 @@
   "id": 655789945,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Mill St Newton NJ 07860",
+    "addr:housenumber":"22",
+    "addr:postcode":"07860",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.754009,41.060422,-74.754009,41.060422",
     "geom:latitude":41.060422,
     "geom:longitude":-74.754009,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"http://www.newtontownhall.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cWlxCSeafkwudDWAKXaLL_41.060422_-74.754009@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320975,
     "wof:geomhash":"445fe11d62c3ed601e84e5da17bf0d21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789945
+        }
+    ],
     "wof:id":655789945,
-    "wof:lastmodified":1466686761,
+    "wof:lastmodified":1492070867,
     "wof:name":"Newton Fire Dept",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

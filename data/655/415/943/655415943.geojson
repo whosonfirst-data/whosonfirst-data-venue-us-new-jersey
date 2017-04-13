@@ -2,9 +2,14 @@
   "id": 655415943,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"117",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532356,40.561668,-74.532356,40.561668",
     "geom:latitude":40.561668,
     "geom:longitude":-74.532356,
@@ -24,7 +29,14 @@
     "sg:postcode":"08805",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vFZVDa2d586a9jCgIVINZ_40.561668_-74.532356@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461305305,
     "wof:geomhash":"ad617ffa56afa8e56d151f4df3773451",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655415943
+        }
+    ],
     "wof:id":655415943,
-    "wof:lastmodified":1466675979,
+    "wof:lastmodified":1492057034,
     "wof:name":"Bill's Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

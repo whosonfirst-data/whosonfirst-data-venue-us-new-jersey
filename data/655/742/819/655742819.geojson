@@ -2,9 +2,14 @@
   "id": 655742819,
   "type": "Feature",
   "properties": {
+    "addr:full":"2268 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2268",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285542,40.718375,-74.285542,40.718375",
     "geom:latitude":40.718375,
     "geom:longitude":-74.285542,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.thekitchenclassics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01VxuJDQjmU7jF3D3bZKn4_40.718375_-74.285542@1303262259"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461319019,
     "wof:geomhash":"83ba5af76cbe01699b375caab14ee067",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742819
+        }
+    ],
     "wof:id":655742819,
-    "wof:lastmodified":1466685463,
+    "wof:lastmodified":1492056789,
     "wof:name":"The Kitchen Classics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

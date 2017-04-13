@@ -2,9 +2,14 @@
   "id": 655555055,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Western Dr Howell NJ 07731",
+    "addr:housenumber":"50",
+    "addr:postcode":"07731",
+    "addr:street":"Western Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.151644,40.107315,-74.151644,40.107315",
     "geom:latitude":40.107315,
     "geom:longitude":-74.151644,
@@ -28,7 +33,10 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56KJXx4MvDKiRdCmHd5q57_40.107315_-74.151644@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311031,
     "wof:geomhash":"beabcace99f5eee66ee5039314d109bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655555055
+        }
+    ],
     "wof:id":655555055,
-    "wof:lastmodified":1466679502,
+    "wof:lastmodified":1492071769,
     "wof:name":"Computer Tutors Of Howell",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639451765,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Washington Ave Titusville NJ 08560",
+    "addr:housenumber":"14",
+    "addr:postcode":"08560",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8615,40.294318,-74.8615,40.294318",
     "geom:latitude":40.294318,
     "geom:longitude":-74.8615,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Anr8lBNPDwLgoEx5l7zA3_40.294318_-74.861500@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461295493,
     "wof:geomhash":"0ff33e0453e9ffad2fc61aa41c9ea019",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536911,
+            "venue_id":639451765
+        }
+    ],
     "wof:id":639451765,
-    "wof:lastmodified":1466693637,
+    "wof:lastmodified":1492042235,
     "wof:name":"Kram Consulting Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

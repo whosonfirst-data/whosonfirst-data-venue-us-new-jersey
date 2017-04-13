@@ -2,9 +2,14 @@
   "id": 639559853,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 11th Ave Hawthorne NJ 07506",
+    "addr:housenumber":"154",
+    "addr:postcode":"07506",
+    "addr:street":"11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146817,40.961236,-74.146817,40.961236",
     "geom:latitude":40.961236,
     "geom:longitude":-74.146817,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72Y82KcMmlpPvHG84bvEEe_40.961236_-74.146817@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300124,
     "wof:geomhash":"1354e9d673e9c411b3d1abc9330bb962",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":639559853
+        }
+    ],
     "wof:id":639559853,
-    "wof:lastmodified":1466696070,
+    "wof:lastmodified":1492081931,
     "wof:name":"Northern Green Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

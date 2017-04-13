@@ -2,9 +2,14 @@
   "id": 655397881,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Spring Garden Rd Milford NJ 08848",
+    "addr:housenumber":"330",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Garden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.121476,40.590581,-75.121476,40.590581",
     "geom:latitude":40.590581,
     "geom:longitude":-75.121476,
@@ -28,7 +33,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DmoYGOjqLNPV97LvJIGN6_40.590581_-75.121476@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304534,
     "wof:geomhash":"03e201d08a6bd00c6f45479eeba1430b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655397881
+        }
+    ],
     "wof:id":655397881,
-    "wof:lastmodified":1466675476,
+    "wof:lastmodified":1492053542,
     "wof:name":"D & S Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

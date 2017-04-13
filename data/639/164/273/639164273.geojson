@@ -2,9 +2,14 @@
   "id": 639164273,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Claremont Rd Franklin Park NJ 08823",
+    "addr:housenumber":"28",
+    "addr:postcode":"08823",
+    "addr:street":"Claremont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537206,40.439911,-74.537206,40.439911",
     "geom:latitude":40.439911,
     "geom:longitude":-74.537206,
@@ -24,7 +29,14 @@
     "sg:postcode":"08823",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dd1TffNCUMwH9ryZhzIWF_40.439911_-74.537206@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288843,
     "wof:geomhash":"856a6fa6b805e21d565eb7e96b0ccc4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639164273
+        }
+    ],
     "wof:id":639164273,
-    "wof:lastmodified":1466683701,
+    "wof:lastmodified":1492069483,
     "wof:name":"Platz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

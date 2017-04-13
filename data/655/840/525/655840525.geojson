@@ -2,9 +2,14 @@
   "id": 655840525,
   "type": "Feature",
   "properties": {
+    "addr:full":"373 Prospect St Phillipsburg NJ 08865",
+    "addr:housenumber":"373",
+    "addr:postcode":"08865",
+    "addr:street":"Prospect St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182429,40.693155,-75.182429,40.693155",
     "geom:latitude":40.693155,
     "geom:longitude":-75.182429,
@@ -30,7 +35,14 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d5VY2d088iiLCo31tYI2S_40.693155_-75.182429@1303262283"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461323089,
     "wof:geomhash":"0c018d3b0e1c63d014af8fcf45318749",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655840525
+        }
+    ],
     "wof:id":655840525,
-    "wof:lastmodified":1466687959,
+    "wof:lastmodified":1492043027,
     "wof:name":"Mv Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

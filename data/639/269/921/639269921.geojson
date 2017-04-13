@@ -2,9 +2,14 @@
   "id": 639269921,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 N Warren St Trenton NJ 08618",
+    "addr:housenumber":"211",
+    "addr:postcode":"08618",
+    "addr:street":"N Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765435,40.223442,-74.765435,40.223442",
     "geom:latitude":40.223442,
     "geom:longitude":-74.765435,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.njcathconf.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WUVqenkPbmzaVNWnkiNd4_40.223442_-74.765435@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461291294,
     "wof:geomhash":"5c6de28357f46958cf597ef1f0f26c00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639269921
+        }
+    ],
     "wof:id":639269921,
-    "wof:lastmodified":1466690516,
+    "wof:lastmodified":1492046324,
     "wof:name":"New Jersey Catholic Conference",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

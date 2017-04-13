@@ -2,9 +2,14 @@
   "id": 655386745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 Old Mill Rd Belmar NJ 07719",
+    "addr:housenumber":"1825",
+    "addr:postcode":"07719",
+    "addr:street":"Old Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051806,40.167974,-74.051806,40.167974",
     "geom:latitude":40.167974,
     "geom:longitude":-74.051806,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85836553,
+        102085049,
         85839881,
         102191575,
         404478395,
-        85633793,
-        85975395,
-        102085049,
-        85688607
+        85975395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461304063,
     "wof:geomhash":"21ec403c7fa9bdafcdc805eb7fa36ce9",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85836553,
+            "region_id":85688607,
+            "venue_id":655386745
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":655386745,
-    "wof:lastmodified":1466675140,
+    "wof:lastmodified":1492047994,
     "wof:name":"P C Classic Car Restoration",
-    "wof:parent_id":85839881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

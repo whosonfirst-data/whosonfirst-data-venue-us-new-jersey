@@ -2,9 +2,14 @@
   "id": 655651375,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Elm St Oakland NJ 07436",
+    "addr:housenumber":"6",
+    "addr:postcode":"07436",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243483,41.02539,-74.243483,41.02539",
     "geom:latitude":41.02539,
     "geom:longitude":-74.243483,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xAa6jTi9DmHjySvZD34DD_41.025390_-74.243483@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315230,
     "wof:geomhash":"7ba5f5248a4523eb34c0883d1acb5050",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655651375
+        }
+    ],
     "wof:id":655651375,
-    "wof:lastmodified":1466682814,
+    "wof:lastmodified":1492058284,
     "wof:name":"D & G Environmental Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

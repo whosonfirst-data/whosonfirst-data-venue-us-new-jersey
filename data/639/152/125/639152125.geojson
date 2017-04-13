@@ -2,9 +2,14 @@
   "id": 639152125,
   "type": "Feature",
   "properties": {
+    "addr:full":"786 S 20th St Newark NJ 07103",
+    "addr:housenumber":"786",
+    "addr:postcode":"07103",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214682,40.728767,-74.214682,40.728767",
     "geom:latitude":40.728767,
     "geom:longitude":-74.214682,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hE1Tyx7J4Gt6b5LvNNnxB_40.728767_-74.214682@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288568,
     "wof:geomhash":"2a0dcf2ade106ea9521de4490e7b5e5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639152125
+        }
+    ],
     "wof:id":639152125,
-    "wof:lastmodified":1466681715,
+    "wof:lastmodified":1492030642,
     "wof:name":"Miracle Temple Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

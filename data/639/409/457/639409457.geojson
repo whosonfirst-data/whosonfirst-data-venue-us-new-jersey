@@ -2,9 +2,14 @@
   "id": 639409457,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 State Rte 34 Morganville NJ 07751",
+    "addr:housenumber":"65",
+    "addr:postcode":"07751",
+    "addr:street":"State Rte 34",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.207529,40.37745,-74.207529,40.37745",
     "geom:latitude":40.37745,
     "geom:longitude":-74.207529,
@@ -28,7 +33,13 @@
         "gymnastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gyWjglgk9M5diCL0cC6QH_40.377450_-74.207529@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461294478,
     "wof:geomhash":"bf7175395f60e296584bc14cfe1bd4d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":639409457
+        }
+    ],
     "wof:id":639409457,
-    "wof:lastmodified":1466693133,
+    "wof:lastmodified":1492051528,
     "wof:name":"Little Gym Of Morganville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

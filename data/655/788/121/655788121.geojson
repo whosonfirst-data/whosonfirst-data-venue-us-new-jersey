@@ -2,9 +2,14 @@
   "id": 655788121,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Sharp Rd Branchville NJ 07826",
+    "addr:housenumber":"22",
+    "addr:postcode":"07826",
+    "addr:street":"Sharp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764526,41.144669,-74.764526,41.144669",
     "geom:latitude":41.144669,
     "geom:longitude":-74.764526,
@@ -32,7 +37,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sOAjxDzsuK8XWl9UiiOgT_41.144669_-74.764526@1303262270"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461320898,
     "wof:geomhash":"4d4913332c74dcb25dff3e76be470218",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788121
+        }
+    ],
     "wof:id":655788121,
-    "wof:lastmodified":1466686542,
+    "wof:lastmodified":1492070863,
     "wof:name":"Bruce Buys Houses",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

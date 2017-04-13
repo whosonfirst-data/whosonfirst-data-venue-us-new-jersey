@@ -2,9 +2,14 @@
   "id": 638646735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 Thomas Busch Mem Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"1130",
+    "addr:postcode":"08110",
+    "addr:street":"Thomas Busch Mem Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032872,39.987697,-75.032872,39.987697",
     "geom:latitude":39.987697,
     "geom:longitude":-75.032872,
@@ -27,7 +32,13 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RQeSzVsRjatJi6cq2dAVy_39.987697_-75.032872@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461275713,
     "wof:geomhash":"fdd429d0aaf7226bfd0b92e15c0433e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":638646735
+        }
+    ],
     "wof:id":638646735,
-    "wof:lastmodified":1466673791,
+    "wof:lastmodified":1492062568,
     "wof:name":"Syntez Ltd USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

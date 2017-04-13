@@ -2,9 +2,14 @@
   "id": 655378141,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Magnolia Rd Pemberton NJ 08068",
+    "addr:housenumber":"228",
+    "addr:postcode":"08068",
+    "addr:street":"Magnolia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660881,39.950071,-74.660881,39.950071",
     "geom:latitude":39.950071,
     "geom:longitude":-74.660881,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wYIHYF0Xb3QSscKa532aK_39.950071_-74.660881@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303739,
     "wof:geomhash":"bc515940d63d49dbf8387ccc021a5832",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526641,
+            "venue_id":655378141
+        }
+    ],
     "wof:id":655378141,
-    "wof:lastmodified":1466674836,
+    "wof:lastmodified":1492045060,
     "wof:name":"Travis & Sons",
     "wof:parent_id":420526641,
     "wof:placetype":"venue",

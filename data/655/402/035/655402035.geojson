@@ -2,9 +2,14 @@
   "id": 655402035,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 State Rte 71 Spring Lake NJ 07762",
+    "addr:housenumber":"1110",
+    "addr:postcode":"07762",
+    "addr:street":"State Rte 71",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.037316,40.154586,-74.037316,40.154586",
     "geom:latitude":40.154586,
     "geom:longitude":-74.037316,
@@ -24,7 +29,14 @@
     "sg:postcode":"07762",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478395,
+        85633793,
+        85975395,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VJfHeEJ25l6vjdsHeYIzu_40.154586_-74.037316@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461304719,
     "wof:geomhash":"435ca3c1dffb07ab36d6120dac38d173",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478395,
+            "locality_id":85975395,
+            "region_id":85688607,
+            "venue_id":655402035
+        }
+    ],
     "wof:id":655402035,
-    "wof:lastmodified":1466675461,
+    "wof:lastmodified":1492047995,
     "wof:name":"Spring Lake Hts Board Of Ed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

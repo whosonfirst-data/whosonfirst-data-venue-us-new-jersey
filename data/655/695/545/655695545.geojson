@@ -2,9 +2,14 @@
   "id": 655695545,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 High Mountain Rd Haledon NJ 07508",
+    "addr:housenumber":"527",
+    "addr:postcode":"07508",
+    "addr:street":"High Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.181754,40.955651,-74.181754,40.955651",
     "geom:latitude":40.955651,
     "geom:longitude":-74.181754,
@@ -30,7 +35,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478537,
+        85633793,
+        85975485,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LxRKze7nw9AnFtzFBp4nN_40.956280_-74.181753@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461317116,
     "wof:geomhash":"9a3f461d59a7be6f7af387bfbd6e93d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404478537,
+            "locality_id":85975485,
+            "region_id":85688607,
+            "venue_id":655695545
+        }
+    ],
     "wof:id":655695545,
-    "wof:lastmodified":1466684173,
+    "wof:lastmodified":1492027763,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

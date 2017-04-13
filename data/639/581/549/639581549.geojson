@@ -2,9 +2,14 @@
   "id": 639581549,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 S Maple Ave Basking Ridge NJ 07920",
+    "addr:housenumber":"77",
+    "addr:postcode":"07920",
+    "addr:street":"S Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.547809,40.705315,-74.547809,40.705315",
     "geom:latitude":40.705315,
     "geom:longitude":-74.547809,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85831903,
-        102085045
+        85813643,
+        102085045,
+        85831903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85813643,
+            "region_id":85688607,
+            "venue_id":639581549
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85831903,
             "region_id":85688607,
             "venue_id":639581549
         }
     ],
     "wof:id":639581549,
-    "wof:lastmodified":1466696523,
+    "wof:lastmodified":1492065309,
     "wof:name":"Wine Rack",
-    "wof:parent_id":85831903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

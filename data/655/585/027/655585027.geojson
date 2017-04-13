@@ -2,9 +2,14 @@
   "id": 655585027,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Phillip Dr Allentown NJ 08540",
+    "addr:housenumber":"2",
+    "addr:postcode":"08540",
+    "addr:street":"Phillip Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.633298,40.353821,-74.633298,40.353821",
     "geom:latitude":40.353821,
     "geom:longitude":-74.633298,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5asvfMH1UOiBt308DndVtn_40.353821_-74.633298@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461312389,
     "wof:geomhash":"a2b664acd18ea42bd10efa8335ccb93f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655585027
+        }
+    ],
     "wof:id":655585027,
-    "wof:lastmodified":1466680303,
+    "wof:lastmodified":1492070364,
     "wof:name":"Family To Family Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

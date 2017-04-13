@@ -2,9 +2,14 @@
   "id": 655840255,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"764",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174251,40.697743,-75.174251,40.697743",
     "geom:latitude":40.697743,
     "geom:longitude":-75.174251,
@@ -45,7 +50,13 @@
     ],
     "sg:website":"http://www.libertymutual.com/local-office?officenumber=0393&src=YP_Local_0393",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RPaNDFAPbQeYH7jMy0dvf_40.697743_-75.174251@1303262283"
@@ -53,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1461323080,
     "wof:geomhash":"6a46655344294d4e2375dddd7dde01aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":655840255
+        }
+    ],
     "wof:id":655840255,
-    "wof:lastmodified":1466687887,
+    "wof:lastmodified":1492050574,
     "wof:name":"Liberty Mutual Insurance Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

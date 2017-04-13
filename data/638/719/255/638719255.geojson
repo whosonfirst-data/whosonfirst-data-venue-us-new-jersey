@@ -2,9 +2,14 @@
   "id": 638719255,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Lincoln Ave Hawthorne NJ 07506",
+    "addr:housenumber":"178",
+    "addr:postcode":"07506",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147325,40.94571,-74.147325,40.94571",
     "geom:latitude":40.94571,
     "geom:longitude":-74.147325,
@@ -24,7 +29,15 @@
     "sg:postcode":"07506",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844985,
+        102191575,
+        404477819,
+        85633793,
+        85975481,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kTgKNex3MQ8UrsBzDppA6_40.945710_-74.147325@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461278173,
     "wof:geomhash":"4c66d3dba9a57daa514b274e657e451a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
+            "neighbourhood_id":85844985,
+            "region_id":85688607,
+            "venue_id":638719255
+        }
+    ],
     "wof:id":638719255,
-    "wof:lastmodified":1466673868,
+    "wof:lastmodified":1492062245,
     "wof:name":"Shian Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

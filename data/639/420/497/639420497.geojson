@@ -2,9 +2,14 @@
   "id": 639420497,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Kent Ave Marlton NJ 08053",
+    "addr:housenumber":"59",
+    "addr:postcode":"08053",
+    "addr:street":"Kent Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.904449,39.896908,-74.904449,39.896908",
     "geom:latitude":39.896908,
     "geom:longitude":-74.904449,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QU8JmMBhV0JbahE51qTCW_39.896908_-74.904449@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461294726,
     "wof:geomhash":"61f2376a141babbd052f866cda66682d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639420497
+        }
+    ],
     "wof:id":639420497,
-    "wof:lastmodified":1466693164,
+    "wof:lastmodified":1492024839,
     "wof:name":"All Home Svc",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

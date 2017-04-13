@@ -2,9 +2,14 @@
   "id": 639082801,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"64",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978529,40.75864,-74.978529,40.75864",
     "geom:latitude":40.75864,
     "geom:longitude":-74.978529,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02h1wXs942yAM9WKfFrbAM_40.758640_-74.978529@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286987,
     "wof:geomhash":"764bc25a40169287da85202d43df9363",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639082801
+        }
+    ],
     "wof:id":639082801,
-    "wof:lastmodified":1466688701,
+    "wof:lastmodified":1492044145,
     "wof:name":"Jerome V Baucom",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

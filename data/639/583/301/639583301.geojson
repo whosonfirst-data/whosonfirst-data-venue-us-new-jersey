@@ -2,9 +2,14 @@
   "id": 639583301,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Whittingham Dr Monroe Township NJ 08831",
+    "addr:housenumber":"100",
+    "addr:postcode":"08831",
+    "addr:street":"Whittingham Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.444363,40.32078,-74.444363,40.32078",
     "geom:latitude":40.32078,
     "geom:longitude":-74.444363,
@@ -32,7 +37,10 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MMtJRZ0HJaxX6jniPoG9X_40.320780_-74.444363@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461301040,
     "wof:geomhash":"600350f4769eb344f2f60fd8f2b51645",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527181,
+            "venue_id":639583301
+        }
+    ],
     "wof:id":639583301,
-    "wof:lastmodified":1466696475,
+    "wof:lastmodified":1492056092,
     "wof:name":"Greenbriar At Whittingham",
     "wof:parent_id":420527181,
     "wof:placetype":"venue",

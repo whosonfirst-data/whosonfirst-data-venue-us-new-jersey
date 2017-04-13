@@ -2,9 +2,14 @@
   "id": 638922487,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Sicomac Ave Wyckoff NJ 07481",
+    "addr:housenumber":"300",
+    "addr:postcode":"07481",
+    "addr:street":"Sicomac Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.171743,40.984768,-74.171743,40.984768",
     "geom:latitude":40.984768,
     "geom:longitude":-74.171743,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61STagkVxufufKgUdwy5YJ_40.984768_-74.171743@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283335,
     "wof:geomhash":"05523ddd8851194cd4ec39a89c4b9756",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":638922487
+        }
+    ],
     "wof:id":638922487,
-    "wof:lastmodified":1466690528,
+    "wof:lastmodified":1492054516,
     "wof:name":"Abbie's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

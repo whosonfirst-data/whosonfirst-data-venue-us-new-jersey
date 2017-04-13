@@ -2,9 +2,14 @@
   "id": 639183281,
   "type": "Feature",
   "properties": {
+    "addr:full":"248 Columbia Tpke Florham Park NJ 07932",
+    "addr:housenumber":"248",
+    "addr:postcode":"07932",
+    "addr:street":"Columbia Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.397898,40.789071,-74.397898,40.789071",
     "geom:latitude":40.789071,
     "geom:longitude":-74.397898,
@@ -30,7 +35,14 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jYjWyT0P7MqE5EJWIYB0a_40.789071_-74.397898@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461289258,
     "wof:geomhash":"5f52e4aa1583f56909a0d34d564d4b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639183281
+        }
+    ],
     "wof:id":639183281,
-    "wof:lastmodified":1466686242,
+    "wof:lastmodified":1492054504,
     "wof:name":"Qualident Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

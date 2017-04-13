@@ -2,9 +2,14 @@
   "id": 639502241,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Simpson Rd Somerset NJ 08873",
+    "addr:housenumber":"15",
+    "addr:postcode":"08873",
+    "addr:street":"Simpson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.480866,40.506122,-74.480866,40.506122",
     "geom:latitude":40.506122,
     "geom:longitude":-74.480866,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BQyum6KKli6uWwhJHFswq_40.506122_-74.480866@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297511,
     "wof:geomhash":"d958cdf4d16961c6da25a4c2924914b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639502241
+        }
+    ],
     "wof:id":639502241,
-    "wof:lastmodified":1466694699,
+    "wof:lastmodified":1492042391,
     "wof:name":"Dunn Painting & Papering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

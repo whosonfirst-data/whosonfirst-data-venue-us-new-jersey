@@ -2,9 +2,14 @@
   "id": 639576679,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2222",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.488659,40.43313,-74.488659,40.43313",
     "geom:latitude":40.43313,
     "geom:longitude":-74.488659,
@@ -24,7 +29,10 @@
     "sg:postcode":"08902",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dQdGv3GZ14HleapKEofhc_40.433130_-74.488659@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461300767,
     "wof:geomhash":"21ee7dca2f84a4530d042148cf3d6eda",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639576679
+        }
+    ],
     "wof:id":639576679,
-    "wof:lastmodified":1466696632,
+    "wof:lastmodified":1492053517,
     "wof:name":"My Favorite Muffin",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

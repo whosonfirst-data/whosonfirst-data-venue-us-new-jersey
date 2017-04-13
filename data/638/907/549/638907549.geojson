@@ -2,9 +2,14 @@
   "id": 638907549,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Carlton Ave Marlton NJ 08053",
+    "addr:housenumber":"81",
+    "addr:postcode":"08053",
+    "addr:street":"Carlton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.899121,39.896642,-74.899121,39.896642",
     "geom:latitude":39.896642,
     "geom:longitude":-74.899121,
@@ -27,7 +32,10 @@
         "field"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15eMenDFHbtUqIpjEbCarZ_39.896642_-74.899121@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461282936,
     "wof:geomhash":"2ef005ff03f49e11f884be8a2ec9e0ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638907549
+        }
+    ],
     "wof:id":638907549,
-    "wof:lastmodified":1466690201,
+    "wof:lastmodified":1492030762,
     "wof:name":"Carroll Consulting",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

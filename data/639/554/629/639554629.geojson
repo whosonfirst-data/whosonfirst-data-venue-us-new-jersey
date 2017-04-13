@@ -2,9 +2,14 @@
   "id": 639554629,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 New Willow St Trenton NJ 08618",
+    "addr:housenumber":"527",
+    "addr:postcode":"08618",
+    "addr:street":"New Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.76422,40.231063,-74.76422,40.231063",
     "geom:latitude":40.231063,
     "geom:longitude":-74.76422,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hu1hnrl1dCPTvHWnpPmUm_40.231063_-74.764220@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299924,
     "wof:geomhash":"51433c14441a4b2a269b11fec97c0125",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639554629
+        }
+    ],
     "wof:id":639554629,
-    "wof:lastmodified":1466695964,
+    "wof:lastmodified":1492020662,
     "wof:name":"Robinson Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

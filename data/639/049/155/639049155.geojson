@@ -2,9 +2,14 @@
   "id": 639049155,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 Belmar Plz Belmar NJ 07719",
+    "addr:housenumber":"815",
+    "addr:postcode":"07719",
+    "addr:street":"Belmar Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025325,40.180579,-74.025325,40.180579",
     "geom:latitude":40.180579,
     "geom:longitude":-74.025325,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dAgHrdVY1yHgEZm6SEU2j_40.180579_-74.025325@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286254,
     "wof:geomhash":"2524cc52a73e6ccad5eea0e3a069ab71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639049155
+        }
+    ],
     "wof:id":639049155,
-    "wof:lastmodified":1466674157,
+    "wof:lastmodified":1492048453,
     "wof:name":"Oyama Japanese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

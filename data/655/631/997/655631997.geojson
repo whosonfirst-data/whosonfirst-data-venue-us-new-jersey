@@ -2,9 +2,14 @@
   "id": 655631997,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Ohio St Union NJ 07083",
+    "addr:housenumber":"305",
+    "addr:postcode":"07083",
+    "addr:street":"Ohio St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273892,40.71684,-74.273892,40.71684",
     "geom:latitude":40.71684,
     "geom:longitude":-74.273892,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34Pf0QGBA0LR35gb5f6tUX_40.716840_-74.273892@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461314424,
     "wof:geomhash":"e5f9f8fede07292ea9e25dc96d2f6e64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655631997
+        }
+    ],
     "wof:id":655631997,
-    "wof:lastmodified":1466682305,
+    "wof:lastmodified":1492028981,
     "wof:name":"Ministries F Discipleship",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

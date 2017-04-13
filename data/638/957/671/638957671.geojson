@@ -2,9 +2,14 @@
   "id": 638957671,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Rutherford Pl Montvale NJ 07645",
+    "addr:housenumber":"51",
+    "addr:postcode":"07645",
+    "addr:street":"Rutherford Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017112,41.044238,-74.017112,41.044238",
     "geom:latitude":41.044238,
     "geom:longitude":-74.017112,
@@ -28,7 +33,14 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x05MrlwPry2X99mRmupTd_41.044238_-74.017112@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284200,
     "wof:geomhash":"cfdebd2cf15455088083d7b4c53e313c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":638957671
+        }
+    ],
     "wof:id":638957671,
-    "wof:lastmodified":1466691515,
+    "wof:lastmodified":1492052350,
     "wof:name":"Home Town Tanks Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

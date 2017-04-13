@@ -2,9 +2,14 @@
   "id": 638910317,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Linden Ln Chatham NJ 07928",
+    "addr:housenumber":"46",
+    "addr:postcode":"07928",
+    "addr:street":"Linden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.406494,40.736273,-74.406494,40.736273",
     "geom:latitude":40.736273,
     "geom:longitude":-74.406494,
@@ -27,7 +32,13 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wWYXMtxACfsyDCr0K5Oex_40.736273_-74.406494@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283005,
     "wof:geomhash":"d6c9bc4388c66964559403d0a84fcc74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":638910317
+        }
+    ],
     "wof:id":638910317,
-    "wof:lastmodified":1466690283,
+    "wof:lastmodified":1492076786,
     "wof:name":"Champlain Advisors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

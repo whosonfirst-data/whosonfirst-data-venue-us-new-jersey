@@ -2,9 +2,14 @@
   "id": 655451003,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Prospect Point Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"206",
+    "addr:postcode":"07849",
+    "addr:street":"Prospect Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.625084,40.976364,-74.625084,40.976364",
     "geom:latitude":40.976364,
     "geom:longitude":-74.625084,
@@ -24,7 +29,10 @@
     "sg:postcode":"07849",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W6MoamB30yIV1piPO9qQN_40.976364_-74.625084@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461306743,
     "wof:geomhash":"fa79632bbe85b944c1dd0dea0862b24c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":655451003
+        }
+    ],
     "wof:id":655451003,
-    "wof:lastmodified":1466688833,
+    "wof:lastmodified":1492047595,
     "wof:name":"White Dog Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

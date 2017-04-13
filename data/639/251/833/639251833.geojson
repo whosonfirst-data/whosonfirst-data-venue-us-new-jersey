@@ -2,9 +2,14 @@
   "id": 639251833,
   "type": "Feature",
   "properties": {
+    "addr:full":"257 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"257",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132055,40.790284,-74.132055,40.790284",
     "geom:latitude":40.790284,
     "geom:longitude":-74.132055,
@@ -27,7 +32,14 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ApkWmTXWbHeWwYCGTLoPn_40.790284_-74.132055@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290868,
     "wof:geomhash":"aba8a97daca9fe2c90950e4b8c6bb414",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639251833
+        }
+    ],
     "wof:id":639251833,
-    "wof:lastmodified":1466690287,
+    "wof:lastmodified":1492053247,
     "wof:name":"White Eagle Monumental Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638930841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 Valley Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"3526",
+    "addr:postcode":"07920",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.569458,40.660323,-74.569458,40.660323",
     "geom:latitude":40.660323,
     "geom:longitude":-74.569458,
@@ -27,7 +32,13 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mBxhogv2ShaI3uPt9drZs_40.660323_-74.569458@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283533,
     "wof:geomhash":"62f57e2036d0b0bcb4dbcfb21a49c198",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":638930841
+        }
+    ],
     "wof:id":638930841,
-    "wof:lastmodified":1466690938,
+    "wof:lastmodified":1492044162,
     "wof:name":"United Voluntary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

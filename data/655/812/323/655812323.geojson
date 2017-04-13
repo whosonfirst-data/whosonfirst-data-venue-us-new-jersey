@@ -2,9 +2,14 @@
   "id": 655812323,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Kresson Rd Voorhees NJ 08043",
+    "addr:housenumber":"303",
+    "addr:postcode":"08043",
+    "addr:street":"Kresson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.934693,39.862503,-74.934693,39.862503",
     "geom:latitude":39.862503,
     "geom:longitude":-74.934693,
@@ -28,7 +33,13 @@
         "nursery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1noBoaDysKoCnf7dNnroSy_39.862503_-74.934693@1303262276"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461321914,
     "wof:geomhash":"ed8b32319437ec0643f9e10ac9c72348",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":655812323
+        }
+    ],
     "wof:id":655812323,
-    "wof:lastmodified":1466687148,
+    "wof:lastmodified":1492041857,
     "wof:name":"Superior Begnings Pre-Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

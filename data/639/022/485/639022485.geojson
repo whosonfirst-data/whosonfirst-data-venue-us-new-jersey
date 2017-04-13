@@ -2,9 +2,14 @@
   "id": 639022485,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Grant Ave Carteret NJ 07008",
+    "addr:housenumber":"105",
+    "addr:postcode":"07008",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.224847,40.587132,-74.224847,40.587132",
     "geom:latitude":40.587132,
     "geom:longitude":-74.224847,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H3jpUTTYny1BbFWPQtxuT_40.587132_-74.224847@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285598,
     "wof:geomhash":"e49c63f52eeaad9e4ee7da32a9133635",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":639022485
+        }
+    ],
     "wof:id":639022485,
-    "wof:lastmodified":1466673628,
+    "wof:lastmodified":1492074585,
     "wof:name":"Sandhu Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

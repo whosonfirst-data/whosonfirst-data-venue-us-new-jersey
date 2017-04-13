@@ -2,9 +2,14 @@
   "id": 655642837,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Union Rd Frenchtown NJ 08825",
+    "addr:housenumber":"73",
+    "addr:postcode":"08825",
+    "addr:street":"Union Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.999785,40.499407,-74.999785,40.499407",
     "geom:latitude":40.499407,
     "geom:longitude":-74.999785,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0thM8cb5lc8K5BG5dKI6uU_40.499407_-74.999785@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314880,
     "wof:geomhash":"ab52eb81a22ea6a7cb658a4d0b644dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":655642837
+        }
+    ],
     "wof:id":655642837,
-    "wof:lastmodified":1466682677,
+    "wof:lastmodified":1492070367,
     "wof:name":"Karl E Ostergard Elec Cntracto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655703983,
   "type": "Feature",
   "properties": {
+    "addr:full":"589 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"589",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988723,40.824404,-73.988723,40.824404",
     "geom:latitude":40.824404,
     "geom:longitude":-73.988723,
@@ -32,7 +37,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FHEPC6hnZAb0Y5zDlVEKN_40.824404_-73.988723@1303262249"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461317535,
     "wof:geomhash":"e72ad726eca2c5036414aba473cf0958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703983
+        }
+    ],
     "wof:id":655703983,
-    "wof:lastmodified":1466684492,
+    "wof:lastmodified":1492048557,
     "wof:name":"S & Y Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

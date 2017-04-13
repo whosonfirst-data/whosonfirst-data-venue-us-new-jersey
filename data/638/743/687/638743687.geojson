@@ -2,9 +2,14 @@
   "id": 638743687,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Grant Ave Carteret NJ 07008",
+    "addr:housenumber":"66",
+    "addr:postcode":"07008",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223554,40.586667,-74.223554,40.586667",
     "geom:latitude":40.586667,
     "geom:longitude":-74.223554,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cxo7cfFUZe1g7m4Ky4RYr_40.586667_-74.223554@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278838,
     "wof:geomhash":"d79ec3c36508d6ccf8166f1291d57b0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":638743687
+        }
+    ],
     "wof:id":638743687,
-    "wof:lastmodified":1466677308,
+    "wof:lastmodified":1492065349,
     "wof:name":"K&E Printing Inks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639510969,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Lacey Rd Lakehurst NJ 08759",
+    "addr:housenumber":"200",
+    "addr:postcode":"08759",
+    "addr:street":"Lacey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.382401,39.956492,-74.382401,39.956492",
     "geom:latitude":39.956492,
     "geom:longitude":-74.382401,
@@ -28,7 +33,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nOsR2HLOnS5COhIKf8Thp_39.956492_-74.382401@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297895,
     "wof:geomhash":"c19f215865ab7c4f19f869a82f33efe8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":639510969
+        }
+    ],
     "wof:id":639510969,
-    "wof:lastmodified":1466695141,
+    "wof:lastmodified":1492029378,
     "wof:name":"Wachovia Bank National Assn",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

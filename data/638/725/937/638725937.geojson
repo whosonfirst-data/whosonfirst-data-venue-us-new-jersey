@@ -2,9 +2,14 @@
   "id": 638725937,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Ridge Rd Branchville NJ 07826",
+    "addr:housenumber":"13",
+    "addr:postcode":"07826",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.772123,41.153856,-74.772123,41.153856",
     "geom:latitude":41.153856,
     "geom:longitude":-74.772123,
@@ -29,7 +34,10 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jfyD7LS2rRhuJ0kMoWpXN_41.153856_-74.772123@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461278371,
     "wof:geomhash":"3137733bf8f97839b58800abd952073e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":638725937
+        }
+    ],
     "wof:id":638725937,
-    "wof:lastmodified":1466674824,
+    "wof:lastmodified":1492062246,
     "wof:name":"Stepping Stone School",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

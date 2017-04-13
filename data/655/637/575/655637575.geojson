@@ -2,9 +2,14 @@
   "id": 655637575,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Skyline Dr Lakewood NJ 08724",
+    "addr:housenumber":"133",
+    "addr:postcode":"08724",
+    "addr:street":"Skyline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.100012,40.107662,-74.100012,40.107662",
     "geom:latitude":40.107662,
     "geom:longitude":-74.100012,
@@ -28,7 +33,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ma6buSLNpnVtQ9mLi9l5E_40.107662_-74.100012@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314667,
     "wof:geomhash":"4826288e06476d3ae8627af34b0c916e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":655637575
+        }
+    ],
     "wof:id":655637575,
-    "wof:lastmodified":1466682494,
+    "wof:lastmodified":1492028453,
     "wof:name":"Js Management Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

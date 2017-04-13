@@ -2,9 +2,14 @@
   "id": 639507367,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Portland Rd Highlands NJ 07732",
+    "addr:housenumber":"82",
+    "addr:postcode":"07732",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.982631,40.394054,-73.982631,40.394054",
     "geom:latitude":40.394054,
     "geom:longitude":-73.982631,
@@ -25,14 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85854751,
+        102085049,
         85836415,
         102191575,
         404478385,
-        85633793,
-        85975403,
-        102085049,
-        85688607,
-        85854751
+        85975403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,13 @@
     "wof:geomhash":"b28f41e6a8662662f7db40dc55533bdb",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85854751,
+            "region_id":85688607,
+            "venue_id":639507367
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085049,
@@ -51,19 +63,12 @@
             "neighbourhood_id":85836415,
             "region_id":85688607,
             "venue_id":639507367
-        },
-        {
-            "country_id":85633793,
-            "county_id":102085049,
-            "neighbourhood_id":85854751,
-            "region_id":85688607,
-            "venue_id":639507367
         }
     ],
     "wof:id":639507367,
-    "wof:lastmodified":1466694627,
+    "wof:lastmodified":1492067552,
     "wof:name":"Plain Jane Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

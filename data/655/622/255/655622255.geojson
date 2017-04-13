@@ -2,9 +2,14 @@
   "id": 655622255,
   "type": "Feature",
   "properties": {
+    "addr:full":"492 Red Lion Rd Vincentown NJ 08088",
+    "addr:housenumber":"492",
+    "addr:postcode":"08088",
+    "addr:street":"Red Lion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.753933,39.935998,-74.753933,39.935998",
     "geom:latitude":39.935998,
     "geom:longitude":-74.753933,
@@ -24,7 +29,10 @@
     "sg:postcode":"08088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JYb7owXOPi911MCWRu7kx_39.935998_-74.753933@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461313985,
     "wof:geomhash":"978f16a1e3a9a2a2a47c80bf5dcf6ac7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655622255
+        }
+    ],
     "wof:id":655622255,
-    "wof:lastmodified":1466681790,
+    "wof:lastmodified":1492041017,
     "wof:name":"Nixon and Nixon Auction Svc",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

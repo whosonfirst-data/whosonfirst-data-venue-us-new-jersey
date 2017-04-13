@@ -2,9 +2,14 @@
   "id": 638922295,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 Millbrook Dr Willingboro NJ 08046",
+    "addr:housenumber":"246",
+    "addr:postcode":"08046",
+    "addr:street":"Millbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889581,40.031732,-74.889581,40.031732",
     "geom:latitude":40.031732,
     "geom:longitude":-74.889581,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dOORzStUnqyyISWuDt0AV_40.031732_-74.889581@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283330,
     "wof:geomhash":"12eac8ba2ed672c1217991b7bc6e1d03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638922295
+        }
+    ],
     "wof:id":638922295,
-    "wof:lastmodified":1466690508,
+    "wof:lastmodified":1492028499,
     "wof:name":"Millbrook Park Medical Office",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

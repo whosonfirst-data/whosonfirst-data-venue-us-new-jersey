@@ -2,9 +2,14 @@
   "id": 639205259,
   "type": "Feature",
   "properties": {
+    "addr:full":"287 Doremus Ave Glen Rock NJ 07452",
+    "addr:housenumber":"287",
+    "addr:postcode":"07452",
+    "addr:street":"Doremus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127164,40.971706,-74.127164,40.971706",
     "geom:latitude":40.971706,
     "geom:longitude":-74.127164,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gOsby2WkxETDTto4ybzlr_40.971706_-74.127164@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289773,
     "wof:geomhash":"63870a255319f96f7e5d4c7fc795a317",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639205259
+        }
+    ],
     "wof:id":639205259,
-    "wof:lastmodified":1466688933,
+    "wof:lastmodified":1492050732,
     "wof:name":"Mlb Custom Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

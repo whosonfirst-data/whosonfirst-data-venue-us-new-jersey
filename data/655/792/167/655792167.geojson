@@ -2,9 +2,14 @@
   "id": 655792167,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 River Rd Summit NJ 07901",
+    "addr:housenumber":"68",
+    "addr:postcode":"07901",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.374298,40.7318,-74.374298,40.7318",
     "geom:latitude":40.7318,
     "geom:longitude":-74.374298,
@@ -34,7 +39,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A1jZN3hpZDl5KrQyySq9U_40.731800_-74.374298@1303262271"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461321060,
     "wof:geomhash":"3e8f10ec06d98ac452cf7655b923b723",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655792167
+        }
+    ],
     "wof:id":655792167,
-    "wof:lastmodified":1466686597,
+    "wof:lastmodified":1492030648,
     "wof:name":"Maplecrest Lincoln Mercury of Summit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

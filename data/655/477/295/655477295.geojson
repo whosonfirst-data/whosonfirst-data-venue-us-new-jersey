@@ -2,9 +2,14 @@
   "id": 655477295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2584 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"2584",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241055,40.173451,-74.241055,40.173451",
     "geom:latitude":40.173451,
     "geom:longitude":-74.241055,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62VZEw2Vt7fANJ0b7vPxei_40.173451_-74.241055@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461307893,
     "wof:geomhash":"c263d6031815d99e3737bb0cee02a2c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":655477295
+        }
+    ],
     "wof:id":655477295,
-    "wof:lastmodified":1466677556,
+    "wof:lastmodified":1492047997,
     "wof:name":"Mary Ellen Rada DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

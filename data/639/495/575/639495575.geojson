@@ -2,9 +2,14 @@
   "id": 639495575,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Kendal Ave Maplewood NJ 07040",
+    "addr:housenumber":"78",
+    "addr:postcode":"07040",
+    "addr:street":"Kendal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27458,40.736192,-74.27458,40.736192",
     "geom:latitude":40.736192,
     "geom:longitude":-74.27458,
@@ -30,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526927,
+        85688607,
         85892401,
         102085043
     ],
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":639495575
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85892401,
             "region_id":85688607,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":639495575,
-    "wof:lastmodified":1466694866,
+    "wof:lastmodified":1492076782,
     "wof:name":"Stirling Duo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

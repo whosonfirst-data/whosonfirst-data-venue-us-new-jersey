@@ -2,9 +2,14 @@
   "id": 638980537,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Arrow Rd Ramsey NJ 07446",
+    "addr:housenumber":"6",
+    "addr:postcode":"07446",
+    "addr:street":"Arrow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123384,41.067903,-74.123384,41.067903",
     "geom:latitude":41.067903,
     "geom:longitude":-74.123384,
@@ -28,7 +33,14 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31uVMlVyrJBvK45kVnrgNt_41.067903_-74.123384@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284657,
     "wof:geomhash":"a5e466a18391f77e8f2a210071d8eb8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":638980537
+        }
+    ],
     "wof:id":638980537,
-    "wof:lastmodified":1466692010,
+    "wof:lastmodified":1492039205,
     "wof:name":"International Video Tape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

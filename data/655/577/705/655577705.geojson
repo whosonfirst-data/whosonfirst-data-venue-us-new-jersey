@@ -2,9 +2,14 @@
   "id": 655577705,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Malcolm Rd Mahwah NJ 07430",
+    "addr:housenumber":"66",
+    "addr:postcode":"07430",
+    "addr:street":"Malcolm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139145,41.09043,-74.139145,41.09043",
     "geom:latitude":41.09043,
     "geom:longitude":-74.139145,
@@ -27,7 +32,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37jQKNFk4Yxi7ibTljcVEv_41.090430_-74.139145@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312062,
     "wof:geomhash":"feb9ec00276884d773968f5cad30ebf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655577705
+        }
+    ],
     "wof:id":655577705,
-    "wof:lastmodified":1466680426,
+    "wof:lastmodified":1492083231,
     "wof:name":"Malcolm Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

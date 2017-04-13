@@ -2,9 +2,14 @@
   "id": 639068819,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 US Hwy 130 Delran NJ 08075",
+    "addr:housenumber":"3000",
+    "addr:postcode":"08075",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.966394,40.009784,-74.966394,40.009784",
     "geom:latitude":40.009784,
     "geom:longitude":-74.966394,
@@ -29,7 +34,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55YUShe39ZqnGu06J0gBj7_40.009784_-74.966394@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461286666,
     "wof:geomhash":"207d0a9523c366e157bdaf19970344d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639068819
+        }
+    ],
     "wof:id":639068819,
-    "wof:lastmodified":1466688282,
+    "wof:lastmodified":1492069362,
     "wof:name":"B and S Auto Repair",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

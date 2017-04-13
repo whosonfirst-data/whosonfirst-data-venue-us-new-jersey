@@ -2,9 +2,14 @@
   "id": 655791027,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Port Colden Rd Apt 2 Washington NJ 07882",
+    "addr:housenumber":"1;2",
+    "addr:postcode":"07882",
+    "addr:street":"Port Colden Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.954597,40.763771,-74.954597,40.763771",
     "geom:latitude":40.763771,
     "geom:longitude":-74.954597,
@@ -32,7 +37,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xgOCywfITSq6LIgyHeRke_40.763771_-74.954597@1303262271"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461321020,
     "wof:geomhash":"0c32fb1979e3ca2154151ab3dabfec90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791027
+        }
+    ],
     "wof:id":655791027,
-    "wof:lastmodified":1466686528,
+    "wof:lastmodified":1492025906,
     "wof:name":"Spirit Connection Inc",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

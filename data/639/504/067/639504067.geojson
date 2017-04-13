@@ -2,9 +2,14 @@
   "id": 639504067,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 White Birch Dr Stockholm NJ 07460",
+    "addr:housenumber":"14",
+    "addr:postcode":"07460",
+    "addr:street":"White Birch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.483047,41.110567,-74.483047,41.110567",
     "geom:latitude":41.110567,
     "geom:longitude":-74.483047,
@@ -27,7 +32,13 @@
         "erection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478483,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FXH9w5wu2fffwiR4o0ttV_41.110567_-74.483047@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297586,
     "wof:geomhash":"5eba8f48e9ec8ee90483b95defe4d76a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478483,
+            "region_id":85688607,
+            "venue_id":639504067
+        }
+    ],
     "wof:id":639504067,
-    "wof:lastmodified":1466694659,
+    "wof:lastmodified":1492041663,
     "wof:name":"Caz Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

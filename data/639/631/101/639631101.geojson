@@ -2,9 +2,14 @@
   "id": 639631101,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 Holland Mountain Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"226",
+    "addr:postcode":"07438",
+    "addr:street":"Holland Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532918,41.040453,-74.532918,41.040453",
     "geom:latitude":41.040453,
     "geom:longitude":-74.532918,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qExE6RwKkR8h2ZbukiSVx_41.040453_-74.532918@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461302991,
     "wof:geomhash":"5910f1e2b1d563e38a27c68b4d7c18b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":639631101
+        }
+    ],
     "wof:id":639631101,
-    "wof:lastmodified":1466697596,
+    "wof:lastmodified":1492051442,
     "wof:name":"TSC International",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

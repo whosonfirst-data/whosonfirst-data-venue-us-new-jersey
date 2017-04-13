@@ -2,9 +2,14 @@
   "id": 638859875,
   "type": "Feature",
   "properties": {
+    "addr:full":"599 Belvidere Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"599",
+    "addr:postcode":"08865",
+    "addr:street":"Belvidere Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191653,40.700067,-75.191653,40.700067",
     "geom:latitude":40.700067,
     "geom:longitude":-75.191653,
@@ -24,7 +29,16 @@
     "sg:postcode":"08865",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873,
+        404478521,
+        85976485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fsqxULbwIffCG4TVfJbRa_40.700067_-75.191653@1294171694"
@@ -32,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1461281754,
     "wof:geomhash":"5fecfaf4e7a26a917804f508f1af5082",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638859875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "locality_id":85976485,
+            "region_id":85688607,
+            "venue_id":638859875
+        }
+    ],
     "wof:id":638859875,
-    "wof:lastmodified":1466689429,
+    "wof:lastmodified":1492029926,
     "wof:name":"Meals On Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655393159,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Lambertville Headquarters Rd Lambertville NJ 08530",
+    "addr:housenumber":"40",
+    "addr:postcode":"08530",
+    "addr:street":"Headquarters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945889,40.397936,-74.945889,40.397936",
     "geom:latitude":40.397936,
     "geom:longitude":-74.945889,
@@ -28,7 +33,13 @@
         "horse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478163,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EpBTaav2DRaVVl70FyTW3_40.397936_-74.945889@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304342,
     "wof:geomhash":"59a77b4060309b1e5df3a88f7b89845d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478163,
+            "region_id":85688607,
+            "venue_id":655393159
+        }
+    ],
     "wof:id":655393159,
-    "wof:lastmodified":1466675235,
+    "wof:lastmodified":1492068332,
     "wof:name":"Cedar Lane Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

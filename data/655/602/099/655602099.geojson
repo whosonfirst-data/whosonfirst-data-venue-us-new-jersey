@@ -2,9 +2,14 @@
   "id": 655602099,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Old York Rd Ringoes NJ 08551",
+    "addr:housenumber":"80",
+    "addr:postcode":"08551",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.84517,40.449681,-74.84517,40.449681",
     "geom:latitude":40.449681,
     "geom:longitude":-74.84517,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85829815,
-        102085997
+        102085997,
+        420527065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,17 @@
             "neighbourhood_id":85829815,
             "region_id":85688607,
             "venue_id":655602099
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527065,
+            "venue_id":655602099
         }
     ],
     "wof:id":655602099,
-    "wof:lastmodified":1466680997,
+    "wof:lastmodified":1492053585,
     "wof:name":"Amwell Valley Vineyard",
-    "wof:parent_id":85829815,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

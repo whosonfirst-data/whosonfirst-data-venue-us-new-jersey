@@ -2,9 +2,14 @@
   "id": 639139911,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Skyline Dr Oakland NJ 07436",
+    "addr:housenumber":"152",
+    "addr:postcode":"07436",
+    "addr:street":"Skyline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251621,41.033926,-74.251621,41.033926",
     "geom:latitude":41.033926,
     "geom:longitude":-74.251621,
@@ -27,7 +32,14 @@
         "jewelry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wR6KchZp5VOMx9xxELfhJ_41.033926_-74.251621@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288289,
     "wof:geomhash":"9d67c243201982bda26bf50ad19a5a1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639139911
+        }
+    ],
     "wof:id":639139911,
-    "wof:lastmodified":1466679774,
+    "wof:lastmodified":1492050716,
     "wof:name":"Punt Horizons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

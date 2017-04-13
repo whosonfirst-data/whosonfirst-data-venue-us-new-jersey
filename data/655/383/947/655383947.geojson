@@ -2,9 +2,14 @@
   "id": 655383947,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 River Rd North Arlington NJ 07031",
+    "addr:housenumber":"154",
+    "addr:postcode":"07031",
+    "addr:street":"River Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142266,40.790703,-74.142266,40.790703",
     "geom:latitude":40.790703,
     "geom:longitude":-74.142266,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wXVI7Jm2uGS37t9XzrEpb_40.790703_-74.142266@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303954,
     "wof:geomhash":"a6480aa203dbe5580cb81b995f1f7af6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655383947
+        }
+    ],
     "wof:id":655383947,
-    "wof:lastmodified":1466675180,
+    "wof:lastmodified":1492028525,
     "wof:name":"Priority Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

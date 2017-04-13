@@ -2,9 +2,14 @@
   "id": 639476093,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Old Rte 33 Englishtown NJ 07726",
+    "addr:housenumber":"525",
+    "addr:postcode":"07726",
+    "addr:street":"Old Rte 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.418388,40.262104,-74.418388,40.262104",
     "geom:latitude":40.262104,
     "geom:longitude":-74.418388,
@@ -27,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C9lVOUM7AhnPogJFyyWFe_40.262104_-74.418388@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296435,
     "wof:geomhash":"4bd836aef727995fa1474e8c5a2bb91c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":639476093
+        }
+    ],
     "wof:id":639476093,
-    "wof:lastmodified":1466694123,
+    "wof:lastmodified":1492052320,
     "wof:name":"Liberty Life Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638970595,
   "type": "Feature",
   "properties": {
+    "addr:full":"782 18th Ave Irvington NJ 07111",
+    "addr:housenumber":"782",
+    "addr:postcode":"07111",
+    "addr:street":"18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219668,40.736702,-74.219668,40.736702",
     "geom:latitude":40.736702,
     "geom:longitude":-74.219668,
@@ -27,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13g6RQ6e3cFRtrEX6mdo04_40.736702_-74.219668@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461284458,
     "wof:geomhash":"cf91d47ce9d6eae458e593c0c2f7a8ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638970595
+        }
+    ],
     "wof:id":638970595,
-    "wof:lastmodified":1466691687,
+    "wof:lastmodified":1492051997,
     "wof:name":"H & H Battery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

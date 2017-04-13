@@ -2,9 +2,14 @@
   "id": 655564711,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Oak St Harrington Park NJ 07640",
+    "addr:housenumber":"52",
+    "addr:postcode":"07640",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.984648,40.996319,-73.984648,40.996319",
     "geom:latitude":40.996319,
     "geom:longitude":-73.984648,
@@ -29,7 +34,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bOWhR5wL1CV7XlrOCT3qk_40.996319_-73.984648@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461311487,
     "wof:geomhash":"1b4332f0bf1efd5040c58916f1bc4624",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655564711
+        }
+    ],
     "wof:id":655564711,
-    "wof:lastmodified":1466679923,
+    "wof:lastmodified":1492053730,
     "wof:name":"Brockmeier Family Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

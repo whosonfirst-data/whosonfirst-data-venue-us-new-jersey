@@ -2,9 +2,14 @@
   "id": 639421007,
   "type": "Feature",
   "properties": {
+    "addr:full":"548 W Grand Ave Rahway NJ 07065",
+    "addr:housenumber":"548",
+    "addr:postcode":"07065",
+    "addr:street":"W Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279704,40.613916,-74.279704,40.613916",
     "geom:latitude":40.613916,
     "geom:longitude":-74.279704,
@@ -28,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dcZVhX8GdORafR2EALF2S_40.613916_-74.279704@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294734,
     "wof:geomhash":"090807fbb9d9780cc09d08717955df75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639421007
+        }
+    ],
     "wof:id":639421007,
-    "wof:lastmodified":1466693200,
+    "wof:lastmodified":1492076768,
     "wof:name":"Moonlite Travel & Computer Sal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

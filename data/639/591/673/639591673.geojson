@@ -2,9 +2,14 @@
   "id": 639591673,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Lasinski Rd Franklin NJ 07416",
+    "addr:housenumber":"22",
+    "addr:postcode":"07416",
+    "addr:street":"Lasinski Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.615652,41.120536,-74.615652,41.120536",
     "geom:latitude":41.120536,
     "geom:longitude":-74.615652,
@@ -34,7 +39,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YnhGfsZis4ll4rTFODw4Y_41.120536_-74.615652@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461301422,
     "wof:geomhash":"d79fa91862fcad0b69bda26e3d13b07b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527625,
+            "venue_id":639591673
+        }
+    ],
     "wof:id":639591673,
-    "wof:lastmodified":1466696881,
+    "wof:lastmodified":1492081932,
     "wof:name":"Advanced Door Sales Inc",
     "wof:parent_id":420527625,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639231475,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Bridge St Milford NJ 08848",
+    "addr:housenumber":"67",
+    "addr:postcode":"08848",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.095875,40.568043,-75.095875,40.568043",
     "geom:latitude":40.568043,
     "geom:longitude":-75.095875,
@@ -27,7 +32,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478233,
+        85633793,
+        85975681,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MPwCGl3QIzxXyveIm8nCh_40.568043_-75.095875@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290391,
     "wof:geomhash":"9c701ce7be9d8ded7cfe800aa98cf55c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478233,
+            "locality_id":85975681,
+            "region_id":85688607,
+            "venue_id":639231475
+        }
+    ],
     "wof:id":639231475,
-    "wof:lastmodified":1466689781,
+    "wof:lastmodified":1492039028,
     "wof:name":"ADT Statewide West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

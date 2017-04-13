@@ -2,9 +2,14 @@
   "id": 655472807,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Plum Tree Ln Union NJ 07083",
+    "addr:housenumber":"105",
+    "addr:postcode":"07083",
+    "addr:street":"Plum Tree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251743,40.701094,-74.251743,40.701094",
     "geom:latitude":40.701094,
     "geom:longitude":-74.251743,
@@ -29,7 +34,10 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A5pmPLZJvOEvcgNGuOUn7_40.701094_-74.251743@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461307704,
     "wof:geomhash":"752655595acc0dc222a5e5ef7d6aa508",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655472807
+        }
+    ],
     "wof:id":655472807,
-    "wof:lastmodified":1466677513,
+    "wof:lastmodified":1492065461,
     "wof:name":"Genesis",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

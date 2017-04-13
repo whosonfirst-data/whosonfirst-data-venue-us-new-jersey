@@ -2,9 +2,14 @@
   "id": 655667629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 Neck Rd Burlington NJ 08016",
+    "addr:housenumber":"1021",
+    "addr:postcode":"08016",
+    "addr:street":"Neck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.821243,40.082623,-74.821243,40.082623",
     "geom:latitude":40.082623,
     "geom:longitude":-74.821243,
@@ -27,7 +32,10 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30YBcBNT5zGpOZUhFaxvV8_40.082542_-74.821110@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315908,
     "wof:geomhash":"f2c73c330f0d02e9e03384838fe0eb07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":655667629
+        }
+    ],
     "wof:id":655667629,
-    "wof:lastmodified":1466683536,
+    "wof:lastmodified":1492023737,
     "wof:name":"CVS",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

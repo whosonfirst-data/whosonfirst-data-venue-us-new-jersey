@@ -2,9 +2,14 @@
   "id": 639526427,
   "type": "Feature",
   "properties": {
+    "addr:full":"164 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"164",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.146248,41.097004,-74.146248,41.097004",
     "geom:latitude":41.097004,
     "geom:longitude":-74.146248,
@@ -32,7 +37,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13chCePvQa4AdhR6qZpt1Z_41.097004_-74.146248@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461298664,
     "wof:geomhash":"a54ea5b24161779036c50f48349ae16d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639526427
+        }
+    ],
     "wof:id":639526427,
-    "wof:lastmodified":1466695311,
+    "wof:lastmodified":1492041533,
     "wof:name":"Specialty Finishes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

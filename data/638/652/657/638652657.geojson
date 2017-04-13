@@ -2,9 +2,14 @@
   "id": 638652657,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 Grove Ave Edison NJ 08820",
+    "addr:housenumber":"680",
+    "addr:postcode":"08820",
+    "addr:street":"Grove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.357806,40.570991,-74.357806,40.570991",
     "geom:latitude":40.570991,
     "geom:longitude":-74.357806,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29DIdFkfZSiDbd0D3aWa0C_40.570991_-74.357806@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461275876,
     "wof:geomhash":"d4c7ac03eda4eb91ebd30611e290ecb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":638652657
+        }
+    ],
     "wof:id":638652657,
-    "wof:lastmodified":1466673909,
+    "wof:lastmodified":1492042508,
     "wof:name":"John Soltesz Inc",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

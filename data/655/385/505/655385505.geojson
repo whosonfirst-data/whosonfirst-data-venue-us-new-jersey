@@ -2,9 +2,14 @@
   "id": 655385505,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Old Milford Ln West Milford NJ 07480",
+    "addr:housenumber":"25",
+    "addr:postcode":"07480",
+    "addr:street":"Old Milford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.40743,41.10314,-74.40743,41.10314",
     "geom:latitude":41.10314,
     "geom:longitude":-74.40743,
@@ -27,7 +32,13 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68qlpsHhaUMgOW54ij5lfQ_41.103140_-74.407430@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304010,
     "wof:geomhash":"fb84eb344491537e538ed8aa9985dfa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":655385505
+        }
+    ],
     "wof:id":655385505,
-    "wof:lastmodified":1466675078,
+    "wof:lastmodified":1492081999,
     "wof:name":"Rockland Electric Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

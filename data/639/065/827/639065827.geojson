@@ -2,9 +2,14 @@
   "id": 639065827,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Mickens Ln Bloomingdale NJ 07403",
+    "addr:housenumber":"43",
+    "addr:postcode":"07403",
+    "addr:street":"Mickens Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329462,41.019337,-74.329462,41.019337",
     "geom:latitude":41.019337,
     "geom:longitude":-74.329462,
@@ -27,7 +32,14 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hjnZ8l1CPyznNvBFf6tRv_41.019337_-74.329462@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286602,
     "wof:geomhash":"93dede71dd43d5fb8589becb20570320",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639065827
+        }
+    ],
     "wof:id":639065827,
-    "wof:lastmodified":1466688263,
+    "wof:lastmodified":1492043336,
     "wof:name":"Plush Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

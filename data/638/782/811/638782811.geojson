@@ -2,9 +2,14 @@
   "id": 638782811,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Darlington Ave Ramsey NJ 07446",
+    "addr:housenumber":"109",
+    "addr:postcode":"07446",
+    "addr:street":"Darlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14854,41.059997,-74.14854,41.059997",
     "geom:latitude":41.059997,
     "geom:longitude":-74.14854,
@@ -27,7 +32,14 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LqAwi4ZqMsJ0iTI11eyAE_41.059997_-74.148540@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279862,
     "wof:geomhash":"eef6ce2cf7c14a1b429c537973d28e28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":638782811
+        }
+    ],
     "wof:id":638782811,
-    "wof:lastmodified":1466683367,
+    "wof:lastmodified":1492029341,
     "wof:name":"Van Emburgh-Sneider Funeral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

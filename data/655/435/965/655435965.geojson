@@ -2,9 +2,14 @@
   "id": 655435965,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 King Ave Merchantville NJ 08109",
+    "addr:housenumber":"4021",
+    "addr:postcode":"08109",
+    "addr:street":"King Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.070913,39.941642,-75.070913,39.941642",
     "geom:latitude":39.941642,
     "geom:longitude":-75.070913,
@@ -24,7 +29,15 @@
     "sg:postcode":"08109",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cZLrW1CTVbtGtRjpSwrPl_39.941642_-75.070913@1294171694"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1461306145,
     "wof:geomhash":"1885576a677d74f835279dfccc87813f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655435965
+        }
+    ],
     "wof:id":655435965,
-    "wof:lastmodified":1466676502,
+    "wof:lastmodified":1492057980,
     "wof:name":"Inventek In",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

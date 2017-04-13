@@ -2,9 +2,14 @@
   "id": 655616517,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Bellis Rd Bloomsbury NJ 08804",
+    "addr:housenumber":"301",
+    "addr:postcode":"08804",
+    "addr:street":"Bellis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.135977,40.614777,-75.135977,40.614777",
     "geom:latitude":40.614777,
     "geom:longitude":-75.135977,
@@ -27,7 +32,10 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16zEhq14fa1Mh6IXuD7Awb_40.614777_-75.135977@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461313718,
     "wof:geomhash":"3dc6e93002d71573f5696c0ad82d16d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527793,
+            "venue_id":655616517
+        }
+    ],
     "wof:id":655616517,
-    "wof:lastmodified":1466681657,
+    "wof:lastmodified":1492048108,
     "wof:name":"Superior Welding & Fabrication",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

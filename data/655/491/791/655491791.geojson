@@ -2,9 +2,14 @@
   "id": 655491791,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Oak St Bloomingdale NJ 07403",
+    "addr:housenumber":"38",
+    "addr:postcode":"07403",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.327806,41.004984,-74.327806,41.004984",
     "geom:latitude":41.004984,
     "geom:longitude":-74.327806,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72y5lDewDZJfUpazSY1g0g_41.004984_-74.327806@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308488,
     "wof:geomhash":"b4713e6bfd7d793a01abf962f22f6576",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655491791
+        }
+    ],
     "wof:id":655491791,
-    "wof:lastmodified":1466678026,
+    "wof:lastmodified":1492024262,
     "wof:name":"Stalter Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

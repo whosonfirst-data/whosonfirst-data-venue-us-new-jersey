@@ -2,9 +2,14 @@
   "id": 655812835,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Willingboro Way Burlington NJ 08046",
+    "addr:housenumber":"300",
+    "addr:postcode":"08046",
+    "addr:street":"Willingboro Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.89,40.0523,-74.89,40.0523",
     "geom:latitude":40.0523,
     "geom:longitude":-74.89,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"www.bcc.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WhUu9ce7l3dqeEebxK6yb_40.052300_-74.890000@1303262276"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461321931,
     "wof:geomhash":"d7503cf0b444230fd89b00cd9e8d53ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812835
+        }
+    ],
     "wof:id":655812835,
-    "wof:lastmodified":1466687283,
+    "wof:lastmodified":1492041958,
     "wof:name":"Burlington County College",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

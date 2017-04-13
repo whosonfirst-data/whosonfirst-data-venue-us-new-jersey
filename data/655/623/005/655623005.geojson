@@ -2,9 +2,14 @@
   "id": 655623005,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Harrison Ave Garfield NJ 07026",
+    "addr:housenumber":"217",
+    "addr:postcode":"07026",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.097949,40.87379,-74.097949,40.87379",
     "geom:latitude":40.87379,
     "geom:longitude":-74.097949,
@@ -24,7 +29,14 @@
     "sg:postcode":"07026",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477681,
+        85633793,
+        85975979,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49EASXEL14DxOYVPAeevCp_40.873790_-74.097949@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314014,
     "wof:geomhash":"f6c30dd977505819de660ecc5e5cf881",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477681,
+            "locality_id":85975979,
+            "region_id":85688607,
+            "venue_id":655623005
+        }
+    ],
     "wof:id":655623005,
-    "wof:lastmodified":1466681733,
+    "wof:lastmodified":1492068952,
     "wof:name":"Marina Estates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

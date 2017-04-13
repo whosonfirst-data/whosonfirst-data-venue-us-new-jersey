@@ -2,9 +2,14 @@
   "id": 655671139,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Pine St Willingboro NJ 08046",
+    "addr:housenumber":"45",
+    "addr:postcode":"08046",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.911797,40.037102,-74.911797,40.037102",
     "geom:latitude":40.037102,
     "geom:longitude":-74.911797,
@@ -28,7 +33,10 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vbpc2tx3DiD65xzWoc5Au_40.036762_-74.911142@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316061,
     "wof:geomhash":"48dc64740194f7272d647448f45d36c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655671139
+        }
+    ],
     "wof:id":655671139,
-    "wof:lastmodified":1466683429,
+    "wof:lastmodified":1492053425,
     "wof:name":"May Funeral Home",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

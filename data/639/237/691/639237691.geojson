@@ -2,9 +2,14 @@
   "id": 639237691,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Donnybrook Dr Demarest NJ 07627",
+    "addr:housenumber":"29",
+    "addr:postcode":"07627",
+    "addr:street":"Donnybrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.967453,40.966287,-73.967453,40.966287",
     "geom:latitude":40.966287,
     "geom:longitude":-73.967453,
@@ -29,7 +34,14 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OtGr0v0aOJINAnjqj3mGV_40.966287_-73.967453@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461290549,
     "wof:geomhash":"5614105ad4ee6d3604636d17f99a7838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":639237691
+        }
+    ],
     "wof:id":639237691,
-    "wof:lastmodified":1466690085,
+    "wof:lastmodified":1492047967,
     "wof:name":"Justice Planners International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

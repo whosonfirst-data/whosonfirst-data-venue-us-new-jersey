@@ -2,9 +2,14 @@
   "id": 639627877,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Old Main St Asbury NJ 08802",
+    "addr:housenumber":"405",
+    "addr:postcode":"08802",
+    "addr:street":"Old Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012873,40.699816,-75.012873,40.699816",
     "geom:latitude":40.699816,
     "geom:longitude":-75.012873,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.asbury.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478417,
+        85633793,
+        85976471,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pkyBFLCM9BTz9nB9aBy4v_40.699816_-75.012873@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302833,
     "wof:geomhash":"f85e871b5e76e541c8bb6ececf0c475d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478417,
+            "locality_id":85976471,
+            "region_id":85688607,
+            "venue_id":639627877
+        }
+    ],
     "wof:id":639627877,
-    "wof:lastmodified":1466697561,
+    "wof:lastmodified":1492020750,
     "wof:name":"Asbury Carbons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

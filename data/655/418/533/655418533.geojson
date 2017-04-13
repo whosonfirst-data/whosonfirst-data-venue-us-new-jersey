@@ -2,9 +2,14 @@
   "id": 655418533,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Beck Ave South Bound Brook NJ 08880",
+    "addr:housenumber":"211",
+    "addr:postcode":"08880",
+    "addr:street":"Beck Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.534876,40.552384,-74.534876,40.552384",
     "geom:latitude":40.552384,
     "geom:longitude":-74.534876,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YljnwhinJG1yuVxiUn1ua_40.552384_-74.534876@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461305406,
     "wof:geomhash":"219ee4c221835c3d68f96f0f3f8476fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":655418533
+        }
+    ],
     "wof:id":655418533,
-    "wof:lastmodified":1466676071,
+    "wof:lastmodified":1492027239,
     "wof:name":"Associated Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

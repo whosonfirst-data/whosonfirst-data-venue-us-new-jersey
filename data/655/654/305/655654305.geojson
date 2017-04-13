@@ -2,9 +2,14 @@
   "id": 655654305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Mary Belle Rd Barnegat NJ 08005",
+    "addr:housenumber":"1",
+    "addr:postcode":"08005",
+    "addr:street":"Mary Belle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241073,39.730754,-74.241073,39.730754",
     "geom:latitude":39.730754,
     "geom:longitude":-74.241073,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nAY7RUwjWZjFfrde5tR0v_39.730754_-74.241073@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315349,
     "wof:geomhash":"cd5f5c663663238123fc73e82e3243ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":655654305
+        }
+    ],
     "wof:id":655654305,
-    "wof:lastmodified":1466682895,
+    "wof:lastmodified":1492071375,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

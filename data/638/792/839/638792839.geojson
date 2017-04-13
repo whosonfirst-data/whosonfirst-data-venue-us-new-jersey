@@ -2,9 +2,14 @@
   "id": 638792839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1596 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"1596;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.554299,41.208085,-74.554299,41.208085",
     "geom:latitude":41.208085,
     "geom:longitude":-74.554299,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j3pp4jpQWqd0VPrFE74Iq_41.208085_-74.554299@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280077,
     "wof:geomhash":"fbc134099697d7bdb46c8c977a0237e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":638792839
+        }
+    ],
     "wof:id":638792839,
-    "wof:lastmodified":1466684665,
+    "wof:lastmodified":1492052341,
     "wof:name":"Mark's Auto Maintenance",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

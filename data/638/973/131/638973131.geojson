@@ -2,9 +2,14 @@
   "id": 638973131,
   "type": "Feature",
   "properties": {
+    "addr:full":"1180 State Rte 70 Cherry Hill NJ 08034",
+    "addr:housenumber":"1180",
+    "addr:postcode":"08034",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.991514,39.91053,-74.991514,39.91053",
     "geom:latitude":39.91053,
     "geom:longitude":-74.991514,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804463,
+        420526805,
         102191575,
         404477993,
         85633793,
-        85976245,
+        85976225,
         102081131,
-        85688607
+        85688607,
+        85804463,
+        85976245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +57,16 @@
             "country_id":85633793,
             "county_id":102081131,
             "localadmin_id":404477993,
+            "locality_id":85976225,
+            "neighbourhood_id":420526805,
+            "region_id":85688607,
+            "venue_id":638973131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
             "locality_id":85976245,
             "neighbourhood_id":85804463,
             "region_id":85688607,
@@ -57,9 +74,9 @@
         }
     ],
     "wof:id":638973131,
-    "wof:lastmodified":1466691708,
+    "wof:lastmodified":1492043096,
     "wof:name":"Oreck Floor Care Ctr",
-    "wof:parent_id":85804463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

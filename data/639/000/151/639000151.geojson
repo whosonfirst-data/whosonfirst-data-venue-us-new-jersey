@@ -2,9 +2,14 @@
   "id": 639000151,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Kasper Rd Andover NJ 07821",
+    "addr:housenumber":"12",
+    "addr:postcode":"07821",
+    "addr:street":"Kasper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.834699,40.94359,-74.834699,40.94359",
     "geom:latitude":40.94359,
     "geom:longitude":-74.834699,
@@ -27,7 +32,13 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477591,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dq30Rd9YmRCv3sVLoOMM1_40.943590_-74.834699@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285111,
     "wof:geomhash":"47df92d4e1fe5622e5e22d96973d3e4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404477591,
+            "region_id":85688607,
+            "venue_id":639000151
+        }
+    ],
     "wof:id":639000151,
-    "wof:lastmodified":1466673047,
+    "wof:lastmodified":1492076810,
     "wof:name":"Polowy Stone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

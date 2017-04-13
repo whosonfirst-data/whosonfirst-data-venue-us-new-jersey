@@ -2,9 +2,14 @@
   "id": 655424077,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Terrace St Haworth NJ 07641",
+    "addr:housenumber":"149",
+    "addr:postcode":"07641",
+    "addr:street":"Terrace St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989456,40.958109,-73.989456,40.958109",
     "geom:latitude":40.958109,
     "geom:longitude":-73.989456,
@@ -24,7 +29,14 @@
     "sg:postcode":"07641",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IlHdK2rqXFPmFL8mtaPSR_40.958109_-73.989456@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461305627,
     "wof:geomhash":"60a6dc69f167627e31f0471dfe8909f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":655424077
+        }
+    ],
     "wof:id":655424077,
-    "wof:lastmodified":1466676010,
+    "wof:lastmodified":1492081983,
     "wof:name":"Haworth Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

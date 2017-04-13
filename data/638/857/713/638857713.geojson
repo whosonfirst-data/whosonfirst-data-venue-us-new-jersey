@@ -2,9 +2,14 @@
   "id": 638857713,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Miller Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"91",
+    "addr:postcode":"07407",
+    "addr:street":"Miller Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123121,40.908205,-74.123121,40.908205",
     "geom:latitude":40.908205,
     "geom:longitude":-74.123121,
@@ -28,7 +33,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mo4LUHCQB2DN78Xpca5y7_40.908205_-74.123121@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281705,
     "wof:geomhash":"e5a2596c66395c76ab5da82020c0e85c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638857713
+        }
+    ],
     "wof:id":638857713,
-    "wof:lastmodified":1466689405,
+    "wof:lastmodified":1492073675,
     "wof:name":"Elmwood Park Getty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

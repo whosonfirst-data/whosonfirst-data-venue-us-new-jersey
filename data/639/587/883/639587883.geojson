@@ -2,9 +2,14 @@
   "id": 639587883,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Stony Brook Ln Wyckoff NJ 07481",
+    "addr:housenumber":"509",
+    "addr:postcode":"07481",
+    "addr:street":"Stony Brook Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.177551,41.000632,-74.177551,41.000632",
     "geom:latitude":41.000632,
     "geom:longitude":-74.177551,
@@ -29,7 +34,10 @@
         "registration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526559
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4keQmXeYIwDvUSq9T3MLia_41.000632_-74.177551@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461301245,
     "wof:geomhash":"09e731a81e72e58c407d4ac611c95d1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526559,
+            "venue_id":639587883
+        }
+    ],
     "wof:id":639587883,
-    "wof:lastmodified":1466696696,
+    "wof:lastmodified":1492081976,
     "wof:name":"Expo Information Systems Inc",
     "wof:parent_id":420526559,
     "wof:placetype":"venue",

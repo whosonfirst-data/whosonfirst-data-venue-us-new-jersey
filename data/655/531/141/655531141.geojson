@@ -2,9 +2,14 @@
   "id": 655531141,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Pleasant Pl Kearny NJ 07032",
+    "addr:housenumber":"29",
+    "addr:postcode":"07032",
+    "addr:street":"Pleasant Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144348,40.778258,-74.144348,40.778258",
     "geom:latitude":40.778258,
     "geom:longitude":-74.144348,
@@ -28,7 +33,14 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BP3Dwb0iioiy3RcBgDGoE_40.778258_-74.144348@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310091,
     "wof:geomhash":"afb3c8edf72ac5f9a0069896ecf1de37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655531141
+        }
+    ],
     "wof:id":655531141,
-    "wof:lastmodified":1466678921,
+    "wof:lastmodified":1492028586,
     "wof:name":"Duro Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

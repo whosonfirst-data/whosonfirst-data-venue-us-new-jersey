@@ -2,9 +2,14 @@
   "id": 639604761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Franklin Ave Ocean NJ 07712",
+    "addr:housenumber":"1018",
+    "addr:postcode":"07712",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.033555,40.244597,-74.033555,40.244597",
     "geom:latitude":40.244597,
     "geom:longitude":-74.033555,
@@ -32,7 +37,11 @@
         85633793,
         85976033,
         102085049,
-        85855351
+        85855351,
+        85855123,
+        102191575,
+        404478379,
+        85976047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +58,22 @@
             "neighbourhood_id":85855351,
             "region_id":85688607,
             "venue_id":639604761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478379,
+            "locality_id":85976047,
+            "neighbourhood_id":85855123,
+            "region_id":85688607,
+            "venue_id":639604761
         }
     ],
     "wof:id":639604761,
-    "wof:lastmodified":1466697073,
+    "wof:lastmodified":1492051069,
     "wof:name":"ROHO Distributing",
-    "wof:parent_id":85855351,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

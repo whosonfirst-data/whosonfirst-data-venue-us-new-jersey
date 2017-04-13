@@ -2,9 +2,14 @@
   "id": 639515225,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Butler St Trenton NJ 08611",
+    "addr:housenumber":"11",
+    "addr:postcode":"08611",
+    "addr:street":"Butler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75318,40.212525,-74.75318,40.212525",
     "geom:latitude":40.212525,
     "geom:longitude":-74.75318,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PbRnsxXullrLqRAjuWJWE_40.212525_-74.753180@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298079,
     "wof:geomhash":"3c53b2a5fe665f442b8d9c244f97fe96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639515225
+        }
+    ],
     "wof:id":639515225,
-    "wof:lastmodified":1466694992,
+    "wof:lastmodified":1492041946,
     "wof:name":"JNR General Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

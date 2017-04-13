@@ -2,9 +2,14 @@
   "id": 639149177,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Terrace Ave Butler NJ 07405",
+    "addr:housenumber":"34",
+    "addr:postcode":"07405",
+    "addr:street":"Terrace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.355532,41.010096,-74.355532,41.010096",
     "geom:latitude":41.010096,
     "geom:longitude":-74.355532,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vaYZovXwTQKBr6h7MlrOs_41.010096_-74.355532@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288502,
     "wof:geomhash":"a868e57fd1572d55a9b31fb3a94937a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":639149177
+        }
+    ],
     "wof:id":639149177,
-    "wof:lastmodified":1466681219,
+    "wof:lastmodified":1492043340,
     "wof:name":"Alternative Computer Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

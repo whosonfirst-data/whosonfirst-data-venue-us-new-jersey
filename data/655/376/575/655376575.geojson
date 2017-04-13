@@ -2,9 +2,14 @@
   "id": 655376575,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Deer Rd Cherry Hill NJ 08034",
+    "addr:housenumber":"600",
+    "addr:postcode":"08034",
+    "addr:street":"Deer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.974346,39.917493,-74.974346,39.917493",
     "geom:latitude":39.917493,
     "geom:longitude":-74.974346,
@@ -37,13 +42,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850687,
+        420526727,
         102191575,
         404477993,
         85633793,
-        85976231,
+        85976225,
         102081131,
-        85688607
+        85688607,
+        85850687,
+        85976231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +65,16 @@
             "country_id":85633793,
             "county_id":102081131,
             "localadmin_id":404477993,
+            "locality_id":85976225,
+            "neighbourhood_id":420526727,
+            "region_id":85688607,
+            "venue_id":655376575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
             "locality_id":85976231,
             "neighbourhood_id":85850687,
             "region_id":85688607,
@@ -65,9 +82,9 @@
         }
     ],
     "wof:id":655376575,
-    "wof:lastmodified":1466674833,
+    "wof:lastmodified":1492025563,
     "wof:name":"Corrosion Technology Systems",
-    "wof:parent_id":85850687,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

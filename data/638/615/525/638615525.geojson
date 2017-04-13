@@ -2,9 +2,14 @@
   "id": 638615525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2530 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2530",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291821,40.717124,-74.291821,40.717124",
     "geom:latitude":40.717124,
     "geom:longitude":-74.291821,
@@ -29,7 +34,10 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TM4jPpfgUMrnQkCaoEPAk_40.717124_-74.291821@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461274779,
     "wof:geomhash":"4ef15ef5a1ec822d0c9ef2205590dfa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":638615525
+        }
+    ],
     "wof:id":638615525,
-    "wof:lastmodified":1466672981,
+    "wof:lastmodified":1492029661,
     "wof:name":"J & C General Excavating Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

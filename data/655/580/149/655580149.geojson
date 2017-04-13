@@ -2,9 +2,14 @@
   "id": 655580149,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Paris Ave Northvale NJ 07647",
+    "addr:housenumber":"125",
+    "addr:postcode":"07647",
+    "addr:street":"Paris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951104,41.007527,-73.951104,41.007527",
     "geom:latitude":41.007527,
     "geom:longitude":-73.951104,
@@ -27,7 +32,14 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10D7jy5bdNRJK3doChJncc_41.007527_-73.951104@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312169,
     "wof:geomhash":"febded7baf0aad8accc1cd9973511f66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655580149
+        }
+    ],
     "wof:id":655580149,
-    "wof:lastmodified":1466680255,
+    "wof:lastmodified":1492053732,
     "wof:name":"Grandma's Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

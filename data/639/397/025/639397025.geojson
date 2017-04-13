@@ -2,9 +2,14 @@
   "id": 639397025,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Ridge Rd Dayton NJ 08831",
+    "addr:housenumber":"152",
+    "addr:postcode":"08831",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.469024,40.374627,-74.469024,40.374627",
     "geom:latitude":40.374627,
     "geom:longitude":-74.469024,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WhCYBGYLLGXL451TnDaQy_40.374627_-74.469024@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461294066,
     "wof:geomhash":"8c18d065b3d4cfd765a832e67f335005",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639397025
+        }
+    ],
     "wof:id":639397025,
-    "wof:lastmodified":1466692921,
+    "wof:lastmodified":1492051527,
     "wof:name":"Petco Animal Supplies Inc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

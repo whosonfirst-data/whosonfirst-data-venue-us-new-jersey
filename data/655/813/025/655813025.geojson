@@ -2,9 +2,14 @@
   "id": 655813025,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Campbell Dr Willingboro NJ 08046",
+    "addr:housenumber":"300",
+    "addr:postcode":"08046",
+    "addr:street":"Campbell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8909,40.0531,-74.8909,40.0531",
     "geom:latitude":40.0531,
     "geom:longitude":-74.8909,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.olympiasports.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WkabzuOF3D4J75LuSto5U_40.053100_-74.890900@1303262276"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321938,
     "wof:geomhash":"177fd56435cb155309964cb4005556f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813025
+        }
+    ],
     "wof:id":655813025,
-    "wof:lastmodified":1466687121,
+    "wof:lastmodified":1492049202,
     "wof:name":"Olympia Sports",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

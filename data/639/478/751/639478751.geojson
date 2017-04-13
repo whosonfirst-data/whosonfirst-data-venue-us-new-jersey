@@ -2,9 +2,14 @@
   "id": 639478751,
   "type": "Feature",
   "properties": {
+    "addr:full":"462 River Styx Rd Hopatcong NJ 07843",
+    "addr:housenumber":"462",
+    "addr:postcode":"07843",
+    "addr:street":"River Styx Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.654883,40.942225,-74.654883,40.942225",
     "geom:latitude":40.942225,
     "geom:longitude":-74.654883,
@@ -24,7 +29,15 @@
     "sg:postcode":"07843",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527629,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ViszzHybfRJV8yPVdhQuZ_40.942225_-74.654883@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461296555,
     "wof:geomhash":"2caede8e888efd02ea860702b1387a5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "neighbourhood_id":420527629,
+            "region_id":85688607,
+            "venue_id":639478751
+        }
+    ],
     "wof:id":639478751,
-    "wof:lastmodified":1466693850,
+    "wof:lastmodified":1492048847,
     "wof:name":"E & T Food Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

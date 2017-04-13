@@ -2,9 +2,14 @@
   "id": 655762233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 US Highway 46 Little Falls NJ 07424",
+    "addr:housenumber":"1230",
+    "addr:postcode":"07424",
+    "addr:street":"Us Highway 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.212997,40.884602,-74.212997,40.884602",
     "geom:latitude":40.884602,
     "geom:longitude":-74.212997,
@@ -27,7 +32,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dxNgtJy54vdJ2frwEi6Ti_40.884602_-74.212997@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319741,
     "wof:geomhash":"389a7e85a174283e81a528c8127748c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655762233
+        }
+    ],
     "wof:id":655762233,
-    "wof:lastmodified":1466685831,
+    "wof:lastmodified":1492025160,
     "wof:name":"Wayne Dinettes & Bar Stools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

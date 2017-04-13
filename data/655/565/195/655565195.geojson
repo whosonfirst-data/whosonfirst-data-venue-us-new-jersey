@@ -2,9 +2,14 @@
   "id": 655565195,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Hines Ave Mahwah NJ 07430",
+    "addr:housenumber":"39",
+    "addr:postcode":"07430",
+    "addr:street":"Hines Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.156939,41.100614,-74.156939,41.100614",
     "geom:latitude":41.100614,
     "geom:longitude":-74.156939,
@@ -30,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pGiYjRahwEBiJOJA2hqsD_41.100614_-74.156939@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461311507,
     "wof:geomhash":"da14f5cb6319917b8701dfcf9b4bbee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655565195
+        }
+    ],
     "wof:id":655565195,
-    "wof:lastmodified":1466679803,
+    "wof:lastmodified":1492024408,
     "wof:name":"Nelsons HVAC Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

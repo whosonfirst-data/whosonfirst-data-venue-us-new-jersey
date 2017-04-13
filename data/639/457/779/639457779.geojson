@@ -2,9 +2,14 @@
   "id": 639457779,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Chrystal St Randolph NJ 07869",
+    "addr:housenumber":"223",
+    "addr:postcode":"07869",
+    "addr:street":"Chrystal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.559255,40.873145,-74.559255,40.873145",
     "geom:latitude":40.873145,
     "geom:longitude":-74.559255,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85892359,
+        102191575,
+        404478307,
         85633793,
-        85834231,
-        102087413
+        85975557,
+        102087413,
+        85688607,
+        85834231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"6344fba336506524aae3ea2ff9d85be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478307,
+            "locality_id":85975557,
+            "neighbourhood_id":85892359,
+            "region_id":85688607,
+            "venue_id":639457779
+        },
+        {
             "country_id":85633793,
             "county_id":102087413,
             "neighbourhood_id":85834231,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":639457779,
-    "wof:lastmodified":1466693785,
+    "wof:lastmodified":1492062138,
     "wof:name":"Gear Up Promotions Inc",
-    "wof:parent_id":85834231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655389843,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 S 20th St Irvington NJ 07111",
+    "addr:housenumber":"130",
+    "addr:postcode":"07111",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220125,40.719724,-74.220125,40.719724",
     "geom:latitude":40.719724,
     "geom:longitude":-74.220125,
@@ -27,7 +32,13 @@
         "paper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21Fft6Pm7GlTtQxYqtK2iC_40.719724_-74.220125@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304206,
     "wof:geomhash":"9926e7661d9ec42897ccd3348a88cf29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655389843
+        }
+    ],
     "wof:id":655389843,
-    "wof:lastmodified":1466675367,
+    "wof:lastmodified":1492051418,
     "wof:name":"National Reel Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639004561,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 Crawford Ter Union NJ 07083",
+    "addr:housenumber":"420",
+    "addr:postcode":"07083",
+    "addr:street":"Crawford Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262638,40.686256,-74.262638,40.686256",
     "geom:latitude":40.686256,
     "geom:longitude":-74.262638,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975841,
+        102085995,
+        85892527,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gGG2GnrFk5oUAT3najtXn_40.686256_-74.262638@1294171694"
@@ -35,11 +47,25 @@
     "wof:country":"US",
     "wof:created":1461285203,
     "wof:geomhash":"87bdbb863b51c9b39621dabc809c5aee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "locality_id":85975841,
+            "neighbourhood_id":85892527,
+            "region_id":85688607,
+            "venue_id":639004561
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639004561
+        }
+    ],
     "wof:id":639004561,
-    "wof:lastmodified":1466673116,
+    "wof:lastmodified":1492069518,
     "wof:name":"Burns Construction Co Inc",
-    "wof:parent_id":420527729,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

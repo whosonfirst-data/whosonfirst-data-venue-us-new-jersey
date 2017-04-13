@@ -2,9 +2,14 @@
   "id": 655425221,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 N Church Rd Franklin NJ 07416",
+    "addr:housenumber":"240",
+    "addr:postcode":"07416",
+    "addr:street":"N Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.600442,41.126649,-74.600442,41.126649",
     "geom:latitude":41.126649,
     "geom:longitude":-74.600442,
@@ -28,7 +33,14 @@
         "cartridge"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527625,
+        85688607,
+        85975719,
+        102086779,
+        85823953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5atqlWpwHGljWZjM92sdog_41.126649_-74.600442@1294171694"
@@ -36,11 +48,25 @@
     "wof:country":"US",
     "wof:created":1461305668,
     "wof:geomhash":"aaa89e12d0cd988a6ee43004320720a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527625,
+            "venue_id":655425221
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "locality_id":85975719,
+            "neighbourhood_id":85823953,
+            "region_id":85688607,
+            "venue_id":655425221
+        }
+    ],
     "wof:id":655425221,
-    "wof:lastmodified":1466676051,
+    "wof:lastmodified":1492047689,
     "wof:name":"Superior Press Parts",
-    "wof:parent_id":420527625,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

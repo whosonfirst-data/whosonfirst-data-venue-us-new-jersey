@@ -2,9 +2,14 @@
   "id": 639546789,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Sam Bonnell Dr Clinton NJ 08809",
+    "addr:housenumber":"70",
+    "addr:postcode":"08809",
+    "addr:street":"Sam Bonnell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.935878,40.634322,-74.935878,40.634322",
     "geom:latitude":40.634322,
     "geom:longitude":-74.935878,
@@ -27,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hn9SkgnBP2bUEkSqMddrl_40.634322_-74.935878@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299600,
     "wof:geomhash":"bbf55e207f638f6535b9d335dce4d69e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":639546789
+        }
+    ],
     "wof:id":639546789,
-    "wof:lastmodified":1466695755,
+    "wof:lastmodified":1492050262,
     "wof:name":"Energy Companies",
     "wof:parent_id":420527125,
     "wof:placetype":"venue",

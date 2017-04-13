@@ -2,9 +2,14 @@
   "id": 638701385,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 S Warren St Trenton NJ 08608",
+    "addr:housenumber":"117",
+    "addr:postcode":"08608",
+    "addr:street":"S Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.766052,40.21857,-74.766052,40.21857",
     "geom:latitude":40.21857,
     "geom:longitude":-74.766052,
@@ -29,7 +34,14 @@
         "publication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59VMzwTsfkq2dSs1seDsA6_40.218570_-74.766052@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277560,
     "wof:geomhash":"562dc5f846dae7da49b305fa3a0ae832",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638701385
+        }
+    ],
     "wof:id":638701385,
-    "wof:lastmodified":1466688547,
+    "wof:lastmodified":1492062435,
     "wof:name":"Ewing Observer LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

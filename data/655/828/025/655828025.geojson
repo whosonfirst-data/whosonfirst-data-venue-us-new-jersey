@@ -2,9 +2,14 @@
   "id": 655828025,
   "type": "Feature",
   "properties": {
+    "addr:full":"3629 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"3629",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.074548,39.952858,-75.074548,39.952858",
     "geom:latitude":39.952858,
     "geom:longitude":-75.074548,
@@ -30,7 +35,14 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G37akloFa5IOdtCl6Hd33_39.952858_-75.074548@1303262280"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461322562,
     "wof:geomhash":"bcbfab92c1a85e79bd0c63bc6497028d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828025
+        }
+    ],
     "wof:id":655828025,
-    "wof:lastmodified":1466687554,
+    "wof:lastmodified":1492020634,
     "wof:name":"T W R",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

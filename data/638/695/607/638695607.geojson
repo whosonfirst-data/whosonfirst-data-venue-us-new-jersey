@@ -2,9 +2,14 @@
   "id": 638695607,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Mattner Ct Westwood NJ 07675",
+    "addr:housenumber":"790",
+    "addr:postcode":"07675",
+    "addr:street":"Mattner Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99349,40.997503,-73.99349,40.997503",
     "geom:latitude":40.997503,
     "geom:longitude":-73.99349,
@@ -27,7 +32,13 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w0T6aUVQqG2lFEIA1bSyC_40.997503_-73.993490@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461277383,
     "wof:geomhash":"e92525709941f79984455173c2a46a90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":638695607
+        }
+    ],
     "wof:id":638695607,
-    "wof:lastmodified":1466688414,
+    "wof:lastmodified":1492062268,
     "wof:name":"Production Business Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

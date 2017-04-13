@@ -2,9 +2,14 @@
   "id": 655604497,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 Summit Ave Maplewood NJ 07040",
+    "addr:housenumber":"529",
+    "addr:postcode":"07040",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263011,40.732477,-74.263011,40.732477",
     "geom:latitude":40.732477,
     "geom:longitude":-74.263011,
@@ -28,7 +33,13 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fVTcEoJbBj50QXQ53oF3N_40.732477_-74.263011@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313194,
     "wof:geomhash":"0d570331d5eb0cab6b5ff3d17a650d7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":655604497
+        }
+    ],
     "wof:id":655604497,
-    "wof:lastmodified":1466681202,
+    "wof:lastmodified":1492053864,
     "wof:name":"Portnoy Digital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

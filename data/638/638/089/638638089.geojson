@@ -2,9 +2,14 @@
   "id": 638638089,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Readington Rd Somerville NJ 08876",
+    "addr:housenumber":"335",
+    "addr:postcode":"08876",
+    "addr:street":"Readington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.714971,40.581006,-74.714971,40.581006",
     "geom:latitude":40.581006,
     "geom:longitude":-74.714971,
@@ -27,7 +32,13 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6acikzWiOeoo8lS0dZbfRU_40.581006_-74.714971@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461275462,
     "wof:geomhash":"00d77317f25e9286e78e5c0828f1f542",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":638638089
+        }
+    ],
     "wof:id":638638089,
-    "wof:lastmodified":1466673427,
+    "wof:lastmodified":1492055436,
     "wof:name":"Maro Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

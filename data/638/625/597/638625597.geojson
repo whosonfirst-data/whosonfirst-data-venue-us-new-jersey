@@ -2,9 +2,14 @@
   "id": 638625597,
   "type": "Feature",
   "properties": {
+    "addr:full":"385 Main St Little Falls NJ 07424",
+    "addr:housenumber":"385",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239267,40.885419,-74.239267,40.885419",
     "geom:latitude":40.885419,
     "geom:longitude":-74.239267,
@@ -24,7 +29,14 @@
     "sg:postcode":"07424",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rdsNgUcjzwMnvlk9BM6bY_40.885419_-74.239267@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461275088,
     "wof:geomhash":"4557a7e977d98b78213fb3b79192fe94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":638625597
+        }
+    ],
     "wof:id":638625597,
-    "wof:lastmodified":1466673097,
+    "wof:lastmodified":1492041194,
     "wof:name":"Aerobics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

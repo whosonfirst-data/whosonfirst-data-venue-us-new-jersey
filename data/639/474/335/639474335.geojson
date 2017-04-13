@@ -2,9 +2,14 @@
   "id": 639474335,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hickory Ct Englishtown NJ 07726",
+    "addr:housenumber":"4",
+    "addr:postcode":"07726",
+    "addr:street":"Hickory Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34787,40.321733,-74.34787,40.321733",
     "geom:latitude":40.321733,
     "geom:longitude":-74.34787,
@@ -28,7 +33,13 @@
         "radiotelephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GnF8ShwCWTLOCYvsC0hwf_40.321733_-74.347870@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461296375,
     "wof:geomhash":"e141d51793be452c36faef64fd81cd45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639474335
+        }
+    ],
     "wof:id":639474335,
-    "wof:lastmodified":1466694163,
+    "wof:lastmodified":1492052327,
     "wof:name":"Surfnet Wireless LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

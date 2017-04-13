@@ -2,9 +2,14 @@
   "id": 639602519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1981 Morrison Ave Union NJ 07083",
+    "addr:housenumber":"1981",
+    "addr:postcode":"07083",
+    "addr:street":"Morrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259728,40.704691,-74.259728,40.704691",
     "geom:latitude":40.704691,
     "geom:longitude":-74.259728,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AOjXnuz4j9NgyVs3eiZ41_40.704691_-74.259728@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301839,
     "wof:geomhash":"229e15b55bd9f54d7cd0944c91e338a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639602519
+        }
+    ],
     "wof:id":639602519,
-    "wof:lastmodified":1466696978,
+    "wof:lastmodified":1492051366,
     "wof:name":"Nathans Transfer LLC",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

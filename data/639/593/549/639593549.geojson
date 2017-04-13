@@ -2,9 +2,14 @@
   "id": 639593549,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Chicago Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"105",
+    "addr:postcode":"08742",
+    "addr:street":"Chicago Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.044519,40.100355,-74.044519,40.100355",
     "geom:latitude":40.100355,
     "geom:longitude":-74.044519,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WYpwolWnYH50Bi4UQEPO4_40.100355_-74.044519@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301501,
     "wof:geomhash":"0903ff1aa3b0be8b3f05fe4301f95a65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639593549
+        }
+    ],
     "wof:id":639593549,
-    "wof:lastmodified":1466696847,
+    "wof:lastmodified":1492047743,
     "wof:name":"Beach Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

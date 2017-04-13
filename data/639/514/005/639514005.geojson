@@ -2,9 +2,14 @@
   "id": 639514005,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Alexander Park Dr Princeton NJ 08540",
+    "addr:housenumber":"600",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.633828,40.318815,-74.633828,40.318815",
     "geom:latitude":40.318815,
     "geom:longitude":-74.633828,
@@ -34,7 +39,13 @@
     ],
     "sg:website":"www.itcinfotech.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gTSWsWFr4B3Coijn8f4cY_40.318815_-74.633828@1294171694"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461298019,
     "wof:geomhash":"586771e3f4d2d7deca2d7cb46cad6673",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639514005
+        }
+    ],
     "wof:id":639514005,
-    "wof:lastmodified":1466694952,
+    "wof:lastmodified":1492074638,
     "wof:name":"Itc Infotech USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

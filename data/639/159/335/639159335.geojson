@@ -2,9 +2,14 @@
   "id": 639159335,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Washington Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"14",
+    "addr:postcode":"08550",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.627517,40.323262,-74.627517,40.323262",
     "geom:latitude":40.323262,
     "geom:longitude":-74.627517,
@@ -28,7 +33,14 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mzgy9TNXyDmfMenhf4eAm_40.323262_-74.627517@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288739,
     "wof:geomhash":"bcfdcbd543b5a39d792dc2ed7a444be4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":639159335
+        }
+    ],
     "wof:id":639159335,
-    "wof:lastmodified":1466682933,
+    "wof:lastmodified":1492075215,
     "wof:name":"Nj Primary Care Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655367455,
   "type": "Feature",
   "properties": {
+    "addr:full":"475 Oberlin Ave S Lakewood NJ 08701",
+    "addr:housenumber":"475",
+    "addr:postcode":"08701",
+    "addr:street":"Oberlin Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.182572,40.072115,-74.182572,40.072115",
     "geom:latitude":40.072115,
     "geom:longitude":-74.182572,
@@ -29,7 +34,10 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zb2fTizQxBm4tyOv1gT0T_40.072115_-74.182572@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461303321,
     "wof:geomhash":"0ef538fdc7ce6d9287f69eb47b732185",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655367455
+        }
+    ],
     "wof:id":655367455,
-    "wof:lastmodified":1466674574,
+    "wof:lastmodified":1492048495,
     "wof:name":"Brownstone Gallery Ltd",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

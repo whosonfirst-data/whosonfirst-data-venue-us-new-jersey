@@ -2,9 +2,14 @@
   "id": 639198221,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Extonville Rd Trenton NJ 08620",
+    "addr:housenumber":"152",
+    "addr:postcode":"08620",
+    "addr:street":"Extonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.59747,40.154174,-74.59747,40.154174",
     "geom:latitude":40.154174,
     "geom:longitude":-74.59747,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6niRg22vWC5oOlcIjv6JtI_40.154174_-74.597470@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289591,
     "wof:geomhash":"a9595d8b127121c055db4f62d4f5bc0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":639198221
+        }
+    ],
     "wof:id":639198221,
-    "wof:lastmodified":1466688306,
+    "wof:lastmodified":1492051537,
     "wof:name":"Eddys Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

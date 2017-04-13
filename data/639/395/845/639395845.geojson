@@ -2,9 +2,14 @@
   "id": 639395845,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Monmouth Rd Jackson NJ 08527",
+    "addr:housenumber":"521",
+    "addr:postcode":"08527",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.417768,40.164409,-74.417768,40.164409",
     "geom:latitude":40.164409,
     "geom:longitude":-74.417768,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.sunoco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E473lxHVRH6uBR7cZp4Om_40.164409_-74.417768@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461294022,
     "wof:geomhash":"57be6071c1a21f5d419e5399880c3e81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639395845
+        }
+    ],
     "wof:id":639395845,
-    "wof:lastmodified":1466693012,
+    "wof:lastmodified":1492069451,
     "wof:name":"Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

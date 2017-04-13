@@ -2,9 +2,14 @@
   "id": 639547055,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Bergerville Rd Freehold NJ 07728",
+    "addr:housenumber":"122",
+    "addr:postcode":"07728",
+    "addr:street":"Bergerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268781,40.203079,-74.268781,40.203079",
     "geom:latitude":40.203079,
     "geom:longitude":-74.268781,
@@ -28,7 +33,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n0IvXR2GFvUf4VDVxvmXq_40.203079_-74.268781@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299610,
     "wof:geomhash":"e9ca29f0db61bdc7eab1071942924818",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":639547055
+        }
+    ],
     "wof:id":639547055,
-    "wof:lastmodified":1466695314,
+    "wof:lastmodified":1492053507,
     "wof:name":"Arc Of Monmouth",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

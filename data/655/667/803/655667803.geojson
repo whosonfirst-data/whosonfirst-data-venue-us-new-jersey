@@ -2,9 +2,14 @@
   "id": 655667803,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Perryville Rd Pittstown NJ 08867",
+    "addr:housenumber":"42",
+    "addr:postcode":"08867",
+    "addr:street":"Perryville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.956459,40.606228,-74.956459,40.606228",
     "geom:latitude":40.606228,
     "geom:longitude":-74.956459,
@@ -23,7 +28,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85822475,
+        102085997,
+        420527107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_342XYMfwiaOUWEBbvy4WcJ_40.606228_-74.956459@1294171694"
@@ -31,11 +42,24 @@
     "wof:country":"US",
     "wof:created":1461315915,
     "wof:geomhash":"527e88eead54e351c8cf394e9248496d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85822475,
+            "region_id":85688607,
+            "venue_id":655667803
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527107,
+            "venue_id":655667803
+        }
+    ],
     "wof:id":655667803,
-    "wof:lastmodified":1466683580,
+    "wof:lastmodified":1492070334,
     "wof:name":"Roerig Farm",
-    "wof:parent_id":420527107,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

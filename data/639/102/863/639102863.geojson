@@ -2,9 +2,14 @@
   "id": 639102863,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 School Ave Somerset NJ 08873",
+    "addr:housenumber":"21",
+    "addr:postcode":"08873",
+    "addr:street":"School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485575,40.482631,-74.485575,40.482631",
     "geom:latitude":40.482631,
     "geom:longitude":-74.485575,
@@ -28,7 +33,14 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yuo849wfmF56hj9osfnhm_40.482631_-74.485575@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461287410,
     "wof:geomhash":"3d8055460a423f9dc589c273cebe4a00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":639102863
+        }
+    ],
     "wof:id":639102863,
-    "wof:lastmodified":1466674664,
+    "wof:lastmodified":1492049165,
     "wof:name":"School Tyme Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

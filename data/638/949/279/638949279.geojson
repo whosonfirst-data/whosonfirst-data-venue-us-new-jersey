@@ -2,9 +2,14 @@
   "id": 638949279,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 2nd St Bergenfield NJ 07621",
+    "addr:housenumber":"253",
+    "addr:postcode":"07621",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989419,40.93646,-73.989419,40.93646",
     "geom:latitude":40.93646,
     "geom:longitude":-73.989419,
@@ -24,7 +29,16 @@
     "sg:postcode":"07621",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773,
+        404477655,
+        85975903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_149MzvqAGbxEttiyqNIjQq_40.936460_-73.989419@1294171694"
@@ -32,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1461284010,
     "wof:geomhash":"58c7d02911eb53ceec4d79cf549a57ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":638949279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":638949279
+        }
+    ],
     "wof:id":638949279,
-    "wof:lastmodified":1466691302,
+    "wof:lastmodified":1492064816,
     "wof:name":"K R S Appraisal Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

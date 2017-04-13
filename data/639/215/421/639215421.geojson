@@ -2,9 +2,14 @@
   "id": 639215421,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Corporate Pl S Piscataway NJ 08854",
+    "addr:housenumber":"10",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Pl S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.454305,40.550051,-74.454305,40.550051",
     "geom:latitude":40.550051,
     "geom:longitude":-74.454305,
@@ -28,7 +33,10 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0efK0YgQdwAbdACkI5XLMd_40.550051_-74.454305@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290035,
     "wof:geomhash":"4293fc11aafa106d2b95bc34561173d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":639215421
+        }
+    ],
     "wof:id":639215421,
-    "wof:lastmodified":1466689614,
+    "wof:lastmodified":1492068704,
     "wof:name":"Galaxy Financial Svc LLC",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

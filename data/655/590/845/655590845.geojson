@@ -2,9 +2,14 @@
   "id": 655590845,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Skyline Dr Lakewood NJ 08724",
+    "addr:housenumber":"8",
+    "addr:postcode":"08724",
+    "addr:street":"Skyline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.098389,40.106722,-74.098389,40.106722",
     "geom:latitude":40.106722,
     "geom:longitude":-74.098389,
@@ -28,7 +33,13 @@
         "fruit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kneWK1SXwkh30qGpf5Em9_40.106722_-74.098389@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312630,
     "wof:geomhash":"e06a1f8049f4dfb05db5334e48c279ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":655590845
+        }
+    ],
     "wof:id":655590845,
-    "wof:lastmodified":1466680831,
+    "wof:lastmodified":1492051975,
     "wof:name":"Mi Jovi Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639609179,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Ridge Rd Hawthorne NJ 07506",
+    "addr:housenumber":"33",
+    "addr:postcode":"07506",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.163129,40.966402,-74.163129,40.966402",
     "geom:latitude":40.966402,
     "geom:longitude":-74.163129,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_594I4TB1wU7fWrxk2W9DTJ_40.966402_-74.163129@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302079,
     "wof:geomhash":"77b299c68c6b983517caf2e565d2ee01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":639609179
+        }
+    ],
     "wof:id":639609179,
-    "wof:lastmodified":1466697028,
+    "wof:lastmodified":1492050976,
     "wof:name":"Electrical Automation Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

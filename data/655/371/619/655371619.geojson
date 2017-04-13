@@ -2,9 +2,14 @@
   "id": 655371619,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 S Highwood Ave Glen Rock NJ 07452",
+    "addr:housenumber":"181",
+    "addr:postcode":"07452",
+    "addr:street":"S Highwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.11962,40.967319,-74.11962,40.967319",
     "geom:latitude":40.967319,
     "geom:longitude":-74.11962,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kWOUyWrTOpBV7eWf80lDp_40.967319_-74.119620@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303484,
     "wof:geomhash":"f301fb8a628f6d9b274be6b0427ea4a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655371619
+        }
+    ],
     "wof:id":655371619,
-    "wof:lastmodified":1466674812,
+    "wof:lastmodified":1492068161,
     "wof:name":"Smanat Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

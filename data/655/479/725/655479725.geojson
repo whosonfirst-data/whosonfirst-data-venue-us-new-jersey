@@ -2,9 +2,14 @@
   "id": 655479725,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Timberline Dr Bridgewater NJ 08807",
+    "addr:housenumber":"9",
+    "addr:postcode":"08807",
+    "addr:street":"Timberline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.607135,40.633806,-74.607135,40.633806",
     "geom:latitude":40.633806,
     "geom:longitude":-74.607135,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ouyjuXICi9sUYdyQxt0F8_40.633806_-74.607135@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461308003,
     "wof:geomhash":"28acd047a18bf80b5b9c582c8b4130ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":655479725
+        }
+    ],
     "wof:id":655479725,
-    "wof:lastmodified":1466677746,
+    "wof:lastmodified":1492051698,
     "wof:name":"Designs By J S Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

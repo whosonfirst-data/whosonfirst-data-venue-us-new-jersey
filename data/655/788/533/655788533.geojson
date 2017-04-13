@@ -2,9 +2,14 @@
   "id": 655788533,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Delaware Rd Columbia NJ 07832",
+    "addr:housenumber":"57",
+    "addr:postcode":"07832",
+    "addr:street":"Delaware Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.065208,40.903748,-75.065208,40.903748",
     "geom:latitude":40.903748,
     "geom:longitude":-75.065208,
@@ -28,7 +33,10 @@
         "gardening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cVcwU20XTK9UZhPzdfkWg_40.903748_-75.065208@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320923,
     "wof:geomhash":"1c5186d18c33b3e0ac2c49be3fe71810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527759,
+            "venue_id":655788533
+        }
+    ],
     "wof:id":655788533,
-    "wof:lastmodified":1466686651,
+    "wof:lastmodified":1492048123,
     "wof:name":"Ed's Mowers",
     "wof:parent_id":420527759,
     "wof:placetype":"venue",

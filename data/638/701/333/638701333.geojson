@@ -2,9 +2,14 @@
   "id": 638701333,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Philips Pkwy Montvale NJ 07645",
+    "addr:housenumber":"21",
+    "addr:postcode":"07645",
+    "addr:street":"Philips Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.058207,41.047929,-74.058207,41.047929",
     "geom:latitude":41.047929,
     "geom:longitude":-74.058207,
@@ -29,7 +34,14 @@
         "diagnostic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58m3h9hcMVf4eXFGKzx3mr_41.047929_-74.058207@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277558,
     "wof:geomhash":"dd51cd8ac546c4630041ed4ce79ff247",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":638701333
+        }
+    ],
     "wof:id":638701333,
-    "wof:lastmodified":1466688537,
+    "wof:lastmodified":1492068757,
     "wof:name":"Montvale Diagnstc IMG Assc LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

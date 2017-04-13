@@ -2,9 +2,14 @@
   "id": 639544177,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 Grace Pl New Milford NJ 07646",
+    "addr:housenumber":"414",
+    "addr:postcode":"07646",
+    "addr:street":"Grace Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.011922,40.939571,-74.011922,40.939571",
     "geom:latitude":40.939571,
     "geom:longitude":-74.011922,
@@ -28,7 +33,14 @@
         "foreign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477695,
+        85633793,
+        85975969,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ba8zaCfvMWoTiSLU5Vart_40.939571_-74.011922@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299502,
     "wof:geomhash":"f36f0f850c769afa4e34230280a3d8ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477695,
+            "locality_id":85975969,
+            "region_id":85688607,
+            "venue_id":639544177
+        }
+    ],
     "wof:id":639544177,
-    "wof:lastmodified":1466695630,
+    "wof:lastmodified":1492028674,
     "wof:name":"Allwin Chem & Pharmacuticles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

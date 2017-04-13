@@ -2,9 +2,14 @@
   "id": 655687373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1767 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1767",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264651,40.721448,-74.264651,40.721448",
     "geom:latitude":40.721448,
     "geom:longitude":-74.264651,
@@ -29,7 +34,10 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EYRbzTTndhmeu1tFGt3Sq_40.721448_-74.264651@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316754,
     "wof:geomhash":"2a99bca3389c046d6b32dd1e5237c69d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655687373
+        }
+    ],
     "wof:id":655687373,
-    "wof:lastmodified":1466683990,
+    "wof:lastmodified":1492050585,
     "wof:name":"Hunan Wok",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639594415,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"175",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143601,40.027183,-74.143601,40.027183",
     "geom:latitude":40.027183,
     "geom:longitude":-74.143601,
@@ -29,7 +34,10 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lYTRo4Wrkn45O9qDVSK15_40.027183_-74.143601@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461301530,
     "wof:geomhash":"2c500c21bda49dd5382fa54a8a7035f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639594415
+        }
+    ],
     "wof:id":639594415,
-    "wof:lastmodified":1466696812,
+    "wof:lastmodified":1492056708,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

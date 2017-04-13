@@ -2,9 +2,14 @@
   "id": 655360627,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Lakeview Rd Ringwood NJ 07456",
+    "addr:housenumber":"10",
+    "addr:postcode":"07456",
+    "addr:street":"Lakeview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269077,41.073088,-74.269077,41.073088",
     "geom:latitude":41.073088,
     "geom:longitude":-74.269077,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zA5xs4KfT4fV2DGrUsYKE_41.073088_-74.269077@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303029,
     "wof:geomhash":"bff287c73fb2e2e28e07b66e7659a109",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":655360627
+        }
+    ],
     "wof:id":655360627,
-    "wof:lastmodified":1466674538,
+    "wof:lastmodified":1492047583,
     "wof:name":"Bobs Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655564639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Tess Dr Lafayette NJ 07848",
+    "addr:housenumber":"1",
+    "addr:postcode":"07848",
+    "addr:street":"Tess Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.720804,41.088422,-74.720804,41.088422",
     "geom:latitude":41.088422,
     "geom:longitude":-74.720804,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85854463,
-        102086779
+        102086779,
+        85846115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,19 @@
             "neighbourhood_id":85854463,
             "region_id":85688607,
             "venue_id":655564639
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85846115,
+            "region_id":85688607,
+            "venue_id":655564639
         }
     ],
     "wof:id":655564639,
-    "wof:lastmodified":1466679904,
+    "wof:lastmodified":1492063976,
     "wof:name":"Carriage Acres",
-    "wof:parent_id":85854463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

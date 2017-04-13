@@ -2,9 +2,14 @@
   "id": 655497163,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Winters Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"23",
+    "addr:postcode":"08865",
+    "addr:street":"Winters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.158714,40.642338,-75.158714,40.642338",
     "geom:latitude":40.642338,
     "geom:longitude":-75.158714,
@@ -30,7 +35,13 @@
         "grows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478529,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lA229KGiA7mHujX8iInlF_40.642338_-75.158714@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461308716,
     "wof:geomhash":"bb9c23138416eb07c2511dc6eb7ef776",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478529,
+            "region_id":85688607,
+            "venue_id":655497163
+        }
+    ],
     "wof:id":655497163,
-    "wof:lastmodified":1466678044,
+    "wof:lastmodified":1492041134,
     "wof:name":"Pohatcong Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

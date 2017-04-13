@@ -2,9 +2,14 @@
   "id": 638803393,
   "type": "Feature",
   "properties": {
+    "addr:full":"24269 W Main St Columbus NJ 08022",
+    "addr:housenumber":"24269",
+    "addr:postcode":"08022",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.720871,40.072798,-74.720871,40.072798",
     "geom:latitude":40.072798,
     "geom:longitude":-74.720871,
@@ -29,7 +34,11 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526685,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TJOTq8dqrzLDKlHaIkynw_40.072798_-74.720871@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461280304,
     "wof:geomhash":"94b8c0cfa1ced18545e90d95c1ad6cd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526685,
+            "venue_id":638803393
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":638803393
+        }
+    ],
     "wof:id":638803393,
-    "wof:lastmodified":1466686001,
+    "wof:lastmodified":1492082156,
     "wof:name":"Lippincott & Lippincott Inc",
-    "wof:parent_id":420526689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

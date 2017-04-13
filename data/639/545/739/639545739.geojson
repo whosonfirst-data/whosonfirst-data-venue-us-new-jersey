@@ -2,9 +2,14 @@
   "id": 639545739,
   "type": "Feature",
   "properties": {
+    "addr:full":"2198 Stanley Ter Union NJ 07083",
+    "addr:housenumber":"2198",
+    "addr:postcode":"07083",
+    "addr:street":"Stanley Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267502,40.713976,-74.267502,40.713976",
     "geom:latitude":40.713976,
     "geom:longitude":-74.267502,
@@ -30,7 +35,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kmSxajx5kcAJiuxdZjQBY_40.713976_-74.267502@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461299561,
     "wof:geomhash":"8a30906d3c7a890bf7692400578a1262",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639545739
+        }
+    ],
     "wof:id":639545739,
-    "wof:lastmodified":1466695744,
+    "wof:lastmodified":1492057136,
     "wof:name":"Coronation Sheet Metal Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

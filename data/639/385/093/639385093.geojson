@@ -2,9 +2,14 @@
   "id": 639385093,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Beaver Run Rd Lafayette NJ 07848",
+    "addr:housenumber":"96",
+    "addr:postcode":"07848",
+    "addr:street":"Beaver Run Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.675479,41.124355,-74.675479,41.124355",
     "geom:latitude":41.124355,
     "geom:longitude":-74.675479,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527635,
+        85688607,
         85854463,
         102086779
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527635,
+            "venue_id":639385093
+        },
+        {
+            "country_id":85633793,
             "county_id":102086779,
             "neighbourhood_id":85854463,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":639385093,
-    "wof:lastmodified":1466692880,
+    "wof:lastmodified":1492026346,
     "wof:name":"Friends of Mark Noll Inc",
-    "wof:parent_id":85854463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

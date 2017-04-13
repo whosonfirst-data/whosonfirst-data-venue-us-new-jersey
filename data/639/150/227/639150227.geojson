@@ -2,9 +2,14 @@
   "id": 639150227,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Tuckerton Rd Medford NJ 08055",
+    "addr:housenumber":"200",
+    "addr:postcode":"08055",
+    "addr:street":"Tuckerton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.855858,39.877157,-74.855858,39.877157",
     "geom:latitude":39.877157,
     "geom:longitude":-74.855858,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85810979,
-        102087415
+        85839115,
+        102087415,
+        85810979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102087415,
+            "neighbourhood_id":85839115,
+            "region_id":85688607,
+            "venue_id":639150227
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
             "neighbourhood_id":85810979,
             "region_id":85688607,
             "venue_id":639150227
         }
     ],
     "wof:id":639150227,
-    "wof:lastmodified":1466681370,
+    "wof:lastmodified":1492047606,
     "wof:name":"Lake Pine Dry Cleaners",
-    "wof:parent_id":85810979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

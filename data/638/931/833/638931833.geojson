@@ -2,9 +2,14 @@
   "id": 638931833,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"51",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258776,40.746073,-74.258776,40.746073",
     "geom:latitude":40.746073,
     "geom:longitude":-74.258776,
@@ -27,7 +32,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZzEggmoZi9OxLCUepCBCL_40.746073_-74.258776@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283553,
     "wof:geomhash":"32bb52db3bfb6734911dfe819e1d2da5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":638931833
+        }
+    ],
     "wof:id":638931833,
-    "wof:lastmodified":1466690935,
+    "wof:lastmodified":1492050504,
     "wof:name":"Texas Weiner",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

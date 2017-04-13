@@ -2,9 +2,14 @@
   "id": 639519937,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Forsgate Dr Jamesburg NJ 08831",
+    "addr:housenumber":"220",
+    "addr:postcode":"08831",
+    "addr:street":"Forsgate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.436935,40.347266,-74.436935,40.347266",
     "geom:latitude":40.347266,
     "geom:longitude":-74.436935,
@@ -28,7 +33,10 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M8QB4tVjn0GQlOoG0TNzc_40.347266_-74.436935@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461298291,
     "wof:geomhash":"62f2468fddafeb7b80e96f209a8f1886",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639519937
+        }
+    ],
     "wof:id":639519937,
-    "wof:lastmodified":1466695087,
+    "wof:lastmodified":1492049589,
     "wof:name":"Forward Financials",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

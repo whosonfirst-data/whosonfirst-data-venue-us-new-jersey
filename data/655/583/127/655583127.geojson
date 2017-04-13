@@ -2,9 +2,14 @@
   "id": 655583127,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Youngs Rd Trenton NJ 08619",
+    "addr:housenumber":"100",
+    "addr:postcode":"08619",
+    "addr:street":"Youngs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.675187,40.263948,-74.675187,40.263948",
     "geom:latitude":40.263948,
     "geom:longitude":-74.675187,
@@ -27,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04QlckJ12gCmtqAoJRTwca_40.263948_-74.675187@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312303,
     "wof:geomhash":"c8bb2c9b069ab9547b855a31c58ab8d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655583127
+        }
+    ],
     "wof:id":655583127,
-    "wof:lastmodified":1466680315,
+    "wof:lastmodified":1492041015,
     "wof:name":"Mercer County Childrens Medic",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

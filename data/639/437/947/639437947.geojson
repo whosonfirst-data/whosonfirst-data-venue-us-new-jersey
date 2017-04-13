@@ -2,9 +2,14 @@
   "id": 639437947,
   "type": "Feature",
   "properties": {
+    "addr:full":"169 Snowden Ln Princeton NJ 08540",
+    "addr:housenumber":"169",
+    "addr:postcode":"08540",
+    "addr:street":"Snowden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.643223,40.36112,-74.643223,40.36112",
     "geom:latitude":40.36112,
     "geom:longitude":-74.643223,
@@ -30,7 +35,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21bfcAzG57yfgvvbXZ89Sg_40.361120_-74.643223@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461295066,
     "wof:geomhash":"aa927ee64ac52dd4f570a116fb27333b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639437947
+        }
+    ],
     "wof:id":639437947,
-    "wof:lastmodified":1466693501,
+    "wof:lastmodified":1492051531,
     "wof:name":"Princeton Simulations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639456097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2217 Richards Ave Atco NJ 08004",
+    "addr:housenumber":"2217",
+    "addr:postcode":"08004",
+    "addr:street":"Richards Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.859623,39.766183,-74.859623,39.766183",
     "geom:latitude":39.766183,
     "geom:longitude":-74.859623,
@@ -27,7 +32,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35sdoevBnLz9BmLg4CWnGC_39.766183_-74.859623@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295651,
     "wof:geomhash":"102f8607adbc701b008e4ece7a6f17c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":639456097
+        }
+    ],
     "wof:id":639456097,
-    "wof:lastmodified":1466693624,
+    "wof:lastmodified":1492047505,
     "wof:name":"B & C Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

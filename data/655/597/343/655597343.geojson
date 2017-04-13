@@ -2,9 +2,14 @@
   "id": 655597343,
   "type": "Feature",
   "properties": {
+    "addr:full":"774 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"774",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218943,40.728621,-74.218943,40.728621",
     "geom:latitude":40.728621,
     "geom:longitude":-74.218943,
@@ -28,7 +33,12 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892389,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WmWdtVlTWqY5dKX0M8uYp_40.728621_-74.218943@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461312895,
     "wof:geomhash":"3e411b1e41bd8feb0ab6eab9b1a052fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892389,
+            "region_id":85688607,
+            "venue_id":655597343
+        }
+    ],
     "wof:id":655597343,
-    "wof:lastmodified":1466681001,
+    "wof:lastmodified":1492039801,
     "wof:name":"Ellis Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

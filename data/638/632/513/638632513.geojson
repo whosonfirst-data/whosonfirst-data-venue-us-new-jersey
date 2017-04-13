@@ -2,9 +2,14 @@
   "id": 638632513,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Dock Rd Brick NJ 08723",
+    "addr:housenumber":"28",
+    "addr:postcode":"08723",
+    "addr:street":"Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.113873,40.049692,-74.113873,40.049692",
     "geom:latitude":40.049692,
     "geom:longitude":-74.113873,
@@ -30,7 +35,10 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GXhjrZRLnb66fOmyoZiPO_40.049692_-74.113873@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461275296,
     "wof:geomhash":"3d8962f9fced9cb031d2d520c5442547",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":638632513
+        }
+    ],
     "wof:id":638632513,
-    "wof:lastmodified":1466673327,
+    "wof:lastmodified":1492024125,
     "wof:name":"Mike Gallagher Fitness Svc",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

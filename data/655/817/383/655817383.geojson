@@ -2,9 +2,14 @@
   "id": 655817383,
   "type": "Feature",
   "properties": {
+    "addr:full":"4002 Route 130 Delran NJ 08075",
+    "addr:housenumber":"4002",
+    "addr:postcode":"08075",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.9607,40.0122,-74.9607,40.0122",
     "geom:latitude":40.0122,
     "geom:longitude":-74.9607,
@@ -29,7 +34,10 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X0XENpYZOuHzghqyYZkLc_40.012200_-74.960700@1303262277"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461322170,
     "wof:geomhash":"f61fa4702910d65a4da106542a06d193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":655817383
+        }
+    ],
     "wof:id":655817383,
-    "wof:lastmodified":1466687386,
+    "wof:lastmodified":1492024044,
     "wof:name":"Esquire Liquor Shop",
     "wof:parent_id":420526595,
     "wof:placetype":"venue",

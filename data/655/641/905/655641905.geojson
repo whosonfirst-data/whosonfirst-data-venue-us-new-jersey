@@ -2,9 +2,14 @@
   "id": 655641905,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Co Rd 537 New Egypt NJ 08514",
+    "addr:housenumber":"933;537",
+    "addr:postcode":"08514",
+    "addr:street":"Co Rd;New",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.539946,40.08469,-74.539946,40.08469",
     "geom:latitude":40.08469,
     "geom:longitude":-74.539946,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478401,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z7kvGTuKUp0JUqA4gThji_40.084690_-74.539946@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314836,
     "wof:geomhash":"60298e5bdceb4c56ec553b714317fe1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478401,
+            "region_id":85688607,
+            "venue_id":655641905
+        }
+    ],
     "wof:id":655641905,
-    "wof:lastmodified":1466682636,
+    "wof:lastmodified":1492048148,
     "wof:name":"A Crowd Of One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

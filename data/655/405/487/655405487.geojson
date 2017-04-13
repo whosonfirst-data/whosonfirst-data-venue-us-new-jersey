@@ -2,9 +2,14 @@
   "id": 655405487,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"59",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.000203,40.811108,-74.000203,40.811108",
     "geom:latitude":40.811108,
     "geom:longitude":-74.000203,
@@ -28,7 +33,14 @@
         "board"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FdtWsjoaGpOimeNR0h6Zp_40.811108_-74.000203@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304858,
     "wof:geomhash":"6531562508e80c6166f274aa2cbe02ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655405487
+        }
+    ],
     "wof:id":655405487,
-    "wof:lastmodified":1466675594,
+    "wof:lastmodified":1492070600,
     "wof:name":"Fairview Board Of Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655430665,
   "type": "Feature",
   "properties": {
+    "addr:full":"7024 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"7024",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050534,39.967152,-75.050534,39.967152",
     "geom:latitude":39.967152,
     "geom:longitude":-75.050534,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ExgfENBT5nCrfGG1UKihO_39.967152_-75.050534@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305927,
     "wof:geomhash":"cdeb513282042bd4a21d409e4f54cb07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":655430665
+        }
+    ],
     "wof:id":655430665,
-    "wof:lastmodified":1466676406,
+    "wof:lastmodified":1492056694,
     "wof:name":"US Gas",
     "wof:parent_id":420526789,
     "wof:placetype":"venue",

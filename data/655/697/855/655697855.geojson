@@ -2,9 +2,14 @@
   "id": 655697855,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 E 22nd St Bayonne NJ 07002",
+    "addr:housenumber":"86",
+    "addr:postcode":"07002",
+    "addr:street":"E 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114688,40.660894,-74.114688,40.660894",
     "geom:latitude":40.660894,
     "geom:longitude":-74.114688,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A9M6DynrpY8ryCvt95zVn_40.660894_-74.114688@1303262248"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317253,
     "wof:geomhash":"666143cb276fb9529fc4d68ce902a5d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655697855
+        }
+    ],
     "wof:id":655697855,
-    "wof:lastmodified":1466684375,
+    "wof:lastmodified":1492025495,
     "wof:name":"Locksmith 01 24 Emergency A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

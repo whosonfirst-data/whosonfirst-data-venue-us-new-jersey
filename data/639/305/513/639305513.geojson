@@ -2,9 +2,14 @@
   "id": 639305513,
   "type": "Feature",
   "properties": {
+    "addr:full":"766 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"766",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232992,40.708688,-74.232992,40.708688",
     "geom:latitude":40.708688,
     "geom:longitude":-74.232992,
@@ -33,7 +38,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nJzh8fsfalQPiaOB6trvl_40.708688_-74.232992@1294171694"
@@ -41,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1461292079,
     "wof:geomhash":"496e098f4cc54f525af320c22e402733",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639305513
+        }
+    ],
     "wof:id":639305513,
-    "wof:lastmodified":1466691492,
+    "wof:lastmodified":1492019955,
     "wof:name":"Smith Glass & Metal Co LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639535669,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Tappan Rd Harrington Park NJ 07640",
+    "addr:housenumber":"128",
+    "addr:postcode":"07640",
+    "addr:street":"Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.969455,40.990333,-73.969455,40.990333",
     "geom:latitude":40.990333,
     "geom:longitude":-73.969455,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rXgZgFGH97Ikj6m9wQTB6_40.990333_-73.969455@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299086,
     "wof:geomhash":"10c47a502da5ae3df89d292ce7257d8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":639535669
+        }
+    ],
     "wof:id":639535669,
-    "wof:lastmodified":1466695522,
+    "wof:lastmodified":1492041716,
     "wof:name":"Ensa Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

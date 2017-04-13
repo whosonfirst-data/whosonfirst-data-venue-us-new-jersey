@@ -2,9 +2,14 @@
   "id": 655673485,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Willowbrook Blvd Wayne NJ 07470",
+    "addr:housenumber":"155",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255096,40.8866,-74.255096,40.8866",
     "geom:latitude":40.8866,
     "geom:longitude":-74.255096,
@@ -27,7 +32,13 @@
         "lawyer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jbHgyVNPFYub6KHgiNuRJ_40.887196_-74.254305@1293134755"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461316164,
     "wof:geomhash":"2e1f98c41d0f9ce12472942ace2de2aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655673485
+        }
+    ],
     "wof:id":655673485,
-    "wof:lastmodified":1466683576,
+    "wof:lastmodified":1492061411,
     "wof:name":"155 Willowbrook Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

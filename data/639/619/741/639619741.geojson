@@ -2,9 +2,14 @@
   "id": 639619741,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Richelieu Ter Newark NJ 07106",
+    "addr:housenumber":"64",
+    "addr:postcode":"07106",
+    "addr:street":"Richelieu Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23469,40.742768,-74.23469,40.742768",
     "geom:latitude":40.742768,
     "geom:longitude":-74.23469,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YwBpharEwy97bzzneOrQ8_40.742768_-74.234690@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302495,
     "wof:geomhash":"f4c4b8914c5f708bc06ec427e7c91695",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639619741
+        }
+    ],
     "wof:id":639619741,
-    "wof:lastmodified":1466697366,
+    "wof:lastmodified":1492051042,
     "wof:name":"New Vision Christian Assembly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

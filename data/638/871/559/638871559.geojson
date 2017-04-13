@@ -2,9 +2,14 @@
   "id": 638871559,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Old Church Rd Monroe Twp NJ 08831",
+    "addr:housenumber":"17",
+    "addr:postcode":"08831",
+    "addr:street":"Old Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.472516,40.27787,-74.472516,40.27787",
     "geom:latitude":40.27787,
     "geom:longitude":-74.472516,
@@ -28,7 +33,11 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527185,
+        420527183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ngyYAPuCzFlNz77xfojoh_40.277870_-74.472516@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461282001,
     "wof:geomhash":"6e50a3ea34f8da93d642d82d6232897c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527185,
+            "venue_id":638871559
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527183,
+            "venue_id":638871559
+        }
+    ],
     "wof:id":638871559,
-    "wof:lastmodified":1466689632,
+    "wof:lastmodified":1492069724,
     "wof:name":"Duke Electric LLC",
-    "wof:parent_id":420527183,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

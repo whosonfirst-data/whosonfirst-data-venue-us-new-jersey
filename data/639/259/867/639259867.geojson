@@ -2,9 +2,14 @@
   "id": 639259867,
   "type": "Feature",
   "properties": {
+    "addr:full":"1038 Ocean Rd Pt Pleasant Boro NJ 08742",
+    "addr:housenumber":"1038",
+    "addr:postcode":"08742",
+    "addr:street":"Ocean Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.063606,40.084084,-74.063606,40.084084",
     "geom:latitude":40.084084,
     "geom:longitude":-74.063606,
@@ -29,7 +34,14 @@
         "sign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZsJe3D5rGtmTmn184Re80_40.084084_-74.063606@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461291055,
     "wof:geomhash":"dd94c02ddec624bc294ae7e9a34b31c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639259867
+        }
+    ],
     "wof:id":639259867,
-    "wof:lastmodified":1466690521,
+    "wof:lastmodified":1492064843,
     "wof:name":"Traffic Control Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

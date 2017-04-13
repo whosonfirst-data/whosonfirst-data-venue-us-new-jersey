@@ -2,9 +2,14 @@
   "id": 655602357,
   "type": "Feature",
   "properties": {
+    "addr:full":"3745 Quakerbridge Rd Mercerville NJ 08619",
+    "addr:housenumber":"3745",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.678019,40.258646,-74.678019,40.258646",
     "geom:latitude":40.258646,
     "geom:longitude":-74.678019,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.fleet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gBUGpI0iQ7Mztb9rQixjT_40.258646_-74.678019@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461313103,
     "wof:geomhash":"98b261d34beb744cd54e16970b369f0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655602357
+        }
+    ],
     "wof:id":655602357,
-    "wof:lastmodified":1466681107,
+    "wof:lastmodified":1492041914,
     "wof:name":"Bank Of America",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

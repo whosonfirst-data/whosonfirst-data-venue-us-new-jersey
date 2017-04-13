@@ -2,9 +2,14 @@
   "id": 639514563,
   "type": "Feature",
   "properties": {
+    "addr:full":"1161 Burnt Tavern Rd Brick NJ 08724",
+    "addr:housenumber":"1161",
+    "addr:postcode":"08724",
+    "addr:street":"Burnt Tavern Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.140364,40.096847,-74.140364,40.096847",
     "geom:latitude":40.096847,
     "geom:longitude":-74.140364,
@@ -28,7 +33,13 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3alBMrpfJ8qxQCCxhKB5eu_40.096847_-74.140364@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298051,
     "wof:geomhash":"0b2d6f0bc94bfe0c8838818b70cdfbac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":639514563
+        }
+    ],
     "wof:id":639514563,
-    "wof:lastmodified":1466695056,
+    "wof:lastmodified":1492042710,
     "wof:name":"Sports Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

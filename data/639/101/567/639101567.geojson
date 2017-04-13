@@ -2,9 +2,14 @@
   "id": 639101567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 Porter Rd Union NJ 07083",
+    "addr:housenumber":"1625",
+    "addr:postcode":"07083",
+    "addr:street":"Porter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261655,40.712544,-74.261655,40.712544",
     "geom:latitude":40.712544,
     "geom:longitude":-74.261655,
@@ -30,7 +35,10 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53m7SnGLZ2MhRnlYKZbcw9_40.712544_-74.261655@1294171694"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461287375,
     "wof:geomhash":"833941fa8cf526d4666339e7397d16d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":639101567
+        }
+    ],
     "wof:id":639101567,
-    "wof:lastmodified":1466674483,
+    "wof:lastmodified":1492057637,
     "wof:name":"Clark II Floor & Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

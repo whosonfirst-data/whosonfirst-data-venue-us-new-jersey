@@ -2,9 +2,14 @@
   "id": 655661447,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Brighton Rd Andover NJ 07821",
+    "addr:housenumber":"110",
+    "addr:postcode":"07821",
+    "addr:street":"Brighton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.762103,40.992051,-74.762103,40.992051",
     "geom:latitude":40.992051,
     "geom:longitude":-74.762103,
@@ -21,7 +26,10 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527657
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jap158zmMssI2ZeWEhypQ_40.992051_-74.762103@1294171694"
@@ -29,9 +37,15 @@
     "wof:country":"US",
     "wof:created":1461315673,
     "wof:geomhash":"18403ff987f3e0b1167b286799b22180",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527657,
+            "venue_id":655661447
+        }
+    ],
     "wof:id":655661447,
-    "wof:lastmodified":1466683206,
+    "wof:lastmodified":1492023705,
     "wof:name":"Good Hand Farm",
     "wof:parent_id":420527657,
     "wof:placetype":"venue",

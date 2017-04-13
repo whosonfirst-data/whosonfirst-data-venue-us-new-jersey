@@ -2,9 +2,14 @@
   "id": 639107655,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Bloomsbury Rd Bloomsbury NJ 08804",
+    "addr:housenumber":"401",
+    "addr:postcode":"08804",
+    "addr:street":"Bloomsbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078648,40.662031,-75.078648,40.662031",
     "geom:latitude":40.662031,
     "geom:longitude":-75.078648,
@@ -24,7 +29,10 @@
     "sg:postcode":"08804",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x9qZkaE26PUwxM3BpAnzj_40.662031_-75.078648@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461287518,
     "wof:geomhash":"346487b2741f11cc67f067a9268db0a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639107655
+        }
+    ],
     "wof:id":639107655,
-    "wof:lastmodified":1466675355,
+    "wof:lastmodified":1492042873,
     "wof:name":"Marian Manor",
     "wof:parent_id":420527783,
     "wof:placetype":"venue",

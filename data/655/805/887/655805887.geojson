@@ -2,9 +2,14 @@
   "id": 655805887,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 Route 130 Beverly NJ 08010",
+    "addr:housenumber":"4325",
+    "addr:postcode":"08010",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.899676,40.049328,-74.899676,40.049328",
     "geom:latitude":40.049328,
     "geom:longitude":-74.899676,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.pepboys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fJutcll4Xz7rZNtE2jkVC_40.049328_-74.899676@1303262274"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321599,
     "wof:geomhash":"f502e1f40a7cc708bd26e5ac49a67ee0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655805887
+        }
+    ],
     "wof:id":655805887,
-    "wof:lastmodified":1466687239,
+    "wof:lastmodified":1492053425,
     "wof:name":"Pep Boys Automotive Supercenters",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

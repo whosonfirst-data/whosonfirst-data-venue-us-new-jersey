@@ -2,9 +2,14 @@
   "id": 655666437,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 4th St Frenchtown NJ 08825",
+    "addr:housenumber":"20",
+    "addr:postcode":"08825",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061958,40.529156,-75.061958,40.529156",
     "geom:latitude":40.529156,
     "geom:longitude":-75.061958,
@@ -29,7 +34,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ra7ukmNe2RRybjJXSMose_40.529116_-75.061646@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315862,
     "wof:geomhash":"e2a12fe15b8f61c5ec383da8abdb89b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":655666437
+        }
+    ],
     "wof:id":655666437,
-    "wof:lastmodified":1466683472,
+    "wof:lastmodified":1492042047,
     "wof:name":"Frenchtown Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

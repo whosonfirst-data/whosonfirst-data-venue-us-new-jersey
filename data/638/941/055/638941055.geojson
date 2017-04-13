@@ -2,9 +2,14 @@
   "id": 638941055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2094 Pleasant Pkwy Union NJ 07083",
+    "addr:housenumber":"2094",
+    "addr:postcode":"07083",
+    "addr:street":"Pleasant Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261865,40.712937,-74.261865,40.712937",
     "geom:latitude":40.712937,
     "geom:longitude":-74.261865,
@@ -28,7 +33,10 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uotV45oHQvp97TYpkpTJE_40.712937_-74.261865@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461283827,
     "wof:geomhash":"f2303483c79ff19e3fb21a432ea4ca83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":638941055
+        }
+    ],
     "wof:id":638941055,
-    "wof:lastmodified":1466691012,
+    "wof:lastmodified":1492025811,
     "wof:name":"Peace Super Installations",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

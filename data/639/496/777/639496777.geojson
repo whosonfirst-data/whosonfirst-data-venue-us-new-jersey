@@ -2,9 +2,14 @@
   "id": 639496777,
   "type": "Feature",
   "properties": {
+    "addr:full":"495 Jessica Ln Brick NJ 08724",
+    "addr:housenumber":"495",
+    "addr:postcode":"08724",
+    "addr:street":"Jessica Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123088,40.10423,-74.123088,40.10423",
     "geom:latitude":40.10423,
     "geom:longitude":-74.123088,
@@ -29,7 +34,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mPY7gsXtAGSG7Ni4Y4f4q_40.104230_-74.123088@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461297282,
     "wof:geomhash":"319b8eb932c8e3f0cf1e977ad0991793",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":639496777
+        }
+    ],
     "wof:id":639496777,
-    "wof:lastmodified":1466694637,
+    "wof:lastmodified":1492042709,
     "wof:name":"Mens Fitness Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

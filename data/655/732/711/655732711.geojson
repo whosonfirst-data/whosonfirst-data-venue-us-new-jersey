@@ -2,9 +2,14 @@
   "id": 655732711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1155 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"1155",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286702,40.608906,-74.286702,40.608906",
     "geom:latitude":40.608906,
     "geom:longitude":-74.286702,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"www.busybeeschool.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sapNb4ExIN7b8fpEDQXh9_40.608906_-74.286702@1303262256"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461318635,
     "wof:geomhash":"df529288c0a4a66bacdb0d24c4935aa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732711
+        }
+    ],
     "wof:id":655732711,
-    "wof:lastmodified":1466685176,
+    "wof:lastmodified":1492027540,
     "wof:name":"Busy Bee Child Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

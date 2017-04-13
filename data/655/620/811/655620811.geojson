@@ -2,9 +2,14 @@
   "id": 655620811,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Beechwood Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"18",
+    "addr:postcode":"07407",
+    "addr:street":"Beechwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130702,40.915056,-74.130702,40.915056",
     "geom:latitude":40.915056,
     "geom:longitude":-74.130702,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Exyb18ICF6qbp9N8KwEPG_40.915056_-74.130702@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313928,
     "wof:geomhash":"1ef270f43a55eae00e489eace862f29a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655620811
+        }
+    ],
     "wof:id":655620811,
-    "wof:lastmodified":1466681889,
+    "wof:lastmodified":1492029449,
     "wof:name":"Aliano Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

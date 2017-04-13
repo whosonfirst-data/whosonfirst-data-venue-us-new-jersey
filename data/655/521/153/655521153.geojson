@@ -2,9 +2,14 @@
   "id": 655521153,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Summit Ave Belford NJ 07718",
+    "addr:housenumber":"133",
+    "addr:postcode":"07718",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.082282,40.417556,-74.082282,40.417556",
     "geom:latitude":40.417556,
     "geom:longitude":-74.082282,
@@ -28,7 +33,10 @@
         "lobster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VhA6kPWcagEwlGSOGhzgF_40.417556_-74.082282@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461309713,
     "wof:geomhash":"c29ee501012618b932c118da289fa229",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":655521153
+        }
+    ],
     "wof:id":655521153,
-    "wof:lastmodified":1466678659,
+    "wof:lastmodified":1492052225,
     "wof:name":"Lobster Boy Inc",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639540357,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Fox Chase Rd Chester NJ 07930",
+    "addr:housenumber":"435",
+    "addr:postcode":"07930",
+    "addr:street":"Fox Chase Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.661079,40.768805,-74.661079,40.768805",
     "geom:latitude":40.768805,
     "geom:longitude":-74.661079,
@@ -33,7 +38,11 @@
         85633793,
         85975547,
         102087413,
-        85843703
+        85843703,
+        85834419,
+        102191575,
+        404477517,
+        85975559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +59,22 @@
             "neighbourhood_id":85843703,
             "region_id":85688607,
             "venue_id":639540357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477517,
+            "locality_id":85975559,
+            "neighbourhood_id":85834419,
+            "region_id":85688607,
+            "venue_id":639540357
         }
     ],
     "wof:id":639540357,
-    "wof:lastmodified":1466695628,
+    "wof:lastmodified":1492065647,
     "wof:name":"Trademark Homes LTD",
-    "wof:parent_id":85843703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

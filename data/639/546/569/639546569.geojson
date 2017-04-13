@@ -2,9 +2,14 @@
   "id": 639546569,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 Wright Debow Rd Jackson NJ 08527",
+    "addr:housenumber":"825",
+    "addr:postcode":"08527",
+    "addr:street":"Wright Debow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.403859,40.170545,-74.403859,40.170545",
     "geom:latitude":40.170545,
     "geom:longitude":-74.403859,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cP2mAdWw38zR9QqX27Q2d_40.170545_-74.403859@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299591,
     "wof:geomhash":"71462198c95d7580b3faa3fea3a33d8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639546569
+        }
+    ],
     "wof:id":639546569,
-    "wof:lastmodified":1466695803,
+    "wof:lastmodified":1492055648,
     "wof:name":"Joseph Reid Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

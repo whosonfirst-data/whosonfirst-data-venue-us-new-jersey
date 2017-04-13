@@ -2,9 +2,14 @@
   "id": 655480419,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Homestead Park Newark NJ 07108",
+    "addr:housenumber":"44",
+    "addr:postcode":"07108",
+    "addr:street":"Homestead",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.211563,40.719407,-74.211563,40.719407",
     "geom:latitude":40.719407,
     "geom:longitude":-74.211563,
@@ -27,7 +32,15 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85873001,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yIMHIW4QgPAS1X2942ewD_40.719407_-74.211563@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461308027,
     "wof:geomhash":"8c48e4b5adf3850ece11462f7cfe288b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85873001,
+            "region_id":85688607,
+            "venue_id":655480419
+        }
+    ],
     "wof:id":655480419,
-    "wof:lastmodified":1466677663,
+    "wof:lastmodified":1492023933,
     "wof:name":"Quick Tax",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

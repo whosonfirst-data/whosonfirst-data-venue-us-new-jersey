@@ -2,9 +2,14 @@
   "id": 638878147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 State Rte 38 Mount Holly NJ 08060",
+    "addr:housenumber":"1201;38",
+    "addr:postcode":"08060",
+    "addr:street":"State Rte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.817016,39.981078,-74.817016,39.981078",
     "geom:latitude":39.981078,
     "geom:longitude":-74.817016,
@@ -24,7 +29,10 @@
     "sg:postcode":"08060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GxvPyIwRhBGjoR9SrX1oh_39.981078_-74.817016@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461282151,
     "wof:geomhash":"c7471f4fc7eb19edbc88ed967a47e2ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":638878147
+        }
+    ],
     "wof:id":638878147,
-    "wof:lastmodified":1466689601,
+    "wof:lastmodified":1492053472,
     "wof:name":"Wawa 347",
     "wof:parent_id":420526707,
     "wof:placetype":"venue",

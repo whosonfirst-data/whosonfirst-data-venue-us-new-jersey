@@ -2,9 +2,14 @@
   "id": 655790569,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 State Route 10 Ste 14 Dover NJ 07869",
+    "addr:housenumber":"140;14",
+    "addr:postcode":"07869",
+    "addr:street":"State Route 10 Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.538846,40.875397,-74.538846,40.875397",
     "geom:latitude":40.875397,
     "geom:longitude":-74.538846,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.radioshack.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w32vrzkHttgzEGsqM4qus_40.875397_-74.538846@1303262271"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461320998,
     "wof:geomhash":"3338cd97b4c4a2c64dbf85610825bc17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790569
+        }
+    ],
     "wof:id":655790569,
-    "wof:lastmodified":1466686668,
+    "wof:lastmodified":1492028470,
     "wof:name":"Radioshack",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655688507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1495 State Rt 23 Butler NJ 07405",
+    "addr:housenumber":"1495",
+    "addr:postcode":"07405",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.357051,41.002606,-74.357051,41.002606",
     "geom:latitude":41.002606,
     "geom:longitude":-74.357051,
@@ -30,7 +35,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XzjuPO0goiRE7fgDMxCAA_41.002606_-74.357051@1299784598"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316795,
     "wof:geomhash":"28f498321cce07cb6852d789372ddce7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655688507
+        }
+    ],
     "wof:id":655688507,
-    "wof:lastmodified":1466684030,
+    "wof:lastmodified":1492046267,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

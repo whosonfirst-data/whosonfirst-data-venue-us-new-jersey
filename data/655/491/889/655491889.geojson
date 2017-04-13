@@ -2,9 +2,14 @@
   "id": 655491889,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Canal Rd S Bound Brook NJ 08880",
+    "addr:housenumber":"117",
+    "addr:postcode":"08880",
+    "addr:street":"Canal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528409,40.558304,-74.528409,40.558304",
     "geom:latitude":40.558304,
     "geom:longitude":-74.528409,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.melick-tully.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85806805,
+        102191575,
+        404477917,
+        85633793,
+        85976151,
+        102085045,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mQwEJOD6qHytH5vxnyR1Z_40.558304_-74.528409@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461308497,
     "wof:geomhash":"be648d2b16d1dc479b9261cb686eeac5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976151,
+            "neighbourhood_id":85806805,
+            "region_id":85688607,
+            "venue_id":655491889
+        }
+    ],
     "wof:id":655491889,
-    "wof:lastmodified":1466678053,
+    "wof:lastmodified":1492036421,
     "wof:name":"Melick-Tully  & Assocs PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

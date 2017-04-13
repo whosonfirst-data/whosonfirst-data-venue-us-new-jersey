@@ -2,9 +2,14 @@
   "id": 655416487,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 Newton Sparta Ave Newton NJ 07860",
+    "addr:housenumber":"280",
+    "addr:postcode":"07860",
+    "addr:street":"Newton Sparta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.704042,41.038366,-74.704042,41.038366",
     "geom:latitude":41.038366,
     "geom:longitude":-74.704042,
@@ -29,7 +34,10 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29nlZKGJopd3j5Wmh7nVdN_41.038366_-74.704042@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461305325,
     "wof:geomhash":"2510e366d67f0fd3bd7af7b6f16c9419",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":655416487
+        }
+    ],
     "wof:id":655416487,
-    "wof:lastmodified":1466675858,
+    "wof:lastmodified":1492071475,
     "wof:name":"Healthsouth",
     "wof:parent_id":420527663,
     "wof:placetype":"venue",

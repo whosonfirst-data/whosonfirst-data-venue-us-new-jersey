@@ -2,9 +2,14 @@
   "id": 655565053,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Saint Nicholas Ave Haworth NJ 07641",
+    "addr:housenumber":"308",
+    "addr:postcode":"07641",
+    "addr:street":"Saint Nicholas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989017,40.959243,-73.989017,40.959243",
     "geom:latitude":40.959243,
     "geom:longitude":-73.989017,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477291,
+        85633793,
+        85975991,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zgJYC9hOsxNl0vYdz6431_40.959243_-73.989017@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311501,
     "wof:geomhash":"33bc2120b06200465cfab8d450f01a58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477291,
+            "locality_id":85975991,
+            "region_id":85688607,
+            "venue_id":655565053
+        }
+    ],
     "wof:id":655565053,
-    "wof:lastmodified":1466679765,
+    "wof:lastmodified":1492039118,
     "wof:name":"Ralph Carletta Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

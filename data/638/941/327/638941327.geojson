@@ -2,9 +2,14 @@
   "id": 638941327,
   "type": "Feature",
   "properties": {
+    "addr:full":"192 Herbert Ave Closter NJ 07624",
+    "addr:housenumber":"192",
+    "addr:postcode":"07624",
+    "addr:street":"Herbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959563,40.976048,-73.959563,40.976048",
     "geom:latitude":40.976048,
     "geom:longitude":-73.959563,
@@ -27,7 +32,14 @@
         "briefcase"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26BYiZqRU1Kd6x8lcH23xB_40.976048_-73.959563@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283832,
     "wof:geomhash":"44b2d78115714b9c0b70c33cfd5c8f75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638941327
+        }
+    ],
     "wof:id":638941327,
-    "wof:lastmodified":1466691039,
+    "wof:lastmodified":1492052120,
     "wof:name":"Kastlyn Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

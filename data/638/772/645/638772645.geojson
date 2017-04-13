@@ -2,9 +2,14 @@
   "id": 638772645,
   "type": "Feature",
   "properties": {
+    "addr:full":"464 Coit St Irvington NJ 07111",
+    "addr:housenumber":"464",
+    "addr:postcode":"07111",
+    "addr:street":"Coit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231878,40.710526,-74.231878,40.710526",
     "geom:latitude":40.710526,
     "geom:longitude":-74.231878,
@@ -35,7 +40,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BSFvgvGcT0OuKNrKxx4T5_40.710526_-74.231878@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461279619,
     "wof:geomhash":"ac3198570db7c20d4432bcbdbfbf843c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638772645
+        }
+    ],
     "wof:id":638772645,
-    "wof:lastmodified":1466681608,
+    "wof:lastmodified":1492023407,
     "wof:name":"Prosperity Resources Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655553401,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Pennsylvania Ave Kearny NJ 07032",
+    "addr:housenumber":"60",
+    "addr:postcode":"07032",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116186,40.741149,-74.116186,40.741149",
     "geom:latitude":40.741149,
     "geom:longitude":-74.116186,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.macproducts.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ATBWfg5Ra5qDxWuxgEDZa_40.741149_-74.116186@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461310958,
     "wof:geomhash":"a442ba5084d487731260db5ed4949c69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655553401
+        }
+    ],
     "wof:id":655553401,
-    "wof:lastmodified":1466679518,
+    "wof:lastmodified":1492049423,
     "wof:name":"Mac Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

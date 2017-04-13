@@ -2,9 +2,14 @@
   "id": 639194655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1134 Cambridge Ln Bridgewater NJ 08807",
+    "addr:housenumber":"1134",
+    "addr:postcode":"08807",
+    "addr:street":"Cambridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.619165,40.633365,-74.619165,40.633365",
     "geom:latitude":40.633365,
     "geom:longitude":-74.619165,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_292k0zL1THODTLrWPFLOek_40.633365_-74.619165@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289510,
     "wof:geomhash":"1c4d71bf7f4e5a1d72dd77eb4f49bdf9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":639194655
+        }
+    ],
     "wof:id":639194655,
-    "wof:lastmodified":1466687793,
+    "wof:lastmodified":1492061059,
     "wof:name":"Elite Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

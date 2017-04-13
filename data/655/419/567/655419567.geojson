@@ -2,9 +2,14 @@
   "id": 655419567,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 W Madison Ave Dumont NJ 07628",
+    "addr:housenumber":"14",
+    "addr:postcode":"07628",
+    "addr:street":"W Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994821,40.940484,-73.994821,40.940484",
     "geom:latitude":40.940484,
     "geom:longitude":-73.994821,
@@ -30,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NDxKWrlieDz3wvgP9MlBH_40.940484_-73.994821@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461305444,
     "wof:geomhash":"802fffabe7d168a710b498482c8480b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655419567
+        }
+    ],
     "wof:id":655419567,
-    "wof:lastmodified":1466676117,
+    "wof:lastmodified":1492082126,
     "wof:name":"Approved Refrigeration & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

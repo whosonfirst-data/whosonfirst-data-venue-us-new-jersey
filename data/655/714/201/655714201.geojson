@@ -2,9 +2,14 @@
   "id": 655714201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Riverview Gdns North Arlington NJ 07031",
+    "addr:housenumber":"",
+    "addr:postcode":"07031",
+    "addr:street":"Riverview Gdns North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1371,40.789299,-74.1371,40.789299",
     "geom:latitude":40.789299,
     "geom:longitude":-74.1371,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fo1oiamqTpsnjEBzK7Fju_40.789299_-74.137100@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317930,
     "wof:geomhash":"7f085b368bb1b0bfbf510b74e48fff13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714201
+        }
+    ],
     "wof:id":655714201,
-    "wof:lastmodified":1466684563,
+    "wof:lastmodified":1492025479,
     "wof:name":"Riverview Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655713953,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"214",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132943,40.788773,-74.132943,40.788773",
     "geom:latitude":40.788773,
     "geom:longitude":-74.132943,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_359mznFgp2B8g84rYqeALF_40.788773_-74.132943@1303262252"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317922,
     "wof:geomhash":"01edb5285f96c51c32252963b921d392",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655713953
+        }
+    ],
     "wof:id":655713953,
-    "wof:lastmodified":1466684742,
+    "wof:lastmodified":1492076468,
     "wof:name":"24 Hr Towing & Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

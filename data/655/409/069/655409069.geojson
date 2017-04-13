@@ -2,9 +2,14 @@
   "id": 655409069,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Cedar Grove Ln Somerset NJ 08873",
+    "addr:housenumber":"120",
+    "addr:postcode":"08873",
+    "addr:street":"Cedar Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.522407,40.521188,-74.522407,40.521188",
     "geom:latitude":40.521188,
     "geom:longitude":-74.522407,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a8sz8OQZPgoHfMb1LiRUE_40.521188_-74.522407@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305019,
     "wof:geomhash":"533d659f1ee19435ec52af9c82b7577c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":655409069
+        }
+    ],
     "wof:id":655409069,
-    "wof:lastmodified":1466675690,
+    "wof:lastmodified":1492056701,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639189827,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Academy St Maplewood NJ 07040",
+    "addr:housenumber":"525",
+    "addr:postcode":"07040",
+    "addr:street":"Academy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264157,40.736461,-74.264157,40.736461",
     "geom:latitude":40.736461,
     "geom:longitude":-74.264157,
@@ -25,7 +30,11 @@
     "sg:province":"NJ",
     "sg:website":"www.somsd.k12.nj.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526927,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Uf3ZCclrIdCvqQFh8uxYm_40.736461_-74.264157@1294171694"
@@ -33,11 +42,22 @@
     "wof:country":"US",
     "wof:created":1461289408,
     "wof:geomhash":"a5e36bba8f8f823d6a912d138de0e457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":639189827
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639189827
+        }
+    ],
     "wof:id":639189827,
-    "wof:lastmodified":1466687159,
+    "wof:lastmodified":1492030458,
     "wof:name":"South Orange School District",
-    "wof:parent_id":420526927,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

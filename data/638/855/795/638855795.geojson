@@ -2,9 +2,14 @@
   "id": 638855795,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Main St Tennent NJ 07738",
+    "addr:housenumber":"400",
+    "addr:postcode":"07738",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.10083,40.336799,-74.10083,40.336799",
     "geom:latitude":40.336799,
     "geom:longitude":-74.10083,
@@ -37,7 +42,8 @@
         85633793,
         85975357,
         102085049,
-        85688607
+        85688607,
+        85818675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +62,19 @@
             "neighbourhood_id":85851097,
             "region_id":85688607,
             "venue_id":638855795
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85818675,
+            "region_id":85688607,
+            "venue_id":638855795
         }
     ],
     "wof:id":638855795,
-    "wof:lastmodified":1466689416,
+    "wof:lastmodified":1492044276,
     "wof:name":"Cagney & Byk Inc",
-    "wof:parent_id":85851097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655567145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 State Rte 38 Mount Holly NJ 08060",
+    "addr:housenumber":"1710;38",
+    "addr:postcode":"08060",
+    "addr:street":"State Rte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.833613,39.97674,-74.833613,39.97674",
     "geom:latitude":39.97674,
     "geom:longitude":-74.833613,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yjpK7NrrJGoyknwKSbO9R_39.976740_-74.833613@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311583,
     "wof:geomhash":"031b810352fec1283ce13e482be2233a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":655567145
+        }
+    ],
     "wof:id":655567145,
-    "wof:lastmodified":1466679972,
+    "wof:lastmodified":1492045067,
     "wof:name":"Creative Hairdressers",
     "wof:parent_id":420526707,
     "wof:placetype":"venue",

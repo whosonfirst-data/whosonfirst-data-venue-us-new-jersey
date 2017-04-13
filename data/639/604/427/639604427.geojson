@@ -2,9 +2,14 @@
   "id": 639604427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Essex Pl Dumont NJ 07628",
+    "addr:housenumber":"5",
+    "addr:postcode":"07628",
+    "addr:street":"Essex Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989073,40.952049,-73.989073,40.952049",
     "geom:latitude":40.952049,
     "geom:longitude":-73.989073,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kyloqP4yO7uLBZy6sqiuG_40.952049_-73.989073@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301907,
     "wof:geomhash":"5fab4f881f71791b0b18332652f19b40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639604427
+        }
+    ],
     "wof:id":639604427,
-    "wof:lastmodified":1466697023,
+    "wof:lastmodified":1492029426,
     "wof:name":"Marvin M Fand DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655487963,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Mount Vernon Pl Newark NJ 07106",
+    "addr:housenumber":"82",
+    "addr:postcode":"07106",
+    "addr:street":"Mount Vernon Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240265,40.736273,-74.240265,40.736273",
     "geom:latitude":40.736273,
     "geom:longitude":-74.240265,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19i2yGWbRLDv3e54Xe9Xn2_40.736273_-74.240265@1294171694"
@@ -35,11 +46,20 @@
     "wof:country":"US",
     "wof:created":1461308320,
     "wof:geomhash":"be915e90dc506a902f163bf564ea31b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":655487963
+        }
+    ],
     "wof:id":655487963,
-    "wof:lastmodified":1466677993,
+    "wof:lastmodified":1491938449,
     "wof:name":"Tao SAI Chen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

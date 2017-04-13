@@ -2,9 +2,14 @@
   "id": 639133683,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Halstead Ave Wallington NJ 07057",
+    "addr:housenumber":"8",
+    "addr:postcode":"07057",
+    "addr:street":"Halstead Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114865,40.858323,-74.114865,40.858323",
     "geom:latitude":40.858323,
     "geom:longitude":-74.114865,
@@ -28,7 +33,14 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477745,
+        85633793,
+        85975889,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MnkLCQecxdgnG7uXPSnKS_40.858323_-74.114865@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288153,
     "wof:geomhash":"8db7ffd6bdd35253f18f2cab413e8296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477745,
+            "locality_id":85975889,
+            "region_id":85688607,
+            "venue_id":639133683
+        }
+    ],
     "wof:id":639133683,
-    "wof:lastmodified":1466678863,
+    "wof:lastmodified":1492023939,
     "wof:name":"G & S Wood Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

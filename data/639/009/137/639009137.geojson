@@ -2,9 +2,14 @@
   "id": 639009137,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Maple Ave Branchburg NJ 08853",
+    "addr:housenumber":"333",
+    "addr:postcode":"08853",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.738309,40.51089,-74.738309,40.51089",
     "geom:latitude":40.51089,
     "geom:longitude":-74.738309,
@@ -27,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ye7vNOdDfEHUFVo1s3UZA_40.510890_-74.738309@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285299,
     "wof:geomhash":"2460bc6c11e2d1afafe0c659ffb2fd28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639009137
+        }
+    ],
     "wof:id":639009137,
-    "wof:lastmodified":1466673194,
+    "wof:lastmodified":1492030596,
     "wof:name":"Nechanic Volunteer Fire Co",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

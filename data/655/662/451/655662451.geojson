@@ -2,9 +2,14 @@
   "id": 655662451,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 Garrison Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"252",
+    "addr:postcode":"08865",
+    "addr:street":"Garrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156047,40.772792,-75.156047,40.772792",
     "geom:latitude":40.772792,
     "geom:longitude":-75.156047,
@@ -22,7 +27,13 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478427,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RJxrEDrGRwy4I1rJfyQJL_40.772792_-75.156047@1294171694"
@@ -30,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461315709,
     "wof:geomhash":"cd31932f678bcedd6c2cb97612ab63ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478427,
+            "region_id":85688607,
+            "venue_id":655662451
+        }
+    ],
     "wof:id":655662451,
-    "wof:lastmodified":1466683260,
+    "wof:lastmodified":1492041141,
     "wof:name":"Garrison Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

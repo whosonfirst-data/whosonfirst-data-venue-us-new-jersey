@@ -2,9 +2,14 @@
   "id": 638728337,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"727",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.322635,40.618301,-74.322635,40.618301",
     "geom:latitude":40.618301,
     "geom:longitude":-74.322635,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jNtphht7DRqCfmLNSj0K8_40.618301_-74.322635@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461278440,
     "wof:geomhash":"2b2fe24cde8cd357e6aa03c084f3f6a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638728337
+        }
+    ],
     "wof:id":638728337,
-    "wof:lastmodified":1466675149,
+    "wof:lastmodified":1492027351,
     "wof:name":"Management Recruiters Of Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

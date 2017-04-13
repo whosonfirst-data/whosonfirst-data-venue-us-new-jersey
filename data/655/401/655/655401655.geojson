@@ -2,9 +2,14 @@
   "id": 655401655,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Millbrook Dr Toms River NJ 08757",
+    "addr:housenumber":"63",
+    "addr:postcode":"08757",
+    "addr:street":"Millbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286481,39.953812,-74.286481,39.953812",
     "geom:latitude":39.953812,
     "geom:longitude":-74.286481,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477833,
+        85633793,
+        85976353,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ynpve4BuNdDjoGLZxO3uv_39.953812_-74.286481@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461304700,
     "wof:geomhash":"bf2b2e6811863e0044c09c4fcacb3a6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477833,
+            "locality_id":85976353,
+            "region_id":85688607,
+            "venue_id":655401655
+        }
+    ],
     "wof:id":655401655,
-    "wof:lastmodified":1466675616,
+    "wof:lastmodified":1492050449,
     "wof:name":"Bob's Ceramic Tile Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

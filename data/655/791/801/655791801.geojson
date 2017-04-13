@@ -2,9 +2,14 @@
   "id": 655791801,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 Morris Ave Ste 4 Summit NJ 07901",
+    "addr:housenumber":"513",
+    "addr:postcode":"07901",
+    "addr:street":"Morris Ave Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.373369,40.726389,-74.373369,40.726389",
     "geom:latitude":40.726389,
     "geom:longitude":-74.373369,
@@ -32,7 +37,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_588m31SGfFJhcDZaIEDabL_40.726389_-74.373369@1303262271"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461321047,
     "wof:geomhash":"d395686ca6de15ebe47d49a3cba12ca0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655791801
+        }
+    ],
     "wof:id":655791801,
-    "wof:lastmodified":1466686727,
+    "wof:lastmodified":1492039803,
     "wof:name":"Golden Goose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

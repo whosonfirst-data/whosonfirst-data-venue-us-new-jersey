@@ -2,9 +2,14 @@
   "id": 638691059,
   "type": "Feature",
   "properties": {
+    "addr:full":"357 Ackerman Ave Glen Rock NJ 07452",
+    "addr:housenumber":"357",
+    "addr:postcode":"07452",
+    "addr:street":"Ackerman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.123405,40.967737,-74.123405,40.967737",
     "geom:latitude":40.967737,
     "geom:longitude":-74.123405,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60W6oLI1PKMeziyGavf0R0_40.967737_-74.123405@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461277220,
     "wof:geomhash":"182919f4506602c7cb3ef545ddb84c9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":638691059
+        }
+    ],
     "wof:id":638691059,
-    "wof:lastmodified":1466688307,
+    "wof:lastmodified":1492062243,
     "wof:name":"Tynik Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638984933,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Independence Blvd Millington NJ 07059",
+    "addr:housenumber":"21",
+    "addr:postcode":"07059",
+    "addr:street":"Independence Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.572082,40.651364,-74.572082,40.651364",
     "geom:latitude":40.651364,
     "geom:longitude":-74.572082,
@@ -41,7 +46,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478447,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fV0OPPCBJ9ke1i6sntaLR_40.651364_-74.572082@1294171694"
@@ -49,9 +60,18 @@
     "wof:country":"US",
     "wof:created":1461284745,
     "wof:geomhash":"40987d63b0c66c16b46ddfc9a1be8a80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404478447,
+            "region_id":85688607,
+            "venue_id":638984933
+        }
+    ],
     "wof:id":638984933,
-    "wof:lastmodified":1466692077,
+    "wof:lastmodified":1492065311,
     "wof:name":"Sirius Satellite Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

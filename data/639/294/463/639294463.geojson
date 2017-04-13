@@ -2,9 +2,14 @@
   "id": 639294463,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Ridge Ln Blairstown NJ 07825",
+    "addr:housenumber":"11",
+    "addr:postcode":"07825",
+    "addr:street":"Ridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.007899,40.950185,-75.007899,40.950185",
     "geom:latitude":40.950185,
     "geom:longitude":-75.007899,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XnbeQy56YHiGlRZ4siRLG_40.950185_-75.007899@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461291854,
     "wof:geomhash":"2d9591c8ca504b14bd719e882c375435",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":639294463
+        }
+    ],
     "wof:id":639294463,
-    "wof:lastmodified":1466691171,
+    "wof:lastmodified":1492054552,
     "wof:name":"Don Romagnoli Ceramic Tile Svc",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

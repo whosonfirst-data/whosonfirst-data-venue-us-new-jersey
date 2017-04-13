@@ -2,9 +2,14 @@
   "id": 655404685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2245 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2245",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.4882,40.433674,-74.4882,40.433674",
     "geom:latitude":40.433674,
     "geom:longitude":-74.4882,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.martinfg.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ifZbtjKKsf1kmGVhycbgZ_40.433674_-74.488200@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461304820,
     "wof:geomhash":"7cc881c3c92e68def4cc95a3e10ac501",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":655404685
+        }
+    ],
     "wof:id":655404685,
-    "wof:lastmodified":1466675641,
+    "wof:lastmodified":1492042944,
     "wof:name":"Martin Agency",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

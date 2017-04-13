@@ -2,9 +2,14 @@
   "id": 655477271,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Barley Sheaf Rd Flemington NJ 08822",
+    "addr:housenumber":"81",
+    "addr:postcode":"08822",
+    "addr:street":"Barley Sheaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.823715,40.491706,-74.823715,40.491706",
     "geom:latitude":40.491706,
     "geom:longitude":-74.823715,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85843949,
-        102085997
+        102085997,
+        85845461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85843949,
             "region_id":85688607,
             "venue_id":655477271
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85845461,
+            "region_id":85688607,
+            "venue_id":655477271
         }
     ],
     "wof:id":655477271,
-    "wof:lastmodified":1466677550,
+    "wof:lastmodified":1492048130,
     "wof:name":"Loyal Order Of Moose",
-    "wof:parent_id":85843949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639591365,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Railroad Ave Waretown NJ 08758",
+    "addr:housenumber":"63",
+    "addr:postcode":"08758",
+    "addr:street":"Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.199905,39.788924,-74.199905,39.788924",
     "geom:latitude":39.788924,
     "geom:longitude":-74.199905,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527435,
+        85688607,
         85804547,
         102081485
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527435,
+            "venue_id":639591365
+        },
+        {
+            "country_id":85633793,
             "county_id":102081485,
             "neighbourhood_id":85804547,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639591365,
-    "wof:lastmodified":1466696800,
+    "wof:lastmodified":1492046163,
     "wof:name":"Legrand Mechanical LLC",
-    "wof:parent_id":85804547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

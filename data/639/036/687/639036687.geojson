@@ -2,9 +2,14 @@
   "id": 639036687,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Hoagland Rd Blairstown NJ 07825",
+    "addr:housenumber":"23",
+    "addr:postcode":"07825",
+    "addr:street":"Hoagland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.006746,40.949306,-75.006746,40.949306",
     "geom:latitude":40.949306,
     "geom:longitude":-75.006746,
@@ -27,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20duJNgUdrWAlWuLh5Vcp0_40.949306_-75.006746@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285947,
     "wof:geomhash":"32b18fd7f639ef6eec9fd3a2017d626d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":639036687
+        }
+    ],
     "wof:id":639036687,
-    "wof:lastmodified":1466673937,
+    "wof:lastmodified":1492054544,
     "wof:name":"Phone Connection",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

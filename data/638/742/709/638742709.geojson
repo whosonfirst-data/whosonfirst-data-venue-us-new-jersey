@@ -2,9 +2,14 @@
   "id": 638742709,
   "type": "Feature",
   "properties": {
+    "addr:full":"543 Westview Ave Ridgefield NJ 07657",
+    "addr:housenumber":"543",
+    "addr:postcode":"07657",
+    "addr:street":"Westview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.995837,40.824993,-73.995837,40.824993",
     "geom:latitude":40.824993,
     "geom:longitude":-73.995837,
@@ -24,7 +29,14 @@
     "sg:postcode":"07657",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hqWs5kI6ftBX7rabRJQnf_40.824993_-73.995837@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461278813,
     "wof:geomhash":"a81ae9cd83accc851eceae00c5c60438",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":638742709
+        }
+    ],
     "wof:id":638742709,
-    "wof:lastmodified":1466677190,
+    "wof:lastmodified":1492082137,
     "wof:name":"Robert A Fischer Provisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

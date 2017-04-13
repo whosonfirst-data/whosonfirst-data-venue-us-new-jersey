@@ -2,9 +2,14 @@
   "id": 638719495,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 Laurelhurst Dr Keyport NJ 07735",
+    "addr:housenumber":"84",
+    "addr:postcode":"07735",
+    "addr:street":"Laurelhurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.222724,40.446276,-74.222724,40.446276",
     "geom:latitude":40.446276,
     "geom:longitude":-74.222724,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kabxKnqUXHZX89BVVAsgy_40.446276_-74.222724@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278179,
     "wof:geomhash":"aacea55a6d37c6b9fdc6df42705373dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":638719495
+        }
+    ],
     "wof:id":638719495,
-    "wof:lastmodified":1466673901,
+    "wof:lastmodified":1492053442,
     "wof:name":"Drw Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

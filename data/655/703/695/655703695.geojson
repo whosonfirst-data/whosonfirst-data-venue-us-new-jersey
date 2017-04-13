@@ -2,9 +2,14 @@
   "id": 655703695,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"617",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988112,40.825219,-73.988112,40.825219",
     "geom:latitude":40.825219,
     "geom:longitude":-73.988112,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.directv.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wg5cVmGw76qGsWp5PclPw_40.825219_-73.988112@1303262249"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461317525,
     "wof:geomhash":"256497da4e9ceceb08c430848bd79357",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703695
+        }
+    ],
     "wof:id":655703695,
-    "wof:lastmodified":1466684416,
+    "wof:lastmodified":1492048554,
     "wof:name":"Direct Sat Tv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639211067,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 John St Helmetta NJ 08828",
+    "addr:housenumber":"46",
+    "addr:postcode":"08828",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.428823,40.375094,-74.428823,40.375094",
     "geom:latitude":40.375094,
     "geom:longitude":-74.428823,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a6JxVlg3CP5oiqQObkbnD_40.375094_-74.428823@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289938,
     "wof:geomhash":"ed52c016686b3f29f7363fb09909e227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639211067
+        }
+    ],
     "wof:id":639211067,
-    "wof:lastmodified":1466689332,
+    "wof:lastmodified":1492051521,
     "wof:name":"Ed Ostrowski Home Improvement",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

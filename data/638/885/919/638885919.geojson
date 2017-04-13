@@ -2,9 +2,14 @@
   "id": 638885919,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 River Rd Chatham NJ 07928",
+    "addr:housenumber":"418",
+    "addr:postcode":"07928",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.427173,40.702614,-74.427173,40.702614",
     "geom:latitude":40.702614,
     "geom:longitude":-74.427173,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.ling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mhi4mR9Q90BghYTxVdUzM_40.702614_-74.427173@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282362,
     "wof:geomhash":"2cd62e7cb96554bf027215871efd0dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":638885919
+        }
+    ],
     "wof:id":638885919,
-    "wof:lastmodified":1466689892,
+    "wof:lastmodified":1492042869,
     "wof:name":"Amaryllis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

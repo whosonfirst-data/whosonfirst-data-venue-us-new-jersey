@@ -2,9 +2,14 @@
   "id": 655587469,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Lackawanna Dr Stanhope NJ 07874",
+    "addr:housenumber":"46",
+    "addr:postcode":"07874",
+    "addr:street":"Lackawanna Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.715083,40.934379,-74.715083,40.934379",
     "geom:latitude":40.934379,
     "geom:longitude":-74.715083,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        85976261,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6csq40udNHsl13ZXh3AYna_40.934379_-74.715083@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312487,
     "wof:geomhash":"1648867ce585f0f37ec4cd99399b8d40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "locality_id":85976261,
+            "region_id":85688607,
+            "venue_id":655587469
+        }
+    ],
     "wof:id":655587469,
-    "wof:lastmodified":1466680698,
+    "wof:lastmodified":1492048441,
     "wof:name":"Pats Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

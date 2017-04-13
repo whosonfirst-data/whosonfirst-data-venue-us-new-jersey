@@ -2,9 +2,14 @@
   "id": 639523667,
   "type": "Feature",
   "properties": {
+    "addr:full":"593 Lakehurst Rd Browns Mills NJ 08015",
+    "addr:housenumber":"593",
+    "addr:postcode":"08015",
+    "addr:street":"Lakehurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.550839,39.954146,-74.550839,39.954146",
     "geom:latitude":39.954146,
     "geom:longitude":-74.550839,
@@ -24,7 +29,12 @@
     "sg:postcode":"08015",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85857563,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xQ4xzqwgxddqXhWM3wDPi_39.954146_-74.550839@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461298490,
     "wof:geomhash":"e59952623789b79fedb52ee265fd5b99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85857563,
+            "region_id":85688607,
+            "venue_id":639523667
+        }
+    ],
     "wof:id":639523667,
-    "wof:lastmodified":1466695290,
+    "wof:lastmodified":1492045059,
     "wof:name":"Computer Mikes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85857563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655762717,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Main St Little Falls NJ 07424",
+    "addr:housenumber":"8",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.224998,40.881302,-74.224998,40.881302",
     "geom:latitude":40.881302,
     "geom:longitude":-74.224998,
@@ -33,7 +38,13 @@
     ],
     "sg:website":"www.chevrolet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QG9ZAMyeHG0SJeUYaZv7T_40.881302_-74.224998@1303262264"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461319761,
     "wof:geomhash":"5d6f4b4465ac36b6ec2cd9ed3d10ec43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655762717
+        }
+    ],
     "wof:id":655762717,
-    "wof:lastmodified":1466685958,
+    "wof:lastmodified":1492050604,
     "wof:name":"Chevrolet Authorized Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639356673,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Ridge Rd Southampton NJ 08088",
+    "addr:housenumber":"105",
+    "addr:postcode":"08088",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.733391,39.910985,-74.733391,39.910985",
     "geom:latitude":39.910985,
     "geom:longitude":-74.733391,
@@ -33,7 +38,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dewYc1hmyxdeCg4Xi0H01_39.910985_-74.733391@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461293164,
     "wof:geomhash":"d88f7adbaaa0ac170e4521beda76f3b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639356673
+        }
+    ],
     "wof:id":639356673,
-    "wof:lastmodified":1466692477,
+    "wof:lastmodified":1492049579,
     "wof:name":"Hired Hand",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

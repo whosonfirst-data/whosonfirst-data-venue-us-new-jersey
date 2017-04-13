@@ -2,9 +2,14 @@
   "id": 655838417,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Spring Mills Rd Milford NJ 08848",
+    "addr:housenumber":"505",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.079193,40.604525,-75.079193,40.604525",
     "geom:latitude":40.604525,
     "geom:longitude":-75.079193,
@@ -35,7 +40,13 @@
         "tubs-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YCJKkWMBRZm23IyzHCg8a_40.604525_-75.079193@1303262283"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461323005,
     "wof:geomhash":"04e550169ea845330324c8efca73d4a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655838417
+        }
+    ],
     "wof:id":655838417,
-    "wof:lastmodified":1466687920,
+    "wof:lastmodified":1492070336,
     "wof:name":"Lance L Thatcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

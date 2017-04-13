@@ -2,9 +2,14 @@
   "id": 639511693,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Evelyn Ave Franklin Park NJ 08823",
+    "addr:housenumber":"24",
+    "addr:postcode":"08823",
+    "addr:street":"Evelyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.534803,40.443044,-74.534803,40.443044",
     "geom:latitude":40.443044,
     "geom:longitude":-74.534803,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sqA3foZsJrFfI0QiL16g4_40.443044_-74.534803@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297926,
     "wof:geomhash":"f76afa28fe4144fa662e288ba8698142",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639511693
+        }
+    ],
     "wof:id":639511693,
-    "wof:lastmodified":1466695080,
+    "wof:lastmodified":1492041435,
     "wof:name":"Church In Franklin Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

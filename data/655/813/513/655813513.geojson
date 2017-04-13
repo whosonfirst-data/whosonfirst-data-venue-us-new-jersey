@@ -2,9 +2,14 @@
   "id": 655813513,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Hampshire Ln Willingboro NJ 08046",
+    "addr:housenumber":"77",
+    "addr:postcode":"08046",
+    "addr:street":"Hampshire Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.873767,40.036444,-74.873767,40.036444",
     "geom:latitude":40.036444,
     "geom:longitude":-74.873767,
@@ -33,7 +38,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02DXUXllxSb3y18eOBdgxs_40.036444_-74.873767@1303262276"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461321971,
     "wof:geomhash":"825f36399ab726f6c38293dd2d1b0723",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813513
+        }
+    ],
     "wof:id":655813513,
-    "wof:lastmodified":1466687250,
+    "wof:lastmodified":1492020591,
     "wof:name":"Love-It Realty",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

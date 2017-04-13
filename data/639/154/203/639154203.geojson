@@ -2,9 +2,14 @@
   "id": 639154203,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 E High St Bound Brook NJ 08805",
+    "addr:housenumber":"13",
+    "addr:postcode":"08805",
+    "addr:street":"E High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533174,40.564065,-74.533174,40.564065",
     "geom:latitude":40.564065,
     "geom:longitude":-74.533174,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pCA6ZLuWAJ6muQqXZVbTi_40.564065_-74.533174@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288618,
     "wof:geomhash":"ad4c007fbe781a30da1b7478a1fb51fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639154203
+        }
+    ],
     "wof:id":639154203,
-    "wof:lastmodified":1466681986,
+    "wof:lastmodified":1492056129,
     "wof:name":"Ocean Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

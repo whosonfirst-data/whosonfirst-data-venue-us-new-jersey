@@ -2,9 +2,14 @@
   "id": 655534461,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Mackenzie Dr Jackson NJ 08527",
+    "addr:housenumber":"312",
+    "addr:postcode":"08527",
+    "addr:street":"Mackenzie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286957,40.15012,-74.286957,40.15012",
     "geom:latitude":40.15012,
     "geom:longitude":-74.286957,
@@ -28,7 +33,13 @@
         "jockey"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2txKEoe7e6x4yyk9cfbdWA_40.150120_-74.286957@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310221,
     "wof:geomhash":"be08f91344c4a5f6a95f735f56c97bbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655534461
+        }
+    ],
     "wof:id":655534461,
-    "wof:lastmodified":1466679069,
+    "wof:lastmodified":1492049077,
     "wof:name":"Elegant Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

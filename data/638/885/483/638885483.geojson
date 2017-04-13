@@ -2,9 +2,14 @@
   "id": 638885483,
   "type": "Feature",
   "properties": {
+    "addr:full":"377 Ellis Rd Milford NJ 08848",
+    "addr:housenumber":"377",
+    "addr:postcode":"08848",
+    "addr:street":"Ellis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.104848,40.621204,-75.104848,40.621204",
     "geom:latitude":40.621204,
     "geom:longitude":-75.104848,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C9ODrWfpb84Tzh7qJhrlo_40.621204_-75.104848@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282352,
     "wof:geomhash":"eb836590a4688dbcf8847112d7d8aae6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":638885483
+        }
+    ],
     "wof:id":638885483,
-    "wof:lastmodified":1466689851,
+    "wof:lastmodified":1492024352,
     "wof:name":"Holland Pntg & Wallpapering",
     "wof:parent_id":420527141,
     "wof:placetype":"venue",

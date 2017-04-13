@@ -2,9 +2,14 @@
   "id": 639340919,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Chestnut St Union NJ 07083",
+    "addr:housenumber":"355",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267986,40.678325,-74.267986,40.678325",
     "geom:latitude":40.678325,
     "geom:longitude":-74.267986,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IwV7PRuQVJPCFVDVSfC3n_40.678325_-74.267986@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292828,
     "wof:geomhash":"6da21f0d4a62a00bcd9fa1bee94fa814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639340919
+        }
+    ],
     "wof:id":639340919,
-    "wof:lastmodified":1466692569,
+    "wof:lastmodified":1492043545,
     "wof:name":"Chamber of Commerce",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

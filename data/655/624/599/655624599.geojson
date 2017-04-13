@@ -2,9 +2,14 @@
   "id": 655624599,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 River Rd Montague NJ 07827",
+    "addr:housenumber":"106",
+    "addr:postcode":"07827",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.714429,41.344797,-74.714429,41.344797",
     "geom:latitude":41.344797,
     "geom:longitude":-74.714429,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478469,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3esGbM1suus4tibmje5ZzS_41.344797_-74.714429@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314089,
     "wof:geomhash":"e3a5da45038e9ae55b11a72b21dcfd9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478469,
+            "region_id":85688607,
+            "venue_id":655624599
+        }
+    ],
     "wof:id":655624599,
-    "wof:lastmodified":1466681919,
+    "wof:lastmodified":1492048354,
     "wof:name":"Mackerly Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

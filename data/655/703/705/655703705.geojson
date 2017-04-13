@@ -2,9 +2,14 @@
   "id": 655703705,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"606",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988186,40.824757,-73.988186,40.824757",
     "geom:latitude":40.824757,
     "geom:longitude":-73.988186,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"shinpobento.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H8OxhFA4j6W1cGqAPWfWI_40.824757_-73.988186@1303262249"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461317525,
     "wof:geomhash":"b42fe2104fe46e4cef23904e0a28c962",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703705
+        }
+    ],
     "wof:id":655703705,
-    "wof:lastmodified":1466684418,
+    "wof:lastmodified":1492070827,
     "wof:name":"Shinpo Bento",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

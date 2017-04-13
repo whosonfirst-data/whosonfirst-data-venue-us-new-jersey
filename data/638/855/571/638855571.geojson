@@ -2,9 +2,14 @@
   "id": 638855571,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Brook Ln Bordentown NJ 08505",
+    "addr:housenumber":"3",
+    "addr:postcode":"08505",
+    "addr:street":"Brook Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.690516,40.144625,-74.690516,40.144625",
     "geom:latitude":40.144625,
     "geom:longitude":-74.690516,
@@ -30,7 +35,10 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KBUraMfMYeYeOM3iV8r3C_40.144625_-74.690516@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461281648,
     "wof:geomhash":"ae50c7ad6d7a936a18ee5c9dcbfac767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638855571
+        }
+    ],
     "wof:id":638855571,
-    "wof:lastmodified":1466689387,
+    "wof:lastmodified":1492052203,
     "wof:name":"Jack's Pool & Spa Svc",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

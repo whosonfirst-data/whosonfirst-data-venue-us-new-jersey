@@ -2,9 +2,14 @@
   "id": 638866265,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 McKinley St Bridgewater NJ 08807",
+    "addr:housenumber":"904",
+    "addr:postcode":"08807",
+    "addr:street":"Mckinley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.644177,40.623774,-74.644177,40.623774",
     "geom:latitude":40.623774,
     "geom:longitude":-74.644177,
@@ -33,7 +38,13 @@
         "main"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zpx8pbRhwjiEtnzA9B7Ld_40.623774_-74.644177@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461281884,
     "wof:geomhash":"b6081765e8d4589e9c93487b024273cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "region_id":85688607,
+            "venue_id":638866265
+        }
+    ],
     "wof:id":638866265,
-    "wof:lastmodified":1466689500,
+    "wof:lastmodified":1492024160,
     "wof:name":"Dulaine Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

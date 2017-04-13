@@ -2,9 +2,14 @@
   "id": 655416525,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Marc Alton Ct Jackson NJ 08527",
+    "addr:housenumber":"4",
+    "addr:postcode":"08527",
+    "addr:street":"Marc Alton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300746,40.156903,-74.300746,40.156903",
     "geom:latitude":40.156903,
     "geom:longitude":-74.300746,
@@ -30,7 +35,13 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56ohGLDvzzECnvvBEpYZx1_40.156903_-74.300746@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461305327,
     "wof:geomhash":"65fddc40e7ee1d293806ca0adca93038",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655416525
+        }
+    ],
     "wof:id":655416525,
-    "wof:lastmodified":1466675868,
+    "wof:lastmodified":1492047996,
     "wof:name":"Royal Scotch & Cigar Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

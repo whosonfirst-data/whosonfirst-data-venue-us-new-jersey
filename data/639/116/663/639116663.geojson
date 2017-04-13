@@ -2,9 +2,14 @@
   "id": 639116663,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1523",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260264,40.706889,-74.260264,40.706889",
     "geom:latitude":40.706889,
     "geom:longitude":-74.260264,
@@ -27,7 +32,10 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qX6XUGGra3nT6LAhVjzso_40.706889_-74.260264@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287708,
     "wof:geomhash":"80b3d942d3c5d1f9a806ec810b81ec6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639116663
+        }
+    ],
     "wof:id":639116663,
-    "wof:lastmodified":1466676598,
+    "wof:lastmodified":1492039787,
     "wof:name":"ETRAV Appraisal Co Inc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

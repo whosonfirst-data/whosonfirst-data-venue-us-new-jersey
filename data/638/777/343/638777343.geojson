@@ -2,9 +2,14 @@
   "id": 638777343,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 W Main St Bergenfield NJ 07621",
+    "addr:housenumber":"255",
+    "addr:postcode":"07621",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.007559,40.92802,-74.007559,40.92802",
     "geom:latitude":40.92802,
     "geom:longitude":-74.007559,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XTooiRHdFrXKNBcVQtHqZ_40.928020_-74.007559@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279735,
     "wof:geomhash":"15346129e32a0e1665c2591fa8dbf8d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":638777343
+        }
+    ],
     "wof:id":638777343,
-    "wof:lastmodified":1466682336,
+    "wof:lastmodified":1492070395,
     "wof:name":"Oscar Diaz Ocampo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

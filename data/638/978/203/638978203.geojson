@@ -2,9 +2,14 @@
   "id": 638978203,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Paulding Ave Northvale NJ 07647",
+    "addr:housenumber":"406",
+    "addr:postcode":"07647",
+    "addr:street":"Paulding Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951805,41.017824,-73.951805,41.017824",
     "geom:latitude":41.017824,
     "geom:longitude":-73.951805,
@@ -31,7 +36,14 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HaOukHAXIFIpmf0zs4AHA_41.017824_-73.951805@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461284613,
     "wof:geomhash":"eb482139b6b1f27264fab9df109b8e68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":638978203
+        }
+    ],
     "wof:id":638978203,
-    "wof:lastmodified":1466691862,
+    "wof:lastmodified":1492029349,
     "wof:name":"Superior AC & Rfrgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

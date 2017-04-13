@@ -2,9 +2,14 @@
   "id": 655787749,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Doe Hollow Ln Belvidere NJ 07823",
+    "addr:housenumber":"10",
+    "addr:postcode":"07823",
+    "addr:street":"Doe Hollow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012133,40.864388,-75.012133,40.864388",
     "geom:latitude":40.864388,
     "geom:longitude":-75.012133,
@@ -34,7 +39,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YytTeSWK1XZvBiYBPccfX_40.864388_-75.012133@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320884,
     "wof:geomhash":"3f7483693b565de163a714778db8fe78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527779,
+            "venue_id":655787749
+        }
+    ],
     "wof:id":655787749,
-    "wof:lastmodified":1466686701,
+    "wof:lastmodified":1492048116,
     "wof:name":"Four Sisters Winery",
     "wof:parent_id":420527779,
     "wof:placetype":"venue",

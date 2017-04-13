@@ -2,9 +2,14 @@
   "id": 638916623,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Main St Belmar NJ 07719",
+    "addr:housenumber":"604",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.024092,40.183328,-74.024092,40.183328",
     "geom:latitude":40.183328,
     "geom:longitude":-74.024092,
@@ -27,7 +32,14 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aCJ2P3RYogGp6a2qXwtAF_40.183328_-74.024092@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283177,
     "wof:geomhash":"43a6cbb2d2ec2aec174babce6a617d5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638916623
+        }
+    ],
     "wof:id":638916623,
-    "wof:lastmodified":1466690464,
+    "wof:lastmodified":1492053236,
     "wof:name":"Smyth-Ferrante Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

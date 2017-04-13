@@ -2,9 +2,14 @@
   "id": 638959351,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Clove Rd Little Falls NJ 07424",
+    "addr:housenumber":"150",
+    "addr:postcode":"07424",
+    "addr:street":"Clove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.196275,40.873035,-74.196275,40.873035",
     "geom:latitude":40.873035,
     "geom:longitude":-74.196275,
@@ -30,7 +35,13 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rDutgkz7LXOV30Ij9pfNv_40.873035_-74.196275@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461284228,
     "wof:geomhash":"e126df4ecdf6b5ded31f138e849882b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638959351
+        }
+    ],
     "wof:id":638959351,
-    "wof:lastmodified":1466691484,
+    "wof:lastmodified":1492053033,
     "wof:name":"I S S Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

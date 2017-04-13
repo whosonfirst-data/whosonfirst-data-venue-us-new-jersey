@@ -2,9 +2,14 @@
   "id": 639180345,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 Schooleys Mountain Rd Schooleys Mtn NJ 07853",
+    "addr:housenumber":"296",
+    "addr:postcode":"07853",
+    "addr:street":"Schooleys Mountain Rd Schooleys Mtn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.815638,40.805579,-74.815638,40.805579",
     "geom:latitude":40.805579,
     "geom:longitude":-74.815638,
@@ -28,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85976195,
+        102087413,
+        85850781,
         420527751,
         102191575,
         404478523,
-        85633793,
         85976421,
-        102083873,
-        85688607
+        102083873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +52,14 @@
     "wof:created":1461289198,
     "wof:geomhash":"6724dbd9437139625cfce7dddf9ce911",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "locality_id":85976195,
+            "neighbourhood_id":85850781,
+            "region_id":85688607,
+            "venue_id":639180345
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +72,9 @@
         }
     ],
     "wof:id":639180345,
-    "wof:lastmodified":1466685851,
+    "wof:lastmodified":1492065293,
     "wof:name":"Packaging Digest",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

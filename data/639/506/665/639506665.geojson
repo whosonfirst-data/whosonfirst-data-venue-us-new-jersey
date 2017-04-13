@@ -2,9 +2,14 @@
   "id": 639506665,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Millay Rd Morganville NJ 07751",
+    "addr:housenumber":"58",
+    "addr:postcode":"07751",
+    "addr:street":"Millay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.321305,40.346013,-74.321305,40.346013",
     "geom:latitude":40.346013,
     "geom:longitude":-74.321305,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gI44koJ7aHHZbAJ4Rg79b_40.346013_-74.321305@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297703,
     "wof:geomhash":"0b7041a1f21d1bb41cf11e038e4293f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639506665
+        }
+    ],
     "wof:id":639506665,
-    "wof:lastmodified":1466694734,
+    "wof:lastmodified":1492050205,
     "wof:name":"Pet Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

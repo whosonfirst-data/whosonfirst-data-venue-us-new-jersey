@@ -2,9 +2,14 @@
   "id": 639560797,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Windward Dr Barnegat NJ 08005",
+    "addr:housenumber":"102",
+    "addr:postcode":"08005",
+    "addr:street":"Windward Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248859,39.741873,-74.248859,39.741873",
     "geom:latitude":39.741873,
     "geom:longitude":-74.248859,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NBizQ6cCXcTxmnqN4OcP0_39.741873_-74.248859@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300157,
     "wof:geomhash":"fb027ab1726b6e40bcddffd1baf128ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":639560797
+        }
+    ],
     "wof:id":639560797,
-    "wof:lastmodified":1466696063,
+    "wof:lastmodified":1492049705,
     "wof:name":"Accent Roofing & Siding",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

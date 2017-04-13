@@ -2,9 +2,14 @@
   "id": 655445209,
   "type": "Feature",
   "properties": {
+    "addr:full":"169 State Rte 181 Lake Hopatcong NJ 07849",
+    "addr:housenumber":"169",
+    "addr:postcode":"07849",
+    "addr:street":"State Rte 181",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.612203,40.988282,-74.612203,40.988282",
     "geom:latitude":40.988282,
     "geom:longitude":-74.612203,
@@ -24,7 +29,10 @@
     "sg:postcode":"07849",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ykdmTziyCrrziVhfz5LZ1_40.988282_-74.612203@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461306482,
     "wof:geomhash":"ce8b7aebfc59ff4916bea56cc725fed6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":655445209
+        }
+    ],
     "wof:id":655445209,
-    "wof:lastmodified":1466676568,
+    "wof:lastmodified":1492047344,
     "wof:name":"Harrington's Furniture",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

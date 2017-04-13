@@ -2,9 +2,14 @@
   "id": 655446065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Redding Cir Princeton NJ 08540",
+    "addr:housenumber":"1",
+    "addr:postcode":"08540",
+    "addr:street":"Redding Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660801,40.372977,-74.660801,40.372977",
     "geom:latitude":40.372977,
     "geom:longitude":-74.660801,
@@ -27,7 +32,13 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OHBnTV9qKyYQ51aCBNc5B_40.372977_-74.660801@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306522,
     "wof:geomhash":"341bacb254f6848eb459e2744bf1c10e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655446065
+        }
+    ],
     "wof:id":655446065,
-    "wof:lastmodified":1466676606,
+    "wof:lastmodified":1492028622,
     "wof:name":"Housing Authority of Boroug H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655405039,
   "type": "Feature",
   "properties": {
+    "addr:full":"787 Grove St Irvington NJ 07111",
+    "addr:housenumber":"787",
+    "addr:postcode":"07111",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220055,40.729136,-74.220055,40.729136",
     "geom:latitude":40.729136,
     "geom:longitude":-74.220055,
@@ -24,7 +29,12 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892389,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06siEB2QPrGc5PuUoeFY1j_40.729136_-74.220055@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461304838,
     "wof:geomhash":"34ac75f73d8c16be4c6625bc3f4319d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892389,
+            "region_id":85688607,
+            "venue_id":655405039
+        }
+    ],
     "wof:id":655405039,
-    "wof:lastmodified":1466675477,
+    "wof:lastmodified":1492086035,
     "wof:name":"Irvington Board Of Education",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

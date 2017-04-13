@@ -2,9 +2,14 @@
   "id": 639530099,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Terbell Pkwy Westwood NJ 07675",
+    "addr:housenumber":"125",
+    "addr:postcode":"07675",
+    "addr:street":"Terbell Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.999828,40.994217,-73.999828,40.994217",
     "geom:latitude":40.994217,
     "geom:longitude":-73.999828,
@@ -24,7 +29,15 @@
     "sg:postcode":"07675",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85825599,
+        102191575,
+        404477551,
+        85633793,
+        85975989,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DfY6rDRnbJqpRQwj4iHlQ_40.994217_-73.999828@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461298838,
     "wof:geomhash":"51efca9435030ce2edae2edfa25656ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477551,
+            "locality_id":85975989,
+            "neighbourhood_id":85825599,
+            "region_id":85688607,
+            "venue_id":639530099
+        }
+    ],
     "wof:id":639530099,
-    "wof:lastmodified":1466695336,
+    "wof:lastmodified":1492048888,
     "wof:name":"Eugene Weisbrod",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655532427,
   "type": "Feature",
   "properties": {
+    "addr:full":"779 Tiffany Ave River Vale NJ 07675",
+    "addr:housenumber":"779",
+    "addr:postcode":"07675",
+    "addr:street":"Tiffany Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996329,40.992032,-73.996329,40.992032",
     "geom:latitude":40.992032,
     "geom:longitude":-73.996329,
@@ -28,7 +33,13 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zy7O42QvS6KYx8vtQ8zsf_40.992032_-73.996329@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310137,
     "wof:geomhash":"3936d064aa34db2041ef0db378dcfbb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":655532427
+        }
+    ],
     "wof:id":655532427,
-    "wof:lastmodified":1466678996,
+    "wof:lastmodified":1492047588,
     "wof:name":"Interntonal Protection Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

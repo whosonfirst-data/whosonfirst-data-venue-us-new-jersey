@@ -2,9 +2,14 @@
   "id": 655435447,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 Jackson Rd Atco NJ 08004",
+    "addr:housenumber":"427",
+    "addr:postcode":"08004",
+    "addr:street":"Jackson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.877578,39.778852,-74.877578,39.778852",
     "geom:latitude":39.778852,
     "geom:longitude":-74.877578,
@@ -28,7 +33,10 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38MscadcgsGrpCtGbS2SVc_39.778852_-74.877578@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306127,
     "wof:geomhash":"e84b1c39a6df55d73eaf6563256e6bc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":655435447
+        }
+    ],
     "wof:id":655435447,
-    "wof:lastmodified":1466676369,
+    "wof:lastmodified":1492057075,
     "wof:name":"Hawthorne Dental Lab Inc",
     "wof:parent_id":420526725,
     "wof:placetype":"venue",

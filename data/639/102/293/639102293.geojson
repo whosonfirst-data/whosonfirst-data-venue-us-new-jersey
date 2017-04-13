@@ -2,9 +2,14 @@
   "id": 639102293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1352 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1352",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244826,40.724185,-74.244826,40.724185",
     "geom:latitude":40.724185,
     "geom:longitude":-74.244826,
@@ -28,7 +33,13 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32O1PDZj7XhxJYWAvJV1dN_40.724185_-74.244826@1294171694"
@@ -36,11 +47,20 @@
     "wof:country":"US",
     "wof:created":1461287399,
     "wof:geomhash":"5c72cd9609d22eedb426b4d400f0a701",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639102293
+        }
+    ],
     "wof:id":639102293,
-    "wof:lastmodified":1466674587,
+    "wof:lastmodified":1491938448,
     "wof:name":"Jeans Grocery & Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

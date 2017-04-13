@@ -2,9 +2,14 @@
   "id": 655788343,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Fairmount Rd W Califon NJ 07830",
+    "addr:housenumber":"118",
+    "addr:postcode":"07830",
+    "addr:street":"Fairmount Rd W Califon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.776724,40.724568,-74.776724,40.724568",
     "geom:latitude":40.724568,
     "geom:longitude":-74.776724,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tkCySxaxiImfntm66eu0f_40.724568_-74.776724@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320910,
     "wof:geomhash":"b1cb17213ac21fdbbf6a18e1caae1f98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":655788343
+        }
+    ],
     "wof:id":655788343,
-    "wof:lastmodified":1466686600,
+    "wof:lastmodified":1492048444,
     "wof:name":"Running S Equine Verterinary Service",
     "wof:parent_id":420527075,
     "wof:placetype":"venue",

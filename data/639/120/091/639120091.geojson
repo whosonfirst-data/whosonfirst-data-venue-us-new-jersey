@@ -2,9 +2,14 @@
   "id": 639120091,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 US Hwy 46 Wayne NJ 07470",
+    "addr:housenumber":"100",
+    "addr:postcode":"07470",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263558,40.892553,-74.263558,40.892553",
     "geom:latitude":40.892553,
     "geom:longitude":-74.263558,
@@ -27,7 +32,13 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T25UPbpbWPf6JR7QifQdf_40.892553_-74.263558@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461287810,
     "wof:geomhash":"d3a7ae3e730f147426b3105d88e181cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639120091
+        }
+    ],
     "wof:id":639120091,
-    "wof:lastmodified":1466677079,
+    "wof:lastmodified":1492047303,
     "wof:name":"Macys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

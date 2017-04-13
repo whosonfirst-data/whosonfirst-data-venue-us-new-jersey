@@ -2,9 +2,14 @@
   "id": 639487803,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Thomas Dr Clark NJ 07066",
+    "addr:housenumber":"62",
+    "addr:postcode":"07066",
+    "addr:street":"Thomas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.324157,40.613485,-74.324157,40.613485",
     "geom:latitude":40.613485,
     "geom:longitude":-74.324157,
@@ -28,7 +33,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PBOXN6qV5iexeO3bm6dLD_40.613485_-74.324157@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461296947,
     "wof:geomhash":"d6154e36478c8a4f916984820017cb83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639487803
+        }
+    ],
     "wof:id":639487803,
-    "wof:lastmodified":1466694479,
+    "wof:lastmodified":1492049671,
     "wof:name":"West End Avenue Realty LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

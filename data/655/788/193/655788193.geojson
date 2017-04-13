@@ -2,9 +2,14 @@
   "id": 655788193,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mill St Branchville NJ 07826",
+    "addr:housenumber":"15",
+    "addr:postcode":"07826",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.747762,41.14482,-74.747762,41.14482",
     "geom:latitude":41.14482,
     "geom:longitude":-74.747762,
@@ -43,7 +48,10 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GVl7aDcmGf1P68FYeMBQ1_41.144820_-74.747762@1303262270"
@@ -51,9 +59,15 @@
     "wof:country":"US",
     "wof:created":1461320905,
     "wof:geomhash":"e9d7ef7764bf2318a62eb00b78620350",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788193
+        }
+    ],
     "wof:id":655788193,
-    "wof:lastmodified":1466686561,
+    "wof:lastmodified":1492067792,
     "wof:name":"Willco Heating & Cooling",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

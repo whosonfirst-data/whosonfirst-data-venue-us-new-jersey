@@ -2,9 +2,14 @@
   "id": 639566159,
   "type": "Feature",
   "properties": {
+    "addr:full":"2091 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2091",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27937,40.719163,-74.27937,40.719163",
     "geom:latitude":40.719163,
     "geom:longitude":-74.27937,
@@ -27,7 +32,13 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bMWgaxo2i15tQQ07vjP3m_40.719163_-74.279370@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300352,
     "wof:geomhash":"8fa9658809f976e0b3fb78947dd31a1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639566159
+        }
+    ],
     "wof:id":639566159,
-    "wof:lastmodified":1466696091,
+    "wof:lastmodified":1492076784,
     "wof:name":"Parts Distribution Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

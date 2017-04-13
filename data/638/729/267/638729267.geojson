@@ -2,9 +2,14 @@
   "id": 638729267,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Matawan Ave Matawan NJ 07747",
+    "addr:housenumber":"140",
+    "addr:postcode":"07747",
+    "addr:street":"Matawan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231323,40.423795,-74.231323,40.423795",
     "geom:latitude":40.423795,
     "geom:longitude":-74.231323,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478367,
+        85633793,
+        85975419,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49TGwILt6PdIr5itPt348P_40.423795_-74.231323@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278465,
     "wof:geomhash":"af196a5f1eb40266118f2f7d49c9820a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478367,
+            "locality_id":85975419,
+            "region_id":85688607,
+            "venue_id":638729267
+        }
+    ],
     "wof:id":638729267,
-    "wof:lastmodified":1466675310,
+    "wof:lastmodified":1492062347,
     "wof:name":"Dudley W Robinson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

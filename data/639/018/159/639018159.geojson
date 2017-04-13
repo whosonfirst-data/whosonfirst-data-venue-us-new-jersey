@@ -2,9 +2,14 @@
   "id": 639018159,
   "type": "Feature",
   "properties": {
+    "addr:full":"74 Pape Dr Atlantic Highlands NJ 07716",
+    "addr:housenumber":"74",
+    "addr:postcode":"07716",
+    "addr:street":"Pape Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.012131,40.40405,-74.012131,40.40405",
     "geom:latitude":40.40405,
     "geom:longitude":-74.012131,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85851097,
+        102191575,
+        404478339,
         85633793,
-        85854751,
-        102085049
+        85975357,
+        102085049,
+        85688607,
+        85854751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"d9d280bd4ea8718b0ab0587d2032a81a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478339,
+            "locality_id":85975357,
+            "neighbourhood_id":85851097,
+            "region_id":85688607,
+            "venue_id":639018159
+        },
+        {
             "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85854751,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":639018159,
-    "wof:lastmodified":1466673459,
+    "wof:lastmodified":1492051863,
     "wof:name":"I M Q A",
-    "wof:parent_id":85854751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

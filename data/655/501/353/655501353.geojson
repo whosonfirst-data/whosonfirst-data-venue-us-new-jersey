@@ -2,9 +2,14 @@
   "id": 655501353,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Romondt Rd Pompton Plains NJ 07444",
+    "addr:housenumber":"14",
+    "addr:postcode":"07444",
+    "addr:street":"Romondt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286608,40.96491,-74.286608,40.96491",
     "geom:latitude":40.96491,
     "geom:longitude":-74.286608,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MC2nTZEyr9kDU0pjpbT2c_40.964910_-74.286608@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461308907,
     "wof:geomhash":"f28a2cf005699c51fa4531fb5ae9bf6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655501353
+        }
+    ],
     "wof:id":655501353,
-    "wof:lastmodified":1466678172,
+    "wof:lastmodified":1492028088,
     "wof:name":"American Legion Post 242",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655609099,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Chestnut Ave Irvington NJ 07111",
+    "addr:housenumber":"56",
+    "addr:postcode":"07111",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231942,40.712377,-74.231942,40.712377",
     "geom:latitude":40.712377,
     "geom:longitude":-74.231942,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.vfw.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6806J817gMcTj45jRxgK7c_40.712377_-74.231942@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313388,
     "wof:geomhash":"9b89cd6128e797518688a2346ff6f7d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655609099
+        }
+    ],
     "wof:id":655609099,
-    "wof:lastmodified":1466681317,
+    "wof:lastmodified":1492027825,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

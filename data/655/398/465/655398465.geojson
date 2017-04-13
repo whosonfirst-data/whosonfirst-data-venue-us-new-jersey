@@ -2,9 +2,14 @@
   "id": 655398465,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 High St Bloomingdale NJ 07403",
+    "addr:housenumber":"2",
+    "addr:postcode":"07403",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.330621,41.00443,-74.330621,41.00443",
     "geom:latitude":41.00443,
     "geom:longitude":-74.330621,
@@ -28,7 +33,14 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WO4s9Fz31H6zQCJdIcnhx_41.004430_-74.330621@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304564,
     "wof:geomhash":"ca5f81f9e71007fcc75e107d6ff5187a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655398465
+        }
+    ],
     "wof:id":655398465,
-    "wof:lastmodified":1466675449,
+    "wof:lastmodified":1492048659,
     "wof:name":"Datex Computer Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

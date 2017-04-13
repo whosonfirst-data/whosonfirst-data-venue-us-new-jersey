@@ -2,9 +2,14 @@
   "id": 639619319,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 W 8th St Plainfield NJ 07060",
+    "addr:housenumber":"519",
+    "addr:postcode":"07060",
+    "addr:street":"W 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.420155,40.610161,-74.420155,40.610161",
     "geom:latitude":40.610161,
     "geom:longitude":-74.420155,
@@ -24,7 +29,15 @@
     "sg:postcode":"07060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527703,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xNhLV45Jo5OE5990ltkh0_40.610161_-74.420155@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461302481,
     "wof:geomhash":"8131b4155a98263e765a01f47365b35d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "neighbourhood_id":420527703,
+            "region_id":85688607,
+            "venue_id":639619319
+        }
+    ],
     "wof:id":639619319,
-    "wof:lastmodified":1466697418,
+    "wof:lastmodified":1492051937,
     "wof:name":"Plainfield Group Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

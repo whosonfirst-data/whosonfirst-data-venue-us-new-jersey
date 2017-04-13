@@ -2,9 +2,14 @@
   "id": 655549383,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Clairmont Ct Lakewood NJ 08701",
+    "addr:housenumber":"117",
+    "addr:postcode":"08701",
+    "addr:street":"Clairmont Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226235,40.064099,-74.226235,40.064099",
     "geom:latitude":40.064099,
     "geom:longitude":-74.226235,
@@ -31,7 +36,10 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iG8xjRTlWaz8bgCygnlzT_40.064099_-74.226235@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461310799,
     "wof:geomhash":"020df64640e000fcb371a80c4212bda5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655549383
+        }
+    ],
     "wof:id":655549383,
-    "wof:lastmodified":1466679509,
+    "wof:lastmodified":1492053646,
     "wof:name":"Pals",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

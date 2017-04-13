@@ -2,9 +2,14 @@
   "id": 639285493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2064 Winding Brook Way Scotch Plains NJ 07076",
+    "addr:housenumber":"2064",
+    "addr:postcode":"07076",
+    "addr:street":"Winding Brook Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.338073,40.621673,-74.338073,40.621673",
     "geom:latitude":40.621673,
     "geom:longitude":-74.338073,
@@ -29,7 +34,13 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79bUYloXl5HJmULako1FgC_40.621673_-74.338073@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461291662,
     "wof:geomhash":"82850dca0b087fba3a18fd8a80a93298",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639285493
+        }
+    ],
     "wof:id":639285493,
-    "wof:lastmodified":1466691092,
+    "wof:lastmodified":1492043857,
     "wof:name":"Island Laser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

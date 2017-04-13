@@ -2,9 +2,14 @@
   "id": 655460125,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Fairview Ave Glen Rock NJ 07452",
+    "addr:housenumber":"44",
+    "addr:postcode":"07452",
+    "addr:street":"Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141904,40.958481,-74.141904,40.958481",
     "geom:latitude":40.958481,
     "geom:longitude":-74.141904,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PHMtIKzQaK3vFilyQVH25_40.958481_-74.141904@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307161,
     "wof:geomhash":"3da2afa91104f066395b0eb5f4448e9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655460125
+        }
+    ],
     "wof:id":655460125,
-    "wof:lastmodified":1466677052,
+    "wof:lastmodified":1492055410,
     "wof:name":"Agram Export-Import Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

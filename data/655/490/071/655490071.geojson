@@ -2,9 +2,14 @@
   "id": 655490071,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Main St Spotswood NJ 08884",
+    "addr:housenumber":"306",
+    "addr:postcode":"08884",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.38358,40.397493,-74.38358,40.397493",
     "geom:latitude":40.397493,
     "geom:longitude":-74.38358,
@@ -27,7 +32,10 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H93sWaL3FSuw7b32VVg2C_40.397493_-74.383580@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308418,
     "wof:geomhash":"0bfdbb935747408247c20acd5ce18c78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655490071
+        }
+    ],
     "wof:id":655490071,
-    "wof:lastmodified":1466677836,
+    "wof:lastmodified":1492028386,
     "wof:name":"306 Cleaners",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

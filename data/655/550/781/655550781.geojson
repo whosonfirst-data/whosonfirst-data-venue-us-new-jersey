@@ -2,9 +2,14 @@
   "id": 655550781,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Park Ave South Plainfield NJ 07080",
+    "addr:housenumber":"1620",
+    "addr:postcode":"07080",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.40148,40.598254,-74.40148,40.598254",
     "geom:latitude":40.598254,
     "geom:longitude":-74.40148,
@@ -24,7 +29,14 @@
     "sg:postcode":"07080",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478213,
+        85633793,
+        85975729,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ubNTTIWLHYIWDFirlBjVN_40.598254_-74.401480@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461310852,
     "wof:geomhash":"540fe4a3c3fdf2d2467279dc88fe72d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "region_id":85688607,
+            "venue_id":655550781
+        }
+    ],
     "wof:id":655550781,
-    "wof:lastmodified":1466679616,
+    "wof:lastmodified":1492023650,
     "wof:name":"Best Sushi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

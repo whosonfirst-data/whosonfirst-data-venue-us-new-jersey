@@ -2,9 +2,14 @@
   "id": 638993651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"1230",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.498117,40.48691,-74.498117,40.48691",
     "geom:latitude":40.48691,
     "geom:longitude":-74.498117,
@@ -28,7 +33,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ie49VWzvHCL9M3r76bfJh_40.486910_-74.498117@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284971,
     "wof:geomhash":"052ea0d4428b59c88788a1adfe0fdd8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":638993651
+        }
+    ],
     "wof:id":638993651,
-    "wof:lastmodified":1466692168,
+    "wof:lastmodified":1492049905,
     "wof:name":"Tabatchinick Fine Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

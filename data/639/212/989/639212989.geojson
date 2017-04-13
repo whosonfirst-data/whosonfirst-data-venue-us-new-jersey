@@ -2,9 +2,14 @@
   "id": 639212989,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Leonard Dr Old Tappan NJ 07675",
+    "addr:housenumber":"53",
+    "addr:postcode":"07675",
+    "addr:street":"Leonard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.983614,41.009999,-73.983614,41.009999",
     "geom:latitude":41.009999,
     "geom:longitude":-73.983614,
@@ -28,7 +33,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yla72xEEpTdGr9Ks4rFeq_41.009999_-73.983614@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289981,
     "wof:geomhash":"0c3483211c25e7b50404371ef1433503",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639212989
+        }
+    ],
     "wof:id":639212989,
-    "wof:lastmodified":1466689436,
+    "wof:lastmodified":1492026229,
     "wof:name":"State Line Sales & Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

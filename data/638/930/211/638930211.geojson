@@ -2,9 +2,14 @@
   "id": 638930211,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Sugar Maple Ave Newfoundland NJ 07435",
+    "addr:housenumber":"33",
+    "addr:postcode":"07435",
+    "addr:street":"Sugar Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.440993,41.06644,-74.440993,41.06644",
     "geom:latitude":41.06644,
     "geom:longitude":-74.440993,
@@ -28,7 +33,13 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T3NgG4fqKjcrPNaM2vCNi_41.066440_-74.440993@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283518,
     "wof:geomhash":"8250ba188d2f7392bb63018d138940a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":638930211
+        }
+    ],
     "wof:id":638930211,
-    "wof:lastmodified":1466691050,
+    "wof:lastmodified":1492068934,
     "wof:name":"M G M Mechanical & Hvac Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639045929,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Church Rd Medford NJ 08055",
+    "addr:housenumber":"345",
+    "addr:postcode":"08055",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790132,39.922206,-74.790132,39.922206",
     "geom:latitude":39.922206,
     "geom:longitude":-74.790132,
@@ -27,7 +32,10 @@
         "audio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O680n1DFJHZ9Hswj2mX72_39.922206_-74.790132@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286178,
     "wof:geomhash":"d7a1c108f0436c2e2002a98584558988",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526561,
+            "venue_id":639045929
+        }
+    ],
     "wof:id":639045929,
-    "wof:lastmodified":1466674214,
+    "wof:lastmodified":1492030764,
     "wof:name":"Angelfire Productions",
     "wof:parent_id":420526561,
     "wof:placetype":"venue",

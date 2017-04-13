@@ -2,9 +2,14 @@
   "id": 655789809,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 High St Ste 1300 Newton NJ 07860",
+    "addr:housenumber":"183",
+    "addr:postcode":"07860",
+    "addr:street":"High St Ste 1300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.765875,41.05515,-74.765875,41.05515",
     "geom:latitude":41.05515,
     "geom:longitude":-74.765875,
@@ -37,7 +42,10 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ONPQkO3xowDKgApmHP3Vy_41.055150_-74.765875@1303262270"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461320971,
     "wof:geomhash":"9858ab1cd0e82ddff7e08318395a7a62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789809
+        }
+    ],
     "wof:id":655789809,
-    "wof:lastmodified":1466686726,
+    "wof:lastmodified":1492030687,
     "wof:name":"Howard Sosna, DDS",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

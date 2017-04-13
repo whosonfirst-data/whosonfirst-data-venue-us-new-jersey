@@ -2,9 +2,14 @@
   "id": 639584699,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 3rd St Belvidere NJ 07823",
+    "addr:housenumber":"408",
+    "addr:postcode":"07823",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.075545,40.825966,-75.075545,40.825966",
     "geom:latitude":40.825966,
     "geom:longitude":-75.075545,
@@ -24,7 +29,14 @@
     "sg:postcode":"07823",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78ufdpC37gT07Klgdg0nF7_40.825966_-75.075545@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461301105,
     "wof:geomhash":"6750cec23b7112c976942837e5e127a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":639584699
+        }
+    ],
     "wof:id":639584699,
-    "wof:lastmodified":1466696542,
+    "wof:lastmodified":1492076806,
     "wof:name":"Nutrition Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655479775,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 Kresson Rd Cherry Hill NJ 08003",
+    "addr:housenumber":"709",
+    "addr:postcode":"08003",
+    "addr:street":"Kresson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.997219,39.88959,-74.997219,39.88959",
     "geom:latitude":39.88959,
     "geom:longitude":-74.997219,
@@ -24,7 +29,18 @@
     "sg:postcode":"08003",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526733,
+        102191575,
+        404477993,
+        85633793,
+        85976229,
+        102081131,
+        85688607,
+        420526745,
+        85976247,
+        85807801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZB7RxGyAh2w3XSfnLldqW_39.889590_-74.997219@1294171694"
@@ -32,11 +48,42 @@
     "wof:country":"US",
     "wof:created":1461308004,
     "wof:geomhash":"bdb2401bbe316fec842c3d6b6b352430",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976229,
+            "neighbourhood_id":420526733,
+            "region_id":85688607,
+            "venue_id":655479775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976247,
+            "neighbourhood_id":420526745,
+            "region_id":85688607,
+            "venue_id":655479775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976247,
+            "neighbourhood_id":85807801,
+            "region_id":85688607,
+            "venue_id":655479775
+        }
+    ],
     "wof:id":655479775,
-    "wof:lastmodified":1466677760,
+    "wof:lastmodified":1492048466,
     "wof:name":"Toms Wholesale",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

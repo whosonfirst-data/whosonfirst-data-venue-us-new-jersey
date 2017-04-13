@@ -2,9 +2,14 @@
   "id": 639110513,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Jacksonville Rd Pompton Plains NJ 07444",
+    "addr:housenumber":"8",
+    "addr:postcode":"07444",
+    "addr:street":"Jacksonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292858,40.952332,-74.292858,40.952332",
     "geom:latitude":40.952332,
     "geom:longitude":-74.292858,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tOXN5Tvf8hdG0vA5MnJbb_40.952332_-74.292858@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461287575,
     "wof:geomhash":"a64d5225abeb7926c9b9dd58f96ea4e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639110513
+        }
+    ],
     "wof:id":639110513,
-    "wof:lastmodified":1466675741,
+    "wof:lastmodified":1492050693,
     "wof:name":"VIP Marketing Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

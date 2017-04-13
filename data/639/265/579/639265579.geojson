@@ -2,9 +2,14 @@
   "id": 639265579,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Longhurst Rd Marlton NJ 08053",
+    "addr:housenumber":"61",
+    "addr:postcode":"08053",
+    "addr:street":"Longhurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.885669,39.895291,-74.885669,39.895291",
     "geom:latitude":39.895291,
     "geom:longitude":-74.885669,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569,
+        85688607,
+        85812655,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fwRrlqAhDpp2hCrNMqYe6_39.895291_-74.885669@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461291185,
     "wof:geomhash":"f787b2dc69e0189c059df49cea772848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":639265579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85812655,
+            "region_id":85688607,
+            "venue_id":639265579
+        }
+    ],
     "wof:id":639265579,
-    "wof:lastmodified":1466690665,
+    "wof:lastmodified":1492027909,
     "wof:name":"Classic Lawn & Landscape",
-    "wof:parent_id":420526569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

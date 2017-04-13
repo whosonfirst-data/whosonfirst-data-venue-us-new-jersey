@@ -2,9 +2,14 @@
   "id": 639516317,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"454",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.320536,40.715142,-74.320536,40.715142",
     "geom:latitude":40.715142,
     "geom:longitude":-74.320536,
@@ -36,7 +41,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BPRUpi71pPCdpAaIZvhBw_40.715142_-74.320536@1294171694"
@@ -44,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461298126,
     "wof:geomhash":"8689921412e51dc81edcb162ea8a6624",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":639516317
+        }
+    ],
     "wof:id":639516317,
-    "wof:lastmodified":1466695213,
+    "wof:lastmodified":1492071357,
     "wof:name":"Hearing Aids Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655693907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Route 27 Franklin Park NJ 08823",
+    "addr:housenumber":"3201",
+    "addr:postcode":"08823",
+    "addr:street":"Route 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.546762,40.434902,-74.546762,40.434902",
     "geom:latitude":40.434902,
     "geom:longitude":-74.546762,
@@ -29,7 +34,14 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTnfz33STlG6sEH1JGaim_40.434902_-74.546762@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461317036,
     "wof:geomhash":"3d3d3b1d4a19a68239005285c62c805c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":655693907
+        }
+    ],
     "wof:id":655693907,
-    "wof:lastmodified":1466684211,
+    "wof:lastmodified":1492068294,
     "wof:name":"Paratha Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

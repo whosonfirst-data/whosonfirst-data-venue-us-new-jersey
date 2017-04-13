@@ -2,9 +2,14 @@
   "id": 639360979,
   "type": "Feature",
   "properties": {
+    "addr:full":"194 Railroad Ave Northvale NJ 07647",
+    "addr:housenumber":"194",
+    "addr:postcode":"07647",
+    "addr:street":"Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.947764,41.005627,-73.947764,41.005627",
     "geom:latitude":41.005627,
     "geom:longitude":-73.947764,
@@ -27,7 +32,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mEHNsnW0gP4ngztOEjzpQ_41.005627_-73.947764@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293252,
     "wof:geomhash":"de575337f6b047a2c564b656ee85b2d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639360979
+        }
+    ],
     "wof:id":639360979,
-    "wof:lastmodified":1466692186,
+    "wof:lastmodified":1492048071,
     "wof:name":"Talian Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

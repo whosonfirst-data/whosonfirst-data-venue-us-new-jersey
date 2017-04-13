@@ -2,9 +2,14 @@
   "id": 655790019,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Trinity St Newton NJ 07860",
+    "addr:housenumber":"15",
+    "addr:postcode":"07860",
+    "addr:street":"Trinity St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751742,41.059077,-74.751742,41.059077",
     "geom:latitude":41.059077,
     "geom:longitude":-74.751742,
@@ -34,7 +39,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cA23bjnM7AZSlhwkAXCgX_41.059077_-74.751742@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320978,
     "wof:geomhash":"7a9cfbea08920f0d12345424ca372783",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655790019
+        }
+    ],
     "wof:id":655790019,
-    "wof:lastmodified":1466686524,
+    "wof:lastmodified":1492070868,
     "wof:name":"Bank 7",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639522723,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Schooner Ln Hammonton NJ 08037",
+    "addr:housenumber":"2800",
+    "addr:postcode":"08037",
+    "addr:street":"Schooner Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617113,39.620895,-74.617113,39.620895",
     "geom:latitude":39.620895,
     "geom:longitude":-74.617113,
@@ -24,7 +29,10 @@
     "sg:postcode":"08037",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06iH4J3BbLBBuJzqgP3jRJ_39.620895_-74.617113@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461298437,
     "wof:geomhash":"a01875aa14f216d569dd45f6e86fc583",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526667,
+            "venue_id":639522723
+        }
+    ],
     "wof:id":639522723,
-    "wof:lastmodified":1466695216,
+    "wof:lastmodified":1492042549,
     "wof:name":"Kevin Sprouls Illustration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

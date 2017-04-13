@@ -2,9 +2,14 @@
   "id": 638971697,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 State Rte 181 Lake Hopatcong NJ 07849",
+    "addr:housenumber":"155",
+    "addr:postcode":"07849",
+    "addr:street":"State Rte 181",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.611385,40.986656,-74.611385,40.986656",
     "geom:latitude":40.986656,
     "geom:longitude":-74.611385,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O1AHp2OM1xnpBtreV7Arr_40.986656_-74.611385@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461284483,
     "wof:geomhash":"1d013a4ad314ec5b1dc655fc5f4ba7cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":638971697
+        }
+    ],
     "wof:id":638971697,
-    "wof:lastmodified":1466691772,
+    "wof:lastmodified":1492029365,
     "wof:name":"Flash Marina LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639541471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Sherman Ave Pennsauken NJ 08110",
+    "addr:housenumber":"1601",
+    "addr:postcode":"08110",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05145,39.968665,-75.05145,39.968665",
     "geom:latitude":39.968665,
     "geom:longitude":-75.05145,
@@ -30,7 +35,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xyjntTRr5FWi5M5pU6rAE_39.968665_-75.051450@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461299375,
     "wof:geomhash":"dcf5238248f1c779cd5ced635834c5de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639541471
+        }
+    ],
     "wof:id":639541471,
-    "wof:lastmodified":1466695651,
+    "wof:lastmodified":1492025428,
     "wof:name":"American Transfer Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655401043,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Milford Rd Hightstown NJ 08520",
+    "addr:housenumber":"80",
+    "addr:postcode":"08520",
+    "addr:street":"Milford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500401,40.263135,-74.500401,40.263135",
     "geom:latitude":40.263135,
     "geom:longitude":-74.500401,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54KILPpi4jcq0HpFMouU4B_40.263135_-74.500401@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304677,
     "wof:geomhash":"3f27f89c637c4e56aa6f42a7e7dbc6a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":655401043
+        }
+    ],
     "wof:id":655401043,
-    "wof:lastmodified":1466675454,
+    "wof:lastmodified":1492050937,
     "wof:name":"First Vehicle Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

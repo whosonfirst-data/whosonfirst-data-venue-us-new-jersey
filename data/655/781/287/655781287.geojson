@@ -2,9 +2,14 @@
   "id": 655781287,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Marion Rd Montvale NJ 07645",
+    "addr:housenumber":"3",
+    "addr:postcode":"07645",
+    "addr:street":"Marion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017345,41.04203,-74.017345,41.04203",
     "geom:latitude":41.04203,
     "geom:longitude":-74.017345,
@@ -29,7 +34,14 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_229pf3lAl07i5YQ1NLGl2z_41.042030_-74.017345@1303262268"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461320606,
     "wof:geomhash":"8293e71b0053f6bdb0d712afd695d068",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":655781287
+        }
+    ],
     "wof:id":655781287,
-    "wof:lastmodified":1466686335,
+    "wof:lastmodified":1492052359,
     "wof:name":"Ron Ro Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

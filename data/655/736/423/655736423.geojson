@@ -2,9 +2,14 @@
   "id": 655736423,
   "type": "Feature",
   "properties": {
+    "addr:full":"254 Page Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"254",
+    "addr:postcode":"07071",
+    "addr:street":"Page Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131358,40.809349,-74.131358,40.809349",
     "geom:latitude":40.809349,
     "geom:longitude":-74.131358,
@@ -27,7 +32,13 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Uswa04IgSde0TiFy76ef2_40.809349_-74.131358@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318783,
     "wof:geomhash":"ee398c26ef01d9112e232c515820c98e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655736423
+        }
+    ],
     "wof:id":655736423,
-    "wof:lastmodified":1466685304,
+    "wof:lastmodified":1492023943,
     "wof:name":"Vtl Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

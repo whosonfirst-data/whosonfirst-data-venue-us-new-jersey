@@ -2,9 +2,14 @@
   "id": 655789195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1408 3rd Ave Great Meadows NJ 07838",
+    "addr:housenumber":"1408",
+    "addr:postcode":"07838",
+    "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.939301,40.865601,-74.939301,40.865601",
     "geom:latitude":40.865601,
     "geom:longitude":-74.939301,
@@ -27,7 +32,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OzklalMnLjtkoVefcLG0q_40.865601_-74.939301@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320946,
     "wof:geomhash":"9061ebfb46d69367300e06851187a8cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527761,
+            "venue_id":655789195
+        }
+    ],
     "wof:id":655789195,
-    "wof:lastmodified":1466686568,
+    "wof:lastmodified":1492053323,
     "wof:name":"Alpha Pizza & Sub Shop",
     "wof:parent_id":420527761,
     "wof:placetype":"venue",

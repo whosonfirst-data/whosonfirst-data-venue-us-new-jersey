@@ -2,9 +2,14 @@
   "id": 639105065,
   "type": "Feature",
   "properties": {
+    "addr:full":"2073 Stanley Ter Union NJ 07083",
+    "addr:housenumber":"2073",
+    "addr:postcode":"07083",
+    "addr:street":"Stanley Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262283,40.711301,-74.262283,40.711301",
     "geom:latitude":40.711301,
     "geom:longitude":-74.262283,
@@ -28,7 +33,10 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5maMDiJXUouRB6PcXh56Tl_40.711301_-74.262283@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461287459,
     "wof:geomhash":"21ee7e0873c052d535638166fcd88040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":639105065
+        }
+    ],
     "wof:id":639105065,
-    "wof:lastmodified":1466674958,
+    "wof:lastmodified":1492048879,
     "wof:name":"D J Tony Shans The Mad Hatter",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

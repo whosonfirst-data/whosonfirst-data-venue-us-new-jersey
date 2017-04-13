@@ -2,9 +2,14 @@
   "id": 638731969,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Davis Station Rd Creamridge NJ 08526",
+    "addr:housenumber":"163",
+    "addr:postcode":"08526",
+    "addr:street":"Davis Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.514442,40.154363,-74.514442,40.154363",
     "geom:latitude":40.154363,
     "geom:longitude":-74.514442,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527299,
+        85688607,
         85826085,
         102085049
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527299,
+            "venue_id":638731969
+        },
+        {
+            "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85826085,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":638731969,
-    "wof:lastmodified":1466675713,
+    "wof:lastmodified":1492062483,
     "wof:name":"Hidden Lake Nursery",
-    "wof:parent_id":85826085,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

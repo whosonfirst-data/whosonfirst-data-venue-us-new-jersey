@@ -2,9 +2,14 @@
   "id": 638913631,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Millstone Rd Clarksburg NJ 08510",
+    "addr:housenumber":"441",
+    "addr:postcode":"08510",
+    "addr:street":"Millstone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.423075,40.174113,-74.423075,40.174113",
     "geom:latitude":40.174113,
     "geom:longitude":-74.423075,
@@ -28,7 +33,13 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5942LGBzBaHsLqVF47qthX_40.174113_-74.423075@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283094,
     "wof:geomhash":"647f461aa81834750b030f8edbb7a6f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":638913631
+        }
+    ],
     "wof:id":638913631,
-    "wof:lastmodified":1466690200,
+    "wof:lastmodified":1492080209,
     "wof:name":"Tops N Town Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639244879,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Walnut St Norwood NJ 07648",
+    "addr:housenumber":"55",
+    "addr:postcode":"07648",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95135,40.996729,-73.95135,40.996729",
     "geom:latitude":40.996729,
     "geom:longitude":-73.95135,
@@ -33,7 +38,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jXmWeudwp8OIITpFP0lhS_40.996729_-73.951350@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461290717,
     "wof:geomhash":"f4a3e0dedd7cc5416775a4d29f744bb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639244879
+        }
+    ],
     "wof:id":639244879,
-    "wof:lastmodified":1466690312,
+    "wof:lastmodified":1492047626,
     "wof:name":"Body Chemistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

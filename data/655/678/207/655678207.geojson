@@ -2,9 +2,14 @@
   "id": 655678207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1528 W Blancke St Linden NJ 07036",
+    "addr:housenumber":"1528",
+    "addr:postcode":"07036",
+    "addr:street":"W Blancke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.266998,40.621201,-74.266998,40.621201",
     "geom:latitude":40.621201,
     "geom:longitude":-74.266998,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oc9dVGkCLnvx2uLfX7vWW_40.620602_-74.267736@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316346,
     "wof:geomhash":"62c9340e3dd9d2110d293639db8998b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655678207
+        }
+    ],
     "wof:id":655678207,
-    "wof:lastmodified":1466683690,
+    "wof:lastmodified":1492076775,
     "wof:name":"B & B Automotive Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

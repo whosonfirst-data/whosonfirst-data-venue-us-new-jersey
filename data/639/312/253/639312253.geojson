@@ -2,9 +2,14 @@
   "id": 639312253,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"203",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.807737,40.284071,-74.807737,40.284071",
     "geom:latitude":40.284071,
     "geom:longitude":-74.807737,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527147,
+        85688607,
         85802957,
-        102081129
+        102081129,
+        85818373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +50,28 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":639312253
+        },
+        {
+            "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85802957,
+            "region_id":85688607,
+            "venue_id":639312253
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85818373,
             "region_id":85688607,
             "venue_id":639312253
         }
     ],
     "wof:id":639312253,
-    "wof:lastmodified":1466691733,
+    "wof:lastmodified":1492042234,
     "wof:name":"Papa John's Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

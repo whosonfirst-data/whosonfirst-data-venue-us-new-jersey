@@ -2,9 +2,14 @@
   "id": 655629845,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Center Ave Leonardo NJ 07737",
+    "addr:housenumber":"111",
+    "addr:postcode":"07737",
+    "addr:street":"Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.065914,40.419317,-74.065914,40.419317",
     "geom:latitude":40.419317,
     "geom:longitude":-74.065914,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ca7nHFZPGotDaLG6ID8f6_40.419317_-74.065914@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461314309,
     "wof:geomhash":"5e249d987de783b0e97cf8f96fa3c96d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655629845
+        }
+    ],
     "wof:id":655629845,
-    "wof:lastmodified":1466682244,
+    "wof:lastmodified":1492052229,
     "wof:name":"TL Renovators",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

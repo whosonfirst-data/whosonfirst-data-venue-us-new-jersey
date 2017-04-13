@@ -2,9 +2,14 @@
   "id": 655404059,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 US Hwy 22 Hillside NJ 07205",
+    "addr:housenumber":"666",
+    "addr:postcode":"07205",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246028,40.697791,-74.246028,40.697791",
     "geom:latitude":40.697791,
     "geom:longitude":-74.246028,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cnTzQBqsXMBjpvC6mIwGX_40.697791_-74.246028@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304796,
     "wof:geomhash":"704a495625d399e54154a60ae6c1222f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655404059
+        }
+    ],
     "wof:id":655404059,
-    "wof:lastmodified":1466675474,
+    "wof:lastmodified":1492024079,
     "wof:name":"Inter Car Inc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

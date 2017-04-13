@@ -2,9 +2,14 @@
   "id": 639298821,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Hope Rd Blairstown NJ 07825",
+    "addr:housenumber":"110",
+    "addr:postcode":"07825",
+    "addr:street":"Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.955157,40.957535,-74.955157,40.957535",
     "geom:latitude":40.957535,
     "geom:longitude":-74.955157,
@@ -33,8 +38,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85819061,
-        102083873
+        85827269,
+        102083873,
+        85819061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,22 @@
         {
             "country_id":85633793,
             "county_id":102083873,
+            "neighbourhood_id":85827269,
+            "region_id":85688607,
+            "venue_id":639298821
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083873,
             "neighbourhood_id":85819061,
             "region_id":85688607,
             "venue_id":639298821
         }
     ],
     "wof:id":639298821,
-    "wof:lastmodified":1466691275,
+    "wof:lastmodified":1492054552,
     "wof:name":"Planit Networks Inc",
-    "wof:parent_id":85819061,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

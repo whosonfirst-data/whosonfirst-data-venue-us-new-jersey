@@ -2,9 +2,14 @@
   "id": 655621475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1949 Montgomery St Rahway NJ 07065",
+    "addr:housenumber":"1949",
+    "addr:postcode":"07065",
+    "addr:street":"Montgomery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267169,40.610377,-74.267169,40.610377",
     "geom:latitude":40.610377,
     "geom:longitude":-74.267169,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BlWvQFyqG0FgD5ycpUfzn_40.610377_-74.267169@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313953,
     "wof:geomhash":"940422a433e4c2d8360070f1278155de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655621475
+        }
+    ],
     "wof:id":655621475,
-    "wof:lastmodified":1466681797,
+    "wof:lastmodified":1492065352,
     "wof:name":"Connell Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

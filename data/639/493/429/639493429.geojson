@@ -2,9 +2,14 @@
   "id": 639493429,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Main St Bloomingdale NJ 07403",
+    "addr:housenumber":"78",
+    "addr:postcode":"07403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329143,41.002823,-74.329143,41.002823",
     "geom:latitude":41.002823,
     "geom:longitude":-74.329143,
@@ -27,7 +32,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xKlMQcH0it2R39SUuVx7V_41.002823_-74.329143@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297154,
     "wof:geomhash":"8ba0bed1a7f6135f5b66535cf54ba3e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639493429
+        }
+    ],
     "wof:id":639493429,
-    "wof:lastmodified":1466694556,
+    "wof:lastmodified":1492076213,
     "wof:name":"Food World Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

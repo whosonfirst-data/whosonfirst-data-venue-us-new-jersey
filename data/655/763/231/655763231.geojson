@@ -2,9 +2,14 @@
   "id": 655763231,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Sindle Ave Little Falls NJ 07424",
+    "addr:housenumber":"51",
+    "addr:postcode":"07424",
+    "addr:street":"Sindle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219491,40.884123,-74.219491,40.884123",
     "geom:latitude":40.884123,
     "geom:longitude":-74.219491,
@@ -35,7 +40,13 @@
     ],
     "sg:website":"www.kampkanine.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72O82po21IKWLPDAOBZyr8_40.884123_-74.219491@1303262264"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461319778,
     "wof:geomhash":"7bfc9e8c542130ee00a1368276a3cfa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655763231
+        }
+    ],
     "wof:id":655763231,
-    "wof:lastmodified":1466685858,
+    "wof:lastmodified":1492036284,
     "wof:name":"Kamp Kanine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

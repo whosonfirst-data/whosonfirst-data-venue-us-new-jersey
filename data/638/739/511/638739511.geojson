@@ -2,9 +2,14 @@
   "id": 638739511,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Merrick Rd Trenton NJ 08691",
+    "addr:housenumber":"75",
+    "addr:postcode":"08691",
+    "addr:street":"Merrick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.624161,40.173969,-74.624161,40.173969",
     "geom:latitude":40.173969,
     "geom:longitude":-74.624161,
@@ -27,7 +32,13 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EamcPOOolVhCISXyC19Bn_40.173969_-74.624161@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278715,
     "wof:geomhash":"825de11a567523098f2e5626145a85cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":638739511
+        }
+    ],
     "wof:id":638739511,
-    "wof:lastmodified":1466676768,
+    "wof:lastmodified":1492062564,
     "wof:name":"Sodexho Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

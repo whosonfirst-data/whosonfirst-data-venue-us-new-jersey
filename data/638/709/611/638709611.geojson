@@ -2,9 +2,14 @@
   "id": 638709611,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Drum Point Rd Brick NJ 08723",
+    "addr:housenumber":"100",
+    "addr:postcode":"08723",
+    "addr:street":"Drum Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131202,40.044813,-74.131202,40.044813",
     "geom:latitude":40.044813,
     "geom:longitude":-74.131202,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Du7Sz5BlzKMezZhB928hR_40.044813_-74.131202@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461277911,
     "wof:geomhash":"69fb7dad688e89a1ee88e4d7028bc0f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":638709611
+        }
+    ],
     "wof:id":638709611,
-    "wof:lastmodified":1466688806,
+    "wof:lastmodified":1492042711,
     "wof:name":"Barry J Edison MD",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

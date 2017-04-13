@@ -2,9 +2,14 @@
   "id": 639503759,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Florence Pl Elmwood Park NJ 07407",
+    "addr:housenumber":"80",
+    "addr:postcode":"07407",
+    "addr:street":"Florence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.122166,40.920123,-74.122166,40.920123",
     "geom:latitude":40.920123,
     "geom:longitude":-74.122166,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TNmVswuFyJqpdf6FAEYcL_40.920123_-74.122166@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297574,
     "wof:geomhash":"9e3e2900e50225e293c32fcdc38da37c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":639503759
+        }
+    ],
     "wof:id":639503759,
-    "wof:lastmodified":1466694811,
+    "wof:lastmodified":1492049486,
     "wof:name":"Transamerica Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

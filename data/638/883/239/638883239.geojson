@@ -2,9 +2,14 @@
   "id": 638883239,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Huntington Rd Union NJ 07083",
+    "addr:housenumber":"403",
+    "addr:postcode":"07083",
+    "addr:street":"Huntington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259751,40.676315,-74.259751,40.676315",
     "geom:latitude":40.676315,
     "geom:longitude":-74.259751,
@@ -27,7 +32,10 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ctq86DsAOEm05p2ygXIIX_40.676315_-74.259751@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461282283,
     "wof:geomhash":"c5d9568de0642fdb33b0d2516fb2e4ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":638883239
+        }
+    ],
     "wof:id":638883239,
-    "wof:lastmodified":1466689798,
+    "wof:lastmodified":1492050630,
     "wof:name":"RML Systems Inc",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

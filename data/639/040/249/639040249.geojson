@@ -2,9 +2,14 @@
   "id": 639040249,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Estate Dr Sussex NJ 07461",
+    "addr:housenumber":"22",
+    "addr:postcode":"07461",
+    "addr:street":"Estate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66405,41.198999,-74.66405,41.198999",
     "geom:latitude":41.198999,
     "geom:longitude":-74.66405,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yRBPRjzTlTzRPZtynpgqY_41.198999_-74.664050@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286055,
     "wof:geomhash":"a3c495a4275749b25a1bf10eaa1c348e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527623,
+            "venue_id":639040249
+        }
+    ],
     "wof:id":639040249,
-    "wof:lastmodified":1466674003,
+    "wof:lastmodified":1492047578,
     "wof:name":"Bizzi's Services",
     "wof:parent_id":420527623,
     "wof:placetype":"venue",

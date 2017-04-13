@@ -2,9 +2,14 @@
   "id": 639574891,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Brighton Rd Andover NJ 07821",
+    "addr:housenumber":"100",
+    "addr:postcode":"07821",
+    "addr:street":"Brighton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.76407,40.988387,-74.76407,40.988387",
     "geom:latitude":40.988387,
     "geom:longitude":-74.76407,
@@ -29,7 +34,10 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527657
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49sxyXwxgFPr9s0wmFmFJp_40.988387_-74.764070@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461300701,
     "wof:geomhash":"96c0dd09e802255bd5237907fadbc694",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527657,
+            "venue_id":639574891
+        }
+    ],
     "wof:id":639574891,
-    "wof:lastmodified":1466696611,
+    "wof:lastmodified":1492057355,
     "wof:name":"Kings Karate Club",
     "wof:parent_id":420527657,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655827969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4523 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4523",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0685,39.956927,-75.0685,39.956927",
     "geom:latitude":39.956927,
     "geom:longitude":-75.0685,
@@ -27,7 +32,14 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xAt9iwrSUkznvwyDozsPO_39.956927_-75.068500@1303262280"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322560,
     "wof:geomhash":"fe23bbdaf7223a7c9c62c1245f8db39b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827969
+        }
+    ],
     "wof:id":655827969,
-    "wof:lastmodified":1466687799,
+    "wof:lastmodified":1492021332,
     "wof:name":"Rosario's Carpet Sales & Installation",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

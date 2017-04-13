@@ -2,9 +2,14 @@
   "id": 638900837,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Matawan Ter Matawan NJ 07747",
+    "addr:housenumber":"100",
+    "addr:postcode":"07747",
+    "addr:street":"Matawan Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245554,40.429347,-74.245554,40.429347",
     "geom:latitude":40.429347,
     "geom:longitude":-74.245554,
@@ -29,7 +34,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mmv6eRi9uvsNm4SvrtSUf_40.429347_-74.245554@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461282772,
     "wof:geomhash":"fb24e48c56d37e1793e01349a2feb387",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":638900837
+        }
+    ],
     "wof:id":638900837,
-    "wof:lastmodified":1466690163,
+    "wof:lastmodified":1492074565,
     "wof:name":"Pacifichealth Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

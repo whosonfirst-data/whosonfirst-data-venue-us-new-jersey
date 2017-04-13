@@ -2,9 +2,14 @@
   "id": 655399885,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 US Hwy 22 Somerville NJ 08876",
+    "addr:housenumber":"930",
+    "addr:postcode":"08876",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.728519,40.612428,-74.728519,40.612428",
     "geom:latitude":40.612428,
     "geom:longitude":-74.728519,
@@ -28,7 +33,13 @@
         "doughnut"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tzxytphpKnZBdRMlBgkQv_40.612428_-74.728519@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304629,
     "wof:geomhash":"8d7271f0ad6f349ac36e8f2698c59fc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":655399885
+        }
+    ],
     "wof:id":655399885,
-    "wof:lastmodified":1466675640,
+    "wof:lastmodified":1492061677,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

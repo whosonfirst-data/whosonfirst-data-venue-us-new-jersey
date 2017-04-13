@@ -2,9 +2,14 @@
   "id": 639394205,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 State Rte 10 Randolph NJ 07869",
+    "addr:housenumber":"215",
+    "addr:postcode":"07869",
+    "addr:street":"State Rte 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.544506,40.871701,-74.544506,40.871701",
     "geom:latitude":40.871701,
     "geom:longitude":-74.544506,
@@ -28,7 +33,10 @@
         "sample"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76KyMrKPPMKUhHNFYroZos_40.871701_-74.544506@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293966,
     "wof:geomhash":"425ac188500168fe7586dbf0c0b34b24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639394205
+        }
+    ],
     "wof:id":639394205,
-    "wof:lastmodified":1466693356,
+    "wof:lastmodified":1492065540,
     "wof:name":"ICAP Delivery Svc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

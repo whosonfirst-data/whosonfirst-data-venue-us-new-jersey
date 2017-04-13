@@ -2,9 +2,14 @@
   "id": 639612445,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Shirley Ave Somerset NJ 08873",
+    "addr:housenumber":"6",
+    "addr:postcode":"08873",
+    "addr:street":"Shirley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.501729,40.486333,-74.501729,40.486333",
     "geom:latitude":40.486333,
     "geom:longitude":-74.501729,
@@ -27,7 +32,14 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976103,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MwAt4RnxReJ6OLat2vDsw_40.486333_-74.501729@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302216,
     "wof:geomhash":"b4a878f19ac12b7de3e239e5fe3d528d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976103,
+            "region_id":85688607,
+            "venue_id":639612445
+        }
+    ],
     "wof:id":639612445,
-    "wof:lastmodified":1466697254,
+    "wof:lastmodified":1492029470,
     "wof:name":"Tri-State Distribution Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

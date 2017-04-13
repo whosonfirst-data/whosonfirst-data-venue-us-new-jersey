@@ -2,9 +2,14 @@
   "id": 655549931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Essex Rd Maplewood NJ 07040",
+    "addr:housenumber":"4",
+    "addr:postcode":"07040",
+    "addr:street":"Essex Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257484,40.727077,-74.257484,40.727077",
     "geom:latitude":40.727077,
     "geom:longitude":-74.257484,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2egkgHy99I2E6dQ2Y7NDHn_40.727077_-74.257484@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310818,
     "wof:geomhash":"c459c88e1116bb4f4ef1a046647c1fbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":655549931
+        }
+    ],
     "wof:id":655549931,
-    "wof:lastmodified":1466679651,
+    "wof:lastmodified":1492041112,
     "wof:name":"Einbauer Inc",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

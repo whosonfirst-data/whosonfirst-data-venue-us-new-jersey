@@ -2,9 +2,14 @@
   "id": 655496509,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Cross Rd Matawan NJ 07747",
+    "addr:housenumber":"40",
+    "addr:postcode":"07747",
+    "addr:street":"Cross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246051,40.429036,-74.246051,40.429036",
     "geom:latitude":40.429036,
     "geom:longitude":-74.246051,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478367,
+        85633793,
+        85975419,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xyxZ6YWhzXjV3niyRlx6o_40.429036_-74.246051@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308692,
     "wof:geomhash":"426c1e508c5c06eb6366c6b60773e739",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478367,
+            "locality_id":85975419,
+            "region_id":85688607,
+            "venue_id":655496509
+        }
+    ],
     "wof:id":655496509,
-    "wof:lastmodified":1466678044,
+    "wof:lastmodified":1492029518,
     "wof:name":"Matawan Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

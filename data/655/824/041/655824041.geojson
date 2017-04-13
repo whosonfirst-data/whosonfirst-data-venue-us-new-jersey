@@ -2,9 +2,14 @@
   "id": 655824041,
   "type": "Feature",
   "properties": {
+    "addr:full":"259 S 32nd St Camden NJ 08105",
+    "addr:housenumber":"259",
+    "addr:postcode":"08105",
+    "addr:street":"S 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.074958,39.943393,-75.074958,39.943393",
     "geom:latitude":39.943393,
     "geom:longitude":-75.074958,
@@ -28,7 +33,15 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XzXWg3rYH8JAb3ZfLIWdF_39.943393_-75.074958@1303262279"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461322414,
     "wof:geomhash":"efb14ff57d8a73eed1a62b6572566949",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655824041
+        }
+    ],
     "wof:id":655824041,
-    "wof:lastmodified":1466687486,
+    "wof:lastmodified":1492056469,
     "wof:name":"Traverus Travel",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655833579,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Alexander St Princeton NJ 08540",
+    "addr:housenumber":"220",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.659374,40.341024,-74.659374,40.341024",
     "geom:latitude":40.341024,
     "geom:longitude":-74.659374,
@@ -39,7 +44,13 @@
     ],
     "sg:website":"http://www.juliushgrosspainting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1roCqr7f3qupHan3aJM8Pp_40.341024_-74.659374@1303262281"
@@ -47,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461322808,
     "wof:geomhash":"cdb9d23fb02d7164dc55b45ac7d5fd6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655833579
+        }
+    ],
     "wof:id":655833579,
-    "wof:lastmodified":1466687792,
+    "wof:lastmodified":1492083445,
     "wof:name":"Julius H Gross Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

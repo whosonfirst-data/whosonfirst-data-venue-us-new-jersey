@@ -2,9 +2,14 @@
   "id": 655788527,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Koeck Rd Columbia NJ 07832",
+    "addr:housenumber":"25",
+    "addr:postcode":"07832",
+    "addr:street":"Koeck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034951,40.904084,-75.034951,40.904084",
     "geom:latitude":40.904084,
     "geom:longitude":-75.034951,
@@ -28,7 +33,10 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lwPCuTdbrHRvzoS5GbrqJ_40.904084_-75.034951@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320922,
     "wof:geomhash":"e6d9ad6fb87bade1f44862c12f1a4041",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655788527
+        }
+    ],
     "wof:id":655788527,
-    "wof:lastmodified":1466686649,
+    "wof:lastmodified":1492029614,
     "wof:name":"Gary Seegers Services",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

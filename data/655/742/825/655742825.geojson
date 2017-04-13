@@ -2,9 +2,14 @@
   "id": 655742825,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Farrington St Vauxhall NJ 07088",
+    "addr:housenumber":"3",
+    "addr:postcode":"07088",
+    "addr:street":"Farrington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283507,40.718529,-74.283507,40.718529",
     "geom:latitude":40.718529,
     "geom:longitude":-74.283507,
@@ -28,7 +33,10 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rvSEBNQ0nxzzNAdJNsPSm_40.718529_-74.283507@1303262259"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461319019,
     "wof:geomhash":"f81fa7983f8ac3700447d6eb3943d40c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742825
+        }
+    ],
     "wof:id":655742825,
-    "wof:lastmodified":1466685465,
+    "wof:lastmodified":1492028494,
     "wof:name":"Kuo David MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

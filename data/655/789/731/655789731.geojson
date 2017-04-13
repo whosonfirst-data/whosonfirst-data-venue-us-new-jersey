@@ -2,9 +2,14 @@
   "id": 655789731,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Stillwater Rd Newton NJ 07860",
+    "addr:housenumber":"49",
+    "addr:postcode":"07860",
+    "addr:street":"Stillwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.828308,41.04163,-74.828308,41.04163",
     "geom:latitude":41.04163,
     "geom:longitude":-74.828308,
@@ -29,7 +34,10 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72UNKXtpOZfGIwPe1i2deC_41.041630_-74.828308@1303262270"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461320968,
     "wof:geomhash":"1e9fcf74451d5c55bfa4f847727e7b37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655789731
+        }
+    ],
     "wof:id":655789731,
-    "wof:lastmodified":1466686706,
+    "wof:lastmodified":1492058532,
     "wof:name":"Chem-Dry",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

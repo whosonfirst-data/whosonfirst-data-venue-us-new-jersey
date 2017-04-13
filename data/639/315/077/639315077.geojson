@@ -2,9 +2,14 @@
   "id": 639315077,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Park Ave Rutherford NJ 07070",
+    "addr:housenumber":"454",
+    "addr:postcode":"07070",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.118653,40.822014,-74.118653,40.822014",
     "geom:latitude":40.822014,
     "geom:longitude":-74.118653,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477727,
+        85633793,
+        85975923,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MdkU4OzUWm89ZaWIB1TMw_40.822014_-74.118653@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292282,
     "wof:geomhash":"b7efcdcd93fbc32d051dc4156547f4cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477727,
+            "locality_id":85975923,
+            "region_id":85688607,
+            "venue_id":639315077
+        }
+    ],
     "wof:id":639315077,
-    "wof:lastmodified":1466691711,
+    "wof:lastmodified":1492060935,
     "wof:name":"Modonna Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

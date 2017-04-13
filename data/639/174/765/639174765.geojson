@@ -2,9 +2,14 @@
   "id": 639174765,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Rose St Phillipsburg NJ 08865",
+    "addr:housenumber":"26",
+    "addr:postcode":"08865",
+    "addr:street":"Rose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.198039,40.697278,-75.198039,40.697278",
     "geom:latitude":40.697278,
     "geom:longitude":-75.198039,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ma9QHRnZwEFTEbSSobSXG_40.697278_-75.198039@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289071,
     "wof:geomhash":"6b5c661f6fc86345241828f7a23b77a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639174765
+        }
+    ],
     "wof:id":639174765,
-    "wof:lastmodified":1466685084,
+    "wof:lastmodified":1492044223,
     "wof:name":"A Natural Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

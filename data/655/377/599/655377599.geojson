@@ -2,9 +2,14 @@
   "id": 655377599,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Hillside Ave Florham Park NJ 07932",
+    "addr:housenumber":"43",
+    "addr:postcode":"07932",
+    "addr:street":"Hillside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.391675,40.774747,-74.391675,40.774747",
     "geom:latitude":40.774747,
     "geom:longitude":-74.391675,
@@ -27,7 +32,14 @@
         "production"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KpGZwJTbVhhRQv95TfwOD_40.774747_-74.391675@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303720,
     "wof:geomhash":"fa7d0919b44c97409d1d125e5bb23460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":655377599
+        }
+    ],
     "wof:id":655377599,
-    "wof:lastmodified":1466674880,
+    "wof:lastmodified":1492051173,
     "wof:name":"Mc Koy Joubert LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

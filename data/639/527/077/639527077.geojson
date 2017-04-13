@@ -2,9 +2,14 @@
   "id": 639527077,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Baltimore St Phillipsburg NJ 08865",
+    "addr:housenumber":"311",
+    "addr:postcode":"08865",
+    "addr:street":"Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169772,40.699933,-75.169772,40.699933",
     "geom:latitude":40.699933,
     "geom:longitude":-75.169772,
@@ -27,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49MVxYPt3lv55Z0JK8fkiF_40.699933_-75.169772@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298693,
     "wof:geomhash":"ff86b6672c1e223ae3848e13ed120397",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":639527077
+        }
+    ],
     "wof:id":639527077,
-    "wof:lastmodified":1466695665,
+    "wof:lastmodified":1492041830,
     "wof:name":"Shah Ila MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

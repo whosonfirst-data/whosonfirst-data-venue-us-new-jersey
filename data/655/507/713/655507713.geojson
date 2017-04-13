@@ -2,9 +2,14 @@
   "id": 655507713,
   "type": "Feature",
   "properties": {
+    "addr:full":"889 Broadway Norwood NJ 07648",
+    "addr:housenumber":"889",
+    "addr:postcode":"07648",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.96671,41.00226,-73.96671,41.00226",
     "geom:latitude":41.00226,
     "geom:longitude":-73.96671,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C5GUKq8Cl27x3meIBxEQj_41.002260_-73.966710@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309198,
     "wof:geomhash":"64122e9371bede811bea84ff52043de0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655507713
+        }
+    ],
     "wof:id":655507713,
-    "wof:lastmodified":1466678460,
+    "wof:lastmodified":1492053976,
     "wof:name":"Jaaz Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

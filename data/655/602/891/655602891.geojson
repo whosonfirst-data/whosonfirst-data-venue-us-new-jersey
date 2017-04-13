@@ -2,9 +2,14 @@
   "id": 655602891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 Tremley Point Rd Linden NJ 07036",
+    "addr:housenumber":"3301",
+    "addr:postcode":"07036",
+    "addr:street":"Tremley Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225691,40.613147,-74.225691,40.613147",
     "geom:latitude":40.613147,
     "geom:longitude":-74.225691,
@@ -28,7 +33,14 @@
         "commuter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oixkPKmOexHsPyI06ugTH_40.613147_-74.225691@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313132,
     "wof:geomhash":"126fee4888e76daf581502bc211bc267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655602891
+        }
+    ],
     "wof:id":655602891,
-    "wof:lastmodified":1466681323,
+    "wof:lastmodified":1492041313,
     "wof:name":"Amtrak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

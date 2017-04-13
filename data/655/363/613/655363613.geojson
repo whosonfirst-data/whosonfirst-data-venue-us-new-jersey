@@ -2,9 +2,14 @@
   "id": 655363613,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Nassau Ct Skillman NJ 08558",
+    "addr:housenumber":"11",
+    "addr:postcode":"08558",
+    "addr:street":"Nassau Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.691466,40.406519,-74.691466,40.406519",
     "geom:latitude":40.406519,
     "geom:longitude":-74.691466,
@@ -28,7 +33,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qiuCg2JaxCkMOpyLWKdQG_40.406519_-74.691466@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303163,
     "wof:geomhash":"5d484f5ac8ea76a9bd8f6eb1c75609f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655363613
+        }
+    ],
     "wof:id":655363613,
-    "wof:lastmodified":1466674558,
+    "wof:lastmodified":1492049431,
     "wof:name":"Hoddock Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

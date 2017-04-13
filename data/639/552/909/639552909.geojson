@@ -2,9 +2,14 @@
   "id": 639552909,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Rick Rd Milford NJ 08848",
+    "addr:housenumber":"28",
+    "addr:postcode":"08848",
+    "addr:street":"Rick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050304,40.580604,-75.050304,40.580604",
     "geom:latitude":40.580604,
     "geom:longitude":-75.050304,
@@ -27,7 +32,10 @@
         "battery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00tsoKZqUstrLetabkXBuz_40.580604_-75.050304@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299866,
     "wof:geomhash":"2fff8c802372d8db7ae465d9db7205e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":639552909
+        }
+    ],
     "wof:id":639552909,
-    "wof:lastmodified":1466696210,
+    "wof:lastmodified":1492053537,
     "wof:name":"Us Battery Co LLC",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

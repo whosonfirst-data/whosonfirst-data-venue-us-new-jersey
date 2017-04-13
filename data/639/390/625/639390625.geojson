@@ -2,9 +2,14 @@
   "id": 639390625,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Vanderbilt Ave Leonardo NJ 07737",
+    "addr:housenumber":"19",
+    "addr:postcode":"07737",
+    "addr:street":"Vanderbilt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059226,40.415245,-74.059226,40.415245",
     "geom:latitude":40.415245,
     "geom:longitude":-74.059226,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42PuzHRcFyhV0Zs1xooxXV_40.415245_-74.059226@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293864,
     "wof:geomhash":"9850dad7159b066ae00bb9389bc0bddc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639390625
+        }
+    ],
     "wof:id":639390625,
-    "wof:lastmodified":1466692919,
+    "wof:lastmodified":1492044426,
     "wof:name":"AHK Heating & Air Cond",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

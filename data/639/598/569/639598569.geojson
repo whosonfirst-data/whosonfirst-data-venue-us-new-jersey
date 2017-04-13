@@ -2,9 +2,14 @@
   "id": 639598569,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Mount Salem Rd Pittstown NJ 08867",
+    "addr:housenumber":"11",
+    "addr:postcode":"08867",
+    "addr:street":"Mount Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003577,40.591367,-75.003577,40.591367",
     "geom:latitude":40.591367,
     "geom:longitude":-75.003577,
@@ -30,7 +35,13 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UXgV8Gbcc2cw7wKPneYoQ_40.591367_-75.003577@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461301683,
     "wof:geomhash":"029e9fe63556d3fea5d86be68e2c88df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639598569
+        }
+    ],
     "wof:id":639598569,
-    "wof:lastmodified":1466696853,
+    "wof:lastmodified":1492025385,
     "wof:name":"Classic Wood Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

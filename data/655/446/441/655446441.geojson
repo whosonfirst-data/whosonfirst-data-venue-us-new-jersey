@@ -2,9 +2,14 @@
   "id": 655446441,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 S Main St Phillipsburg NJ 08865",
+    "addr:housenumber":"264",
+    "addr:postcode":"08865",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.19503,40.686801,-75.19503,40.686801",
     "geom:latitude":40.686801,
     "geom:longitude":-75.19503,
@@ -24,7 +29,14 @@
     "sg:postcode":"08865",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s7uf9DESw5tqeyFiqoOZo_40.686801_-75.195030@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461306535,
     "wof:geomhash":"316e0d13ee9c48e2dcb3d4fa9ba8996f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655446441
+        }
+    ],
     "wof:id":655446441,
-    "wof:lastmodified":1466676705,
+    "wof:lastmodified":1492070328,
     "wof:name":"Fancy Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

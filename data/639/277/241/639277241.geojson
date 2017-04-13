@@ -2,9 +2,14 @@
   "id": 639277241,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Broadway Clark NJ 07066",
+    "addr:housenumber":"33",
+    "addr:postcode":"07066",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295002,40.618596,-74.295002,40.618596",
     "geom:latitude":40.618596,
     "geom:longitude":-74.295002,
@@ -27,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jArzxv05tagNVU4ncsjGP_40.618596_-74.295002@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291486,
     "wof:geomhash":"b28726b0a22d2ef84dac91a60da7932b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639277241
+        }
+    ],
     "wof:id":639277241,
-    "wof:lastmodified":1466690954,
+    "wof:lastmodified":1492074587,
     "wof:name":"Baumels Liquor & Delicatessen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

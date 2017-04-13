@@ -2,9 +2,14 @@
   "id": 655404541,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Long Hill Rd Oakland NJ 07436",
+    "addr:housenumber":"147",
+    "addr:postcode":"07436",
+    "addr:street":"Long Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248432,41.003867,-74.248432,41.003867",
     "geom:latitude":41.003867,
     "geom:longitude":-74.248432,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lVCAkObDwioc8RSiCPF2g_41.003867_-74.248432@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304814,
     "wof:geomhash":"095afa62b8e3af0ad7c1e436ddbf2fab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655404541
+        }
+    ],
     "wof:id":655404541,
-    "wof:lastmodified":1466675602,
+    "wof:lastmodified":1492058281,
     "wof:name":"Wayne Harrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

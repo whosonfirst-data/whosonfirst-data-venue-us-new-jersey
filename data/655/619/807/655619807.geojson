@@ -2,9 +2,14 @@
   "id": 655619807,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Lake Shore Dr Princeton Jct NJ 08550",
+    "addr:housenumber":"22",
+    "addr:postcode":"08550",
+    "addr:street":"Lake Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.638776,40.289285,-74.638776,40.289285",
     "geom:latitude":40.289285,
     "geom:longitude":-74.638776,
@@ -27,7 +32,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ciqwOQJjd8e2jwBMqZEFY_40.289285_-74.638776@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313881,
     "wof:geomhash":"d0cfb1f23eb05994e6210dd2b491b741",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":655619807
+        }
+    ],
     "wof:id":655619807,
-    "wof:lastmodified":1466681888,
+    "wof:lastmodified":1492053586,
     "wof:name":"Andy's DP Consulting Inc",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655643879,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Minnietown Ln Hopewell NJ 08525",
+    "addr:housenumber":"8",
+    "addr:postcode":"08525",
+    "addr:street":"Minnietown Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.778344,40.418104,-74.778344,40.418104",
     "geom:latitude":40.418104,
     "geom:longitude":-74.778344,
@@ -27,7 +32,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FAp7G5il346GI1PCek2gV_40.418104_-74.778344@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314925,
     "wof:geomhash":"987ba853d62e43556ba0bb973ebd496f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":655643879
+        }
+    ],
     "wof:id":655643879,
-    "wof:lastmodified":1466682718,
+    "wof:lastmodified":1492053588,
     "wof:name":"Artistacuba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

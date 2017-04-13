@@ -2,9 +2,14 @@
   "id": 655397635,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 Wyckoff Ave Wyckoff NJ 07481",
+    "addr:housenumber":"666",
+    "addr:postcode":"07481",
+    "addr:street":"Wyckoff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172001,41.013346,-74.172001,41.013346",
     "geom:latitude":41.013346,
     "geom:longitude":-74.172001,
@@ -28,7 +33,11 @@
         85688607,
         85633793,
         85892569,
-        102086773
+        102086773,
+        420526549,
+        102191575,
+        404477287,
+        85975867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +53,22 @@
             "neighbourhood_id":85892569,
             "region_id":85688607,
             "venue_id":655397635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "neighbourhood_id":420526549,
+            "region_id":85688607,
+            "venue_id":655397635
         }
     ],
     "wof:id":655397635,
-    "wof:lastmodified":1466675411,
+    "wof:lastmodified":1492051062,
     "wof:name":"Classic Realty Group",
-    "wof:parent_id":85892569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

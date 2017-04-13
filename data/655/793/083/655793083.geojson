@@ -2,9 +2,14 @@
   "id": 655793083,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Butler Pkwy Summit NJ 07901",
+    "addr:housenumber":"90",
+    "addr:postcode":"07901",
+    "addr:street":"Butler Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.369202,40.729301,-74.369202,40.729301",
     "geom:latitude":40.729301,
     "geom:longitude":-74.369202,
@@ -28,7 +33,14 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B1fSObIWFjh8uyEO6xw0J_40.729301_-74.369202@1303262271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461321104,
     "wof:geomhash":"23a56c7e176c78fea58723f4d0438273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655793083
+        }
+    ],
     "wof:id":655793083,
-    "wof:lastmodified":1466686622,
+    "wof:lastmodified":1492050428,
     "wof:name":"Summit Historical Society Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

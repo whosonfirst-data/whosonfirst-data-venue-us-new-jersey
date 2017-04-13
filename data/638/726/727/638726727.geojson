@@ -2,9 +2,14 @@
   "id": 638726727,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Marlton Pike Merchantville NJ 08105",
+    "addr:housenumber":"4101",
+    "addr:postcode":"08105",
+    "addr:street":"Marlton Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.073551,39.93624,-75.073551,39.93624",
     "geom:latitude":39.93624,
     "geom:longitude":-75.073551,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eVq2NrAyM6KCvhQsdUVVg_39.936240_-75.073551@1294171694"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1461278387,
     "wof:geomhash":"fffa07049e61748a1de54629368a49b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":638726727
+        }
+    ],
     "wof:id":638726727,
-    "wof:lastmodified":1466674934,
+    "wof:lastmodified":1492062573,
     "wof:name":"Good News Baptist Church",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

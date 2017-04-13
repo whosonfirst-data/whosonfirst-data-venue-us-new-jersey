@@ -2,9 +2,14 @@
   "id": 638783031,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Country Rd Barnegat NJ 08050",
+    "addr:housenumber":"17",
+    "addr:postcode":"08050",
+    "addr:street":"Country Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252468,39.734977,-74.252468,39.734977",
     "geom:latitude":39.734977,
     "geom:longitude":-74.252468,
@@ -24,7 +29,10 @@
     "sg:postcode":"08050",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S2FA9j2vgrXCu1viBsmMS_39.734977_-74.252468@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461279869,
     "wof:geomhash":"4b713457186c9cec8f68f4821764c385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":638783031
+        }
+    ],
     "wof:id":638783031,
-    "wof:lastmodified":1466683410,
+    "wof:lastmodified":1492082013,
     "wof:name":"Americas Choice Realty",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

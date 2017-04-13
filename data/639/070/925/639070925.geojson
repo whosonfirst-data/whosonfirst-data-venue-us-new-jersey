@@ -2,9 +2,14 @@
   "id": 639070925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4751 US Hwy 9 Howell NJ 07731",
+    "addr:housenumber":"4751",
+    "addr:postcode":"07731",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223577,40.132092,-74.223577,40.132092",
     "geom:latitude":40.132092,
     "geom:longitude":-74.223577,
@@ -25,15 +30,15 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85850237,
-        102085049,
         420527425,
         102191575,
         404477773,
+        85633793,
         85976347,
-        102081485
+        102081485,
+        85688607,
+        85850237,
+        102085049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +49,6 @@
     "wof:geomhash":"984065b152bf98bb3dc3236e48716c50",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085049,
-            "neighbourhood_id":85850237,
-            "region_id":85688607,
-            "venue_id":639070925
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -59,12 +57,19 @@
             "neighbourhood_id":420527425,
             "region_id":85688607,
             "venue_id":639070925
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85850237,
+            "region_id":85688607,
+            "venue_id":639070925
         }
     ],
     "wof:id":639070925,
-    "wof:lastmodified":1466688317,
+    "wof:lastmodified":1492047954,
     "wof:name":"Famous Footwear",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

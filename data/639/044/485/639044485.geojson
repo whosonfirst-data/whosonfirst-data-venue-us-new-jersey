@@ -2,9 +2,14 @@
   "id": 639044485,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Mountain Ave Ridgewood NJ 07450",
+    "addr:housenumber":"225",
+    "addr:postcode":"07450",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.140408,40.976277,-74.140408,40.976277",
     "geom:latitude":40.976277,
     "geom:longitude":-74.140408,
@@ -27,7 +32,14 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_252mhG736YR1dc56yb2SKP_40.976277_-74.140408@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286146,
     "wof:geomhash":"c75601eec06170c132d35c008be55bcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":639044485
+        }
+    ],
     "wof:id":639044485,
-    "wof:lastmodified":1466674159,
+    "wof:lastmodified":1492054518,
     "wof:name":"Trans Med Of Nj",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

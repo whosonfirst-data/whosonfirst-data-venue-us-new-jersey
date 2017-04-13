@@ -2,9 +2,14 @@
   "id": 638767531,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 Paulding Ave Northvale NJ 07647",
+    "addr:housenumber":"423",
+    "addr:postcode":"07647",
+    "addr:street":"Paulding Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954352,41.017564,-73.954352,41.017564",
     "geom:latitude":41.017564,
     "geom:longitude":-73.954352,
@@ -27,7 +32,14 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DfSniwvpoDzCsvRLKjvGy_41.017564_-73.954352@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461279488,
     "wof:geomhash":"744c14c22fea7308fb72217a4cd53086",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":638767531
+        }
+    ],
     "wof:id":638767531,
-    "wof:lastmodified":1466680621,
+    "wof:lastmodified":1492029341,
     "wof:name":"Bullpet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

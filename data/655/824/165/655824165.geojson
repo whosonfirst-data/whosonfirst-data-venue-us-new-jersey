@@ -2,9 +2,14 @@
   "id": 655824165,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Bergen Ave Camden NJ 08105",
+    "addr:housenumber":"800",
+    "addr:postcode":"08105",
+    "addr:street":"Bergen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083225,39.95837,-75.083225,39.95837",
     "geom:latitude":39.95837,
     "geom:longitude":-75.083225,
@@ -24,7 +29,14 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3etJDBha6cXZWF3r7GyPiR_39.958370_-75.083225@1303262279"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461322418,
     "wof:geomhash":"c8b1c69c9c8fbb5b2e0ae7c5f8d9c05a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655824165
+        }
+    ],
     "wof:id":655824165,
-    "wof:lastmodified":1466687518,
+    "wof:lastmodified":1492025868,
     "wof:name":"Congregation of Yahweh Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

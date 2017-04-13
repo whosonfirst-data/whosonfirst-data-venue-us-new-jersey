@@ -2,9 +2,14 @@
   "id": 639042383,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Fairview Rd Frenchtown NJ 08825",
+    "addr:housenumber":"151",
+    "addr:postcode":"08825",
+    "addr:street":"Fairview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049271,40.493455,-75.049271,40.493455",
     "geom:latitude":40.493455,
     "geom:longitude":-75.049271,
@@ -30,7 +35,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HbkcyiI1tH5r4ZhKHUCkK_40.493455_-75.049271@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461286102,
     "wof:geomhash":"63790afa639335586a76661a64132c6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527063,
+            "venue_id":639042383
+        }
+    ],
     "wof:id":639042383,
-    "wof:lastmodified":1466674037,
+    "wof:lastmodified":1492050739,
     "wof:name":"S De Sapio & Sons",
     "wof:parent_id":420527063,
     "wof:placetype":"venue",

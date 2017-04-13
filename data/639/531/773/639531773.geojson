@@ -2,9 +2,14 @@
   "id": 639531773,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Main St Branchville NJ 07826",
+    "addr:housenumber":"23",
+    "addr:postcode":"07826",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752135,41.146076,-74.752135,41.146076",
     "geom:latitude":41.146076,
     "geom:longitude":-74.752135,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M3IrDA19pD2k0DdAkZgZr_41.146076_-74.752135@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298909,
     "wof:geomhash":"e69f5042ac4c13f44427063af52fea22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":639531773
+        }
+    ],
     "wof:id":639531773,
-    "wof:lastmodified":1466695350,
+    "wof:lastmodified":1492067792,
     "wof:name":"John R Fisher CPA",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

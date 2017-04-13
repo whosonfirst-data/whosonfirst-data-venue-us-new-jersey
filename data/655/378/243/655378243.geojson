@@ -2,9 +2,14 @@
   "id": 655378243,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Indiana St Union NJ 07083",
+    "addr:housenumber":"333",
+    "addr:postcode":"07083",
+    "addr:street":"Indiana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27296,40.716593,-74.27296,40.716593",
     "geom:latitude":40.716593,
     "geom:longitude":-74.27296,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZOsJAwWdTfbsaVJcOW6mt_40.716593_-74.272960@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461303743,
     "wof:geomhash":"25ae37a6b3e75978e886b1cec1defd58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655378243
+        }
+    ],
     "wof:id":655378243,
-    "wof:lastmodified":1466674864,
+    "wof:lastmodified":1492023413,
     "wof:name":"Eden Garden Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

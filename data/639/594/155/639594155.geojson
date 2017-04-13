@@ -2,9 +2,14 @@
   "id": 639594155,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Cedar Ln Sussex NJ 07461",
+    "addr:housenumber":"11",
+    "addr:postcode":"07461",
+    "addr:street":"Cedar Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535557,41.238875,-74.535557,41.238875",
     "geom:latitude":41.238875,
     "geom:longitude":-74.535557,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85840021,
+        102086779,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xmZMdqwv0qI8WIcftlxGH_41.238875_-74.535557@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461301521,
     "wof:geomhash":"ecd21212d2d9afd38336f8f7648a504c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85840021,
+            "region_id":85688607,
+            "venue_id":639594155
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":639594155
+        }
+    ],
     "wof:id":639594155,
-    "wof:lastmodified":1466696745,
+    "wof:lastmodified":1492066652,
     "wof:name":"J Craig Cartier Const Co",
-    "wof:parent_id":420527649,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

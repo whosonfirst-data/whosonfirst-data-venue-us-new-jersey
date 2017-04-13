@@ -2,9 +2,14 @@
   "id": 638738205,
   "type": "Feature",
   "properties": {
+    "addr:full":"383 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"383",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992838,40.818977,-73.992838,40.818977",
     "geom:latitude":40.818977,
     "geom:longitude":-73.992838,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wyokDg1z86eaM8xxlF74h_40.818977_-73.992838@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278689,
     "wof:geomhash":"fab5d2d613b3dc8f3d90fe6809ebcdbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":638738205
+        }
+    ],
     "wof:id":638738205,
-    "wof:lastmodified":1466676593,
+    "wof:lastmodified":1492062391,
     "wof:name":"Giddy Productions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

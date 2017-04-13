@@ -2,9 +2,14 @@
   "id": 655788207,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Roslyn Rd Branchville NJ 07826",
+    "addr:housenumber":"18",
+    "addr:postcode":"07826",
+    "addr:street":"Roslyn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.757736,41.151131,-74.757736,41.151131",
     "geom:latitude":41.151131,
     "geom:longitude":-74.757736,
@@ -38,7 +43,10 @@
         "collectible"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53EeD1CUh9zk2cSX8rU9jb_41.151131_-74.757736@1303262270"
@@ -46,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461320905,
     "wof:geomhash":"d3210ccdcdbd910ec24934fd66a60e81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655788207
+        }
+    ],
     "wof:id":655788207,
-    "wof:lastmodified":1466686565,
+    "wof:lastmodified":1492058468,
     "wof:name":"Country Gifts",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638989543,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 Clauss Ln Westwood NJ 07675",
+    "addr:housenumber":"808",
+    "addr:postcode":"07675",
+    "addr:street":"Clauss Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989366,40.998576,-73.989366,40.998576",
     "geom:latitude":40.998576,
     "geom:longitude":-73.989366,
@@ -27,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fvnnFMxjEzjLzhPaod0EN_40.998576_-73.989366@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461284890,
     "wof:geomhash":"8eac4dcb3ef6312243549eb440d94c59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":638989543
+        }
+    ],
     "wof:id":638989543,
-    "wof:lastmodified":1466691909,
+    "wof:lastmodified":1492040086,
     "wof:name":"Station 10 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

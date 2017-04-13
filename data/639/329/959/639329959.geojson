@@ -2,9 +2,14 @@
   "id": 639329959,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 Harrington Ave Closter NJ 07624",
+    "addr:housenumber":"326",
+    "addr:postcode":"07624",
+    "addr:street":"Harrington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.963865,40.974204,-73.963865,40.974204",
     "geom:latitude":40.974204,
     "geom:longitude":-73.963865,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.littlescoops.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eLnW0xDzUq1Zur0RHxouH_40.974204_-73.963865@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461292604,
     "wof:geomhash":"e0d37965f4c319d5db6a68b8144c219c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639329959
+        }
+    ],
     "wof:id":639329959,
-    "wof:lastmodified":1466692039,
+    "wof:lastmodified":1492075815,
     "wof:name":"Little Scoops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

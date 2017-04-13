@@ -2,9 +2,14 @@
   "id": 639495303,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 Lincoln Ave Glen Rock NJ 07452",
+    "addr:housenumber":"849",
+    "addr:postcode":"07452",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145046,40.953624,-74.145046,40.953624",
     "geom:latitude":40.953624,
     "geom:longitude":-74.145046,
@@ -24,7 +29,14 @@
     "sg:postcode":"07452",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DhevThCPgJOsugQooWxGd_40.953624_-74.145046@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297222,
     "wof:geomhash":"ae98c6de64838b2afc7ba63b87eb7054",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639495303
+        }
+    ],
     "wof:id":639495303,
-    "wof:lastmodified":1466694806,
+    "wof:lastmodified":1492024018,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

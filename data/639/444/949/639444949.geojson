@@ -2,9 +2,14 @@
   "id": 639444949,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Bilby Rd Hackettstown NJ 07840",
+    "addr:housenumber":"100",
+    "addr:postcode":"07840",
+    "addr:street":"Bilby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.822889,40.871109,-74.822889,40.871109",
     "geom:latitude":40.871109,
     "geom:longitude":-74.822889,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478429,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mNwo9DJ2Qt52N8XaxYVOh_40.871109_-74.822889@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461295217,
     "wof:geomhash":"3137e03622f01d6e7652705538702f05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478429,
+            "region_id":85688607,
+            "venue_id":639444949
+        }
+    ],
     "wof:id":639444949,
-    "wof:lastmodified":1466693390,
+    "wof:lastmodified":1492048858,
     "wof:name":"Mountaintop Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655787677,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Greenwich St Belvidere NJ 07823",
+    "addr:housenumber":"500",
+    "addr:postcode":"07823",
+    "addr:street":"Greenwich St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.079107,40.82263,-75.079107,40.82263",
     "geom:latitude":40.82263,
     "geom:longitude":-75.079107,
@@ -27,7 +32,14 @@
         "podiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bH8ZYHlECgsBccptkUEXk_40.822630_-75.079107@1303262270"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320881,
     "wof:geomhash":"f9af66e15832f042a5ca325b97a26aee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787677
+        }
+    ],
     "wof:id":655787677,
-    "wof:lastmodified":1466686682,
+    "wof:lastmodified":1492048114,
     "wof:name":"Abbondante C J DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

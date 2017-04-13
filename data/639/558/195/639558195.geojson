@@ -2,9 +2,14 @@
   "id": 639558195,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Wolf Pl Hillside NJ 07205",
+    "addr:housenumber":"54",
+    "addr:postcode":"07205",
+    "addr:street":"Wolf Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240755,40.710513,-74.240755,40.710513",
     "geom:latitude":40.710513,
     "geom:longitude":-74.240755,
@@ -24,7 +29,10 @@
     "sg:postcode":"07205",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55Br0FYZlyRQnfDXe7g0Id_40.710513_-74.240755@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461300067,
     "wof:geomhash":"d747fb829f50665697332bf6617efff2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":639558195
+        }
+    ],
     "wof:id":639558195,
-    "wof:lastmodified":1466695918,
+    "wof:lastmodified":1492076947,
     "wof:name":"Ekeloworld Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

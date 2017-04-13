@@ -2,9 +2,14 @@
   "id": 638902663,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Cypress Ave Caldwell NJ 07006",
+    "addr:housenumber":"22",
+    "addr:postcode":"07006",
+    "addr:street":"Cypress Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261894,40.849667,-74.261894,40.849667",
     "geom:latitude":40.849667,
     "geom:longitude":-74.261894,
@@ -30,7 +35,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u9Kh7sVm4DQIEglkerN6o_40.849667_-74.261894@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461282815,
     "wof:geomhash":"ab2d824adace9a0aa5dcb7d15bcb6762",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638902663
+        }
+    ],
     "wof:id":638902663,
-    "wof:lastmodified":1466690183,
+    "wof:lastmodified":1492041303,
     "wof:name":"Virtual Office Computing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

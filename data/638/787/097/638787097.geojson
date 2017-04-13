@@ -2,9 +2,14 @@
   "id": 638787097,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Lisa Pl North Brunswick NJ 08902",
+    "addr:housenumber":"204",
+    "addr:postcode":"08902",
+    "addr:street":"Lisa Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.491024,40.435396,-74.491024,40.435396",
     "geom:latitude":40.435396,
     "geom:longitude":-74.491024,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m3CXhbUAWzeMfS2k2jMjf_40.435396_-74.491024@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279954,
     "wof:geomhash":"059af355f3ab259d98ef0ca64b32adb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":638787097
+        }
+    ],
     "wof:id":638787097,
-    "wof:lastmodified":1466683950,
+    "wof:lastmodified":1492069477,
     "wof:name":"Private Eyes",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

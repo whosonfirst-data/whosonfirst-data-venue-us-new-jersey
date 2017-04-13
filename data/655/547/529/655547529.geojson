@@ -2,9 +2,14 @@
   "id": 655547529,
   "type": "Feature",
   "properties": {
+    "addr:full":"648 Maple Ave Wyckoff NJ 07481",
+    "addr:housenumber":"648",
+    "addr:postcode":"07481",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.175691,41.010859,-74.175691,41.010859",
     "geom:latitude":41.010859,
     "geom:longitude":-74.175691,
@@ -29,7 +34,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OuL7NEK1puHjBr1ijuHmH_41.010859_-74.175691@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461310726,
     "wof:geomhash":"5aa8a1be51a91248df3ae808d4e56267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":655547529
+        }
+    ],
     "wof:id":655547529,
-    "wof:lastmodified":1466679476,
+    "wof:lastmodified":1492076932,
     "wof:name":"Specialty Medical Supply",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

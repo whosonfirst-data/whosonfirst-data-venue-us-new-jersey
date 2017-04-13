@@ -2,9 +2,14 @@
   "id": 638745999,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Edinburg Rd Mercerville NJ 08619",
+    "addr:housenumber":"301",
+    "addr:postcode":"08619",
+    "addr:street":"Edinburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.680985,40.240244,-74.680985,40.240244",
     "geom:latitude":40.240244,
     "geom:longitude":-74.680985,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838551,
+        420527157,
         102191575,
         404478251,
         85633793,
         85976399,
         102081129,
-        85688607
+        85688607,
+        85838551,
+        420527143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,30 @@
             "county_id":102081129,
             "localadmin_id":404478251,
             "locality_id":85976399,
+            "neighbourhood_id":420527157,
+            "region_id":85688607,
+            "venue_id":638745999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976399,
             "neighbourhood_id":85838551,
             "region_id":85688607,
+            "venue_id":638745999
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
             "venue_id":638745999
         }
     ],
     "wof:id":638745999,
-    "wof:lastmodified":1466677565,
+    "wof:lastmodified":1492069718,
     "wof:name":"J & B Automotive",
-    "wof:parent_id":85838551,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

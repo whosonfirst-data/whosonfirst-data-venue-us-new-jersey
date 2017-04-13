@@ -2,9 +2,14 @@
   "id": 655550459,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Chapman St Hillside NJ 07205",
+    "addr:housenumber":"601",
+    "addr:postcode":"07205",
+    "addr:street":"Chapman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243967,40.699685,-74.243967,40.699685",
     "geom:latitude":40.699685,
     "geom:longitude":-74.243967,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sLn6X1D6z4zVi4pdyeeef_40.699685_-74.243967@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310841,
     "wof:geomhash":"f60e652ed62e32f5fa8d41d9f2cfa853",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655550459
+        }
+    ],
     "wof:id":655550459,
-    "wof:lastmodified":1466679531,
+    "wof:lastmodified":1492053916,
     "wof:name":"Arcos Construction Inc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

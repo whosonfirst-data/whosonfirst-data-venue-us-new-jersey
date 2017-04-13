@@ -2,9 +2,14 @@
   "id": 639397527,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 US Hwy 206 Mt Holly NJ 08060",
+    "addr:housenumber":"2670",
+    "addr:postcode":"08060",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.808394,39.988257,-74.808394,39.988257",
     "geom:latitude":39.988257,
     "geom:longitude":-74.808394,
@@ -24,7 +29,13 @@
     "sg:postcode":"08060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85852289,
+        102087415,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Pu6GbrI1me8zkGpyggr0B_39.988257_-74.808394@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461294088,
     "wof:geomhash":"d8fcfe22bd9e3819c8f4b63ab49aaaac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85852289,
+            "region_id":85688607,
+            "venue_id":639397527
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":639397527
+        }
+    ],
     "wof:id":639397527,
-    "wof:lastmodified":1466692937,
+    "wof:lastmodified":1492051807,
     "wof:name":"Pizza Barn",
-    "wof:parent_id":420526707,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

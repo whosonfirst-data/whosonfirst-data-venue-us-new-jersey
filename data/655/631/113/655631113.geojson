@@ -2,9 +2,14 @@
   "id": 655631113,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 State Rte 3 Clifton NJ 07014",
+    "addr:housenumber":"99",
+    "addr:postcode":"07014",
+    "addr:street":"State Rte 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149394,40.834755,-74.149394,40.834755",
     "geom:latitude":40.834755,
     "geom:longitude":-74.149394,
@@ -24,7 +29,15 @@
     "sg:postcode":"07014",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85814175,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tSGxrv8dlCo0H6s2n3hlI_40.834755_-74.149394@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461314377,
     "wof:geomhash":"480da061254f7646ce92d597dc842263",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "neighbourhood_id":85814175,
+            "region_id":85688607,
+            "venue_id":655631113
+        }
+    ],
     "wof:id":655631113,
-    "wof:lastmodified":1466681991,
+    "wof:lastmodified":1492025197,
     "wof:name":"Phil Rizzuto Real Estate Brk",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

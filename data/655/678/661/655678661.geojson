@@ -2,9 +2,14 @@
   "id": 655678661,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 W Inman Ave Rahway NJ 07065",
+    "addr:housenumber":"41",
+    "addr:postcode":"07065",
+    "addr:street":"W Inman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2873,40.598099,-74.2873,40.598099",
     "geom:latitude":40.598099,
     "geom:longitude":-74.2873,
@@ -30,7 +35,14 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RVF1obD0wENGU1NGIQqNP_40.598024_-74.286905@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316362,
     "wof:geomhash":"3fd86ef27d31f2d0e975e0d0d3e3ca74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655678661
+        }
+    ],
     "wof:id":655678661,
-    "wof:lastmodified":1466683811,
+    "wof:lastmodified":1492027787,
     "wof:name":"Rahway Auto Body & Fender Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

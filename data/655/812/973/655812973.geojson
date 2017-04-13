@@ -2,9 +2,14 @@
   "id": 655812973,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Sunset Rd Ste 100 Willingboro NJ 08046",
+    "addr:housenumber":"215",
+    "addr:postcode":"08046",
+    "addr:street":"Sunset Rd Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.886299,40.048199,-74.886299,40.048199",
     "geom:latitude":40.048199,
     "geom:longitude":-74.886299,
@@ -27,7 +32,10 @@
         "dermatologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fzgy3BW5MJpvkb3tWc7us_40.048199_-74.886299@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321936,
     "wof:geomhash":"a1e12d6708a3c81793b7662bc9842021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812973
+        }
+    ],
     "wof:id":655812973,
-    "wof:lastmodified":1466687318,
+    "wof:lastmodified":1492070322,
     "wof:name":"Center For Skin Enhancement",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

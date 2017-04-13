@@ -2,9 +2,14 @@
   "id": 655448169,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Bradley Ave Northvale NJ 07647",
+    "addr:housenumber":"305",
+    "addr:postcode":"07647",
+    "addr:street":"Bradley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951798,41.008643,-73.951798,41.008643",
     "geom:latitude":41.008643,
     "geom:longitude":-73.951798,
@@ -27,7 +32,14 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eIiID7cRtO7f1T1VEdWAf_41.008643_-73.951798@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306613,
     "wof:geomhash":"045e4406a816683e19884793ce08c4ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655448169
+        }
+    ],
     "wof:id":655448169,
-    "wof:lastmodified":1466676760,
+    "wof:lastmodified":1492048074,
     "wof:name":"Das Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

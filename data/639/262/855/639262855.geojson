@@ -2,9 +2,14 @@
   "id": 639262855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1302",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264678,40.701014,-74.264678,40.701014",
     "geom:latitude":40.701014,
     "geom:longitude":-74.264678,
@@ -31,7 +36,10 @@
         "drycleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ihZteD6JjFknA4uxQPq5u_40.701014_-74.264678@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461291116,
     "wof:geomhash":"707bec508947c701c9e75eda864da51d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639262855
+        }
+    ],
     "wof:id":639262855,
-    "wof:lastmodified":1466690717,
+    "wof:lastmodified":1492056136,
     "wof:name":"Su Dry Cleaners",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

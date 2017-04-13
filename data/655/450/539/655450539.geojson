@@ -2,9 +2,14 @@
   "id": 655450539,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Drakes Corner Rd Princeton NJ 08540",
+    "addr:housenumber":"101",
+    "addr:postcode":"08540",
+    "addr:street":"Drakes Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.705843,40.370634,-74.705843,40.370634",
     "geom:latitude":40.370634,
     "geom:longitude":-74.705843,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aILqpM6hRgtAxzX6As588_40.370634_-74.705843@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306716,
     "wof:geomhash":"367a749310abb202bb3f2510cb94636b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655450539
+        }
+    ],
     "wof:id":655450539,
-    "wof:lastmodified":1466676896,
+    "wof:lastmodified":1492047778,
     "wof:name":"Fruscione Contracting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

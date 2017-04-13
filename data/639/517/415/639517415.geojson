@@ -2,9 +2,14 @@
   "id": 639517415,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 River Dr Garfield NJ 07026",
+    "addr:housenumber":"627",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.118935,40.878192,-74.118935,40.878192",
     "geom:latitude":40.878192,
     "geom:longitude":-74.118935,
@@ -30,7 +35,14 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61WFrQqh1518s9HlDdoRly_40.878192_-74.118935@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461298184,
     "wof:geomhash":"15fad090dbd0c1350d5f609af6dd1c55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639517415
+        }
+    ],
     "wof:id":639517415,
-    "wof:lastmodified":1466694906,
+    "wof:lastmodified":1492048835,
     "wof:name":"Custom Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

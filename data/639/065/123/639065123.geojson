@@ -2,9 +2,14 @@
   "id": 639065123,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Stewart Ct Jackson NJ 08527",
+    "addr:housenumber":"10",
+    "addr:postcode":"08527",
+    "addr:street":"Stewart Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281248,40.105034,-74.281248,40.105034",
     "geom:latitude":40.105034,
     "geom:longitude":-74.281248,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MPo4sFEeBAcs9eDbaLjoZ_40.105034_-74.281248@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286587,
     "wof:geomhash":"869dc289c71e0307d1ae084990e468cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639065123
+        }
+    ],
     "wof:id":639065123,
-    "wof:lastmodified":1466688162,
+    "wof:lastmodified":1492042700,
     "wof:name":"K D A Industries LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

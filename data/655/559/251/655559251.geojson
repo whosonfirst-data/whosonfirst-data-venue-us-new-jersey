@@ -2,9 +2,14 @@
   "id": 655559251,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 Rte 68 Columbus NJ 08022",
+    "addr:housenumber":"366",
+    "addr:postcode":"08022",
+    "addr:street":"Rte 68",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652768,40.063899,-74.652768,40.063899",
     "geom:latitude":40.063899,
     "geom:longitude":-74.652768,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTLJRBXq5IrLmhMUwEI9z_40.063899_-74.652768@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311235,
     "wof:geomhash":"953a66abf85df5b02b18762c63804912",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":655559251
+        }
+    ],
     "wof:id":655559251,
-    "wof:lastmodified":1466679739,
+    "wof:lastmodified":1492039650,
     "wof:name":"I & J Builders Inc",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

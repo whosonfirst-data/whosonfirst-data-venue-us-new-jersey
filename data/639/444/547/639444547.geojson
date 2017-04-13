@@ -2,9 +2,14 @@
   "id": 639444547,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Pinehurst Dr Lakewood NJ 08701",
+    "addr:housenumber":"5",
+    "addr:postcode":"08701",
+    "addr:street":"Pinehurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167667,40.086051,-74.167667,40.086051",
     "geom:latitude":40.086051,
     "geom:longitude":-74.167667,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MjSTh8MaTWf54d5ScYqvb_40.086051_-74.167667@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295202,
     "wof:geomhash":"fbc44d886ed75a99e72b695a816fa2c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639444547
+        }
+    ],
     "wof:id":639444547,
-    "wof:lastmodified":1466693449,
+    "wof:lastmodified":1492051335,
     "wof:name":"Woodlake Apartment Community",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

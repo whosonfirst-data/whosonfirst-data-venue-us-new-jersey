@@ -2,9 +2,14 @@
   "id": 638939573,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Park St Tenafly NJ 07670",
+    "addr:housenumber":"35",
+    "addr:postcode":"07670",
+    "addr:street":"Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.955995,40.924182,-73.955995,40.924182",
     "geom:latitude":40.924182,
     "geom:longitude":-73.955995,
@@ -28,7 +33,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E3zZOfryIUFSUHrWnhILV_40.924182_-73.955995@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283795,
     "wof:geomhash":"d169fbcd3a6eadfbc5fe0f490c81cef9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":638939573
+        }
+    ],
     "wof:id":638939573,
-    "wof:lastmodified":1466690962,
+    "wof:lastmodified":1492026586,
     "wof:name":"Milridge Realty LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

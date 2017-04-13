@@ -2,9 +2,14 @@
   "id": 638905493,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Oval Rd Essex Fells NJ 07021",
+    "addr:housenumber":"70",
+    "addr:postcode":"07021",
+    "addr:street":"Oval Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282907,40.820785,-74.282907,40.820785",
     "geom:latitude":40.820785,
     "geom:longitude":-74.282907,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478109,
+        85633793,
+        85975277,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UnKT8aDUye6fJQd4VIA4c_40.820785_-74.282907@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282890,
     "wof:geomhash":"930c00fffd18ed4b97d227aa7a53f715",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478109,
+            "locality_id":85975277,
+            "region_id":85688607,
+            "venue_id":638905493
+        }
+    ],
     "wof:id":638905493,
-    "wof:lastmodified":1466690173,
+    "wof:lastmodified":1492041211,
     "wof:name":"Gerry C Fox MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

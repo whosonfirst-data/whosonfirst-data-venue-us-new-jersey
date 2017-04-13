@@ -2,9 +2,14 @@
   "id": 639101353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 Darby Ln Union NJ 07083",
+    "addr:housenumber":"1143",
+    "addr:postcode":"07083",
+    "addr:street":"Darby Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256943,40.673974,-74.256943,40.673974",
     "geom:latitude":40.673974,
     "geom:longitude":-74.256943,
@@ -28,7 +33,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UYvRngmW1livuOMoStW3H_40.673974_-74.256943@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461287371,
     "wof:geomhash":"7ed2f467885b932113b845adfd51623b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639101353
+        }
+    ],
     "wof:id":639101353,
-    "wof:lastmodified":1466674454,
+    "wof:lastmodified":1492050560,
     "wof:name":"Ferraro Building Association",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638713731,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 New Centre Rd Hillsborough NJ 08844",
+    "addr:housenumber":"407",
+    "addr:postcode":"08844",
+    "addr:street":"New Centre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.666685,40.529666,-74.666685,40.529666",
     "geom:latitude":40.529666,
     "geom:longitude":-74.666685,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85858977,
-        102085045
+        85846331,
+        102085045,
+        85858977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85846331,
+            "region_id":85688607,
+            "venue_id":638713731
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85858977,
             "region_id":85688607,
             "venue_id":638713731
         }
     ],
     "wof:id":638713731,
-    "wof:lastmodified":1466673189,
+    "wof:lastmodified":1492070083,
     "wof:name":"First Place Ponies LLC",
-    "wof:parent_id":85858977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

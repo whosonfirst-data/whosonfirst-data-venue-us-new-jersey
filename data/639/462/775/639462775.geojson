@@ -2,9 +2,14 @@
   "id": 639462775,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Springhill Rd Skillman NJ 08558",
+    "addr:housenumber":"100",
+    "addr:postcode":"08558",
+    "addr:street":"Springhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732007,40.40923,-74.732007,40.40923",
     "geom:latitude":40.40923,
     "geom:longitude":-74.732007,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x0B5FEJFJJSb2EMHGi3PI_40.409230_-74.732007@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295916,
     "wof:geomhash":"df9b06a9c34a49f1198529bc7383a37c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":639462775
+        }
+    ],
     "wof:id":639462775,
-    "wof:lastmodified":1466693993,
+    "wof:lastmodified":1492042255,
     "wof:name":"Stantongreta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

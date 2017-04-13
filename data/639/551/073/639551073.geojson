@@ -2,9 +2,14 @@
   "id": 639551073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2611 River Rd Point Pleasant NJ 08742",
+    "addr:housenumber":"2611",
+    "addr:postcode":"08742",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.075407,40.087337,-74.075407,40.087337",
     "geom:latitude":40.087337,
     "geom:longitude":-74.075407,
@@ -32,7 +37,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dmihStEXFG2h9xACTNhZA_40.087337_-74.075407@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461299796,
     "wof:geomhash":"b00c667af1f11daf4639124965132aa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639551073
+        }
+    ],
     "wof:id":639551073,
-    "wof:lastmodified":1466695840,
+    "wof:lastmodified":1492049699,
     "wof:name":"Pierrepont Associates Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

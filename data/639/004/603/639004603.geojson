@@ -2,9 +2,14 @@
   "id": 639004603,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Mallory Ave Jersey City NJ 07304",
+    "addr:housenumber":"80",
+    "addr:postcode":"07304",
+    "addr:street":"Mallory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.091054,40.71639,-74.091054,40.71639",
     "geom:latitude":40.71639,
     "geom:longitude":-74.091054,
@@ -31,7 +36,8 @@
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        85855225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":420527027,
             "region_id":85688607,
             "venue_id":639004603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85855225,
+            "region_id":85688607,
+            "venue_id":639004603
         }
     ],
     "wof:id":639004603,
-    "wof:lastmodified":1466673121,
+    "wof:lastmodified":1492051301,
     "wof:name":"Bayside Tavern",
-    "wof:parent_id":420527027,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

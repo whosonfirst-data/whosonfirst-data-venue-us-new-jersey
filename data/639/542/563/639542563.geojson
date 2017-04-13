@@ -2,9 +2,14 @@
   "id": 639542563,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Lake Dr Howell NJ 07731",
+    "addr:housenumber":"52",
+    "addr:postcode":"07731",
+    "addr:street":"Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248432,40.144128,-74.248432,40.144128",
     "geom:latitude":40.144128,
     "geom:longitude":-74.248432,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xeGcMA663JNXlY4388WBJ_40.144128_-74.248432@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461299440,
     "wof:geomhash":"a40788def7069a74a970d9b548890b00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639542563
+        }
+    ],
     "wof:id":639542563,
-    "wof:lastmodified":1466695675,
+    "wof:lastmodified":1492049697,
     "wof:name":"Mobile Home Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

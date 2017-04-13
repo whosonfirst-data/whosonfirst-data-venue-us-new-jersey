@@ -2,9 +2,14 @@
   "id": 655807427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"1003",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.875473,40.049272,-74.875473,40.049272",
     "geom:latitude":40.049272,
     "geom:longitude":-74.875473,
@@ -41,7 +46,10 @@
         "formal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29oPv3foxo6cCIMEmypXWB_40.049272_-74.875473@1303262275"
@@ -49,9 +57,15 @@
     "wof:country":"US",
     "wof:created":1461321679,
     "wof:geomhash":"ae0333e041825e16c864f5434556d90a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655807427
+        }
+    ],
     "wof:id":655807427,
-    "wof:lastmodified":1466687137,
+    "wof:lastmodified":1492049201,
     "wof:name":"J Paglione",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

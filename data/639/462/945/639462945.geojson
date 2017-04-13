@@ -2,9 +2,14 @@
   "id": 639462945,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 Culver Rd Monmouth Jct NJ 08852",
+    "addr:housenumber":"329",
+    "addr:postcode":"08852",
+    "addr:street":"Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.538583,40.363639,-74.538583,40.363639",
     "geom:latitude":40.363639,
     "geom:longitude":-74.538583,
@@ -28,7 +33,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pth2Cnq1cbKCQCvWW9X6w_40.363639_-74.538583@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461295922,
     "wof:geomhash":"d3e1d3d45eddd48597929f4d61d63542",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639462945
+        }
+    ],
     "wof:id":639462945,
-    "wof:lastmodified":1466694041,
+    "wof:lastmodified":1492021490,
     "wof:name":"Twin Boro Physical Thrpy Assoc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

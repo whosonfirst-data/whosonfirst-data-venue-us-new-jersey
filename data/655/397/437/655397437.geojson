@@ -2,9 +2,14 @@
   "id": 655397437,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Glen Ave Glen Rock NJ 07452",
+    "addr:housenumber":"36",
+    "addr:postcode":"07452",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131788,40.963574,-74.131788,40.963574",
     "geom:latitude":40.963574,
     "geom:longitude":-74.131788,
@@ -27,7 +32,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZFYuoGAFl60xbbAKJsO3m_40.963574_-74.131788@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304516,
     "wof:geomhash":"45ff3d7c9dd4ae06791019e9c83b6d71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655397437
+        }
+    ],
     "wof:id":655397437,
-    "wof:lastmodified":1466675360,
+    "wof:lastmodified":1492081935,
     "wof:name":"Rocca Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

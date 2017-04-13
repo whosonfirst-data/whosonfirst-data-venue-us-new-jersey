@@ -2,9 +2,14 @@
   "id": 655470253,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Bergenline Ave Closter NJ 07624",
+    "addr:housenumber":"143",
+    "addr:postcode":"07624",
+    "addr:street":"Bergenline Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.975058,40.97211,-73.975058,40.97211",
     "geom:latitude":40.97211,
     "geom:longitude":-73.975058,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OOEEADYxvv11Ed75f8yng_40.972110_-73.975058@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461307607,
     "wof:geomhash":"88a757599770807d8c0c7d8bbce8d6a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655470253
+        }
+    ],
     "wof:id":655470253,
-    "wof:lastmodified":1466677358,
+    "wof:lastmodified":1492024312,
     "wof:name":"Hudson Technical Svcs Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

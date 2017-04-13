@@ -2,9 +2,14 @@
   "id": 639454475,
   "type": "Feature",
   "properties": {
+    "addr:full":"74 Woolsey St Irvington NJ 07111",
+    "addr:housenumber":"74",
+    "addr:postcode":"07111",
+    "addr:street":"Woolsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.227733,40.715458,-74.227733,40.715458",
     "geom:latitude":40.715458,
     "geom:longitude":-74.227733,
@@ -29,7 +34,13 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nvDRaa6Fndm7VsTVaK99U_40.715458_-74.227733@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461295594,
     "wof:geomhash":"c3a5ffa95940374db74e3b260ff98626",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639454475
+        }
+    ],
     "wof:id":639454475,
-    "wof:lastmodified":1466693762,
+    "wof:lastmodified":1492048770,
     "wof:name":"Mpm Display Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

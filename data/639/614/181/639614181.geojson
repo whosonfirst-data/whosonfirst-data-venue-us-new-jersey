@@ -2,9 +2,14 @@
   "id": 639614181,
   "type": "Feature",
   "properties": {
+    "addr:full":"861 Brown Rd Bridgewater NJ 08807",
+    "addr:housenumber":"861",
+    "addr:postcode":"08807",
+    "addr:street":"Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.627248,40.629487,-74.627248,40.629487",
     "geom:latitude":40.629487,
     "geom:longitude":-74.627248,
@@ -27,7 +32,14 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47btuRlDYZeqY2SbxFMbO2_40.629487_-74.627248@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302287,
     "wof:geomhash":"d78390007a2226793e8aa61d9d144fe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":639614181
+        }
+    ],
     "wof:id":639614181,
-    "wof:lastmodified":1466697120,
+    "wof:lastmodified":1492028604,
     "wof:name":"Successfullife Coaching Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655562369,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 Cornell Pl Hillside NJ 07205",
+    "addr:housenumber":"460",
+    "addr:postcode":"07205",
+    "addr:street":"Cornell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243354,40.700421,-74.243354,40.700421",
     "geom:latitude":40.700421,
     "geom:longitude":-74.243354,
@@ -29,7 +34,10 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7huN63TQQg0fh2gf4RTV5w_40.700421_-74.243354@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461311379,
     "wof:geomhash":"dc7963a1403844c083fbfce7088b343b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655562369
+        }
+    ],
     "wof:id":655562369,
-    "wof:lastmodified":1466679770,
+    "wof:lastmodified":1492052247,
     "wof:name":"Nice Guys Detail Ctr",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

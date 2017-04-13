@@ -2,9 +2,14 @@
   "id": 655494549,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N Main St Forked River NJ 08731",
+    "addr:housenumber":"110",
+    "addr:postcode":"08731",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.190576,39.840772,-74.190576,39.840772",
     "geom:latitude":39.840772,
     "geom:longitude":-74.190576,
@@ -28,7 +33,10 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5impmmH3k8RWNlrRTM3HBy_39.840772_-74.190576@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308606,
     "wof:geomhash":"5abbd833178456dde4361623bc301c75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527429,
+            "venue_id":655494549
+        }
+    ],
     "wof:id":655494549,
-    "wof:lastmodified":1466677969,
+    "wof:lastmodified":1492057032,
     "wof:name":"Muscleworks",
     "wof:parent_id":420527429,
     "wof:placetype":"venue",

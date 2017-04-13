@@ -2,9 +2,14 @@
   "id": 655534155,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Hart Ave Hopewell NJ 08525",
+    "addr:housenumber":"38",
+    "addr:postcode":"08525",
+    "addr:street":"Hart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.766924,40.391422,-74.766924,40.391422",
     "geom:latitude":40.391422,
     "geom:longitude":-74.766924,
@@ -29,7 +34,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UmjSUluLAjfZQlhQJg25z_40.391422_-74.766924@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461310209,
     "wof:geomhash":"63aadfbd50a2ce0c6daffbfcc8a78bdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":655534155
+        }
+    ],
     "wof:id":655534155,
-    "wof:lastmodified":1466678986,
+    "wof:lastmodified":1492049435,
     "wof:name":"Proforma Unlimited Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

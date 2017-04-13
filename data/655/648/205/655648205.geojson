@@ -2,9 +2,14 @@
   "id": 655648205,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Robbins Way Vincentown NJ 08088",
+    "addr:housenumber":"10",
+    "addr:postcode":"08088",
+    "addr:street":"Robbins Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732246,39.907468,-74.732246,39.907468",
     "geom:latitude":39.907468,
     "geom:longitude":-74.732246,
@@ -27,7 +32,10 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pSPl0b4Y6Dr2Pbdihq7J0_39.907468_-74.732246@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315104,
     "wof:geomhash":"ee306c6e3de7d8f989ff4e74c3f24377",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655648205
+        }
+    ],
     "wof:id":655648205,
-    "wof:lastmodified":1466682739,
+    "wof:lastmodified":1492071375,
     "wof:name":"Dhj Services",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

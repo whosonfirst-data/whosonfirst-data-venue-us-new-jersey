@@ -2,9 +2,14 @@
   "id": 655789747,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Mill St Newton NJ 07860",
+    "addr:housenumber":"75",
+    "addr:postcode":"07860",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75568,41.063126,-74.75568,41.063126",
     "geom:latitude":41.063126,
     "geom:longitude":-74.75568,
@@ -30,7 +35,10 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WMLiGIA7bQmOpNnkZ4ltJ_41.063126_-74.755680@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320968,
     "wof:geomhash":"6b56c9e8d27f1190aa5df30e3f521a83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789747
+        }
+    ],
     "wof:id":655789747,
-    "wof:lastmodified":1466686710,
+    "wof:lastmodified":1492070866,
     "wof:name":"E & I Auto Restoration",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

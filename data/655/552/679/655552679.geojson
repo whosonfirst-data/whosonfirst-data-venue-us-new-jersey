@@ -2,9 +2,14 @@
   "id": 655552679,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Timothy Ave Kendall Park NJ 08824",
+    "addr:housenumber":"4",
+    "addr:postcode":"08824",
+    "addr:street":"Timothy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.534064,40.43357,-74.534064,40.43357",
     "geom:latitude":40.43357,
     "geom:longitude":-74.534064,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527179,
+        85688607,
         85806263,
         102087417
     ],
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655552679
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85806263,
             "region_id":85688607,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":655552679,
-    "wof:lastmodified":1466679591,
+    "wof:lastmodified":1492020642,
     "wof:name":"J D L Electrical Contg Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

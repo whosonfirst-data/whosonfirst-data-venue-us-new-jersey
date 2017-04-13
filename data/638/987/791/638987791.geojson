@@ -2,9 +2,14 @@
   "id": 638987791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Maple Ave Atco NJ 08004",
+    "addr:housenumber":"1234",
+    "addr:postcode":"08004",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.826439,39.755396,-74.826439,39.755396",
     "geom:latitude":39.755396,
     "geom:longitude":-74.826439,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sLJHhlwTUZkvczMNMbG5r_39.755396_-74.826439@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461284825,
     "wof:geomhash":"2641875279196b2fcbe4eca8ad1bab07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":638987791
+        }
+    ],
     "wof:id":638987791,
-    "wof:lastmodified":1466691974,
+    "wof:lastmodified":1492052360,
     "wof:name":"Wheeler Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

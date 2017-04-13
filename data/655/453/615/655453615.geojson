@@ -2,9 +2,14 @@
   "id": 655453615,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Princeton Pike Princeton NJ 08540",
+    "addr:housenumber":"4101",
+    "addr:postcode":"08540",
+    "addr:street":"Princeton Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.694403,40.309124,-74.694403,40.309124",
     "geom:latitude":40.309124,
     "geom:longitude":-74.694403,
@@ -27,7 +32,12 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85842803,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60U4j2AvraU30nyolnibBR_40.309124_-74.694403@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461306850,
     "wof:geomhash":"e1fdef922c9ed19f88e22b4474e5d54a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85842803,
+            "region_id":85688607,
+            "venue_id":655453615
+        }
+    ],
     "wof:id":655453615,
-    "wof:lastmodified":1466676934,
+    "wof:lastmodified":1492047709,
     "wof:name":"Chapin School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

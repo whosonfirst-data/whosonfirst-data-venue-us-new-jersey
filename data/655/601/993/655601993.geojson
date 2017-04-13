@@ -2,9 +2,14 @@
   "id": 655601993,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Ronald Ct Ramsey NJ 07446",
+    "addr:housenumber":"21",
+    "addr:postcode":"07446",
+    "addr:street":"Ronald Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129407,41.052674,-74.129407,41.052674",
     "geom:latitude":41.052674,
     "geom:longitude":-74.129407,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L07e4UEwfT9Acm7IeCwQe_41.052674_-74.129407@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313090,
     "wof:geomhash":"f472bc052df4c96a6a5bad1395ad274a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655601993
+        }
+    ],
     "wof:id":655601993,
-    "wof:lastmodified":1466681281,
+    "wof:lastmodified":1492051756,
     "wof:name":"Hill Construction Ramsey LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

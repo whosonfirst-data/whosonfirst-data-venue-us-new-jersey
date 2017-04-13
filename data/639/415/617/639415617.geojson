@@ -2,9 +2,14 @@
   "id": 639415617,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 3rd Ave Elizabeth NJ 07202",
+    "addr:housenumber":"801",
+    "addr:postcode":"07202",
+    "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.206681,40.65791,-74.206681,40.65791",
     "geom:latitude":40.65791,
     "geom:longitude":-74.206681,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527715,
+        420527735,
         102191575,
         404478497,
         85633793,
         85975847,
         102085995,
-        85688607
+        85688607,
+        420527715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102085995,
             "localadmin_id":404478497,
             "locality_id":85975847,
+            "neighbourhood_id":420527735,
+            "region_id":85688607,
+            "venue_id":639415617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
             "neighbourhood_id":420527715,
             "region_id":85688607,
             "venue_id":639415617
         }
     ],
     "wof:id":639415617,
-    "wof:lastmodified":1466693184,
+    "wof:lastmodified":1492053017,
     "wof:name":"V Firetto Construction Inc",
-    "wof:parent_id":420527715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

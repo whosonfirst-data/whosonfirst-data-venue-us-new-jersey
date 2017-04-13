@@ -2,9 +2,14 @@
   "id": 639102651,
   "type": "Feature",
   "properties": {
+    "addr:full":"876 Land St Cinnaminson NJ 08077",
+    "addr:housenumber":"876",
+    "addr:postcode":"08077",
+    "addr:street":"Land St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003228,40.011545,-75.003228,40.011545",
     "geom:latitude":40.011545,
     "geom:longitude":-75.003228,
@@ -30,10 +35,12 @@
     "sg:website":"www.seabox.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85816721,
+        102191575,
+        404477315,
         85633793,
-        85811051,
-        102087415
+        102087415,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,19 @@
     "wof:geomhash":"730943f6342bf8d531bc6d46595352b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087415,
-            "neighbourhood_id":85811051,
+            "localadmin_id":404477315,
+            "neighbourhood_id":85816721,
             "region_id":85688607,
             "venue_id":639102651
         }
     ],
     "wof:id":639102651,
-    "wof:lastmodified":1466674635,
+    "wof:lastmodified":1492050424,
     "wof:name":"Sea Box Inc",
-    "wof:parent_id":85811051,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

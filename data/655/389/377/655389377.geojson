@@ -2,9 +2,14 @@
   "id": 655389377,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Maple Rd West Milford NJ 07480",
+    "addr:housenumber":"69",
+    "addr:postcode":"07480",
+    "addr:street":"Maple Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388571,41.065284,-74.388571,41.065284",
     "geom:latitude":41.065284,
     "geom:longitude":-74.388571,
@@ -28,7 +33,10 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hkKwSvPvm9VF7jJ9goq9I_41.065284_-74.388571@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304178,
     "wof:geomhash":"abb97caca2d41bcd0e45058a8b5eb642",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527489,
+            "venue_id":655389377
+        }
+    ],
     "wof:id":655389377,
-    "wof:lastmodified":1466675246,
+    "wof:lastmodified":1492082124,
     "wof:name":"Milford Manor Nursing Home",
     "wof:parent_id":420527489,
     "wof:placetype":"venue",

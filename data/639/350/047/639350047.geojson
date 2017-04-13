@@ -2,9 +2,14 @@
   "id": 639350047,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Arnold Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"907",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.05993,40.089009,-74.05993,40.089009",
     "geom:latitude":40.089009,
     "geom:longitude":-74.05993,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jBcxAWeONbtFcRP0efTrU_40.089009_-74.059930@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293025,
     "wof:geomhash":"91ed782ebbbf237fb76a77299d072a1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639350047
+        }
+    ],
     "wof:id":639350047,
-    "wof:lastmodified":1466692394,
+    "wof:lastmodified":1492051330,
     "wof:name":"Ole Forsburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

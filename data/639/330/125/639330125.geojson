@@ -2,9 +2,14 @@
   "id": 639330125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Valley Ln Saddle River NJ 07458",
+    "addr:housenumber":"1",
+    "addr:postcode":"07458",
+    "addr:street":"Valley Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.094606,41.067488,-74.094606,41.067488",
     "geom:latitude":41.067488,
     "geom:longitude":-74.094606,
@@ -32,7 +37,14 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HfuQ4ybCBUElcLA2h2XMm_41.067488_-74.094606@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461292607,
     "wof:geomhash":"d0e9010da0d32d9f9046e8c160437cf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639330125
+        }
+    ],
     "wof:id":639330125,
-    "wof:lastmodified":1466692187,
+    "wof:lastmodified":1492076143,
     "wof:name":"Timetrade U S A Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

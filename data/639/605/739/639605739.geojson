@@ -2,9 +2,14 @@
   "id": 639605739,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Westminster Pl Garfield NJ 07026",
+    "addr:housenumber":"105",
+    "addr:postcode":"07026",
+    "addr:street":"Westminster Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.097629,40.871579,-74.097629,40.871579",
     "geom:latitude":40.871579,
     "geom:longitude":-74.097629,
@@ -28,7 +33,14 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JhtFok0NHoRZWL1fSCMlv_40.871579_-74.097629@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301953,
     "wof:geomhash":"19ccb5e7e34609157b8654161d325d16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":639605739
+        }
+    ],
     "wof:id":639605739,
-    "wof:lastmodified":1466697012,
+    "wof:lastmodified":1492038912,
     "wof:name":"JPSC Janitorial Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655552519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1761 Chester Ave Lakehurst NJ 08759",
+    "addr:housenumber":"1761",
+    "addr:postcode":"08759",
+    "addr:street":"Chester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.385735,39.923761,-74.385735,39.923761",
     "geom:latitude":39.923761,
     "geom:longitude":-74.385735,
@@ -36,7 +41,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yegB45B2fVmVVG5BfTNrr_39.923761_-74.385735@1294171694"
@@ -44,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461310927,
     "wof:geomhash":"8f616dbab27a1cd139c680adfd0cc01b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":655552519
+        }
+    ],
     "wof:id":655552519,
-    "wof:lastmodified":1466679549,
+    "wof:lastmodified":1492045224,
     "wof:name":"Industrial Service Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

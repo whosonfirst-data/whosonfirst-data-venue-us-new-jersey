@@ -2,9 +2,14 @@
   "id": 638968721,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 W Point Dr Bordentown NJ 08505",
+    "addr:housenumber":"7",
+    "addr:postcode":"08505",
+    "addr:street":"W Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.698426,40.139535,-74.698426,40.139535",
     "geom:latitude":40.139535,
     "geom:longitude":-74.698426,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ku7JjEeoMmNwlDvkUpWXB_40.139535_-74.698426@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284423,
     "wof:geomhash":"a31ada1872d1f687ca163931abcf27b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638968721
+        }
+    ],
     "wof:id":638968721,
-    "wof:lastmodified":1466691650,
+    "wof:lastmodified":1492052207,
     "wof:name":"Pilgrim Properties LLC",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

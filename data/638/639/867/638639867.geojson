@@ -2,9 +2,14 @@
   "id": 638639867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hampton Hollow Dr Perrineville NJ 08535",
+    "addr:housenumber":"4",
+    "addr:postcode":"08535",
+    "addr:street":"Hampton Hollow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.460811,40.235351,-74.460811,40.235351",
     "geom:latitude":40.235351,
     "geom:longitude":-74.460811,
@@ -29,7 +34,13 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2moDAvnOJEQYYjX44Td1VS_40.235351_-74.460811@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461275520,
     "wof:geomhash":"f88dc54ebe467ddb0aa214810aea73db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":638639867
+        }
+    ],
     "wof:id":638639867,
-    "wof:lastmodified":1466673527,
+    "wof:lastmodified":1492062595,
     "wof:name":"Peter John Triolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

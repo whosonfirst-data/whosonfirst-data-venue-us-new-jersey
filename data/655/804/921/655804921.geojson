@@ -2,9 +2,14 @@
   "id": 655804921,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Wakefield Rd Atco NJ 08004",
+    "addr:housenumber":"35",
+    "addr:postcode":"08004",
+    "addr:street":"Wakefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.897341,39.759133,-74.897341,39.759133",
     "geom:latitude":39.759133,
     "geom:longitude":-74.897341,
@@ -28,7 +33,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xBsHf9XD5MABEQfIh0PMS_39.759133_-74.897341@1303262274"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461321564,
     "wof:geomhash":"56c7b995825124725ab809b50ce0bfd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655804921
+        }
+    ],
     "wof:id":655804921,
-    "wof:lastmodified":1466687193,
+    "wof:lastmodified":1492025152,
     "wof:name":"Mercedes Enterprises Inc",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

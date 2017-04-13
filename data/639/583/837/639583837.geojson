@@ -2,9 +2,14 @@
   "id": 639583837,
   "type": "Feature",
   "properties": {
+    "addr:full":"3184 Merriel Ave Camden NJ 08105",
+    "addr:housenumber":"3184",
+    "addr:postcode":"08105",
+    "addr:street":"Merriel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078205,39.949475,-75.078205,39.949475",
     "geom:latitude":39.949475,
     "geom:longitude":-75.078205,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vdw3U0MIR6aUaNahxGphB_39.949475_-75.078205@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301070,
     "wof:geomhash":"55d094755bef4a16cbbae3ddc9ea7cdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639583837
+        }
+    ],
     "wof:id":639583837,
-    "wof:lastmodified":1466696665,
+    "wof:lastmodified":1492047556,
     "wof:name":"E Loaisiga Contractors",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

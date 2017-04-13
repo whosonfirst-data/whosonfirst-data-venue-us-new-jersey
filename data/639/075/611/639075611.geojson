@@ -2,9 +2,14 @@
   "id": 639075611,
   "type": "Feature",
   "properties": {
+    "addr:full":"3638 Valley Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"3638",
+    "addr:postcode":"07920",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.569355,40.660413,-74.569355,40.660413",
     "geom:latitude":40.660413,
     "geom:longitude":-74.569355,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lb3Lt2mhFD4AH0xDl57tt_40.660413_-74.569355@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286824,
     "wof:geomhash":"51556e9c0af3d866fe0ecc8923358ca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639075611
+        }
+    ],
     "wof:id":639075611,
-    "wof:lastmodified":1466688508,
+    "wof:lastmodified":1492043919,
     "wof:name":"Enhancement Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

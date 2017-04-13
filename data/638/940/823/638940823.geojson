@@ -2,9 +2,14 @@
   "id": 638940823,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 Park Ln Wayne NJ 07470",
+    "addr:housenumber":"213",
+    "addr:postcode":"07470",
+    "addr:street":"Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235759,40.888746,-74.235759,40.888746",
     "geom:latitude":40.888746,
     "geom:longitude":-74.235759,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pXzrtQfKUj4P0bdnGf48M_40.888746_-74.235759@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283822,
     "wof:geomhash":"0122f0b69e4094d5eb134fb2e823fef3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":638940823
+        }
+    ],
     "wof:id":638940823,
-    "wof:lastmodified":1466691259,
+    "wof:lastmodified":1492041197,
     "wof:name":"Cv Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

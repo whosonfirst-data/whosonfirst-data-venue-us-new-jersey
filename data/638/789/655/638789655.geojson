@@ -2,9 +2,14 @@
   "id": 638789655,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"90",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.97618,40.761695,-74.97618,40.761695",
     "geom:latitude":40.761695,
     "geom:longitude":-74.97618,
@@ -30,7 +35,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DcZZVWqhthFKc2f1iDndP_40.761695_-74.976180@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461280012,
     "wof:geomhash":"bf251e6d95eaf093429834a8f103d65e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":638789655
+        }
+    ],
     "wof:id":638789655,
-    "wof:lastmodified":1466684267,
+    "wof:lastmodified":1492028387,
     "wof:name":"Tonys Auto Service",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

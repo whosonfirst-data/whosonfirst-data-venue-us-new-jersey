@@ -2,9 +2,14 @@
   "id": 655787879,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Water St Belvidere NJ 07823",
+    "addr:housenumber":"314",
+    "addr:postcode":"07823",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077301,40.829899,-75.077301,40.829899",
     "geom:latitude":40.829899,
     "geom:longitude":-75.077301,
@@ -27,7 +32,14 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vTTgw9WwX93Nin4JzOfZ2_40.829899_-75.077301@1303262270"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320889,
     "wof:geomhash":"bd3b5e430fad69381b59a842a0bd3c8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787879
+        }
+    ],
     "wof:id":655787879,
-    "wof:lastmodified":1466686735,
+    "wof:lastmodified":1492029613,
     "wof:name":"China Inn Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

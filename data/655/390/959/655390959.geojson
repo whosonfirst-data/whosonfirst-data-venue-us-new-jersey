@@ -2,9 +2,14 @@
   "id": 655390959,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Lamington Rd Bedminster NJ 07921",
+    "addr:housenumber":"1415",
+    "addr:postcode":"07921",
+    "addr:street":"Lamington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.680466,40.669247,-74.680466,40.669247",
     "geom:latitude":40.669247,
     "geom:longitude":-74.680466,
@@ -28,7 +33,10 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zVlRHd7zY99qoAngdafAf_40.669247_-74.680466@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304253,
     "wof:geomhash":"6abc7e57222f02c789f55986f02c2fd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527585,
+            "venue_id":655390959
+        }
+    ],
     "wof:id":655390959,
-    "wof:lastmodified":1466675433,
+    "wof:lastmodified":1492070123,
     "wof:name":"Crossroads Farm",
     "wof:parent_id":420527585,
     "wof:placetype":"venue",

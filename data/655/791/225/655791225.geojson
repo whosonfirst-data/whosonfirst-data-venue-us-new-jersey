@@ -2,9 +2,14 @@
   "id": 655791225,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"116",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975502,40.759201,-74.975502,40.759201",
     "geom:latitude":40.759201,
     "geom:longitude":-74.975502,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.umc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fwym5w2HSVwGeNIPd0rSo_40.759201_-74.975502@1303262271"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321027,
     "wof:geomhash":"ce77d0f231d7ca3216f33381b3b793fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791225
+        }
+    ],
     "wof:id":655791225,
-    "wof:lastmodified":1466686579,
+    "wof:lastmodified":1492058045,
     "wof:name":"United Methodist Church",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

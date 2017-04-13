@@ -2,9 +2,14 @@
   "id": 655582441,
   "type": "Feature",
   "properties": {
+    "addr:full":"238 Metedeconk Trl Jackson NJ 08527",
+    "addr:housenumber":"238",
+    "addr:postcode":"08527",
+    "addr:street":"Metedeconk Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259478,40.114906,-74.259478,40.114906",
     "geom:latitude":40.114906,
     "geom:longitude":-74.259478,
@@ -27,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uXvr8McUwojE71HxdoKab_40.114906_-74.259478@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312275,
     "wof:geomhash":"ed92cd4bf4f1b00431b138ec63f6962b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655582441
+        }
+    ],
     "wof:id":655582441,
-    "wof:lastmodified":1466680339,
+    "wof:lastmodified":1492056270,
     "wof:name":"Otto Dietrich Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

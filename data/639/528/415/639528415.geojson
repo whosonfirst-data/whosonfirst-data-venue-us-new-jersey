@@ -2,9 +2,14 @@
   "id": 639528415,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Princeton Ave Brick NJ 08724",
+    "addr:housenumber":"35",
+    "addr:postcode":"08724",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126087,40.067276,-74.126087,40.067276",
     "geom:latitude":40.067276,
     "geom:longitude":-74.126087,
@@ -28,7 +33,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85829965,
+        102081485,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59RxsIAT4mUVIWMsT2GvfF_40.067276_-74.126087@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461298765,
     "wof:geomhash":"ca52371e71c961ef8cc99ac078a62985",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85829965,
+            "region_id":85688607,
+            "venue_id":639528415
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639528415
+        }
+    ],
     "wof:id":639528415,
-    "wof:lastmodified":1466695381,
+    "wof:lastmodified":1492052306,
     "wof:name":"Centennial Mortgage Group",
-    "wof:parent_id":420527381,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

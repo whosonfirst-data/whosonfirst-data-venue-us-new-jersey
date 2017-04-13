@@ -2,9 +2,14 @@
   "id": 655691761,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 Route 130 Riverside NJ 08075",
+    "addr:housenumber":"4000",
+    "addr:postcode":"08075",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.960926,40.011132,-74.960926,40.011132",
     "geom:latitude":40.011132,
     "geom:longitude":-74.960926,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KzwiMtv35qrReAiU1tH95_40.011132_-74.960926@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316929,
     "wof:geomhash":"baeca08a4c49bd8a232fa6b0c938e6cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":655691761
+        }
+    ],
     "wof:id":655691761,
-    "wof:lastmodified":1466684115,
+    "wof:lastmodified":1492049102,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":420526595,
     "wof:placetype":"venue",

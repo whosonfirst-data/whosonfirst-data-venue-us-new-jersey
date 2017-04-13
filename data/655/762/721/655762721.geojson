@@ -2,9 +2,14 @@
   "id": 655762721,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Lower Notch Rd Ste 3 Little Falls NJ 07424",
+    "addr:housenumber":"201",
+    "addr:postcode":"07424",
+    "addr:street":"Lower Notch Rd Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.204316,40.879082,-74.204316,40.879082",
     "geom:latitude":40.879082,
     "geom:longitude":-74.204316,
@@ -28,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e28dTPLJ0Bekmk2ocp1LF_40.879082_-74.204316@1303262264"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319761,
     "wof:geomhash":"5adfab05a38b673e29d314bda52bc0d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":655762721
+        }
+    ],
     "wof:id":655762721,
-    "wof:lastmodified":1466685959,
+    "wof:lastmodified":1492028466,
     "wof:name":"Eastern American Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

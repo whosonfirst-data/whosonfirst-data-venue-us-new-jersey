@@ -2,9 +2,14 @@
   "id": 655453537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 US Hwy 22 Alt Phillipsburg NJ 08865",
+    "addr:housenumber":"1200",
+    "addr:postcode":"08865",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168095,40.677453,-75.168095,40.677453",
     "geom:latitude":40.677453,
     "geom:longitude":-75.168095,
@@ -27,7 +32,14 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1myAPd4EwUHRnRk3EdYw3G_40.677453_-75.168095@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306848,
     "wof:geomhash":"c4e3e93fa6972aeef45174543b3de247",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655453537
+        }
+    ],
     "wof:id":655453537,
-    "wof:lastmodified":1466676914,
+    "wof:lastmodified":1492070328,
     "wof:name":"Educational Club-House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

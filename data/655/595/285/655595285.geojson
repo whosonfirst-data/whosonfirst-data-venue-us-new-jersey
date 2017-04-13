@@ -2,9 +2,14 @@
   "id": 655595285,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Preston Way Trenton NJ 08619",
+    "addr:housenumber":"2",
+    "addr:postcode":"08619",
+    "addr:street":"Preston Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.68512,40.245261,-74.68512,40.245261",
     "geom:latitude":40.245261,
     "geom:longitude":-74.68512,
@@ -28,7 +33,16 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527157,
+        102191575,
+        404478251,
+        85633793,
+        85976399,
+        102081129,
+        85688607,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16B0aV92ZRcHrSimFNzo4R_40.245261_-74.685120@1294171694"
@@ -36,11 +50,27 @@
     "wof:country":"US",
     "wof:created":1461312800,
     "wof:geomhash":"22c16ccc3377fd03b9ed5f45010fe5e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976399,
+            "neighbourhood_id":420527157,
+            "region_id":85688607,
+            "venue_id":655595285
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655595285
+        }
+    ],
     "wof:id":655595285,
-    "wof:lastmodified":1466680804,
+    "wof:lastmodified":1492053708,
     "wof:name":"Trueline Construction LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

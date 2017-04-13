@@ -2,9 +2,14 @@
   "id": 655675901,
   "type": "Feature",
   "properties": {
+    "addr:full":"832 Kearny Ave Kearny NJ 07032",
+    "addr:housenumber":"832",
+    "addr:postcode":"07032",
+    "addr:street":"Kearny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139999,40.779701,-74.139999,40.779701",
     "geom:latitude":40.779701,
     "geom:longitude":-74.139999,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52nVxPMPvnGvgGioNLAAZp_40.779947_-74.140003@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461316252,
     "wof:geomhash":"9d623dd66273f7500f10f807a4eacdd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655675901
+        }
+    ],
     "wof:id":655675901,
-    "wof:lastmodified":1466683736,
+    "wof:lastmodified":1492041333,
     "wof:name":"Arlington Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

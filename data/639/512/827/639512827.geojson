@@ -2,9 +2,14 @@
   "id": 639512827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 D St Belmar NJ 07719",
+    "addr:housenumber":"1106",
+    "addr:postcode":"07719",
+    "addr:street":"D St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.022176,40.176852,-74.022176,40.176852",
     "geom:latitude":40.176852,
     "geom:longitude":-74.022176,
@@ -31,7 +36,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S5Nbbq0Q4QXELwljZLwfS_40.176852_-74.022176@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461297977,
     "wof:geomhash":"ddb146235d16cfa35de522bc24314637",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639512827
+        }
+    ],
     "wof:id":639512827,
-    "wof:lastmodified":1466695114,
+    "wof:lastmodified":1492052387,
     "wof:name":"Renner W J Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

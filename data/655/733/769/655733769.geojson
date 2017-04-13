@@ -2,9 +2,14 @@
   "id": 655733769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1085 Central Ave Clark NJ 07066",
+    "addr:housenumber":"1085",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.30912,40.629524,-74.30912,40.629524",
     "geom:latitude":40.629524,
     "geom:longitude":-74.30912,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.mollymaguires.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14nhEvJU5xgBo6xTTgh0zV_40.629524_-74.309120@1303262257"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461318677,
     "wof:geomhash":"8628a678dcb6b85a144bfbea43570311",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733769
+        }
+    ],
     "wof:id":655733769,
-    "wof:lastmodified":1466685216,
+    "wof:lastmodified":1492040309,
     "wof:name":"Molly Maguire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638635403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 Clifton Ave Clifton NJ 07012",
+    "addr:housenumber":"1350",
+    "addr:postcode":"07012",
+    "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.17243,40.853946,-74.17243,40.853946",
     "geom:latitude":40.853946,
     "geom:longitude":-74.17243,
@@ -31,7 +36,14 @@
         "cigar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dCzCtxISvTIcK465Xc8cC_40.853946_-74.172430@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461275384,
     "wof:geomhash":"b05399a76bb279526227dcc1363f3b22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":638635403
+        }
+    ],
     "wof:id":638635403,
-    "wof:lastmodified":1466673358,
+    "wof:lastmodified":1492068868,
     "wof:name":"Richfield Video Cg & Magazines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

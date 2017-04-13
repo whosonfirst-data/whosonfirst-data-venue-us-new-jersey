@@ -2,9 +2,14 @@
   "id": 655471135,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 Brass Castle Rd Belvidere NJ 07823",
+    "addr:housenumber":"812",
+    "addr:postcode":"07823",
+    "addr:street":"Brass Castle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041335,40.811915,-75.041335,40.811915",
     "geom:latitude":40.811915,
     "geom:longitude":-75.041335,
@@ -29,7 +34,11 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527801,
+        420527755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qqK7iFrx9JLwDjcjFzNHW_40.811915_-75.041335@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461307648,
     "wof:geomhash":"e619d64993091cf7659eda8ad1469856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527801,
+            "venue_id":655471135
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527755,
+            "venue_id":655471135
+        }
+    ],
     "wof:id":655471135,
-    "wof:lastmodified":1466677323,
+    "wof:lastmodified":1492041973,
     "wof:name":"Classic Concepts Ltd Inc",
-    "wof:parent_id":420527801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

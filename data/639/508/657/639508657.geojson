@@ -2,9 +2,14 @@
   "id": 639508657,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 High St Newton NJ 07826",
+    "addr:housenumber":"54",
+    "addr:postcode":"07826",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.776155,41.160003,-74.776155,41.160003",
     "geom:latitude":41.160003,
     "geom:longitude":-74.776155,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OPfqigMR7ty8cmxmEFyn2_41.160003_-74.776155@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297788,
     "wof:geomhash":"ec31577fa8a3eb3660a9cbc05090d4b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":639508657
+        }
+    ],
     "wof:id":639508657,
-    "wof:lastmodified":1466694864,
+    "wof:lastmodified":1492042332,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

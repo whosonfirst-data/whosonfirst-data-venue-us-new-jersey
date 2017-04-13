@@ -2,9 +2,14 @@
   "id": 655371149,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Wyckoff Pl Franklin Park NJ 08823",
+    "addr:housenumber":"7",
+    "addr:postcode":"08823",
+    "addr:street":"Wyckoff Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.576591,40.447396,-74.576591,40.447396",
     "geom:latitude":40.447396,
     "geom:longitude":-74.576591,
@@ -28,7 +33,14 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976123,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PS9ySWQl66yQSetJpvWfl_40.447396_-74.576591@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461303466,
     "wof:geomhash":"2cfa2baead4228d33bc8af9929aeacef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976123,
+            "region_id":85688607,
+            "venue_id":655371149
+        }
+    ],
     "wof:id":655371149,
-    "wof:lastmodified":1466674684,
+    "wof:lastmodified":1492042942,
     "wof:name":"Cube System Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

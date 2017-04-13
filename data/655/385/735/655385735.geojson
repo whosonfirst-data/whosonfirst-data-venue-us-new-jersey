@@ -2,9 +2,14 @@
   "id": 655385735,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 W Hampton St Pemberton NJ 08068",
+    "addr:housenumber":"195",
+    "addr:postcode":"08068",
+    "addr:street":"W Hampton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.694662,39.968004,-74.694662,39.968004",
     "geom:latitude":39.968004,
     "geom:longitude":-74.694662,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IvUidWJqOo5NKy6tsjEM7_39.968004_-74.694662@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304018,
     "wof:geomhash":"8d2cc24e35c3d37f36e7ae6911ec182f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":655385735
+        }
+    ],
     "wof:id":655385735,
-    "wof:lastmodified":1466675138,
+    "wof:lastmodified":1492045060,
     "wof:name":"Party Bounce",
     "wof:parent_id":420526589,
     "wof:placetype":"venue",

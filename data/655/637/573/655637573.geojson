@@ -2,9 +2,14 @@
   "id": 655637573,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Triangle Plz Ramsey NJ 07446",
+    "addr:housenumber":"110",
+    "addr:postcode":"07446",
+    "addr:street":"Triangle Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.122661,41.060711,-74.122661,41.060711",
     "geom:latitude":41.060711,
     "geom:longitude":-74.122661,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.supercuts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lx3heWy7SbNijVf6vhLA2_41.060711_-74.122661@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314667,
     "wof:geomhash":"b4285cd12c9d4afae916fde25d1ff6d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655637573
+        }
+    ],
     "wof:id":655637573,
-    "wof:lastmodified":1466682493,
+    "wof:lastmodified":1492043633,
     "wof:name":"Supercuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

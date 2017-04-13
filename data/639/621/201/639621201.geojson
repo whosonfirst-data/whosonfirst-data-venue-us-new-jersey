@@ -2,9 +2,14 @@
   "id": 639621201,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 US Hwy 130 Riverside NJ 08075",
+    "addr:housenumber":"2902",
+    "addr:postcode":"08075",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.966052,40.009997,-74.966052,40.009997",
     "geom:latitude":40.009997,
     "geom:longitude":-74.966052,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XKuSyyjiQKeayw9iyGTfM_40.009997_-74.966052@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302545,
     "wof:geomhash":"686843b0986cd37b0ef403e361919c53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639621201
+        }
+    ],
     "wof:id":639621201,
-    "wof:lastmodified":1466697480,
+    "wof:lastmodified":1492020648,
     "wof:name":"Honeymade Gourmet",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

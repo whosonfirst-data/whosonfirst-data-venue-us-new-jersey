@@ -2,9 +2,14 @@
   "id": 639027591,
   "type": "Feature",
   "properties": {
+    "addr:full":"396 US Hwy 206 Branchville NJ 07826",
+    "addr:housenumber":"396",
+    "addr:postcode":"07826",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.781661,41.156371,-74.781661,41.156371",
     "geom:latitude":41.156371,
     "geom:longitude":-74.781661,
@@ -27,7 +32,10 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24pdCmuxH4yWSUiwOjgWNn_41.156371_-74.781661@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285730,
     "wof:geomhash":"f90fc631136f790b0c16df0db9946521",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":639027591
+        }
+    ],
     "wof:id":639027591,
-    "wof:lastmodified":1466673726,
+    "wof:lastmodified":1492075853,
     "wof:name":"Dale's Market",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

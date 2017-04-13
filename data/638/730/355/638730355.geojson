@@ -2,9 +2,14 @@
   "id": 638730355,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Russell Ave Wyckoff NJ 07481",
+    "addr:housenumber":"509",
+    "addr:postcode":"07481",
+    "addr:street":"Russell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.180942,40.996559,-74.180942,40.996559",
     "geom:latitude":40.996559,
     "geom:longitude":-74.180942,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13J1VNlaRnPh4u6JXqU2H6_40.996559_-74.180942@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461278496,
     "wof:geomhash":"35332902015cfd32ad13ebf56db796a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":638730355
+        }
+    ],
     "wof:id":638730355,
-    "wof:lastmodified":1466675464,
+    "wof:lastmodified":1492062246,
     "wof:name":"Kunis Piano Moving",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

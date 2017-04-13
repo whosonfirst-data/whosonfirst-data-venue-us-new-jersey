@@ -2,9 +2,14 @@
   "id": 639082601,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 21st St Irvington NJ 07111",
+    "addr:housenumber":"85",
+    "addr:postcode":"07111",
+    "addr:street":"21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.211583,40.740231,-74.211583,40.740231",
     "geom:latitude":40.740231,
     "geom:longitude":-74.211583,
@@ -27,7 +32,13 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Leje1q0dAy2iosLU450En_40.740231_-74.211583@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286983,
     "wof:geomhash":"bffe31425629281155761cc5759aee99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639082601
+        }
+    ],
     "wof:id":639082601,
-    "wof:lastmodified":1466688674,
+    "wof:lastmodified":1492039805,
     "wof:name":"G N R Taxi Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

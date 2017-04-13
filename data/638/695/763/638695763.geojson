@@ -2,9 +2,14 @@
   "id": 638695763,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W 7th St Plainfield NJ 07060",
+    "addr:housenumber":"501",
+    "addr:postcode":"07060",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.424064,40.609138,-74.424064,40.609138",
     "geom:latitude":40.609138,
     "geom:longitude":-74.424064,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EPw0UN6UZiDPffFZLo1Km_40.609138_-74.424064@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461277387,
     "wof:geomhash":"a5ead7ba0407043d137ac637bb0b7337",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":638695763
+        }
+    ],
     "wof:id":638695763,
-    "wof:lastmodified":1466688434,
+    "wof:lastmodified":1492065347,
     "wof:name":"Rab General Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

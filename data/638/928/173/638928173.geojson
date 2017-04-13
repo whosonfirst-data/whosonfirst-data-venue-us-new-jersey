@@ -2,9 +2,14 @@
   "id": 638928173,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Red Hill Rd Warren NJ 07059",
+    "addr:housenumber":"25",
+    "addr:postcode":"07059",
+    "addr:street":"Red Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535618,40.630196,-74.535618,40.630196",
     "geom:latitude":40.630196,
     "geom:longitude":-74.535618,
@@ -24,7 +29,13 @@
     "sg:postcode":"07059",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85835469,
+        102085045,
+        420527597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y305owVpoteFC2UD8ioUF_40.630196_-74.535618@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461283467,
     "wof:geomhash":"13d4e355963a8fbb79b9b85fa993b77a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85835469,
+            "region_id":85688607,
+            "venue_id":638928173
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527597,
+            "venue_id":638928173
+        }
+    ],
     "wof:id":638928173,
-    "wof:lastmodified":1466690745,
+    "wof:lastmodified":1492024266,
     "wof:name":"Marad Assoc LLC",
-    "wof:parent_id":420527597,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

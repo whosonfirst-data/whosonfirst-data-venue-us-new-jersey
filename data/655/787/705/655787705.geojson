@@ -2,9 +2,14 @@
   "id": 655787705,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Mill St Belvidere NJ 07823",
+    "addr:housenumber":"310",
+    "addr:postcode":"07823",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078153,40.828625,-75.078153,40.828625",
     "geom:latitude":40.828625,
     "geom:longitude":-75.078153,
@@ -32,7 +37,14 @@
         "yoga"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wg0jS4bK0VcgNTf9zc9Ku_40.828625_-75.078153@1303262270"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461320883,
     "wof:geomhash":"6d4a82366c69de5b9c6e0544d1d88ee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655787705
+        }
+    ],
     "wof:id":655787705,
-    "wof:lastmodified":1466686689,
+    "wof:lastmodified":1492048115,
     "wof:name":"For the Soul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

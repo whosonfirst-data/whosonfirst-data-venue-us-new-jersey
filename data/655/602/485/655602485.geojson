@@ -2,9 +2,14 @@
   "id": 655602485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Hilltop Rd Whiting NJ 08759",
+    "addr:housenumber":"3000",
+    "addr:postcode":"08759",
+    "addr:street":"Hilltop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.376239,39.964013,-74.376239,39.964013",
     "geom:latitude":39.964013,
     "geom:longitude":-74.376239,
@@ -33,7 +38,10 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JJQTgXSc1VUjsA1VWlj6y_39.964013_-74.376239@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461313116,
     "wof:geomhash":"1a951c23d1e7093438b9b9f0dbf6809f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527445,
+            "venue_id":655602485
+        }
+    ],
     "wof:id":655602485,
-    "wof:lastmodified":1466681162,
+    "wof:lastmodified":1492045142,
     "wof:name":"Whiteing Healthcare",
     "wof:parent_id":420527445,
     "wof:placetype":"venue",

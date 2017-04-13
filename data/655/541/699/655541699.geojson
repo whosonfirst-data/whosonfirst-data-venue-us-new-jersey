@@ -2,9 +2,14 @@
   "id": 655541699,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 State Rte 70 Marlton NJ 08053",
+    "addr:housenumber":"733",
+    "addr:postcode":"08053",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.88216,39.894177,-74.88216,39.894177",
     "geom:latitude":39.894177,
     "geom:longitude":-74.88216,
@@ -27,7 +32,10 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cGeJOOpAU8xxXK1oZIBQj_39.894177_-74.882160@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310486,
     "wof:geomhash":"d220a283e4aa00e6a035bca8b9adee92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655541699
+        }
+    ],
     "wof:id":655541699,
-    "wof:lastmodified":1466679331,
+    "wof:lastmodified":1492020241,
     "wof:name":"LPS Management Inc",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639171863,
   "type": "Feature",
   "properties": {
+    "addr:full":"87 Weston Rd Somerset NJ 08873",
+    "addr:housenumber":"87",
+    "addr:postcode":"08873",
+    "addr:street":"Weston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.56564,40.520112,-74.56564,40.520112",
     "geom:latitude":40.520112,
     "geom:longitude":-74.56564,
@@ -34,7 +39,10 @@
         85633793,
         85976117,
         102085045,
-        85688607
+        85688607,
+        85857053,
+        404477927,
+        85975513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85833911,
             "region_id":85688607,
             "venue_id":639171863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477927,
+            "locality_id":85975513,
+            "neighbourhood_id":85857053,
+            "region_id":85688607,
+            "venue_id":639171863
         }
     ],
     "wof:id":639171863,
-    "wof:lastmodified":1466684701,
+    "wof:lastmodified":1492049244,
     "wof:name":"R N Engineering Svc",
-    "wof:parent_id":85833911,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

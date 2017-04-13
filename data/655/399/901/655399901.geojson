@@ -2,9 +2,14 @@
   "id": 655399901,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Dogwood Dr Flemington NJ 08822",
+    "addr:housenumber":"19",
+    "addr:postcode":"08822",
+    "addr:street":"Dogwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.915904,40.475431,-74.915904,40.475431",
     "geom:latitude":40.475431,
     "geom:longitude":-74.915904,
@@ -27,7 +32,11 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WtBZ2wtCUEoB1ZGJAUcXF_40.475431_-74.915904@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461304629,
     "wof:geomhash":"5db6b26e418126602b86eaf541597870",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":655399901
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":655399901
+        }
+    ],
     "wof:id":655399901,
-    "wof:lastmodified":1466675644,
+    "wof:lastmodified":1492065264,
     "wof:name":"Jwn Consulting",
-    "wof:parent_id":420527093,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

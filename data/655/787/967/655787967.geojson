@@ -2,9 +2,14 @@
   "id": 655787967,
   "type": "Feature",
   "properties": {
+    "addr:full":"189 County Road 519 Belvidere NJ 07823",
+    "addr:housenumber":"189",
+    "addr:postcode":"07823",
+    "addr:street":"County Road 519",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.082946,40.807252,-75.082946,40.807252",
     "geom:latitude":40.807252,
     "geom:longitude":-75.082946,
@@ -27,7 +32,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JfQNxdCGUrv3tALzCMbRi_40.807252_-75.082946@1303262270"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461320892,
     "wof:geomhash":"04bea10a5da70c1dcf2b137cb3cf1d19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":655787967
+        }
+    ],
     "wof:id":655787967,
-    "wof:lastmodified":1466686759,
+    "wof:lastmodified":1492044067,
     "wof:name":"Pizza Mia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

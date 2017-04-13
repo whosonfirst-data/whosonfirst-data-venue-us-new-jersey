@@ -2,9 +2,14 @@
   "id": 655813355,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Campbell Dr Willingboro NJ 08046",
+    "addr:housenumber":"300",
+    "addr:postcode":"08046",
+    "addr:street":"Campbell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.893032,40.051425,-74.893032,40.051425",
     "geom:latitude":40.051425,
     "geom:longitude":-74.893032,
@@ -27,7 +32,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tXcfn6EmJpowOXWSiMKMf_40.051425_-74.893032@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321961,
     "wof:geomhash":"f875f215a373cba0fe71ad9d5f51b160",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655813355
+        }
+    ],
     "wof:id":655813355,
-    "wof:lastmodified":1466687208,
+    "wof:lastmodified":1492065261,
     "wof:name":"Beauty Connection",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

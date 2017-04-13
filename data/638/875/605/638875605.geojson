@@ -2,9 +2,14 @@
   "id": 638875605,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Hillside Ave Tenafly NJ 07670",
+    "addr:housenumber":"65",
+    "addr:postcode":"07670",
+    "addr:street":"Hillside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959727,40.922517,-73.959727,40.922517",
     "geom:latitude":40.922517,
     "geom:longitude":-73.959727,
@@ -27,7 +32,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39oFtbpv9rPn7BwJkIGOhX_40.922517_-73.959727@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282086,
     "wof:geomhash":"d2cde2745a5d902630369a447fc5624f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":638875605
+        }
+    ],
     "wof:id":638875605,
-    "wof:lastmodified":1466689704,
+    "wof:lastmodified":1492076604,
     "wof:name":"Chris Blake Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

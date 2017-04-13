@@ -2,9 +2,14 @@
   "id": 639467735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 Beech St Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"2609",
+    "addr:postcode":"08742",
+    "addr:street":"Beech St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.077555,40.077234,-74.077555,40.077234",
     "geom:latitude":40.077234,
     "geom:longitude":-74.077555,
@@ -27,7 +32,14 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lvU86XB5RIBtL9GKNvJsG_40.077234_-74.077555@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296098,
     "wof:geomhash":"af44ecee5851499ab2fd0fc24d58df9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639467735
+        }
+    ],
     "wof:id":639467735,
-    "wof:lastmodified":1466694050,
+    "wof:lastmodified":1492053459,
     "wof:name":"Colonial Style Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

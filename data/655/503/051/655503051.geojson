@@ -2,9 +2,14 @@
   "id": 655503051,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"129",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.963765,40.976369,-73.963765,40.976369",
     "geom:latitude":40.976369,
     "geom:longitude":-73.963765,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51LAmybJbHWOKeXqmVqIFD_40.976369_-73.963765@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461308980,
     "wof:geomhash":"2ff62060e1904451bc0a00bd170e3552",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655503051
+        }
+    ],
     "wof:id":655503051,
-    "wof:lastmodified":1466678098,
+    "wof:lastmodified":1492070602,
     "wof:name":"S Gross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

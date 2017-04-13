@@ -2,9 +2,14 @@
   "id": 655511065,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Passaic St Trenton NJ 08618",
+    "addr:housenumber":"24",
+    "addr:postcode":"08618",
+    "addr:street":"Passaic St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.770334,40.223389,-74.770334,40.223389",
     "geom:latitude":40.223389,
     "geom:longitude":-74.770334,
@@ -27,7 +32,14 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MPnLbo85AXTdoHuIDvPFk_40.223389_-74.770334@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309319,
     "wof:geomhash":"dd4ea635de9030d5485fa5cf9e90ad57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655511065
+        }
+    ],
     "wof:id":655511065,
-    "wof:lastmodified":1466678367,
+    "wof:lastmodified":1492045001,
     "wof:name":"Candle Light Lounge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

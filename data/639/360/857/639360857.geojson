@@ -2,9 +2,14 @@
   "id": 639360857,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Commonwealth Ave Newark NJ 07106",
+    "addr:housenumber":"56",
+    "addr:postcode":"07106",
+    "addr:street":"Commonwealth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234058,40.739689,-74.234058,40.739689",
     "geom:latitude":40.739689,
     "geom:longitude":-74.234058,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26B7bfVfV7jCtaY15529PR_40.739689_-74.234058@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293250,
     "wof:geomhash":"a2c6ed3bc175680b67443674bf5861a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639360857
+        }
+    ],
     "wof:id":639360857,
-    "wof:lastmodified":1466692525,
+    "wof:lastmodified":1492042755,
     "wof:name":"Angel Little Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

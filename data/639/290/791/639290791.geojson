@@ -2,9 +2,14 @@
   "id": 639290791,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Sheep Pen Hill Rd Pemberton NJ 08068",
+    "addr:housenumber":"17",
+    "addr:postcode":"08068",
+    "addr:street":"Sheep Pen Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.627005,39.932701,-74.627005,39.932701",
     "geom:latitude":39.932701,
     "geom:longitude":-74.627005,
@@ -27,7 +32,11 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526587,
+        420526681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BzTM9BMOciALvQetOJ7Pb_39.932701_-74.627005@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461291786,
     "wof:geomhash":"1c8be3619584450c631cdbdb85749be2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526587,
+            "venue_id":639290791
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526681,
+            "venue_id":639290791
+        }
+    ],
     "wof:id":639290791,
-    "wof:lastmodified":1466691192,
+    "wof:lastmodified":1492030500,
     "wof:name":"Mustard Seed Learning Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

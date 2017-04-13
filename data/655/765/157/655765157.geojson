@@ -2,9 +2,14 @@
   "id": 655765157,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Canterbury Dr Ramsey NJ 07446",
+    "addr:housenumber":"96",
+    "addr:postcode":"07446",
+    "addr:street":"Canterbury Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135357,41.054301,-74.135357,41.054301",
     "geom:latitude":41.054301,
     "geom:longitude":-74.135357,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aKSLDRt1b7ydMDJZTp6LF_41.054301_-74.135357@1303262264"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319858,
     "wof:geomhash":"cc92cefd78f4a46306527561215de4fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655765157
+        }
+    ],
     "wof:id":655765157,
-    "wof:lastmodified":1466686014,
+    "wof:lastmodified":1492023950,
     "wof:name":"Canterbury Greens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

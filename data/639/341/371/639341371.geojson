@@ -2,9 +2,14 @@
   "id": 639341371,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Chapel View Dr Flemington NJ 08822",
+    "addr:housenumber":"13",
+    "addr:postcode":"08822",
+    "addr:street":"Chapel View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.869399,40.543501,-74.869399,40.543501",
     "geom:latitude":40.543501,
     "geom:longitude":-74.869399,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.famoustrials.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053,
+        85688607,
+        85851989,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v3rNZqx9OWbCpo84yiBFm_40.543501_-74.869399@1294171694"
@@ -33,11 +44,24 @@
     "wof:country":"US",
     "wof:created":1461292838,
     "wof:geomhash":"480558444bccbb8e0f5c42ad2bad2f3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":639341371
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85851989,
+            "region_id":85688607,
+            "venue_id":639341371
+        }
+    ],
     "wof:id":639341371,
-    "wof:lastmodified":1466692294,
+    "wof:lastmodified":1492055984,
     "wof:name":"Famous Trails Theater",
-    "wof:parent_id":420527053,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

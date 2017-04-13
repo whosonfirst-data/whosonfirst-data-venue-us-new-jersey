@@ -2,9 +2,14 @@
   "id": 655827443,
   "type": "Feature",
   "properties": {
+    "addr:full":"4106 Terrace Ave Pennsauken NJ 08109",
+    "addr:housenumber":"4106",
+    "addr:postcode":"08109",
+    "addr:street":"Terrace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.068604,39.945,-75.068604,39.945",
     "geom:latitude":39.945,
     "geom:longitude":-75.068604,
@@ -53,7 +58,14 @@
     ],
     "sg:website":"www.mlchapel.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZfRCk1JXAzc2Ya2Kb6AQs_39.945000_-75.068604@1303262280"
@@ -61,9 +73,19 @@
     "wof:country":"US",
     "wof:created":1461322542,
     "wof:geomhash":"73c8108c66ed8ba8617bdf11ecfdc3e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827443
+        }
+    ],
     "wof:id":655827443,
-    "wof:lastmodified":1466687660,
+    "wof:lastmodified":1492056540,
     "wof:name":"Martin Luther Christian School",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

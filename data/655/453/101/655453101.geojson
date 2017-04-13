@@ -2,9 +2,14 @@
   "id": 655453101,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Poplar Rd Demarest NJ 07627",
+    "addr:housenumber":"13",
+    "addr:postcode":"07627",
+    "addr:street":"Poplar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.950094,40.956414,-73.950094,40.956414",
     "geom:latitude":40.956414,
     "geom:longitude":-73.950094,
@@ -27,7 +32,14 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54LVNyFxNCVCINlWAtj8iI_40.956414_-73.950094@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306831,
     "wof:geomhash":"5d4c26c9632556432b4ae2b99c49d546",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655453101
+        }
+    ],
     "wof:id":655453101,
-    "wof:lastmodified":1466676800,
+    "wof:lastmodified":1492029431,
     "wof:name":"D Storicks Moving Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

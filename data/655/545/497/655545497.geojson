@@ -2,9 +2,14 @@
   "id": 655545497,
   "type": "Feature",
   "properties": {
+    "addr:full":"478 Chestnut St Union NJ 07083",
+    "addr:housenumber":"478",
+    "addr:postcode":"07083",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268892,40.682529,-74.268892,40.682529",
     "geom:latitude":40.682529,
     "geom:longitude":-74.268892,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gX245aeZVvofhg0x7SMsx_40.682529_-74.268892@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310633,
     "wof:geomhash":"978d82323608ef774974c50a81dafae7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":655545497
+        }
+    ],
     "wof:id":655545497,
-    "wof:lastmodified":1466679356,
+    "wof:lastmodified":1492027536,
     "wof:name":"Hi-Q",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

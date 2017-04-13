@@ -2,9 +2,14 @@
   "id": 638677225,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Chester St Fair Lawn NJ 07410",
+    "addr:housenumber":"55",
+    "addr:postcode":"07410",
+    "addr:street":"Chester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1368,40.943288,-74.1368,40.943288",
     "geom:latitude":40.943288,
     "geom:longitude":-74.1368,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N08R0rRBwd5gVY5oiKbrP_40.943288_-74.136800@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461276682,
     "wof:geomhash":"2f261e9b69eff99dc3f2798a6cf49325",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":638677225
+        }
+    ],
     "wof:id":638677225,
-    "wof:lastmodified":1466686093,
+    "wof:lastmodified":1492062242,
     "wof:name":"Old Farm Estates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

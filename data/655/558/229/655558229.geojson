@@ -2,9 +2,14 @@
   "id": 655558229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1390 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1390",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26304,40.703075,-74.26304,40.703075",
     "geom:latitude":40.703075,
     "geom:longitude":-74.26304,
@@ -28,7 +33,10 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m161bMwOmO89ORdCMOx4x_40.703075_-74.263040@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311183,
     "wof:geomhash":"68ca0c03749c3e98d77744a13eb8b84c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655558229
+        }
+    ],
     "wof:id":655558229,
-    "wof:lastmodified":1466679730,
+    "wof:lastmodified":1492069847,
     "wof:name":"American Travel & Cruise Ctr",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655567121,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Milford Ave Whiting NJ 08759",
+    "addr:housenumber":"38",
+    "addr:postcode":"08759",
+    "addr:street":"Milford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.350187,39.962444,-74.350187,39.962444",
     "geom:latitude":39.962444,
     "geom:longitude":-74.350187,
@@ -24,7 +29,14 @@
     "sg:postcode":"08759",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        85976365,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oc6N5gjkkMwcGP1oXjCKB_39.962444_-74.350187@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461311582,
     "wof:geomhash":"9c274baa19c5bb4749858106fef5091d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "locality_id":85976365,
+            "region_id":85688607,
+            "venue_id":655567121
+        }
+    ],
     "wof:id":655567121,
-    "wof:lastmodified":1466679965,
+    "wof:lastmodified":1492053704,
     "wof:name":"Tri State Bus Network Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

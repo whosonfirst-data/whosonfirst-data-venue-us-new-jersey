@@ -2,9 +2,14 @@
   "id": 639587453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"3100",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.686177,40.247602,-74.686177,40.247602",
     "geom:latitude":40.247602,
     "geom:longitude":-74.686177,
@@ -27,7 +32,10 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KreOHYNrTHXbzXgXEzmN7_40.247602_-74.686177@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301223,
     "wof:geomhash":"eb5c1c2622e1736dfc199a584f7c9c5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":639587453
+        }
+    ],
     "wof:id":639587453,
-    "wof:lastmodified":1466696612,
+    "wof:lastmodified":1492047672,
     "wof:name":"Robert Wood Johnson Univ Hosp",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638989923,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Columbia St Elmwood Park NJ 07407",
+    "addr:housenumber":"16",
+    "addr:postcode":"07407",
+    "addr:street":"Columbia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128233,40.921559,-74.128233,40.921559",
     "geom:latitude":40.921559,
     "geom:longitude":-74.128233,
@@ -28,7 +33,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FjjTemmNRQ2ZTzn9I2Rsf_40.921559_-74.128233@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284898,
     "wof:geomhash":"d0312ba78c3f7a47f8e64c82ec21012e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638989923
+        }
+    ],
     "wof:id":638989923,
-    "wof:lastmodified":1466692043,
+    "wof:lastmodified":1492041158,
     "wof:name":"Ric-Ven Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

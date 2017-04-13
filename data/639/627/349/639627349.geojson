@@ -2,9 +2,14 @@
   "id": 639627349,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 Main St Millburn NJ 07041",
+    "addr:housenumber":"277",
+    "addr:postcode":"07041",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.308431,40.714409,-74.308431,40.714409",
     "geom:latitude":40.714409,
     "geom:longitude":-74.308431,
@@ -25,8 +30,11 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526947,
+        85688607,
+        85892417,
+        102085043,
         85834427,
         102085995
     ],
@@ -40,6 +48,18 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639627349
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892417,
+            "region_id":85688607,
+            "venue_id":639627349
+        },
+        {
+            "country_id":85633793,
             "county_id":102085995,
             "neighbourhood_id":85834427,
             "region_id":85688607,
@@ -47,9 +67,9 @@
         }
     ],
     "wof:id":639627349,
-    "wof:lastmodified":1466697535,
+    "wof:lastmodified":1492051132,
     "wof:name":"Flower Expressions",
-    "wof:parent_id":85834427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

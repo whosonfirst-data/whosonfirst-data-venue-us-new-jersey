@@ -2,9 +2,14 @@
   "id": 655530383,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 Van Lieus Rd Ringoes NJ 08551",
+    "addr:housenumber":"58",
+    "addr:postcode":"08551",
+    "addr:street":"Van Lieus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.816097,40.452068,-74.816097,40.452068",
     "geom:latitude":40.452068,
     "geom:longitude":-74.816097,
@@ -29,7 +34,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527071,
+        85688607,
+        85829815,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bSuBa6boa1un77ImSUyCK_40.452068_-74.816097@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461310057,
     "wof:geomhash":"2ce8241abf8e06cc3d42028d081e06ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527071,
+            "venue_id":655530383
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85829815,
+            "region_id":85688607,
+            "venue_id":655530383
+        }
+    ],
     "wof:id":655530383,
-    "wof:lastmodified":1466678985,
+    "wof:lastmodified":1492070361,
     "wof:name":"E V S Design",
-    "wof:parent_id":420527071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655498477,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Willow Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"560",
+    "addr:postcode":"07071",
+    "addr:street":"Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134485,40.810022,-74.134485,40.810022",
     "geom:latitude":40.810022,
     "geom:longitude":-74.134485,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FSdHR3wW9dvCfgjqWvoxz_40.810022_-74.134485@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308773,
     "wof:geomhash":"19f6067b6cbe30d690f2ab68670c567a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655498477
+        }
+    ],
     "wof:id":655498477,
-    "wof:lastmodified":1466678163,
+    "wof:lastmodified":1492023666,
     "wof:name":"Cristo Ny Nj LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

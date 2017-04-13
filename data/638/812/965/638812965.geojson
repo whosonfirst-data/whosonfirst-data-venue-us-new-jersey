@@ -2,9 +2,14 @@
   "id": 638812965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1149 W Front St Plainfield NJ 07063",
+    "addr:housenumber":"1149",
+    "addr:postcode":"07063",
+    "addr:street":"W Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.443018,40.604921,-74.443018,40.604921",
     "geom:latitude":40.604921,
     "geom:longitude":-74.443018,
@@ -29,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hNJWY2vOAdnWbD0URWUvW_40.604921_-74.443018@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461280511,
     "wof:geomhash":"fe8240115226fdf723d559ac61e6e2e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":638812965
+        }
+    ],
     "wof:id":638812965,
-    "wof:lastmodified":1466687258,
+    "wof:lastmodified":1492023633,
     "wof:name":"Jedstock Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

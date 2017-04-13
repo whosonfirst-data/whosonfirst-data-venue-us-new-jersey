@@ -2,9 +2,14 @@
   "id": 639578379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 George St Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"1424",
+    "addr:postcode":"08742",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.062116,40.077656,-74.062116,40.077656",
     "geom:latitude":40.077656,
     "geom:longitude":-74.062116,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UrxhQwubdTnI6clWFeujD_40.077656_-74.062116@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300840,
     "wof:geomhash":"f68f16c245ff73d8732b5dc13c06a0d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639578379
+        }
+    ],
     "wof:id":639578379,
-    "wof:lastmodified":1466696392,
+    "wof:lastmodified":1492056015,
     "wof:name":"Cole Drucquer Custom Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

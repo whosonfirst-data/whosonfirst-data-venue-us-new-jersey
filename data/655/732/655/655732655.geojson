@@ -2,9 +2,14 @@
   "id": 655732655,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 Martin St Rahway NJ 07065",
+    "addr:housenumber":"815",
+    "addr:postcode":"07065",
+    "addr:street":"Martin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.276419,40.596223,-74.276419,40.596223",
     "geom:latitude":40.596223,
     "geom:longitude":-74.276419,
@@ -35,7 +40,14 @@
         "die"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IXtYFX7ErkURX9nYInzLM_40.596223_-74.276419@1303262256"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461318633,
     "wof:geomhash":"607a8f4a6acfc6a5924e690b2005997f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732655
+        }
+    ],
     "wof:id":655732655,
-    "wof:lastmodified":1466685161,
+    "wof:lastmodified":1492039784,
     "wof:name":"Innan Molding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

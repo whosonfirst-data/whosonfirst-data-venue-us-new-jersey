@@ -2,9 +2,14 @@
   "id": 655733465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1119 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1119",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.313004,40.6292,-74.313004,40.6292",
     "geom:latitude":40.6292,
     "geom:longitude":-74.313004,
@@ -28,7 +33,13 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tp9aEOdGiPmy9nVYnawAw_40.629200_-74.313004@1303262257"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461318662,
     "wof:geomhash":"af53815429e4299b25eb88a8c0a6d0dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733465
+        }
+    ],
     "wof:id":655733465,
-    "wof:lastmodified":1466685136,
+    "wof:lastmodified":1492041206,
     "wof:name":"Pecoraro Frank J DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

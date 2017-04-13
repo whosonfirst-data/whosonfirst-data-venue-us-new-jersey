@@ -2,9 +2,14 @@
   "id": 639174729,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Ridge Rd Saddle River NJ 07458",
+    "addr:housenumber":"56",
+    "addr:postcode":"07458",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.089841,41.054742,-74.089841,41.054742",
     "geom:latitude":41.054742,
     "geom:longitude":-74.089841,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kIxQLyr39DL24BuhgxYwK_41.054742_-74.089841@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289071,
     "wof:geomhash":"d8be5a564437a58ceb626849790ec137",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639174729
+        }
+    ],
     "wof:id":639174729,
-    "wof:lastmodified":1466685080,
+    "wof:lastmodified":1492043341,
     "wof:name":"Del Rosario E C MD PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

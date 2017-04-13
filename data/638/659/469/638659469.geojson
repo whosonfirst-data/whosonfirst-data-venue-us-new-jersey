@@ -2,9 +2,14 @@
   "id": 638659469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1175 State Rte 33 Farmingdale NJ 07727",
+    "addr:housenumber":"1175",
+    "addr:postcode":"07727",
+    "addr:street":"State Rte 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.192748,40.226977,-74.192748,40.226977",
     "geom:latitude":40.226977,
     "geom:longitude":-74.192748,
@@ -28,7 +33,10 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27rH3BMoTbhUrcCaiwzPqs_40.226977_-74.192748@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461276115,
     "wof:geomhash":"207751b92a415454d47636f6403dad91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527275,
+            "venue_id":638659469
+        }
+    ],
     "wof:id":638659469,
-    "wof:lastmodified":1466674066,
+    "wof:lastmodified":1492018847,
     "wof:name":"Citgo",
     "wof:parent_id":420527275,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638769171,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Highland Ridge Rd Englishtown NJ 07726",
+    "addr:housenumber":"101",
+    "addr:postcode":"07726",
+    "addr:street":"Highland Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.353496,40.229404,-74.353496,40.229404",
     "geom:latitude":40.229404,
     "geom:longitude":-74.353496,
@@ -33,7 +38,10 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24sm80hZyIpQyxZdWZOsU0_40.229404_-74.353496@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461279533,
     "wof:geomhash":"cab4d089bf6183fbac7443a53dc51623",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527293,
+            "venue_id":638769171
+        }
+    ],
     "wof:id":638769171,
-    "wof:lastmodified":1466680921,
+    "wof:lastmodified":1492027276,
     "wof:name":"Hall Harrison & Johnson Assoc",
     "wof:parent_id":420527293,
     "wof:placetype":"venue",

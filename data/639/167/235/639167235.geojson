@@ -2,9 +2,14 @@
   "id": 639167235,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Ridgewood Rd Wall Township NJ 07719",
+    "addr:housenumber":"2601",
+    "addr:postcode":"07719",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.093972,40.145457,-74.093972,40.145457",
     "geom:latitude":40.145457,
     "geom:longitude":-74.093972,
@@ -30,7 +35,12 @@
     ],
     "sg:website":"www.plasti-clad.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85806415,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1etsIARbTb5ZlZExx0b6U4_40.145457_-74.093972@1294171694"
@@ -38,11 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288904,
     "wof:geomhash":"2194bd5940990f519f83cfda708ad2f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85806415,
+            "region_id":85688607,
+            "venue_id":639167235
+        }
+    ],
     "wof:id":639167235,
-    "wof:lastmodified":1466684099,
+    "wof:lastmodified":1492051536,
     "wof:name":"Plasti-Clad Metal Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

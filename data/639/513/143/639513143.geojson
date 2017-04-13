@@ -2,9 +2,14 @@
   "id": 639513143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1153 S Orange Ave Newark NJ 07106",
+    "addr:housenumber":"1153",
+    "addr:postcode":"07106",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236564,40.745551,-74.236564,40.745551",
     "geom:latitude":40.745551,
     "geom:longitude":-74.236564,
@@ -27,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tk7EJA4hcp4j2KeLnD4EP_40.745551_-74.236564@1294171694"
@@ -35,11 +46,20 @@
     "wof:country":"US",
     "wof:created":1461297989,
     "wof:geomhash":"054340082e85799b0e21afe593f1281b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639513143
+        }
+    ],
     "wof:id":639513143,
-    "wof:lastmodified":1466695193,
+    "wof:lastmodified":1491938453,
     "wof:name":"Kysoki Liquors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

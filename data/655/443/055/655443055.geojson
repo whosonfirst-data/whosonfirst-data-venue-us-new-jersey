@@ -2,9 +2,14 @@
   "id": 655443055,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Zeller Dr Somerset NJ 08873",
+    "addr:housenumber":"10",
+    "addr:postcode":"08873",
+    "addr:street":"Zeller Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.553535,40.489445,-74.553535,40.489445",
     "geom:latitude":40.489445,
     "geom:longitude":-74.553535,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85833911,
+        102191575,
+        404477923,
         85633793,
-        85976115,
+        85976117,
         102085045,
+        85688607,
+        85976115,
         85806329
     ],
     "wof:breaches":[],
@@ -40,6 +49,16 @@
     "wof:geomhash":"11113d0936dd9861c8fb075797e988f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976117,
+            "neighbourhood_id":85833911,
+            "region_id":85688607,
+            "venue_id":655443055
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "locality_id":85976115,
@@ -49,9 +68,9 @@
         }
     ],
     "wof:id":655443055,
-    "wof:lastmodified":1466676525,
+    "wof:lastmodified":1492024188,
     "wof:name":"Consumer Insurance Consultants",
-    "wof:parent_id":85806329,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

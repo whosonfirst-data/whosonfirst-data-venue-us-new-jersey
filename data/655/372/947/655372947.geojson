@@ -2,9 +2,14 @@
   "id": 655372947,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Columbia Ave Hopewell NJ 08525",
+    "addr:housenumber":"69",
+    "addr:postcode":"08525",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.752926,40.390375,-74.752926,40.390375",
     "geom:latitude":40.390375,
     "geom:longitude":-74.752926,
@@ -24,7 +29,14 @@
     "sg:postcode":"08525",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fpbctp4EyXidzeC5zlTGt_40.390375_-74.752926@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461303537,
     "wof:geomhash":"312d5321b36677f2a592d2ce534a3e8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":655372947
+        }
+    ],
     "wof:id":655372947,
-    "wof:lastmodified":1466674915,
+    "wof:lastmodified":1492029460,
     "wof:name":"Davis William S Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

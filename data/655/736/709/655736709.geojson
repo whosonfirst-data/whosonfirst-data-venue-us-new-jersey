@@ -2,9 +2,14 @@
   "id": 655736709,
   "type": "Feature",
   "properties": {
+    "addr:full":"852 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"852",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134078,40.80309,-74.134078,40.80309",
     "geom:latitude":40.80309,
     "geom:longitude":-74.134078,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.delta.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rp208ZSn5wyoNsuUZd3j8_40.803090_-74.134078@1303262257"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461318799,
     "wof:geomhash":"05661f672c3412029ec959633d5229a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655736709
+        }
+    ],
     "wof:id":655736709,
-    "wof:lastmodified":1466685377,
+    "wof:lastmodified":1492025484,
     "wof:name":"Delta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

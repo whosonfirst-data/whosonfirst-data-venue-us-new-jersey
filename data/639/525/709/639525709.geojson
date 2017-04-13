@@ -2,9 +2,14 @@
   "id": 639525709,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Washington Ave Carteret NJ 07008",
+    "addr:housenumber":"222",
+    "addr:postcode":"07008",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226558,40.581894,-74.226558,40.581894",
     "geom:latitude":40.581894,
     "geom:longitude":-74.226558,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YsBTViKXSK2w9IyyLszIV_40.581894_-74.226558@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298606,
     "wof:geomhash":"792d74bb410edb457af3d1e66667efb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":639525709
+        }
+    ],
     "wof:id":639525709,
-    "wof:lastmodified":1466695269,
+    "wof:lastmodified":1492042312,
     "wof:name":"Kaplan Carteret LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638896561,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"17",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148257,41.104422,-74.148257,41.104422",
     "geom:latitude":41.104422,
     "geom:longitude":-74.148257,
@@ -28,7 +33,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70VAveBu60ugVZxcipAcZa_41.104422_-74.148257@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282660,
     "wof:geomhash":"d457147e368a400e0353203748b5b6c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638896561
+        }
+    ],
     "wof:id":638896561,
-    "wof:lastmodified":1466690016,
+    "wof:lastmodified":1492053452,
     "wof:name":"Hudson Mahwah Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

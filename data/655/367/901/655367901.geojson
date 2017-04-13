@@ -2,9 +2,14 @@
   "id": 655367901,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 E Main St Somerville NJ 08876",
+    "addr:housenumber":"265",
+    "addr:postcode":"08876",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.600236,40.56575,-74.600236,40.56575",
     "geom:latitude":40.56575,
     "geom:longitude":-74.600236,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810873,
+        85822833,
         102191575,
         404477917,
         85633793,
-        85976131,
+        85976133,
         102085045,
-        85688607
+        85688607,
+        85810873,
+        85976131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +58,16 @@
             "country_id":85633793,
             "county_id":102085045,
             "localadmin_id":404477917,
+            "locality_id":85976133,
+            "neighbourhood_id":85822833,
+            "region_id":85688607,
+            "venue_id":655367901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
             "locality_id":85976131,
             "neighbourhood_id":85810873,
             "region_id":85688607,
@@ -58,9 +75,9 @@
         }
     ],
     "wof:id":655367901,
-    "wof:lastmodified":1466674695,
+    "wof:lastmodified":1492061674,
     "wof:name":"Art-4-All Inc",
-    "wof:parent_id":85810873,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

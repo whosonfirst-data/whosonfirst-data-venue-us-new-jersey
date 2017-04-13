@@ -2,9 +2,14 @@
   "id": 655683253,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Central Ave Burlington NJ 08016",
+    "addr:housenumber":"5",
+    "addr:postcode":"08016",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8759,40.067402,-74.8759,40.067402",
     "geom:latitude":40.067402,
     "geom:longitude":-74.8759,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x69tYCOWVvGIe7QUfgpZo_40.067593_-74.875830@1293134755"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316554,
     "wof:geomhash":"e42074476cf6ba58a7b4f90a281e2bee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655683253
+        }
+    ],
     "wof:id":655683253,
-    "wof:lastmodified":1466683777,
+    "wof:lastmodified":1492028407,
     "wof:name":"B-G Construction",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

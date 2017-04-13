@@ -2,9 +2,14 @@
   "id": 639008465,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Water St Lebanon NJ 08833",
+    "addr:housenumber":"40",
+    "addr:postcode":"08833",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.826925,40.689774,-74.826925,40.689774",
     "geom:latitude":40.689774,
     "geom:longitude":-74.826925,
@@ -27,7 +32,11 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101,
+        420527129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02J68j2EEJkls7rmh3F6x8_40.689774_-74.826925@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461285286,
     "wof:geomhash":"a5de39c8af81d1f15dfc19ada6db29f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":639008465
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527129,
+            "venue_id":639008465
+        }
+    ],
     "wof:id":639008465,
-    "wof:lastmodified":1466673235,
+    "wof:lastmodified":1492030682,
     "wof:name":"Woodstone Builders Ltd",
-    "wof:parent_id":420527101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

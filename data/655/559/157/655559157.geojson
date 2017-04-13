@@ -2,9 +2,14 @@
   "id": 655559157,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Fairview Rd Frenchtown NJ 08825",
+    "addr:housenumber":"40",
+    "addr:postcode":"08825",
+    "addr:street":"Fairview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03382,40.494463,-75.03382,40.494463",
     "geom:latitude":40.494463,
     "geom:longitude":-75.03382,
@@ -28,7 +33,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f1lU8p1GHvMusJXAp4hRM_40.494463_-75.033820@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461311230,
     "wof:geomhash":"0f6f65586b1c9d983f012b30d79d6c75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":655559157
+        }
+    ],
     "wof:id":655559157,
-    "wof:lastmodified":1466679714,
+    "wof:lastmodified":1492053582,
     "wof:name":"Demarc Technology Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

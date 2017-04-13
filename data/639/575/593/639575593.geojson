@@ -2,9 +2,14 @@
   "id": 639575593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Polkville Rd Columbia NJ 07832",
+    "addr:housenumber":"3",
+    "addr:postcode":"07832",
+    "addr:street":"Polkville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.020808,40.960046,-75.020808,40.960046",
     "geom:latitude":40.960046,
     "geom:longitude":-75.020808,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527765,
+        85688607,
         85976447,
         102083873,
         85823511
@@ -41,6 +47,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":639575593
+        },
+        {
+            "country_id":85633793,
             "county_id":102083873,
             "locality_id":85976447,
             "neighbourhood_id":85823511,
@@ -49,9 +60,9 @@
         }
     ],
     "wof:id":639575593,
-    "wof:lastmodified":1466696371,
+    "wof:lastmodified":1492024589,
     "wof:name":"Landi Tony Horseshoer",
-    "wof:parent_id":85823511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

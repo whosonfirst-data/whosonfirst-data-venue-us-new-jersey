@@ -2,9 +2,14 @@
   "id": 655833061,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Butterfly Rd Jackson NJ 08527",
+    "addr:housenumber":"360",
+    "addr:postcode":"08527",
+    "addr:street":"Butterfly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297558,40.098742,-74.297558,40.098742",
     "geom:latitude":40.098742,
     "geom:longitude":-74.297558,
@@ -34,7 +39,13 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eCa0ihGM2ILAeHN5hnh0k_40.098742_-74.297558@1303262281"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461322789,
     "wof:geomhash":"ab5a5610c8b35871b9b308019ebffacf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655833061
+        }
+    ],
     "wof:id":655833061,
-    "wof:lastmodified":1466687655,
+    "wof:lastmodified":1492070967,
     "wof:name":"Butterfly Camping Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

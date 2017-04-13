@@ -2,9 +2,14 @@
   "id": 655534105,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 State Rte 156 Yardville NJ 08620",
+    "addr:housenumber":"69",
+    "addr:postcode":"08620",
+    "addr:street":"State Rte 156",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.673482,40.177215,-74.673482,40.177215",
     "geom:latitude":40.177215,
     "geom:longitude":-74.673482,
@@ -24,7 +29,15 @@
     "sg:postcode":"08620",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85859321,
+        102191575,
+        404478251,
+        85633793,
+        85976391,
+        102081129,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E7BHcWvXWsSUPJuF1vpp5_40.177215_-74.673482@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461310205,
     "wof:geomhash":"f4a4adae5f16f14bf4396921c3d74cd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976391,
+            "neighbourhood_id":85859321,
+            "region_id":85688607,
+            "venue_id":655534105
+        }
+    ],
     "wof:id":655534105,
-    "wof:lastmodified":1466678973,
+    "wof:lastmodified":1492045002,
     "wof:name":"Take It Easy Bar & Liquor Str",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

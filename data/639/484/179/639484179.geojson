@@ -2,9 +2,14 @@
   "id": 639484179,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Harrington Ave Closter NJ 07624",
+    "addr:housenumber":"304",
+    "addr:postcode":"07624",
+    "addr:street":"Harrington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.964259,40.974522,-73.964259,40.974522",
     "geom:latitude":40.974522,
     "geom:longitude":-73.964259,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bwhazISIvhkYD8bM0VgyI_40.974522_-73.964259@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296780,
     "wof:geomhash":"52d10dce941673606a9ae534714bbd25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639484179
+        }
+    ],
     "wof:id":639484179,
-    "wof:lastmodified":1466694322,
+    "wof:lastmodified":1492050889,
     "wof:name":"En-Tech Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

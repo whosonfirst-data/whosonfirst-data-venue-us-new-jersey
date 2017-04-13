@@ -2,9 +2,14 @@
   "id": 639198223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 Suckle Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"1505",
+    "addr:postcode":"08110",
+    "addr:street":"Suckle Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039712,39.979435,-75.039712,39.979435",
     "geom:latitude":39.979435,
     "geom:longitude":-75.039712,
@@ -30,7 +35,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w99VDQWjBMi0VuNzA9vY7_39.979435_-75.039712@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461289591,
     "wof:geomhash":"9dfe87165eba8f2189d98d250811c479",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":639198223
+        }
+    ],
     "wof:id":639198223,
-    "wof:lastmodified":1466688307,
+    "wof:lastmodified":1492062038,
     "wof:name":"House of Gold Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

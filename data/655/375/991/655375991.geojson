@@ -2,9 +2,14 @@
   "id": 655375991,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 State Rte 94 Newton NJ 07860",
+    "addr:housenumber":"418",
+    "addr:postcode":"07860",
+    "addr:street":"State Rte 94",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800417,41.042722,-74.800417,41.042722",
     "geom:latitude":41.042722,
     "geom:longitude":-74.800417,
@@ -29,7 +34,10 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DzmDa0TyiG9zGrPpPX9EV_41.042722_-74.800417@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461303660,
     "wof:geomhash":"1f504d6a9aaa9bbd4ca0244fc62b03c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655375991
+        }
+    ],
     "wof:id":655375991,
-    "wof:lastmodified":1466674941,
+    "wof:lastmodified":1492060499,
     "wof:name":"Amerigas",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

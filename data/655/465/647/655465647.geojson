@@ -2,9 +2,14 @@
   "id": 655465647,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Mantoloking Rd Brick NJ 08723",
+    "addr:housenumber":"435",
+    "addr:postcode":"08723",
+    "addr:street":"Mantoloking Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.093875,40.045292,-74.093875,40.045292",
     "geom:latitude":40.045292,
     "geom:longitude":-74.093875,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85839887,
-        102081485
+        102081485,
+        85802435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85839887,
             "region_id":85688607,
             "venue_id":655465647
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85802435,
+            "region_id":85688607,
+            "venue_id":655465647
         }
     ],
     "wof:id":655465647,
-    "wof:lastmodified":1466677207,
+    "wof:lastmodified":1492022698,
     "wof:name":"Beacon Homes Of New Jersey",
-    "wof:parent_id":85839887,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

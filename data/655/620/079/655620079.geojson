@@ -2,9 +2,14 @@
   "id": 655620079,
   "type": "Feature",
   "properties": {
+    "addr:full":"556 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"556",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989055,40.823389,-73.989055,40.823389",
     "geom:latitude":40.823389,
     "geom:longitude":-73.989055,
@@ -27,7 +32,14 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VCSM9nMXcFhqc9zrJCIOv_40.823389_-73.989055@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313891,
     "wof:geomhash":"9eddc21362dc9b2f55628dab9a78b183",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655620079
+        }
+    ],
     "wof:id":655620079,
-    "wof:lastmodified":1466681680,
+    "wof:lastmodified":1492070836,
     "wof:name":"Prime Food Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

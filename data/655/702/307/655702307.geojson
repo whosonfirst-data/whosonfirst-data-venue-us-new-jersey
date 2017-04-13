@@ -2,9 +2,14 @@
   "id": 655702307,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 W Greenbrook Rd North Caldwell NJ 07006",
+    "addr:housenumber":"65",
+    "addr:postcode":"07006",
+    "addr:street":"W Greenbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260201,40.875999,-74.260201,40.875999",
     "geom:latitude":40.875999,
     "geom:longitude":-74.260201,
@@ -29,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bohbnfd0VgW3pVrh9zyZK_40.875999_-74.260201@1303262249"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461317471,
     "wof:geomhash":"68650df4e0077f7b9d11e27a9e6170cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":655702307
+        }
+    ],
     "wof:id":655702307,
-    "wof:lastmodified":1466684289,
+    "wof:lastmodified":1492041307,
     "wof:name":"Roseland Borough of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

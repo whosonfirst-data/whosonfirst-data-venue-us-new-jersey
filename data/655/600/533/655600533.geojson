@@ -2,9 +2,14 @@
   "id": 655600533,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Alexander St Princeton NJ 08540",
+    "addr:housenumber":"350",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.653461,40.332325,-74.653461,40.332325",
     "geom:latitude":40.332325,
     "geom:longitude":-74.653461,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CVboXwYt0vjwRARof5bpO_40.332325_-74.653461@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461313034,
     "wof:geomhash":"a3037ac6c38cf8579a0529b449927061",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655600533
+        }
+    ],
     "wof:id":655600533,
-    "wof:lastmodified":1466681082,
+    "wof:lastmodified":1492049456,
     "wof:name":"Gordon C Strauss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

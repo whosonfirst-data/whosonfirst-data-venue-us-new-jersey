@@ -2,9 +2,14 @@
   "id": 655601851,
   "type": "Feature",
   "properties": {
+    "addr:full":"573 Cranbury Rd East Brunswick NJ 08816",
+    "addr:housenumber":"573",
+    "addr:postcode":"08816",
+    "addr:street":"Cranbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.419444,40.410538,-74.419444,40.410538",
     "geom:latitude":40.410538,
     "geom:longitude":-74.419444,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hVe751ccMAHFuBnSmS0Xc_40.410538_-74.419444@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313084,
     "wof:geomhash":"5272a6d9ed8c998299f74010c7094507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527203,
+            "venue_id":655601851
+        }
+    ],
     "wof:id":655601851,
-    "wof:lastmodified":1466681223,
+    "wof:lastmodified":1492045282,
     "wof:name":"N J Dentistry",
     "wof:parent_id":420527203,
     "wof:placetype":"venue",

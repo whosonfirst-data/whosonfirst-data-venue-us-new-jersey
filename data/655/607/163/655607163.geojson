@@ -2,9 +2,14 @@
   "id": 655607163,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Emerald Ln Willingboro NJ 08046",
+    "addr:housenumber":"51",
+    "addr:postcode":"08046",
+    "addr:street":"Emerald Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.870805,40.022578,-74.870805,40.022578",
     "geom:latitude":40.022578,
     "geom:longitude":-74.870805,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rhh7gRtmJp9HaFVDLkZ9u_40.022578_-74.870805@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313309,
     "wof:geomhash":"2afedb6ed22c9e0ed56be7b657f6a78e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":655607163
+        }
+    ],
     "wof:id":655607163,
-    "wof:lastmodified":1466681338,
+    "wof:lastmodified":1492048508,
     "wof:name":"Diamond Builders",
     "wof:parent_id":420526697,
     "wof:placetype":"venue",

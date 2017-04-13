@@ -2,9 +2,14 @@
   "id": 655789811,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Mill St Ste 3B Newton NJ 07860",
+    "addr:housenumber":"55",
+    "addr:postcode":"07860",
+    "addr:street":"Mill St Ste 3B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.755708,41.061696,-74.755708,41.061696",
     "geom:latitude":41.061696,
     "geom:longitude":-74.755708,
@@ -32,7 +37,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3in2dwsFgVfmCUB5ON1shP_41.061696_-74.755708@1303262270"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461320971,
     "wof:geomhash":"bd4bf37e54636ef13368a209e1a035c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789811
+        }
+    ],
     "wof:id":655789811,
-    "wof:lastmodified":1466686726,
+    "wof:lastmodified":1492070866,
     "wof:name":"Tailwaggers Boutique",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

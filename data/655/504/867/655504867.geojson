@@ -2,9 +2,14 @@
   "id": 655504867,
   "type": "Feature",
   "properties": {
+    "addr:full":"3016 Carman St Camden NJ 08105",
+    "addr:housenumber":"3016",
+    "addr:postcode":"08105",
+    "addr:street":"Carman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080861,39.946179,-75.080861,39.946179",
     "geom:latitude":39.946179,
     "geom:longitude":-75.080861,
@@ -27,7 +32,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45INHOcdjt4RZ4Bi3suCnD_39.946179_-75.080861@1294171694"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1461309054,
     "wof:geomhash":"26bc04ba713da9e857a3bc4fdafc2f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655504867
+        }
+    ],
     "wof:id":655504867,
-    "wof:lastmodified":1466678314,
+    "wof:lastmodified":1492045154,
     "wof:name":"Espinal Auto Repair",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

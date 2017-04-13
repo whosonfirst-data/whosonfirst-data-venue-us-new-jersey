@@ -2,9 +2,14 @@
   "id": 655389091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1777 Hamburg Tpke Wayne NJ 07470",
+    "addr:housenumber":"1777",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262812,40.971627,-74.262812,40.971627",
     "geom:latitude":40.971627,
     "geom:longitude":-74.262812,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_516b8t8VJxv3EiVsoQOXCz_40.971627_-74.262812@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304168,
     "wof:geomhash":"f6e0ed85ecf7b490dd89d92396af572f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655389091
+        }
+    ],
     "wof:id":655389091,
-    "wof:lastmodified":1466675169,
+    "wof:lastmodified":1492051022,
     "wof:name":"Percival Caballero MD",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

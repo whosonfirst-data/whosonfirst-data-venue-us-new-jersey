@@ -2,9 +2,14 @@
   "id": 655482171,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Fairfield Ave Little Falls NJ 07424",
+    "addr:housenumber":"6",
+    "addr:postcode":"07424",
+    "addr:street":"Fairfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243719,40.887525,-74.243719,40.887525",
     "geom:latitude":40.887525,
     "geom:longitude":-74.243719,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M8SzOZlpHdvDPkMzbFOcW_40.887525_-74.243719@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461308095,
     "wof:geomhash":"a58abcb077d61d4f28963157f5b3eab7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":655482171
+        }
+    ],
     "wof:id":655482171,
-    "wof:lastmodified":1466677607,
+    "wof:lastmodified":1492025108,
     "wof:name":"Regal Maintenance Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

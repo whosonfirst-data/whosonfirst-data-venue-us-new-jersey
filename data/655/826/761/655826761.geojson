@@ -2,9 +2,14 @@
   "id": 655826761,
   "type": "Feature",
   "properties": {
+    "addr:full":"4414 Garfield Ave Pennsauken NJ 08109",
+    "addr:housenumber":"4414",
+    "addr:postcode":"08109",
+    "addr:street":"Garfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.066654,39.942231,-75.066654,39.942231",
     "geom:latitude":39.942231,
     "geom:longitude":-75.066654,
@@ -28,7 +33,14 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RbVTUzw6Op00jyVYRJWFr_39.942231_-75.066654@1303262280"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322516,
     "wof:geomhash":"f560967399b3095b5586867a74c2ac26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655826761
+        }
+    ],
     "wof:id":655826761,
-    "wof:lastmodified":1466687743,
+    "wof:lastmodified":1492056539,
     "wof:name":"Ej Investigations",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

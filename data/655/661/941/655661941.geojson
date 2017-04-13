@@ -2,9 +2,14 @@
   "id": 655661941,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Scotch Rd Ewing NJ 08628",
+    "addr:housenumber":"360",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.811286,40.285947,-74.811286,40.285947",
     "geom:latitude":40.285947,
     "geom:longitude":-74.811286,
@@ -26,8 +31,9 @@
     "sg:website":"http://marriott.com/TTNET",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527147,
+        85688607,
         85802957,
         102081129
     ],
@@ -41,6 +47,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655661941
+        },
+        {
+            "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85802957,
             "region_id":85688607,
@@ -48,9 +59,9 @@
         }
     ],
     "wof:id":655661941,
-    "wof:lastmodified":1466683379,
+    "wof:lastmodified":1492048510,
     "wof:name":"Courtyard Ewing Hopewell",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

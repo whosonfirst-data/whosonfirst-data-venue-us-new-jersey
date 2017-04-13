@@ -2,9 +2,14 @@
   "id": 655833489,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 Fairway Dr Princeton NJ 08540",
+    "addr:housenumber":"141",
+    "addr:postcode":"08540",
+    "addr:street":"Fairway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.698481,40.349946,-74.698481,40.349946",
     "geom:latitude":40.349946,
     "geom:longitude":-74.698481,
@@ -34,7 +39,13 @@
         "wallcoverings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_433Yx2bN19FJxxBnTsA4rl_40.349946_-74.698481@1303262281"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461322804,
     "wof:geomhash":"fba39fbcfe3f49abf81c3729c068be91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655833489
+        }
+    ],
     "wof:id":655833489,
-    "wof:lastmodified":1466687768,
+    "wof:lastmodified":1492083444,
     "wof:name":"Mythic Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

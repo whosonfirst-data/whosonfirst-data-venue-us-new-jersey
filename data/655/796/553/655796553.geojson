@@ -2,9 +2,14 @@
   "id": 655796553,
   "type": "Feature",
   "properties": {
+    "addr:full":"389 State Route 10 East Hanover NJ 07936",
+    "addr:housenumber":"389",
+    "addr:postcode":"07936",
+    "addr:street":"State Route 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.362701,40.802799,-74.362701,40.802799",
     "geom:latitude":40.802799,
     "geom:longitude":-74.362701,
@@ -34,7 +39,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478309,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E7kpdfxxwJxBPnWwTma7F_40.802799_-74.362701@1303262272"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461321230,
     "wof:geomhash":"9d3e1221a70d2b703f4049df9d227acb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478309,
+            "region_id":85688607,
+            "venue_id":655796553
+        }
+    ],
     "wof:id":655796553,
-    "wof:lastmodified":1466686905,
+    "wof:lastmodified":1492052189,
     "wof:name":"Charm House Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

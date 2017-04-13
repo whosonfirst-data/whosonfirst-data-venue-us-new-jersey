@@ -2,9 +2,14 @@
   "id": 655762263,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 Main St Little Falls NJ 07424",
+    "addr:housenumber":"618",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249293,40.883112,-74.249293,40.883112",
     "geom:latitude":40.883112,
     "geom:longitude":-74.249293,
@@ -33,7 +38,14 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51pJOigSDq6IpJuwLKkd3s_40.883112_-74.249293@1303262264"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461319741,
     "wof:geomhash":"c27153ac09d5a0bde5d2d51a018d294b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":655762263
+        }
+    ],
     "wof:id":655762263,
-    "wof:lastmodified":1466685838,
+    "wof:lastmodified":1492025161,
     "wof:name":"West Paterson A & A Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

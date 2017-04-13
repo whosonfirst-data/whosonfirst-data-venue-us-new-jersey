@@ -2,9 +2,14 @@
   "id": 655676053,
   "type": "Feature",
   "properties": {
+    "addr:full":"192 Southern Blvd Chatham NJ 07928",
+    "addr:housenumber":"192",
+    "addr:postcode":"07928",
+    "addr:street":"Southern Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.41423,40.729986,-74.41423,40.729986",
     "geom:latitude":40.729986,
     "geom:longitude":-74.41423,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54UDF7NCATwzJtMg9QhskB_40.729982_-74.414275@1293134755"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461316262,
     "wof:geomhash":"9f3925520fdc16308174bf6fa669ecf9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":655676053
+        }
+    ],
     "wof:id":655676053,
-    "wof:lastmodified":1466683634,
+    "wof:lastmodified":1492057933,
     "wof:name":"Work Family Connection the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655406551,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Federal Ave Kenilworth NJ 07033",
+    "addr:housenumber":"720",
+    "addr:postcode":"07033",
+    "addr:street":"Federal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287326,40.678577,-74.287326,40.678577",
     "geom:latitude":40.678577,
     "geom:longitude":-74.287326,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892525,
+        102085995,
         85802619,
         102191575,
-        404477587,
-        85633793,
-        85975833,
-        102085995,
-        85688607
+        404478515,
+        85975831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,20 +52,27 @@
     "wof:geomhash":"46d8a79fc6cec0dde17ba2190cc9d7e7",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892525,
+            "region_id":85688607,
+            "venue_id":655406551
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085995,
-            "localadmin_id":404477587,
-            "locality_id":85975833,
+            "localadmin_id":404478515,
+            "locality_id":85975831,
             "neighbourhood_id":85802619,
             "region_id":85688607,
             "venue_id":655406551
         }
     ],
     "wof:id":655406551,
-    "wof:lastmodified":1466675612,
+    "wof:lastmodified":1492050927,
     "wof:name":"Jo Barb Inc",
-    "wof:parent_id":85802619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

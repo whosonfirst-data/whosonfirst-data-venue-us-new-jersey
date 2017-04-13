@@ -2,9 +2,14 @@
   "id": 639467821,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Walter Dr Jackson NJ 08527",
+    "addr:housenumber":"40",
+    "addr:postcode":"08527",
+    "addr:street":"Walter Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.365079,40.109417,-74.365079,40.109417",
     "geom:latitude":40.109417,
     "geom:longitude":-74.365079,
@@ -27,7 +32,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QbqossJy9clQmC03ZUMUN_40.109417_-74.365079@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296101,
     "wof:geomhash":"7486b77508f8b718c03acfbb80324ae3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527441,
+            "venue_id":639467821
+        }
+    ],
     "wof:id":639467821,
-    "wof:lastmodified":1466694195,
+    "wof:lastmodified":1492042706,
     "wof:name":"Kelley Electrical Contractors",
     "wof:parent_id":420527441,
     "wof:placetype":"venue",

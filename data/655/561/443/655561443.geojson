@@ -2,9 +2,14 @@
   "id": 655561443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1613 Union Ave Union NJ 07083",
+    "addr:housenumber":"1613",
+    "addr:postcode":"07083",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249784,40.705917,-74.249784,40.705917",
     "geom:latitude":40.705917,
     "geom:longitude":-74.249784,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CDEfrKIrswn4yrB52icW6_40.705917_-74.249784@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311336,
     "wof:geomhash":"0aa8bd3234aafed1251fda13f0d03b47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655561443
+        }
+    ],
     "wof:id":655561443,
-    "wof:lastmodified":1466679791,
+    "wof:lastmodified":1492020491,
     "wof:name":"Joint Meeting",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

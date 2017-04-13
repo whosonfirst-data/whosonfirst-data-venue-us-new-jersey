@@ -2,9 +2,14 @@
   "id": 655732643,
   "type": "Feature",
   "properties": {
+    "addr:full":"970-J New Brunswick Ave Rahway NJ 07065",
+    "addr:housenumber":"970-j",
+    "addr:postcode":"07065",
+    "addr:street":"New Brunswick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2807,40.6014,-74.2807,40.6014",
     "geom:latitude":40.6014,
     "geom:longitude":-74.2807,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.laflat.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nd7rYb54YVwkkXSBr6X7I_40.601400_-74.280700@1303262256"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461318633,
     "wof:geomhash":"1b740be74cf12ef1a8642b6fef80ca38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732643
+        }
+    ],
     "wof:id":655732643,
-    "wof:lastmodified":1466685158,
+    "wof:lastmodified":1492041344,
     "wof:name":"LaFlat Modern Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

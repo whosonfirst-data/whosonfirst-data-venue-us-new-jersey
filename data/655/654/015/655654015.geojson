@@ -2,9 +2,14 @@
   "id": 655654015,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 W Lincoln Ave Atlantic Highlands NJ 07716",
+    "addr:housenumber":"21",
+    "addr:postcode":"07716",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.039624,40.411062,-74.039624,40.411062",
     "geom:latitude":40.411062,
     "geom:longitude":-74.039624,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00DTwdniLU91pXCN2k93hF_40.411062_-74.039624@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461315335,
     "wof:geomhash":"ffdd943510fcf7ba743dfb9dda4146a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655654015
+        }
+    ],
     "wof:id":655654015,
-    "wof:lastmodified":1466682795,
+    "wof:lastmodified":1492027662,
     "wof:name":"Highlands Associates",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

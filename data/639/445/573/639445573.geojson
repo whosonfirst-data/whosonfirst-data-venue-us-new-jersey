@@ -2,9 +2,14 @@
   "id": 639445573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 New Albany Rd Cinnaminson NJ 08077",
+    "addr:housenumber":"2101",
+    "addr:postcode":"08077",
+    "addr:street":"New Albany Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.973168,40.007171,-74.973168,40.007171",
     "geom:latitude":40.007171,
     "geom:longitude":-74.973168,
@@ -34,7 +39,15 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675,
+        420526691,
+        102191575,
+        404477371,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UjkUESNZhBEWp0Ra25NrH_40.007171_-74.973168@1294171694"
@@ -42,11 +55,26 @@
     "wof:country":"US",
     "wof:created":1461295242,
     "wof:geomhash":"f8a9176ebcf29626cf46099b9bacc50e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639445573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477371,
+            "neighbourhood_id":420526691,
+            "region_id":85688607,
+            "venue_id":639445573
+        }
+    ],
     "wof:id":639445573,
-    "wof:lastmodified":1466693584,
+    "wof:lastmodified":1492051810,
     "wof:name":"Temple Sinai",
-    "wof:parent_id":420526675,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639205807,
   "type": "Feature",
   "properties": {
+    "addr:full":"266 Maple Ave Somerset NJ 08873",
+    "addr:housenumber":"266",
+    "addr:postcode":"08873",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528248,40.54646,-74.528248,40.54646",
     "geom:latitude":40.54646,
     "geom:longitude":-74.528248,
@@ -28,7 +33,14 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MAGPiaRA93zzwfmVQyFxm_40.546460_-74.528248@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461289787,
     "wof:geomhash":"689c4be5e0d0bde216fa4a239bbcf404",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":639205807
+        }
+    ],
     "wof:id":639205807,
-    "wof:lastmodified":1466689085,
+    "wof:lastmodified":1492055923,
     "wof:name":"DDS Home Automation & Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

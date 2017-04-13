@@ -2,9 +2,14 @@
   "id": 655832819,
   "type": "Feature",
   "properties": {
+    "addr:full":"72 Old York Rd Chesterfield NJ 08515",
+    "addr:housenumber":"72",
+    "addr:postcode":"08515",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.662176,40.130515,-74.662176,40.130515",
     "geom:latitude":40.130515,
     "geom:longitude":-74.662176,
@@ -33,7 +38,10 @@
     ],
     "sg:website":"http://www.betterroofsinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D8u0ycFHFxovNxYWculKI_40.130515_-74.662176@1303262281"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461322779,
     "wof:geomhash":"458a0bae77c441196aa9d7750a6f42b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526623,
+            "venue_id":655832819
+        }
+    ],
     "wof:id":655832819,
-    "wof:lastmodified":1466687804,
+    "wof:lastmodified":1492069348,
     "wof:name":"Better Roofs",
     "wof:parent_id":420526623,
     "wof:placetype":"venue",

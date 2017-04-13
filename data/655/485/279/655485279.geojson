@@ -2,9 +2,14 @@
   "id": 655485279,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 S Shore Dr Tuckerton NJ 08087",
+    "addr:housenumber":"43",
+    "addr:postcode":"08087",
+    "addr:street":"S Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352068,39.674314,-74.352068,39.674314",
     "geom:latitude":39.674314,
     "geom:longitude":-74.352068,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477777,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60vuA2XFvTAJXHiNwSxTpd_39.674314_-74.352068@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308210,
     "wof:geomhash":"749199b4cb56f37622bef0d9e1ad40fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477777,
+            "region_id":85688607,
+            "venue_id":655485279
+        }
+    ],
     "wof:id":655485279,
-    "wof:lastmodified":1466677638,
+    "wof:lastmodified":1492026663,
     "wof:name":"Fh & Sons Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

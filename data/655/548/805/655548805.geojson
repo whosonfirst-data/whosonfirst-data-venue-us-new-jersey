@@ -2,9 +2,14 @@
   "id": 655548805,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Phillips Rd Newton NJ 07860",
+    "addr:housenumber":"47",
+    "addr:postcode":"07860",
+    "addr:street":"Phillips Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.780097,40.986691,-74.780097,40.986691",
     "geom:latitude":40.986691,
     "geom:longitude":-74.780097,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KPTmNnUd83DTkiQrKLRRY_40.986691_-74.780097@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310778,
     "wof:geomhash":"8c9bac3143ce0035654f163314b6a5b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655548805
+        }
+    ],
     "wof:id":655548805,
-    "wof:lastmodified":1466679620,
+    "wof:lastmodified":1492048135,
     "wof:name":"Herb Fraser Properties",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

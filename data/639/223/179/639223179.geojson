@@ -2,9 +2,14 @@
   "id": 639223179,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Black Horse Ln North Brunswick NJ 08902",
+    "addr:housenumber":"195",
+    "addr:postcode":"08902",
+    "addr:street":"Black Horse Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.51613,40.423538,-74.51613,40.423538",
     "geom:latitude":40.423538,
     "geom:longitude":-74.51613,
@@ -30,8 +35,9 @@
     "sg:website":"www.ohmlabs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527179,
+        85688607,
         85806263,
         102087417
     ],
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639223179
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85806263,
             "region_id":85688607,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":639223179,
-    "wof:lastmodified":1466689419,
+    "wof:lastmodified":1492051861,
     "wof:name":"OHM Laboratories Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

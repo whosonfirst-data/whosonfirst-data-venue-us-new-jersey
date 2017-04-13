@@ -2,9 +2,14 @@
   "id": 638824201,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Haddonfield Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"101",
+    "addr:postcode":"08002",
+    "addr:street":"Haddonfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028731,39.943988,-75.028731,39.943988",
     "geom:latitude":39.943988,
     "geom:longitude":-75.028731,
@@ -36,7 +41,9 @@
         85633793,
         85976233,
         102081131,
-        85688607
+        85688607,
+        85811983,
+        85976241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +62,22 @@
             "neighbourhood_id":85865287,
             "region_id":85688607,
             "venue_id":638824201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "neighbourhood_id":85811983,
+            "region_id":85688607,
+            "venue_id":638824201
         }
     ],
     "wof:id":638824201,
-    "wof:lastmodified":1466688648,
+    "wof:lastmodified":1492028497,
     "wof:name":"Commerce Bank NA",
-    "wof:parent_id":85865287,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655493267,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Joe Parker Rd Lakewood NJ 08701",
+    "addr:housenumber":"360",
+    "addr:postcode":"08701",
+    "addr:street":"Joe Parker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168934,40.096209,-74.168934,40.096209",
     "geom:latitude":40.096209,
     "geom:longitude":-74.168934,
@@ -27,7 +32,10 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Rsysnt8ygxBZZUM2VnjF_40.096209_-74.168934@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308549,
     "wof:geomhash":"e180dcec717e33fb203bac6d5ff8c7f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655493267
+        }
+    ],
     "wof:id":655493267,
-    "wof:lastmodified":1466677895,
+    "wof:lastmodified":1492047746,
     "wof:name":"John H Kerr",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

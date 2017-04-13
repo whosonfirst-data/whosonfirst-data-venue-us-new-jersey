@@ -2,9 +2,14 @@
   "id": 639094501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 Randolph Rd Plainfield NJ 07060",
+    "addr:housenumber":"1420",
+    "addr:postcode":"07060",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.399347,40.607776,-74.399347,40.607776",
     "geom:latitude":40.607776,
     "geom:longitude":-74.399347,
@@ -24,7 +29,14 @@
     "sg:postcode":"07060",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2skSCBpeF5siCcTTgpNYmj_40.607776_-74.399347@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461287233,
     "wof:geomhash":"11e1e6a2ffe5601abd2cac88182e8aca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639094501
+        }
+    ],
     "wof:id":639094501,
-    "wof:lastmodified":1466673552,
+    "wof:lastmodified":1492030748,
     "wof:name":"Help You Plan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

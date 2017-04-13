@@ -2,9 +2,14 @@
   "id": 655408531,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Grawtown Rd Jackson NJ 08527",
+    "addr:housenumber":"319",
+    "addr:postcode":"08527",
+    "addr:street":"Grawtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303534,40.0836,-74.303534,40.0836",
     "geom:latitude":40.0836,
     "geom:longitude":-74.303534,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iPN8eJdTeXWKGIWQREBTg_40.083600_-74.303534@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304987,
     "wof:geomhash":"a7d7c76bcc9db939773bdebc2f33bb0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655408531
+        }
+    ],
     "wof:id":655408531,
-    "wof:lastmodified":1466675732,
+    "wof:lastmodified":1492047929,
     "wof:name":"Say Hay Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

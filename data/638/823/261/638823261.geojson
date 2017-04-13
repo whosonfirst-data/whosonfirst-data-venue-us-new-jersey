@@ -2,9 +2,14 @@
   "id": 638823261,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Forest View Dr Gladstone NJ 07934",
+    "addr:housenumber":"6",
+    "addr:postcode":"07934",
+    "addr:street":"Forest View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658247,40.734192,-74.658247,40.734192",
     "geom:latitude":40.734192,
     "geom:longitude":-74.658247,
@@ -24,7 +29,14 @@
     "sg:postcode":"07934",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f9fT0qNX0iRYALTPRMIPV_40.734192_-74.658247@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461280813,
     "wof:geomhash":"a83712d650de8798554c51c1cd0ac89d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":638823261
+        }
+    ],
     "wof:id":638823261,
-    "wof:lastmodified":1466688518,
+    "wof:lastmodified":1492046031,
     "wof:name":"CB &K Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

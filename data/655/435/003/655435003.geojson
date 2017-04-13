@@ -2,9 +2,14 @@
   "id": 655435003,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Lambert Rd Blairstown NJ 07825",
+    "addr:housenumber":"94",
+    "addr:postcode":"07825",
+    "addr:street":"Lambert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.994179,40.968548,-74.994179,40.968548",
     "geom:latitude":40.968548,
     "geom:longitude":-74.994179,
@@ -24,7 +29,10 @@
     "sg:postcode":"07825",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sU3l4u83LQdLWuDC3qZSM_40.968548_-74.994179@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461306100,
     "wof:geomhash":"4a2adf4220f47611b24c206f141d55ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655435003
+        }
+    ],
     "wof:id":655435003,
-    "wof:lastmodified":1466676253,
+    "wof:lastmodified":1492055784,
     "wof:name":"A & P New Jersey",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

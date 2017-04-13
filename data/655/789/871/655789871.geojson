@@ -2,9 +2,14 @@
   "id": 655789871,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 High St Newton NJ 07860",
+    "addr:housenumber":"222",
+    "addr:postcode":"07860",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.76798,41.054014,-74.76798,41.054014",
     "geom:latitude":41.054014,
     "geom:longitude":-74.76798,
@@ -33,7 +38,10 @@
     ],
     "sg:website":"http://www.casc.md",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ne0pg45cN3NDOKgbOia9k_41.054014_-74.767980@1303262270"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461320973,
     "wof:geomhash":"2e22f2bc877b350cb7e5dfb97407bc04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789871
+        }
+    ],
     "wof:id":655789871,
-    "wof:lastmodified":1466686741,
+    "wof:lastmodified":1492036284,
     "wof:name":"Cardiology Associates Of Sussex County LLP",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

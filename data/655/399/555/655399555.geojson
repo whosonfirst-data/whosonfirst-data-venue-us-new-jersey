@@ -2,9 +2,14 @@
   "id": 655399555,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Nassau St Princeton NJ 08540",
+    "addr:housenumber":"245",
+    "addr:postcode":"08540",
+    "addr:street":"Nassau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.651251,40.352115,-74.651251,40.352115",
     "geom:latitude":40.352115,
     "geom:longitude":-74.651251,
@@ -28,7 +33,14 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UIOK0OJWztfalosXNh2l8_40.352115_-74.651251@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304616,
     "wof:geomhash":"9d31a5198aefc1c468d8eed234bab187",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":655399555
+        }
+    ],
     "wof:id":655399555,
-    "wof:lastmodified":1466675552,
+    "wof:lastmodified":1492049444,
     "wof:name":"Botree Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

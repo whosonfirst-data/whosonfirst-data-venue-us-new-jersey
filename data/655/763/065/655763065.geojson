@@ -2,9 +2,14 @@
   "id": 655763065,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 E Main St Little Falls NJ 07424",
+    "addr:housenumber":"66",
+    "addr:postcode":"07424",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.221955,40.879423,-74.221955,40.879423",
     "geom:latitude":40.879423,
     "geom:longitude":-74.221955,
@@ -27,7 +32,13 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JftxotSOl8HLsjanfKeeK_40.879423_-74.221955@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319773,
     "wof:geomhash":"ed27c89db911b95449a9318ab217aada",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655763065
+        }
+    ],
     "wof:id":655763065,
-    "wof:lastmodified":1466685815,
+    "wof:lastmodified":1492046256,
     "wof:name":"Gardner Capital Management Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

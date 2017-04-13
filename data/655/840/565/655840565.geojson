@@ -2,9 +2,14 @@
   "id": 655840565,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Everett Rd Pittstown NJ 08867",
+    "addr:housenumber":"8",
+    "addr:postcode":"08867",
+    "addr:street":"Everett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.958058,40.632514,-74.958058,40.632514",
     "geom:latitude":40.632514,
     "geom:longitude":-74.958058,
@@ -32,7 +37,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TVxXfCgvwkkP7pl4CBajR_40.632514_-74.958058@1303262283"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461323090,
     "wof:geomhash":"7fa9f0deb2ce22e62e3ff6fb797dbcbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":655840565
+        }
+    ],
     "wof:id":655840565,
-    "wof:lastmodified":1466687969,
+    "wof:lastmodified":1492044264,
     "wof:name":"Ipo Wine",
     "wof:parent_id":420527125,
     "wof:placetype":"venue",

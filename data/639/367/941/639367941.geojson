@@ -2,9 +2,14 @@
   "id": 639367941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 US Hwy 130 Riverton NJ 08077",
+    "addr:housenumber":"2401",
+    "addr:postcode":"08077",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975067,40.006518,-74.975067,40.006518",
     "geom:latitude":40.006518,
     "geom:longitude":-74.975067,
@@ -27,7 +32,15 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526651,
+        102191575,
+        404477315,
+        85633793,
+        102087415,
+        85688607,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bcsQMUmrP9oKNXjaEWyOS_40.006518_-74.975067@1294171694"
@@ -35,11 +48,26 @@
     "wof:country":"US",
     "wof:created":1461293389,
     "wof:geomhash":"f4d5bdff3df935bb024910780acaff51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477315,
+            "neighbourhood_id":420526651,
+            "region_id":85688607,
+            "venue_id":639367941
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639367941
+        }
+    ],
     "wof:id":639367941,
-    "wof:lastmodified":1466692735,
+    "wof:lastmodified":1492051806,
     "wof:name":"Reda Joseph J Jr",
-    "wof:parent_id":420526675,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

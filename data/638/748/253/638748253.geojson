@@ -2,9 +2,14 @@
   "id": 638748253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1113",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239366,40.724831,-74.239366,40.724831",
     "geom:latitude":40.724831,
     "geom:longitude":-74.239366,
@@ -24,7 +29,13 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5osrhxl5J22UxzGfw5XoAn_40.724831_-74.239366@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461278959,
     "wof:geomhash":"b146ab29d76456fb4a6c47f685e15447",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638748253
+        }
+    ],
     "wof:id":638748253,
-    "wof:lastmodified":1466677859,
+    "wof:lastmodified":1492050461,
     "wof:name":"Assoc For The Advancement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

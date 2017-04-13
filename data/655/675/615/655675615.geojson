@@ -2,9 +2,14 @@
   "id": 655675615,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Roszel Rd Princeton NJ 08540",
+    "addr:housenumber":"15",
+    "addr:postcode":"08540",
+    "addr:street":"Roszel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.645579,40.318072,-74.645579,40.318072",
     "geom:latitude":40.318072,
     "geom:longitude":-74.645579,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.gmtma.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZguLxNXY7ZwsgkaUjmZAT_40.318042_-74.645838@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316238,
     "wof:geomhash":"1d78185b7b9d9bfee9ef84efcc3b906c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655675615
+        }
+    ],
     "wof:id":655675615,
-    "wof:lastmodified":1466683663,
+    "wof:lastmodified":1492083442,
     "wof:name":"Greater Mercer Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

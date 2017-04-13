@@ -2,9 +2,14 @@
   "id": 639389089,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Koehler Dr S Bound Brook NJ 08880",
+    "addr:housenumber":"10",
+    "addr:postcode":"08880",
+    "addr:street":"Koehler Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.522979,40.548728,-74.522979,40.548728",
     "geom:latitude":40.548728,
     "geom:longitude":-74.522979,
@@ -27,7 +32,14 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XLedOjzbMmChx1xIWmYuj_40.548728_-74.522979@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293822,
     "wof:geomhash":"a3759f853b54985591fc23c101b726b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":639389089
+        }
+    ],
     "wof:id":639389089,
-    "wof:lastmodified":1466692800,
+    "wof:lastmodified":1492069476,
     "wof:name":"Dubon's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

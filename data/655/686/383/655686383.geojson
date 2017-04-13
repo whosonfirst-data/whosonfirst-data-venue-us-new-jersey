@@ -2,9 +2,14 @@
   "id": 655686383,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"65",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.977676,40.758703,-74.977676,40.758703",
     "geom:latitude":40.758703,
     "geom:longitude":-74.977676,
@@ -27,7 +32,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T86PfcHgnXkkqQJRfyitX_40.758869_-74.977432@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316689,
     "wof:geomhash":"b60a914ee919d3a06869ebd3d35c6d07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655686383
+        }
+    ],
     "wof:id":655686383,
-    "wof:lastmodified":1466683986,
+    "wof:lastmodified":1492040967,
     "wof:name":"Lost Ladies",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

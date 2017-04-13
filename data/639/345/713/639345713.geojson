@@ -2,9 +2,14 @@
   "id": 639345713,
   "type": "Feature",
   "properties": {
+    "addr:full":"652 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"652",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2345,40.708987,-74.2345,40.708987",
     "geom:latitude":40.708987,
     "geom:longitude":-74.2345,
@@ -30,7 +35,10 @@
         "transporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V0C05vnShTNwosxeBmzoA_40.708987_-74.234500@1294171694"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461292933,
     "wof:geomhash":"a853b4323582bef34d1db389d27f28ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639345713
+        }
+    ],
     "wof:id":639345713,
-    "wof:lastmodified":1466692566,
+    "wof:lastmodified":1492076645,
     "wof:name":"A-1 Royal",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

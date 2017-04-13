@@ -2,9 +2,14 @@
   "id": 655422879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Beach Ave Beachwood NJ 08722",
+    "addr:housenumber":"1101",
+    "addr:postcode":"08722",
+    "addr:street":"Beach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.206058,39.925857,-74.206058,39.925857",
     "geom:latitude":39.925857,
     "geom:longitude":-74.206058,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85812767,
+        102191575,
+        404477831,
         85633793,
-        85814979,
-        102081485
+        85975781,
+        102081485,
+        85688607,
+        85814979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +51,16 @@
     "wof:geomhash":"ab3b52acde7688a1c3ef5bd76f25fafd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477831,
+            "locality_id":85975781,
+            "neighbourhood_id":85812767,
+            "region_id":85688607,
+            "venue_id":655422879
+        },
+        {
             "country_id":85633793,
             "county_id":102081485,
             "neighbourhood_id":85814979,
@@ -50,9 +69,9 @@
         }
     ],
     "wof:id":655422879,
-    "wof:lastmodified":1466676219,
+    "wof:lastmodified":1492028998,
     "wof:name":"Shore Enterprises Inc",
-    "wof:parent_id":85814979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

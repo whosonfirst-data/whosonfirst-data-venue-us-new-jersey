@@ -2,9 +2,14 @@
   "id": 655395829,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 S New Prospect Rd Jackson NJ 08527",
+    "addr:housenumber":"33",
+    "addr:postcode":"08527",
+    "addr:street":"S New Prospect Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263005,40.138124,-74.263005,40.138124",
     "geom:latitude":40.138124,
     "geom:longitude":-74.263005,
@@ -25,8 +30,9 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527417,
+        85688607,
         85805747,
         102081485
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655395829
+        },
+        {
+            "country_id":85633793,
             "county_id":102081485,
             "neighbourhood_id":85805747,
             "region_id":85688607,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":655395829,
-    "wof:lastmodified":1466675422,
+    "wof:lastmodified":1492056023,
     "wof:name":"Cole Joy Dvm",
-    "wof:parent_id":85805747,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655457365,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Roseberry St Phillipsburg NJ 08865",
+    "addr:housenumber":"604",
+    "addr:postcode":"08865",
+    "addr:street":"Roseberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173282,40.691788,-75.173282,40.691788",
     "geom:latitude":40.691788,
     "geom:longitude":-75.173282,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.norwescap.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XdaRKLvNJrKMkAndJNGOe_40.691788_-75.173282@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461307044,
     "wof:geomhash":"ec05e63a80b983644b9dc59991bd7ca7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655457365
+        }
+    ],
     "wof:id":655457365,
-    "wof:lastmodified":1466677047,
+    "wof:lastmodified":1492057070,
     "wof:name":"Early Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

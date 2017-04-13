@@ -2,9 +2,14 @@
   "id": 639485553,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Old Clinton Rd Flemington NJ 08822",
+    "addr:housenumber":"95",
+    "addr:postcode":"08822",
+    "addr:street":"Old Clinton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.865819,40.560942,-74.865819,40.560942",
     "geom:latitude":40.560942,
     "geom:longitude":-74.865819,
@@ -27,7 +32,10 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zMfffRHEf3VtwNT6wHemL_40.560942_-74.865819@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296836,
     "wof:geomhash":"35928d91bb38921eeceae29ec20e1a30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":639485553
+        }
+    ],
     "wof:id":639485553,
-    "wof:lastmodified":1466694424,
+    "wof:lastmodified":1492042381,
     "wof:name":"Airlink Communications",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

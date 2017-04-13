@@ -2,9 +2,14 @@
   "id": 655378271,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 White Rd Jackson NJ 08527",
+    "addr:housenumber":"145",
+    "addr:postcode":"08527",
+    "addr:street":"White Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2595,40.076028,-74.2595,40.076028",
     "geom:latitude":40.076028,
     "geom:longitude":-74.2595,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IuByN7OILZdrohbio3syS_40.076028_-74.259500@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303743,
     "wof:geomhash":"1dae550820faf987c74b085632e16eb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655378271
+        }
+    ],
     "wof:id":655378271,
-    "wof:lastmodified":1466674871,
+    "wof:lastmodified":1492051153,
     "wof:name":"Spectra Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

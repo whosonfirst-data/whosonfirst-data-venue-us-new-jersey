@@ -2,9 +2,14 @@
   "id": 655504855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1360 Clifton Ave Clifton NJ 07012",
+    "addr:housenumber":"1360",
+    "addr:postcode":"07012",
+    "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172333,40.854154,-74.172333,40.854154",
     "geom:latitude":40.854154,
     "geom:longitude":-74.172333,
@@ -28,7 +33,14 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NlDyrbM32a8nuA3nTdvBe_40.854154_-74.172333@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309054,
     "wof:geomhash":"efaf92bb00be72e677356ad0f4e944c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655504855
+        }
+    ],
     "wof:id":655504855,
-    "wof:lastmodified":1466678311,
+    "wof:lastmodified":1492023682,
     "wof:name":"Build Asbestos Removal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

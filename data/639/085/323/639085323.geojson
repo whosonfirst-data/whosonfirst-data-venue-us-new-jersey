@@ -2,9 +2,14 @@
   "id": 639085323,
   "type": "Feature",
   "properties": {
+    "addr:full":"293 Main St Newton NJ 07825",
+    "addr:housenumber":"293",
+    "addr:postcode":"07825",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.890049,40.954716,-74.890049,40.954716",
     "geom:latitude":40.954716,
     "geom:longitude":-74.890049,
@@ -24,7 +29,10 @@
     "sg:postcode":"07825",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cBR7qwuCx4wBq7ztGNAAY_40.954716_-74.890049@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461287042,
     "wof:geomhash":"40b96b151938a68459a8a99a0263465b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527749,
+            "venue_id":639085323
+        }
+    ],
     "wof:id":639085323,
-    "wof:lastmodified":1466688686,
+    "wof:lastmodified":1492043949,
     "wof:name":"Special Children's School",
     "wof:parent_id":420527749,
     "wof:placetype":"venue",

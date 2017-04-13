@@ -2,9 +2,14 @@
   "id": 655394263,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Elm Ridge Rd Pennington NJ 08534",
+    "addr:housenumber":"16",
+    "addr:postcode":"08534",
+    "addr:street":"Elm Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.737605,40.342479,-74.737605,40.342479",
     "geom:latitude":40.342479,
     "geom:longitude":-74.737605,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85845955,
-        102081129
+        102081129,
+        85810187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85845955,
             "region_id":85688607,
             "venue_id":655394263
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85810187,
+            "region_id":85688607,
+            "venue_id":655394263
         }
     ],
     "wof:id":655394263,
-    "wof:lastmodified":1466675266,
+    "wof:lastmodified":1492051036,
     "wof:name":"Stony Brook Orchids",
-    "wof:parent_id":85845955,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

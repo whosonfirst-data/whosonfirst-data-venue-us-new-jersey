@@ -2,9 +2,14 @@
   "id": 655733353,
   "type": "Feature",
   "properties": {
+    "addr:full":"196 Gibson Blvd Clark NJ 07066",
+    "addr:housenumber":"196",
+    "addr:postcode":"07066",
+    "addr:street":"Gibson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.309759,40.627969,-74.309759,40.627969",
     "geom:latitude":40.627969,
     "geom:longitude":-74.309759,
@@ -27,7 +32,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tv662gb9P3qvSU3Wcr9ab_40.627969_-74.309759@1303262257"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461318658,
     "wof:geomhash":"37bad3e354c57d227ecca581f947c730",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733353
+        }
+    ],
     "wof:id":655733353,
-    "wof:lastmodified":1466685107,
+    "wof:lastmodified":1492065177,
     "wof:name":"Ivy Park Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

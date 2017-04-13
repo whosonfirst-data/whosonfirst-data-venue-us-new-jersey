@@ -2,9 +2,14 @@
   "id": 638785313,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 S Shore Ter Newton NJ 07860",
+    "addr:housenumber":"927",
+    "addr:postcode":"07860",
+    "addr:street":"S Shore Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.814547,41.057932,-74.814547,41.057932",
     "geom:latitude":41.057932,
     "geom:longitude":-74.814547,
@@ -28,7 +33,10 @@
         "chip"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wyPbNgPUHJW5znVoAfC49_41.057932_-74.814547@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279920,
     "wof:geomhash":"40f81e05cf5d583eb4eafffe01d9c04e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":638785313
+        }
+    ],
     "wof:id":638785313,
-    "wof:lastmodified":1466683697,
+    "wof:lastmodified":1492082183,
     "wof:name":"Peter Chips Danchise Away",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639524879,
   "type": "Feature",
   "properties": {
+    "addr:full":"23475 Columbus Rd Columbus NJ 08022",
+    "addr:housenumber":"23475",
+    "addr:postcode":"08022",
+    "addr:street":"Columbus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73554,40.071526,-74.73554,40.071526",
     "geom:latitude":40.071526,
     "geom:longitude":-74.73554,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e3CL58IQlqnF5Zxz7OqJa_40.071526_-74.735540@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298553,
     "wof:geomhash":"e98130aa236a7b1c8f6e86d75e9ca206",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":639524879
+        }
+    ],
     "wof:id":639524879,
-    "wof:lastmodified":1466695024,
+    "wof:lastmodified":1492040332,
     "wof:name":"Data Link Computer Services",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

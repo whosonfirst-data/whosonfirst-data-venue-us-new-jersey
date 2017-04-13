@@ -2,9 +2,14 @@
   "id": 639448455,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Washington Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"50",
+    "addr:postcode":"08550",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.627262,40.323218,-74.627262,40.323218",
     "geom:latitude":40.323218,
     "geom:longitude":-74.627262,
@@ -24,7 +29,14 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GaUGBFc38P6pUn10hPvej_40.323218_-74.627262@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461295353,
     "wof:geomhash":"21fc1ae71a6e3f5203e7865c2ca5b3ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":639448455
+        }
+    ],
     "wof:id":639448455,
-    "wof:lastmodified":1466693586,
+    "wof:lastmodified":1492056050,
     "wof:name":"Congressman Rush Holt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

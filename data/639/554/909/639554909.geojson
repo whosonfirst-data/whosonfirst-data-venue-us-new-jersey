@@ -2,9 +2,14 @@
   "id": 639554909,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 Co Rd 517 Hackettstown NJ 07840",
+    "addr:housenumber":"915",
+    "addr:postcode":"07840",
+    "addr:street":"Co Rd 517",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.825265,40.869635,-74.825265,40.869635",
     "geom:latitude":40.869635,
     "geom:longitude":-74.825265,
@@ -28,7 +33,13 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478429,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZGBwxUUef4wdgw1jgkaey_40.869635_-74.825265@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299933,
     "wof:geomhash":"6d5b6eb36a1f173bdd40b63db88fb4e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478429,
+            "region_id":85688607,
+            "venue_id":639554909
+        }
+    ],
     "wof:id":639554909,
-    "wof:lastmodified":1466696219,
+    "wof:lastmodified":1492057642,
     "wof:name":"Dance Expressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639007447,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Hazelhurst Ave Glen Rock NJ 07452",
+    "addr:housenumber":"49",
+    "addr:postcode":"07452",
+    "addr:street":"Hazelhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127325,40.953175,-74.127325,40.953175",
     "geom:latitude":40.953175,
     "geom:longitude":-74.127325,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KgYP3H5318YnEZ5gVB5pN_40.953175_-74.127325@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285264,
     "wof:geomhash":"0de28509f9eb1e2eb89beb60f089d3c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639007447
+        }
+    ],
     "wof:id":639007447,
-    "wof:lastmodified":1466673222,
+    "wof:lastmodified":1492075853,
     "wof:name":"Brady & Sons Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

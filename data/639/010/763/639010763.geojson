@@ -2,9 +2,14 @@
   "id": 639010763,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Athens Ave South Amboy NJ 08879",
+    "addr:housenumber":"42",
+    "addr:postcode":"08879",
+    "addr:street":"Athens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294568,40.433815,-74.294568,40.433815",
     "geom:latitude":40.433815,
     "geom:longitude":-74.294568,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V4hXqSDsgB6gSW2o9xFW3_40.433815_-74.294568@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285335,
     "wof:geomhash":"318f919b062d9a9b382bc10a83e8a957",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527215,
+            "venue_id":639010763
+        }
+    ],
     "wof:id":639010763,
-    "wof:lastmodified":1466673262,
+    "wof:lastmodified":1492041264,
     "wof:name":"Precision Plus Plumbing & Htg",
     "wof:parent_id":420527215,
     "wof:placetype":"venue",

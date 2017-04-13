@@ -2,9 +2,14 @@
   "id": 639262351,
   "type": "Feature",
   "properties": {
+    "addr:full":"385 Atlantic City Blvd Bayville NJ 08721",
+    "addr:housenumber":"385",
+    "addr:postcode":"08721",
+    "addr:street":"Atlantic City Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.155962,39.917303,-74.155962,39.917303",
     "geom:latitude":39.917303,
     "geom:longitude":-74.155962,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85844713,
-        102081485
+        102081485,
+        85805843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85844713,
             "region_id":85688607,
             "venue_id":639262351
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85805843,
+            "region_id":85688607,
+            "venue_id":639262351
         }
     ],
     "wof:id":639262351,
-    "wof:lastmodified":1466690702,
+    "wof:lastmodified":1492070232,
     "wof:name":"Affordable Auto Repair Inc",
-    "wof:parent_id":85844713,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

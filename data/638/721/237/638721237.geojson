@@ -2,9 +2,14 @@
   "id": 638721237,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Glengarry Way Princeton Junction NJ 08550",
+    "addr:housenumber":"11",
+    "addr:postcode":"08550",
+    "addr:street":"Glengarry Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.589513,40.294377,-74.589513,40.294377",
     "geom:latitude":40.294377,
     "geom:longitude":-74.589513,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527155,
+        85688607,
         85822195,
         102081129
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":638721237
+        },
+        {
+            "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85822195,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":638721237,
-    "wof:lastmodified":1466674149,
+    "wof:lastmodified":1492062600,
     "wof:name":"Broadband Systems",
-    "wof:parent_id":85822195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

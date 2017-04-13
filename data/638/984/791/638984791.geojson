@@ -2,9 +2,14 @@
   "id": 638984791,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Main St Belmar NJ 07719",
+    "addr:housenumber":"811",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.024977,40.181302,-74.024977,40.181302",
     "geom:latitude":40.181302,
     "geom:longitude":-74.024977,
@@ -28,7 +33,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n8oVeHXR8KORfzutrNaEI_40.181302_-74.024977@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284742,
     "wof:geomhash":"98c3e38b85f73f114fd95759094d8e09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638984791
+        }
+    ],
     "wof:id":638984791,
-    "wof:lastmodified":1466691983,
+    "wof:lastmodified":1492049151,
     "wof:name":"Don's Pizza King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

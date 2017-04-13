@@ -2,9 +2,14 @@
   "id": 655789817,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Hampton House Rd Ste 1 Newton NJ 07860",
+    "addr:housenumber":"89",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.731626,41.087152,-74.731626,41.087152",
     "geom:latitude":41.087152,
     "geom:longitude":-74.731626,
@@ -30,7 +35,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L2Xb9m4d69x7N56xpnHZN_41.087152_-74.731626@1303262270"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320971,
     "wof:geomhash":"8f1ac67457c50c1319a4f6329e41734e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655789817
+        }
+    ],
     "wof:id":655789817,
-    "wof:lastmodified":1466686727,
+    "wof:lastmodified":1492070866,
     "wof:name":"Johnny S Collision",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

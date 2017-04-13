@@ -2,9 +2,14 @@
   "id": 639524235,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Ely Harmony Rd Freehold NJ 07728",
+    "addr:housenumber":"142",
+    "addr:postcode":"07728",
+    "addr:street":"Ely Harmony Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.31492,40.173766,-74.31492,40.173766",
     "geom:latitude":40.173766,
     "geom:longitude":-74.31492,
@@ -28,7 +33,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lTegDSjtJhnKRrpKNarhD_40.173766_-74.314920@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461298517,
     "wof:geomhash":"ca1b0172cd7a4a14b2cc5529eba60fec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527379,
+            "venue_id":639524235
+        }
+    ],
     "wof:id":639524235,
-    "wof:lastmodified":1466695166,
+    "wof:lastmodified":1492047992,
     "wof:name":"Liquid Hair Care Prod",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

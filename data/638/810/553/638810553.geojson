@@ -2,9 +2,14 @@
   "id": 638810553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1709 Union Ave Hazlet NJ 07730",
+    "addr:housenumber":"1709",
+    "addr:postcode":"07730",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.161791,40.427714,-74.161791,40.427714",
     "geom:latitude":40.427714,
     "geom:longitude":-74.161791,
@@ -32,7 +37,11 @@
         85688607,
         85633793,
         85837443,
-        102085049
+        102085049,
+        85836359,
+        102191575,
+        404478399,
+        85975391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +57,22 @@
             "neighbourhood_id":85837443,
             "region_id":85688607,
             "venue_id":638810553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478399,
+            "locality_id":85975391,
+            "neighbourhood_id":85836359,
+            "region_id":85688607,
+            "venue_id":638810553
         }
     ],
     "wof:id":638810553,
-    "wof:lastmodified":1466686957,
+    "wof:lastmodified":1492027280,
     "wof:name":"Shorelands Water Co",
-    "wof:parent_id":85837443,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

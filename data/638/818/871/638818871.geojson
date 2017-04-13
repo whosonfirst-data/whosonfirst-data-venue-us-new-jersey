@@ -2,9 +2,14 @@
   "id": 638818871,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 US Hwy 1 Monmouth Jct NJ 08852",
+    "addr:housenumber":"4242",
+    "addr:postcode":"08852",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.578958,40.380061,-74.578958,40.380061",
     "geom:latitude":40.380061,
     "geom:longitude":-74.578958,
@@ -35,7 +40,8 @@
         85633793,
         85976319,
         102087417,
-        85849517
+        85849517,
+        85865295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +58,19 @@
             "neighbourhood_id":85849517,
             "region_id":85688607,
             "venue_id":638818871
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85865295,
+            "region_id":85688607,
+            "venue_id":638818871
         }
     ],
     "wof:id":638818871,
-    "wof:lastmodified":1466687977,
+    "wof:lastmodified":1492027657,
     "wof:name":"Princeton BIOMEDICA-Pmp Tech",
-    "wof:parent_id":85849517,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

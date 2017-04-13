@@ -2,9 +2,14 @@
   "id": 655602405,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 E Waterloo Rd Stanhope NJ 07874",
+    "addr:housenumber":"5",
+    "addr:postcode":"07874",
+    "addr:street":"E Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.713559,40.92516,-74.713559,40.92516",
     "geom:latitude":40.92516,
     "geom:longitude":-74.713559,
@@ -28,7 +33,13 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61APAXMwwTiKfz0z8omaAj_40.925160_-74.713559@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313113,
     "wof:geomhash":"c4bc927233c3173b95d3a81fefff882f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":655602405
+        }
+    ],
     "wof:id":655602405,
-    "wof:lastmodified":1466681127,
+    "wof:lastmodified":1492023702,
     "wof:name":"Wildwalk Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

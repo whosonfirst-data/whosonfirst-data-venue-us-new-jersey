@@ -2,9 +2,14 @@
   "id": 639303429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1481 State Rte 88 Brick NJ 08724",
+    "addr:housenumber":"1481",
+    "addr:postcode":"08724",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144183,40.082282,-74.144183,40.082282",
     "geom:latitude":40.082282,
     "geom:longitude":-74.144183,
@@ -27,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oo0XSnVLYD9C1l6lxcjfK_40.082282_-74.144183@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292037,
     "wof:geomhash":"8743b1d79003efc19f54e4621a1a2b5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639303429
+        }
+    ],
     "wof:id":639303429,
-    "wof:lastmodified":1466691429,
+    "wof:lastmodified":1492053457,
     "wof:name":"Route 88 Svc Ctr",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

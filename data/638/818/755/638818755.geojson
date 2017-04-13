@@ -2,9 +2,14 @@
   "id": 638818755,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Oak Leaf Dr Waretown NJ 08758",
+    "addr:housenumber":"15",
+    "addr:postcode":"08758",
+    "addr:street":"Oak Leaf Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21127,39.789269,-74.21127,39.789269",
     "geom:latitude":39.789269,
     "geom:longitude":-74.21127,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.jdsarchitect.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527435,
+        85688607,
+        85804547,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zO2yBYGqx5gIig59TIYF8_39.789269_-74.211270@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461280673,
     "wof:geomhash":"42bc9dea90cc73b23ecd4e2a1709f3e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527435,
+            "venue_id":638818755
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85804547,
+            "region_id":85688607,
+            "venue_id":638818755
+        }
+    ],
     "wof:id":638818755,
-    "wof:lastmodified":1466687954,
+    "wof:lastmodified":1492025581,
     "wof:name":"John Daniel Skodi AIA",
-    "wof:parent_id":420527435,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

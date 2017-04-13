@@ -2,9 +2,14 @@
   "id": 639492185,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Grant Ave Dumont NJ 07628",
+    "addr:housenumber":"19",
+    "addr:postcode":"07628",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987594,40.948668,-73.987594,40.948668",
     "geom:latitude":40.948668,
     "geom:longitude":-73.987594,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_548eO9LT4SjcnIa6zJWICP_40.948668_-73.987594@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297103,
     "wof:geomhash":"d7c2be36855c8c7e238254f9c2d883b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639492185
+        }
+    ],
     "wof:id":639492185,
-    "wof:lastmodified":1466694430,
+    "wof:lastmodified":1492041769,
     "wof:name":"Style N Trim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

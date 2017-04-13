@@ -2,9 +2,14 @@
   "id": 638938871,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Harvard St Cresskill NJ 07626",
+    "addr:housenumber":"36",
+    "addr:postcode":"07626",
+    "addr:street":"Harvard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.967169,40.947957,-73.967169,40.947957",
     "geom:latitude":40.947957,
     "geom:longitude":-73.967169,
@@ -29,7 +34,14 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UdwfZpj7x7FqEs51kJqoj_40.947957_-73.967169@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283773,
     "wof:geomhash":"fc0273e40e2157ec21f5bd2f518e666f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":638938871
+        }
+    ],
     "wof:id":638938871,
-    "wof:lastmodified":1466691026,
+    "wof:lastmodified":1492050690,
     "wof:name":"Healing Circles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

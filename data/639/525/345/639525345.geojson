@@ -2,9 +2,14 @@
   "id": 639525345,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Mead St South Orange NJ 07079",
+    "addr:housenumber":"5",
+    "addr:postcode":"07079",
+    "addr:street":"Mead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25765,40.749516,-74.25765,40.749516",
     "geom:latitude":40.749516,
     "geom:longitude":-74.25765,
@@ -27,7 +32,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941,
+        85688607,
+        85892457,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sj66Py5ecDlc7oQPW3VUD_40.749516_-74.257650@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461298576,
     "wof:geomhash":"469d279511f352b5414f49e5d82e2179",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639525345
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892457,
+            "region_id":85688607,
+            "venue_id":639525345
+        }
+    ],
     "wof:id":639525345,
-    "wof:lastmodified":1466695118,
+    "wof:lastmodified":1492041598,
     "wof:name":"South Orange Senior Svc",
-    "wof:parent_id":420526941,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

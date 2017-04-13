@@ -2,9 +2,14 @@
   "id": 639386979,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Jennifer Ln Burlington NJ 08016",
+    "addr:housenumber":"80",
+    "addr:postcode":"08016",
+    "addr:street":"Jennifer Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.890752,40.065028,-74.890752,40.065028",
     "geom:latitude":40.065028,
     "geom:longitude":-74.890752,
@@ -27,7 +32,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BG6ZUjVbjKFbDPnKw0Wby_40.065028_-74.890752@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461293782,
     "wof:geomhash":"8581087534edd8ed41b84cd569fac968",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":639386979
+        }
+    ],
     "wof:id":639386979,
-    "wof:lastmodified":1466692797,
+    "wof:lastmodified":1492047600,
     "wof:name":"James Isaac",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

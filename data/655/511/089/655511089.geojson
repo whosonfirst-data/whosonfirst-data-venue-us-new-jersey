@@ -2,9 +2,14 @@
   "id": 655511089,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Meadows Rd Lafayette NJ 07848",
+    "addr:housenumber":"101",
+    "addr:postcode":"07848",
+    "addr:street":"Meadows Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.677413,41.110434,-74.677413,41.110434",
     "geom:latitude":41.110434,
     "geom:longitude":-74.677413,
@@ -27,7 +32,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hXB3bwyGEFQV1mJVg5f7l_41.110434_-74.677413@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309319,
     "wof:geomhash":"dca5bfd8c69d9a2b59b28d9f8af3bbce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527635,
+            "venue_id":655511089
+        }
+    ],
     "wof:id":655511089,
-    "wof:lastmodified":1466678374,
+    "wof:lastmodified":1492026350,
     "wof:name":"TLC Automotive Services",
     "wof:parent_id":420527635,
     "wof:placetype":"venue",

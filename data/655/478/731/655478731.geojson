@@ -2,9 +2,14 @@
   "id": 655478731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 US Hwy 206 Bordentown NJ 08505",
+    "addr:housenumber":"1010",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.704191,40.136781,-74.704191,40.136781",
     "geom:latitude":40.136781,
     "geom:longitude":-74.704191,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HTddSMrXShej6CQajsVWf_40.136781_-74.704191@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461307950,
     "wof:geomhash":"fc0bacb70e9df7de8d8d8747a8a0f699",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655478731
+        }
+    ],
     "wof:id":655478731,
-    "wof:lastmodified":1466677703,
+    "wof:lastmodified":1492041008,
     "wof:name":"Harris Automotive Group",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

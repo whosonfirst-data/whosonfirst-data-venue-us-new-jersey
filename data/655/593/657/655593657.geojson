@@ -2,9 +2,14 @@
   "id": 655593657,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 Lakeside Blvd Hopatcong NJ 07843",
+    "addr:housenumber":"253",
+    "addr:postcode":"07843",
+    "addr:street":"Lakeside Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.65173,40.934539,-74.65173,40.934539",
     "geom:latitude":40.934539,
     "geom:longitude":-74.65173,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qWavnb0O9fwIt9ulyGDVU_40.934539_-74.651730@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312734,
     "wof:geomhash":"20fe67e0922d798bf3e033a3ee47f5e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "region_id":85688607,
+            "venue_id":655593657
+        }
+    ],
     "wof:id":655593657,
-    "wof:lastmodified":1466680854,
+    "wof:lastmodified":1492047171,
     "wof:name":"Edible Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

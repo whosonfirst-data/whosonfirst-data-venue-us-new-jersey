@@ -2,9 +2,14 @@
   "id": 639507037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 7th Ave Hammonton NJ 08037",
+    "addr:housenumber":"2710",
+    "addr:postcode":"08037",
+    "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.62745,39.616736,-74.62745,39.616736",
     "geom:latitude":39.616736,
     "geom:longitude":-74.62745,
@@ -28,7 +33,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z5x14wEuzazU4CSHfDTYg_39.616736_-74.627450@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461297716,
     "wof:geomhash":"c0e01dc0cedf1322a5ebd261d8cee23e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526667,
+            "venue_id":639507037
+        }
+    ],
     "wof:id":639507037,
-    "wof:lastmodified":1466694815,
+    "wof:lastmodified":1492042549,
     "wof:name":"Blue Leopard Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

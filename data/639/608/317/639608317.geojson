@@ -2,9 +2,14 @@
   "id": 639608317,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Notch Park Rd Little Falls NJ 07424",
+    "addr:housenumber":"15",
+    "addr:postcode":"07424",
+    "addr:street":"Notch Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.20639,40.866548,-74.20639,40.866548",
     "geom:latitude":40.866548,
     "geom:longitude":-74.20639,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n7DCOEUNp1LdN3AcK5hvi_40.866548_-74.206390@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461302048,
     "wof:geomhash":"b98efacad640acb501956847d6a4b904",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":639608317
+        }
+    ],
     "wof:id":639608317,
-    "wof:lastmodified":1466697214,
+    "wof:lastmodified":1492056082,
     "wof:name":"Nelson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

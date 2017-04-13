@@ -2,9 +2,14 @@
   "id": 655421383,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Ewing St Princeton NJ 08540",
+    "addr:housenumber":"354",
+    "addr:postcode":"08540",
+    "addr:street":"Ewing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.653554,40.362436,-74.653554,40.362436",
     "geom:latitude":40.362436,
     "geom:longitude":-74.653554,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YL7IPSsLuAjBOUEr0lOcQ_40.362436_-74.653554@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461305529,
     "wof:geomhash":"5a871081caebb95cd7b13c1b3e8e2a7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655421383
+        }
+    ],
     "wof:id":655421383,
-    "wof:lastmodified":1466676083,
+    "wof:lastmodified":1492047776,
     "wof:name":"Andre Intartaglia Gardening LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

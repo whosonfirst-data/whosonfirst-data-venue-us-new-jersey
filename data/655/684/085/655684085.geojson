@@ -2,9 +2,14 @@
   "id": 655684085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1552 Main St Rahway NJ 07065",
+    "addr:housenumber":"1552",
+    "addr:postcode":"07065",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273598,40.6078,-74.273598,40.6078",
     "geom:latitude":40.6078,
     "geom:longitude":-74.273598,
@@ -28,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77kyYfdhiEp5pVRHC5UD3M_40.607204_-74.273751@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316602,
     "wof:geomhash":"e64a5eed438c4e56e3a59409bc53e90d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655684085
+        }
+    ],
     "wof:id":655684085,
-    "wof:lastmodified":1466683746,
+    "wof:lastmodified":1492042849,
     "wof:name":"Kitchen Cupboard the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

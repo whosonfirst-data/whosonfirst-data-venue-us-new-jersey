@@ -2,9 +2,14 @@
   "id": 639623195,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Old Milford Ln West Milford NJ 07480",
+    "addr:housenumber":"10",
+    "addr:postcode":"07480",
+    "addr:street":"Old Milford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.406072,41.102707,-74.406072,41.102707",
     "geom:latitude":41.102707,
     "geom:longitude":-74.406072,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.acehardware.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50VKh90akX8EdkCvqOWjre_41.102707_-74.406072@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461302615,
     "wof:geomhash":"ff025c27d77b76d081d5bed86d57ab78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527495,
+            "venue_id":639623195
+        }
+    ],
     "wof:id":639623195,
-    "wof:lastmodified":1466697485,
+    "wof:lastmodified":1492051055,
     "wof:name":"Ace Hardware",
     "wof:parent_id":420527495,
     "wof:placetype":"venue",

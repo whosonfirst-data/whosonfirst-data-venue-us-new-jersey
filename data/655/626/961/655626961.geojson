@@ -2,9 +2,14 @@
   "id": 655626961,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"507",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528304,40.561548,-74.528304,40.561548",
     "geom:latitude":40.561548,
     "geom:longitude":-74.528304,
@@ -28,7 +33,14 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kaOz138ljiZjjG8XqQT68_40.561548_-74.528304@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314194,
     "wof:geomhash":"f8945afa63a0af49b31f6a3ce73518c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655626961
+        }
+    ],
     "wof:id":655626961,
-    "wof:lastmodified":1466682101,
+    "wof:lastmodified":1492023726,
     "wof:name":"Chemical Wholesale Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

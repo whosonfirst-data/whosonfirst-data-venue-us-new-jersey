@@ -2,9 +2,14 @@
   "id": 639396149,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Arrowood Way Basking Ridge NJ 07920",
+    "addr:housenumber":"215",
+    "addr:postcode":"07920",
+    "addr:street":"Arrowood Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.55697,40.660033,-74.55697,40.660033",
     "geom:latitude":40.660033,
     "geom:longitude":-74.55697,
@@ -28,7 +33,13 @@
         "it"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SXhjYwtY8N5hLvgnUG3tz_40.660033_-74.556970@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461294032,
     "wof:geomhash":"0ab40125d48dcdd7799a5b9594b12099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639396149
+        }
+    ],
     "wof:id":639396149,
-    "wof:lastmodified":1466693358,
+    "wof:lastmodified":1492050008,
     "wof:name":"Robert Mello Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

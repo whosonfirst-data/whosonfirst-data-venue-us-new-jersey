@@ -2,9 +2,14 @@
   "id": 639389707,
   "type": "Feature",
   "properties": {
+    "addr:full":"994 State Rte 12 Frenchtown NJ 08825",
+    "addr:housenumber":"994",
+    "addr:postcode":"08825",
+    "addr:street":"State Rte 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.983681,40.513733,-74.983681,40.513733",
     "geom:latitude":40.513733,
     "geom:longitude":-74.983681,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22r7Hso6WuBnThFe1yXrvX_40.513733_-74.983681@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293841,
     "wof:geomhash":"1c6b1e311854decece712c6c33b9103c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":639389707
+        }
+    ],
     "wof:id":639389707,
-    "wof:lastmodified":1466692812,
+    "wof:lastmodified":1492056112,
     "wof:name":"R & R Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

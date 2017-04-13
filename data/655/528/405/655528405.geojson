@@ -2,9 +2,14 @@
   "id": 655528405,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Alfred Dr Bordentown NJ 08505",
+    "addr:housenumber":"8",
+    "addr:postcode":"08505",
+    "addr:street":"Alfred Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.685632,40.138753,-74.685632,40.138753",
     "geom:latitude":40.138753,
     "geom:longitude":-74.685632,
@@ -29,7 +34,10 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Blawjtzb3LznnhnZaMK35_40.138753_-74.685632@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461309982,
     "wof:geomhash":"fd6045b2b2afcdad152f69d6e7eeefca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655528405
+        }
+    ],
     "wof:id":655528405,
-    "wof:lastmodified":1466678989,
+    "wof:lastmodified":1492082159,
     "wof:name":"Biomech Total Fitness",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

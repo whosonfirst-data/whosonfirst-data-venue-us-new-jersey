@@ -2,9 +2,14 @@
   "id": 655677951,
   "type": "Feature",
   "properties": {
+    "addr:full":"474 River Dr Garfield NJ 07026",
+    "addr:housenumber":"474",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114601,40.875999,-74.114601,40.875999",
     "geom:latitude":40.875999,
     "geom:longitude":-74.114601,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mDw8Vk2pgAnn2fa83aeWA_40.875920_-74.114806@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461316336,
     "wof:geomhash":"6c756d2e2f3ddd58b580511208e35c02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655677951
+        }
+    ],
     "wof:id":655677951,
-    "wof:lastmodified":1466683881,
+    "wof:lastmodified":1492029330,
     "wof:name":"Dimi's Restaurant & Night Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

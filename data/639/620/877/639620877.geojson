@@ -2,9 +2,14 @@
   "id": 639620877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Deacon Rd Hainesport NJ 08036",
+    "addr:housenumber":"1205",
+    "addr:postcode":"08036",
+    "addr:street":"Deacon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.816403,39.990058,-74.816403,39.990058",
     "geom:latitude":39.990058,
     "geom:longitude":-74.816403,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.stevensonelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85852289,
+        102087415,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hZbV5m03K5ScaJOdqkLEz_39.990058_-74.816403@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461302534,
     "wof:geomhash":"1935991b8a17985003b5d82071a2e89b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85852289,
+            "region_id":85688607,
+            "venue_id":639620877
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":639620877
+        }
+    ],
     "wof:id":639620877,
-    "wof:lastmodified":1466697342,
+    "wof:lastmodified":1492053469,
     "wof:name":"Stevenson Electric",
-    "wof:parent_id":420526707,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

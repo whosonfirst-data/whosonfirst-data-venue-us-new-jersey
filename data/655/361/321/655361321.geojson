@@ -2,9 +2,14 @@
   "id": 655361321,
   "type": "Feature",
   "properties": {
+    "addr:full":"2389 State Rte 70 Cherry Hill NJ 08002",
+    "addr:housenumber":"2389",
+    "addr:postcode":"08002",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.06209,39.930883,-75.06209,39.930883",
     "geom:latitude":39.930883,
     "geom:longitude":-75.06209,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892413,
+        102081131,
         85892415,
         102191575,
         404477993,
-        85633793,
-        85976233,
-        102081131,
-        85688607
+        85976233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461303055,
     "wof:geomhash":"0f31192400586fdd6800283fbd6b1f8b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081131,
+            "neighbourhood_id":85892413,
+            "region_id":85688607,
+            "venue_id":655361321
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":655361321,
-    "wof:lastmodified":1466674462,
+    "wof:lastmodified":1492029413,
     "wof:name":"Howard Johnson",
-    "wof:parent_id":85892415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

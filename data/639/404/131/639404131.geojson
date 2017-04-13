@@ -2,9 +2,14 @@
   "id": 639404131,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Lambertville Headquarters Rd Lambertville NJ 08530",
+    "addr:housenumber":"49",
+    "addr:postcode":"08530",
+    "addr:street":"Headquarters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.946655,40.399761,-74.946655,40.399761",
     "geom:latitude":40.399761,
     "geom:longitude":-74.946655,
@@ -30,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478163,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dTgvnBzkNuPJONhwaqdEo_40.399761_-74.946655@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461294328,
     "wof:geomhash":"4e1a04e5298f51a2512a76538faf7d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478163,
+            "region_id":85688607,
+            "venue_id":639404131
+        }
+    ],
     "wof:id":639404131,
-    "wof:lastmodified":1466692964,
+    "wof:lastmodified":1492053531,
     "wof:name":"Vasey Heating & Cooling LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

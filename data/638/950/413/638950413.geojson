@@ -2,9 +2,14 @@
   "id": 638950413,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Monmouth Rd Clarksburg NJ 08510",
+    "addr:housenumber":"454",
+    "addr:postcode":"08510",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.400584,40.176531,-74.400584,40.176531",
     "geom:latitude":40.176531,
     "geom:longitude":-74.400584,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.myestimator.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478343,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ignMDPGs8Wuc0BaDtHHDT_40.176531_-74.400584@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461284033,
     "wof:geomhash":"096d0cde9fd3be1b6189f8e334bbdb1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478343,
+            "region_id":85688607,
+            "venue_id":638950413
+        }
+    ],
     "wof:id":638950413,
-    "wof:lastmodified":1466691301,
+    "wof:lastmodified":1492028456,
     "wof:name":"Building Evaluations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

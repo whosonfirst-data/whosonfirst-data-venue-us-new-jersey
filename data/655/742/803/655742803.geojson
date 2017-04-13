@@ -2,9 +2,14 @@
   "id": 655742803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2952 Vauxhall Rd Vauxhall NJ 07088",
+    "addr:housenumber":"2952",
+    "addr:postcode":"07088",
+    "addr:street":"Vauxhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289537,40.720517,-74.289537,40.720517",
     "geom:latitude":40.720517,
     "geom:longitude":-74.289537,
@@ -27,7 +32,10 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JpgK2kiFMYHMP5mjtTKJp_40.720517_-74.289537@1303262259"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461319018,
     "wof:geomhash":"432a0112139ea9b7d3433f220f06337e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742803
+        }
+    ],
     "wof:id":655742803,
-    "wof:lastmodified":1466685459,
+    "wof:lastmodified":1492057539,
     "wof:name":"24 Hour 7 Day Emergency Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

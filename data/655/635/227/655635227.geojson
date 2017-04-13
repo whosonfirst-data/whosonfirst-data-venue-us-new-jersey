@@ -2,9 +2,14 @@
   "id": 655635227,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Old Turnpike Rd Port Murray NJ 07865",
+    "addr:housenumber":"222",
+    "addr:postcode":"07865",
+    "addr:street":"Old Turnpike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888335,40.786265,-74.888335,40.786265",
     "geom:latitude":40.786265,
     "geom:longitude":-74.888335,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZIwc8uneeqAtCugyVUoIs_40.786265_-74.888335@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461314573,
     "wof:geomhash":"c6086b220d084af0955e7ad45a056b45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527753,
+            "venue_id":655635227
+        }
+    ],
     "wof:id":655635227,
-    "wof:lastmodified":1466682184,
+    "wof:lastmodified":1492049879,
     "wof:name":"21 Mane LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

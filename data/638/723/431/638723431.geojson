@@ -2,9 +2,14 @@
   "id": 638723431,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Bauer Dr Oakland NJ 07436",
+    "addr:housenumber":"107",
+    "addr:postcode":"07436",
+    "addr:street":"Bauer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245184,41.001779,-74.245184,41.001779",
     "geom:latitude":41.001779,
     "geom:longitude":-74.245184,
@@ -30,7 +35,14 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HuKG8k1Ee8CrAlmWaFtFV_41.001779_-74.245184@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461278297,
     "wof:geomhash":"959e2b406bf1b190a07c8441ac6e7937",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":638723431
+        }
+    ],
     "wof:id":638723431,
-    "wof:lastmodified":1466674446,
+    "wof:lastmodified":1492062245,
     "wof:name":"Titan Tool Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

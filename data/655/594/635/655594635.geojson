@@ -2,9 +2,14 @@
   "id": 655594635,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Arnold Blvd Howell NJ 07731",
+    "addr:housenumber":"89",
+    "addr:postcode":"07731",
+    "addr:street":"Arnold Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.177358,40.114036,-74.177358,40.114036",
     "geom:latitude":40.114036,
     "geom:longitude":-74.177358,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X1Y2xONVJTHOL5h56AA6E_40.114036_-74.177358@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312774,
     "wof:geomhash":"3b5531ad269f7d28837108606c94967c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":655594635
+        }
+    ],
     "wof:id":655594635,
-    "wof:lastmodified":1466680864,
+    "wof:lastmodified":1492042988,
     "wof:name":"Eoz Inc",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

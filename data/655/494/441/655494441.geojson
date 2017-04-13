@@ -2,9 +2,14 @@
   "id": 655494441,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Thompson Ave Leonardo NJ 07737",
+    "addr:housenumber":"60",
+    "addr:postcode":"07737",
+    "addr:street":"Thompson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059143,40.415336,-74.059143,40.415336",
     "geom:latitude":40.415336,
     "geom:longitude":-74.059143,
@@ -28,7 +33,10 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z4aq9GfeZ55mLNBQogG17_40.415336_-74.059143@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308602,
     "wof:geomhash":"3dfccf0fddd371479a06fc3917f10561",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655494441
+        }
+    ],
     "wof:id":655494441,
-    "wof:lastmodified":1466677940,
+    "wof:lastmodified":1492052225,
     "wof:name":"US Post Office",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

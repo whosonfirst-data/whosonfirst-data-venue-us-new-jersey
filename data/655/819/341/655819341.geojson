@@ -2,9 +2,14 @@
   "id": 655819341,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Route 206 Shamong NJ 08088",
+    "addr:housenumber":"1004",
+    "addr:postcode":"08088",
+    "addr:street":"Route 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.738498,39.778916,-74.738498,39.778916",
     "geom:latitude":39.778916,
     "geom:longitude":-74.738498,
@@ -35,7 +40,10 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r3FVj7zW4s6i3q5NIbpmh_39.778916_-74.738498@1303262278"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461322238,
     "wof:geomhash":"df5c18c8b4d5833fac9de91f25c68738",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526693,
+            "venue_id":655819341
+        }
+    ],
     "wof:id":655819341,
-    "wof:lastmodified":1466687381,
+    "wof:lastmodified":1492043093,
     "wof:name":"The Vineyard",
     "wof:parent_id":420526693,
     "wof:placetype":"venue",

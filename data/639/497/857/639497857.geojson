@@ -2,9 +2,14 @@
   "id": 639497857,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Oakland Mills Rd Englishtown NJ 07726",
+    "addr:housenumber":"160",
+    "addr:postcode":"07726",
+    "addr:street":"Oakland Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.366091,40.232957,-74.366091,40.232957",
     "geom:latitude":40.232957,
     "geom:longitude":-74.366091,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0msLNeioN8zifUaQzY0Zwg_40.232957_-74.366091@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297327,
     "wof:geomhash":"1f090dccd4276950aadf76e2cef7d756",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639497857
+        }
+    ],
     "wof:id":639497857,
-    "wof:lastmodified":1466694913,
+    "wof:lastmodified":1492041650,
     "wof:name":"Dalzell's Lawn & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

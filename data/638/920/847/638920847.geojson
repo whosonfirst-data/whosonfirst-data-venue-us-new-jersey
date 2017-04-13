@@ -2,9 +2,14 @@
   "id": 638920847,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Duffus Ave Totowa NJ 07512",
+    "addr:housenumber":"56",
+    "addr:postcode":"07512",
+    "addr:street":"Duffus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217461,40.895449,-74.217461,40.895449",
     "geom:latitude":40.895449,
     "geom:longitude":-74.217461,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2URMPip5CCmuwwf3UKsnZX_40.895449_-74.217461@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283283,
     "wof:geomhash":"ffe453a40c3cbb69b6f6541823ae167a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":638920847
+        }
+    ],
     "wof:id":638920847,
-    "wof:lastmodified":1466690718,
+    "wof:lastmodified":1492041109,
     "wof:name":"Cigars Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

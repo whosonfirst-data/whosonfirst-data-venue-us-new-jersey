@@ -2,9 +2,14 @@
   "id": 639368821,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Mount Airy Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"500",
+    "addr:postcode":"07920",
+    "addr:street":"Mount Airy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.575677,40.673809,-74.575677,40.673809",
     "geom:latitude":40.673809,
     "geom:longitude":-74.575677,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FjjSL7GvToVPXGpXfJQtf_40.673809_-74.575677@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293404,
     "wof:geomhash":"d583115fbaf9d32dddc0c5a86c430326",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639368821
+        }
+    ],
     "wof:id":639368821,
-    "wof:lastmodified":1466692681,
+    "wof:lastmodified":1492055990,
     "wof:name":"Kodiak Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

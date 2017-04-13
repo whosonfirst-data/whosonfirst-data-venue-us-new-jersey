@@ -2,9 +2,14 @@
   "id": 638680039,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 Mansfield St Belvidere NJ 07823",
+    "addr:housenumber":"516",
+    "addr:postcode":"07823",
+    "addr:street":"Mansfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.076868,40.822861,-75.076868,40.822861",
     "geom:latitude":40.822861,
     "geom:longitude":-75.076868,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wdgAdPOnajrBoKnKZhZZD_40.822861_-75.076868@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461276763,
     "wof:geomhash":"f6af19cebb33fe213612d34e31700a72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":638680039
+        }
+    ],
     "wof:id":638680039,
-    "wof:lastmodified":1466688007,
+    "wof:lastmodified":1492038953,
     "wof:name":"Chick With Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

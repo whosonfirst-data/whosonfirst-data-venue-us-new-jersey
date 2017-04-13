@@ -2,9 +2,14 @@
   "id": 655612481,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Allison Rd Princeton NJ 08540",
+    "addr:housenumber":"83",
+    "addr:postcode":"08540",
+    "addr:street":"Allison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.671847,40.347048,-74.671847,40.347048",
     "geom:latitude":40.347048,
     "geom:longitude":-74.671847,
@@ -24,7 +29,14 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PxcySiCPbS7fCpjL6Jylf_40.347048_-74.671847@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461313530,
     "wof:geomhash":"d1e6bd28dd145c4d189cb94b5f786dc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":655612481
+        }
+    ],
     "wof:id":655612481,
-    "wof:lastmodified":1466681545,
+    "wof:lastmodified":1492051672,
     "wof:name":"Three Oaks Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

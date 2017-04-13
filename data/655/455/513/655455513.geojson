@@ -2,9 +2,14 @@
   "id": 655455513,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Newark Pompton Tpke Pequannock NJ 07440",
+    "addr:housenumber":"127",
+    "addr:postcode":"07440",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28581,40.946113,-74.28581,40.946113",
     "geom:latitude":40.946113,
     "geom:longitude":-74.28581,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5beGyxMybKhmlsWgdr74sq_40.946113_-74.285810@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461306938,
     "wof:geomhash":"7fb7355e07ffee4fb1da59a6dda8e2d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655455513
+        }
+    ],
     "wof:id":655455513,
-    "wof:lastmodified":1466676910,
+    "wof:lastmodified":1492047293,
     "wof:name":"Spot-A-Way Floor Waxing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

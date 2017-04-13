@@ -2,9 +2,14 @@
   "id": 655626907,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Springfield Ave Summit NJ 07901",
+    "addr:housenumber":"41",
+    "addr:postcode":"07901",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331526,40.717855,-74.331526,40.717855",
     "geom:latitude":40.717855,
     "geom:longitude":-74.331526,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UsVqgAJCZcKVtenGixlCw_40.717855_-74.331526@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314192,
     "wof:geomhash":"025b44f734af19cf56bd6e61dae190e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655626907
+        }
+    ],
     "wof:id":655626907,
-    "wof:lastmodified":1466682083,
+    "wof:lastmodified":1492070482,
     "wof:name":"Tocci Building Corp Of NJ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

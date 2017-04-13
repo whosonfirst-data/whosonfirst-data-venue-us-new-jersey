@@ -2,9 +2,14 @@
   "id": 639045617,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Fardale Ave Mahwah NJ 07430",
+    "addr:housenumber":"76",
+    "addr:postcode":"07430",
+    "addr:street":"Fardale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.173284,41.0393,-74.173284,41.0393",
     "geom:latitude":41.0393,
     "geom:longitude":-74.173284,
@@ -32,7 +37,9 @@
         85688607,
         85633793,
         85892569,
-        102086773
+        102086773,
+        85975945,
+        85818913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +55,20 @@
             "neighbourhood_id":85892569,
             "region_id":85688607,
             "venue_id":639045617
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "locality_id":85975945,
+            "neighbourhood_id":85818913,
+            "region_id":85688607,
+            "venue_id":639045617
         }
     ],
     "wof:id":639045617,
-    "wof:lastmodified":1466674191,
+    "wof:lastmodified":1492043335,
     "wof:name":"D C Construction Co Inc",
-    "wof:parent_id":85892569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

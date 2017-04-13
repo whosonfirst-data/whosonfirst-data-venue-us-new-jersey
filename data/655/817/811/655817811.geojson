@@ -2,9 +2,14 @@
   "id": 655817811,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Route 73 Cinnaminson NJ 08077",
+    "addr:housenumber":"2501",
+    "addr:postcode":"08077",
+    "addr:street":"Route 73",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008028,39.972387,-75.008028,39.972387",
     "geom:latitude":39.972387,
     "geom:longitude":-75.008028,
@@ -36,7 +41,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HT4LTdZoPgc9ctV0idDTl_39.972387_-75.008028@1303262277"
@@ -44,11 +52,17 @@
     "wof:country":"US",
     "wof:created":1461322185,
     "wof:geomhash":"0d69230392e99464575cea429bb60a47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526797,
+            "venue_id":655817811
+        }
+    ],
     "wof:id":655817811,
-    "wof:lastmodified":1466687496,
+    "wof:lastmodified":1492032751,
     "wof:name":"Transaxle",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655376887,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Fishel Rd Edison NJ 08820",
+    "addr:housenumber":"13",
+    "addr:postcode":"08820",
+    "addr:street":"Fishel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.351221,40.569528,-74.351221,40.569528",
     "geom:latitude":40.569528,
     "geom:longitude":-74.351221,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20dsEtDAuK66w1tM0eTLIb_40.569528_-74.351221@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303695,
     "wof:geomhash":"9e29126ea88999ac083483ef80561eb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":655376887
+        }
+    ],
     "wof:id":655376887,
-    "wof:lastmodified":1466674915,
+    "wof:lastmodified":1492049086,
     "wof:name":"Duke Trading & Consulting Inc",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

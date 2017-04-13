@@ -2,9 +2,14 @@
   "id": 655764959,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 W Parkway Pompton Plains NJ 07444",
+    "addr:housenumber":"231",
+    "addr:postcode":"07444",
+    "addr:street":"W Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.311897,40.979698,-74.311897,40.979698",
     "geom:latitude":40.979698,
     "geom:longitude":-74.311897,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TEn1IMoeOK4ReuGnMbsvl_40.979698_-74.311897@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319851,
     "wof:geomhash":"82279ba602fca7bfaec50887a6a89e99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":655764959
+        }
+    ],
     "wof:id":655764959,
-    "wof:lastmodified":1466686070,
+    "wof:lastmodified":1492027635,
     "wof:name":"Trimech Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

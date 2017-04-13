@@ -2,9 +2,14 @@
   "id": 655686725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 Sherman Ave Pennsauken NJ 08110",
+    "addr:housenumber":"2250",
+    "addr:postcode":"08110",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049862,39.966066,-75.049862,39.966066",
     "geom:latitude":39.966066,
     "geom:longitude":-75.049862,
@@ -28,7 +33,10 @@
         "work"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XT0SZ8WsqfKlqKWGDChzN_39.966110_-75.049777@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316711,
     "wof:geomhash":"2fcf747841fc051ee4447cfd2a743bbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":655686725
+        }
+    ],
     "wof:id":655686725,
-    "wof:lastmodified":1466684075,
+    "wof:lastmodified":1492057982,
     "wof:name":"Rb Bindery",
     "wof:parent_id":420526789,
     "wof:placetype":"venue",

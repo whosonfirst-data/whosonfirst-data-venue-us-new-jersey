@@ -2,9 +2,14 @@
   "id": 655628501,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Central Ave Clark NJ 07066",
+    "addr:housenumber":"301",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.310932,40.630539,-74.310932,40.630539",
     "geom:latitude":40.630539,
     "geom:longitude":-74.310932,
@@ -27,7 +32,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YoawzJ9VEzI8v09YicN7P_40.630539_-74.310932@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314258,
     "wof:geomhash":"8449469f9f19e1fd5d21c198695de0c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655628501
+        }
+    ],
     "wof:id":655628501,
-    "wof:lastmodified":1466682109,
+    "wof:lastmodified":1492024145,
     "wof:name":"Suburban News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

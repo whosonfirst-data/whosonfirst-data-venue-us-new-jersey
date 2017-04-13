@@ -2,9 +2,14 @@
   "id": 639056513,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Woodland Rd Demarest NJ 07627",
+    "addr:housenumber":"11",
+    "addr:postcode":"07627",
+    "addr:street":"Woodland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.973501,40.956899,-73.973501,40.956899",
     "geom:latitude":40.956899,
     "geom:longitude":-73.973501,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r4VL8mSiy2rhTE0hZ45nX_40.956899_-73.973501@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286407,
     "wof:geomhash":"f13e95a58d613803d0bcb3f25635be32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":639056513
+        }
+    ],
     "wof:id":639056513,
-    "wof:lastmodified":1466674529,
+    "wof:lastmodified":1492068296,
     "wof:name":"Stuart J Dangler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

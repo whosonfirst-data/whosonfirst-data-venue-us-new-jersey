@@ -2,9 +2,14 @@
   "id": 639077497,
   "type": "Feature",
   "properties": {
+    "addr:full":"156 Cider Mill Rd Ringoes NJ 08551",
+    "addr:housenumber":"156",
+    "addr:postcode":"08551",
+    "addr:street":"Cider Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.794962,40.484203,-74.794962,40.484203",
     "geom:latitude":40.484203,
     "geom:longitude":-74.794962,
@@ -28,7 +33,11 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603,
+        420527089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UE947bKChQns4X0W41kq2_40.484203_-74.794962@1294171694"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461286869,
     "wof:geomhash":"c6f8bca7bd94c63ac26717750bc8d387",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":639077497
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527089,
+            "venue_id":639077497
+        }
+    ],
     "wof:id":639077497,
-    "wof:lastmodified":1466688546,
+    "wof:lastmodified":1492050821,
     "wof:name":"Halstead Excavating",
-    "wof:parent_id":420527089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

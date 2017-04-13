@@ -2,9 +2,14 @@
   "id": 655452431,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Arlington Ave North Arlington NJ 07031",
+    "addr:housenumber":"19",
+    "addr:postcode":"07031",
+    "addr:street":"Arlington Ave North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134278,40.782444,-74.134278,40.782444",
     "geom:latitude":40.782444,
     "geom:longitude":-74.134278,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h8ythnDv4376S1JIrFRER_40.782444_-74.134278@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306798,
     "wof:geomhash":"34bd570642cf773e81b33a50ea66d67a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655452431
+        }
+    ],
     "wof:id":655452431,
-    "wof:lastmodified":1466676885,
+    "wof:lastmodified":1492041331,
     "wof:name":"A & B Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

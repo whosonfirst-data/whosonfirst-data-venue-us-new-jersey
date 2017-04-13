@@ -2,9 +2,14 @@
   "id": 638655671,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Easy St Howell NJ 07731",
+    "addr:housenumber":"75",
+    "addr:postcode":"07731",
+    "addr:street":"Easy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.163427,40.144273,-74.163427,40.144273",
     "geom:latitude":40.144273,
     "geom:longitude":-74.163427,
@@ -34,7 +39,10 @@
         "egg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d8BGe11EEPxIWvq5PsIIO_40.144273_-74.163427@1294171694"
@@ -42,11 +50,17 @@
     "wof:country":"US",
     "wof:created":1461275960,
     "wof:geomhash":"a98c9909442642079931ff7bf01bffa6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527301,
+            "venue_id":638655671
+        }
+    ],
     "wof:id":638655671,
-    "wof:lastmodified":1466674020,
+    "wof:lastmodified":1492056743,
     "wof:name":"Puglisi Egg Production Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

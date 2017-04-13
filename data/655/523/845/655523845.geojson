@@ -2,9 +2,14 @@
   "id": 655523845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1329 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1329",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232425,40.698253,-74.232425,40.698253",
     "geom:latitude":40.698253,
     "geom:longitude":-74.232425,
@@ -29,7 +34,13 @@
         "instr"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lAWotV8WLGaF7vpen1l5f_40.698253_-74.232425@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461309813,
     "wof:geomhash":"a7085c05a604952fbd33dc6273bb5a70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655523845
+        }
+    ],
     "wof:id":655523845,
-    "wof:lastmodified":1466678843,
+    "wof:lastmodified":1492047728,
     "wof:name":"Hillside Sho Kin Karate Acad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

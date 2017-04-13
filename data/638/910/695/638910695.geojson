@@ -2,9 +2,14 @@
   "id": 638910695,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Edinburg Rd Mercerville NJ 08619",
+    "addr:housenumber":"720",
+    "addr:postcode":"08619",
+    "addr:street":"Edinburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.672023,40.245482,-74.672023,40.245482",
     "geom:latitude":40.245482,
     "geom:longitude":-74.672023,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07vJr5HubMrYP3eMmDEgsJ_40.245482_-74.672023@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283014,
     "wof:geomhash":"5e5d975ee972dfa3ecafeae6f04b898c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":638910695
+        }
+    ],
     "wof:id":638910695,
-    "wof:lastmodified":1466690322,
+    "wof:lastmodified":1492052205,
     "wof:name":"Mercerville Animal Hospital",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

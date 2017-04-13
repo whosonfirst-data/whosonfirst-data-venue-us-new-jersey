@@ -2,9 +2,14 @@
   "id": 639391387,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Broad St Red Bank NJ 07701",
+    "addr:housenumber":"50",
+    "addr:postcode":"07701",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.065438,40.351274,-74.065438,40.351274",
     "geom:latitude":40.351274,
     "geom:longitude":-74.065438,
@@ -34,7 +39,10 @@
         85633793,
         85975357,
         102085049,
-        85688607
+        85688607,
+        85856357,
+        404478397,
+        85975393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85851097,
             "region_id":85688607,
             "venue_id":639391387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478397,
+            "locality_id":85975393,
+            "neighbourhood_id":85856357,
+            "region_id":85688607,
+            "venue_id":639391387
         }
     ],
     "wof:id":639391387,
-    "wof:lastmodified":1466692848,
+    "wof:lastmodified":1492041721,
     "wof:name":"Mr Mattress",
-    "wof:parent_id":85851097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

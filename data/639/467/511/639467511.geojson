@@ -2,9 +2,14 @@
   "id": 639467511,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Camptown Rd Irvington NJ 07111",
+    "addr:housenumber":"22",
+    "addr:postcode":"07111",
+    "addr:street":"Camptown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250191,40.719998,-74.250191,40.719998",
     "geom:latitude":40.719998,
     "geom:longitude":-74.250191,
@@ -27,7 +32,13 @@
         "forwarding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WS6gtOZpNS9qDAmBju76w_40.719998_-74.250191@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296090,
     "wof:geomhash":"7282cf42467be76223ef9f6661223b8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639467511
+        }
+    ],
     "wof:id":639467511,
-    "wof:lastmodified":1466693991,
+    "wof:lastmodified":1492076686,
     "wof:name":"Oceanbridge Shipping Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

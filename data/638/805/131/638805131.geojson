@@ -2,9 +2,14 @@
   "id": 638805131,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"55",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735721,41.080599,-74.735721,41.080599",
     "geom:latitude":41.080599,
     "geom:longitude":-74.735721,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2alsHhWGwajFy5u1cOZmci_41.080599_-74.735721@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280337,
     "wof:geomhash":"f96e3c847125cce6131e2e33a08ac677",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":638805131
+        }
+    ],
     "wof:id":638805131,
-    "wof:lastmodified":1466686249,
+    "wof:lastmodified":1492071462,
     "wof:name":"Midas Auto Svc Experts",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

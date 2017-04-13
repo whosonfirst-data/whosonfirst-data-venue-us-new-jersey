@@ -2,9 +2,14 @@
   "id": 655670805,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Laurel St Butler NJ 07405",
+    "addr:housenumber":"3",
+    "addr:postcode":"07405",
+    "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.343042,41.00607,-74.343042,41.00607",
     "geom:latitude":41.00607,
     "geom:longitude":-74.343042,
@@ -28,7 +33,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T7sDuc536da5KCZBlIFUo_41.006567_-74.342209@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316044,
     "wof:geomhash":"bd70c6e7607d1539603d8e6207b525b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655670805
+        }
+    ],
     "wof:id":655670805,
-    "wof:lastmodified":1466683594,
+    "wof:lastmodified":1492058295,
     "wof:name":"N & B Motor Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

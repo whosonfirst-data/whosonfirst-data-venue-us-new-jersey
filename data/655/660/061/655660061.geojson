@@ -2,9 +2,14 @@
   "id": 655660061,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 River Dr Garfield NJ 07026",
+    "addr:housenumber":"485",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114601,40.875599,-74.114601,40.875599",
     "geom:latitude":40.875599,
     "geom:longitude":-74.114601,
@@ -28,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17cWJzZ8IQDZ5R4vW67zwN_40.876067_-74.115133@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315623,
     "wof:geomhash":"ec84a45e7e01cb66886870919564be96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655660061
+        }
+    ],
     "wof:id":655660061,
-    "wof:lastmodified":1466683048,
+    "wof:lastmodified":1492038914,
     "wof:name":"Elmwood Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

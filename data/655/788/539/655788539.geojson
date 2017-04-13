@@ -2,9 +2,14 @@
   "id": 655788539,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 227 Delaware NJ 07833",
+    "addr:housenumber":"po;227",
+    "addr:postcode":"07833",
+    "addr:street":"Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.064903,40.892899,-75.064903,40.892899",
     "geom:latitude":40.892899,
     "geom:longitude":-75.064903,
@@ -29,7 +34,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dOMmsRWTTSjhUFqrDr1oy_40.892899_-75.064903@1303262270"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461320923,
     "wof:geomhash":"554d7aa79c57ad756f7948b34ff51ead",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527759,
+            "venue_id":655788539
+        }
+    ],
     "wof:id":655788539,
-    "wof:lastmodified":1466686652,
+    "wof:lastmodified":1492028487,
     "wof:name":"Knowlton Township School District",
     "wof:parent_id":420527759,
     "wof:placetype":"venue",

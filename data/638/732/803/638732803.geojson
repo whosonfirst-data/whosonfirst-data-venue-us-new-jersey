@@ -2,9 +2,14 @@
   "id": 638732803,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Hamilton St Bound Brook NJ 08805",
+    "addr:housenumber":"22",
+    "addr:postcode":"08805",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.529841,40.562291,-74.529841,40.562291",
     "geom:latitude":40.562291,
     "geom:longitude":-74.529841,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.hamiltonst.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DCD9dCItsNFEpRHwPD4BT_40.562291_-74.529841@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461278561,
     "wof:geomhash":"03bf488b9b600fdca81a6596584dfd09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":638732803
+        }
+    ],
     "wof:id":638732803,
-    "wof:lastmodified":1466675838,
+    "wof:lastmodified":1492042965,
     "wof:name":"Hamilton St Cafe & Stage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

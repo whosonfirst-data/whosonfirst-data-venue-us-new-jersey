@@ -2,9 +2,14 @@
   "id": 655789801,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Mountain View Ter Newton NJ 07860",
+    "addr:housenumber":"73",
+    "addr:postcode":"07860",
+    "addr:street":"Mountain View Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.83168,41.05335,-74.83168,41.05335",
     "geom:latitude":41.05335,
     "geom:longitude":-74.83168,
@@ -33,7 +38,10 @@
         "salvage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47GcKaKcdAH8XJv4GKwHin_41.053350_-74.831680@1303262270"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461320970,
     "wof:geomhash":"42cb85b8b9300b77a1ea2a821a4faa3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655789801
+        }
+    ],
     "wof:id":655789801,
-    "wof:lastmodified":1466686724,
+    "wof:lastmodified":1492046272,
     "wof:name":"A Auto Salvage Of Newton",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655518505,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Maplewood Ave Maplewood NJ 07040",
+    "addr:housenumber":"52",
+    "addr:postcode":"07040",
+    "addr:street":"Maplewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.271681,40.736028,-74.271681,40.736028",
     "geom:latitude":40.736028,
     "geom:longitude":-74.271681,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qRz67dM13zxzFyl1LNCVH_40.736028_-74.271681@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309619,
     "wof:geomhash":"55462b8e5dbf6f6588450388ee8be217",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":655518505
+        }
+    ],
     "wof:id":655518505,
-    "wof:lastmodified":1466678751,
+    "wof:lastmodified":1492051685,
     "wof:name":"Sunrise Assocation",
     "wof:parent_id":420526927,
     "wof:placetype":"venue",

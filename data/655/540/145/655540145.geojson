@@ -2,9 +2,14 @@
   "id": 655540145,
   "type": "Feature",
   "properties": {
+    "addr:full":"876 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"876",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245442,40.718672,-74.245442,40.718672",
     "geom:latitude":40.718672,
     "geom:longitude":-74.245442,
@@ -27,7 +32,13 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AdEiV9gfb5FeZkr4Lw1zz_40.718672_-74.245442@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461310432,
     "wof:geomhash":"c92dfb3ba7ee7eb3b50c7e0b5f90a5ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655540145
+        }
+    ],
     "wof:id":655540145,
-    "wof:lastmodified":1466679185,
+    "wof:lastmodified":1492053862,
     "wof:name":"Carl & Shirley's Delicatessen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

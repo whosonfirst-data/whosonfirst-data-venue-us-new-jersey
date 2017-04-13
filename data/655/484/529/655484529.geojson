@@ -2,9 +2,14 @@
   "id": 655484529,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 4th St Closter NJ 07624",
+    "addr:housenumber":"28",
+    "addr:postcode":"07624",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954655,40.964005,-73.954655,40.964005",
     "geom:latitude":40.964005,
     "geom:longitude":-73.954655,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wCFdfC7mQXiGzw7TzWR1I_40.964005_-73.954655@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308181,
     "wof:geomhash":"b4f33bc1543abb3f65c7140713e00785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655484529
+        }
+    ],
     "wof:id":655484529,
-    "wof:lastmodified":1466677702,
+    "wof:lastmodified":1492022599,
     "wof:name":"Franchise Marketing Assoc LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

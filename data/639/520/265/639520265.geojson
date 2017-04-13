@@ -2,9 +2,14 @@
   "id": 639520265,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 Cooper Landing Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"817",
+    "addr:postcode":"08002",
+    "addr:street":"Cooper Landing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.010107,39.938912,-75.010107,39.938912",
     "geom:latitude":39.938912,
     "geom:longitude":-75.010107,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n4ClOxbVJy8RN6n3qIpyC_39.938912_-75.010107@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298315,
     "wof:geomhash":"82d0c178773fd74710aead67548a23e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639520265
+        }
+    ],
     "wof:id":639520265,
-    "wof:lastmodified":1466695159,
+    "wof:lastmodified":1492024166,
     "wof:name":"Young Israel Of Cherry Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

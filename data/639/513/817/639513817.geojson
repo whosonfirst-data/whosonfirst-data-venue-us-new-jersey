@@ -2,9 +2,14 @@
   "id": 639513817,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 S John F Kennedy Way Willingboro NJ 08046",
+    "addr:housenumber":"80",
+    "addr:postcode":"08046",
+    "addr:street":"S John F Kennedy Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.887155,40.013974,-74.887155,40.013974",
     "geom:latitude":40.013974,
     "geom:longitude":-74.887155,
@@ -28,7 +33,10 @@
         "barber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z5oJ82av1AU57WRQA4N0g_40.013974_-74.887155@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461298012,
     "wof:geomhash":"1a0b685f2b3a73e16cb408cb8ddca6dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":639513817
+        }
+    ],
     "wof:id":639513817,
-    "wof:lastmodified":1466695098,
+    "wof:lastmodified":1492047354,
     "wof:name":"Plaza Discount & Beauty Supls",
     "wof:parent_id":420526697,
     "wof:placetype":"venue",

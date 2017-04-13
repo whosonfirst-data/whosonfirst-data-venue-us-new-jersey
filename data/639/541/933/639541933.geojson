@@ -2,9 +2,14 @@
   "id": 639541933,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 School House Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"158",
+    "addr:postcode":"07438",
+    "addr:street":"School House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5189,41.042271,-74.5189,41.042271",
     "geom:latitude":41.042271,
     "geom:longitude":-74.5189,
@@ -24,7 +29,10 @@
     "sg:postcode":"07438",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MvWJYzUm33K9UwsTmLuoP_41.042271_-74.518900@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461299403,
     "wof:geomhash":"337eaf1d19c3287ad6d88fc33de7c017",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":639541933
+        }
+    ],
     "wof:id":639541933,
-    "wof:lastmodified":1466695811,
+    "wof:lastmodified":1492082034,
     "wof:name":"Industrial Safety Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

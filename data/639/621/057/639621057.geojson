@@ -2,9 +2,14 @@
   "id": 639621057,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Lisa Pl Pine Brook NJ 07058",
+    "addr:housenumber":"9",
+    "addr:postcode":"07058",
+    "addr:street":"Lisa Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.360805,40.876933,-74.360805,40.876933",
     "geom:latitude":40.876933,
     "geom:longitude":-74.360805,
@@ -27,7 +32,13 @@
         "audit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vmwx94AxuXF9NrSZUG5Go_40.876933_-74.360805@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461302540,
     "wof:geomhash":"5a5741d4f5451c543891b15827bc30f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":639621057
+        }
+    ],
     "wof:id":639621057,
-    "wof:lastmodified":1466697461,
+    "wof:lastmodified":1492050997,
     "wof:name":"Audit Services Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

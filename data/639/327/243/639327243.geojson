@@ -2,9 +2,14 @@
   "id": 639327243,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"157",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134427,40.787093,-74.134427,40.787093",
     "geom:latitude":40.787093,
     "geom:longitude":-74.134427,
@@ -28,7 +33,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OTsy94R4wzg5ttG1njrW2_40.787093_-74.134427@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292547,
     "wof:geomhash":"db2e75270ad349ff673b236ade1b6595",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639327243
+        }
+    ],
     "wof:id":639327243,
-    "wof:lastmodified":1466691927,
+    "wof:lastmodified":1492055951,
     "wof:name":"Ki Delicia Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

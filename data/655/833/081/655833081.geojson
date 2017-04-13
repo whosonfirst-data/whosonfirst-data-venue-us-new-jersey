@@ -2,9 +2,14 @@
   "id": 655833081,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Brewers Bridge Rd Jackson NJ 08527",
+    "addr:housenumber":"301",
+    "addr:postcode":"08527",
+    "addr:street":"Brewers Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.272943,40.100512,-74.272943,40.100512",
     "geom:latitude":40.100512,
     "geom:longitude":-74.272943,
@@ -40,7 +45,13 @@
     ],
     "sg:website":"http://www.tiptam.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EEttQ7OvsQ2WWFFEQGGhz_40.100512_-74.272943@1303262281"
@@ -48,9 +59,18 @@
     "wof:country":"US",
     "wof:created":1461322789,
     "wof:geomhash":"bcd89603dbd88324c8e0e1ef8899d9b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655833081
+        }
+    ],
     "wof:id":655833081,
-    "wof:lastmodified":1466687660,
+    "wof:lastmodified":1492070967,
     "wof:name":"Tip Tam Camping Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

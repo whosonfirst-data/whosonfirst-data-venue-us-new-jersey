@@ -2,9 +2,14 @@
   "id": 639065489,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Lawrence Ave Howell NJ 07731",
+    "addr:housenumber":"9",
+    "addr:postcode":"07731",
+    "addr:street":"Lawrence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249304,40.147495,-74.249304,40.147495",
     "geom:latitude":40.147495,
     "geom:longitude":-74.249304,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71QC6Tya8IDoWik3K7dlcc_40.147495_-74.249304@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461286595,
     "wof:geomhash":"0002fb7315620ef2ef4038d5412a4947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639065489
+        }
+    ],
     "wof:id":639065489,
-    "wof:lastmodified":1466688219,
+    "wof:lastmodified":1492043907,
     "wof:name":"Decks Plus Home Inprovem",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

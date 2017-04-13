@@ -2,9 +2,14 @@
   "id": 639336511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 State Rte 31 Pennington NJ 08534",
+    "addr:housenumber":"2",
+    "addr:postcode":"08534",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.799056,40.326688,-74.799056,40.326688",
     "geom:latitude":40.326688,
     "geom:longitude":-74.799056,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.wachovia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CTKZApzxMc2hqOQSmLOTA_40.326688_-74.799056@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461292737,
     "wof:geomhash":"d9d929ec62cdb0d1ce59013ee70c50a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":639336511
+        }
+    ],
     "wof:id":639336511,
-    "wof:lastmodified":1466692304,
+    "wof:lastmodified":1492056047,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

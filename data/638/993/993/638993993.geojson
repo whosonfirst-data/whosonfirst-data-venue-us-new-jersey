@@ -2,9 +2,14 @@
   "id": 638993993,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Ridgewood Rd Maplewood NJ 07040",
+    "addr:housenumber":"411",
+    "addr:postcode":"07040",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.273108,40.74218,-74.273108,40.74218",
     "geom:latitude":40.74218,
     "geom:longitude":-74.273108,
@@ -24,7 +29,13 @@
     "sg:postcode":"07040",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85836873,
+        102085043,
+        420526927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oJB5VlCDDtsrpR7EZVpp5_40.742180_-74.273108@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461284980,
     "wof:geomhash":"d865762d23b0f12627c78b34e160a106",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85836873,
+            "region_id":85688607,
+            "venue_id":638993993
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":638993993
+        }
+    ],
     "wof:id":638993993,
-    "wof:lastmodified":1466692176,
+    "wof:lastmodified":1492041198,
     "wof:name":"Harold Bobrow Real Estate",
-    "wof:parent_id":420526927,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

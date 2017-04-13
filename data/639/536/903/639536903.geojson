@@ -2,9 +2,14 @@
   "id": 639536903,
   "type": "Feature",
   "properties": {
+    "addr:full":"171 Kingston Rd Parsippany NJ 07054",
+    "addr:housenumber":"171",
+    "addr:postcode":"07054",
+    "addr:street":"Kingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.438971,40.858422,-74.438971,40.858422",
     "geom:latitude":40.858422,
     "geom:longitude":-74.438971,
@@ -37,7 +42,11 @@
         85688607,
         85633793,
         85811583,
-        102087413
+        102087413,
+        85820421,
+        102191575,
+        404477319,
+        85975573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +62,22 @@
             "neighbourhood_id":85811583,
             "region_id":85688607,
             "venue_id":639536903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477319,
+            "locality_id":85975573,
+            "neighbourhood_id":85820421,
+            "region_id":85688607,
+            "venue_id":639536903
         }
     ],
     "wof:id":639536903,
-    "wof:lastmodified":1466695565,
+    "wof:lastmodified":1492053656,
     "wof:name":"Lake Parsippany General Store",
-    "wof:parent_id":85811583,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

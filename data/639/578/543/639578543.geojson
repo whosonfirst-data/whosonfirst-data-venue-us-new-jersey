@@ -2,9 +2,14 @@
   "id": 639578543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2003",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.48129,40.438321,-74.48129,40.438321",
     "geom:latitude":40.438321,
     "geom:longitude":-74.48129,
@@ -32,7 +37,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qj7ZmZ366IYDE1ZGJdwrg_40.438321_-74.481290@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461300846,
     "wof:geomhash":"a6e06ce02110e2ef136fcdd92ec3ea51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639578543
+        }
+    ],
     "wof:id":639578543,
-    "wof:lastmodified":1466696397,
+    "wof:lastmodified":1492042007,
     "wof:name":"Cal Scientific Inc",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639451243,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Newark Pompton Tpke Pompton Plains NJ 07444",
+    "addr:housenumber":"616",
+    "addr:postcode":"07444",
+    "addr:street":"Newark Pompton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295923,40.968696,-74.295923,40.968696",
     "geom:latitude":40.968696,
     "geom:longitude":-74.295923,
@@ -33,7 +38,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hXAmujqX0CCIaKr1oE1of_40.968696_-74.295923@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461295468,
     "wof:geomhash":"c47d6ab679eb5e8fe1a54dbdb55d2449",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":639451243
+        }
+    ],
     "wof:id":639451243,
-    "wof:lastmodified":1466693562,
+    "wof:lastmodified":1492041626,
     "wof:name":"Annie's Sweet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

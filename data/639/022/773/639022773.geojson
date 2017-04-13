@@ -2,9 +2,14 @@
   "id": 639022773,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Main St Andover NJ 07821",
+    "addr:housenumber":"33",
+    "addr:postcode":"07821",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.740811,40.969862,-74.740811,40.969862",
     "geom:latitude":40.969862,
     "geom:longitude":-74.740811,
@@ -27,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WGTcz7UyuWboPVYFqGNGk_40.969862_-74.740811@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285605,
     "wof:geomhash":"b152d6ed0f278fd60883d91784069266",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639022773
+        }
+    ],
     "wof:id":639022773,
-    "wof:lastmodified":1466673679,
+    "wof:lastmodified":1492043947,
     "wof:name":"Shell",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

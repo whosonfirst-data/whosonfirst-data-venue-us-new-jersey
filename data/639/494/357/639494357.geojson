@@ -2,9 +2,14 @@
   "id": 639494357,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"185",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143193,40.032492,-74.143193,40.032492",
     "geom:latitude":40.032492,
     "geom:longitude":-74.143193,
@@ -33,7 +38,10 @@
         "veterinary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SfHtzOY2qOUBOA0qBmxt7_40.032492_-74.143193@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461297189,
     "wof:geomhash":"c1b142f636956b660e5e6558d6063d55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639494357
+        }
+    ],
     "wof:id":639494357,
-    "wof:lastmodified":1466694473,
+    "wof:lastmodified":1492056707,
     "wof:name":"Jersey Shore Animal Center",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

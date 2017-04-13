@@ -2,9 +2,14 @@
   "id": 639298583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Albert St Pompton Plains NJ 07444",
+    "addr:housenumber":"1",
+    "addr:postcode":"07444",
+    "addr:street":"Albert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294793,40.952897,-74.294793,40.952897",
     "geom:latitude":40.952897,
     "geom:longitude":-74.294793,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IfGxUIYVU0vxksElm6mMu_40.952897_-74.294793@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461291942,
     "wof:geomhash":"b8fe322b01268898f0ff7145c5f8c672",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639298583
+        }
+    ],
     "wof:id":639298583,
-    "wof:lastmodified":1466691263,
+    "wof:lastmodified":1492042550,
     "wof:name":"On Top Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

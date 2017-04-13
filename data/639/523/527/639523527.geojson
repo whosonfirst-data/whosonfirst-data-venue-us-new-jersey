@@ -2,9 +2,14 @@
   "id": 639523527,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Birch Rd Tuckerton NJ 08087",
+    "addr:housenumber":"208",
+    "addr:postcode":"08087",
+    "addr:street":"Birch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.397038,39.599028,-74.397038,39.599028",
     "geom:latitude":39.599028,
     "geom:longitude":-74.397038,
@@ -27,7 +32,10 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uDzHbWLMfPS0RyagfUouq_39.599028_-74.397038@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298485,
     "wof:geomhash":"28b23637c626efcf33619bef048ab731",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526669,
+            "venue_id":639523527
+        }
+    ],
     "wof:id":639523527,
-    "wof:lastmodified":1466695282,
+    "wof:lastmodified":1492049582,
     "wof:name":"Betco Enterprises",
     "wof:parent_id":420526669,
     "wof:placetype":"venue",

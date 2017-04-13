@@ -2,9 +2,14 @@
   "id": 639540609,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Emory Ave Trenton NJ 08611",
+    "addr:housenumber":"230",
+    "addr:postcode":"08611",
+    "addr:street":"Emory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.746534,40.210175,-74.746534,40.210175",
     "geom:latitude":40.210175,
     "geom:longitude":-74.746534,
@@ -27,7 +32,14 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u0gx08Yij4UrTPG2igHT0_40.210175_-74.746534@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299327,
     "wof:geomhash":"b99c7aa124bf9dc9d4526f7b51ee7251",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639540609
+        }
+    ],
     "wof:id":639540609,
-    "wof:lastmodified":1466695795,
+    "wof:lastmodified":1492050867,
     "wof:name":"Grillos Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

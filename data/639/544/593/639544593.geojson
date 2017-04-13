@@ -2,9 +2,14 @@
   "id": 639544593,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Greenwood Dr Millburn NJ 07041",
+    "addr:housenumber":"34",
+    "addr:postcode":"07041",
+    "addr:street":"Greenwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29748,40.717995,-74.29748,40.717995",
     "geom:latitude":40.717995,
     "geom:longitude":-74.29748,
@@ -27,7 +32,10 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pzfMupJPaNRTZQaiTqVDi_40.717995_-74.297480@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299519,
     "wof:geomhash":"a6973e27034df1494afbebb5aaa2c041",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639544593
+        }
+    ],
     "wof:id":639544593,
-    "wof:lastmodified":1466695714,
+    "wof:lastmodified":1492076848,
     "wof:name":"Recoup",
     "wof:parent_id":420526947,
     "wof:placetype":"venue",

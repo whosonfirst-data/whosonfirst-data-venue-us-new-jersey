@@ -2,9 +2,14 @@
   "id": 655733855,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Central Ave Clark NJ 07066",
+    "addr:housenumber":"118",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.30697,40.629029,-74.30697,40.629029",
     "geom:latitude":40.629029,
     "geom:longitude":-74.30697,
@@ -34,7 +39,13 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YThaRg6bCuyEyhWsLgoue_40.629029_-74.306970@1303262257"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461318680,
     "wof:geomhash":"d2a199115b025768ad6bc4b98eae31dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733855
+        }
+    ],
     "wof:id":655733855,
-    "wof:lastmodified":1466685238,
+    "wof:lastmodified":1492023966,
     "wof:name":"Burger King Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

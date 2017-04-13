@@ -2,9 +2,14 @@
   "id": 639476593,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Forest St North Arlington NJ 07031",
+    "addr:housenumber":"17",
+    "addr:postcode":"07031",
+    "addr:street":"Forest St North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130999,40.778616,-74.130999,40.778616",
     "geom:latitude":40.778616,
     "geom:longitude":-74.130999,
@@ -27,7 +32,14 @@
         "eggs"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lhTLGgRXImbWNeTFoCxKl_40.778616_-74.130999@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296457,
     "wof:geomhash":"1caadf72d3b92419f8c940a8206d2d2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639476593
+        }
+    ],
     "wof:id":639476593,
-    "wof:lastmodified":1466694202,
+    "wof:lastmodified":1492049747,
     "wof:name":"Forest Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

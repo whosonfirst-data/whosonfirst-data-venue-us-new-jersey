@@ -2,9 +2,14 @@
   "id": 655623109,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Lafayette Rd Newton NJ 07871",
+    "addr:housenumber":"354",
+    "addr:postcode":"07871",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.651997,41.066517,-74.651997,41.066517",
     "geom:latitude":41.066517,
     "geom:longitude":-74.651997,
@@ -32,7 +37,10 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LhGQJZMoI9U2oyCCTalta_41.066517_-74.651997@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461314018,
     "wof:geomhash":"b91bc8219eca3ddcbd80249d35a3094b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527665,
+            "venue_id":655623109
+        }
+    ],
     "wof:id":655623109,
-    "wof:lastmodified":1466681762,
+    "wof:lastmodified":1492029592,
     "wof:name":"Executive Services",
     "wof:parent_id":420527665,
     "wof:placetype":"venue",

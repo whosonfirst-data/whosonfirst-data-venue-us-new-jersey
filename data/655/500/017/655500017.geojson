@@ -2,9 +2,14 @@
   "id": 655500017,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Pennington Ave Trenton NJ 08618",
+    "addr:housenumber":"330",
+    "addr:postcode":"08618",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.769692,40.232303,-74.769692,40.232303",
     "geom:latitude":40.232303,
     "geom:longitude":-74.769692,
@@ -24,7 +29,14 @@
     "sg:postcode":"08618",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b6BJaxSRoOCwFP3QmRJOX_40.232303_-74.769692@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461308837,
     "wof:geomhash":"5b1ae35de11762e2aa67be6c9320e1f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655500017
+        }
+    ],
     "wof:id":655500017,
-    "wof:lastmodified":1466678085,
+    "wof:lastmodified":1492045000,
     "wof:name":"Upholstery Connect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

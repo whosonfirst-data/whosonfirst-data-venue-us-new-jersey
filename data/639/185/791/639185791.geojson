@@ -2,9 +2,14 @@
   "id": 639185791,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Paterson Ave Little Falls NJ 07424",
+    "addr:housenumber":"17",
+    "addr:postcode":"07424",
+    "addr:street":"Paterson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225259,40.88274,-74.225259,40.88274",
     "geom:latitude":40.88274,
     "geom:longitude":-74.225259,
@@ -27,7 +32,13 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JRaz4hc7JxCgE0Yo9Mg1t_40.882740_-74.225259@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289313,
     "wof:geomhash":"810128a8b2e5aab7f7cb735e9de861ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":639185791
+        }
+    ],
     "wof:id":639185791,
-    "wof:lastmodified":1466686627,
+    "wof:lastmodified":1492030618,
     "wof:name":"Little Falls Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

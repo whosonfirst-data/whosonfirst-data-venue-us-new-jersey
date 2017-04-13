@@ -2,9 +2,14 @@
   "id": 638993233,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Edison Ave Oakland NJ 07436",
+    "addr:housenumber":"40",
+    "addr:postcode":"07436",
+    "addr:street":"Edison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263482,41.022666,-74.263482,41.022666",
     "geom:latitude":41.022666,
     "geom:longitude":-74.263482,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"www.cladmetalindustries.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pk94WQBZApWPtfyZyj0IU_41.022666_-74.263482@1294171694"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461284963,
     "wof:geomhash":"eca52026a7845a1515e2febfa169d7f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":638993233
+        }
+    ],
     "wof:id":638993233,
-    "wof:lastmodified":1466692148,
+    "wof:lastmodified":1492076605,
     "wof:name":"Clad Metal Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

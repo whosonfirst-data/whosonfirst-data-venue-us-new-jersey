@@ -2,9 +2,14 @@
   "id": 638931935,
   "type": "Feature",
   "properties": {
+    "addr:full":"378 Alexander St Princeton NJ 08540",
+    "addr:housenumber":"378",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652512,40.331866,-74.652512,40.331866",
     "geom:latitude":40.331866,
     "geom:longitude":-74.652512,
@@ -28,7 +33,13 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BHhXsYZpJL8d099qVkOeb_40.331866_-74.652512@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283555,
     "wof:geomhash":"020f83b7bf542efbbbbe7365d8ca8385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":638931935
+        }
+    ],
     "wof:id":638931935,
-    "wof:lastmodified":1466690945,
+    "wof:lastmodified":1492052205,
     "wof:name":"Rusty Scupper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

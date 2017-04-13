@@ -2,9 +2,14 @@
   "id": 639472445,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Salem Rd Union NJ 07083",
+    "addr:housenumber":"517",
+    "addr:postcode":"07083",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256186,40.678186,-74.256186,40.678186",
     "geom:latitude":40.678186,
     "geom:longitude":-74.256186,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CHEODeE8osXe1lWMAywES_40.678186_-74.256186@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296290,
     "wof:geomhash":"b703f79f52eb50126772fb9f99e23722",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527729,
+            "venue_id":639472445
+        }
+    ],
     "wof:id":639472445,
-    "wof:lastmodified":1466694222,
+    "wof:lastmodified":1492049622,
     "wof:name":"Stuart Siegel DMD",
     "wof:parent_id":420527729,
     "wof:placetype":"venue",

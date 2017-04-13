@@ -2,9 +2,14 @@
   "id": 639573565,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Main St Glen Rock NJ 07452",
+    "addr:housenumber":"220",
+    "addr:postcode":"07452",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136817,40.95916,-74.136817,40.95916",
     "geom:latitude":40.95916,
     "geom:longitude":-74.136817,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27ho4URXtT3IAeFf8GwHs7_40.959160_-74.136817@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300654,
     "wof:geomhash":"918f5c6fc7304fd3cbde9a0e52aebfac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639573565
+        }
+    ],
     "wof:id":639573565,
-    "wof:lastmodified":1466696339,
+    "wof:lastmodified":1492081931,
     "wof:name":"New Beginnings Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638835505,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Bradford Ct Phillipsburg NJ 08865",
+    "addr:housenumber":"35",
+    "addr:postcode":"08865",
+    "addr:street":"Bradford Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167629,40.711999,-75.167629,40.711999",
     "geom:latitude":40.711999,
     "geom:longitude":-75.167629,
@@ -28,7 +33,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c4mFUxowGqa9PG3T9CcTD_40.711999_-75.167629@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281128,
     "wof:geomhash":"5871dabd7fd600ca06ac43038561267c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":638835505
+        }
+    ],
     "wof:id":638835505,
-    "wof:lastmodified":1466689026,
+    "wof:lastmodified":1492050568,
     "wof:name":"Webbers Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

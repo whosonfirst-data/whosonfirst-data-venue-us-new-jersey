@@ -2,9 +2,14 @@
   "id": 638902223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1169 Bergen Ave Camden NJ 08105",
+    "addr:housenumber":"1169",
+    "addr:postcode":"08105",
+    "addr:street":"Bergen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.087628,39.962276,-75.087628,39.962276",
     "geom:latitude":39.962276,
     "geom:longitude":-75.087628,
@@ -24,7 +29,14 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526751,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ERJm5RtcQZVgkw5Xcnz51_39.962276_-75.087628@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461282803,
     "wof:geomhash":"1fe2f74b26ee0b26cc203607aa37120c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526751,
+            "region_id":85688607,
+            "venue_id":638902223
+        }
+    ],
     "wof:id":638902223,
-    "wof:lastmodified":1466690123,
+    "wof:lastmodified":1492043240,
     "wof:name":"Friends of Angel Fuentes",
     "wof:parent_id":420526751,
     "wof:placetype":"venue",

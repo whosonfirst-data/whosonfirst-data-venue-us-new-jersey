@@ -2,9 +2,14 @@
   "id": 655838371,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 Goritz Rd Milford NJ 08848",
+    "addr:housenumber":"264",
+    "addr:postcode":"08848",
+    "addr:street":"Goritz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.065427,40.625374,-75.065427,40.625374",
     "geom:latitude":40.625374,
     "geom:longitude":-75.065427,
@@ -41,7 +46,13 @@
         "timber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jGWOhhE8EGm5v87bPe06P_40.625374_-75.065427@1303262283"
@@ -49,9 +60,18 @@
     "wof:country":"US",
     "wof:created":1461323003,
     "wof:geomhash":"821cf7e1dc4796127fbf2e399c569b33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":655838371
+        }
+    ],
     "wof:id":655838371,
-    "wof:lastmodified":1466687908,
+    "wof:lastmodified":1492070335,
     "wof:name":"Titus Ranch East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

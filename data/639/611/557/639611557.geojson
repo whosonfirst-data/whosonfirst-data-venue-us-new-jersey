@@ -2,9 +2,14 @@
   "id": 639611557,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Lincoln Ave Hawthorne NJ 07410",
+    "addr:housenumber":"140",
+    "addr:postcode":"07410",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14672,40.947039,-74.14672,40.947039",
     "geom:latitude":40.947039,
     "geom:longitude":-74.14672,
@@ -31,7 +36,14 @@
         "for"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17lewndIlujNfTjH1FouA3_40.947039_-74.146720@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461302178,
     "wof:geomhash":"11ec697f42db6b04d6d41ee704403e84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639611557
+        }
+    ],
     "wof:id":639611557,
-    "wof:lastmodified":1466697181,
+    "wof:lastmodified":1492047639,
     "wof:name":"U S Global Flag Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

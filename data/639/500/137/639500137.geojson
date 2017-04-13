@@ -2,9 +2,14 @@
   "id": 639500137,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 Bennetts Ln Somerset NJ 08873",
+    "addr:housenumber":"182",
+    "addr:postcode":"08873",
+    "addr:street":"Bennetts Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.512331,40.480133,-74.512331,40.480133",
     "geom:latitude":40.480133,
     "geom:longitude":-74.512331,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976119,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fgvBCPOOUcUL7FhZBocbS_40.480133_-74.512331@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297415,
     "wof:geomhash":"6b3fd80d7e48d02dbbbda64894e9af0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976119,
+            "region_id":85688607,
+            "venue_id":639500137
+        }
+    ],
     "wof:id":639500137,
-    "wof:lastmodified":1466694675,
+    "wof:lastmodified":1492040980,
     "wof:name":"CMU Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

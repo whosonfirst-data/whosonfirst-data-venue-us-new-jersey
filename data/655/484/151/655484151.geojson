@@ -2,9 +2,14 @@
   "id": 655484151,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 E Railroad Ave Jamesburg NJ 08831",
+    "addr:housenumber":"29",
+    "addr:postcode":"08831",
+    "addr:street":"E Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.434945,40.347758,-74.434945,40.347758",
     "geom:latitude":40.347758,
     "geom:longitude":-74.434945,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09ABWwoY0aRDtXHfn70qi1_40.347758_-74.434945@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308168,
     "wof:geomhash":"cf3115db84056940568b9187ea945928",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655484151
+        }
+    ],
     "wof:id":655484151,
-    "wof:lastmodified":1466677603,
+    "wof:lastmodified":1492071988,
     "wof:name":"Jamesburg Dental Ctr",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

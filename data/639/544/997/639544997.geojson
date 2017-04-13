@@ -2,9 +2,14 @@
   "id": 639544997,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 Easy St Howell NJ 07731",
+    "addr:housenumber":"158",
+    "addr:postcode":"07731",
+    "addr:street":"Easy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.163427,40.144273,-74.163427,40.144273",
     "geom:latitude":40.144273,
     "geom:longitude":-74.163427,
@@ -28,7 +33,10 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7esRk5wLISg7QU7UpiIysX_40.144273_-74.163427@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461299533,
     "wof:geomhash":"a98c9909442642079931ff7bf01bffa6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527301,
+            "venue_id":639544997
+        }
+    ],
     "wof:id":639544997,
-    "wof:lastmodified":1466695827,
+    "wof:lastmodified":1492056013,
     "wof:name":"Rovans Brittanys",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

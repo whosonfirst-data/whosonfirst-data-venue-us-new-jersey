@@ -2,9 +2,14 @@
   "id": 655400129,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Henderson St Phillipsburg NJ 08865",
+    "addr:housenumber":"80",
+    "addr:postcode":"08865",
+    "addr:street":"Henderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190161,40.693087,-75.190161,40.693087",
     "geom:latitude":40.693087,
     "geom:longitude":-75.190161,
@@ -28,7 +33,14 @@
         "doll"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JPGe3LQBEs5sDchdcgChQ_40.693087_-75.190161@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461304638,
     "wof:geomhash":"b84eb911e696cb5386a50be96d190335",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655400129
+        }
+    ],
     "wof:id":655400129,
-    "wof:lastmodified":1466675475,
+    "wof:lastmodified":1492041832,
     "wof:name":"Especially For Dolls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

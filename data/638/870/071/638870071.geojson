@@ -2,9 +2,14 @@
   "id": 638870071,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Rick Rd Milford NJ 08848",
+    "addr:housenumber":"161",
+    "addr:postcode":"08848",
+    "addr:street":"Rick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032206,40.593142,-75.032206,40.593142",
     "geom:latitude":40.593142,
     "geom:longitude":-75.032206,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fUtM2uadfuGyiXMdylwsi_40.593142_-75.032206@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461281965,
     "wof:geomhash":"37939f05124f94bd1e2d5aded3205063",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527041,
+            "venue_id":638870071
+        }
+    ],
     "wof:id":638870071,
-    "wof:lastmodified":1466689298,
+    "wof:lastmodified":1492024352,
     "wof:name":"Henderson Electrical Services",
     "wof:parent_id":420527041,
     "wof:placetype":"venue",

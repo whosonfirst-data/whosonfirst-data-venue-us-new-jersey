@@ -2,9 +2,14 @@
   "id": 638737539,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Mill Rd Milford NJ 08848",
+    "addr:housenumber":"10",
+    "addr:postcode":"08848",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155391,40.619695,-75.155391,40.619695",
     "geom:latitude":40.619695,
     "geom:longitude":-75.155391,
@@ -27,7 +32,13 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DeVElgSqkVEPEiZEM87pv_40.619695_-75.155391@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278675,
     "wof:geomhash":"a2c8e1405207dc95cc77673b2e167461",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":638737539
+        }
+    ],
     "wof:id":638737539,
-    "wof:lastmodified":1466676508,
+    "wof:lastmodified":1492069477,
     "wof:name":"Fibermark Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

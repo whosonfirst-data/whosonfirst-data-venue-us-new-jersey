@@ -2,9 +2,14 @@
   "id": 655689121,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Oakland Ave Closter NJ 07624",
+    "addr:housenumber":"137",
+    "addr:postcode":"07624",
+    "addr:street":"Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960048,40.972458,-73.960048,40.972458",
     "geom:latitude":40.972458,
     "geom:longitude":-73.960048,
@@ -29,7 +34,14 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a9X6vCcXX5RanqG6KeplL_40.972458_-73.960048@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316827,
     "wof:geomhash":"0ee4f916741475a929cd99270ef95822",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655689121
+        }
+    ],
     "wof:id":655689121,
-    "wof:lastmodified":1466683931,
+    "wof:lastmodified":1492043698,
     "wof:name":"Mt. Kisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

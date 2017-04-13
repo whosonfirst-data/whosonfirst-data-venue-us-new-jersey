@@ -2,9 +2,14 @@
   "id": 655560971,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Millridge Rd Secaucus NJ 07094",
+    "addr:housenumber":"40",
+    "addr:postcode":"07094",
+    "addr:street":"Millridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051071,40.802154,-74.051071,40.802154",
     "geom:latitude":40.802154,
     "geom:longitude":-74.051071,
@@ -24,7 +29,15 @@
     "sg:postcode":"07094",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85804149,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yJvYMUbC3Meij10nD9PKB_40.802154_-74.051071@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461311318,
     "wof:geomhash":"b31bb3c44e46954e95ab761cc4b863c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85804149,
+            "region_id":85688607,
+            "venue_id":655560971
+        }
+    ],
     "wof:id":655560971,
-    "wof:lastmodified":1466679929,
+    "wof:lastmodified":1492053884,
     "wof:name":"Dhs Regional School-Hudson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

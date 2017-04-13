@@ -2,9 +2,14 @@
   "id": 655807033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 Route 130 N Burlington NJ 08016",
+    "addr:housenumber":"1202",
+    "addr:postcode":"08016",
+    "addr:street":"Route 130 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.875984,40.064537,-74.875984,40.064537",
     "geom:latitude":40.064537,
     "geom:longitude":-74.875984,
@@ -34,7 +39,10 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EWVkhg9vypU38p94xgwAN_40.064537_-74.875984@1303262275"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461321660,
     "wof:geomhash":"07d490c26d5f9ff49286aa2ae9efe7f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655807033
+        }
+    ],
     "wof:id":655807033,
-    "wof:lastmodified":1466687033,
+    "wof:lastmodified":1492065185,
     "wof:name":"Farkas Auto Body",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

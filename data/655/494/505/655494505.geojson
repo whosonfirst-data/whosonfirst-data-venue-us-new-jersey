@@ -2,9 +2,14 @@
   "id": 655494505,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hoyt Ln Buttzville NJ 07823",
+    "addr:housenumber":"4",
+    "addr:postcode":"07823",
+    "addr:street":"Hoyt Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008661,40.833901,-75.008661,40.833901",
     "geom:latitude":40.833901,
     "geom:longitude":-75.008661,
@@ -27,7 +32,14 @@
         "plating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        85976489,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b5zey7A7YEsaoUlCcjSRt_40.833901_-75.008661@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308605,
     "wof:geomhash":"a4363672fee4ad42f2e4e38dbec21206",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "locality_id":85976489,
+            "region_id":85688607,
+            "venue_id":655494505
+        }
+    ],
     "wof:id":655494505,
-    "wof:lastmodified":1466677958,
+    "wof:lastmodified":1492023585,
     "wof:name":"Cramer Plating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

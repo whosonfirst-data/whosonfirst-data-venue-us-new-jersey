@@ -2,9 +2,14 @@
   "id": 639574937,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Trenton Ave Frenchtown NJ 08825",
+    "addr:housenumber":"15",
+    "addr:postcode":"08825",
+    "addr:street":"Trenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.060938,40.525682,-75.060938,40.525682",
     "geom:latitude":40.525682,
     "geom:longitude":-75.060938,
@@ -28,7 +33,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477455,
+        85633793,
+        85975693,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59rtTnnzu6odKD5FBx60FF_40.525682_-75.060938@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461300703,
     "wof:geomhash":"696819ec486f6609a87ce69e8ded5c92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477455,
+            "locality_id":85975693,
+            "region_id":85688607,
+            "venue_id":639574937
+        }
+    ],
     "wof:id":639574937,
-    "wof:lastmodified":1466696420,
+    "wof:lastmodified":1492049596,
     "wof:name":"Altschiller Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

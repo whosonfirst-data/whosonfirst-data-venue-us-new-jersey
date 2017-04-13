@@ -2,9 +2,14 @@
   "id": 639476265,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Harbor View Dr Andover NJ 07821",
+    "addr:housenumber":"12",
+    "addr:postcode":"07821",
+    "addr:street":"Harbor View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.725482,40.978191,-74.725482,40.978191",
     "geom:latitude":40.978191,
     "geom:longitude":-74.725482,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xN8vlNX9863uVfZg6ArqB_40.978191_-74.725482@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461296441,
     "wof:geomhash":"ca8a7c7eadd2956a47d287635e067baf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639476265
+        }
+    ],
     "wof:id":639476265,
-    "wof:lastmodified":1466694148,
+    "wof:lastmodified":1492038958,
     "wof:name":"Family Farms",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

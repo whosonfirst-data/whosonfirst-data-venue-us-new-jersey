@@ -2,9 +2,14 @@
   "id": 639323979,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Clydesdale Dr Burlington NJ 08016",
+    "addr:housenumber":"35",
+    "addr:postcode":"08016",
+    "addr:street":"Clydesdale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.810947,40.088495,-74.810947,40.088495",
     "geom:latitude":40.088495,
     "geom:longitude":-74.810947,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JYwSuJjeTXPaPaDpmAWoK_40.088495_-74.810947@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292480,
     "wof:geomhash":"bec635541d6fa7b26d5b72dfa66e5e2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":639323979
+        }
+    ],
     "wof:id":639323979,
-    "wof:lastmodified":1466691850,
+    "wof:lastmodified":1492042234,
     "wof:name":"Fahrenheit Graphics",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

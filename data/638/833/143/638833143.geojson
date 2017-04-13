@@ -2,9 +2,14 @@
   "id": 638833143,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Thomas Dr Englishtown NJ 07726",
+    "addr:housenumber":"62",
+    "addr:postcode":"07726",
+    "addr:street":"Thomas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.326253,40.287132,-74.326253,40.287132",
     "geom:latitude":40.287132,
     "geom:longitude":-74.326253,
@@ -32,7 +37,10 @@
         85633793,
         85976027,
         102085049,
-        85851879
+        85851879,
+        420527289,
+        102191575,
+        404478363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +57,22 @@
             "neighbourhood_id":85851879,
             "region_id":85688607,
             "venue_id":638833143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "locality_id":85976027,
+            "neighbourhood_id":420527289,
+            "region_id":85688607,
+            "venue_id":638833143
         }
     ],
     "wof:id":638833143,
-    "wof:lastmodified":1466688971,
+    "wof:lastmodified":1492041356,
     "wof:name":"Eisen + Associates Llc",
-    "wof:parent_id":85851879,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

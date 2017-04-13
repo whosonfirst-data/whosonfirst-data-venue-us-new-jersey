@@ -2,9 +2,14 @@
   "id": 655477975,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Jay Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"150",
+    "addr:postcode":"07071",
+    "addr:street":"Jay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.12587,40.817335,-74.12587,40.817335",
     "geom:latitude":40.817335,
     "geom:longitude":-74.12587,
@@ -27,7 +32,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S7wew7RM98lZiecXKwSJE_40.817335_-74.125870@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307917,
     "wof:geomhash":"68cf0505176ee60265ec98cc92ce5450",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":655477975
+        }
+    ],
     "wof:id":655477975,
-    "wof:lastmodified":1466677736,
+    "wof:lastmodified":1492045027,
     "wof:name":"Benco General Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

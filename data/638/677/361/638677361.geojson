@@ -2,9 +2,14 @@
   "id": 638677361,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Corporate Pl S Piscataway NJ 08854",
+    "addr:housenumber":"20",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Pl S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.454115,40.550631,-74.454115,40.550631",
     "geom:latitude":40.550631,
     "geom:longitude":-74.454115,
@@ -28,7 +33,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZSXiZ4aYNyzCTO3ZmMITZ_40.550631_-74.454115@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461276685,
     "wof:geomhash":"02105a83dc0710730b9a06039b5bce2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":638677361
+        }
+    ],
     "wof:id":638677361,
-    "wof:lastmodified":1466686111,
+    "wof:lastmodified":1492062463,
     "wof:name":"Mahi Networks Inc",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

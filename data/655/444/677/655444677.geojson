@@ -2,9 +2,14 @@
   "id": 655444677,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Church Rd Marlton NJ 08053",
+    "addr:housenumber":"111",
+    "addr:postcode":"08053",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.921585,39.914949,-74.921585,39.914949",
     "geom:latitude":39.914949,
     "geom:longitude":-74.921585,
@@ -28,7 +33,10 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hOtq1uPQukh6cTGBJzT8c_39.914949_-74.921585@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306463,
     "wof:geomhash":"d415e45c782c2db056a6145ee121b462",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655444677
+        }
+    ],
     "wof:id":655444677,
-    "wof:lastmodified":1466676689,
+    "wof:lastmodified":1492024300,
     "wof:name":"Chase Massage & Skin Care",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

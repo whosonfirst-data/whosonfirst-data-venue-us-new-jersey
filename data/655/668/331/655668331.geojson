@@ -2,9 +2,14 @@
   "id": 655668331,
   "type": "Feature",
   "properties": {
+    "addr:full":"679 W Grand Ave Rahway NJ 07065",
+    "addr:housenumber":"679",
+    "addr:postcode":"07065",
+    "addr:street":"W Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281197,40.6147,-74.281197,40.6147",
     "geom:latitude":40.6147,
     "geom:longitude":-74.281197,
@@ -28,7 +33,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ASFp5rE9DUgLg5dgsWxd8_40.614776_-74.281199@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315932,
     "wof:geomhash":"5a9c13117cab37a720acf4dac8fa632a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655668331
+        }
+    ],
     "wof:id":655668331,
-    "wof:lastmodified":1466683461,
+    "wof:lastmodified":1492024146,
     "wof:name":"Rosko's Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

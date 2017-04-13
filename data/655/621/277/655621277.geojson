@@ -2,9 +2,14 @@
   "id": 655621277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1985 Rutgers Blvd Lakewood NJ 08701",
+    "addr:housenumber":"1985",
+    "addr:postcode":"08701",
+    "addr:street":"Rutgers Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.164118,40.070838,-74.164118,40.070838",
     "geom:latitude":40.070838,
     "geom:longitude":-74.164118,
@@ -30,7 +35,10 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VSmsunhAXD4ppOEZUCIb8_40.070838_-74.164118@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461313946,
     "wof:geomhash":"ab9193cbd827d769b9bb1a8089a21989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655621277
+        }
+    ],
     "wof:id":655621277,
-    "wof:lastmodified":1466681741,
+    "wof:lastmodified":1492042989,
     "wof:name":"Michaels Mechanical Corp",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

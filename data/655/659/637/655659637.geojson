@@ -2,9 +2,14 @@
   "id": 655659637,
   "type": "Feature",
   "properties": {
+    "addr:full":"6845 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6845",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.051826,39.966621,-75.051826,39.966621",
     "geom:latitude":39.966621,
     "geom:longitude":-75.051826,
@@ -31,7 +36,10 @@
     ],
     "sg:website":"http://www.tektroncorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10IXMFe8BT1N4pNLy0GSgm_39.966365_-75.052370@1293134755"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461315602,
     "wof:geomhash":"0e5e8ea3bbbc839e03b48d8b08802ea7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526789,
+            "venue_id":655659637
+        }
+    ],
     "wof:id":655659637,
-    "wof:lastmodified":1466683254,
+    "wof:lastmodified":1492057981,
     "wof:name":"Tektron Corporation",
     "wof:parent_id":420526789,
     "wof:placetype":"venue",

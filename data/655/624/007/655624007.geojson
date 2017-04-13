@@ -2,9 +2,14 @@
   "id": 655624007,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Pine Hill Dr Saddle River NJ 07458",
+    "addr:housenumber":"27",
+    "addr:postcode":"07458",
+    "addr:street":"Pine Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.099431,41.060485,-74.099431,41.060485",
     "geom:latitude":41.060485,
     "geom:longitude":-74.099431,
@@ -24,7 +29,14 @@
     "sg:postcode":"07458",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NrTmkEUyQYUceSzdpXE0R_41.060485_-74.099431@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314066,
     "wof:geomhash":"2e7a6e588f5c558207717a779e9c56a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655624007
+        }
+    ],
     "wof:id":655624007,
-    "wof:lastmodified":1466681751,
+    "wof:lastmodified":1492053980,
     "wof:name":"Pine Hill Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639353111,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Magnolia Dr Spring Lake NJ 07762",
+    "addr:housenumber":"18",
+    "addr:postcode":"07762",
+    "addr:street":"Magnolia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.040248,40.152991,-74.040248,40.152991",
     "geom:latitude":40.152991,
     "geom:longitude":-74.040248,
@@ -28,7 +33,14 @@
         "information"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478395,
+        85633793,
+        85975395,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aV8PqK5j5sSuACfwrmK8X_40.152991_-74.040248@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461293087,
     "wof:geomhash":"c37317ba7554adece3d98ebce2578f70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478395,
+            "locality_id":85975395,
+            "region_id":85688607,
+            "venue_id":639353111
+        }
+    ],
     "wof:id":639353111,
-    "wof:lastmodified":1466692402,
+    "wof:lastmodified":1492051540,
     "wof:name":"Micar Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

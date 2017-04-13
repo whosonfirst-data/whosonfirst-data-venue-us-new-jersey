@@ -2,9 +2,14 @@
   "id": 639555783,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Beaverson Blvd Brick NJ 08723",
+    "addr:housenumber":"35",
+    "addr:postcode":"08723",
+    "addr:street":"Beaverson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145911,40.03231,-74.145911,40.03231",
     "geom:latitude":40.03231,
     "geom:longitude":-74.145911,
@@ -28,7 +33,10 @@
         "accounting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gCEwPg3bbOBHR3vlvM57e_40.032310_-74.145911@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299974,
     "wof:geomhash":"bc9f148b6526cabd87336791601bac2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639555783
+        }
+    ],
     "wof:id":639555783,
-    "wof:lastmodified":1466695865,
+    "wof:lastmodified":1492033810,
     "wof:name":"Meyer & Lederman Cpas LLC",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

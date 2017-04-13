@@ -2,9 +2,14 @@
   "id": 655790541,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 State Route 10 Randolph NJ 07869",
+    "addr:housenumber":"215",
+    "addr:postcode":"07869",
+    "addr:street":"State Route 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.544833,40.871464,-74.544833,40.871464",
     "geom:latitude":40.871464,
     "geom:longitude":-74.544833,
@@ -27,7 +32,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mBjE9V867mj4jajjsX1Pb_40.871464_-74.544833@1303262271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320997,
     "wof:geomhash":"1e4190eb65d8c8af3191601982f4cb65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790541
+        }
+    ],
     "wof:id":655790541,
-    "wof:lastmodified":1466686660,
+    "wof:lastmodified":1492068959,
     "wof:name":"Custom Dermaceuticals",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

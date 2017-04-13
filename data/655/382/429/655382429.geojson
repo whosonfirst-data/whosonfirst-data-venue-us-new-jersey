@@ -2,9 +2,14 @@
   "id": 655382429,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Blake Dr Howell NJ 07731",
+    "addr:housenumber":"11",
+    "addr:postcode":"07731",
+    "addr:street":"Blake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149845,40.101629,-74.149845,40.101629",
     "geom:latitude":40.101629,
     "geom:longitude":-74.149845,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        85976041,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WR6hOhBEJCNQFqnlQUm9i_40.101629_-74.149845@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303891,
     "wof:geomhash":"16b204e10838c63c983690af91b922a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "locality_id":85976041,
+            "region_id":85688607,
+            "venue_id":655382429
+        }
+    ],
     "wof:id":655382429,
-    "wof:lastmodified":1466675039,
+    "wof:lastmodified":1492056022,
     "wof:name":"MBI Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

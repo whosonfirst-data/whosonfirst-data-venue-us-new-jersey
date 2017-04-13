@@ -2,9 +2,14 @@
   "id": 655447453,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 S Murray Ave Ridgewood NJ 07450",
+    "addr:housenumber":"20",
+    "addr:postcode":"07450",
+    "addr:street":"S Murray Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132244,40.982296,-74.132244,40.982296",
     "geom:latitude":40.982296,
     "geom:longitude":-74.132244,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UCwEE5rk5mJDRfGbcNifD_40.982296_-74.132244@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461306576,
     "wof:geomhash":"3fee199b356c3a818eac3790e06cecd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":655447453
+        }
+    ],
     "wof:id":655447453,
-    "wof:lastmodified":1466676806,
+    "wof:lastmodified":1492047574,
     "wof:name":"News Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

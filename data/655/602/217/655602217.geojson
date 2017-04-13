@@ -2,9 +2,14 @@
   "id": 655602217,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Hamilton Ave Leonardo NJ 07737",
+    "addr:housenumber":"49",
+    "addr:postcode":"07737",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061319,40.418145,-74.061319,40.418145",
     "geom:latitude":40.418145,
     "geom:longitude":-74.061319,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QrKXE7Xs8AXKBFT0dXFPr_40.418145_-74.061319@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313098,
     "wof:geomhash":"6c1257ebdadf1fe45f4c91f72838ab66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":655602217
+        }
+    ],
     "wof:id":655602217,
-    "wof:lastmodified":1466681046,
+    "wof:lastmodified":1492051986,
     "wof:name":"Gpk Builders Inc",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

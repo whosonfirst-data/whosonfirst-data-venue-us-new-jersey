@@ -2,9 +2,14 @@
   "id": 655565979,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Exeter Ct Princeton NJ 08540",
+    "addr:housenumber":"19",
+    "addr:postcode":"08540",
+    "addr:street":"Exeter Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.650946,40.32734,-74.650946,40.32734",
     "geom:latitude":40.32734,
     "geom:longitude":-74.650946,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PPtF63oDYKEPJ6QZ2bn63_40.327340_-74.650946@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311538,
     "wof:geomhash":"56459e040b75482ba52e846a13cc9d3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655565979
+        }
+    ],
     "wof:id":655565979,
-    "wof:lastmodified":1466680013,
+    "wof:lastmodified":1492053583,
     "wof:name":"Hoyt & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

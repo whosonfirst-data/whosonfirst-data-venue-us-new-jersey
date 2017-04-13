@@ -2,9 +2,14 @@
   "id": 639108959,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Marcia Memorial Cir Jackson NJ 08527",
+    "addr:housenumber":"2",
+    "addr:postcode":"08527",
+    "addr:street":"Marcia Memorial Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.355573,40.150158,-74.355573,40.150158",
     "geom:latitude":40.150158,
     "geom:longitude":-74.355573,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ijomFNeMp5VVwnaXUCyEg_40.150158_-74.355573@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287546,
     "wof:geomhash":"89f6a2f34a793ebb97bb5d80105de5ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639108959
+        }
+    ],
     "wof:id":639108959,
-    "wof:lastmodified":1466675526,
+    "wof:lastmodified":1492051536,
     "wof:name":"LA Cour Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

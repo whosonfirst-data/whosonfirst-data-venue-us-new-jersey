@@ -2,9 +2,14 @@
   "id": 655700245,
   "type": "Feature",
   "properties": {
+    "addr:full":"461 Rte 46 W Crown Plaza Shopping Center Fairfield NJ 07004",
+    "addr:housenumber":"461",
+    "addr:postcode":"07004",
+    "addr:street":"Rte 46 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.22309,40.89217,-74.22309,40.89217",
     "geom:latitude":40.89217,
     "geom:longitude":-74.22309,
@@ -40,7 +45,14 @@
     ],
     "sg:website":"www.citycarpet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s9ojHC6v0bPxnc9NoyqH0_40.892170_-74.223090@1303262249"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461317388,
     "wof:geomhash":"b2085b34b6c74cab4d2057097dc17580",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655700245
+        }
+    ],
     "wof:id":655700245,
-    "wof:lastmodified":1466684235,
+    "wof:lastmodified":1492058474,
     "wof:name":"City Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

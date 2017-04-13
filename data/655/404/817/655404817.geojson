@@ -2,9 +2,14 @@
   "id": 655404817,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Preakness Cir Somerville NJ 08876",
+    "addr:housenumber":"146",
+    "addr:postcode":"08876",
+    "addr:street":"Preakness Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.708203,40.580745,-74.708203,40.580745",
     "geom:latitude":40.580745,
     "geom:longitude":-74.708203,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VHIaTdFZ1ySdJg7Uo8loR_40.580745_-74.708203@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304825,
     "wof:geomhash":"5dd458b0b767c21b4d999ee50942e45f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":655404817
+        }
+    ],
     "wof:id":655404817,
-    "wof:lastmodified":1466675677,
+    "wof:lastmodified":1492061678,
     "wof:name":"Mr Bee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

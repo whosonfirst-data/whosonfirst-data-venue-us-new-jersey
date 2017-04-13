@@ -2,9 +2,14 @@
   "id": 655424679,
   "type": "Feature",
   "properties": {
+    "addr:full":"362 State Rte 31 Flemington NJ 08822",
+    "addr:housenumber":"362",
+    "addr:postcode":"08822",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.857013,40.545204,-74.857013,40.545204",
     "geom:latitude":40.545204,
     "geom:longitude":-74.857013,
@@ -35,7 +40,8 @@
         85688607,
         85633793,
         85804631,
-        102085997
+        102085997,
+        420527053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,17 @@
             "neighbourhood_id":85804631,
             "region_id":85688607,
             "venue_id":655424679
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":655424679
         }
     ],
     "wof:id":655424679,
-    "wof:lastmodified":1466676166,
+    "wof:lastmodified":1492053556,
     "wof:name":"Hitran Corporation",
-    "wof:parent_id":85804631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

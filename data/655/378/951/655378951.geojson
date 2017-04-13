@@ -2,9 +2,14 @@
   "id": 655378951,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 W Hanover St Trenton NJ 08618",
+    "addr:housenumber":"135",
+    "addr:postcode":"08618",
+    "addr:street":"W Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.770341,40.222342,-74.770341,40.222342",
     "geom:latitude":40.222342,
     "geom:longitude":-74.770341,
@@ -29,7 +34,14 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Qc1NlmyxtqMJl4oHOkFu_40.222342_-74.770341@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303766,
     "wof:geomhash":"e2e985bdc7d4ace90dff17952b5e93a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655378951
+        }
+    ],
     "wof:id":655378951,
-    "wof:lastmodified":1466675051,
+    "wof:lastmodified":1492048478,
     "wof:name":"Prosperity New Jersey Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

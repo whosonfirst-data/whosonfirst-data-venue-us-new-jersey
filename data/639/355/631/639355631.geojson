@@ -2,9 +2,14 @@
   "id": 639355631,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Georgia Rd Freehold NJ 07728",
+    "addr:housenumber":"107",
+    "addr:postcode":"07728",
+    "addr:street":"Georgia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.296301,40.208102,-74.296301,40.208102",
     "geom:latitude":40.208102,
     "geom:longitude":-74.296301,
@@ -28,7 +33,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SzOLiIehrmDg36RcBr3hp_40.208102_-74.296301@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293143,
     "wof:geomhash":"45eb22652d189bebab72115a99106f1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":639355631
+        }
+    ],
     "wof:id":639355631,
-    "wof:lastmodified":1466692473,
+    "wof:lastmodified":1492045903,
     "wof:name":"Computer Hut",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

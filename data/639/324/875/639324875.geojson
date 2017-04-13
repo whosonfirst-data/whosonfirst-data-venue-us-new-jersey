@@ -2,9 +2,14 @@
   "id": 639324875,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Park Ave Phillipsburg NJ 08865",
+    "addr:housenumber":"112",
+    "addr:postcode":"08865",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190618,40.703191,-75.190618,40.703191",
     "geom:latitude":40.703191,
     "geom:longitude":-75.190618,
@@ -28,7 +33,14 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        85976485,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jPhh2D9zudAWVIeBQwNOR_40.703191_-75.190618@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292496,
     "wof:geomhash":"9f32eef96a6f65d2e569ea1ae1b44dfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "locality_id":85976485,
+            "region_id":85688607,
+            "venue_id":639324875
+        }
+    ],
     "wof:id":639324875,
-    "wof:lastmodified":1466692101,
+    "wof:lastmodified":1492025377,
     "wof:name":"Delaware Park Fire Co 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

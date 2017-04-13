@@ -2,9 +2,14 @@
   "id": 639483973,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Rockland Ave Norwood NJ 07648",
+    "addr:housenumber":"234",
+    "addr:postcode":"07648",
+    "addr:street":"Rockland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.955179,41.001688,-73.955179,41.001688",
     "geom:latitude":41.001688,
     "geom:longitude":-73.955179,
@@ -28,7 +33,14 @@
         "comb"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35MiQiv9zewFIANZIhlTmX_41.001688_-73.955179@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296771,
     "wof:geomhash":"2f1ee3ee739037cee749a848e1f34467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639483973
+        }
+    ],
     "wof:id":639483973,
-    "wof:lastmodified":1466694515,
+    "wof:lastmodified":1492049645,
     "wof:name":"Charger Mate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

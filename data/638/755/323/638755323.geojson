@@ -2,9 +2,14 @@
   "id": 638755323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 Harbourton Rocktown Rd Lambertville NJ 08530",
+    "addr:housenumber":"1619",
+    "addr:postcode":"08530",
+    "addr:street":"Harbourton Rocktown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.846493,40.379489,-74.846493,40.379489",
     "geom:latitude":40.379489,
     "geom:longitude":-74.846493,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gxCbSw7t40r3VdPLCei82_40.379489_-74.846493@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279152,
     "wof:geomhash":"35c7cd5b17c6f0f00867a61acdbf9542",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":638755323
+        }
+    ],
     "wof:id":638755323,
-    "wof:lastmodified":1466678884,
+    "wof:lastmodified":1492043178,
     "wof:name":"Hope Surplus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

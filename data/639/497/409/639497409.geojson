@@ -2,9 +2,14 @@
   "id": 639497409,
   "type": "Feature",
   "properties": {
+    "addr:full":"722 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"722",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985988,40.8293,-73.985988,40.8293",
     "geom:latitude":40.8293,
     "geom:longitude":-73.985988,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EmGTQTQoLYx4CVWWPDHAF_40.829300_-73.985988@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297305,
     "wof:geomhash":"9cfade06cf688dc254dfe4e0829cd266",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639497409
+        }
+    ],
     "wof:id":639497409,
-    "wof:lastmodified":1466694734,
+    "wof:lastmodified":1492049514,
     "wof:name":"Philips International Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

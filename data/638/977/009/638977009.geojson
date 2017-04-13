@@ -2,9 +2,14 @@
   "id": 638977009,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Brookside Ter Clark NJ 07066",
+    "addr:housenumber":"21",
+    "addr:postcode":"07066",
+    "addr:street":"Brookside Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.337505,40.608944,-74.337505,40.608944",
     "geom:latitude":40.608944,
     "geom:longitude":-74.337505,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Q3XFn2WP7RMKvUIZpV3C_40.608944_-74.337505@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461284593,
     "wof:geomhash":"2a02dcb461d2af565eee0d25d46504b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638977009
+        }
+    ],
     "wof:id":638977009,
-    "wof:lastmodified":1466691572,
+    "wof:lastmodified":1492042847,
     "wof:name":"V Firetto Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

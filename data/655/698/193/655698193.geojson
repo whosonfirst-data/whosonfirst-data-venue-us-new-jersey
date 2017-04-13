@@ -2,9 +2,14 @@
   "id": 655698193,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Washington Pkwy Bayonne NJ 07002",
+    "addr:housenumber":"50",
+    "addr:postcode":"07002",
+    "addr:street":"Washington Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130957,40.660556,-74.130957,40.660556",
     "geom:latitude":40.660556,
     "geom:longitude":-74.130957,
@@ -27,7 +32,14 @@
         "limo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fZUGSQo7CLIvwpd9roc8Q_40.660556_-74.130957@1303262248"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317279,
     "wof:geomhash":"88ff60ea46f0d0424f8ecddb24c59003",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655698193
+        }
+    ],
     "wof:id":655698193,
-    "wof:lastmodified":1466684209,
+    "wof:lastmodified":1492058048,
     "wof:name":"Perfect Ride Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

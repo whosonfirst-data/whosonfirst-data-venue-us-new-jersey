@@ -2,9 +2,14 @@
   "id": 655767769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"1215",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261206,40.890977,-74.261206,40.890977",
     "geom:latitude":40.890977,
     "geom:longitude":-74.261206,
@@ -27,7 +32,13 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dhq41WX9KqWtZ0Ws89zgS_40.890977_-74.261206@1303262265"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319974,
     "wof:geomhash":"b6911083602da024a7d4d86405e6300c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655767769
+        }
+    ],
     "wof:id":655767769,
-    "wof:lastmodified":1466686185,
+    "wof:lastmodified":1492050683,
     "wof:name":"Gypsy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

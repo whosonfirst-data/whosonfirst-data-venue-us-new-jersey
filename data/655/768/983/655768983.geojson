@@ -2,9 +2,14 @@
   "id": 655768983,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Braen Ave Wyckoff NJ 07481",
+    "addr:housenumber":"500",
+    "addr:postcode":"07481",
+    "addr:street":"Braen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.149845,40.974072,-74.149845,40.974072",
     "geom:latitude":40.974072,
     "geom:longitude":-74.149845,
@@ -28,7 +33,13 @@
         "gymnastics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i0BIXnJwPhBQopf9Jenwy_40.974072_-74.149845@1303262265"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461320037,
     "wof:geomhash":"3a0b117b6b60b0f69b7e6052181dd7dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":655768983
+        }
+    ],
     "wof:id":655768983,
-    "wof:lastmodified":1466686244,
+    "wof:lastmodified":1492070305,
     "wof:name":"Shooting Stars Gymnastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

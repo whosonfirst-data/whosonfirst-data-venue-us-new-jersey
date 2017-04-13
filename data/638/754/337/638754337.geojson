@@ -2,9 +2,14 @@
   "id": 638754337,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Academy Rd Somerset NJ 08873",
+    "addr:housenumber":"34",
+    "addr:postcode":"08873",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.495873,40.518719,-74.495873,40.518719",
     "geom:latitude":40.518719,
     "geom:longitude":-74.495873,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1llz6027l5gKAsX9SxJzwH_40.518719_-74.495873@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279131,
     "wof:geomhash":"597565a9437014edbd68b540746a6cd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":638754337
+        }
+    ],
     "wof:id":638754337,
-    "wof:lastmodified":1466678758,
+    "wof:lastmodified":1492049237,
     "wof:name":"World Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

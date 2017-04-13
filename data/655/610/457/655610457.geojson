@@ -2,9 +2,14 @@
   "id": 655610457,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"177",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.145675,41.095922,-74.145675,41.095922",
     "geom:latitude":41.095922,
     "geom:longitude":-74.145675,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.wachovia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ub6KQT3BiO8EUTCe4gb0c_41.095922_-74.145675@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461313439,
     "wof:geomhash":"2e03170c9839eb7daa726c5658d8bda8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655610457
+        }
+    ],
     "wof:id":655610457,
-    "wof:lastmodified":1466681451,
+    "wof:lastmodified":1492051912,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

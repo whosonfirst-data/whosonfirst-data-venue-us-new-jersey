@@ -2,9 +2,14 @@
   "id": 655541511,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 Somerset St Somerville NJ 08876",
+    "addr:housenumber":"84",
+    "addr:postcode":"08876",
+    "addr:street":"Somerset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.624383,40.569714,-74.624383,40.569714",
     "geom:latitude":40.569714,
     "geom:longitude":-74.624383,
@@ -36,10 +41,14 @@
     "sg:website":"www.njelectricmotors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85822833,
+        102191575,
+        404477917,
         85633793,
-        85846331,
-        102085045
+        85976133,
+        102085045,
+        85688607,
+        85846331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +59,16 @@
     "wof:geomhash":"5a7a51994bc3df16fcf7ed841b94ff2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976133,
+            "neighbourhood_id":85822833,
+            "region_id":85688607,
+            "venue_id":655541511
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "neighbourhood_id":85846331,
@@ -58,9 +77,9 @@
         }
     ],
     "wof:id":655541511,
-    "wof:lastmodified":1466679281,
+    "wof:lastmodified":1492077689,
     "wof:name":"New Jersey Electric Motors Inc",
-    "wof:parent_id":85846331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

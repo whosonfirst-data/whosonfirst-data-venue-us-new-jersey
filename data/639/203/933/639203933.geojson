@@ -2,9 +2,14 @@
   "id": 639203933,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Twin Oaks Ct Jackson NJ 08527",
+    "addr:housenumber":"6",
+    "addr:postcode":"08527",
+    "addr:street":"Twin Oaks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.40683,40.141881,-74.40683,40.141881",
     "geom:latitude":40.141881,
     "geom:longitude":-74.40683,
@@ -27,7 +32,13 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gQdrqmdcToLh0Iq8zyK1z_40.141881_-74.406830@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289737,
     "wof:geomhash":"64ef10a016fe543b4c73b8d044899fd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639203933
+        }
+    ],
     "wof:id":639203933,
-    "wof:lastmodified":1466689041,
+    "wof:lastmodified":1492023903,
     "wof:name":"Rticom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

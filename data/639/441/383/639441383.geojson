@@ -2,9 +2,14 @@
   "id": 639441383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1660 New York Ave Lakehurst NJ 08759",
+    "addr:housenumber":"1660",
+    "addr:postcode":"08759",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.376089,39.926318,-74.376089,39.926318",
     "geom:latitude":39.926318,
     "geom:longitude":-74.376089,
@@ -24,7 +29,13 @@
     "sg:postcode":"08759",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yNBEBLXnTb0b84WFQ873y_39.926318_-74.376089@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461295140,
     "wof:geomhash":"82f1e7cacb03ec5f86b034647aa93951",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "region_id":85688607,
+            "venue_id":639441383
+        }
+    ],
     "wof:id":639441383,
-    "wof:lastmodified":1466693517,
+    "wof:lastmodified":1492047508,
     "wof:name":"David Rittinger Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

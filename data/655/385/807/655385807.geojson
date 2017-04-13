@@ -2,9 +2,14 @@
   "id": 655385807,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 Leabrook Ln Princeton NJ 08540",
+    "addr:housenumber":"134",
+    "addr:postcode":"08540",
+    "addr:street":"Leabrook Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.645189,40.367312,-74.645189,40.367312",
     "geom:latitude":40.367312,
     "geom:longitude":-74.645189,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jHOKyXvmdwLAlR0llTAHF_40.367312_-74.645189@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461304022,
     "wof:geomhash":"0edb9fc8b05365f9401507c222201a9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655385807
+        }
+    ],
     "wof:id":655385807,
-    "wof:lastmodified":1466675157,
+    "wof:lastmodified":1492018853,
     "wof:name":"Community Without Walls Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

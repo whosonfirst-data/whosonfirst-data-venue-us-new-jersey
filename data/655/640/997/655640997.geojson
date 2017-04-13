@@ -2,9 +2,14 @@
   "id": 655640997,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Cliffwood Ave Matawan NJ 07747",
+    "addr:housenumber":"8",
+    "addr:postcode":"07747",
+    "addr:street":"Cliffwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245644,40.43057,-74.245644,40.43057",
     "geom:latitude":40.43057,
     "geom:longitude":-74.245644,
@@ -27,7 +32,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12fIn53VaqhiwMy7kVRNfo_40.430570_-74.245644@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314798,
     "wof:geomhash":"e43418ad6729119278e201017553ced7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655640997
+        }
+    ],
     "wof:id":655640997,
-    "wof:lastmodified":1466682664,
+    "wof:lastmodified":1492020498,
     "wof:name":"Attilio's Pizza & Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

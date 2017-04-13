@@ -2,9 +2,14 @@
   "id": 655517395,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"110",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975844,40.761386,-74.975844,40.761386",
     "geom:latitude":40.761386,
     "geom:longitude":-74.975844,
@@ -32,7 +37,10 @@
         "way"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_799Jvpq5kHhQFE0Y9cn7BZ_40.761386_-74.975844@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461309580,
     "wof:geomhash":"129ea59c7929699c32617ae51f596ad0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655517395
+        }
+    ],
     "wof:id":655517395,
-    "wof:lastmodified":1466678644,
+    "wof:lastmodified":1492040962,
     "wof:name":"Procomm Systems Inc",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

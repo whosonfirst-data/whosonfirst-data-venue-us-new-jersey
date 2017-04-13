@@ -2,9 +2,14 @@
   "id": 655605685,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Arrowhead Rd Westwood NJ 07675",
+    "addr:housenumber":"24",
+    "addr:postcode":"07675",
+    "addr:street":"Arrowhead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991633,41.00689,-73.991633,41.00689",
     "geom:latitude":41.00689,
     "geom:longitude":-73.991633,
@@ -27,7 +32,14 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_670Opg70eGKcPRvJXgqI5b_41.006890_-73.991633@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313245,
     "wof:geomhash":"6bb7eb97dc5ac9f93a34e179fd31659e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":655605685
+        }
+    ],
     "wof:id":655605685,
-    "wof:lastmodified":1466681346,
+    "wof:lastmodified":1492048076,
     "wof:name":"Sound Unique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

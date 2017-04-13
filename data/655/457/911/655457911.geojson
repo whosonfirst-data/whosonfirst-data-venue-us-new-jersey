@@ -2,9 +2,14 @@
   "id": 655457911,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Hall Ave Howell NJ 07731",
+    "addr:housenumber":"10",
+    "addr:postcode":"07731",
+    "addr:street":"Hall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238337,40.164273,-74.238337,40.164273",
     "geom:latitude":40.164273,
     "geom:longitude":-74.238337,
@@ -30,7 +35,13 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DC4nVymjMfFTXqaYbPYy4_40.164273_-74.238337@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461307064,
     "wof:geomhash":"bcf73c3cf997901c092bfc2b1e496220",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":655457911
+        }
+    ],
     "wof:id":655457911,
-    "wof:lastmodified":1466677191,
+    "wof:lastmodified":1492047996,
     "wof:name":"South Paw Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655522887,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Westover Ave West Caldwell NJ 07006",
+    "addr:housenumber":"115",
+    "addr:postcode":"07006",
+    "addr:street":"Westover Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279609,40.85059,-74.279609,40.85059",
     "geom:latitude":40.85059,
     "geom:longitude":-74.279609,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85868675,
+        102085043,
         85857199,
         102191575,
         404477425,
-        85633793,
-        85975275,
-        102085043,
-        85688607
+        85975275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461309780,
     "wof:geomhash":"e8d46e265d88b77bd57f1ab851f88f6e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85868675,
+            "region_id":85688607,
+            "venue_id":655522887
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":655522887,
-    "wof:lastmodified":1466678853,
+    "wof:lastmodified":1492048240,
     "wof:name":"Tri-County Darting Assoc",
-    "wof:parent_id":85857199,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

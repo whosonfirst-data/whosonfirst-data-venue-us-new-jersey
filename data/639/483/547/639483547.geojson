@@ -2,9 +2,14 @@
   "id": 639483547,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Hartford Rd Jackson NJ 08527",
+    "addr:housenumber":"6",
+    "addr:postcode":"08527",
+    "addr:street":"Hartford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255719,40.138146,-74.255719,40.138146",
     "geom:latitude":40.138146,
     "geom:longitude":-74.255719,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WvGuUqIjJ4e6ksTNqVnKL_40.138146_-74.255719@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296757,
     "wof:geomhash":"5c5a76bd1f55b2a295b546ec3864e991",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":639483547
+        }
+    ],
     "wof:id":639483547,
-    "wof:lastmodified":1466694459,
+    "wof:lastmodified":1492071769,
     "wof:name":"H S B Inc",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655458907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"2606",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255137,40.889521,-74.255137,40.889521",
     "geom:latitude":40.889521,
     "geom:longitude":-74.255137,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.gap.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X53SkNeaoe0RifwtIBNj1_40.889521_-74.255137@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461307103,
     "wof:geomhash":"fe44bd54e5efd4d3aa2ea099a972a8e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655458907
+        }
+    ],
     "wof:id":655458907,
-    "wof:lastmodified":1466677220,
+    "wof:lastmodified":1492025108,
     "wof:name":"Gap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

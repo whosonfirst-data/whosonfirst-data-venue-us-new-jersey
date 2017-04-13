@@ -2,9 +2,14 @@
   "id": 655514789,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Aaron Ave Howell NJ 07731",
+    "addr:housenumber":"2",
+    "addr:postcode":"07731",
+    "addr:street":"Aaron Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247428,40.147248,-74.247428,40.147248",
     "geom:latitude":40.147248,
     "geom:longitude":-74.247428,
@@ -28,7 +33,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zvvb8pvnjwE57xbaQhpRp_40.147248_-74.247428@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461309480,
     "wof:geomhash":"d87a1b397dfbca6fc3b853395c4210f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655514789
+        }
+    ],
     "wof:id":655514789,
-    "wof:lastmodified":1466678627,
+    "wof:lastmodified":1492045249,
     "wof:name":"Castle Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

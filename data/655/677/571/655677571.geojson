@@ -2,9 +2,14 @@
   "id": 655677571,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 River Rd North Arlington NJ 07031",
+    "addr:housenumber":"65",
+    "addr:postcode":"07031",
+    "addr:street":"River Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144897,40.787601,-74.144897,40.787601",
     "geom:latitude":40.787601,
     "geom:longitude":-74.144897,
@@ -24,7 +29,14 @@
     "sg:postcode":"07031",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jfaUDPOaUowWf28rNgMQ3_40.788170_-74.144188@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461316323,
     "wof:geomhash":"3b45f805582f2bd30c5bbd255ef86a36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655677571
+        }
+    ],
     "wof:id":655677571,
-    "wof:lastmodified":1466683780,
+    "wof:lastmodified":1492058095,
     "wof:name":"Independence Community Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

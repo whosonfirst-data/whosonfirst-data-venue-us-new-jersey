@@ -2,9 +2,14 @@
   "id": 639512981,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Arnold Blvd Howell NJ 07731",
+    "addr:housenumber":"25",
+    "addr:postcode":"07731",
+    "addr:street":"Arnold Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172424,40.111779,-74.172424,40.111779",
     "geom:latitude":40.111779,
     "geom:longitude":-74.172424,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6buBiyoByb539VOMAQQmby_40.111779_-74.172424@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297983,
     "wof:geomhash":"3fc868758ab37338d248b7915f9d91d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639512981
+        }
+    ],
     "wof:id":639512981,
-    "wof:lastmodified":1466695155,
+    "wof:lastmodified":1492047735,
     "wof:name":"Northeast Mechanical Contr",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

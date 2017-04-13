@@ -2,9 +2,14 @@
   "id": 655537567,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 Cherry Hill Rd Princeton NJ 08540",
+    "addr:housenumber":"923",
+    "addr:postcode":"08540",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.679891,40.384832,-74.679891,40.384832",
     "geom:latitude":40.384832,
     "geom:longitude":-74.679891,
@@ -28,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bmiF0f5EZcgC1FrEKR1Gp_40.384832_-74.679891@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461310335,
     "wof:geomhash":"6653f9c122c6fbafcdcf98032df1c007",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655537567
+        }
+    ],
     "wof:id":655537567,
-    "wof:lastmodified":1466679219,
+    "wof:lastmodified":1492049435,
     "wof:name":"Barbara B Hamdan MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

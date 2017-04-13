@@ -2,9 +2,14 @@
   "id": 639299843,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Bucknell Ln Willingboro NJ 08046",
+    "addr:housenumber":"42",
+    "addr:postcode":"08046",
+    "addr:street":"Bucknell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888878,40.040237,-74.888878,40.040237",
     "geom:latitude":40.040237,
     "geom:longitude":-74.888878,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kKcgW5RHt8xne5AjmEE3O_40.040237_-74.888878@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291964,
     "wof:geomhash":"3b3497b3faef27d4feb5b4c89cdfba19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":639299843
+        }
+    ],
     "wof:id":639299843,
-    "wof:lastmodified":1466691218,
+    "wof:lastmodified":1492051307,
     "wof:name":"Sparkle Brite Mobile Clea",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

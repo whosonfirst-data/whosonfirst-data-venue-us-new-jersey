@@ -2,9 +2,14 @@
   "id": 639073291,
   "type": "Feature",
   "properties": {
+    "addr:full":"3155 State Rte 10 Denville NJ 07834",
+    "addr:housenumber":"3155",
+    "addr:postcode":"07834",
+    "addr:street":"State Rte 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.521363,40.871903,-74.521363,40.871903",
     "geom:latitude":40.871903,
     "geom:longitude":-74.521363,
@@ -35,7 +40,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nh4aR6mFo6Tw70F0jhCTs_40.871903_-74.521363@1294171694"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461286769,
     "wof:geomhash":"40229c90cc8e62b8bee89b90865a7b05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639073291
+        }
+    ],
     "wof:id":639073291,
-    "wof:lastmodified":1466688365,
+    "wof:lastmodified":1492070337,
     "wof:name":"Drake Consulting Group",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

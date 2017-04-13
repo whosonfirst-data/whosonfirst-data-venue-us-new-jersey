@@ -2,9 +2,14 @@
   "id": 639570737,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Grove St Plainfield NJ 07060",
+    "addr:housenumber":"12",
+    "addr:postcode":"07060",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.427752,40.617638,-74.427752,40.617638",
     "geom:latitude":40.617638,
     "geom:longitude":-74.427752,
@@ -30,17 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527607,
-        102191575,
-        404477931,
-        85633793,
-        85975509,
-        102085045,
-        85688607,
         420527703,
+        102191575,
         404478509,
+        85633793,
         85975849,
-        102085995
+        102085995,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +54,6 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085045,
-            "localadmin_id":404477931,
-            "locality_id":85975509,
-            "neighbourhood_id":420527607,
-            "region_id":85688607,
-            "venue_id":639570737
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102085995,
             "localadmin_id":404478509,
             "locality_id":85975849,
@@ -72,9 +63,9 @@
         }
     ],
     "wof:id":639570737,
-    "wof:lastmodified":1466696106,
+    "wof:lastmodified":1492041869,
     "wof:name":"Rutzler Filter Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

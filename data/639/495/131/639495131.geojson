@@ -2,9 +2,14 @@
   "id": 639495131,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 Alexander Rd Princeton NJ 08540",
+    "addr:housenumber":"760",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.633621,40.318675,-74.633621,40.318675",
     "geom:latitude":40.318675,
     "geom:longitude":-74.633621,
@@ -27,7 +32,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MCjBSzt5LIvsW6ylabn6C_40.318675_-74.633621@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297216,
     "wof:geomhash":"4d886132571abd189364a480672556c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639495131
+        }
+    ],
     "wof:id":639495131,
-    "wof:lastmodified":1466694779,
+    "wof:lastmodified":1492057100,
     "wof:name":"Quadra Med Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

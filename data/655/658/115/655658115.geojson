@@ -2,9 +2,14 @@
   "id": 655658115,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"278",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95974,40.971359,-73.95974,40.971359",
     "geom:latitude":40.971359,
     "geom:longitude":-73.95974,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oHI3Za6zigPowm2KttIwr_40.971261_-73.959758@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315535,
     "wof:geomhash":"302cf7a5449ecedb3b5e6b332b3d6c1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655658115
+        }
+    ],
     "wof:id":655658115,
-    "wof:lastmodified":1466683059,
+    "wof:lastmodified":1492052086,
     "wof:name":"Nail Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

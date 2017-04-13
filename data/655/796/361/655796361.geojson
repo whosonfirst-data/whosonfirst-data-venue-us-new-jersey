@@ -2,9 +2,14 @@
   "id": 655796361,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Ridgedale Ave East Hanover NJ 07936",
+    "addr:housenumber":"",
+    "addr:postcode":"07936",
+    "addr:street":"Ridgedale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3881,40.814701,-74.3881,40.814701",
     "geom:latitude":40.814701,
     "geom:longitude":-74.3881,
@@ -32,7 +37,13 @@
         "veggie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478309,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33sWcGLSNLPN8l2zD5Iy3Q_40.814701_-74.388100@1303262272"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461321223,
     "wof:geomhash":"2e043efe0d0753587bfa528071d0f54f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478309,
+            "region_id":85688607,
+            "venue_id":655796361
+        }
+    ],
     "wof:id":655796361,
-    "wof:lastmodified":1466686854,
+    "wof:lastmodified":1492042907,
     "wof:name":"Florist of Florham Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

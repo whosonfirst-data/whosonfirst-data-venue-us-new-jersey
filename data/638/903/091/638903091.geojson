@@ -2,9 +2,14 @@
   "id": 638903091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Hemlock Dr Caldwell NJ 07006",
+    "addr:housenumber":"10",
+    "addr:postcode":"07006",
+    "addr:street":"Hemlock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251878,40.857766,-74.251878,40.857766",
     "geom:latitude":40.857766,
     "geom:longitude":-74.251878,
@@ -30,7 +35,14 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CnziF8DcUU8CnKBM7WeSD_40.857766_-74.251878@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461282824,
     "wof:geomhash":"eeb21879514653f77d6e5d9d3a6cf022",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638903091
+        }
+    ],
     "wof:id":638903091,
-    "wof:lastmodified":1466690120,
+    "wof:lastmodified":1492028489,
     "wof:name":"Tri-County Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

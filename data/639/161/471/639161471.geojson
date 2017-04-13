@@ -2,9 +2,14 @@
   "id": 639161471,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Ridge Rd Dayton NJ 08810",
+    "addr:housenumber":"350",
+    "addr:postcode":"08810",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.504589,40.374127,-74.504589,40.374127",
     "geom:latitude":40.374127,
     "geom:longitude":-74.504589,
@@ -28,7 +33,10 @@
         "barber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rGNyTval3DoUtzHgKuoUJ_40.374127_-74.504589@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288788,
     "wof:geomhash":"d5f3e0b43524a90cf3f1a6c715e34eb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639161471
+        }
+    ],
     "wof:id":639161471,
-    "wof:lastmodified":1466683345,
+    "wof:lastmodified":1492069688,
     "wof:name":"Deb's Salon",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

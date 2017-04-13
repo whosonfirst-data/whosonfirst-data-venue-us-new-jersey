@@ -2,9 +2,14 @@
   "id": 655789013,
   "type": "Feature",
   "properties": {
+    "addr:full":"3155 State Route 10 Ste 100 Denville NJ 07834",
+    "addr:housenumber":"3155",
+    "addr:postcode":"07834",
+    "addr:street":"State Route 10 Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52266,40.872108,-74.52266,40.872108",
     "geom:latitude":40.872108,
     "geom:longitude":-74.52266,
@@ -29,7 +34,10 @@
     "sg:postcode":"07834",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53iXCoF7TaNMO8jmRAQO6t_40.872108_-74.522660@1303262270"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461320940,
     "wof:geomhash":"b92b6e4ff12a274d156cd8ed169c33bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655789013
+        }
+    ],
     "wof:id":655789013,
-    "wof:lastmodified":1466686520,
+    "wof:lastmodified":1492030398,
     "wof:name":"Jds Associates",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

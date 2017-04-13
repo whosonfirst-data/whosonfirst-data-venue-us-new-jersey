@@ -2,9 +2,14 @@
   "id": 638692397,
   "type": "Feature",
   "properties": {
+    "addr:full":"459 Foothill Rd Bridgewater NJ 08807",
+    "addr:housenumber":"459",
+    "addr:postcode":"08807",
+    "addr:street":"Foothill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.589218,40.585975,-74.589218,40.585975",
     "geom:latitude":40.585975,
     "geom:longitude":-74.589218,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810873,
+        85822833,
         102191575,
         404477917,
         85633793,
-        85976131,
+        85976133,
         102085045,
-        85688607
+        85688607,
+        85810873,
+        85976131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,16 @@
             "country_id":85633793,
             "county_id":102085045,
             "localadmin_id":404477917,
+            "locality_id":85976133,
+            "neighbourhood_id":85822833,
+            "region_id":85688607,
+            "venue_id":638692397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
             "locality_id":85976131,
             "neighbourhood_id":85810873,
             "region_id":85688607,
@@ -56,9 +73,9 @@
         }
     ],
     "wof:id":638692397,
-    "wof:lastmodified":1466688371,
+    "wof:lastmodified":1492055440,
     "wof:name":"Summit Plants & Flowers",
-    "wof:parent_id":85810873,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655602529,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Pearl Ct Westwood NJ 07675",
+    "addr:housenumber":"127",
+    "addr:postcode":"07675",
+    "addr:street":"Pearl Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.97933,41.005576,-73.97933,41.005576",
     "geom:latitude":41.005576,
     "geom:longitude":-73.97933,
@@ -27,7 +32,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Es33wfA0Fro0eHdooxDji_41.005576_-73.979330@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313118,
     "wof:geomhash":"d9163d087e16331b7f373a2e2617af9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":655602529
+        }
+    ],
     "wof:id":655602529,
-    "wof:lastmodified":1466681180,
+    "wof:lastmodified":1492057513,
     "wof:name":"A1 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

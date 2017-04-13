@@ -2,9 +2,14 @@
   "id": 655502959,
   "type": "Feature",
   "properties": {
+    "addr:full":"1759 Country Club Dr Cherry Hill NJ 08003",
+    "addr:housenumber":"1759",
+    "addr:postcode":"08003",
+    "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.990442,39.868043,-74.990442,39.868043",
     "geom:latitude":39.868043,
     "geom:longitude":-74.990442,
@@ -34,7 +39,9 @@
         85633793,
         85976229,
         102081131,
-        85688607
+        85688607,
+        85815123,
+        85976247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,22 @@
             "neighbourhood_id":420526759,
             "region_id":85688607,
             "venue_id":655502959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976247,
+            "neighbourhood_id":85815123,
+            "region_id":85688607,
+            "venue_id":655502959
         }
     ],
     "wof:id":655502959,
-    "wof:lastmodified":1466678337,
+    "wof:lastmodified":1492048315,
     "wof:name":"Michael Berman & Assoc",
-    "wof:parent_id":420526759,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

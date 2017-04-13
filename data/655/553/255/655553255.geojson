@@ -2,9 +2,14 @@
   "id": 655553255,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 James Ter Newton NJ 07860",
+    "addr:housenumber":"23",
+    "addr:postcode":"07860",
+    "addr:street":"James Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.80644,41.036865,-74.80644,41.036865",
     "geom:latitude":41.036865,
     "geom:longitude":-74.80644,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jKhUJpGgGE9KlT9InQnjM_41.036865_-74.806440@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310952,
     "wof:geomhash":"66fa168f065b1274809787b9cee5ac6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655553255
+        }
+    ],
     "wof:id":655553255,
-    "wof:lastmodified":1466679479,
+    "wof:lastmodified":1492076499,
     "wof:name":"Fiscus Contracting LLC",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

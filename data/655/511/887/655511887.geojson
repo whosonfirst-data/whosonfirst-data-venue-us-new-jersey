@@ -2,9 +2,14 @@
   "id": 655511887,
   "type": "Feature",
   "properties": {
+    "addr:full":"448 S Orange Ave Newark NJ 07103",
+    "addr:housenumber":"448",
+    "addr:postcode":"07103",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.205741,40.742308,-74.205741,40.742308",
     "geom:latitude":40.742308,
     "geom:longitude":-74.205741,
@@ -28,7 +33,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872989,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3els5OwgKv7s1qmE7iA3VR_40.742308_-74.205741@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461309368,
     "wof:geomhash":"b240ff328ff06073a60bf6e6e35566f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85872989,
+            "region_id":85688607,
+            "venue_id":655511887
+        }
+    ],
     "wof:id":655511887,
-    "wof:lastmodified":1466678590,
+    "wof:lastmodified":1492027734,
     "wof:name":"Delox Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

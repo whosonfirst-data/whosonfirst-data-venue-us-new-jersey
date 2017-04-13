@@ -2,9 +2,14 @@
   "id": 639051277,
   "type": "Feature",
   "properties": {
+    "addr:full":"247 Park Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"247",
+    "addr:postcode":"07071",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.125715,40.81899,-74.125715,40.81899",
     "geom:latitude":40.81899,
     "geom:longitude":-74.125715,
@@ -27,7 +32,13 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gaYYr31ibWo0l3Nrl04F0_40.818990_-74.125715@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286299,
     "wof:geomhash":"57d12c7d7bf548cf2012901ac2a36c55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":639051277
+        }
+    ],
     "wof:id":639051277,
-    "wof:lastmodified":1466674280,
+    "wof:lastmodified":1492076496,
     "wof:name":"Elks Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

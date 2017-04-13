@@ -2,9 +2,14 @@
   "id": 655555829,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Eastbrook Ln Willingboro NJ 08046",
+    "addr:housenumber":"24",
+    "addr:postcode":"08046",
+    "addr:street":"Eastbrook Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.874866,40.02627,-74.874866,40.02627",
     "geom:latitude":40.02627,
     "geom:longitude":-74.874866,
@@ -24,7 +29,10 @@
     "sg:postcode":"08046",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vEYgAvm5TwzKWmd21pyY1_40.026270_-74.874866@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461311060,
     "wof:geomhash":"820a3e8c7b0f5510eaab098db84f82f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":655555829
+        }
+    ],
     "wof:id":655555829,
-    "wof:lastmodified":1466679707,
+    "wof:lastmodified":1492082189,
     "wof:name":"City Phone Service",
-    "wof:parent_id":420526697,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

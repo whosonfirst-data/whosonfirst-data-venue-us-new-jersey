@@ -2,9 +2,14 @@
   "id": 655367023,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Market St Trenton NJ 08611",
+    "addr:housenumber":"25",
+    "addr:postcode":"08611",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764012,40.214405,-74.764012,40.214405",
     "geom:latitude":40.214405,
     "geom:longitude":-74.764012,
@@ -27,7 +32,14 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g2MdL1midHYno3EcPHDVj_40.214405_-74.764012@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303305,
     "wof:geomhash":"ec603a14fb686e8a76c5ea027dae0872",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655367023
+        }
+    ],
     "wof:id":655367023,
-    "wof:lastmodified":1466674459,
+    "wof:lastmodified":1492050870,
     "wof:name":"Election Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

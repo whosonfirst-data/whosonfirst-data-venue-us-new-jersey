@@ -2,9 +2,14 @@
   "id": 655584783,
   "type": "Feature",
   "properties": {
+    "addr:full":"24622 E Main St Columbus NJ 08022",
+    "addr:housenumber":"24622",
+    "addr:postcode":"08022",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.720331,40.072885,-74.720331,40.072885",
     "geom:latitude":40.072885,
     "geom:longitude":-74.720331,
@@ -28,7 +33,10 @@
         "sodding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uXwbqcUdEZM9JxZO2b3Tx_40.072885_-74.720331@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461312375,
     "wof:geomhash":"c706d87e18930f04a4bab5ee09911e26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":655584783
+        }
+    ],
     "wof:id":655584783,
-    "wof:lastmodified":1466680555,
+    "wof:lastmodified":1492041015,
     "wof:name":"Clarksville Sod Farm",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638920007,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Normandy Rd Pine Brook NJ 07058",
+    "addr:housenumber":"11",
+    "addr:postcode":"07058",
+    "addr:street":"Normandy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.353592,40.870665,-74.353592,40.870665",
     "geom:latitude":40.870665,
     "geom:longitude":-74.353592,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hxXiP7ssZVvwLN1L8dT7h_40.870665_-74.353592@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283258,
     "wof:geomhash":"42cd7558a153582a07611436582abb82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":638920007
+        }
+    ],
     "wof:id":638920007,
-    "wof:lastmodified":1466690520,
+    "wof:lastmodified":1492025613,
     "wof:name":"W P Ru Ssell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

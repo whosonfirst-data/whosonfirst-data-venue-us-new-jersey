@@ -2,9 +2,14 @@
   "id": 655709585,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 The Promenade Edgewater NJ 07020",
+    "addr:housenumber":"42",
+    "addr:postcode":"07020",
+    "addr:street":"The Promenade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987877,40.807057,-73.987877,40.807057",
     "geom:latitude":40.807057,
     "geom:longitude":-73.987877,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Oz0vquPAu5F60uyS1BCo_40.807057_-73.987877@1303262251"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317751,
     "wof:geomhash":"0760ddb8fe69e7caab82b57a4610fd3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655709585
+        }
+    ],
     "wof:id":655709585,
-    "wof:lastmodified":1466684572,
+    "wof:lastmodified":1492027716,
     "wof:name":"Anytime Anywhere Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

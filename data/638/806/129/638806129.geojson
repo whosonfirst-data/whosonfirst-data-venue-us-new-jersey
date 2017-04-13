@@ -2,9 +2,14 @@
   "id": 638806129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1306 Co Rd 539 Barnegat NJ 08005",
+    "addr:housenumber":"1306",
+    "addr:postcode":"08005",
+    "addr:street":"Co Rd 539",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.369501,39.752559,-74.369501,39.752559",
     "geom:latitude":39.752559,
     "geom:longitude":-74.369501,
@@ -28,7 +33,10 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527453
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dZMSwqUTaRQ45JZgfB2qz_39.752559_-74.369501@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461280358,
     "wof:geomhash":"19a874c04e1e241c5549e31216fdc3e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527453,
+            "venue_id":638806129
+        }
+    ],
     "wof:id":638806129,
-    "wof:lastmodified":1466686372,
+    "wof:lastmodified":1492082014,
     "wof:name":"Warren Grove Volunteer Fire Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

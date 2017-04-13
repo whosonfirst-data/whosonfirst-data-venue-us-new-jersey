@@ -2,9 +2,14 @@
   "id": 638921617,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Manitoba Way Marlboro NJ 07746",
+    "addr:housenumber":"8",
+    "addr:postcode":"07746",
+    "addr:street":"Manitoba Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.284478,40.326557,-74.284478,40.326557",
     "geom:latitude":40.326557,
     "geom:longitude":-74.284478,
@@ -28,7 +33,14 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lwbce4wRLJbPlVdy91yJy_40.326557_-74.284478@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283311,
     "wof:geomhash":"f4c250bc37ef779d98a7bd0ad8a2a563",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":638921617
+        }
+    ],
     "wof:id":638921617,
-    "wof:lastmodified":1466690596,
+    "wof:lastmodified":1492027669,
     "wof:name":"Saines & Cohen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

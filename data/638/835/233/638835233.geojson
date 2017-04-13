@@ -2,9 +2,14 @@
   "id": 638835233,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Belmont Ln Willingboro NJ 08046",
+    "addr:housenumber":"70",
+    "addr:postcode":"08046",
+    "addr:street":"Belmont Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.882978,40.03917,-74.882978,40.03917",
     "geom:latitude":40.03917,
     "geom:longitude":-74.882978,
@@ -29,7 +34,10 @@
         "administration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CECsL28Ze9HvB90OXgqbK_40.039170_-74.882978@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461281116,
     "wof:geomhash":"9a3387e96f00473a5cf64401f332bcf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638835233
+        }
+    ],
     "wof:id":638835233,
-    "wof:lastmodified":1466688985,
+    "wof:lastmodified":1492030661,
     "wof:name":"Concera Corporation",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

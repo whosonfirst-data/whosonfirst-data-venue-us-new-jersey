@@ -2,9 +2,14 @@
   "id": 638714279,
   "type": "Feature",
   "properties": {
+    "addr:full":"561 River Ter Toms River NJ 08755",
+    "addr:housenumber":"561",
+    "addr:postcode":"08755",
+    "addr:street":"River Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.230068,39.963563,-74.230068,39.963563",
     "geom:latitude":39.963563,
     "geom:longitude":-74.230068,
@@ -28,7 +33,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527433,
+        102191575,
+        404477803,
+        85633793,
+        85976323,
+        102081485,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mw7AZQFiOCi5pFpgJSyK7_39.963563_-74.230068@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461278032,
     "wof:geomhash":"b62a33490199fe71bde59f6eac5f5287",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":420527433,
+            "region_id":85688607,
+            "venue_id":638714279
+        }
+    ],
     "wof:id":638714279,
-    "wof:lastmodified":1466673267,
+    "wof:lastmodified":1492028399,
     "wof:name":"Gary Walter Baseball Cards",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

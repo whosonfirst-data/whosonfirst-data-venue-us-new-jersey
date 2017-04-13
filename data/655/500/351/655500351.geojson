@@ -2,9 +2,14 @@
   "id": 655500351,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Windsor Dr West Windsor NJ 08550",
+    "addr:housenumber":"12",
+    "addr:postcode":"08550",
+    "addr:street":"Windsor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.614927,40.305473,-74.614927,40.305473",
     "geom:latitude":40.305473,
     "geom:longitude":-74.614927,
@@ -27,7 +32,10 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UAcMbhYP0xBHuncJrwiT2_40.305473_-74.614927@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308861,
     "wof:geomhash":"3a34747058abf6101b6467ca3f12438a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655500351
+        }
+    ],
     "wof:id":655500351,
-    "wof:lastmodified":1466678175,
+    "wof:lastmodified":1492028630,
     "wof:name":"Carrigar",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

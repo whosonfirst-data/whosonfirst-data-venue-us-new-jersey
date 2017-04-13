@@ -2,9 +2,14 @@
   "id": 639157139,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Meadowlands Pkwy Secaucus NJ 07094",
+    "addr:housenumber":"200",
+    "addr:postcode":"07094",
+    "addr:street":"Meadowlands Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.077203,40.783037,-74.077203,40.783037",
     "geom:latitude":40.783037,
     "geom:longitude":-74.077203,
@@ -27,7 +32,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A2mSIjxW2OzhAgJdr6gzp_40.783037_-74.077203@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288691,
     "wof:geomhash":"9462450138453ab0f5c83d2eaacb2d62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":639157139
+        }
+    ],
     "wof:id":639157139,
-    "wof:lastmodified":1466682484,
+    "wof:lastmodified":1492049562,
     "wof:name":"MTS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

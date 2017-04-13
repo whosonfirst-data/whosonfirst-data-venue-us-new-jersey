@@ -2,9 +2,14 @@
   "id": 639175125,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Castle Ave Jackson NJ 08527",
+    "addr:housenumber":"47",
+    "addr:postcode":"08527",
+    "addr:street":"Castle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289149,40.116332,-74.289149,40.116332",
     "geom:latitude":40.116332,
     "geom:longitude":-74.289149,
@@ -30,7 +35,13 @@
         "inspects"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LaietOLtDJIs1VYROc343_40.116332_-74.289149@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461289081,
     "wof:geomhash":"7728dc6ded94845713a252da7c399ac7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639175125
+        }
+    ],
     "wof:id":639175125,
-    "wof:lastmodified":1466685144,
+    "wof:lastmodified":1492069344,
     "wof:name":"Vigilance Fire & Safety Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

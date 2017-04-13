@@ -2,9 +2,14 @@
   "id": 655434217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1560 US Hwy 22 Union NJ 07083",
+    "addr:housenumber":"1560",
+    "addr:postcode":"07083",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.270915,40.691881,-74.270915,40.691881",
     "geom:latitude":40.691881,
     "geom:longitude":-74.270915,
@@ -28,7 +33,10 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16lg2fOYeeZtnd6pUicE74_40.691881_-74.270915@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306063,
     "wof:geomhash":"d2c0379da5a4cf501e0d5f1e657e918c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527721,
+            "venue_id":655434217
+        }
+    ],
     "wof:id":655434217,
-    "wof:lastmodified":1466676308,
+    "wof:lastmodified":1492058089,
     "wof:name":"Nextel-Nexlife Communications",
     "wof:parent_id":420527721,
     "wof:placetype":"venue",

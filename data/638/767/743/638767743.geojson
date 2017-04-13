@@ -2,9 +2,14 @@
   "id": 638767743,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Chatham Rd Summit NJ 07901",
+    "addr:housenumber":"10",
+    "addr:postcode":"07901",
+    "addr:street":"Chatham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.377431,40.733579,-74.377431,40.733579",
     "geom:latitude":40.733579,
     "geom:longitude":-74.377431,
@@ -28,7 +33,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n0bH9nyVFX5CJZYM5DyJ5_40.733579_-74.377431@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279495,
     "wof:geomhash":"17f98a976dac3e76a6ccd069fb2428cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":638767743
+        }
+    ],
     "wof:id":638767743,
-    "wof:lastmodified":1466680640,
+    "wof:lastmodified":1492046031,
     "wof:name":"Hosokawa Service Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

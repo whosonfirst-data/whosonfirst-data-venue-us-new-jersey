@@ -2,9 +2,14 @@
   "id": 655383595,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 State Rte 31 Pennington NJ 08534",
+    "addr:housenumber":"105",
+    "addr:postcode":"08534",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.796686,40.346841,-74.796686,40.346841",
     "geom:latitude":40.346841,
     "geom:longitude":-74.796686,
@@ -28,7 +33,13 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67pjZPn2nYsFgLG1yBdV8S_40.346841_-74.796686@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303942,
     "wof:geomhash":"4c8a540e17c64d094cbd40d206ff5b50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":655383595
+        }
+    ],
     "wof:id":655383595,
-    "wof:lastmodified":1466675087,
+    "wof:lastmodified":1492051035,
     "wof:name":"Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

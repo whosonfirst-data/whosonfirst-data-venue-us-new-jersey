@@ -2,9 +2,14 @@
   "id": 655654153,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Pottersville Rd Gladstone NJ 07934",
+    "addr:housenumber":"22",
+    "addr:postcode":"07934",
+    "addr:street":"Pottersville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.671078,40.720307,-74.671078,40.720307",
     "geom:latitude":40.720307,
     "geom:longitude":-74.671078,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d5gJAZ1eMszvtTL1T3lUN_40.720307_-74.671078@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315342,
     "wof:geomhash":"b3468706765c3b91deb857475b839ecc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":655654153
+        }
+    ],
     "wof:id":655654153,
-    "wof:lastmodified":1466682843,
+    "wof:lastmodified":1492056785,
     "wof:name":"Ross Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

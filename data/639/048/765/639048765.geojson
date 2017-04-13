@@ -2,9 +2,14 @@
   "id": 639048765,
   "type": "Feature",
   "properties": {
+    "addr:full":"172 6th St Fairview NJ 07022",
+    "addr:housenumber":"172",
+    "addr:postcode":"07022",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.998555,40.816027,-73.998555,40.816027",
     "geom:latitude":40.816027,
     "geom:longitude":-73.998555,
@@ -28,7 +33,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VGTBKunhs3sMKcRMsnGpI_40.816027_-73.998555@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286245,
     "wof:geomhash":"bf00ca71d8471888f050865eefe2ccac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639048765
+        }
+    ],
     "wof:id":639048765,
-    "wof:lastmodified":1466674231,
+    "wof:lastmodified":1492041465,
     "wof:name":"Scenscapescom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655363199,
   "type": "Feature",
   "properties": {
+    "addr:full":"11313 Long Beach Blvd Beach Haven NJ 08008",
+    "addr:housenumber":"11313",
+    "addr:postcode":"08008",
+    "addr:street":"Long Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216995,39.594665,-74.216995,39.594665",
     "geom:latitude":39.594665,
     "geom:longitude":-74.216995,
@@ -36,7 +41,10 @@
         "honeycomb"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jc3zxaD37xcZ2JqaxQndA_39.594665_-74.216995@1294171694"
@@ -44,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1461303148,
     "wof:geomhash":"49ca2e7a010b7ce909b7411a35f94ec8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527377,
+            "venue_id":655363199
+        }
+    ],
     "wof:id":655363199,
-    "wof:lastmodified":1466674447,
+    "wof:lastmodified":1492034252,
     "wof:name":"Honey Bubbles",
     "wof:parent_id":420527377,
     "wof:placetype":"venue",

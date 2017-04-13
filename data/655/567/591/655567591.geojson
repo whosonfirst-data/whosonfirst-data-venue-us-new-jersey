@@ -2,9 +2,14 @@
   "id": 655567591,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 N Main St Hightstown NJ 08520",
+    "addr:housenumber":"126",
+    "addr:postcode":"08520",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.523152,40.26958,-74.523152,40.26958",
     "geom:latitude":40.26958,
     "geom:longitude":-74.523152,
@@ -28,7 +33,14 @@
         "medium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nPgY73JG2aTgWyh634f0u_40.269580_-74.523152@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311606,
     "wof:geomhash":"04d4d7a0a06fc1f1326ef22e698fb0b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655567591
+        }
+    ],
     "wof:id":655567591,
-    "wof:lastmodified":1466680100,
+    "wof:lastmodified":1492023452,
     "wof:name":"Psychic Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

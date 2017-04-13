@@ -2,9 +2,14 @@
   "id": 639075237,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Dennison Dr Hightstown NJ 08520",
+    "addr:housenumber":"23",
+    "addr:postcode":"08520",
+    "addr:street":"Dennison Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.492504,40.262507,-74.492504,40.262507",
     "geom:latitude":40.262507,
     "geom:longitude":-74.492504,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        85976393,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6omBO3xlS5uKdP2jLBDRvK_40.262507_-74.492504@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286814,
     "wof:geomhash":"93f1fe172b96b1420751c8cbb659c490",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "locality_id":85976393,
+            "region_id":85688607,
+            "venue_id":639075237
+        }
+    ],
     "wof:id":639075237,
-    "wof:lastmodified":1466688476,
+    "wof:lastmodified":1492049297,
     "wof:name":"Mary Martusciello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

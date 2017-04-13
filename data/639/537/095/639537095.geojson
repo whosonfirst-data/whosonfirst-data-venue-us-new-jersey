@@ -2,9 +2,14 @@
   "id": 639537095,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Big Spring Rd Hamburg NJ 07419",
+    "addr:housenumber":"148",
+    "addr:postcode":"07419",
+    "addr:street":"Big Spring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.621353,41.15287,-74.621353,41.15287",
     "geom:latitude":41.15287,
     "geom:longitude":-74.621353,
@@ -24,7 +29,13 @@
     "sg:postcode":"07419",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85832743,
+        102086779,
+        420527625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K4XqJwaXxH0rPw8lUoqCf_41.152870_-74.621353@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461299141,
     "wof:geomhash":"0c3cb85f9a87146f981e3ba42d0f9753",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85832743,
+            "region_id":85688607,
+            "venue_id":639537095
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527625,
+            "venue_id":639537095
+        }
+    ],
     "wof:id":639537095,
-    "wof:lastmodified":1466695379,
+    "wof:lastmodified":1492075876,
     "wof:name":"Caiazzo & Perenic Associates",
-    "wof:parent_id":420527625,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

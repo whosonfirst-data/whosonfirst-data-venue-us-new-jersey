@@ -2,9 +2,14 @@
   "id": 639260959,
   "type": "Feature",
   "properties": {
+    "addr:full":"373 Old Main St Asbury NJ 08802",
+    "addr:housenumber":"373",
+    "addr:postcode":"08802",
+    "addr:street":"Old Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.013539,40.700641,-75.013539,40.700641",
     "geom:latitude":40.700641,
     "geom:longitude":-75.013539,
@@ -24,7 +29,14 @@
     "sg:postcode":"08802",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478417,
+        85633793,
+        85976471,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mwg1oENEWPd0NmZqpKNR7_40.700641_-75.013539@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461291079,
     "wof:geomhash":"fd10ddcaa2f95477cb4d09b74ea12f03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478417,
+            "locality_id":85976471,
+            "region_id":85688607,
+            "venue_id":639260959
+        }
+    ],
     "wof:id":639260959,
-    "wof:lastmodified":1466690618,
+    "wof:lastmodified":1492056054,
     "wof:name":"Friends of Asbury Mill In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

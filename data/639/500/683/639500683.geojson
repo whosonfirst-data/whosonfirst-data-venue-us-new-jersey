@@ -2,9 +2,14 @@
   "id": 639500683,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Tamarack Dr Englishtown NJ 07726",
+    "addr:housenumber":"9",
+    "addr:postcode":"07726",
+    "addr:street":"Tamarack Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301745,40.319493,-74.301745,40.319493",
     "geom:latitude":40.319493,
     "geom:longitude":-74.301745,
@@ -36,7 +41,13 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lWIad343NuObtU6UM1gUi_40.319493_-74.301745@1294171694"
@@ -44,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461297440,
     "wof:geomhash":"ec7fa76bd110ded3844615e1a22e63a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639500683
+        }
+    ],
     "wof:id":639500683,
-    "wof:lastmodified":1466694796,
+    "wof:lastmodified":1492049588,
     "wof:name":"Blue Dolphin Pool Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

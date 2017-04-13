@@ -2,9 +2,14 @@
   "id": 639566659,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Orange Ave Irvington NJ 07111",
+    "addr:housenumber":"305",
+    "addr:postcode":"07111",
+    "addr:street":"Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.228073,40.735434,-74.228073,40.735434",
     "geom:latitude":40.735434,
     "geom:longitude":-74.228073,
@@ -29,7 +34,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MhCh2o7cwMJeHRY9lm2ou_40.735434_-74.228073@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461300370,
     "wof:geomhash":"88a3623103afa6b3b1a92b3447517020",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639566659
+        }
+    ],
     "wof:id":639566659,
-    "wof:lastmodified":1466696263,
+    "wof:lastmodified":1492061015,
     "wof:name":"Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

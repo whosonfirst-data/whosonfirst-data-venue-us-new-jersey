@@ -2,9 +2,14 @@
   "id": 655688623,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"117",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147164,41.099783,-74.147164,41.099783",
     "geom:latitude":41.099783,
     "geom:longitude":-74.147164,
@@ -30,7 +35,13 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eQCKZ2544umCx9JcjY24W_41.099783_-74.147164@1299784598"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461316799,
     "wof:geomhash":"19bcdf06d973d9a3cd93daca18d422d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655688623
+        }
+    ],
     "wof:id":655688623,
-    "wof:lastmodified":1466684059,
+    "wof:lastmodified":1492051914,
     "wof:name":"Soup Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

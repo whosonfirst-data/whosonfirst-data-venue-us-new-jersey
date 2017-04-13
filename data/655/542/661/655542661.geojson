@@ -2,9 +2,14 @@
   "id": 655542661,
   "type": "Feature",
   "properties": {
+    "addr:full":"1459 Jacqueline Ave Brick NJ 08724",
+    "addr:housenumber":"1459",
+    "addr:postcode":"08724",
+    "addr:street":"Jacqueline Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144953,40.085349,-74.144953,40.085349",
     "geom:latitude":40.085349,
     "geom:longitude":-74.144953,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bdHc3QrN1eC9cLQSJeOTX_40.085349_-74.144953@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310530,
     "wof:geomhash":"2f524b9b3bd85f5333024575e3094b18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655542661
+        }
+    ],
     "wof:id":655542661,
-    "wof:lastmodified":1466679320,
+    "wof:lastmodified":1492042988,
     "wof:name":"Ground Effects",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

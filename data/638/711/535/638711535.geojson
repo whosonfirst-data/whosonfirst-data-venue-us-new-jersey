@@ -2,9 +2,14 @@
   "id": 638711535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2235 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2235",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285406,40.718153,-74.285406,40.718153",
     "geom:latitude":40.718153,
     "geom:longitude":-74.285406,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"www.crescentgolfonline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u3yljuZrLGyOCl4kP3lqR_40.718153_-74.285406@1294171694"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461277961,
     "wof:geomhash":"9d31194d22704e422d501f408dbcd38f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":638711535
+        }
+    ],
     "wof:id":638711535,
-    "wof:lastmodified":1466672921,
+    "wof:lastmodified":1492041200,
     "wof:name":"Crescent Fairways Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

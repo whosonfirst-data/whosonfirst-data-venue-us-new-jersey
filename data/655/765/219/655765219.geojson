@@ -2,9 +2,14 @@
   "id": 655765219,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 S Franklin Tpke Ramsey NJ 07446",
+    "addr:housenumber":"17",
+    "addr:postcode":"07446",
+    "addr:street":"S Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131893,41.057247,-74.131893,41.057247",
     "geom:latitude":41.057247,
     "geom:longitude":-74.131893,
@@ -30,7 +35,14 @@
         "services-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z1CpIBgoDaZEXC5pQNqkR_41.057247_-74.131893@1303262264"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461319860,
     "wof:geomhash":"f20310a8f3ed7928bc3b2a929eb27bb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655765219
+        }
+    ],
     "wof:id":655765219,
-    "wof:lastmodified":1466686030,
+    "wof:lastmodified":1492027775,
     "wof:name":"Radi Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

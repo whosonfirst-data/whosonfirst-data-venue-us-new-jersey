@@ -2,9 +2,14 @@
   "id": 638943367,
   "type": "Feature",
   "properties": {
+    "addr:full":"437 Lock St Phillipsburg NJ 08865",
+    "addr:housenumber":"437",
+    "addr:postcode":"08865",
+    "addr:street":"Lock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162524,40.683812,-75.162524,40.683812",
     "geom:latitude":40.683812,
     "geom:longitude":-75.162524,
@@ -28,7 +33,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sG9mneCGMJbPxH2ciwYqM_40.683812_-75.162524@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283876,
     "wof:geomhash":"e8c782f026ae9a4b3b20d01081c77d09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":638943367
+        }
+    ],
     "wof:id":638943367,
-    "wof:lastmodified":1466691169,
+    "wof:lastmodified":1492029610,
     "wof:name":"D P Cox Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

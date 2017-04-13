@@ -2,9 +2,14 @@
   "id": 639539959,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 Cedar Ct Closter NJ 07624",
+    "addr:housenumber":"138",
+    "addr:postcode":"07624",
+    "addr:street":"Cedar Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976049,40.977989,-73.976049,40.977989",
     "geom:latitude":40.977989,
     "geom:longitude":-73.976049,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cbJNFfWOeUYMfPNvJZmv1_40.977989_-73.976049@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461299297,
     "wof:geomhash":"bb1885256d592b00ee7de3ed0bf8e967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639539959
+        }
+    ],
     "wof:id":639539959,
-    "wof:lastmodified":1466695749,
+    "wof:lastmodified":1492049650,
     "wof:name":"Desktop Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

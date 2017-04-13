@@ -2,9 +2,14 @@
   "id": 639504699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Mott Way Flemington NJ 08822",
+    "addr:housenumber":"1",
+    "addr:postcode":"08822",
+    "addr:street":"Mott Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.816543,40.486609,-74.816543,40.486609",
     "geom:latitude":40.486609,
     "geom:longitude":-74.816543,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85845461,
-        102085997
+        85843949,
+        102085997,
+        85845461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085997,
+            "neighbourhood_id":85843949,
+            "region_id":85688607,
+            "venue_id":639504699
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
             "neighbourhood_id":85845461,
             "region_id":85688607,
             "venue_id":639504699
         }
     ],
     "wof:id":639504699,
-    "wof:lastmodified":1466694907,
+    "wof:lastmodified":1492048127,
     "wof:name":"5 of Hearts Enterprises Inc",
-    "wof:parent_id":85845461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

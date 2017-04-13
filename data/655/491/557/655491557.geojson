@@ -2,9 +2,14 @@
   "id": 655491557,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Summer Ct Emerson NJ 07630",
+    "addr:housenumber":"26",
+    "addr:postcode":"07630",
+    "addr:street":"Summer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.012914,40.975997,-74.012914,40.975997",
     "geom:latitude":40.975997,
     "geom:longitude":-74.012914,
@@ -28,7 +33,14 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JPxy3CtkGfJPN6ZYmhkku_40.975997_-74.012914@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308480,
     "wof:geomhash":"d97f8db7a9f44f36c15fb2a11ceb550d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":655491557
+        }
+    ],
     "wof:id":655491557,
-    "wof:lastmodified":1466677965,
+    "wof:lastmodified":1492047595,
     "wof:name":"Video Max LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

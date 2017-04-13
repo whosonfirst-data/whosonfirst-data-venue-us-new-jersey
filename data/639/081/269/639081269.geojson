@@ -2,9 +2,14 @@
   "id": 639081269,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Pavonia Ave Kearny NJ 07032",
+    "addr:housenumber":"51",
+    "addr:postcode":"07032",
+    "addr:street":"Pavonia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150594,40.769222,-74.150594,40.769222",
     "geom:latitude":40.769222,
     "geom:longitude":-74.150594,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lLMsbHcEDvEsqUW1t5N8s_40.769222_-74.150594@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286944,
     "wof:geomhash":"176a24041c8b8cade30726883178c976",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":639081269
+        }
+    ],
     "wof:id":639081269,
-    "wof:lastmodified":1466688609,
+    "wof:lastmodified":1492050483,
     "wof:name":"Euro State Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

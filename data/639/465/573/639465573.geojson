@@ -2,9 +2,14 @@
   "id": 639465573,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 State Rte 23 Wayne NJ 07470",
+    "addr:housenumber":"55",
+    "addr:postcode":"07470",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249752,40.890651,-74.249752,40.890651",
     "geom:latitude":40.890651,
     "geom:longitude":-74.249752,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D6Ia7dmyQ9Zix37GySeDw_40.890651_-74.249752@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296018,
     "wof:geomhash":"8d27574e4c55d311f618f9404c8aea8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639465573
+        }
+    ],
     "wof:id":639465573,
-    "wof:lastmodified":1466694012,
+    "wof:lastmodified":1492041739,
     "wof:name":"Willowbrook Mobil Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

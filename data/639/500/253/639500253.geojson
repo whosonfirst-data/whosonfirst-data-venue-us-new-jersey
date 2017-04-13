@@ -2,9 +2,14 @@
   "id": 639500253,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 Redwood Ct Ramsey NJ 07446",
+    "addr:housenumber":"183",
+    "addr:postcode":"07446",
+    "addr:street":"Redwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134296,41.076816,-74.134296,41.076816",
     "geom:latitude":41.076816,
     "geom:longitude":-74.134296,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AqjvwOI2tHH65mzuwooHp_41.076816_-74.134296@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297422,
     "wof:geomhash":"0484d0942626ac5e686f87934222c7a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":639500253
+        }
+    ],
     "wof:id":639500253,
-    "wof:lastmodified":1466694700,
+    "wof:lastmodified":1492042292,
     "wof:name":"C and C Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

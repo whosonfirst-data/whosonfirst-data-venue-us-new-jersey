@@ -2,9 +2,14 @@
   "id": 639506305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1462 Liberty St Trenton NJ 08629",
+    "addr:housenumber":"1462",
+    "addr:postcode":"08629",
+    "addr:street":"Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735211,40.211776,-74.735211,40.211776",
     "geom:latitude":40.211776,
     "geom:longitude":-74.735211,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yb3hkSYdrMKC3NHP6dfP8_40.211776_-74.735211@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297691,
     "wof:geomhash":"60325b54d43df141f581ba902ac71615",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639506305
+        }
+    ],
     "wof:id":639506305,
-    "wof:lastmodified":1466694688,
+    "wof:lastmodified":1492048472,
     "wof:name":"Hair Essentials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639298843,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Rymon Rd Washington NJ 07882",
+    "addr:housenumber":"50",
+    "addr:postcode":"07882",
+    "addr:street":"Rymon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.993156,40.734969,-74.993156,40.734969",
     "geom:latitude":40.734969,
     "geom:longitude":-74.993156,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XBMOy1Re3ST8XgvaJ6oSq_40.734969_-74.993156@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291947,
     "wof:geomhash":"b84c750e1bebccbab6bcccfa79fd3994",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":639298843
+        }
+    ],
     "wof:id":639298843,
-    "wof:lastmodified":1466691120,
+    "wof:lastmodified":1492044112,
     "wof:name":"Rich Morholt Trucking",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

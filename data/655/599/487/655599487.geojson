@@ -2,9 +2,14 @@
   "id": 655599487,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Five Points Rd Freehold NJ 07728",
+    "addr:housenumber":"76",
+    "addr:postcode":"07728",
+    "addr:street":"Five Points Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220364,40.253594,-74.220364,40.253594",
     "geom:latitude":40.253594,
     "geom:longitude":-74.220364,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976029,
+        85808317,
         102085049,
+        85976029,
         85851127
     ],
     "wof:breaches":[],
@@ -42,6 +48,13 @@
         {
             "country_id":85633793,
             "county_id":102085049,
+            "neighbourhood_id":85808317,
+            "region_id":85688607,
+            "venue_id":655599487
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
             "locality_id":85976029,
             "neighbourhood_id":85851127,
             "region_id":85688607,
@@ -49,9 +62,9 @@
         }
     ],
     "wof:id":655599487,
-    "wof:lastmodified":1466681061,
+    "wof:lastmodified":1492042923,
     "wof:name":"Medical Compliance & Reve",
-    "wof:parent_id":85851127,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

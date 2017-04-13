@@ -2,9 +2,14 @@
   "id": 655686949,
   "type": "Feature",
   "properties": {
+    "addr:full":"362 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"362",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99296,40.81835,-73.99296,40.81835",
     "geom:latitude":40.81835,
     "geom:longitude":-73.99296,
@@ -28,7 +33,14 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aPuhh0KH0Rb4BobWfj98y_40.818350_-73.992960@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316729,
     "wof:geomhash":"3bee4116051f89661e1ab0facd224466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655686949
+        }
+    ],
     "wof:id":655686949,
-    "wof:lastmodified":1466684133,
+    "wof:lastmodified":1492058474,
     "wof:name":"Guatemala Corner Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

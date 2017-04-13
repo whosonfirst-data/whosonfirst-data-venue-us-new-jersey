@@ -2,9 +2,14 @@
   "id": 639316615,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Mead St Newark NJ 07106",
+    "addr:housenumber":"110",
+    "addr:postcode":"07106",
+    "addr:street":"Mead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233004,40.738907,-74.233004,40.738907",
     "geom:latitude":40.738907,
     "geom:longitude":-74.233004,
@@ -24,7 +29,14 @@
     "sg:postcode":"07106",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x77IZgOwCElMoKU04IP5s_40.738907_-74.233004@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461292319,
     "wof:geomhash":"c2cc6e812c40d368cd4979f6af3b8498",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "region_id":85688607,
+            "venue_id":639316615
+        }
+    ],
     "wof:id":639316615,
-    "wof:lastmodified":1466691874,
+    "wof:lastmodified":1492041590,
     "wof:name":"Guy American Computers Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

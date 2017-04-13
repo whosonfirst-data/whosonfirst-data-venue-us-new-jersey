@@ -2,9 +2,14 @@
   "id": 639131509,
   "type": "Feature",
   "properties": {
+    "addr:full":"4556 S Broad St Trenton NJ 08620",
+    "addr:housenumber":"4556",
+    "addr:postcode":"08620",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.670803,40.178799,-74.670803,40.178799",
     "geom:latitude":40.178799,
     "geom:longitude":-74.670803,
@@ -24,7 +29,14 @@
     "sg:postcode":"08620",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976389,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XRTgBbVlUY0FnP2jjRaja_40.178799_-74.670803@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288111,
     "wof:geomhash":"da9fdfff3533e2cc352ec45205da3ec4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976389,
+            "region_id":85688607,
+            "venue_id":639131509
+        }
+    ],
     "wof:id":639131509,
-    "wof:lastmodified":1466678547,
+    "wof:lastmodified":1492043910,
     "wof:name":"Kidsbridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

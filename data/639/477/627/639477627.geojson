@@ -2,9 +2,14 @@
   "id": 639477627,
   "type": "Feature",
   "properties": {
+    "addr:full":"556 S Main St Hightstown NJ 08520",
+    "addr:housenumber":"556",
+    "addr:postcode":"08520",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526588,40.259381,-74.526588,40.259381",
     "geom:latitude":40.259381,
     "geom:longitude":-74.526588,
@@ -24,7 +29,14 @@
     "sg:postcode":"08520",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YRBfABLBIqk2wM2nYGzwT_40.259381_-74.526588@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461296516,
     "wof:geomhash":"87a3278f34537f7ffd3265819134428f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":639477627
+        }
+    ],
     "wof:id":639477627,
-    "wof:lastmodified":1466694277,
+    "wof:lastmodified":1492039447,
     "wof:name":"Mierlabs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

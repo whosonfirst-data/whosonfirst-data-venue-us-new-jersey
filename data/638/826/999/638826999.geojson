@@ -2,9 +2,14 @@
   "id": 638826999,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Main St Little Falls NJ 07424",
+    "addr:housenumber":"101",
+    "addr:postcode":"07424",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220256,40.878421,-74.220256,40.878421",
     "geom:latitude":40.878421,
     "geom:longitude":-74.220256,
@@ -24,7 +29,13 @@
     "sg:postcode":"07424",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gQTVNRpQ8dscFZVqkY4uD_40.878421_-74.220256@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461280911,
     "wof:geomhash":"4d8e4cbdc440ae979c4c7d5cc03653ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638826999
+        }
+    ],
     "wof:id":638826999,
-    "wof:lastmodified":1466688950,
+    "wof:lastmodified":1492041106,
     "wof:name":"Fairlawn Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

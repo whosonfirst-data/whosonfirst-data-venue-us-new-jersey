@@ -2,9 +2,14 @@
   "id": 639255191,
   "type": "Feature",
   "properties": {
+    "addr:full":"481 Grand Ave Trenton NJ 08628",
+    "addr:housenumber":"481",
+    "addr:postcode":"08628",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.816937,40.261678,-74.816937,40.261678",
     "geom:latitude":40.261678,
     "geom:longitude":-74.816937,
@@ -25,13 +30,16 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
-        85802957,
-        102081129,
-        85688481,
         85857707,
-        102080987
+        102191575,
+        404485049,
+        85633793,
+        101716863,
+        102080987,
+        85688481,
+        85688607,
+        85802957,
+        102081129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +50,27 @@
     "wof:geomhash":"eeeddf9e02b8d21c4812b865a5a403f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404485049,
+            "locality_id":101716863,
+            "neighbourhood_id":85857707,
+            "region_id":85688481,
+            "venue_id":639255191
+        },
+        {
             "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85802957,
             "region_id":85688607,
             "venue_id":639255191
-        },
-        {
-            "country_id":85633793,
-            "county_id":102080987,
-            "neighbourhood_id":85857707,
-            "region_id":85688481,
-            "venue_id":639255191
         }
     ],
     "wof:id":639255191,
-    "wof:lastmodified":1466690590,
+    "wof:lastmodified":1492042790,
     "wof:name":"Sabar International",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

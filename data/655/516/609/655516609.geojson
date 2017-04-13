@@ -2,9 +2,14 @@
   "id": 655516609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1059 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1059",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237615,40.725075,-74.237615,40.725075",
     "geom:latitude":40.725075,
     "geom:longitude":-74.237615,
@@ -28,7 +33,13 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A2DPjcyGK6NMyNXFBgoaz_40.725075_-74.237615@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461309552,
     "wof:geomhash":"9cda7c898d337273f21c395f59c179db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655516609
+        }
+    ],
     "wof:id":655516609,
-    "wof:lastmodified":1466678648,
+    "wof:lastmodified":1492076949,
     "wof:name":"Salvation Army",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639505409,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Mount Pleasant Tpke Randolph NJ 07869",
+    "addr:housenumber":"104",
+    "addr:postcode":"07869",
+    "addr:street":"Mount Pleasant Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.527651,40.870159,-74.527651,40.870159",
     "geom:latitude":40.870159,
     "geom:longitude":-74.527651,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EE452674HRs0FFr6ZenJL_40.870159_-74.527651@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297651,
     "wof:geomhash":"190f38c7b0f8e82eee2aedfd8c469b69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639505409
+        }
+    ],
     "wof:id":639505409,
-    "wof:lastmodified":1466694733,
+    "wof:lastmodified":1492065542,
     "wof:name":"Quinn Properties Inc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

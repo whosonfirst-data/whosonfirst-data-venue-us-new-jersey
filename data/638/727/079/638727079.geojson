@@ -2,9 +2,14 @@
   "id": 638727079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1603 Parkside Ave Trenton NJ 08638",
+    "addr:housenumber":"1603",
+    "addr:postcode":"08638",
+    "addr:street":"Parkside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761857,40.258968,-74.761857,40.258968",
     "geom:latitude":40.258968,
     "geom:longitude":-74.761857,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bPlpus4hbsRMcHHFKdpMN_40.258968_-74.761857@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461278400,
     "wof:geomhash":"01c5d2e4b1d385f5309525d412b0e7de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527165,
+            "venue_id":638727079
+        }
+    ],
     "wof:id":638727079,
-    "wof:lastmodified":1466674968,
+    "wof:lastmodified":1492082098,
     "wof:name":"Parkside Styling",
     "wof:parent_id":420527165,
     "wof:placetype":"venue",

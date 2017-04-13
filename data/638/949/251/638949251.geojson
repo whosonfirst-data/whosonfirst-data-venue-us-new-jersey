@@ -2,9 +2,14 @@
   "id": 638949251,
   "type": "Feature",
   "properties": {
+    "addr:full":"483 Glen Rd Sparta NJ 07871",
+    "addr:housenumber":"483",
+    "addr:postcode":"07871",
+    "addr:street":"Glen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.579753,41.040276,-74.579753,41.040276",
     "geom:latitude":41.040276,
     "geom:longitude":-74.579753,
@@ -29,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85849915,
+        102191575,
+        404478473,
+        85633793,
+        85975709,
+        102086779,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BeplupXBc1zyVx73LwPAU_41.040276_-74.579753@1294171694"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461284010,
     "wof:geomhash":"3bd8b050baa91ba46b8d03f6f076d2c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478473,
+            "locality_id":85975709,
+            "neighbourhood_id":85849915,
+            "region_id":85688607,
+            "venue_id":638949251
+        }
+    ],
     "wof:id":638949251,
-    "wof:lastmodified":1466691298,
+    "wof:lastmodified":1492029590,
     "wof:name":"Larry Allen Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

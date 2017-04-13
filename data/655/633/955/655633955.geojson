@@ -2,9 +2,14 @@
   "id": 655633955,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Union Brick Rd Blairstown NJ 07844",
+    "addr:housenumber":"137",
+    "addr:postcode":"07844",
+    "addr:street":"Union Brick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.996878,40.931595,-74.996878,40.931595",
     "geom:latitude":40.931595,
     "geom:longitude":-74.996878,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LVTDcNhdjLPGZS2mmAGmx_40.931595_-74.996878@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314509,
     "wof:geomhash":"54b8dd848ebad81b77763b902e55ac31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655633955
+        }
+    ],
     "wof:id":655633955,
-    "wof:lastmodified":1466682375,
+    "wof:lastmodified":1492025905,
     "wof:name":"M G Installation",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

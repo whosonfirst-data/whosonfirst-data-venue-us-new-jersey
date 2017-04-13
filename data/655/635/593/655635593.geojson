@@ -2,9 +2,14 @@
   "id": 655635593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 McBride Ave Little Falls NJ 07424",
+    "addr:housenumber":"1108",
+    "addr:postcode":"07424",
+    "addr:street":"Mcbride Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210725,40.892557,-74.210725,40.892557",
     "geom:latitude":40.892557,
     "geom:longitude":-74.210725,
@@ -29,7 +34,14 @@
         "imprinting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477351,
+        85633793,
+        85975467,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s2fj3qS6eP1wjdC2vnTXV_40.892557_-74.210725@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461314586,
     "wof:geomhash":"b06a5573144441aa786527cff8cc83eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477351,
+            "locality_id":85975467,
+            "region_id":85688607,
+            "venue_id":655635593
+        }
+    ],
     "wof:id":655635593,
-    "wof:lastmodified":1466682316,
+    "wof:lastmodified":1492029626,
     "wof:name":"Carretta Marketing Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

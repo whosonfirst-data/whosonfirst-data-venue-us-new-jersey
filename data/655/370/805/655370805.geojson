@@ -2,9 +2,14 @@
   "id": 655370805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1324 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1324",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2636,40.702373,-74.2636,40.702373",
     "geom:latitude":40.702373,
     "geom:longitude":-74.2636,
@@ -30,7 +35,10 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60lrwijtbmraQYp5fjukBS_40.702373_-74.263600@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461303454,
     "wof:geomhash":"014900322f4320f17f24d2ce76e7ba1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655370805
+        }
+    ],
     "wof:id":655370805,
-    "wof:lastmodified":1466674858,
+    "wof:lastmodified":1492051367,
     "wof:name":"L & S Pool Service",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

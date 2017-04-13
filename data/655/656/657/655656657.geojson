@@ -2,9 +2,14 @@
   "id": 655656657,
   "type": "Feature",
   "properties": {
+    "addr:full":"674 Riegelsville Rd Milford NJ 08848",
+    "addr:housenumber":"674",
+    "addr:postcode":"08848",
+    "addr:street":"Riegelsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187824,40.586579,-75.187824,40.586579",
     "geom:latitude":40.586579,
     "geom:longitude":-75.187824,
@@ -22,7 +27,13 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CMCOkTO3oPAurkoFcXKeU_40.586579_-75.187824@1294171694"
@@ -30,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461315462,
     "wof:geomhash":"6f05be6b55b171f188cd47cc09903882",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":655656657
+        }
+    ],
     "wof:id":655656657,
-    "wof:lastmodified":1466683238,
+    "wof:lastmodified":1492053589,
     "wof:name":"Petro of New Jersey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

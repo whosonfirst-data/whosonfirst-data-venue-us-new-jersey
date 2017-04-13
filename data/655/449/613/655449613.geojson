@@ -2,9 +2,14 @@
   "id": 655449613,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Taylor St Riverside NJ 08075",
+    "addr:housenumber":"207",
+    "addr:postcode":"08075",
+    "addr:street":"Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.954534,40.038721,-74.954534,40.038721",
     "geom:latitude":40.038721,
     "geom:longitude":-74.954534,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
         85814165,
-        102087415
+        102191575,
+        404477959,
+        85633793,
+        102087415,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"4782eea168c238643db32313fe19bbbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087415,
+            "localadmin_id":404477959,
             "neighbourhood_id":85814165,
             "region_id":85688607,
             "venue_id":655449613
         }
     ],
     "wof:id":655449613,
-    "wof:lastmodified":1466676915,
+    "wof:lastmodified":1492048315,
     "wof:name":"Mike's Towing Svc",
     "wof:parent_id":85814165,
     "wof:placetype":"venue",

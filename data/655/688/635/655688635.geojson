@@ -2,9 +2,14 @@
   "id": 655688635,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Ramapo Valley Rd Mahwah NJ 07430",
+    "addr:housenumber":"221",
+    "addr:postcode":"07430",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.16385,41.097032,-74.16385,41.097032",
     "geom:latitude":41.097032,
     "geom:longitude":-74.16385,
@@ -29,7 +34,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y4v8m61TYXjzGQeICWlgV_41.097032_-74.163850@1299784598"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316800,
     "wof:geomhash":"bf15c6f75bec1c075b6c982647484872",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655688635
+        }
+    ],
     "wof:id":655688635,
-    "wof:lastmodified":1466684063,
+    "wof:lastmodified":1492051914,
     "wof:name":"Mason Jar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655360727,
   "type": "Feature",
   "properties": {
+    "addr:full":"458 Steeple Chase Ln Bridgewater NJ 08807",
+    "addr:housenumber":"458",
+    "addr:postcode":"08807",
+    "addr:street":"Steeple Chase Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.647956,40.613501,-74.647956,40.613501",
     "geom:latitude":40.613501,
     "geom:longitude":-74.647956,
@@ -28,7 +33,13 @@
         "child"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k8i9BvuYlQl8EwXe2PISU_40.613501_-74.647956@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303033,
     "wof:geomhash":"fda9f9dafab12d3daafca69634cc8e47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "region_id":85688607,
+            "venue_id":655360727
+        }
+    ],
     "wof:id":655360727,
-    "wof:lastmodified":1466674566,
+    "wof:lastmodified":1492028568,
     "wof:name":"All Aboard Train To Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

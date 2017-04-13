@@ -2,9 +2,14 @@
   "id": 639024691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2681 Lawrenceville Rd Trenton NJ 08648",
+    "addr:housenumber":"2681",
+    "addr:postcode":"08648",
+    "addr:street":"Lawrenceville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.727691,40.299768,-74.727691,40.299768",
     "geom:latitude":40.299768,
     "geom:longitude":-74.727691,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85830389,
+        102191575,
+        404478255,
         85633793,
-        85843153,
-        102081129
+        85976401,
+        102081129,
+        85688607,
+        85843153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"36baa419b0765c256f5936b41a98c501",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478255,
+            "locality_id":85976401,
+            "neighbourhood_id":85830389,
+            "region_id":85688607,
+            "venue_id":639024691
+        },
+        {
             "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85843153,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":639024691,
-    "wof:lastmodified":1466673680,
+    "wof:lastmodified":1492042785,
     "wof:name":"Folmer Edward Broker Sales",
-    "wof:parent_id":85843153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

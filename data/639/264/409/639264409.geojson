@@ -2,9 +2,14 @@
   "id": 639264409,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 Main St East Brunswick NJ 08816",
+    "addr:housenumber":"98",
+    "addr:postcode":"08816",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.370566,40.411527,-74.370566,40.411527",
     "geom:latitude":40.411527,
     "geom:longitude":-74.370566,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85892363,
-        102087417
+        85816805,
+        102087417,
+        85892363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087417,
+            "neighbourhood_id":85816805,
+            "region_id":85688607,
+            "venue_id":639264409
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
             "neighbourhood_id":85892363,
             "region_id":85688607,
             "venue_id":639264409
         }
     ],
     "wof:id":639264409,
-    "wof:lastmodified":1466690738,
+    "wof:lastmodified":1492062053,
     "wof:name":"Main St Cafe",
-    "wof:parent_id":85892363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639179387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 Valley Rd Millington NJ 07946",
+    "addr:housenumber":"1708",
+    "addr:postcode":"07946",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.516107,40.665733,-74.516107,40.665733",
     "geom:latitude":40.665733,
     "geom:longitude":-74.516107,
@@ -27,7 +32,13 @@
         "association"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478437,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aNQ8O8ZGgdjQ5kySmVt5q_40.665733_-74.516107@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289177,
     "wof:geomhash":"aa6a9079485231557234ca9667f0d04c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478437,
+            "region_id":85688607,
+            "venue_id":639179387
+        }
+    ],
     "wof:id":639179387,
-    "wof:lastmodified":1466685729,
+    "wof:lastmodified":1492042740,
     "wof:name":"National Nurses Aides Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655601497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1398 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1398",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262464,40.703804,-74.262464,40.703804",
     "geom:latitude":40.703804,
     "geom:longitude":-74.262464,
@@ -32,7 +37,10 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jhxEk2QMHp4YXcvfv1jxd_40.703804_-74.262464@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461313071,
     "wof:geomhash":"4b12327c479fa1d32e724f315b020a2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655601497
+        }
+    ],
     "wof:id":655601497,
-    "wof:lastmodified":1466681070,
+    "wof:lastmodified":1492050516,
     "wof:name":"M & H Deli and Catering",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655573369,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Pond School Rd Sussex NJ 07461",
+    "addr:housenumber":"112",
+    "addr:postcode":"07461",
+    "addr:street":"Pond School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.618287,41.16833,-74.618287,41.16833",
     "geom:latitude":41.16833,
     "geom:longitude":-74.618287,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85832743,
-        102086779
+        85833213,
+        102086779,
+        85832743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85833213,
+            "region_id":85688607,
+            "venue_id":655573369
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85832743,
             "region_id":85688607,
             "venue_id":655573369
         }
     ],
     "wof:id":655573369,
-    "wof:lastmodified":1466680105,
+    "wof:lastmodified":1492067980,
     "wof:name":"M & M Maintenance",
-    "wof:parent_id":85832743,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

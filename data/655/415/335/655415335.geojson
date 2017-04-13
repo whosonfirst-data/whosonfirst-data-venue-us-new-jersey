@@ -2,9 +2,14 @@
   "id": 655415335,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"55",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620912,40.300953,-74.620912,40.300953",
     "geom:latitude":40.300953,
     "geom:longitude":-74.620912,
@@ -28,7 +33,10 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63cFlzBjQ58uGf9D9yl5xZ_40.300953_-74.620912@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305279,
     "wof:geomhash":"fe9a027b047c9fee0abe44c1c23adfb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655415335
+        }
+    ],
     "wof:id":655415335,
-    "wof:lastmodified":1466675819,
+    "wof:lastmodified":1492021490,
     "wof:name":"Social Work",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

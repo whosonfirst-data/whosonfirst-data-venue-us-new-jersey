@@ -2,9 +2,14 @@
   "id": 655419145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Benford Dr Princeton Jct NJ 08550",
+    "addr:housenumber":"2",
+    "addr:postcode":"08550",
+    "addr:street":"Benford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.629466,40.305577,-74.629466,40.305577",
     "geom:latitude":40.305577,
     "geom:longitude":-74.629466,
@@ -28,7 +33,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MaHlsb5H5aprIB8SgEFR2_40.305577_-74.629466@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305429,
     "wof:geomhash":"697c29940a2ee04124cd5ac3ed4c5680",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655419145
+        }
+    ],
     "wof:id":655419145,
-    "wof:lastmodified":1466676005,
+    "wof:lastmodified":1492047708,
     "wof:name":"Benford Group Home",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655663841,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Grandview Pl Caldwell NJ 07006",
+    "addr:housenumber":"34",
+    "addr:postcode":"07006",
+    "addr:street":"Grandview Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257477,40.877858,-74.257477,40.877858",
     "geom:latitude":40.877858,
     "geom:longitude":-74.257477,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24F3LHNjHGN7WehEvTJ2UN_40.877791_-74.257493@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315767,
     "wof:geomhash":"89d643a4bbc014dbea4029b1c8509987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":655663841
+        }
+    ],
     "wof:id":655663841,
-    "wof:lastmodified":1466683409,
+    "wof:lastmodified":1492048187,
     "wof:name":"John Chiaia ESQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

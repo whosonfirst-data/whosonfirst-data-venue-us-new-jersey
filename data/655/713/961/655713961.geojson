@@ -2,9 +2,14 @@
   "id": 655713961,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"123",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135808,40.785389,-74.135808,40.785389",
     "geom:latitude":40.785389,
     "geom:longitude":-74.135808,
@@ -24,7 +29,14 @@
     "sg:postcode":"07031",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W2QFo1HpScOPwPW5Swt5d_40.785389_-74.135808@1303262252"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317923,
     "wof:geomhash":"79f80892437820c25b8d6b5e04ca5dc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655713961
+        }
+    ],
     "wof:id":655713961,
-    "wof:lastmodified":1466684744,
+    "wof:lastmodified":1492024368,
     "wof:name":"Dr Ronald Chaiklin DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655763879,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Lakeshore Dr Oakland NJ 07436",
+    "addr:housenumber":"10",
+    "addr:postcode":"07436",
+    "addr:street":"Lakeshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243603,41.029375,-74.243603,41.029375",
     "geom:latitude":41.029375,
     "geom:longitude":-74.243603,
@@ -24,7 +29,14 @@
     "sg:postcode":"07436",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nktBIgTff2HAoQd9LIe8A_41.029375_-74.243603@1303262264"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319805,
     "wof:geomhash":"0274d8928fa72599404eb65f36a6458c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655763879
+        }
+    ],
     "wof:id":655763879,
-    "wof:lastmodified":1466686032,
+    "wof:lastmodified":1492036272,
     "wof:name":"Coffee News Of Northern New Jersey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

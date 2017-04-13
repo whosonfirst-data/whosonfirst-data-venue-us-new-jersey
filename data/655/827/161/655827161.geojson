@@ -2,9 +2,14 @@
   "id": 655827161,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Federal # & Pennsauken NJ 08109",
+    "addr:housenumber":"41",
+    "addr:postcode":"08109",
+    "addr:street":"Federal # &",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067922,39.948399,-75.067922,39.948399",
     "geom:latitude":39.948399,
     "geom:longitude":-75.067922,
@@ -32,7 +37,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jLNGhjMjhqfZmcTm29E8w_39.948399_-75.067922@1303262280"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461322530,
     "wof:geomhash":"2b2f16e32dd9a0ac44dcdc2e299ca2d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655827161
+        }
+    ],
     "wof:id":655827161,
-    "wof:lastmodified":1466687587,
+    "wof:lastmodified":1492056539,
     "wof:name":"Mister Meat Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639479281,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ramsey Way Long Valley NJ 07853",
+    "addr:housenumber":"9",
+    "addr:postcode":"07853",
+    "addr:street":"Ramsey Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.859003,40.779241,-74.859003,40.779241",
     "geom:latitude":40.779241,
     "geom:longitude":-74.859003,
@@ -29,7 +34,13 @@
         "digital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805,
+        85688607,
+        85842205,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hzAn38WUHzLRvxfw8p5dG_40.779241_-74.859003@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461296578,
     "wof:geomhash":"086d0a5cc758bc5a2d4b48dba26d4749",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":639479281
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85842205,
+            "region_id":85688607,
+            "venue_id":639479281
+        }
+    ],
     "wof:id":639479281,
-    "wof:lastmodified":1466693976,
+    "wof:lastmodified":1492016900,
     "wof:name":"Gallucci Imaging Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

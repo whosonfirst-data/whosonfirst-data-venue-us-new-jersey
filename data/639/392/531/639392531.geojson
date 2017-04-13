@@ -2,9 +2,14 @@
   "id": 639392531,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 Hayes Dr Saddle Brook NJ 07663",
+    "addr:housenumber":"285",
+    "addr:postcode":"07663",
+    "addr:street":"Hayes Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.105211,40.915986,-74.105211,40.915986",
     "geom:latitude":40.915986,
     "geom:longitude":-74.105211,
@@ -31,7 +36,11 @@
         85688607,
         85633793,
         85840881,
-        102086773
+        102086773,
+        85854547,
+        102191575,
+        404477533,
+        85975873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +56,22 @@
             "neighbourhood_id":85840881,
             "region_id":85688607,
             "venue_id":639392531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "neighbourhood_id":85854547,
+            "region_id":85688607,
+            "venue_id":639392531
         }
     ],
     "wof:id":639392531,
-    "wof:lastmodified":1466692871,
+    "wof:lastmodified":1492041537,
     "wof:name":"New Jersey Beverage",
-    "wof:parent_id":85840881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

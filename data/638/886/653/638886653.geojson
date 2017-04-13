@@ -2,9 +2,14 @@
   "id": 638886653,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Spring Valley Rd Montvale NJ 07645",
+    "addr:housenumber":"128",
+    "addr:postcode":"07645",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.052643,41.059591,-74.052643,41.059591",
     "geom:latitude":41.059591,
     "geom:longitude":-74.052643,
@@ -31,7 +36,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3md30ui2dMbODIm0uWspwN_41.059591_-74.052643@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461282389,
     "wof:geomhash":"532e1039f971d90066890f239f6f999c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":638886653
+        }
+    ],
     "wof:id":638886653,
-    "wof:lastmodified":1466689940,
+    "wof:lastmodified":1492052345,
     "wof:name":"De Rosa Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

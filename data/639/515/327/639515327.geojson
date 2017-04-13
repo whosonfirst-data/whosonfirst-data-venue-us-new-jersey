@@ -2,9 +2,14 @@
   "id": 639515327,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Petticoat Ln Annandale NJ 08801",
+    "addr:housenumber":"102",
+    "addr:postcode":"08801",
+    "addr:street":"Petticoat Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.855588,40.667455,-74.855588,40.667455",
     "geom:latitude":40.667455,
     "geom:longitude":-74.855588,
@@ -28,7 +33,10 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TbvDR5ppr0Vv5bQdOIQJ7_40.667455_-74.855588@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461298088,
     "wof:geomhash":"9ab0899f587f83cc63283e89f02dab1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":639515327
+        }
+    ],
     "wof:id":639515327,
-    "wof:lastmodified":1466695011,
+    "wof:lastmodified":1492041623,
     "wof:name":"Mac Millan Agencies Inc",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

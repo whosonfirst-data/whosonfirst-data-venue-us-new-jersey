@@ -2,9 +2,14 @@
   "id": 639525221,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Harristown Rd Glen Rock NJ 07452",
+    "addr:housenumber":"11",
+    "addr:postcode":"07452",
+    "addr:street":"Harristown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144451,40.948622,-74.144451,40.948622",
     "geom:latitude":40.948622,
     "geom:longitude":-74.144451,
@@ -24,7 +29,16 @@
     "sg:postcode":"07452",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773,
+        404477543,
+        85975863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38LqkdVxckTuYbxrXbqWPA_40.948622_-74.144451@1294171694"
@@ -32,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1461298569,
     "wof:geomhash":"da9c9dbe954eb61d54b883de118522be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639525221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639525221
+        }
+    ],
     "wof:id":639525221,
-    "wof:lastmodified":1466695248,
+    "wof:lastmodified":1492041666,
     "wof:name":"YMCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

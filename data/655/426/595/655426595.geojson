@@ -2,9 +2,14 @@
   "id": 655426595,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Stults Ln East Brunswick NJ 08816",
+    "addr:housenumber":"161",
+    "addr:postcode":"08816",
+    "addr:street":"Stults Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.399217,40.423701,-74.399217,40.423701",
     "geom:latitude":40.423701,
     "geom:longitude":-74.399217,
@@ -24,7 +29,14 @@
     "sg:postcode":"08816",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527173,
+        85688607,
+        85975727,
+        102087417,
+        85851809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kWaPvYsKmeZ5PHP9bZg8C_40.423701_-74.399217@1294171694"
@@ -32,11 +44,25 @@
     "wof:country":"US",
     "wof:created":1461305733,
     "wof:geomhash":"dca02daa7d8d04653127f35fd1628bce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527173,
+            "venue_id":655426595
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "locality_id":85975727,
+            "neighbourhood_id":85851809,
+            "region_id":85688607,
+            "venue_id":655426595
+        }
+    ],
     "wof:id":655426595,
-    "wof:lastmodified":1466676189,
+    "wof:lastmodified":1492057148,
     "wof:name":"Inter Art",
-    "wof:parent_id":420527173,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

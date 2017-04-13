@@ -2,9 +2,14 @@
   "id": 639619499,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 River Rd Summit NJ 07901",
+    "addr:housenumber":"180",
+    "addr:postcode":"07901",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.368375,40.737558,-74.368375,40.737558",
     "geom:latitude":40.737558,
     "geom:longitude":-74.368375,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.northwesternmutual.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bLToqH7zCc6nK8ZqMKQNh_40.737558_-74.368375@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461302487,
     "wof:geomhash":"40e261ae8ea99a824d0a71a57ec7fccd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639619499
+        }
+    ],
     "wof:id":639619499,
-    "wof:lastmodified":1466697440,
+    "wof:lastmodified":1492056704,
     "wof:name":"Northwestern Mutual Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

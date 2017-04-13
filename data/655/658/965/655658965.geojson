@@ -2,9 +2,14 @@
   "id": 655658965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Hamburg Tpke Wayne NJ 07470",
+    "addr:housenumber":"1405",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250198,40.962101,-74.250198,40.962101",
     "geom:latitude":40.962101,
     "geom:longitude":-74.250198,
@@ -27,7 +32,10 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v7W2oh2s9bE56FKjttFaV_40.962435_-74.250605@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315578,
     "wof:geomhash":"4c629736943d9354d3f43b72f39f7fdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655658965
+        }
+    ],
     "wof:id":655658965,
-    "wof:lastmodified":1466683368,
+    "wof:lastmodified":1492058414,
     "wof:name":"Delta Gas",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

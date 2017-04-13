@@ -2,9 +2,14 @@
   "id": 639365173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2263 Morrison Ave Union NJ 07083",
+    "addr:housenumber":"2263",
+    "addr:postcode":"07083",
+    "addr:street":"Morrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.269787,40.708466,-74.269787,40.708466",
     "geom:latitude":40.708466,
     "geom:longitude":-74.269787,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LmSGXlvPiOH4MycOdhN1L_40.708466_-74.269787@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461293335,
     "wof:geomhash":"633ca306778c8d33e535c3e8b3b2e8ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639365173
+        }
+    ],
     "wof:id":639365173,
-    "wof:lastmodified":1466692581,
+    "wof:lastmodified":1492049733,
     "wof:name":"BR Plumbing & Heating Inc",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

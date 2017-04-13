@@ -2,9 +2,14 @@
   "id": 639299497,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Rock Rd Glen Rock NJ 07452",
+    "addr:housenumber":"225",
+    "addr:postcode":"07452",
+    "addr:street":"Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130146,40.962521,-74.130146,40.962521",
     "geom:latitude":40.962521,
     "geom:longitude":-74.130146,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wI54qpmJtIOVy8nNTRePs_40.962521_-74.130146@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291959,
     "wof:geomhash":"8d8110fe04a7863eb29c2fc0269d81dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639299497
+        }
+    ],
     "wof:id":639299497,
-    "wof:lastmodified":1466691182,
+    "wof:lastmodified":1492054529,
     "wof:name":"Finger Art Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

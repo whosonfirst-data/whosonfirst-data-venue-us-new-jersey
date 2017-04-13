@@ -2,9 +2,14 @@
   "id": 638852901,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Curtis Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"220",
+    "addr:postcode":"08742",
+    "addr:street":"Curtis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051695,40.098255,-74.051695,40.098255",
     "geom:latitude":40.098255,
     "geom:longitude":-74.051695,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B6u94xH1NgCbtZrJzzFeL_40.098255_-74.051695@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281588,
     "wof:geomhash":"5b2d80a45b4ba5d5b1fabfaba4fd839f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":638852901
+        }
+    ],
     "wof:id":638852901,
-    "wof:lastmodified":1466689034,
+    "wof:lastmodified":1492041216,
     "wof:name":"John K Millar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

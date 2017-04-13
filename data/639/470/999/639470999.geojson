@@ -2,9 +2,14 @@
   "id": 639470999,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Corporate Dr Mahwah NJ 07430",
+    "addr:housenumber":"750",
+    "addr:postcode":"07430",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.158941,41.082612,-74.158941,41.082612",
     "geom:latitude":41.082612,
     "geom:longitude":-74.158941,
@@ -24,7 +29,13 @@
     "sg:postcode":"07430",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jFPMSwDdRMCHjF5StxYbX_41.082612_-74.158941@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461296221,
     "wof:geomhash":"5b6202391049f6cafb7fdab2cbb1b934",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639470999
+        }
+    ],
     "wof:id":639470999,
-    "wof:lastmodified":1466694209,
+    "wof:lastmodified":1492051047,
     "wof:name":"AMB Property Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

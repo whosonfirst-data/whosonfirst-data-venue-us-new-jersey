@@ -2,9 +2,14 @@
   "id": 639261367,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Spring Mills Rd Milford NJ 08848",
+    "addr:housenumber":"50",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.110717,40.595381,-75.110717,40.595381",
     "geom:latitude":40.595381,
     "geom:longitude":-75.110717,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UPOn9JlJqhXPrjVothfOF_40.595381_-75.110717@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291086,
     "wof:geomhash":"89fd3ce0ffb791ff9dcc21375cb2b133",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":639261367
+        }
+    ],
     "wof:id":639261367,
-    "wof:lastmodified":1466690567,
+    "wof:lastmodified":1492049902,
     "wof:name":"Senior Advertures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

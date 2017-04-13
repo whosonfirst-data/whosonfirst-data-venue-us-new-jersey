@@ -2,9 +2,14 @@
   "id": 639553317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1323 Bound Brook Rd Middlesex NJ 08846",
+    "addr:housenumber":"1323",
+    "addr:postcode":"08846",
+    "addr:street":"Bound Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.504753,40.578931,-74.504753,40.578931",
     "geom:latitude":40.578931,
     "geom:longitude":-74.504753,
@@ -29,7 +34,14 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478283,
+        85633793,
+        85975743,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UHoK5glIqBJMOvlWiAo65_40.578931_-74.504753@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461299881,
     "wof:geomhash":"1ff5f226fe2a8225cbaa348e9c9e529c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478283,
+            "locality_id":85975743,
+            "region_id":85688607,
+            "venue_id":639553317
+        }
+    ],
     "wof:id":639553317,
-    "wof:lastmodified":1466695893,
+    "wof:lastmodified":1492028546,
     "wof:name":"Kitchens Direct Of Middlesex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

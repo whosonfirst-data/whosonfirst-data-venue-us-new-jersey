@@ -2,9 +2,14 @@
   "id": 639412849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2006 Country Ln Trenton NJ 08628",
+    "addr:housenumber":"2006",
+    "addr:postcode":"08628",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.832192,40.246802,-74.832192,40.246802",
     "geom:latitude":40.246802,
     "geom:longitude":-74.832192,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85857707,
-        102080987
+        102191575,
+        404485049,
+        85633793,
+        101716863,
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"ad1ce7cca44686ba42b05c5cbd44cd92",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
+            "localadmin_id":404485049,
+            "locality_id":101716863,
             "neighbourhood_id":85857707,
             "region_id":85688481,
             "venue_id":639412849
         }
     ],
     "wof:id":639412849,
-    "wof:lastmodified":1466693413,
+    "wof:lastmodified":1492047614,
     "wof:name":"Serv Behavioral Health Syst",
     "wof:parent_id":85857707,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639051157,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 State Rte 72 Barnegat NJ 08005",
+    "addr:housenumber":"601",
+    "addr:postcode":"08005",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.375542,39.796544,-74.375542,39.796544",
     "geom:latitude":39.796544,
     "geom:longitude":-74.375542,
@@ -28,7 +33,13 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477823,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G8OqOv2QJdz4V7m4jFo2t_39.796544_-74.375542@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286297,
     "wof:geomhash":"72cdeea412bf994c2f72f12e65f69e5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477823,
+            "region_id":85688607,
+            "venue_id":639051157
+        }
+    ],
     "wof:id":639051157,
-    "wof:lastmodified":1466674265,
+    "wof:lastmodified":1492049579,
     "wof:name":"Audio Artisans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

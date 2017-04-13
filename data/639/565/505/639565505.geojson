@@ -2,9 +2,14 @@
   "id": 639565505,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Stonehurst Ct Northvale NJ 07647",
+    "addr:housenumber":"105",
+    "addr:postcode":"07647",
+    "addr:street":"Stonehurst Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.944126,40.999826,-73.944126,40.999826",
     "geom:latitude":40.999826,
     "geom:longitude":-73.944126,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_631RTpODTAD2tERkNSIB96_40.999826_-73.944126@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300328,
     "wof:geomhash":"5cd3210cf5888813c2c598353623b86c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639565505
+        }
+    ],
     "wof:id":639565505,
-    "wof:lastmodified":1466696252,
+    "wof:lastmodified":1492049553,
     "wof:name":"Boujois Limited LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

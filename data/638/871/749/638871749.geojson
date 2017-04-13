@@ -2,9 +2,14 @@
   "id": 638871749,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Co Rd 513 Frenchtown NJ 08825",
+    "addr:housenumber":"117",
+    "addr:postcode":"513;08825",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.042585,40.561667,-75.042585,40.561667",
     "geom:latitude":40.561667,
     "geom:longitude":-75.042585,
@@ -29,7 +34,13 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Or20AzFUg5aOEqxyGCrLi_40.561667_-75.042585@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461282005,
     "wof:geomhash":"aac77647f7b7a9e1efd90c3b00138bba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":638871749
+        }
+    ],
     "wof:id":638871749,
-    "wof:lastmodified":1466689719,
+    "wof:lastmodified":1492029637,
     "wof:name":"Valley View Health Care Fcilty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

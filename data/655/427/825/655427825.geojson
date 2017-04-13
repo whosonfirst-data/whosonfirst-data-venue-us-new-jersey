@@ -2,9 +2,14 @@
   "id": 655427825,
   "type": "Feature",
   "properties": {
+    "addr:full":"672 Windsor Ave Maple Shade NJ 08052",
+    "addr:housenumber":"672",
+    "addr:postcode":"08052",
+    "addr:street":"Windsor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.017834,39.967383,-75.017834,39.967383",
     "geom:latitude":39.967383,
     "geom:longitude":-75.017834,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477857,
+        85633793,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kCZM6cI0NdBmqVjGqbiQz_39.967383_-75.017834@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461305791,
     "wof:geomhash":"e060b9c114417898a61c65a6e5c4fc2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477857,
+            "region_id":85688607,
+            "venue_id":655427825
+        }
+    ],
     "wof:id":655427825,
-    "wof:lastmodified":1466676282,
+    "wof:lastmodified":1492045151,
     "wof:name":"Devco Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

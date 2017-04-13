@@ -2,9 +2,14 @@
   "id": 639552637,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Hockenbury Rd Hillsborough NJ 08844",
+    "addr:housenumber":"200",
+    "addr:postcode":"08844",
+    "addr:street":"Hockenbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.784775,40.498057,-74.784775,40.498057",
     "geom:latitude":40.498057,
     "geom:longitude":-74.784775,
@@ -28,7 +33,10 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SUYZobROZeLx6HnZTcHmM_40.498057_-74.784775@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299857,
     "wof:geomhash":"0f7ba8a392e065b5c655c0cb64c0e0eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":639552637
+        }
+    ],
     "wof:id":639552637,
-    "wof:lastmodified":1466695944,
+    "wof:lastmodified":1492025432,
     "wof:name":"Deborah Butcher Pub Relations",
     "wof:parent_id":420527603,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655548317,
   "type": "Feature",
   "properties": {
+    "addr:full":"448 Lincoln Ave Hawthorne NJ 07506",
+    "addr:housenumber":"448",
+    "addr:postcode":"07506",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143779,40.957816,-74.143779,40.957816",
     "geom:latitude":40.957816,
     "geom:longitude":-74.143779,
@@ -27,7 +32,15 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879775,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38HGnRBJuF7ktQ8YjGcQuH_40.957816_-74.143779@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461310756,
     "wof:geomhash":"f2fa2588282592ebc80ef79aea35624c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "neighbourhood_id":85879775,
+            "region_id":85688607,
+            "venue_id":655548317
+        }
+    ],
     "wof:id":655548317,
-    "wof:lastmodified":1466679492,
+    "wof:lastmodified":1492029879,
     "wof:name":"Hawthorne Insurance Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

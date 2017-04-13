@@ -2,9 +2,14 @@
   "id": 638881669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 Edison Ter Union NJ 07083",
+    "addr:housenumber":"2012",
+    "addr:postcode":"07083",
+    "addr:street":"Edison Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258006,40.711847,-74.258006,40.711847",
     "geom:latitude":40.711847,
     "geom:longitude":-74.258006,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IEXUPn8e7wJWsMRj5GW97_40.711847_-74.258006@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461282240,
     "wof:geomhash":"170d42c91284f766fc5253137fc77040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":638881669
+        }
+    ],
     "wof:id":638881669,
-    "wof:lastmodified":1466689760,
+    "wof:lastmodified":1492050511,
     "wof:name":"Les Heating & Cooling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

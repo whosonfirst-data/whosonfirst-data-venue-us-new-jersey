@@ -2,9 +2,14 @@
   "id": 655619279,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Washington St Belvidere NJ 07823",
+    "addr:housenumber":"10",
+    "addr:postcode":"07823",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.074296,40.830237,-75.074296,40.830237",
     "geom:latitude":40.830237,
     "geom:longitude":-75.074296,
@@ -27,7 +32,14 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q4XNQ81cwGbhoM34paa5J_40.830237_-75.074296@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313848,
     "wof:geomhash":"c06722a89bb0d0c00b5351fdb52f5a39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655619279
+        }
+    ],
     "wof:id":655619279,
-    "wof:lastmodified":1466681739,
+    "wof:lastmodified":1492048109,
     "wof:name":"Ainsworth Scott School Bus Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

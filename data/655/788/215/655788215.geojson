@@ -2,9 +2,14 @@
   "id": 655788215,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Ayers Rd Sandyston NJ 07827",
+    "addr:housenumber":"16",
+    "addr:postcode":"07827",
+    "addr:street":"Ayers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.809814,41.260841,-74.809814,41.260841",
     "geom:latitude":41.260841,
     "geom:longitude":-74.809814,
@@ -27,7 +32,13 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478475,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QQjTnBYVGOcIYSkW01Wzs_41.260841_-74.809814@1303262270"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461320906,
     "wof:geomhash":"2d5b79a50bb7ff12b20ce1d93febf294",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478475,
+            "region_id":85688607,
+            "venue_id":655788215
+        }
+    ],
     "wof:id":655788215,
-    "wof:lastmodified":1466686567,
+    "wof:lastmodified":1492029639,
     "wof:name":"Hidden Acres Golf Course Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

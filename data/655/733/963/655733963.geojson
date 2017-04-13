@@ -2,9 +2,14 @@
   "id": 655733963,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"73",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.297814,40.619192,-74.297814,40.619192",
     "geom:latitude":40.619192,
     "geom:longitude":-74.297814,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YMCmAEo8IznIUU2RORmdO_40.619192_-74.297814@1303262257"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461318684,
     "wof:geomhash":"91de2a0e16f3a1508a6026f20249026f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655733963
+        }
+    ],
     "wof:id":655733963,
-    "wof:lastmodified":1466685267,
+    "wof:lastmodified":1492028476,
     "wof:name":"International Pastry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

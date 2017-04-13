@@ -2,9 +2,14 @@
   "id": 639346735,
   "type": "Feature",
   "properties": {
+    "addr:full":"473 Jason Pl Brick NJ 08724",
+    "addr:housenumber":"473",
+    "addr:postcode":"08724",
+    "addr:street":"Jason Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142891,40.078663,-74.142891,40.078663",
     "geom:latitude":40.078663,
     "geom:longitude":-74.142891,
@@ -28,7 +33,10 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zFmfbvijgUqf8kZwbkqXM_40.078663_-74.142891@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461292957,
     "wof:geomhash":"d7536095511e67893b9d8c8304a304f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639346735
+        }
+    ],
     "wof:id":639346735,
-    "wof:lastmodified":1466692412,
+    "wof:lastmodified":1492049927,
     "wof:name":"Linda's Dynamic Dramatics",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

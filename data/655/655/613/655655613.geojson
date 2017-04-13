@@ -2,9 +2,14 @@
   "id": 655655613,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Beverly Rancocas Rd Willingboro NJ 08046",
+    "addr:housenumber":"440",
+    "addr:postcode":"08046",
+    "addr:street":"Beverly Rancocas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.892526,40.01855,-74.892526,40.01855",
     "geom:latitude":40.01855,
     "geom:longitude":-74.892526,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.willingboroschools.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mpVspa0o7G0snz2o2qx3C_40.018550_-74.892526@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461315411,
     "wof:geomhash":"96469d2ed2921002467da662af0a66d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526697,
+            "venue_id":655655613
+        }
+    ],
     "wof:id":655655613,
-    "wof:lastmodified":1466683050,
+    "wof:lastmodified":1492048434,
     "wof:name":"Willingboro Public School Dist",
     "wof:parent_id":420526697,
     "wof:placetype":"venue",

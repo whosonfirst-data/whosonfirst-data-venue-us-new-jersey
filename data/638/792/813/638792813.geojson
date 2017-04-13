@@ -2,9 +2,14 @@
   "id": 638792813,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Lexington Cir Marlton NJ 08053",
+    "addr:housenumber":"69",
+    "addr:postcode":"08053",
+    "addr:street":"Lexington Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.911532,39.903981,-74.911532,39.903981",
     "geom:latitude":39.903981,
     "geom:longitude":-74.911532,
@@ -28,7 +33,10 @@
         "form"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VK3KwzDY6o1eTdqVE1CFp_39.903981_-74.911532@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280076,
     "wof:geomhash":"bf6bb871083514848347b24bc7913f39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638792813
+        }
+    ],
     "wof:id":638792813,
-    "wof:lastmodified":1466684661,
+    "wof:lastmodified":1492027908,
     "wof:name":"Data Print Inc",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655371505,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Gloria Ann Smith Dr Brick NJ 08723",
+    "addr:housenumber":"30",
+    "addr:postcode":"08723",
+    "addr:street":"Gloria Ann Smith Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14131,40.03801,-74.14131,40.03801",
     "geom:latitude":40.03801,
     "geom:longitude":-74.14131,
@@ -27,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TfHII9YfgjMvWhnJu1hkj_40.038010_-74.141310@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303479,
     "wof:geomhash":"9d15e625d100d67edc61b20d0f13c957",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655371505
+        }
+    ],
     "wof:id":655371505,
-    "wof:lastmodified":1466674782,
+    "wof:lastmodified":1492056710,
     "wof:name":"S & S Communications",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

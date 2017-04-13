@@ -2,9 +2,14 @@
   "id": 639419561,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Bay Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"600",
+    "addr:postcode":"08742",
+    "addr:street":"Bay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051769,40.090427,-74.051769,40.090427",
     "geom:latitude":40.090427,
     "geom:longitude":-74.051769,
@@ -29,7 +34,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VsOyoTSB5FccpRUm7EcsA_40.090427_-74.051769@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461294702,
     "wof:geomhash":"c47aff7435f307b39cc1a78bccf5f60a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639419561
+        }
+    ],
     "wof:id":639419561,
-    "wof:lastmodified":1466693177,
+    "wof:lastmodified":1492047138,
     "wof:name":"Princeton Disc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

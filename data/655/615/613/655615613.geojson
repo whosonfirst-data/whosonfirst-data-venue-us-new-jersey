@@ -2,9 +2,14 @@
   "id": 655615613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Municipal Dr Bordentown NJ 08505",
+    "addr:housenumber":"3",
+    "addr:postcode":"08505",
+    "addr:street":"Municipal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.705833,40.13862,-74.705833,40.13862",
     "geom:latitude":40.13862,
     "geom:longitude":-74.705833,
@@ -34,7 +39,10 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u68Vd9Kni6Fqa8yVJ6iFx_40.138620_-74.705833@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461313674,
     "wof:geomhash":"f407490126bb2a24c562ebfb6031dced",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655615613
+        }
+    ],
     "wof:id":655615613,
-    "wof:lastmodified":1466681688,
+    "wof:lastmodified":1492041016,
     "wof:name":"Bordentown Township Senior Ctr",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

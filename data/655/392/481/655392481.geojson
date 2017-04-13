@@ -2,9 +2,14 @@
   "id": 655392481,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 South Ave Plainfield NJ 07062",
+    "addr:housenumber":"600",
+    "addr:postcode":"07062",
+    "addr:street":"South Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.409348,40.624387,-74.409348,40.624387",
     "geom:latitude":40.624387,
     "geom:longitude":-74.409348,
@@ -27,7 +32,16 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527743,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995,
+        85688607,
+        420527707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LifRzDOabalm2RrPrT6an_40.624387_-74.409348@1294171694"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1461304318,
     "wof:geomhash":"a73f1a08bd6a5c34019394e13b992ec6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "neighbourhood_id":420527743,
+            "region_id":85688607,
+            "venue_id":655392481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "neighbourhood_id":420527707,
+            "region_id":85688607,
+            "venue_id":655392481
+        }
+    ],
     "wof:id":655392481,
-    "wof:lastmodified":1466675317,
+    "wof:lastmodified":1492028606,
     "wof:name":"Nu-Tech Automotive Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

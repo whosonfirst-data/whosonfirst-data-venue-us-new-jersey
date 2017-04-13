@@ -2,9 +2,14 @@
   "id": 638926647,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"124",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.3409,41.007717,-74.3409,41.007717",
     "geom:latitude":41.007717,
     "geom:longitude":-74.3409,
@@ -27,7 +32,14 @@
         "brake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mdOItWDXv2Scy8fBnjOGs_41.007717_-74.340900@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283434,
     "wof:geomhash":"312891307a10e21e9805d8177e70d16c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":638926647
+        }
+    ],
     "wof:id":638926647,
-    "wof:lastmodified":1466690664,
+    "wof:lastmodified":1492053762,
     "wof:name":"T & L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

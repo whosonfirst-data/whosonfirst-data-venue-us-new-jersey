@@ -2,9 +2,14 @@
   "id": 655518205,
   "type": "Feature",
   "properties": {
+    "addr:full":"538 Island Rd Ramsey NJ 07446",
+    "addr:housenumber":"538",
+    "addr:postcode":"07446",
+    "addr:street":"Island Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143227,41.072941,-74.143227,41.072941",
     "geom:latitude":41.072941,
     "geom:longitude":-74.143227,
@@ -27,7 +32,14 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZgpO5pRyUZhvm7D1syU7F_41.072941_-74.143227@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461309609,
     "wof:geomhash":"000f5259c37ca625a2d3555726e6675e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655518205
+        }
+    ],
     "wof:id":655518205,
-    "wof:lastmodified":1466678668,
+    "wof:lastmodified":1492053723,
     "wof:name":"Old Stone House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

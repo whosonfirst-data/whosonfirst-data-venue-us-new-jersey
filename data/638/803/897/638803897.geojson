@@ -2,9 +2,14 @@
   "id": 638803897,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 New Brunswick Rd Somerset NJ 08873",
+    "addr:housenumber":"510",
+    "addr:postcode":"08873",
+    "addr:street":"New Brunswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.495613,40.512942,-74.495613,40.512942",
     "geom:latitude":40.512942,
     "geom:longitude":-74.495613,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33QUnCCUWKrhNf9qsFKWCD_40.512942_-74.495613@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461280314,
     "wof:geomhash":"54d8d177ef4b77b86df38578ffb6b7e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":638803897
+        }
+    ],
     "wof:id":638803897,
-    "wof:lastmodified":1466686086,
+    "wof:lastmodified":1492065219,
     "wof:name":"Engineers Assoc Precast Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

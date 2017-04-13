@@ -2,9 +2,14 @@
   "id": 655678299,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 Woolf Rd Milford NJ 08848",
+    "addr:housenumber":"296",
+    "addr:postcode":"08848",
+    "addr:street":"Woolf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036101,40.602861,-75.036101,40.602861",
     "geom:latitude":40.602861,
     "geom:longitude":-75.036101,
@@ -27,7 +32,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ovIadY9Rthx62HxnIyDz0_40.603138_-75.035913@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316349,
     "wof:geomhash":"25370dd36dd21d34bee5bc99f3b067ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":655678299
+        }
+    ],
     "wof:id":655678299,
-    "wof:lastmodified":1466683714,
+    "wof:lastmodified":1492040967,
     "wof:name":"Barbara Chilmonik",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

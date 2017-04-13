@@ -2,9 +2,14 @@
   "id": 639181183,
   "type": "Feature",
   "properties": {
+    "addr:full":"173 Pension Rd Englishtown NJ 07726",
+    "addr:housenumber":"173",
+    "addr:postcode":"07726",
+    "addr:street":"Pension Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.351267,40.320189,-74.351267,40.320189",
     "geom:latitude":40.320189,
     "geom:longitude":-74.351267,
@@ -27,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PLopisS9wVh3B6Bg4yiCM_40.320189_-74.351267@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461289215,
     "wof:geomhash":"3a9b0e86b11edd49f6ac89e2b93fc29d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639181183
+        }
+    ],
     "wof:id":639181183,
-    "wof:lastmodified":1466685961,
+    "wof:lastmodified":1492030632,
     "wof:name":"Integrity Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

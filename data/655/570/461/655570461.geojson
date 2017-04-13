@@ -2,9 +2,14 @@
   "id": 655570461,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 N Concourse Keyport NJ 07735",
+    "addr:housenumber":"927",
+    "addr:postcode":"07735",
+    "addr:street":"N Concourse",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214393,40.445586,-74.214393,40.445586",
     "geom:latitude":40.445586,
     "geom:longitude":-74.214393,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ApelKWgUb5DYwoURjYwFf_40.445586_-74.214393@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461311730,
     "wof:geomhash":"9dbd77d428e6df65c9af1794590aaf0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":655570461
+        }
+    ],
     "wof:id":655570461,
-    "wof:lastmodified":1466680062,
+    "wof:lastmodified":1492028598,
     "wof:name":"Goodman Electric Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

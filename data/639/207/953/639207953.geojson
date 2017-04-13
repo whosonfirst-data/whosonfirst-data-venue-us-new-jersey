@@ -2,9 +2,14 @@
   "id": 639207953,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Saw Mill Dr Somerset NJ 08873",
+    "addr:housenumber":"5",
+    "addr:postcode":"08873",
+    "addr:street":"Saw Mill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.569912,40.457171,-74.569912,40.457171",
     "geom:latitude":40.457171,
     "geom:longitude":-74.569912,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976123,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d4SLwQU7Ep8Ut9Zt8lQNm_40.457171_-74.569912@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289855,
     "wof:geomhash":"ebf0e53fb22845e1965ff37852c50af9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976123,
+            "region_id":85688607,
+            "venue_id":639207953
+        }
+    ],
     "wof:id":639207953,
-    "wof:lastmodified":1466688914,
+    "wof:lastmodified":1492043899,
     "wof:name":"Masfin Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

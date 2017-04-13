@@ -2,9 +2,14 @@
   "id": 655790037,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Woodside Ave Newton NJ 07860",
+    "addr:housenumber":"5",
+    "addr:postcode":"07860",
+    "addr:street":"Woodside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749835,41.050697,-74.749835,41.050697",
     "geom:latitude":41.050697,
     "geom:longitude":-74.749835,
@@ -35,7 +40,10 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e4oIDyy4zLqnJajgfWoHu_41.050697_-74.749835@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320979,
     "wof:geomhash":"3f66fb673806d63e8d0819759707aeba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655790037
+        }
+    ],
     "wof:id":655790037,
-    "wof:lastmodified":1466686529,
+    "wof:lastmodified":1492070868,
     "wof:name":"Carquest Auto Parts",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

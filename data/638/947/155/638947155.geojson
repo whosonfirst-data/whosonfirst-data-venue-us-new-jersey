@@ -2,9 +2,14 @@
   "id": 638947155,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 Putnam Ave Plainfield NJ 07060",
+    "addr:housenumber":"930",
+    "addr:postcode":"07060",
+    "addr:street":"Putnam Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.41159,40.619372,-74.41159,40.619372",
     "geom:latitude":40.619372,
     "geom:longitude":-74.41159,
@@ -27,7 +32,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RNEoDVNn3gsGyLwKKijyx_40.619372_-74.411590@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283966,
     "wof:geomhash":"fb906a0e14a685d740704e81f71c71a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":638947155
+        }
+    ],
     "wof:id":638947155,
-    "wof:lastmodified":1466691288,
+    "wof:lastmodified":1492027585,
     "wof:name":"Alertop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

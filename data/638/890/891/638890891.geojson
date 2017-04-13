@@ -2,9 +2,14 @@
   "id": 638890891,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 Rock Rd Glen Rock NJ 07452",
+    "addr:housenumber":"523",
+    "addr:postcode":"07452",
+    "addr:street":"Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117058,40.962491,-74.117058,40.962491",
     "geom:latitude":40.962491,
     "geom:longitude":-74.117058,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QPy7ITqlmlE0nVDS5IuEc_40.962491_-74.117058@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282517,
     "wof:geomhash":"1db247e2405e46c5b7cb6b2d568fbdc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":638890891
+        }
+    ],
     "wof:id":638890891,
-    "wof:lastmodified":1466689989,
+    "wof:lastmodified":1492024326,
     "wof:name":"Roger Spencer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

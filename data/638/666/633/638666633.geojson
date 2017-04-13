@@ -2,9 +2,14 @@
   "id": 638666633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1453 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1453",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251474,40.723173,-74.251474,40.723173",
     "geom:latitude":40.723173,
     "geom:longitude":-74.251474,
@@ -32,7 +37,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FbCy0xvFqI0AD4YZ1xWDu_40.723173_-74.251474@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461276351,
     "wof:geomhash":"fe4ea393951274999a81e306e20b900b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526929,
+            "venue_id":638666633
+        }
+    ],
     "wof:id":638666633,
-    "wof:lastmodified":1466674331,
+    "wof:lastmodified":1492041336,
     "wof:name":"Gregory Signs LLC",
     "wof:parent_id":420526929,
     "wof:placetype":"venue",

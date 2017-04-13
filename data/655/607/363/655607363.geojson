@@ -2,9 +2,14 @@
   "id": 655607363,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Herrontown Rd Princeton NJ 08540",
+    "addr:housenumber":"315",
+    "addr:postcode":"08540",
+    "addr:street":"Herrontown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.633391,40.377283,-74.633391,40.377283",
     "geom:latitude":40.377283,
     "geom:longitude":-74.633391,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61vjCoQKIxsylBq6CpNhM7_40.377283_-74.633391@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461313317,
     "wof:geomhash":"828f77636ffacf0905e3506b1312fc42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655607363
+        }
+    ],
     "wof:id":655607363,
-    "wof:lastmodified":1466681413,
+    "wof:lastmodified":1492049439,
     "wof:name":"Thornton Lee Et Al",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

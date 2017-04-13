@@ -2,9 +2,14 @@
   "id": 655712313,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Essex St Harrison NJ 07029",
+    "addr:housenumber":"315",
+    "addr:postcode":"07029",
+    "addr:street":"Essex St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.157593,40.7423,-74.157593,40.7423",
     "geom:latitude":40.7423,
     "geom:longitude":-74.157593,
@@ -24,7 +29,14 @@
     "sg:postcode":"07029",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478133,
+        85633793,
+        85975301,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HPgGlromfUpW2gwU5DKXN_40.742300_-74.157593@1303262251"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317857,
     "wof:geomhash":"81ebb6dcab2ed31702f57d1a998a14e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478133,
+            "locality_id":85975301,
+            "region_id":85688607,
+            "venue_id":655712313
+        }
+    ],
     "wof:id":655712313,
-    "wof:lastmodified":1466684550,
+    "wof:lastmodified":1492051994,
     "wof:name":"Costa's Auto Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

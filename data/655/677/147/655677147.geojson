@@ -2,9 +2,14 @@
   "id": 655677147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1221",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234619,40.695801,-74.234619,40.695801",
     "geom:latitude":40.695801,
     "geom:longitude":-74.234619,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fqXCi7MXJtnUhxD6kuPOt_40.696366_-74.234062@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316302,
     "wof:geomhash":"167bd3e66ee6a9ed7703b61cd4a84013",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655677147
+        }
+    ],
     "wof:id":655677147,
-    "wof:lastmodified":1466683670,
+    "wof:lastmodified":1492024121,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

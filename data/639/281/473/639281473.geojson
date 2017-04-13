@@ -2,9 +2,14 @@
   "id": 639281473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4019 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4019",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.071665,39.954721,-75.071665,39.954721",
     "geom:latitude":39.954721,
     "geom:longitude":-75.071665,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24aUEVL1AVfbEylmBkBry5_39.954721_-75.071665@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461291578,
     "wof:geomhash":"c5943656ac71e1c153063769577fa095",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639281473
+        }
+    ],
     "wof:id":639281473,
-    "wof:lastmodified":1466690920,
+    "wof:lastmodified":1492030595,
     "wof:name":"Bill Hardwood Floor",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

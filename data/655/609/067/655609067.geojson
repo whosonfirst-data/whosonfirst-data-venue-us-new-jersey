@@ -2,9 +2,14 @@
   "id": 655609067,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 Mantoloking Rd Brick NJ 08723",
+    "addr:housenumber":"602",
+    "addr:postcode":"08723",
+    "addr:street":"Mantoloking Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.111453,40.046448,-74.111453,40.046448",
     "geom:latitude":40.046448,
     "geom:longitude":-74.111453,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u4TFXT2XMMuKMV5ZGXQtn_40.046448_-74.111453@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313387,
     "wof:geomhash":"831b9a1d7303e868d5316f8a12110479",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655609067
+        }
+    ],
     "wof:id":655609067,
-    "wof:lastmodified":1466681305,
+    "wof:lastmodified":1492028452,
     "wof:name":"Four BS Subway",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

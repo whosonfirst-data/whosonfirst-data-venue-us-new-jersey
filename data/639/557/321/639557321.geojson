@@ -2,9 +2,14 @@
   "id": 639557321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1496 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1496",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.24992,40.690383,-74.24992,40.690383",
     "geom:latitude":40.690383,
     "geom:longitude":-74.24992,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HLKqgRQU4QDkieGPWrK9t_40.690383_-74.249920@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300032,
     "wof:geomhash":"c1d36426b69f4fd61a1c365406d3a705",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639557321
+        }
+    ],
     "wof:id":639557321,
-    "wof:lastmodified":1466695946,
+    "wof:lastmodified":1492076947,
     "wof:name":"LTK Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

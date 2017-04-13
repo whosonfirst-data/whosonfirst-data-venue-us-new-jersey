@@ -2,9 +2,14 @@
   "id": 638956491,
   "type": "Feature",
   "properties": {
+    "addr:full":"369 Henry St Fairview NJ 07022",
+    "addr:housenumber":"369",
+    "addr:postcode":"07022",
+    "addr:street":"Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.000421,40.813834,-74.000421,40.813834",
     "geom:latitude":40.813834,
     "geom:longitude":-74.000421,
@@ -33,7 +38,14 @@
         "embroidering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BZtIsiDnFY9nHcESyj4fH_40.813834_-74.000421@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461284173,
     "wof:geomhash":"24424790816f53129bd49a45515f5cc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":638956491
+        }
+    ],
     "wof:id":638956491,
-    "wof:lastmodified":1466691495,
+    "wof:lastmodified":1492064991,
     "wof:name":"Barila Embroidery Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

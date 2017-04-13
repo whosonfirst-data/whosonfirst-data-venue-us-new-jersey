@@ -2,9 +2,14 @@
   "id": 639464347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3070 US Hwy 206 Columbus NJ 08022",
+    "addr:housenumber":"3070",
+    "addr:postcode":"08022",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.721811,40.0735,-74.721811,40.0735",
     "geom:latitude":40.0735,
     "geom:longitude":-74.721811,
@@ -27,7 +32,10 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xYEOxakmkJcQCWkCYhcOI_40.073500_-74.721811@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295976,
     "wof:geomhash":"f85de7472616d006747291a380218e64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526685,
+            "venue_id":639464347
+        }
+    ],
     "wof:id":639464347,
-    "wof:lastmodified":1466693832,
+    "wof:lastmodified":1492047601,
     "wof:name":"Eastern Integrated Svc",
     "wof:parent_id":420526685,
     "wof:placetype":"venue",

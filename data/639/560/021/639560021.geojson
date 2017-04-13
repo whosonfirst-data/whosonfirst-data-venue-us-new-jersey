@@ -2,9 +2,14 @@
   "id": 639560021,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 Broadway Bayonne NJ 07002",
+    "addr:housenumber":"331",
+    "addr:postcode":"07002",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.122599,40.658881,-74.122599,40.658881",
     "geom:latitude":40.658881,
     "geom:longitude":-74.122599,
@@ -27,7 +32,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r6MoG0bN0FqBF86UpqQhl_40.658881_-74.122599@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300130,
     "wof:geomhash":"08db28b961ea41e03f253e2651b5e4a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639560021
+        }
+    ],
     "wof:id":639560021,
-    "wof:lastmodified":1466696180,
+    "wof:lastmodified":1492057651,
     "wof:name":"Wind Mill Alliance House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

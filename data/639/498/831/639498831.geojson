@@ -2,9 +2,14 @@
   "id": 639498831,
   "type": "Feature",
   "properties": {
+    "addr:full":"378 S Branch Rd Hillsborough NJ 08844",
+    "addr:housenumber":"378",
+    "addr:postcode":"08844",
+    "addr:street":"S Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.685539,40.509591,-74.685539,40.509591",
     "geom:latitude":40.509591,
     "geom:longitude":-74.685539,
@@ -27,7 +32,10 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MdwoItLbn4VJtCxReYcIN_40.509591_-74.685539@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297360,
     "wof:geomhash":"449021fa3b6ce48d0013080dc43e7465",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639498831
+        }
+    ],
     "wof:id":639498831,
-    "wof:lastmodified":1466694837,
+    "wof:lastmodified":1492042410,
     "wof:name":"El Paso",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

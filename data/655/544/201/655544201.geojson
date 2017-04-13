@@ -2,9 +2,14 @@
   "id": 655544201,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Broadway West Milford NJ 07480",
+    "addr:housenumber":"18",
+    "addr:postcode":"07480",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.369292,41.073609,-74.369292,41.073609",
     "geom:latitude":41.073609,
     "geom:longitude":-74.369292,
@@ -29,7 +34,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sWAajCrJVPmrBs8slKkYf_41.073609_-74.369292@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461310585,
     "wof:geomhash":"d8dfcd089eb89cf2e3a0ab0ae4d5013b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527489,
+            "venue_id":655544201
+        }
+    ],
     "wof:id":655544201,
-    "wof:lastmodified":1466679266,
+    "wof:lastmodified":1492058461,
     "wof:name":"Z-Tile",
     "wof:parent_id":420527489,
     "wof:placetype":"venue",

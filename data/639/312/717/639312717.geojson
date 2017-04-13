@@ -2,9 +2,14 @@
   "id": 639312717,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Franklin St Hightstown NJ 08520",
+    "addr:housenumber":"324",
+    "addr:postcode":"08520",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517102,40.268335,-74.517102,40.268335",
     "geom:latitude":40.268335,
     "geom:longitude":-74.517102,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tg8k1VTu8IStdt6gBAD04_40.268335_-74.517102@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292228,
     "wof:geomhash":"b20097505c0013b136273c0fd476037e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":639312717
+        }
+    ],
     "wof:id":639312717,
-    "wof:lastmodified":1466691790,
+    "wof:lastmodified":1492047942,
     "wof:name":"Oren Corp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

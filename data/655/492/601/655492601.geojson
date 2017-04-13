@@ -2,9 +2,14 @@
   "id": 655492601,
   "type": "Feature",
   "properties": {
+    "addr:full":"971 Clinton Ave Irvington NJ 07111",
+    "addr:housenumber":"971",
+    "addr:postcode":"07111",
+    "addr:street":"Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244021,40.730693,-74.244021,40.730693",
     "geom:latitude":40.730693,
     "geom:longitude":-74.244021,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ix3ZnUdEbfNrIkuQAKBUm_40.730693_-74.244021@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308526,
     "wof:geomhash":"7227f8b77c5a4aecf6542b7c62166e5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":655492601
+        }
+    ],
     "wof:id":655492601,
-    "wof:lastmodified":1466677978,
+    "wof:lastmodified":1492053861,
     "wof:name":"Faith Gospel Tabernacle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

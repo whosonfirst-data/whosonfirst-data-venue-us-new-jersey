@@ -2,9 +2,14 @@
   "id": 655834961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1239 Parkway Ave Ste 203 Ewing NJ 08628",
+    "addr:housenumber":"1239",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave Ste 203",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800805,40.26286,-74.800805,40.26286",
     "geom:latitude":40.26286,
     "geom:longitude":-74.800805,
@@ -28,7 +33,10 @@
         "x-ray"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Pvu2dlCvTQXHuLpiFq8gm_40.262860_-74.800805@1303262282"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322861,
     "wof:geomhash":"a77ebd89efb783f7d730ac8eec95983d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655834961
+        }
+    ],
     "wof:id":655834961,
-    "wof:lastmodified":1466687993,
+    "wof:lastmodified":1492021491,
     "wof:name":"Bruker Axs Inc",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639399103,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Centre St Trenton NJ 08611",
+    "addr:housenumber":"501",
+    "addr:postcode":"08611",
+    "addr:street":"Centre St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.758276,40.204985,-74.758276,40.204985",
     "geom:latitude":40.204985,
     "geom:longitude":-74.758276,
@@ -24,7 +29,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_270CYS5PjKq1BNPkc8EXzR_40.204985_-74.758276@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461294160,
     "wof:geomhash":"2b62899c30d9132395dc5c61e999c0f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639399103
+        }
+    ],
     "wof:id":639399103,
-    "wof:lastmodified":1466692952,
+    "wof:lastmodified":1492047614,
     "wof:name":"Centre Street Laundomat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655453041,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Cherryville Rd Flemington NJ 08822",
+    "addr:housenumber":"30",
+    "addr:postcode":"08822",
+    "addr:street":"Cherryville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.883078,40.563174,-74.883078,40.563174",
     "geom:latitude":40.563174,
     "geom:longitude":-74.883078,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85868691,
+        102085997,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UnORw96Wz42Yu6zIse93f_40.563174_-74.883078@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461306826,
     "wof:geomhash":"8e7b8fc11d7947f5e641100e894a571d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85868691,
+            "region_id":85688607,
+            "venue_id":655453041
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":655453041
+        }
+    ],
     "wof:id":655453041,
-    "wof:lastmodified":1466676785,
+    "wof:lastmodified":1492060334,
     "wof:name":"W F N B LLC",
-    "wof:parent_id":420527053,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

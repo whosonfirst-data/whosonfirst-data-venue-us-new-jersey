@@ -2,9 +2,14 @@
   "id": 655827947,
   "type": "Feature",
   "properties": {
+    "addr:full":"5503 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"5503",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.063382,39.960055,-75.063382,39.960055",
     "geom:latitude":39.960055,
     "geom:longitude":-75.063382,
@@ -28,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526803,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63ftIl8mOCW69arh11xutp_39.960055_-75.063382@1303262280"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322559,
     "wof:geomhash":"e82a90d0b48f1a95dc32543d516dd85b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526803,
+            "region_id":85688607,
+            "venue_id":655827947
+        }
+    ],
     "wof:id":655827947,
-    "wof:lastmodified":1466687793,
+    "wof:lastmodified":1492027532,
     "wof:name":"Public Mortgage Co",
     "wof:parent_id":420526803,
     "wof:placetype":"venue",

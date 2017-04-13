@@ -2,9 +2,14 @@
   "id": 639037127,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"550",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.466296,40.493921,-74.466296,40.493921",
     "geom:latitude":40.493921,
     "geom:longitude":-74.466296,
@@ -24,7 +29,14 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zgwIXREvxXJFziY4B9co2_40.493921_-74.466296@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461285956,
     "wof:geomhash":"59168c667de65d524fd2a5f587da53d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639037127
+        }
+    ],
     "wof:id":639037127,
-    "wof:lastmodified":1466673866,
+    "wof:lastmodified":1492042764,
     "wof:name":"Krausers Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

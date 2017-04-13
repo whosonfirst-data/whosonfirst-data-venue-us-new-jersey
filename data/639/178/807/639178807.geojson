@@ -2,9 +2,14 @@
   "id": 639178807,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Fuller Rd Linden NJ 07036",
+    "addr:housenumber":"1200",
+    "addr:postcode":"07036",
+    "addr:street":"Fuller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267005,40.625983,-74.267005,40.625983",
     "geom:latitude":40.625983,
     "geom:longitude":-74.267005,
@@ -24,7 +29,14 @@
     "sg:postcode":"07036",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22NvLGa89KXrYRS61ILR4M_40.625983_-74.267005@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461289167,
     "wof:geomhash":"101704fd8faab4ae7158cee6946ed35b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":639178807
+        }
+    ],
     "wof:id":639178807,
-    "wof:lastmodified":1466685654,
+    "wof:lastmodified":1492076681,
     "wof:name":"Ness Distribution Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

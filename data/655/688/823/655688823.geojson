@@ -2,9 +2,14 @@
   "id": 655688823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 S Maple Ave Glen Rock NJ 07452",
+    "addr:housenumber":"1020",
+    "addr:postcode":"07452",
+    "addr:street":"S Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135823,40.952657,-74.135823,40.952657",
     "geom:latitude":40.952657,
     "geom:longitude":-74.135823,
@@ -28,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OJA9xM1UdePivULrBdxzI_40.952657_-74.135823@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316807,
     "wof:geomhash":"fc9274c2420a17c0cc5059231628927c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655688823
+        }
+    ],
     "wof:id":655688823,
-    "wof:lastmodified":1466684112,
+    "wof:lastmodified":1492024075,
     "wof:name":"Rita's Ice Custard Happiness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655489555,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Gristmill Rd Howell NJ 07731",
+    "addr:housenumber":"95",
+    "addr:postcode":"07731",
+    "addr:street":"Gristmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.251073,40.171198,-74.251073,40.171198",
     "geom:latitude":40.171198,
     "geom:longitude":-74.251073,
@@ -28,7 +33,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uUMzYRCDpmnWM0nVtsd52_40.171198_-74.251073@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461308393,
     "wof:geomhash":"e5937c03eef841237b5619c80c99c07e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527375,
+            "venue_id":655489555
+        }
+    ],
     "wof:id":655489555,
-    "wof:lastmodified":1466677963,
+    "wof:lastmodified":1492047997,
     "wof:name":"Dancing Djs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

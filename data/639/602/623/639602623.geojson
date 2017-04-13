@@ -2,9 +2,14 @@
   "id": 639602623,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 9th St Hoboken NJ 07030",
+    "addr:housenumber":"400",
+    "addr:postcode":"07030",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.034303,40.748419,-74.034303,40.748419",
     "geom:latitude":40.748419,
     "geom:longitude":-74.034303,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892529,
+        102080719,
         85878421,
         102191575,
         404478139,
-        85633793,
-        85975295,
-        102080719,
-        85688607
+        85975295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461301844,
     "wof:geomhash":"d4332d04805b4f55ad73b28e997b8b19",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080719,
+            "neighbourhood_id":85892529,
+            "region_id":85688607,
+            "venue_id":639602623
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":639602623,
-    "wof:lastmodified":1466696980,
+    "wof:lastmodified":1492023770,
     "wof:name":"Tnplh Productions LLC",
-    "wof:parent_id":85878421,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

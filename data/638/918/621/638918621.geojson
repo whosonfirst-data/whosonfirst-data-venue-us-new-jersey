@@ -2,9 +2,14 @@
   "id": 638918621,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Beaver Dam Rd Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"725",
+    "addr:postcode":"08742",
+    "addr:street":"Beaver Dam Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067973,40.081209,-74.067973,40.081209",
     "geom:latitude":40.081209,
     "geom:longitude":-74.067973,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D0NWyeoiu3dWlzzspyIaL_40.081209_-74.067973@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283223,
     "wof:geomhash":"79a6d007ec3016cc5b8a642a31091da2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638918621
+        }
+    ],
     "wof:id":638918621,
-    "wof:lastmodified":1466690507,
+    "wof:lastmodified":1492069610,
     "wof:name":"All Shore Tile & Home Imprvs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

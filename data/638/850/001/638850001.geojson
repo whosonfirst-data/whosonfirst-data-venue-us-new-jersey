@@ -2,9 +2,14 @@
   "id": 638850001,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Lexington Blvd Clark NJ 07066",
+    "addr:housenumber":"205",
+    "addr:postcode":"07066",
+    "addr:street":"Lexington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.312572,40.627762,-74.312572,40.627762",
     "geom:latitude":40.627762,
     "geom:longitude":-74.312572,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v1MzbrfJXBj3lIIqsfKMO_40.627762_-74.312572@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461281510,
     "wof:geomhash":"a31c72902394d275ea45a893cdf847d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638850001
+        }
+    ],
     "wof:id":638850001,
-    "wof:lastmodified":1466689300,
+    "wof:lastmodified":1492076690,
     "wof:name":"Dave Nowlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639025393,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Somerville Rd Basking Ridge NJ 07920",
+    "addr:housenumber":"76",
+    "addr:postcode":"07920",
+    "addr:street":"Somerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.602229,40.642219,-74.602229,40.642219",
     "geom:latitude":40.642219,
     "geom:longitude":-74.602229,
@@ -27,7 +32,13 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KST09irFp22xEZchOJa7A_40.642219_-74.602229@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285677,
     "wof:geomhash":"331f8cd4708e682b273f13b5a1eafc5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639025393
+        }
+    ],
     "wof:id":639025393,
-    "wof:lastmodified":1466673656,
+    "wof:lastmodified":1492049235,
     "wof:name":"Amport General Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

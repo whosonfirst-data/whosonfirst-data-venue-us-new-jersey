@@ -2,9 +2,14 @@
   "id": 639616295,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 Sunset Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"915",
+    "addr:postcode":"08742",
+    "addr:street":"Sunset Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.078729,40.081075,-74.078729,40.081075",
     "geom:latitude":40.081075,
     "geom:longitude":-74.078729,
@@ -32,7 +37,14 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ml2I8APTT9d2UNaPVma7F_40.081075_-74.078729@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461302360,
     "wof:geomhash":"9334f719beb7314124ea8733f5dfcc1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639616295
+        }
+    ],
     "wof:id":639616295,
-    "wof:lastmodified":1466697307,
+    "wof:lastmodified":1492047145,
     "wof:name":"Pool Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

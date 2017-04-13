@@ -2,9 +2,14 @@
   "id": 655641015,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Union Ave Irvington NJ 07111",
+    "addr:housenumber":"306",
+    "addr:postcode":"07111",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236416,40.717362,-74.236416,40.717362",
     "geom:latitude":40.717362,
     "geom:longitude":-74.236416,
@@ -29,7 +34,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dpj5M61MgcE1P8YMn3Ays_40.717362_-74.236416@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461314798,
     "wof:geomhash":"e889c6e558b5e91da710fc4a1d3e1cde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655641015
+        }
+    ],
     "wof:id":655641015,
-    "wof:lastmodified":1466682310,
+    "wof:lastmodified":1492052255,
     "wof:name":"Rhumb Line Marine Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

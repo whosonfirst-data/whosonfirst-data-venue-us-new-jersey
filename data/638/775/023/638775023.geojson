@@ -2,9 +2,14 @@
   "id": 638775023,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Oak Ave Pequannock NJ 07440",
+    "addr:housenumber":"19",
+    "addr:postcode":"07440",
+    "addr:street":"Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.290642,40.947365,-74.290642,40.947365",
     "geom:latitude":40.947365,
     "geom:longitude":-74.290642,
@@ -28,7 +33,13 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vq5DWs6pdnYO8cuhbYkI9_40.947365_-74.290642@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461279675,
     "wof:geomhash":"c51a7c2822cdce6c00a0a6603e9292ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":638775023
+        }
+    ],
     "wof:id":638775023,
-    "wof:lastmodified":1466681921,
+    "wof:lastmodified":1492023959,
     "wof:name":"Boys Girls CLB of Morris Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

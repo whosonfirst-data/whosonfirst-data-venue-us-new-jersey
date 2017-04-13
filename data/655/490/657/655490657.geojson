@@ -2,9 +2,14 @@
   "id": 655490657,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Highland Ave Wanaque NJ 07465",
+    "addr:housenumber":"101",
+    "addr:postcode":"07465",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286892,41.040496,-74.286892,41.040496",
     "geom:latitude":41.040496,
     "geom:longitude":-74.286892,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892551,
+        102191575,
+        404477821,
+        85633793,
+        85975477,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sq2ydBoufpQzWTc0gpQLS_41.040496_-74.286892@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461308442,
     "wof:geomhash":"7241e39cbaace4bb76c6e2d52d9a5f01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477821,
+            "locality_id":85975477,
+            "neighbourhood_id":85892551,
+            "region_id":85688607,
+            "venue_id":655490657
+        }
+    ],
     "wof:id":655490657,
-    "wof:lastmodified":1466677991,
+    "wof:lastmodified":1492060519,
     "wof:name":"Stone Hill Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

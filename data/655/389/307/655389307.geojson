@@ -2,9 +2,14 @@
   "id": 655389307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cupsaw Ave Ringwood NJ 07456",
+    "addr:housenumber":"1",
+    "addr:postcode":"07456",
+    "addr:street":"Cupsaw Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250774,41.104855,-74.250774,41.104855",
     "geom:latitude":41.104855,
     "geom:longitude":-74.250774,
@@ -24,7 +29,15 @@
     "sg:postcode":"07456",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85848887,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59i8uou5mW5XdFtH4HaUwp_41.104855_-74.250774@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461304175,
     "wof:geomhash":"1f21d319eea1df54882ef56d53d08300",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "neighbourhood_id":85848887,
+            "region_id":85688607,
+            "venue_id":655389307
+        }
+    ],
     "wof:id":655389307,
-    "wof:lastmodified":1466675228,
+    "wof:lastmodified":1492082081,
     "wof:name":"Ringwood Counseling Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

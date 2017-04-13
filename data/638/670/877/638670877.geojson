@@ -2,9 +2,14 @@
   "id": 638670877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1766 Yardville Hamilton Squ Rd Trenton NJ 08690",
+    "addr:housenumber":"1766",
+    "addr:postcode":"08690",
+    "addr:street":"Yardville Hamilton Squ Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660652,40.214299,-74.660652,40.214299",
     "geom:latitude":40.214299,
     "geom:longitude":-74.660652,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85823707,
+        102191575,
+        404478251,
         85633793,
-        85822145,
-        102081129
+        85976387,
+        102081129,
+        85688607,
+        85822145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"30ec3bf8958de673a306e45df04e7dce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976387,
+            "neighbourhood_id":85823707,
+            "region_id":85688607,
+            "venue_id":638670877
+        },
+        {
             "country_id":85633793,
             "county_id":102081129,
             "neighbourhood_id":85822145,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":638670877,
-    "wof:lastmodified":1466674500,
+    "wof:lastmodified":1492062479,
     "wof:name":"American Dozer",
-    "wof:parent_id":85822145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

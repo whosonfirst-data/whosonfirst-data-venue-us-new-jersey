@@ -2,9 +2,14 @@
   "id": 639143005,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Water Ln Berkeley Heights NJ 07922",
+    "addr:housenumber":"34",
+    "addr:postcode":"07922",
+    "addr:street":"Water Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.44483,40.658659,-74.44483,40.658659",
     "geom:latitude":40.658659,
     "geom:longitude":-74.44483,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478489,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25GGe4D301HR9qsAvRL8OP_40.658659_-74.444830@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461288359,
     "wof:geomhash":"612695f19c6550dae9fc0267c63a6f83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478489,
+            "region_id":85688607,
+            "venue_id":639143005
+        }
+    ],
     "wof:id":639143005,
-    "wof:lastmodified":1466680243,
+    "wof:lastmodified":1492050635,
     "wof:name":"Conner Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

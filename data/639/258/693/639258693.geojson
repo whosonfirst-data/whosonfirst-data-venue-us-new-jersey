@@ -2,9 +2,14 @@
   "id": 639258693,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Lydia Ln Wyckoff NJ 07481",
+    "addr:housenumber":"502",
+    "addr:postcode":"07481",
+    "addr:street":"Lydia Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.178777,40.991524,-74.178777,40.991524",
     "geom:latitude":40.991524,
     "geom:longitude":-74.178777,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zsIHYWwqdGyxe22iHaRVZ_40.991524_-74.178777@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291031,
     "wof:geomhash":"17739c4e78e6d1ea1fcf7d182dc4bbbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":639258693
+        }
+    ],
     "wof:id":639258693,
-    "wof:lastmodified":1466690689,
+    "wof:lastmodified":1492076408,
     "wof:name":"Knight Diamond Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

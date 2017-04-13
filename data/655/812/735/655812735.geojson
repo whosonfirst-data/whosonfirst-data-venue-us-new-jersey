@@ -2,9 +2,14 @@
   "id": 655812735,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 John F Kennedy Way Willingboro NJ 08046",
+    "addr:housenumber":"651",
+    "addr:postcode":"08046",
+    "addr:street":"John F Kennedy Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878098,40.043301,-74.878098,40.043301",
     "geom:latitude":40.043301,
     "geom:longitude":-74.878098,
@@ -27,7 +32,10 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NqkiAbU2Gkhcx36iArva0_40.043301_-74.878098@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321928,
     "wof:geomhash":"cf4b0fa571e05408931c0512032881cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812735
+        }
+    ],
     "wof:id":655812735,
-    "wof:lastmodified":1466687257,
+    "wof:lastmodified":1492070321,
     "wof:name":"Klier Steven W MD",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

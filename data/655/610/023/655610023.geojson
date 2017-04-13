@@ -2,9 +2,14 @@
   "id": 655610023,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Harding Ter Kearny NJ 07032",
+    "addr:housenumber":"10",
+    "addr:postcode":"07032",
+    "addr:street":"Harding Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.153159,40.766066,-74.153159,40.766066",
     "geom:latitude":40.766066,
     "geom:longitude":-74.153159,
@@ -27,7 +32,14 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72q3DgmTr4Lb2KroxhP1Dl_40.766066_-74.153159@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313423,
     "wof:geomhash":"5aa580cf68dfd98754948ab40ae0f223",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":655610023
+        }
+    ],
     "wof:id":655610023,
-    "wof:lastmodified":1466681289,
+    "wof:lastmodified":1492051843,
     "wof:name":"Royal World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638740993,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Burton Ave Hopewell NJ 08525",
+    "addr:housenumber":"13",
+    "addr:postcode":"08525",
+    "addr:street":"Burton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.762934,40.393576,-74.762934,40.393576",
     "geom:latitude":40.393576,
     "geom:longitude":-74.762934,
@@ -28,7 +33,14 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hhk1NwDq5werNCLdKnuCY_40.393576_-74.762934@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278761,
     "wof:geomhash":"14d1eedb286f8af2b72a4611aebd77ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":638740993
+        }
+    ],
     "wof:id":638740993,
-    "wof:lastmodified":1466676980,
+    "wof:lastmodified":1492062586,
     "wof:name":"Hopewell Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

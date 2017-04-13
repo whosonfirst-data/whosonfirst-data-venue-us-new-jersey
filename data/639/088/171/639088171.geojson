@@ -2,9 +2,14 @@
   "id": 639088171,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Casey Ln Jackson NJ 08527",
+    "addr:housenumber":"308",
+    "addr:postcode":"08527",
+    "addr:street":"Casey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.379133,40.126681,-74.379133,40.126681",
     "geom:latitude":40.126681,
     "geom:longitude":-74.379133,
@@ -29,7 +34,10 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527427
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YYo8kWyHXrqF5nPhzTfQJ_40.126681_-74.379133@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461287107,
     "wof:geomhash":"b40e8222c6b3b842809a27026d8d51f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527427,
+            "venue_id":639088171
+        }
+    ],
     "wof:id":639088171,
-    "wof:lastmodified":1466688749,
+    "wof:lastmodified":1492043907,
     "wof:name":"Surface Technologies",
     "wof:parent_id":420527427,
     "wof:placetype":"venue",

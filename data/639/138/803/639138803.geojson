@@ -2,9 +2,14 @@
   "id": 639138803,
   "type": "Feature",
   "properties": {
+    "addr:full":"356 Shunpike Rd Chatham NJ 07928",
+    "addr:housenumber":"356",
+    "addr:postcode":"07928",
+    "addr:street":"Shunpike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.409105,40.740369,-74.409105,40.740369",
     "geom:latitude":40.740369,
     "geom:longitude":-74.409105,
@@ -36,7 +41,13 @@
         "powder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L0c82kkAOSLci3F4UAyI8_40.740369_-74.409105@1294171694"
@@ -44,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461288259,
     "wof:geomhash":"0d715ef9fe6dc716f47ec45c2bfac607",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":639138803
+        }
+    ],
     "wof:id":639138803,
-    "wof:lastmodified":1466679571,
+    "wof:lastmodified":1492053962,
     "wof:name":"A P M Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

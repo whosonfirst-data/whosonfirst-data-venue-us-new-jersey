@@ -2,9 +2,14 @@
   "id": 655495637,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"175",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.993501,40.94107,-73.993501,40.94107",
     "geom:latitude":40.94107,
     "geom:longitude":-73.993501,
@@ -28,7 +33,14 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TZHP2pWdZsIduAuh5LFY1_40.941070_-73.993501@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308645,
     "wof:geomhash":"5679ee1923a0a47cf5eb1328dfb950d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655495637
+        }
+    ],
     "wof:id":655495637,
-    "wof:lastmodified":1466677995,
+    "wof:lastmodified":1492053869,
     "wof:name":"Jeval",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

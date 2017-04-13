@@ -2,9 +2,14 @@
   "id": 638922061,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Blanche Ave Harrington Park NJ 07640",
+    "addr:housenumber":"49",
+    "addr:postcode":"07640",
+    "addr:street":"Blanche Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.97309,41.000712,-73.97309,41.000712",
     "geom:latitude":41.000712,
     "geom:longitude":-73.97309,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vqAiurMYZr8OmkVynNI3B_41.000712_-73.973090@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283324,
     "wof:geomhash":"e8a44be805aca96b214e9a62e94cf012",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":638922061
+        }
+    ],
     "wof:id":638922061,
-    "wof:lastmodified":1466690476,
+    "wof:lastmodified":1492052105,
     "wof:name":"Harrington Court Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639373253,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Lanning Rd Blairstown NJ 07825",
+    "addr:housenumber":"137",
+    "addr:postcode":"07825",
+    "addr:street":"Lanning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.905369,40.965351,-74.905369,40.965351",
     "geom:latitude":40.965351,
     "geom:longitude":-74.905369,
@@ -27,7 +32,13 @@
         "inventory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477593,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rCRvt75XqRgEEBzgU4Gsw_40.965351_-74.905369@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293492,
     "wof:geomhash":"9e95352bb3ea30cc578e5dad06b90fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404477593,
+            "region_id":85688607,
+            "venue_id":639373253
+        }
+    ],
     "wof:id":639373253,
-    "wof:lastmodified":1466692658,
+    "wof:lastmodified":1492054554,
     "wof:name":"H & H Automotive Dealer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

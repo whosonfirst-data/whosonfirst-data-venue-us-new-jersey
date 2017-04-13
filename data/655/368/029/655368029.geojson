@@ -2,9 +2,14 @@
   "id": 655368029,
   "type": "Feature",
   "properties": {
+    "addr:full":"978 N Franklin Tpke Allendale NJ 07401",
+    "addr:housenumber":"978",
+    "addr:postcode":"07401",
+    "addr:street":"N Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129872,41.046128,-74.129872,41.046128",
     "geom:latitude":41.046128,
     "geom:longitude":-74.129872,
@@ -27,7 +32,14 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477279,
+        85633793,
+        85975941,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uTQcaS62TsHYfWbR8A24S_41.046128_-74.129872@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303343,
     "wof:geomhash":"3560434c020bace41e5cc0de341f8411",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477279,
+            "locality_id":85975941,
+            "region_id":85688607,
+            "venue_id":655368029
+        }
+    ],
     "wof:id":655368029,
-    "wof:lastmodified":1466674535,
+    "wof:lastmodified":1492026703,
     "wof:name":"Yih Ma Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

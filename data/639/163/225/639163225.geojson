@@ -2,9 +2,14 @@
   "id": 639163225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1412",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26177,40.70473,-74.26177,40.70473",
     "geom:latitude":40.70473,
     "geom:longitude":-74.26177,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S1ZV0PfarnGwNqqnMoag7_40.704730_-74.261770@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288820,
     "wof:geomhash":"5b1e23328a1ebd45821fa0b1c6b6e756",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":639163225
+        }
+    ],
     "wof:id":639163225,
-    "wof:lastmodified":1466683579,
+    "wof:lastmodified":1492068401,
     "wof:name":"Asia Garden II",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

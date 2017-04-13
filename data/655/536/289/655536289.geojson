@@ -2,9 +2,14 @@
   "id": 655536289,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Cemetery Rd Blairstown NJ 07825",
+    "addr:housenumber":"8",
+    "addr:postcode":"07825",
+    "addr:street":"Cemetery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.014947,40.919366,-75.014947,40.919366",
     "geom:latitude":40.919366,
     "geom:longitude":-75.014947,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dslpzld4a3birG21m7WNz_40.919366_-75.014947@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310285,
     "wof:geomhash":"0056b24e32e53555946e036bf884bad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655536289
+        }
+    ],
     "wof:id":655536289,
-    "wof:lastmodified":1466679092,
+    "wof:lastmodified":1492041973,
     "wof:name":"Blast Net",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

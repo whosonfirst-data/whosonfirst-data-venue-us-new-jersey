@@ -2,9 +2,14 @@
   "id": 655414871,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Belmont Dr Somerset NJ 08873",
+    "addr:housenumber":"245",
+    "addr:postcode":"08873",
+    "addr:street":"Belmont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.542152,40.534869,-74.542152,40.534869",
     "geom:latitude":40.534869,
     "geom:longitude":-74.542152,
@@ -27,7 +32,15 @@
         "logistics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85833911,
+        102191575,
+        404477923,
+        85633793,
+        85976117,
+        102085045,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_629aFkVIZl06yqWtzd8xqp_40.534869_-74.542152@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461305263,
     "wof:geomhash":"65495cf9d73693590d30c2e70c5f513d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976117,
+            "neighbourhood_id":85833911,
+            "region_id":85688607,
+            "venue_id":655414871
+        }
+    ],
     "wof:id":655414871,
-    "wof:lastmodified":1466675952,
+    "wof:lastmodified":1492061679,
     "wof:name":"Us CO Logistics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

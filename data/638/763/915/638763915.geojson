@@ -2,9 +2,14 @@
   "id": 638763915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"1200",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220671,40.054314,-74.220671,40.054314",
     "geom:latitude":40.054314,
     "geom:longitude":-74.220671,
@@ -27,7 +32,10 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79CK7x34phCObl4cU1RzwG_40.054314_-74.220671@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279398,
     "wof:geomhash":"a321b4e1c26ba9a1f41aeb1aeec9adac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":638763915
+        }
+    ],
     "wof:id":638763915,
-    "wof:lastmodified":1466679966,
+    "wof:lastmodified":1492024127,
     "wof:name":"Sam's Day-Nite Food Stores",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

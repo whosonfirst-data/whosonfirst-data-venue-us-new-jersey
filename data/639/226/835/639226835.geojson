@@ -2,9 +2,14 @@
   "id": 639226835,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Lexington Rd Pennington NJ 08505",
+    "addr:housenumber":"11",
+    "addr:postcode":"08505",
+    "addr:street":"Lexington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.697833,40.134401,-74.697833,40.134401",
     "geom:latitude":40.134401,
     "geom:longitude":-74.697833,
@@ -28,7 +33,10 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UZIGhiligz9T8TFCJFIDF_40.134401_-74.697833@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290293,
     "wof:geomhash":"3d39d80e0dd39e0752f754e10941b739",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":639226835
+        }
+    ],
     "wof:id":639226835,
-    "wof:lastmodified":1466689744,
+    "wof:lastmodified":1492069346,
     "wof:name":"Beazer Homes",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

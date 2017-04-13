@@ -2,9 +2,14 @@
   "id": 638675531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Bridge St Lambertville NJ 08530",
+    "addr:housenumber":"1",
+    "addr:postcode":"08530",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.946195,40.365424,-74.946195,40.365424",
     "geom:latitude":40.365424,
     "geom:longitude":-74.946195,
@@ -28,7 +33,14 @@
         "medium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38DLY5pWA8jrRSeCbJDKZM_40.365424_-74.946195@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461276634,
     "wof:geomhash":"7ff5bff759ffa8e6c67bdb309751181a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":638675531
+        }
+    ],
     "wof:id":638675531,
-    "wof:lastmodified":1466682911,
+    "wof:lastmodified":1492021488,
     "wof:name":"A Psychic Eye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

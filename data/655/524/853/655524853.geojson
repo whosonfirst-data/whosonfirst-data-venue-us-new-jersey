@@ -2,9 +2,14 @@
   "id": 655524853,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Roosevelt St Roseland NJ 07068",
+    "addr:housenumber":"47",
+    "addr:postcode":"07068",
+    "addr:street":"Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293577,40.826581,-74.293577,40.826581",
     "geom:latitude":40.826581,
     "geom:longitude":-74.293577,
@@ -24,7 +29,14 @@
     "sg:postcode":"07068",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dhV0MHnrLGqSvyo4HBHok_40.826581_-74.293577@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461309848,
     "wof:geomhash":"036314c34d3d4fc3caf2e47655768a8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655524853
+        }
+    ],
     "wof:id":655524853,
-    "wof:lastmodified":1466678907,
+    "wof:lastmodified":1492047788,
     "wof:name":"Porter Goldberg Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

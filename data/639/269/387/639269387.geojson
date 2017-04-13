@@ -2,9 +2,14 @@
   "id": 639269387,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 E Front St Plainfield NJ 07060",
+    "addr:housenumber":"623",
+    "addr:postcode":"07060",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.415645,40.627731,-74.415645,40.627731",
     "geom:latitude":40.627731,
     "geom:longitude":-74.415645,
@@ -32,7 +37,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bFNK7x9kgJ4m5RGXPhVk8_40.627731_-74.415645@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461291278,
     "wof:geomhash":"3ee49a5514e78fa9a19b2c7171252915",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639269387
+        }
+    ],
     "wof:id":639269387,
-    "wof:lastmodified":1466690641,
+    "wof:lastmodified":1492040355,
     "wof:name":"Covenant Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

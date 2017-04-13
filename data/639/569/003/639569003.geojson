@@ -2,9 +2,14 @@
   "id": 639569003,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Ramapo Valley Rd Mahwah NJ 07430",
+    "addr:housenumber":"37",
+    "addr:postcode":"07430",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.151062,41.105937,-74.151062,41.105937",
     "geom:latitude":41.105937,
     "geom:longitude":-74.151062,
@@ -27,7 +32,13 @@
         "dwelling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MOsVDzxwHZw9Ufcuqnuol_41.105937_-74.151062@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300469,
     "wof:geomhash":"dc923c9559794e93444e7bf188a9f45c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639569003
+        }
+    ],
     "wof:id":639569003,
-    "wof:lastmodified":1466696191,
+    "wof:lastmodified":1492040120,
     "wof:name":"D & S Industrial Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639547247,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Oval Rd Millburn NJ 07041",
+    "addr:housenumber":"55",
+    "addr:postcode":"07041",
+    "addr:street":"Oval Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300093,40.715712,-74.300093,40.715712",
     "geom:latitude":40.715712,
     "geom:longitude":-74.300093,
@@ -28,7 +33,10 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ufoMzgCXVEQ4DcNzvfwHU_40.715712_-74.300093@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299617,
     "wof:geomhash":"b2807436c18c1b6df63c218dcc0d9f86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639547247
+        }
+    ],
     "wof:id":639547247,
-    "wof:lastmodified":1466695623,
+    "wof:lastmodified":1492057136,
     "wof:name":"Databert",
     "wof:parent_id":420526947,
     "wof:placetype":"venue",

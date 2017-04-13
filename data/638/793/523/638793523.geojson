@@ -2,9 +2,14 @@
   "id": 638793523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Lenox Pl Maplewood NJ 07040",
+    "addr:housenumber":"1",
+    "addr:postcode":"07040",
+    "addr:street":"Lenox Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2826,40.730753,-74.2826,40.730753",
     "geom:latitude":40.730753,
     "geom:longitude":-74.2826,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85892401,
+        85892403,
         102085043,
+        85892401,
         85892411,
         102085995
     ],
@@ -43,6 +49,13 @@
     "wof:created":1461280089,
     "wof:geomhash":"57e1b0b1fd27941ccd851c15a6a8bb8a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892403,
+            "region_id":85688607,
+            "venue_id":638793523
+        },
         {
             "country_id":85633793,
             "county_id":102085043,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":638793523,
-    "wof:lastmodified":1466684756,
+    "wof:lastmodified":1492024334,
     "wof:name":"MBM Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

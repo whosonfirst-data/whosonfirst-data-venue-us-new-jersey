@@ -2,9 +2,14 @@
   "id": 655432467,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Main St Little Falls NJ 07424",
+    "addr:housenumber":"54",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.227358,40.881322,-74.227358,40.881322",
     "geom:latitude":40.881322,
     "geom:longitude":-74.227358,
@@ -27,7 +32,13 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vcyv3hw4NvAAEue6ST9iU_40.881322_-74.227358@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306004,
     "wof:geomhash":"12e4c8e4de1acf7e400609a6d1758a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655432467
+        }
+    ],
     "wof:id":655432467,
-    "wof:lastmodified":1466676374,
+    "wof:lastmodified":1492024180,
     "wof:name":"Terry Perko Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

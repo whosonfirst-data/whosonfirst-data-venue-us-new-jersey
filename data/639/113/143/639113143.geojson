@@ -2,9 +2,14 @@
   "id": 639113143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Centennial Ave Piscataway NJ 08854",
+    "addr:housenumber":"1340",
+    "addr:postcode":"08854",
+    "addr:street":"Centennial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.453425,40.552183,-74.453425,40.552183",
     "geom:latitude":40.552183,
     "geom:longitude":-74.453425,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zdnvrOSDAoOBx9vUBDPGm_40.552183_-74.453425@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287628,
     "wof:geomhash":"7bfe70cf89515ef397986bf1d2ef0311",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":639113143
+        }
+    ],
     "wof:id":639113143,
-    "wof:lastmodified":1466676112,
+    "wof:lastmodified":1492030543,
     "wof:name":"IHOP",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

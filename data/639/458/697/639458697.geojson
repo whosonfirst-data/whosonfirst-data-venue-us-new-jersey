@@ -2,9 +2,14 @@
   "id": 639458697,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Spring St Jamesburg NJ 08831",
+    "addr:housenumber":"6",
+    "addr:postcode":"08831",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.42743,40.345506,-74.42743,40.345506",
     "geom:latitude":40.345506,
     "geom:longitude":-74.42743,
@@ -30,7 +35,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5viO2k7EJ5bb7gL7TPjwCK_40.345506_-74.427430@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461295750,
     "wof:geomhash":"3b3e5d8fc35a1d1136e9d39c35ba1ac0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639458697
+        }
+    ],
     "wof:id":639458697,
-    "wof:lastmodified":1466693811,
+    "wof:lastmodified":1492052334,
     "wof:name":"Steve's Machine",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

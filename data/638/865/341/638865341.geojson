@@ -2,9 +2,14 @@
   "id": 638865341,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Belluscio St Jamesburg NJ 08831",
+    "addr:housenumber":"109",
+    "addr:postcode":"08831",
+    "addr:street":"Belluscio St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.38132,40.379464,-74.38132,40.379464",
     "geom:latitude":40.379464,
     "geom:longitude":-74.38132,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85850507,
+        102087417,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hzWiDpygFWNcTVAS0mxfH_40.379464_-74.381320@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461281868,
     "wof:geomhash":"682fc81ac854b50a5c152b6c2be2d9cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85850507,
+            "region_id":85688607,
+            "venue_id":638865341
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638865341
+        }
+    ],
     "wof:id":638865341,
-    "wof:lastmodified":1466689636,
+    "wof:lastmodified":1492041302,
     "wof:name":"Shangle & Shangle Inc",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655438271,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Willow Bend Rd Marlton NJ 08053",
+    "addr:housenumber":"100",
+    "addr:postcode":"08053",
+    "addr:street":"Willow Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.904044,39.881284,-74.904044,39.881284",
     "geom:latitude":39.881284,
     "geom:longitude":-74.904044,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85857985,
-        102087415
+        102087415,
+        85852327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85857985,
             "region_id":85688607,
             "venue_id":655438271
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85852327,
+            "region_id":85688607,
+            "venue_id":655438271
         }
     ],
     "wof:id":655438271,
-    "wof:lastmodified":1466676526,
+    "wof:lastmodified":1492048502,
     "wof:name":"St Joan of ARC Church",
-    "wof:parent_id":85857985,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

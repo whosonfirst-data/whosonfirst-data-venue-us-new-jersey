@@ -2,9 +2,14 @@
   "id": 655670307,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"207",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948776,41.007299,-73.948776,41.007299",
     "geom:latitude":41.007299,
     "geom:longitude":-73.948776,
@@ -24,7 +29,14 @@
     "sg:postcode":"07647",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PMEupnGKpfLeTVMWukx6z_41.007267_-73.948732@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461316020,
     "wof:geomhash":"09cdc278171a1a224e133c73fee81814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655670307
+        }
+    ],
     "wof:id":655670307,
-    "wof:lastmodified":1466683466,
+    "wof:lastmodified":1492057513,
     "wof:name":"Salon S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

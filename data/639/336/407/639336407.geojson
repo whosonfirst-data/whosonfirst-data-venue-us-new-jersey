@@ -2,9 +2,14 @@
   "id": 639336407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1250",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234423,40.695977,-74.234423,40.695977",
     "geom:latitude":40.695977,
     "geom:longitude":-74.234423,
@@ -31,7 +36,13 @@
         "salvage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RK94BiI9h3iKyQT5xjbKD_40.695977_-74.234423@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461292736,
     "wof:geomhash":"cb619b3de7104cbccdac4f8fd94f80c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639336407
+        }
+    ],
     "wof:id":639336407,
-    "wof:lastmodified":1466692291,
+    "wof:lastmodified":1492049007,
     "wof:name":"Donjon Marine Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

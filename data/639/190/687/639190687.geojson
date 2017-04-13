@@ -2,9 +2,14 @@
   "id": 639190687,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Lilac Dr Annandale NJ 08801",
+    "addr:housenumber":"130",
+    "addr:postcode":"08801",
+    "addr:street":"Lilac Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889367,40.600615,-74.889367,40.600615",
     "geom:latitude":40.600615,
     "geom:longitude":-74.889367,
@@ -24,7 +29,13 @@
     "sg:postcode":"08801",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85802837,
+        102085997,
+        420527051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44RBtasQ3H29DI9OvVe3Ob_40.600615_-74.889367@1294171694"
@@ -32,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461289426,
     "wof:geomhash":"b3c7d14f9139f23345a212edd66cd785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85802837,
+            "region_id":85688607,
+            "venue_id":639190687
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527051,
+            "venue_id":639190687
+        }
+    ],
     "wof:id":639190687,
-    "wof:lastmodified":1466687272,
+    "wof:lastmodified":1492030954,
     "wof:name":"Fairwin Farm Inc",
-    "wof:parent_id":420527051,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639218945,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Brunswick Dr Howell NJ 07731",
+    "addr:housenumber":"35",
+    "addr:postcode":"07731",
+    "addr:street":"Brunswick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.221758,40.151238,-74.221758,40.151238",
     "geom:latitude":40.151238,
     "geom:longitude":-74.221758,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527251,
+        85688607,
+        85829681,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tBN5HxI9YCrHlrLnFlynB_40.151238_-74.221758@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461290118,
     "wof:geomhash":"e2c92df8a25b21d6c675f4ead1dd13ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527251,
+            "venue_id":639218945
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85829681,
+            "region_id":85688607,
+            "venue_id":639218945
+        }
+    ],
     "wof:id":639218945,
-    "wof:lastmodified":1466689543,
+    "wof:lastmodified":1492069373,
     "wof:name":"Wild Concrete Inc",
-    "wof:parent_id":420527251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

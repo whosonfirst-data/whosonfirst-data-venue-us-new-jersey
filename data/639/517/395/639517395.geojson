@@ -2,9 +2,14 @@
   "id": 639517395,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Oregon St Vauxhall NJ 07088",
+    "addr:housenumber":"250",
+    "addr:postcode":"07088",
+    "addr:street":"Oregon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274005,40.718722,-74.274005,40.718722",
     "geom:latitude":40.718722,
     "geom:longitude":-74.274005,
@@ -28,7 +33,10 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30Xut6BfzpVS6FDtbfdTKM_40.718722_-74.274005@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461298178,
     "wof:geomhash":"83ff73e2805d0d3a8b951b10a2551e26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639517395
+        }
+    ],
     "wof:id":639517395,
-    "wof:lastmodified":1466694975,
+    "wof:lastmodified":1492048732,
     "wof:name":"Home Base Properties LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

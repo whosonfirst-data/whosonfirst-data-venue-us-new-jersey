@@ -2,9 +2,14 @@
   "id": 655834459,
   "type": "Feature",
   "properties": {
+    "addr:full":"171 Jersey St Trenton NJ 08611",
+    "addr:housenumber":"171",
+    "addr:postcode":"08611",
+    "addr:street":"Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750954,40.202193,-74.750954,40.202193",
     "geom:latitude":40.202193,
     "geom:longitude":-74.750954,
@@ -27,7 +32,14 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RFMmwIuXofIY9E5Fgp2k3_40.202193_-74.750954@1303262282"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322845,
     "wof:geomhash":"69063fc93fa31b5cf374148bbf5221ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655834459
+        }
+    ],
     "wof:id":655834459,
-    "wof:lastmodified":1466687857,
+    "wof:lastmodified":1492070096,
     "wof:name":"Drei Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

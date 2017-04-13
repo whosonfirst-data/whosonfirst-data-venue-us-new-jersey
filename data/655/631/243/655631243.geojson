@@ -2,9 +2,14 @@
   "id": 655631243,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"637",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238569,40.704414,-74.238569,40.704414",
     "geom:latitude":40.704414,
     "geom:longitude":-74.238569,
@@ -27,7 +32,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i35NvgrSR2otfRV1kIBKX_40.704414_-74.238569@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314383,
     "wof:geomhash":"2f52d8e9b348e9e5c49b84abdef4fe2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655631243
+        }
+    ],
     "wof:id":655631243,
-    "wof:lastmodified":1466682035,
+    "wof:lastmodified":1492052253,
     "wof:name":"Brentwood Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655828625,
   "type": "Feature",
   "properties": {
+    "addr:full":"4502 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"4502",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.068398,39.9566,-75.068398,39.9566",
     "geom:latitude":39.9566,
     "geom:longitude":-75.068398,
@@ -27,7 +32,14 @@
         "notary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J9skkyNzJvnwimuf1GLVW_39.956600_-75.068398@1303262280"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322590,
     "wof:geomhash":"d681e76c33a706552e0273ce81e3d2a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828625
+        }
+    ],
     "wof:id":655828625,
-    "wof:lastmodified":1466687714,
+    "wof:lastmodified":1492049218,
     "wof:name":"Ed Ramming Insurance Agency Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

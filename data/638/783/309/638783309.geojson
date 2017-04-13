@@ -2,9 +2,14 @@
   "id": 638783309,
   "type": "Feature",
   "properties": {
+    "addr:full":"258 Silver Ln Old Bridge NJ 08857",
+    "addr:housenumber":"258",
+    "addr:postcode":"08857",
+    "addr:street":"Silver Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.317206,40.378976,-74.317206,40.378976",
     "geom:latitude":40.378976,
     "geom:longitude":-74.317206,
@@ -28,7 +33,10 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yE5JlHtvaw9eDCFimvpiG_40.378976_-74.317206@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279874,
     "wof:geomhash":"839400b3ad47cacd637b153c95021243",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527217,
+            "venue_id":638783309
+        }
+    ],
     "wof:id":638783309,
-    "wof:lastmodified":1466683449,
+    "wof:lastmodified":1492071366,
     "wof:name":"Castle Cleaners",
     "wof:parent_id":420527217,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655394739,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"50",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258181,40.745723,-74.258181,40.745723",
     "geom:latitude":40.745723,
     "geom:longitude":-74.258181,
@@ -28,7 +33,10 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IwEj9y1adUMqwhmrlAXUd_40.745723_-74.258181@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304410,
     "wof:geomhash":"efc15f677768c7b93cd0d0b26355c49f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655394739
+        }
+    ],
     "wof:id":655394739,
-    "wof:lastmodified":1466675389,
+    "wof:lastmodified":1492031426,
     "wof:name":"Bacant Property Security",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

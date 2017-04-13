@@ -2,9 +2,14 @@
   "id": 639338993,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Meadowbrook Dr Princeton NJ 08540",
+    "addr:housenumber":"20",
+    "addr:postcode":"08540",
+    "addr:street":"Meadowbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.644671,40.368993,-74.644671,40.368993",
     "geom:latitude":40.368993,
     "geom:longitude":-74.644671,
@@ -27,7 +32,13 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b5lEfEFjGvMFixuaODfHG_40.368993_-74.644671@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461292791,
     "wof:geomhash":"2172f5b6148679a24d9066fd2d6c4ed7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639338993
+        }
+    ],
     "wof:id":639338993,
-    "wof:lastmodified":1466692566,
+    "wof:lastmodified":1492047764,
     "wof:name":"Windsor Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

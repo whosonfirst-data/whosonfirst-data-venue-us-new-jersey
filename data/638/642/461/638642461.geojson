@@ -2,9 +2,14 @@
   "id": 638642461,
   "type": "Feature",
   "properties": {
+    "addr:full":"442 Ellisdale Rd Trenton NJ 08620",
+    "addr:housenumber":"442",
+    "addr:postcode":"08620",
+    "addr:street":"Ellisdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.630082,40.143499,-74.630082,40.143499",
     "geom:latitude":40.143499,
     "geom:longitude":-74.630082,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
         85837537,
-        102087415
+        102191575,
+        404478251,
+        85633793,
+        85976385,
+        102081129,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +51,18 @@
     "wof:geomhash":"2243c386ee0b7addda6e56af9a878c58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087415,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976385,
             "neighbourhood_id":85837537,
             "region_id":85688607,
             "venue_id":638642461
         }
     ],
     "wof:id":638642461,
-    "wof:lastmodified":1466673510,
+    "wof:lastmodified":1492042965,
     "wof:name":"HMS Inc",
     "wof:parent_id":85837537,
     "wof:placetype":"venue",

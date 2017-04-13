@@ -2,9 +2,14 @@
   "id": 638711845,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Crosswicks Rd Bordentown NJ 08505",
+    "addr:housenumber":"210",
+    "addr:postcode":"08505",
+    "addr:street":"Crosswicks Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.696339,40.14434,-74.696339,40.14434",
     "geom:latitude":40.14434,
     "geom:longitude":-74.696339,
@@ -28,7 +33,10 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kjPtoWNQ8Syfnfv92lq42_40.144340_-74.696339@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461277970,
     "wof:geomhash":"91c438f2e18cb3bad8049b3ccf169c90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638711845
+        }
+    ],
     "wof:id":638711845,
-    "wof:lastmodified":1466672947,
+    "wof:lastmodified":1492062563,
     "wof:name":"Bordentown Cemetery Assoc Inc",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

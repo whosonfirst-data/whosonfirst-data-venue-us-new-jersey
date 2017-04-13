@@ -2,9 +2,14 @@
   "id": 638920489,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Oak Ridge Rd Clark NJ 07066",
+    "addr:housenumber":"560",
+    "addr:postcode":"07066",
+    "addr:street":"Oak Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.330728,40.612057,-74.330728,40.612057",
     "geom:latitude":40.612057,
     "geom:longitude":-74.330728,
@@ -28,7 +33,13 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24SxMWOUcSQkA7w0WNTvoV_40.612057_-74.330728@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461283270,
     "wof:geomhash":"8b009db06eeaccce38c74522f5a0c590",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":638920489
+        }
+    ],
     "wof:id":638920489,
-    "wof:lastmodified":1466690565,
+    "wof:lastmodified":1492042845,
     "wof:name":"A B Studio Macrame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

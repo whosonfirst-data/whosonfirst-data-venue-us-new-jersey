@@ -2,9 +2,14 @@
   "id": 655838425,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Crestview Dr Milford NJ 08848",
+    "addr:housenumber":"30",
+    "addr:postcode":"08848",
+    "addr:street":"Crestview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072972,40.564654,-75.072972,40.564654",
     "geom:latitude":40.564654,
     "geom:longitude":-75.072972,
@@ -27,7 +32,10 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aYMst3TPRYPhqNu8Yp0y8_40.564654_-75.072972@1303262283"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461323005,
     "wof:geomhash":"9daae154fc136125f1b2fc84818834fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":655838425
+        }
+    ],
     "wof:id":655838425,
-    "wof:lastmodified":1466687923,
+    "wof:lastmodified":1492065228,
     "wof:name":"Lyra Holdings",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

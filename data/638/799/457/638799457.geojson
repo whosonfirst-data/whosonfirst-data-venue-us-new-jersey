@@ -2,9 +2,14 @@
   "id": 638799457,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"125",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.340988,41.007612,-74.340988,41.007612",
     "geom:latitude":41.007612,
     "geom:longitude":-74.340988,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rTMfPwetSeeW1BoMhxqRF_41.007612_-74.340988@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280214,
     "wof:geomhash":"4b256b6cc1cb617ce9d9ca65aad3c2ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":638799457
+        }
+    ],
     "wof:id":638799457,
-    "wof:lastmodified":1466685483,
+    "wof:lastmodified":1492042898,
     "wof:name":"Bellys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

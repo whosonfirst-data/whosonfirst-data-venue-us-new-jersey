@@ -2,9 +2,14 @@
   "id": 655636603,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 Main St Peapack NJ 07977",
+    "addr:housenumber":"138",
+    "addr:postcode":"07977",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658549,40.713696,-74.658549,40.713696",
     "geom:latitude":40.713696,
     "geom:longitude":-74.658549,
@@ -27,7 +32,14 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477933,
+        85633793,
+        85975507,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cNHiRmFUlaUOb5edTtIYC_40.713696_-74.658549@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314630,
     "wof:geomhash":"b755e748c60833fad2984bbe49b73f67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477933,
+            "locality_id":85975507,
+            "region_id":85688607,
+            "venue_id":655636603
+        }
+    ],
     "wof:id":655636603,
-    "wof:lastmodified":1466682333,
+    "wof:lastmodified":1492070813,
     "wof:name":"F 8 Images Photo By Jnthnrmrz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655656009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1321",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232558,40.698217,-74.232558,40.698217",
     "geom:latitude":40.698217,
     "geom:longitude":-74.232558,
@@ -27,7 +32,13 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04PKZ3V1rPx1lr7NMcquMb_40.698483_-74.232247@1293134755"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461315425,
     "wof:geomhash":"cc490c2da6e03f90d09297bb677f3f81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655656009
+        }
+    ],
     "wof:id":655656009,
-    "wof:lastmodified":1466682997,
+    "wof:lastmodified":1492052257,
     "wof:name":"Pao Demel Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

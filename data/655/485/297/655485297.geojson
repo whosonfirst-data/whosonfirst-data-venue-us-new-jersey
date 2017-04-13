@@ -2,9 +2,14 @@
   "id": 655485297,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 N Main St Lambertville NJ 08530",
+    "addr:housenumber":"299",
+    "addr:postcode":"08530",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945618,40.375465,-74.945618,40.375465",
     "geom:latitude":40.375465,
     "geom:longitude":-74.945618,
@@ -27,7 +32,14 @@
         "bagel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y0el5c7y1e0Tg7mTbgRA9_40.375465_-74.945618@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308211,
     "wof:geomhash":"8f8607a9fca48380773e80c520428c9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655485297
+        }
+    ],
     "wof:id":655485297,
-    "wof:lastmodified":1466677643,
+    "wof:lastmodified":1492053546,
     "wof:name":"Bagel Delights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655513297,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Crescent Dr S Andover NJ 07821",
+    "addr:housenumber":"41",
+    "addr:postcode":"07821",
+    "addr:street":"Crescent Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.718767,40.974274,-74.718767,40.974274",
     "geom:latitude":40.974274,
     "geom:longitude":-74.718767,
@@ -27,8 +32,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85812745,
-        102086779
+        85803133,
+        102086779,
+        85812745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85803133,
+            "region_id":85688607,
+            "venue_id":655513297
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85812745,
             "region_id":85688607,
             "venue_id":655513297
         }
     ],
     "wof:id":655513297,
-    "wof:lastmodified":1466678431,
+    "wof:lastmodified":1492051676,
     "wof:name":"L Pappas Communications",
-    "wof:parent_id":85812745,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

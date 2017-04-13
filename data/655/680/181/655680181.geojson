@@ -2,9 +2,14 @@
   "id": 655680181,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Darlington Ave Ramsey NJ 07446",
+    "addr:housenumber":"175",
+    "addr:postcode":"07446",
+    "addr:street":"Darlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.151689,41.060893,-74.151689,41.060893",
     "geom:latitude":41.060893,
     "geom:longitude":-74.151689,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"http://www.fmc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67o18R9UTnvXN08WM20RTW_41.060820_-74.151179@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316416,
     "wof:geomhash":"374a0c8c534f1671b14f55a8d8c8f39c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655680181
+        }
+    ],
     "wof:id":655680181,
-    "wof:lastmodified":1466683691,
+    "wof:lastmodified":1492083233,
     "wof:name":"Fmc Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639514609,
   "type": "Feature",
   "properties": {
+    "addr:full":"665 Bennetts Mills Rd Jackson NJ 08527",
+    "addr:housenumber":"665",
+    "addr:postcode":"08527",
+    "addr:street":"Bennetts Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.292779,40.12109,-74.292779,40.12109",
     "geom:latitude":40.12109,
     "geom:longitude":-74.292779,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0svrBKSeymGSGC6zamAJjO_40.121090_-74.292779@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461298052,
     "wof:geomhash":"3e40bc0b3a5beae1672e48ce07410775",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639514609
+        }
+    ],
     "wof:id":639514609,
-    "wof:lastmodified":1466695068,
+    "wof:lastmodified":1492047916,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

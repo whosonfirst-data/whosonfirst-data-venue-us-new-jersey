@@ -2,9 +2,14 @@
   "id": 655422279,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Deer Trail Lake Rd Stockholm NJ 07460",
+    "addr:housenumber":"32",
+    "addr:postcode":"07460",
+    "addr:street":"Deer Trail Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528559,41.115251,-74.528559,41.115251",
     "geom:latitude":41.115251,
     "geom:longitude":-74.528559,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85975719,
+        85846363,
         102086779,
+        85975719,
         85823953
     ],
     "wof:breaches":[],
@@ -46,6 +52,13 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85846363,
+            "region_id":85688607,
+            "venue_id":655422279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "locality_id":85975719,
             "neighbourhood_id":85823953,
             "region_id":85688607,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":655422279,
-    "wof:lastmodified":1466676060,
+    "wof:lastmodified":1492047689,
     "wof:name":"M J Delta Construction Inc",
-    "wof:parent_id":85823953,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

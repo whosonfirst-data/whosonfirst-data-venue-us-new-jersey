@@ -2,9 +2,14 @@
   "id": 639299425,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 S Main St Stockton NJ 08559",
+    "addr:housenumber":"67",
+    "addr:postcode":"08559",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.971488,40.403429,-74.971488,40.403429",
     "geom:latitude":40.403429,
     "geom:longitude":-74.971488,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477461,
+        85633793,
+        85975679,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rcNiLcaCfjAF1VOmisEr3_40.403429_-74.971488@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291957,
     "wof:geomhash":"d38c995f25e53403906650b8c0a452f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477461,
+            "locality_id":85975679,
+            "region_id":85688607,
+            "venue_id":639299425
+        }
+    ],
     "wof:id":639299425,
-    "wof:lastmodified":1466691175,
+    "wof:lastmodified":1492051813,
     "wof:name":"Rick Baxter Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639553481,
   "type": "Feature",
   "properties": {
+    "addr:full":"455 Carlisa Ave Brick NJ 08723",
+    "addr:housenumber":"455",
+    "addr:postcode":"08723",
+    "addr:street":"Carlisa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.125963,40.047499,-74.125963,40.047499",
     "geom:latitude":40.047499,
     "geom:longitude":-74.125963,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EWdTn37MY75jzBXmsd39Q_40.047499_-74.125963@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461299886,
     "wof:geomhash":"ae4d393d56d26080500eedb3a3084c85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":639553481
+        }
+    ],
     "wof:id":639553481,
-    "wof:lastmodified":1466696190,
+    "wof:lastmodified":1492056707,
     "wof:name":"Sunset Communication",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

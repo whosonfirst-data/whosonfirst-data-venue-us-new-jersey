@@ -2,9 +2,14 @@
   "id": 655573949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 State Rte 38 Mount Holly NJ 08060",
+    "addr:housenumber":"2000;38",
+    "addr:postcode":"08060",
+    "addr:street":"State Rte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.825745,39.978839,-74.825745,39.978839",
     "geom:latitude":39.978839,
     "geom:longitude":-74.825745,
@@ -27,7 +32,10 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cXWmfQ6EbrZBfwUvo8c6R_39.978839_-74.825745@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311905,
     "wof:geomhash":"c9d36736983a981a57178abbaa386d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":655573949
+        }
+    ],
     "wof:id":655573949,
-    "wof:lastmodified":1466680266,
+    "wof:lastmodified":1492045067,
     "wof:name":"H & R Block",
     "wof:parent_id":420526707,
     "wof:placetype":"venue",

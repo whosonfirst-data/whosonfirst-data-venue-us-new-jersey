@@ -2,9 +2,14 @@
   "id": 638732741,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Fox Hollow Rd Voorhees NJ 08043",
+    "addr:housenumber":"20",
+    "addr:postcode":"08043",
+    "addr:street":"Fox Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.915101,39.83136,-74.915101,39.83136",
     "geom:latitude":39.83136,
     "geom:longitude":-74.915101,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975613,
+        102081131,
+        85844193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rT4AIx32KefnLgm4I34Bd_39.831360_-74.915101@1294171694"
@@ -35,11 +46,20 @@
     "wof:country":"US",
     "wof:created":1461278559,
     "wof:geomhash":"7544493788d7b2db42ef4a5121cb19ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081131,
+            "locality_id":85975613,
+            "neighbourhood_id":85844193,
+            "region_id":85688607,
+            "venue_id":638732741
+        }
+    ],
     "wof:id":638732741,
-    "wof:lastmodified":1466675822,
+    "wof:lastmodified":1492031989,
     "wof:name":"Hitech Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

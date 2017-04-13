@@ -2,9 +2,14 @@
   "id": 655824111,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 N 32nd St Camden NJ 08105",
+    "addr:housenumber":"409",
+    "addr:postcode":"08105",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080165,39.95244,-75.080165,39.95244",
     "geom:latitude":39.95244,
     "geom:longitude":-75.080165,
@@ -24,7 +29,14 @@
     "sg:postcode":"08105",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GoCP61MCnY5TE3EW2CB94_39.952440_-75.080165@1303262279"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461322416,
     "wof:geomhash":"c35404acf7aa7be26fcae8a024b58153",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655824111
+        }
+    ],
     "wof:id":655824111,
-    "wof:lastmodified":1466687504,
+    "wof:lastmodified":1492049218,
     "wof:name":"New Family Minimarket",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

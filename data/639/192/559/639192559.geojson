@@ -2,9 +2,14 @@
   "id": 639192559,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Salem Hill Rd Howell NJ 07731",
+    "addr:housenumber":"110",
+    "addr:postcode":"07731",
+    "addr:street":"Salem Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220291,40.149494,-74.220291,40.149494",
     "geom:latitude":40.149494,
     "geom:longitude":-74.220291,
@@ -30,7 +35,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15M53leAuer0KPkI0KbPWs_40.149494_-74.220291@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461289467,
     "wof:geomhash":"4ba68bca5e5026eec6056dd4fbc45b8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527251,
+            "venue_id":639192559
+        }
+    ],
     "wof:id":639192559,
-    "wof:lastmodified":1466687531,
+    "wof:lastmodified":1492069372,
     "wof:name":"Oak Hill Christian Nurs Schl",
     "wof:parent_id":420527251,
     "wof:placetype":"venue",

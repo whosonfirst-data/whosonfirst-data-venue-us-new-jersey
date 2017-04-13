@@ -2,9 +2,14 @@
   "id": 638848979,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 State Rte 23 Sussex NJ 07461",
+    "addr:housenumber":"1312",
+    "addr:postcode":"07461",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.654193,41.293719,-74.654193,41.293719",
     "geom:latitude":41.293719,
     "geom:longitude":-74.654193,
@@ -24,7 +29,13 @@
     "sg:postcode":"07461",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478487,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HvCYNxGCLbi7wHmIYfpWP_41.293719_-74.654193@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461281481,
     "wof:geomhash":"908390d01c788bc433bb678f063a27f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478487,
+            "region_id":85688607,
+            "venue_id":638848979
+        }
+    ],
     "wof:id":638848979,
-    "wof:lastmodified":1466689234,
+    "wof:lastmodified":1492052260,
     "wof:name":"Investor Commercial Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

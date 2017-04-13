@@ -2,9 +2,14 @@
   "id": 638752791,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Paterson Ave West Paterson NJ 07424",
+    "addr:housenumber":"150",
+    "addr:postcode":"07424",
+    "addr:street":"Paterson Ave West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223025,40.884681,-74.223025,40.884681",
     "geom:latitude":40.884681,
     "geom:longitude":-74.223025,
@@ -27,7 +32,13 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_381hsVtpqEq6aGRsueVhG6_40.884681_-74.223025@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461279097,
     "wof:geomhash":"4bd1ba9a6c9db3cdfb932b05554136e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638752791
+        }
+    ],
     "wof:id":638752791,
-    "wof:lastmodified":1466678557,
+    "wof:lastmodified":1492062277,
     "wof:name":"Deli On The Mountain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

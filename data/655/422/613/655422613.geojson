@@ -2,9 +2,14 @@
   "id": 655422613,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 11th Ave Belmar NJ 07719",
+    "addr:housenumber":"219",
+    "addr:postcode":"07719",
+    "addr:street":"11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017946,40.176563,-74.017946,40.176563",
     "geom:latitude":40.176563,
     "geom:longitude":-74.017946,
@@ -27,7 +32,14 @@
         "casino"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aH6LxjNQc0dpXqQ1nlAYX_40.176563_-74.017946@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305572,
     "wof:geomhash":"bd1b4cc21feb6a23eec1eb1502497000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655422613
+        }
+    ],
     "wof:id":655422613,
-    "wof:lastmodified":1466676148,
+    "wof:lastmodified":1492053241,
     "wof:name":"Sheraton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

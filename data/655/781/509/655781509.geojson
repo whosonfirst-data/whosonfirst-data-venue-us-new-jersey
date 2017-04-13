@@ -2,9 +2,14 @@
   "id": 655781509,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Oak St Norwood NJ 07648",
+    "addr:housenumber":"70",
+    "addr:postcode":"07648",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95307,40.99764,-73.95307,40.99764",
     "geom:latitude":40.99764,
     "geom:longitude":-73.95307,
@@ -35,7 +40,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45mP9rdbrk5hsYj6jkP3Rv_40.997640_-73.953070@1303262268"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461320613,
     "wof:geomhash":"471cf5d1062922f82f7024bdcd7e58fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655781509
+        }
+    ],
     "wof:id":655781509,
-    "wof:lastmodified":1466686394,
+    "wof:lastmodified":1492052113,
     "wof:name":"Alpine Ocean Seismic Survey, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655449593,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Hewitt Rd Hewitt NJ 07421",
+    "addr:housenumber":"61",
+    "addr:postcode":"07421",
+    "addr:street":"Hewitt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.377892,41.187812,-74.377892,41.187812",
     "geom:latitude":41.187812,
     "geom:longitude":-74.377892,
@@ -27,7 +32,13 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76cYRP78DYFCggiSjesmZL_41.187812_-74.377892@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306673,
     "wof:geomhash":"537ea6991261cd18f11ba704735651ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":655449593
+        }
+    ],
     "wof:id":655449593,
-    "wof:lastmodified":1466676910,
+    "wof:lastmodified":1492048027,
     "wof:name":"Palomba Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

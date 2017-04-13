@@ -2,9 +2,14 @@
   "id": 639297713,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Roseberry St Phillipsburg NJ 08865",
+    "addr:housenumber":"411",
+    "addr:postcode":"08865",
+    "addr:street":"Roseberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175942,40.696345,-75.175942,40.696345",
     "geom:latitude":40.696345,
     "geom:longitude":-75.175942,
@@ -29,7 +34,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CYhfCR95yFQ2mxAAbDOYF_40.696345_-75.175942@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461291921,
     "wof:geomhash":"1a034c4945f8267c3d6be30fa4197039",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639297713
+        }
+    ],
     "wof:id":639297713,
-    "wof:lastmodified":1466691206,
+    "wof:lastmodified":1492044225,
     "wof:name":"PNC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

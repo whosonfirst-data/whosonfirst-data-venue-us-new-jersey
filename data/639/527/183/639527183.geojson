@@ -2,9 +2,14 @@
   "id": 639527183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2933 Vaux Hall Rd Vauxhall NJ 07088",
+    "addr:housenumber":"2933",
+    "addr:postcode":"07088",
+    "addr:street":"Vaux Hall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289552,40.720663,-74.289552,40.720663",
     "geom:latitude":40.720663,
     "geom:longitude":-74.289552,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eDVVA0xHZnHG8hALdyjUm_40.720663_-74.289552@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461298702,
     "wof:geomhash":"793633ac6b5817fa3b1be30ac7265a62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":639527183
+        }
+    ],
     "wof:id":639527183,
-    "wof:lastmodified":1466695699,
+    "wof:lastmodified":1492057641,
     "wof:name":"Church Of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

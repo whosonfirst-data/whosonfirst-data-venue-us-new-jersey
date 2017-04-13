@@ -2,9 +2,14 @@
   "id": 655790575,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 State Route 10 Ste 2 Randolph NJ 07869",
+    "addr:housenumber":"81",
+    "addr:postcode":"07869",
+    "addr:street":"State Route 10 Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530791,40.872822,-74.530791,40.872822",
     "geom:latitude":40.872822,
     "geom:longitude":-74.530791,
@@ -33,7 +38,10 @@
     ],
     "sg:website":"www.Bagel-Bistro.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04AJjzD2hUPNySUht6NYLi_40.872822_-74.530791@1303262271"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461320998,
     "wof:geomhash":"494e125edd137d25ecdfade6321b2ff2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790575
+        }
+    ],
     "wof:id":655790575,
-    "wof:lastmodified":1466686669,
+    "wof:lastmodified":1492027616,
     "wof:name":"Bagel Bistro",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

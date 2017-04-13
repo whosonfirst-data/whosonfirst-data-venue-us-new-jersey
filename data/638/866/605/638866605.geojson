@@ -2,9 +2,14 @@
   "id": 638866605,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Boulevard Glen Rock NJ 07452",
+    "addr:housenumber":"99",
+    "addr:postcode":"07452",
+    "addr:street":"Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138681,40.961276,-74.138681,40.961276",
     "geom:latitude":40.961276,
     "geom:longitude":-74.138681,
@@ -27,7 +32,14 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fPJxnMQC6RzFxhCFxHONE_40.961276_-74.138681@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281891,
     "wof:geomhash":"2d2a40c12fbb20b5364cb5efe36d8d96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":638866605
+        }
+    ],
     "wof:id":638866605,
-    "wof:lastmodified":1466689530,
+    "wof:lastmodified":1492024324,
     "wof:name":"Cavankerry Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

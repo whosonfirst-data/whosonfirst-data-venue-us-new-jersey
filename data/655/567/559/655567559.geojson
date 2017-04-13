@@ -2,9 +2,14 @@
   "id": 655567559,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 State Rte 72 Manahawkin NJ 08050",
+    "addr:housenumber":"601",
+    "addr:postcode":"08050",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239797,39.681207,-74.239797,39.681207",
     "geom:latitude":39.681207,
     "geom:longitude":-74.239797,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85832035,
+        102191575,
+        404477801,
         85633793,
-        85804837,
-        102081485
+        85976341,
+        102081485,
+        85688607,
+        85804837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"9988c8a2d82cb2cb6c423487219d3bc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477801,
+            "locality_id":85976341,
+            "neighbourhood_id":85832035,
+            "region_id":85688607,
+            "venue_id":655567559
+        },
+        {
             "country_id":85633793,
             "county_id":102081485,
             "neighbourhood_id":85804837,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":655567559,
-    "wof:lastmodified":1466680091,
+    "wof:lastmodified":1492025153,
     "wof:name":"72 Buy Rite Warehouse Liquors",
-    "wof:parent_id":85804837,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639133351,
   "type": "Feature",
   "properties": {
+    "addr:full":"677 Wyckoff Ave Wyckoff NJ 07481",
+    "addr:housenumber":"677",
+    "addr:postcode":"07481",
+    "addr:street":"Wyckoff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172448,41.011846,-74.172448,41.011846",
     "geom:latitude":41.011846,
     "geom:longitude":-74.172448,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85892569,
-        102086773
+        102086773,
+        420526555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,17 @@
             "neighbourhood_id":85892569,
             "region_id":85688607,
             "venue_id":639133351
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":639133351
         }
     ],
     "wof:id":639133351,
-    "wof:lastmodified":1466678806,
+    "wof:lastmodified":1492066550,
     "wof:name":"Wyckoff Auto",
-    "wof:parent_id":85892569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

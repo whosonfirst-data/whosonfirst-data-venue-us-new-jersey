@@ -2,9 +2,14 @@
   "id": 638980121,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 Newport Rd Glen Gardner NJ 08826",
+    "addr:housenumber":"329",
+    "addr:postcode":"08826",
+    "addr:street":"Newport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.905914,40.731676,-74.905914,40.731676",
     "geom:latitude":40.731676,
     "geom:longitude":-74.905914,
@@ -24,7 +29,12 @@
     "sg:postcode":"08826",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85858631,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HzbuJAXqybonCOmsKJjzc_40.731676_-74.905914@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461284649,
     "wof:geomhash":"8a944dae0ff3195f917edd5351dc040e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85858631,
+            "region_id":85688607,
+            "venue_id":638980121
+        }
+    ],
     "wof:id":638980121,
-    "wof:lastmodified":1466691860,
+    "wof:lastmodified":1492050608,
     "wof:name":"Simila Appraisals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

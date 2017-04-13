@@ -2,9 +2,14 @@
   "id": 639589261,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"27",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.801043,40.26689,-74.801043,40.26689",
     "geom:latitude":40.26689,
     "geom:longitude":-74.801043,
@@ -28,7 +33,10 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47NJp7cAG2QvwEkZ4QvQyM_40.266890_-74.801043@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301296,
     "wof:geomhash":"74cab95895448fe2a180fb37a80d720e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":639589261
+        }
+    ],
     "wof:id":639589261,
-    "wof:lastmodified":1466696587,
+    "wof:lastmodified":1492050868,
     "wof:name":"T & C Wireless",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

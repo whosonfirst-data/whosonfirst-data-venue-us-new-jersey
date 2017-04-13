@@ -2,9 +2,14 @@
   "id": 655520271,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Williams Dr Ramsey NJ 07446",
+    "addr:housenumber":"100",
+    "addr:postcode":"07446",
+    "addr:street":"Williams Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1284,41.07275,-74.1284,41.07275",
     "geom:latitude":41.07275,
     "geom:longitude":-74.1284,
@@ -30,7 +35,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_755GiYOdqTOY29DZIHdUKO_41.072750_-74.128400@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461309683,
     "wof:geomhash":"57894651fb245bb92f75ccb320bacc8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655520271
+        }
+    ],
     "wof:id":655520271,
-    "wof:lastmodified":1466678688,
+    "wof:lastmodified":1492058259,
     "wof:name":"Konica Mnlta Bus Solutions USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

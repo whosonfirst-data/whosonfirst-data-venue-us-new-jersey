@@ -2,9 +2,14 @@
   "id": 639409915,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Union Ave Middlesex NJ 08846",
+    "addr:housenumber":"360",
+    "addr:postcode":"08846",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.51261,40.570845,-74.51261,40.570845",
     "geom:latitude":40.570845,
     "geom:longitude":-74.51261,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85976155,
+        102085045,
+        85819251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CUTf150pM688J21BZNgff_40.570845_-74.512610@1294171694"
@@ -37,11 +48,20 @@
     "wof:country":"US",
     "wof:created":1461294487,
     "wof:geomhash":"c8525c72b4f3102b60dd924da9e5e789",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "locality_id":85976155,
+            "neighbourhood_id":85819251,
+            "region_id":85688607,
+            "venue_id":639409915
+        }
+    ],
     "wof:id":639409915,
-    "wof:lastmodified":1466693191,
+    "wof:lastmodified":1492051507,
     "wof:name":"Di Giacomo's Paint Decorations",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

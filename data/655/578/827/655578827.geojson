@@ -2,9 +2,14 @@
   "id": 655578827,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Arnold Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"726",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.05329,40.091379,-74.05329,40.091379",
     "geom:latitude":40.091379,
     "geom:longitude":-74.05329,
@@ -27,7 +32,14 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GRkm9dIRfHkSZW4Imkzvh_40.091379_-74.053290@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312110,
     "wof:geomhash":"5c88f5350dc987a10ac2d40b4d0dd1f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":655578827
+        }
+    ],
     "wof:id":655578827,
-    "wof:lastmodified":1466680473,
+    "wof:lastmodified":1492045261,
     "wof:name":"Beach Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

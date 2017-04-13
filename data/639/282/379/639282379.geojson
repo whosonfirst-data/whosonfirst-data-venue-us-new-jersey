@@ -2,9 +2,14 @@
   "id": 639282379,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 Rabbit Run Rd Marlton NJ 08053",
+    "addr:housenumber":"2204",
+    "addr:postcode":"08053",
+    "addr:street":"Rabbit Run Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.867413,39.894399,-74.867413,39.894399",
     "geom:latitude":39.894399,
     "geom:longitude":-74.867413,
@@ -28,7 +33,10 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XsNSD1auxQDNWKI2lmajO_39.894399_-74.867413@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461291597,
     "wof:geomhash":"4cfeea98e5b051416aeec963bc1001a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":639282379
+        }
+    ],
     "wof:id":639282379,
-    "wof:lastmodified":1466691085,
+    "wof:lastmodified":1492043302,
     "wof:name":"Kennedy Acceptance Corp",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

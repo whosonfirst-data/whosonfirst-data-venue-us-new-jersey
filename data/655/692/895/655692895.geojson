@@ -2,9 +2,14 @@
   "id": 655692895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Parkway Ave  Trenton NJ 08628",
+    "addr:housenumber":"1400",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.80631,40.266931,-74.80631,40.266931",
     "geom:latitude":40.266931,
     "geom:longitude":-74.80631,
@@ -29,7 +34,10 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cULchW4JiUCdLnDZ5V3b2_40.266931_-74.806310@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316979,
     "wof:geomhash":"cf67356d4f6679fca2f31712603ea319",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655692895
+        }
+    ],
     "wof:id":655692895,
-    "wof:lastmodified":1466684183,
+    "wof:lastmodified":1492065600,
     "wof:name":"Royal Chef",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

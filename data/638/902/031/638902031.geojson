@@ -2,9 +2,14 @@
   "id": 638902031,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Stevenson Ave Trenton NJ 08619",
+    "addr:housenumber":"67",
+    "addr:postcode":"08619",
+    "addr:street":"Stevenson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.685634,40.250175,-74.685634,40.250175",
     "geom:latitude":40.250175,
     "geom:longitude":-74.685634,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u7WMdnSYQzaHGY3Gm7VOW_40.250175_-74.685634@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282798,
     "wof:geomhash":"883cce18803dea0821ab05c3eaacbd8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":638902031
+        }
+    ],
     "wof:id":638902031,
-    "wof:lastmodified":1466690101,
+    "wof:lastmodified":1492046349,
     "wof:name":"Bruce Richards Home Imprvs",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

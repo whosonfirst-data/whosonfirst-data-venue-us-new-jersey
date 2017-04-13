@@ -2,9 +2,14 @@
   "id": 639007509,
   "type": "Feature",
   "properties": {
+    "addr:full":"1664 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1664",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258022,40.711679,-74.258022,40.711679",
     "geom:latitude":40.711679,
     "geom:longitude":-74.258022,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OJBTIxFP9q9TudY94vn7k_40.711679_-74.258022@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461285266,
     "wof:geomhash":"67df79a3279343960246a2501c30d446",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":639007509
+        }
+    ],
     "wof:id":639007509,
-    "wof:lastmodified":1466673230,
+    "wof:lastmodified":1492041111,
     "wof:name":"Jumbalaya Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

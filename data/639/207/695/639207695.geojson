@@ -2,9 +2,14 @@
   "id": 639207695,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Harvey St New Brunswick NJ 08901",
+    "addr:housenumber":"5",
+    "addr:postcode":"08901",
+    "addr:street":"Harvey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.453504,40.494098,-74.453504,40.494098",
     "geom:latitude":40.494098,
     "geom:longitude":-74.453504,
@@ -25,14 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85845173,
+        102087417,
         85819055,
         102191575,
         404478289,
-        85633793,
-        85975739,
-        102087417,
-        85688607,
-        85845173
+        85975739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,13 @@
     "wof:geomhash":"1a472ab83a4dc65e6b0a1773827d169f",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85845173,
+            "region_id":85688607,
+            "venue_id":639207695
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -51,19 +63,12 @@
             "neighbourhood_id":85819055,
             "region_id":85688607,
             "venue_id":639207695
-        },
-        {
-            "country_id":85633793,
-            "county_id":102087417,
-            "neighbourhood_id":85845173,
-            "region_id":85688607,
-            "venue_id":639207695
         }
     ],
     "wof:id":639207695,
-    "wof:lastmodified":1466689258,
+    "wof:lastmodified":1492042769,
     "wof:name":"Blessed Enterprise",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

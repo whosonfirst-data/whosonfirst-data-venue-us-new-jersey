@@ -2,9 +2,14 @@
   "id": 655582001,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 W Commodore Blvd Jackson NJ 08527",
+    "addr:housenumber":"434",
+    "addr:postcode":"08527",
+    "addr:street":"W Commodore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.379786,40.153227,-74.379786,40.153227",
     "geom:latitude":40.153227,
     "geom:longitude":-74.379786,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PgmwIG4ckdUOmQZHVeHSb_40.153227_-74.379786@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461312258,
     "wof:geomhash":"9d50b6b9dd0b0cbc2cb5e0e4be2ece83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655582001
+        }
+    ],
     "wof:id":655582001,
-    "wof:lastmodified":1466688840,
+    "wof:lastmodified":1492045056,
     "wof:name":"Sinclair Power & Electric Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

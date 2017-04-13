@@ -2,9 +2,14 @@
   "id": 638743263,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Carranza Rd Tabernacle NJ 08088",
+    "addr:housenumber":"78",
+    "addr:postcode":"08088",
+    "addr:street":"Carranza Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.7284,39.864968,-74.7284,39.864968",
     "geom:latitude":39.864968,
     "geom:longitude":-74.7284,
@@ -33,7 +38,10 @@
     ],
     "sg:website":"www.colonial-chemical.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LEA9pxIYNF71VIMOXc56U_39.864968_-74.728400@1294171694"
@@ -41,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1461278825,
     "wof:geomhash":"7ff45e58c9837fec01d3e48aa26ad4a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526709,
+            "venue_id":638743263
+        }
+    ],
     "wof:id":638743263,
-    "wof:lastmodified":1466677265,
+    "wof:lastmodified":1492062535,
     "wof:name":"Colonial Chemical Company",
-    "wof:parent_id":420526585,
+    "wof:parent_id":420526709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

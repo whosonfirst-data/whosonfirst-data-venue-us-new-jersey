@@ -2,9 +2,14 @@
   "id": 639562619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"2001",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275204,40.71985,-74.275204,40.71985",
     "geom:latitude":40.71985,
     "geom:longitude":-74.275204,
@@ -28,7 +33,10 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vFctcCYSvusUtjRO1ccVu_40.719850_-74.275204@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300224,
     "wof:geomhash":"a5a21d80a05bc1f90acbefcd7cba3187",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":639562619
+        }
+    ],
     "wof:id":639562619,
-    "wof:lastmodified":1466696170,
+    "wof:lastmodified":1492049558,
     "wof:name":"24 Hour A Day Locksmith",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

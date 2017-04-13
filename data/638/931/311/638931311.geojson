@@ -2,9 +2,14 @@
   "id": 638931311,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Dewitt St Garfield NJ 07026",
+    "addr:housenumber":"102",
+    "addr:postcode":"07026",
+    "addr:street":"Dewitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.113209,40.879603,-74.113209,40.879603",
     "geom:latitude":40.879603,
     "geom:longitude":-74.113209,
@@ -29,7 +34,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aRbMNW5Twiyc2c3Stl42H_40.879603_-74.113209@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283543,
     "wof:geomhash":"914dac0aee7d9c2569f6ac8c7a6a20be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":638931311
+        }
+    ],
     "wof:id":638931311,
-    "wof:lastmodified":1466691050,
+    "wof:lastmodified":1492029327,
     "wof:name":"Sumatic Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

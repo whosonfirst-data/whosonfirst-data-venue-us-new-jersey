@@ -2,9 +2,14 @@
   "id": 655790605,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Mountainside Dr Randolph NJ 07869",
+    "addr:housenumber":"140",
+    "addr:postcode":"07869",
+    "addr:street":"Mountainside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532547,40.85878,-74.532547,40.85878",
     "geom:latitude":40.85878,
     "geom:longitude":-74.532547,
@@ -30,7 +35,10 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kxMBTZyHvgLCpcGohsTik_40.858780_-74.532547@1303262271"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461320999,
     "wof:geomhash":"96e4a23695311a77fc5c789177c36ac4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790605
+        }
+    ],
     "wof:id":655790605,
-    "wof:lastmodified":1466686676,
+    "wof:lastmodified":1492065625,
     "wof:name":"Millbrook Auto Spa",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

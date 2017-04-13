@@ -2,9 +2,14 @@
   "id": 638672371,
   "type": "Feature",
   "properties": {
+    "addr:full":"4291 US Hwy 130 Beverly NJ 08010",
+    "addr:housenumber":"4291",
+    "addr:postcode":"08010",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.904639,40.046006,-74.904639,40.046006",
     "geom:latitude":40.046006,
     "geom:longitude":-74.904639,
@@ -28,7 +33,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N4nob1vBGLojdSNYYQi8J_40.046006_-74.904639@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461276533,
     "wof:geomhash":"8abfd5ec3258a9cb1fc4f2f2f41f4d30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":638672371
+        }
+    ],
     "wof:id":638672371,
-    "wof:lastmodified":1466676014,
+    "wof:lastmodified":1492082184,
     "wof:name":"USS Car Wash",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

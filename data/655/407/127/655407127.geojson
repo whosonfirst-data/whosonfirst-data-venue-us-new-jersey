@@ -2,9 +2,14 @@
   "id": 655407127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 State Rte 34 Wall NJ 07719",
+    "addr:housenumber":"2100",
+    "addr:postcode":"07719",
+    "addr:street":"State Rte 34",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.203496,40.374002,-74.203496,40.374002",
     "geom:latitude":40.374002,
     "geom:longitude":-74.203496,
@@ -28,7 +33,12 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85812779,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H7MisWrFxjvpXWWZEqCKk_40.374002_-74.203496@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461304920,
     "wof:geomhash":"784a69f21c80040d6af040391b50c403",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85812779,
+            "region_id":85688607,
+            "venue_id":655407127
+        }
+    ],
     "wof:id":655407127,
-    "wof:lastmodified":1466675541,
+    "wof:lastmodified":1492029463,
     "wof:name":"Coates International LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638764229,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Ryan Ln Pompton Plains NJ 07444",
+    "addr:housenumber":"9",
+    "addr:postcode":"07444",
+    "addr:street":"Ryan Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.293422,40.960069,-74.293422,40.960069",
     "geom:latitude":40.960069,
     "geom:longitude":-74.293422,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KQAAz5aGLGx8TmIMOvcyj_40.960069_-74.293422@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461279405,
     "wof:geomhash":"0a33e4a53d613e58a679ccd3a6f73a6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638764229
+        }
+    ],
     "wof:id":638764229,
-    "wof:lastmodified":1466680028,
+    "wof:lastmodified":1492023479,
     "wof:name":"Michael Pinadella Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

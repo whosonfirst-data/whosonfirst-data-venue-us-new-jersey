@@ -2,9 +2,14 @@
   "id": 655554045,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Lindabury Ave Bernardsville NJ 07924",
+    "addr:housenumber":"3",
+    "addr:postcode":"07924",
+    "addr:street":"Lindabury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.601388,40.706798,-74.601388,40.706798",
     "geom:latitude":40.706798,
     "geom:longitude":-74.601388,
@@ -27,7 +32,14 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477913,
+        85633793,
+        85975521,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LTSILEu81h56UvYdDkEx0_40.706798_-74.601388@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461310985,
     "wof:geomhash":"6f54b8377397432f31e9823d41da1781",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477913,
+            "locality_id":85975521,
+            "region_id":85688607,
+            "venue_id":655554045
+        }
+    ],
     "wof:id":655554045,
-    "wof:lastmodified":1466679486,
+    "wof:lastmodified":1492069846,
     "wof:name":"Dr Detail Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

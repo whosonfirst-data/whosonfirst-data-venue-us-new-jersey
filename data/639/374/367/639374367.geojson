@@ -2,9 +2,14 @@
   "id": 639374367,
   "type": "Feature",
   "properties": {
+    "addr:full":"573 Eayrestown Rd Lumberton NJ 08048",
+    "addr:housenumber":"573",
+    "addr:postcode":"08048",
+    "addr:street":"Eayrestown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.790532,39.945195,-74.790532,39.945195",
     "geom:latitude":39.945195,
     "geom:longitude":-74.790532,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613,
+        420526567,
+        85688607,
+        85820297,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RQa3IbaYZS5SbT2I9ksJo_39.945195_-74.790532@1294171694"
@@ -35,11 +47,29 @@
     "wof:country":"US",
     "wof:created":1461293517,
     "wof:geomhash":"e579ddee3c7b72a0c67d20d964ed34e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639374367
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526567,
+            "venue_id":639374367
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85820297,
+            "region_id":85688607,
+            "venue_id":639374367
+        }
+    ],
     "wof:id":639374367,
-    "wof:lastmodified":1466692687,
+    "wof:lastmodified":1492025753,
     "wof:name":"Sacchetta & Baldino",
-    "wof:parent_id":420526613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

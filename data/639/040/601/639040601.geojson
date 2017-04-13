@@ -2,9 +2,14 @@
   "id": 639040601,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 May Dr Chatham NJ 07928",
+    "addr:housenumber":"75",
+    "addr:postcode":"07928",
+    "addr:street":"May Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.409701,40.735022,-74.409701,40.735022",
     "geom:latitude":40.735022,
     "geom:longitude":-74.409701,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478301,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07cSq0vXO9QhyURx3MpSIZ_40.735022_-74.409701@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286065,
     "wof:geomhash":"72ac02ba31c6b20ef52fa3199473c354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478301,
+            "region_id":85688607,
+            "venue_id":639040601
+        }
+    ],
     "wof:id":639040601,
-    "wof:lastmodified":1466674059,
+    "wof:lastmodified":1492030455,
     "wof:name":"Libbey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

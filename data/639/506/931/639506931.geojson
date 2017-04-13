@@ -2,9 +2,14 @@
   "id": 639506931,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 McKee Dr Mahwah NJ 07430",
+    "addr:housenumber":"85",
+    "addr:postcode":"07430",
+    "addr:street":"Mckee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.148602,41.083314,-74.148602,41.083314",
     "geom:latitude":41.083314,
     "geom:longitude":-74.148602,
@@ -27,7 +32,13 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yse1nyT6UXGeQArXxfOaC_41.083314_-74.148602@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297712,
     "wof:geomhash":"ebff704dbc19aad20a61d24bf6f43c05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639506931
+        }
+    ],
     "wof:id":639506931,
-    "wof:lastmodified":1466694786,
+    "wof:lastmodified":1492066651,
     "wof:name":"Philips Elec Federal Cr Un",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

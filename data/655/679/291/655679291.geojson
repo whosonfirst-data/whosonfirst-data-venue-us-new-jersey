@@ -2,9 +2,14 @@
   "id": 655679291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 Squirrel Rd Marlton NJ 08053",
+    "addr:housenumber":"1302",
+    "addr:postcode":"08053",
+    "addr:street":"Squirrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.866946,39.893132,-74.866946,39.893132",
     "geom:latitude":39.893132,
     "geom:longitude":-74.866946,
@@ -29,7 +34,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wU9hVO8sSY7J7rqF2yYAl_39.893061_-74.866865@1293134755"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316384,
     "wof:geomhash":"abc265d5b91c7d0bcf26fbc90d24a468",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526655,
+            "venue_id":655679291
+        }
+    ],
     "wof:id":655679291,
-    "wof:lastmodified":1466683712,
+    "wof:lastmodified":1492024841,
     "wof:name":"S T Sales Inc",
     "wof:parent_id":420526655,
     "wof:placetype":"venue",

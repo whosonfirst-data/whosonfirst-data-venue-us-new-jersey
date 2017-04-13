@@ -2,9 +2,14 @@
   "id": 655763939,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 W Oakland Ave Oakland NJ 07436",
+    "addr:housenumber":"108",
+    "addr:postcode":"07436",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248748,41.02661,-74.248748,41.02661",
     "geom:latitude":41.02661,
     "geom:longitude":-74.248748,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lV2SdSdQNgW8A1oLiOkds_41.026610_-74.248748@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319807,
     "wof:geomhash":"9107e4a02e941dd2df4843951c197454",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655763939
+        }
+    ],
     "wof:id":655763939,
-    "wof:lastmodified":1466686048,
+    "wof:lastmodified":1492027524,
     "wof:name":"Anytime Emergency Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

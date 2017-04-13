@@ -2,9 +2,14 @@
   "id": 639419255,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Cedar St Fair Lawn NJ 07410",
+    "addr:housenumber":"46",
+    "addr:postcode":"07410",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.137193,40.941801,-74.137193,40.941801",
     "geom:latitude":40.941801,
     "geom:longitude":-74.137193,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LHE8rc02Cui9cGh4CX4W4_40.941801_-74.137193@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294696,
     "wof:geomhash":"1e10a062820c30966a826bb3f2b0a579",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639419255
+        }
+    ],
     "wof:id":639419255,
-    "wof:lastmodified":1466693141,
+    "wof:lastmodified":1492041655,
     "wof:name":"Gfl Mechanical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

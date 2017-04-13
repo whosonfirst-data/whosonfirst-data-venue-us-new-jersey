@@ -2,9 +2,14 @@
   "id": 655688669,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 Godwin Ave Midland Park NJ 07432",
+    "addr:housenumber":"85",
+    "addr:postcode":"07432",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138142,40.98486,-74.138142,40.98486",
     "geom:latitude":40.98486,
     "geom:longitude":-74.138142,
@@ -30,7 +35,14 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eYKnUiRTzfupPQTyygDLv_40.984860_-74.138142@1299784598"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316802,
     "wof:geomhash":"8d626225039c87a078791e7e1c1e63e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":655688669
+        }
+    ],
     "wof:id":655688669,
-    "wof:lastmodified":1466684072,
+    "wof:lastmodified":1492024360,
     "wof:name":"Soup Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639495327,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 E Front St Trenton NJ 08611",
+    "addr:housenumber":"215",
+    "addr:postcode":"08611",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761063,40.219039,-74.761063,40.219039",
     "geom:latitude":40.219039,
     "geom:longitude":-74.761063,
@@ -28,7 +33,14 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SFTApQk9SIP3FaJz05DUs_40.219039_-74.761063@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297223,
     "wof:geomhash":"451640f1e463ad826de4d4b4829baae1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639495327
+        }
+    ],
     "wof:id":639495327,
-    "wof:lastmodified":1466694810,
+    "wof:lastmodified":1492047126,
     "wof:name":"Architects Housing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

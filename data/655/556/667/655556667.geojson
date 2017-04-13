@@ -2,9 +2,14 @@
   "id": 655556667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 US Hwy 130 Burlington NJ 08016",
+    "addr:housenumber":"1001",
+    "addr:postcode":"08016",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.874954,40.065024,-74.874954,40.065024",
     "geom:latitude":40.065024,
     "geom:longitude":-74.874954,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cwJ1jN3PGVkoZtePfNHUi_40.065024_-74.874954@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311095,
     "wof:geomhash":"ff7329277be399b1ae02847eb98b443a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655556667
+        }
+    ],
     "wof:id":655556667,
-    "wof:lastmodified":1466679719,
+    "wof:lastmodified":1492025872,
     "wof:name":"Nation Wide Auto Outlet",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

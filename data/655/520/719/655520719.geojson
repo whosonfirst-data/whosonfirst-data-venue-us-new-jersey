@@ -2,9 +2,14 @@
   "id": 655520719,
   "type": "Feature",
   "properties": {
+    "addr:full":"780 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"780",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218127,40.070002,-74.218127,40.070002",
     "geom:latitude":40.070002,
     "geom:longitude":-74.218127,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CLUvDk9lXrDPlODW36Ix3_40.070002_-74.218127@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309699,
     "wof:geomhash":"afd84cf102abaf2d2d5ae4940fbc9aa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655520719
+        }
+    ],
     "wof:id":655520719,
-    "wof:lastmodified":1466678807,
+    "wof:lastmodified":1492053711,
     "wof:name":"Brettwood Apartments",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

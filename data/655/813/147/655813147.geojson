@@ -2,9 +2,14 @@
   "id": 655813147,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Campbell Dr Suite 226 Willingboro NJ 08046",
+    "addr:housenumber":"200",
+    "addr:postcode":"08046",
+    "addr:street":"Campbell Dr Suite 226",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888008,40.05542,-74.888008,40.05542",
     "geom:latitude":40.05542,
     "geom:longitude":-74.888008,
@@ -36,7 +41,10 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10288480%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p7IYQgsT4fDtan3ycju7r_40.055420_-74.888008@1303262276"
@@ -44,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1461321943,
     "wof:geomhash":"71b917eae5128b8c10f3c1146a07d477",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655813147
+        }
+    ],
     "wof:id":655813147,
-    "wof:lastmodified":1466687153,
+    "wof:lastmodified":1492053426,
     "wof:name":"The Fridie Law Group",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

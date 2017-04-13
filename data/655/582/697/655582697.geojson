@@ -2,9 +2,14 @@
   "id": 655582697,
   "type": "Feature",
   "properties": {
+    "addr:full":"672 Prospect Ave Fairview NJ 07022",
+    "addr:housenumber":"672",
+    "addr:postcode":"07022",
+    "addr:street":"Prospect Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.007082,40.818683,-74.007082,40.818683",
     "geom:latitude":40.818683,
     "geom:longitude":-74.007082,
@@ -27,7 +32,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TEKAE0CJXfIkd8W5EosF4_40.818683_-74.007082@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312285,
     "wof:geomhash":"4d4625006fe80aa5df846c5d1985588f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655582697
+        }
+    ],
     "wof:id":655582697,
-    "wof:lastmodified":1466680428,
+    "wof:lastmodified":1492034157,
     "wof:name":"Onofrios Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655373819,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 E Main St Bound Brook NJ 08805",
+    "addr:housenumber":"207",
+    "addr:postcode":"08805",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530901,40.56166,-74.530901,40.56166",
     "geom:latitude":40.56166,
     "geom:longitude":-74.530901,
@@ -27,7 +32,14 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zWsrEVIZqQy7L0xApWWy8_40.561660_-74.530901@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303580,
     "wof:geomhash":"e89066796f71dead63fbab9623b89edf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655373819
+        }
+    ],
     "wof:id":655373819,
-    "wof:lastmodified":1466674885,
+    "wof:lastmodified":1492061675,
     "wof:name":"On Target Staffing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

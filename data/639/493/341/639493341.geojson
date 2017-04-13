@@ -2,9 +2,14 @@
   "id": 639493341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Nottingham Dr Florham Park NJ 07932",
+    "addr:housenumber":"2",
+    "addr:postcode":"07932",
+    "addr:street":"Nottingham Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.376113,40.779123,-74.376113,40.779123",
     "geom:latitude":40.779123,
     "geom:longitude":-74.376113,
@@ -27,7 +32,14 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RxQxMgw78xw0PGhjgGB7G_40.779123_-74.376113@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297150,
     "wof:geomhash":"de5d70f185afce3522adfe19c3443269",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639493341
+        }
+    ],
     "wof:id":639493341,
-    "wof:lastmodified":1466694607,
+    "wof:lastmodified":1492041570,
     "wof:name":"PMD Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

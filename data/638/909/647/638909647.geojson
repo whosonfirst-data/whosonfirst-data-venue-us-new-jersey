@@ -2,9 +2,14 @@
   "id": 638909647,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Pine Blvd Lakewood NJ 08701",
+    "addr:housenumber":"26",
+    "addr:postcode":"08701",
+    "addr:street":"Pine Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.219931,40.065641,-74.219931,40.065641",
     "geom:latitude":40.065641,
     "geom:longitude":-74.219931,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.diagnostichealth.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nPTPGzbtylptaRPF1jZQ8_40.065641_-74.219931@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282989,
     "wof:geomhash":"6f28cf11782a0ed55f348b828b114615",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":638909647
+        }
+    ],
     "wof:id":638909647,
-    "wof:lastmodified":1466690291,
+    "wof:lastmodified":1492048487,
     "wof:name":"Diagnostic Health Systems Inc",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

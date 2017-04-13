@@ -2,9 +2,14 @@
   "id": 639291535,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"400",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.215854,40.901463,-74.215854,40.901463",
     "geom:latitude":40.901463,
     "geom:longitude":-74.215854,
@@ -27,7 +32,15 @@
         "florist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527479,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n9orWOrzB0xV8MHjGhcRx_40.901463_-74.215854@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461291800,
     "wof:geomhash":"52a4497d17f3614becf6b6c17f389fa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "neighbourhood_id":420527479,
+            "region_id":85688607,
+            "venue_id":639291535
+        }
+    ],
     "wof:id":639291535,
-    "wof:lastmodified":1466691179,
+    "wof:lastmodified":1492028364,
     "wof:name":"Fairfield Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

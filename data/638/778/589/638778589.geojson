@@ -2,9 +2,14 @@
   "id": 638778589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1374 Roger Ave Bridgewater NJ 08807",
+    "addr:housenumber":"1374",
+    "addr:postcode":"08807",
+    "addr:street":"Roger Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.613777,40.635144,-74.613777,40.635144",
     "geom:latitude":40.635144,
     "geom:longitude":-74.613777,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DQ1BLgi8ozkzXJuCVSouF_40.635144_-74.613777@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279774,
     "wof:geomhash":"04e0e4d71bd60478d6bf24b0a8376a5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":638778589
+        }
+    ],
     "wof:id":638778589,
-    "wof:lastmodified":1466682611,
+    "wof:lastmodified":1492024342,
     "wof:name":"The Case Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

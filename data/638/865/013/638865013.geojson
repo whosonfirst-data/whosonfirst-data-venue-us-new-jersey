@@ -2,9 +2,14 @@
   "id": 638865013,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 School House Rd Pittstown NJ 08867",
+    "addr:housenumber":"124",
+    "addr:postcode":"08867",
+    "addr:street":"School House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023601,40.575448,-75.023601,40.575448",
     "geom:latitude":40.575448,
     "geom:longitude":-75.023601,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vZIIacfiA9FnbmlMf90Bb_40.575448_-75.023601@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461281859,
     "wof:geomhash":"86d900b133de8e4f21e81ed9d4d9d23d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":638865013
+        }
+    ],
     "wof:id":638865013,
-    "wof:lastmodified":1466689473,
+    "wof:lastmodified":1492043272,
     "wof:name":"Reid Norwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

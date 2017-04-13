@@ -2,9 +2,14 @@
   "id": 639161221,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 South St Andover NJ 07821",
+    "addr:housenumber":"93",
+    "addr:postcode":"07821",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.838036,40.960419,-74.838036,40.960419",
     "geom:latitude":40.960419,
     "geom:longitude":-74.838036,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477593,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hi8Ewqh71N6t5nfEwTx1n_40.960419_-74.838036@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461288783,
     "wof:geomhash":"1316cc295956e52636ddace03b577d6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404477593,
+            "region_id":85688607,
+            "venue_id":639161221
+        }
+    ],
     "wof:id":639161221,
-    "wof:lastmodified":1466683303,
+    "wof:lastmodified":1492043952,
     "wof:name":"Terrace Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

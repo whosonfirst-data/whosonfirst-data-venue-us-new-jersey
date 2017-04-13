@@ -2,9 +2,14 @@
   "id": 638995405,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"711",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.226105,40.892926,-74.226105,40.892926",
     "geom:latitude":40.892926,
     "geom:longitude":-74.226105,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.njfcu.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FzTpHxtFGqrJKFpEwaCQA_40.892926_-74.226105@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461285016,
     "wof:geomhash":"7c332a1a8f79699d0d0767e7a03760e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":638995405
+        }
+    ],
     "wof:id":638995405,
-    "wof:lastmodified":1466692199,
+    "wof:lastmodified":1492041296,
     "wof:name":"North Jersey Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

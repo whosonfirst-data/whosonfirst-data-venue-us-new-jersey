@@ -2,9 +2,14 @@
   "id": 655451039,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 N Union St Lambertville NJ 08530",
+    "addr:housenumber":"39",
+    "addr:postcode":"08530",
+    "addr:street":"N Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945356,40.367079,-74.945356,40.367079",
     "geom:latitude":40.367079,
     "geom:longitude":-74.945356,
@@ -27,7 +32,14 @@
         "confectionery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EWYH7mypJvo2gM59135h0_40.367079_-74.945356@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306745,
     "wof:geomhash":"f39ee35389c08ecd71c86be68dee7470",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":655451039
+        }
+    ],
     "wof:id":655451039,
-    "wof:lastmodified":1466676771,
+    "wof:lastmodified":1492028665,
     "wof:name":"Chocolate Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655625901,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 E Madison Ave Cresskill NJ 07626",
+    "addr:housenumber":"29",
+    "addr:postcode":"07626",
+    "addr:street":"E Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960668,40.940463,-73.960668,40.940463",
     "geom:latitude":40.940463,
     "geom:longitude":-73.960668,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m2JaP6Dad7IiaKLkIAymM_40.940463_-73.960668@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314150,
     "wof:geomhash":"29bbcb539037456e35131aadf09f9db6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655625901
+        }
+    ],
     "wof:id":655625901,
-    "wof:lastmodified":1466682071,
+    "wof:lastmodified":1492048550,
     "wof:name":"Adriana Correa DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

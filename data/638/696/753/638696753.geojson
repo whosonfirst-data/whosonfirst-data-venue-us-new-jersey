@@ -2,9 +2,14 @@
   "id": 638696753,
   "type": "Feature",
   "properties": {
+    "addr:full":"171 Jersey St Trenton NJ 08611",
+    "addr:housenumber":"171",
+    "addr:postcode":"08611",
+    "addr:street":"Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751108,40.202648,-74.751108,40.202648",
     "geom:latitude":40.202648,
     "geom:longitude":-74.751108,
@@ -27,7 +32,14 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nMRtGaI1qDUCoD2iqGGZJ_40.202648_-74.751108@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461277418,
     "wof:geomhash":"de91f74d6936d41c368c496885df4f62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638696753
+        }
+    ],
     "wof:id":638696753,
-    "wof:lastmodified":1466688462,
+    "wof:lastmodified":1492082105,
     "wof:name":"Superior Court-Probate-Wills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

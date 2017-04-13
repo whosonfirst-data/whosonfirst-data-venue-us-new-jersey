@@ -2,9 +2,14 @@
   "id": 639154427,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Tansy Ct Bedminster NJ 07921",
+    "addr:housenumber":"39",
+    "addr:postcode":"07921",
+    "addr:street":"Tansy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.640771,40.651974,-74.640771,40.651974",
     "geom:latitude":40.651974,
     "geom:longitude":-74.640771,
@@ -27,7 +32,13 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477909,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07xSxvUZJ1QmIelpWitXZu_40.651974_-74.640771@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288623,
     "wof:geomhash":"d69a0c00567714688999637efda15523",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477909,
+            "region_id":85688607,
+            "venue_id":639154427
+        }
+    ],
     "wof:id":639154427,
-    "wof:lastmodified":1466682024,
+    "wof:lastmodified":1492080185,
     "wof:name":"Transmission Network Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

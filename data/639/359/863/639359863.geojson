@@ -2,9 +2,14 @@
   "id": 639359863,
   "type": "Feature",
   "properties": {
+    "addr:full":"639 Oak Glen Rd Howell NJ 07731",
+    "addr:housenumber":"639",
+    "addr:postcode":"07731",
+    "addr:street":"Oak Glen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.185544,40.126998,-74.185544,40.126998",
     "geom:latitude":40.126998,
     "geom:longitude":-74.185544,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RvVfXtbvgrcKauDgaevmB_40.126998_-74.185544@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293226,
     "wof:geomhash":"1811f9b23ea4a44c0a6a2cbf93db9dcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "region_id":85688607,
+            "venue_id":639359863
+        }
+    ],
     "wof:id":639359863,
-    "wof:lastmodified":1466692601,
+    "wof:lastmodified":1492049690,
     "wof:name":"August Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

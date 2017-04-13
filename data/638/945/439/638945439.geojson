@@ -2,9 +2,14 @@
   "id": 638945439,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Oak Ridge Caldwell NJ 07006",
+    "addr:housenumber":"6",
+    "addr:postcode":"07006",
+    "addr:street":"Oak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250285,40.87412,-74.250285,40.87412",
     "geom:latitude":40.87412,
     "geom:longitude":-74.250285,
@@ -33,7 +38,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NDR5Og7UZ4MstgMA1SKXG_40.874120_-74.250285@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461283933,
     "wof:geomhash":"b39797f550f4c2b91eeed671db832493",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":638945439
+        }
+    ],
     "wof:id":638945439,
-    "wof:lastmodified":1466691365,
+    "wof:lastmodified":1492030670,
     "wof:name":"Polkarobics Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639474091,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"55",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143871,40.025086,-74.143871,40.025086",
     "geom:latitude":40.025086,
     "geom:longitude":-74.143871,
@@ -27,7 +32,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KRc6KnA16wnUzme4tyUU0_40.025086_-74.143871@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296362,
     "wof:geomhash":"e70ae5c0f95b2ccc5381e119bae515f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":639474091
+        }
+    ],
     "wof:id":639474091,
-    "wof:lastmodified":1466694125,
+    "wof:lastmodified":1492045210,
     "wof:name":"Eastside Bagel",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

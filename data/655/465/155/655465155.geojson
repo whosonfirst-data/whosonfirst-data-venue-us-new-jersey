@@ -2,9 +2,14 @@
   "id": 655465155,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Morningside Ave Fairview NJ 07022",
+    "addr:housenumber":"428",
+    "addr:postcode":"07022",
+    "addr:street":"Morningside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.997397,40.820891,-73.997397,40.820891",
     "geom:latitude":40.820891,
     "geom:longitude":-73.997397,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H5byo2VQrhjFlpwqXJjw2_40.820891_-73.997397@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307385,
     "wof:geomhash":"635903397b2029e9f0707cf7de5def3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655465155
+        }
+    ],
     "wof:id":655465155,
-    "wof:lastmodified":1466677076,
+    "wof:lastmodified":1492045077,
     "wof:name":"Taytrix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639383801,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Palmer Rd Denville NJ 07834",
+    "addr:housenumber":"324",
+    "addr:postcode":"07834",
+    "addr:street":"Palmer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517366,40.879477,-74.517366,40.879477",
     "geom:latitude":40.879477,
     "geom:longitude":-74.517366,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85820557,
+        102087413,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KxZ4enZMSKzoKVgh8u3VW_40.879477_-74.517366@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461293720,
     "wof:geomhash":"b908287dbd28665f6585cb02252a7e70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85820557,
+            "region_id":85688607,
+            "venue_id":639383801
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639383801
+        }
+    ],
     "wof:id":639383801,
-    "wof:lastmodified":1466692834,
+    "wof:lastmodified":1492064869,
     "wof:name":"M J Woetzel Landscape Services",
-    "wof:parent_id":420527323,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

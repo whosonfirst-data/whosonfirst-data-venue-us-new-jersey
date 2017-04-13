@@ -2,9 +2,14 @@
   "id": 655385093,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Asbury Anderson Rd Asbury NJ 08802",
+    "addr:housenumber":"215",
+    "addr:postcode":"08802",
+    "addr:street":"Asbury Anderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.998621,40.711306,-74.998621,40.711306",
     "geom:latitude":40.711306,
     "geom:longitude":-74.998621,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kgKVc8kRSpCNv9mSb9QIx_40.711306_-74.998621@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461303996,
     "wof:geomhash":"f08fb489d2c00edf0dd14d81ae9d98ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655385093
+        }
+    ],
     "wof:id":655385093,
-    "wof:lastmodified":1466674969,
+    "wof:lastmodified":1492036420,
     "wof:name":"Gares Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

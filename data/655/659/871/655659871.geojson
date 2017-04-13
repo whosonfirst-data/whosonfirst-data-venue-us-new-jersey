@@ -2,9 +2,14 @@
   "id": 655659871,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Anderson Ave Fairview NJ 07022",
+    "addr:housenumber":"174",
+    "addr:postcode":"07022",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996696,40.814701,-73.996696,40.814701",
     "geom:latitude":40.814701,
     "geom:longitude":-73.996696,
@@ -30,7 +35,14 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13W0Cey7PdpYTwm7vGxJhs_40.814418_-73.996940@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461315611,
     "wof:geomhash":"a127c4b8d65f7809d1ef609fb0198c7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655659871
+        }
+    ],
     "wof:id":655659871,
-    "wof:lastmodified":1466683335,
+    "wof:lastmodified":1492019905,
     "wof:name":"Rome Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

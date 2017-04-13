@@ -2,9 +2,14 @@
   "id": 639324331,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 Great Smokey Ln Mahwah NJ 07430",
+    "addr:housenumber":"265",
+    "addr:postcode":"07430",
+    "addr:street":"Great Smokey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167517,41.08259,-74.167517,41.08259",
     "geom:latitude":41.08259,
     "geom:longitude":-74.167517,
@@ -27,7 +32,13 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cua54N14H3nlv3smPrLV8_41.082590_-74.167517@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461292486,
     "wof:geomhash":"efef732bf4c533d3d71aec6d98259d7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639324331
+        }
+    ],
     "wof:id":639324331,
-    "wof:lastmodified":1466691988,
+    "wof:lastmodified":1492021724,
     "wof:name":"Worldwide Book Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

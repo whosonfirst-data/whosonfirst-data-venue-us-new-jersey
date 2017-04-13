@@ -2,9 +2,14 @@
   "id": 655453995,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Houston Rd Little Falls NJ 07424",
+    "addr:housenumber":"107",
+    "addr:postcode":"07424",
+    "addr:street":"Houston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.209845,40.872237,-74.209845,40.872237",
     "geom:latitude":40.872237,
     "geom:longitude":-74.209845,
@@ -29,7 +34,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpZ690vdqfmgDmiVtniRK_40.872237_-74.209845@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461306867,
     "wof:geomhash":"bc6b4c8d8ab741ffa8d8fb456cc08145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655453995
+        }
+    ],
     "wof:id":655453995,
-    "wof:lastmodified":1466677034,
+    "wof:lastmodified":1492028635,
     "wof:name":"Peter Scerbak & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

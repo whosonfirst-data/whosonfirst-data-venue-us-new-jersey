@@ -2,9 +2,14 @@
   "id": 655648701,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Charleston Rd Willingboro NJ 08046",
+    "addr:housenumber":"43",
+    "addr:postcode":"08046",
+    "addr:street":"Charleston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901217,40.045161,-74.901217,40.045161",
     "geom:latitude":40.045161,
     "geom:longitude":-74.901217,
@@ -27,7 +32,10 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vw9tHhS3S5pUI4CUDCfNb_40.045161_-74.901217@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315127,
     "wof:geomhash":"976673e4e33108d5cd72f4f88fa25bf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655648701
+        }
+    ],
     "wof:id":655648701,
-    "wof:lastmodified":1466682915,
+    "wof:lastmodified":1492049100,
     "wof:name":"American Legion Post 516",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

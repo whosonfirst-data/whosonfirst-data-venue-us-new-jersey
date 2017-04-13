@@ -2,9 +2,14 @@
   "id": 638901451,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"108",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143765,40.029401,-74.143765,40.029401",
     "geom:latitude":40.029401,
     "geom:longitude":-74.143765,
@@ -32,7 +37,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34JUzTdcaveLVmMK4OdQiS_40.029401_-74.143765@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461282785,
     "wof:geomhash":"ad34ea6201ad51951665401f9033a8de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":638901451
+        }
+    ],
     "wof:id":638901451,
-    "wof:lastmodified":1466690155,
+    "wof:lastmodified":1492053277,
     "wof:name":"Mansion On The Plaza",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

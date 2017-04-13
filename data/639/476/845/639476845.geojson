@@ -2,9 +2,14 @@
   "id": 639476845,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 Morningside Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"243",
+    "addr:postcode":"07010",
+    "addr:street":"Morningside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.992343,40.818314,-73.992343,40.818314",
     "geom:latitude":40.818314,
     "geom:longitude":-73.992343,
@@ -33,7 +38,14 @@
         "more"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k8dHa014oFF4CgooQ33kk_40.818314_-73.992343@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461296471,
     "wof:geomhash":"170b27fbb5bc4e2d28c879c6fbe3ceca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639476845
+        }
+    ],
     "wof:id":639476845,
-    "wof:lastmodified":1466694296,
+    "wof:lastmodified":1492042494,
     "wof:name":"Istria Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

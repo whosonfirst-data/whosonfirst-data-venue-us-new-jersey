@@ -2,9 +2,14 @@
   "id": 639626695,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 Palisade Ave West New York NJ 07093",
+    "addr:housenumber":"6200",
+    "addr:postcode":"07093",
+    "addr:street":"Palisade Ave West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.011785,40.790772,-74.011785,40.790772",
     "geom:latitude":40.790772,
     "geom:longitude":-74.011785,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85836607,
+        102191575,
+        404477447,
         85633793,
-        85892533,
-        102080719
+        85975291,
+        102080719,
+        85688607,
+        85826425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +48,27 @@
     "wof:geomhash":"fee2fa4070400aad01041d35a16374e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080719,
-            "neighbourhood_id":85892533,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85836607,
+            "region_id":85688607,
+            "venue_id":639626695
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080719,
+            "neighbourhood_id":85826425,
             "region_id":85688607,
             "venue_id":639626695
         }
     ],
     "wof:id":639626695,
-    "wof:lastmodified":1466697561,
+    "wof:lastmodified":1492056367,
     "wof:name":"Mexico Grocery",
-    "wof:parent_id":85892533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

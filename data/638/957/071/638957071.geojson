@@ -2,9 +2,14 @@
   "id": 638957071,
   "type": "Feature",
   "properties": {
+    "addr:full":"576 Jaques Ave Rahway NJ 07065",
+    "addr:housenumber":"576",
+    "addr:postcode":"07065",
+    "addr:street":"Jaques Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.287746,40.598813,-74.287746,40.598813",
     "geom:latitude":40.598813,
     "geom:longitude":-74.287746,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YlZiN2pRQdd7ZA6tgaXBc_40.598813_-74.287746@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284188,
     "wof:geomhash":"c89413c5b9bf6dc3973911c18afb8964",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":638957071
+        }
+    ],
     "wof:id":638957071,
-    "wof:lastmodified":1466691458,
+    "wof:lastmodified":1492024141,
     "wof:name":"LMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639556077,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Greenmount Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"222",
+    "addr:postcode":"07010",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.988638,40.821873,-73.988638,40.821873",
     "geom:latitude":40.821873,
     "geom:longitude":-73.988638,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f83q4riFfPY4kRasdkdZ5_40.821873_-73.988638@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461299984,
     "wof:geomhash":"5e4b97cecf57bf4add8ff48c9924c7ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639556077
+        }
+    ],
     "wof:id":639556077,
-    "wof:lastmodified":1466695889,
+    "wof:lastmodified":1492049519,
     "wof:name":"Heart Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

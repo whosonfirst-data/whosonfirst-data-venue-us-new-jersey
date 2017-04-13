@@ -2,9 +2,14 @@
   "id": 639048059,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Old Turnpike Rd Port Murray NJ 07865",
+    "addr:housenumber":"199",
+    "addr:postcode":"07865",
+    "addr:street":"Old Turnpike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.881149,40.788813,-74.881149,40.788813",
     "geom:latitude":40.788813,
     "geom:longitude":-74.881149,
@@ -27,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iu0rll4h3isbIpTFau8kW_40.788813_-74.881149@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461286228,
     "wof:geomhash":"84b91be4c1ddeaf69e408c4beb16aec1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":639048059
+        }
+    ],
     "wof:id":639048059,
-    "wof:lastmodified":1466674142,
+    "wof:lastmodified":1492054502,
     "wof:name":"Betty Jo Manz",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

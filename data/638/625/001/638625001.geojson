@@ -2,9 +2,14 @@
   "id": 638625001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 New York Ave Union City NJ 07087",
+    "addr:housenumber":"1301",
+    "addr:postcode":"07087",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.035426,40.760509,-74.035426,40.760509",
     "geom:latitude":40.760509,
     "geom:longitude":-74.035426,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892529,
+        102080719,
         85892537,
         102191575,
         404478137,
-        85633793,
-        85975297,
-        102080719,
-        85688607
+        85975297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461275066,
     "wof:geomhash":"434e55e5ae3956d4105ea8516bb50318",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080719,
+            "neighbourhood_id":85892529,
+            "region_id":85688607,
+            "venue_id":638625001
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":638625001,
-    "wof:lastmodified":1466688817,
+    "wof:lastmodified":1492068546,
     "wof:name":"Jose Antonio Reyes",
-    "wof:parent_id":85892537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

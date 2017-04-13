@@ -2,9 +2,14 @@
   "id": 639552469,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"33",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.29731,40.618801,-74.29731,40.618801",
     "geom:latitude":40.618801,
     "geom:longitude":-74.29731,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bPClaQlr2JMVV532lOy4A_40.618801_-74.297310@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461299852,
     "wof:geomhash":"2537d29e82f004294322beb33f32db5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639552469
+        }
+    ],
     "wof:id":639552469,
-    "wof:lastmodified":1466695904,
+    "wof:lastmodified":1492049675,
     "wof:name":"Hairport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

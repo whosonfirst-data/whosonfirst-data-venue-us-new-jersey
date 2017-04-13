@@ -2,9 +2,14 @@
   "id": 639292525,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Stevenson Pl Kearny NJ 07032",
+    "addr:housenumber":"22",
+    "addr:postcode":"07032",
+    "addr:street":"Stevenson Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.152275,40.772171,-74.152275,40.772171",
     "geom:latitude":40.772171,
     "geom:longitude":-74.152275,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uy4292T4u3VV3Dt1ZWL18_40.772171_-74.152275@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461291817,
     "wof:geomhash":"f54959674bbcc875a2a7b467c8378a77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":639292525
+        }
+    ],
     "wof:id":639292525,
-    "wof:lastmodified":1466691178,
+    "wof:lastmodified":1492070588,
     "wof:name":"Riva Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

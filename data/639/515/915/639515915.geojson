@@ -2,9 +2,14 @@
   "id": 639515915,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 John E Busch Ave Somerset NJ 08873",
+    "addr:housenumber":"69",
+    "addr:postcode":"08873",
+    "addr:street":"John E Busch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.506033,40.528775,-74.506033,40.528775",
     "geom:latitude":40.528775,
     "geom:longitude":-74.506033,
@@ -27,7 +32,14 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lmL8yQBPhJWFuF4dPmASn_40.528775_-74.506033@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298113,
     "wof:geomhash":"9fe97381f2432bcba5d80dcfcb6836bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639515915
+        }
+    ],
     "wof:id":639515915,
-    "wof:lastmodified":1466695143,
+    "wof:lastmodified":1492042400,
     "wof:name":"Portraits By Dana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

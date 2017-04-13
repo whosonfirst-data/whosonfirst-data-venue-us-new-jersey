@@ -2,9 +2,14 @@
   "id": 655833351,
   "type": "Feature",
   "properties": {
+    "addr:full":"875 State Rd Princeton NJ 08540",
+    "addr:housenumber":"875",
+    "addr:postcode":"08540",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.654572,40.390541,-74.654572,40.390541",
     "geom:latitude":40.390541,
     "geom:longitude":-74.654572,
@@ -30,7 +35,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NPltzPsi5eti35MQvxKp7_40.390541_-74.654572@1303262281"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461322799,
     "wof:geomhash":"b8386e490a2ea2b41211f70cc8d75682",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655833351
+        }
+    ],
     "wof:id":655833351,
-    "wof:lastmodified":1466687730,
+    "wof:lastmodified":1492070370,
     "wof:name":"Princeton Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

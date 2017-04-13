@@ -2,9 +2,14 @@
   "id": 638686339,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"41",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620951,40.300713,-74.620951,40.300713",
     "geom:latitude":40.300713,
     "geom:longitude":-74.620951,
@@ -24,7 +29,10 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iI14DEjm3PASzXKoD5Wob_40.300713_-74.620951@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461276983,
     "wof:geomhash":"fbce5ecf154ee447e90cf4dcbdb039e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":638686339
+        }
+    ],
     "wof:id":638686339,
-    "wof:lastmodified":1466688221,
+    "wof:lastmodified":1492020012,
     "wof:name":"Chicken Holiday",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

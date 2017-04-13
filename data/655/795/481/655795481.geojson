@@ -2,9 +2,14 @@
   "id": 655795481,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 James St Florham Park NJ 07932",
+    "addr:housenumber":"3",
+    "addr:postcode":"07932",
+    "addr:street":"James St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.386785,40.788672,-74.386785,40.788672",
     "geom:latitude":40.788672,
     "geom:longitude":-74.386785,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yTLb8VPayq0t2057cLoDk_40.788672_-74.386785@1303262272"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461321191,
     "wof:geomhash":"fed40cd7f7740569fe37497676b17fee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":655795481
+        }
+    ],
     "wof:id":655795481,
-    "wof:lastmodified":1466686874,
+    "wof:lastmodified":1492026824,
     "wof:name":"Little Duck Day School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

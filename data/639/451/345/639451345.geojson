@@ -2,9 +2,14 @@
   "id": 639451345,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 US Hwy 206 Newton NJ 07860",
+    "addr:housenumber":"565",
+    "addr:postcode":"07860",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.766381,41.013442,-74.766381,41.013442",
     "geom:latitude":41.013442,
     "geom:longitude":-74.766381,
@@ -27,7 +32,10 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527657
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G4gwUrcVXpHALJOmzBDPd_41.013442_-74.766381@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295473,
     "wof:geomhash":"86d570382055a5b6b920efee4e63cd36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527657,
+            "venue_id":639451345
+        }
+    ],
     "wof:id":639451345,
-    "wof:lastmodified":1466693705,
+    "wof:lastmodified":1492042437,
     "wof:name":"Sussex County Strawberry Farm",
     "wof:parent_id":420527657,
     "wof:placetype":"venue",

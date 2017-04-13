@@ -2,9 +2,14 @@
   "id": 655795453,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Roosevelt Blvd Florham Park NJ 07932",
+    "addr:housenumber":"115",
+    "addr:postcode":"07932",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.391998,40.770699,-74.391998,40.770699",
     "geom:latitude":40.770699,
     "geom:longitude":-74.391998,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZtTqyFdgtmbr568aFEAmo_40.770699_-74.391998@1303262272"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461321190,
     "wof:geomhash":"08a9b467cce3e21c564da9a710df98a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":655795453
+        }
+    ],
     "wof:id":655795453,
-    "wof:lastmodified":1466686867,
+    "wof:lastmodified":1492045935,
     "wof:name":"Guerriero Bill Driveway Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

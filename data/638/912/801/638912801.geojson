@@ -2,9 +2,14 @@
   "id": 638912801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Salem Rd Willingboro NJ 08046",
+    "addr:housenumber":"1000",
+    "addr:postcode":"08046",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878729,40.044821,-74.878729,40.044821",
     "geom:latitude":40.044821,
     "geom:longitude":-74.878729,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y354AM0NJXROHAUHiaN2J_40.044821_-74.878729@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283070,
     "wof:geomhash":"d54d6cf3d6944ce5f030e87efbce3964",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":638912801
+        }
+    ],
     "wof:id":638912801,
-    "wof:lastmodified":1466690101,
+    "wof:lastmodified":1492028498,
     "wof:name":"Urology Healthcare",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

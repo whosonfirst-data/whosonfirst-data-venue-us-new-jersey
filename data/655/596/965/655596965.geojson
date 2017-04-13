@@ -2,9 +2,14 @@
   "id": 655596965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1048 Kilsyth Rd Elizabeth NJ 07208",
+    "addr:housenumber":"1048",
+    "addr:postcode":"07208",
+    "addr:street":"Kilsyth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.208909,40.687527,-74.208909,40.687527",
     "geom:latitude":40.687527,
     "geom:longitude":-74.208909,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZBZ5UIXOaA6KNQNrP9pjG_40.687527_-74.208909@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312881,
     "wof:geomhash":"86013ca219153f7e0efcdf409e3b657f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655596965
+        }
+    ],
     "wof:id":655596965,
-    "wof:lastmodified":1466681049,
+    "wof:lastmodified":1492052249,
     "wof:name":"Quest Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

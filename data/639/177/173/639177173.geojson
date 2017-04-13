@@ -2,9 +2,14 @@
   "id": 639177173,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Kennedy Rd Andover NJ 07821",
+    "addr:housenumber":"33",
+    "addr:postcode":"07821",
+    "addr:street":"Kennedy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.801553,40.949527,-74.801553,40.949527",
     "geom:latitude":40.949527,
     "geom:longitude":-74.801553,
@@ -33,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478461,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Us7St5sYk3X0nFt7wPn4t_40.949527_-74.801553@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461289129,
     "wof:geomhash":"9bc82245eb66dbf72090b640a7cd6219",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478461,
+            "region_id":85688607,
+            "venue_id":639177173
+        }
+    ],
     "wof:id":639177173,
-    "wof:lastmodified":1466685442,
+    "wof:lastmodified":1492050695,
     "wof:name":"Trace Environmental Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

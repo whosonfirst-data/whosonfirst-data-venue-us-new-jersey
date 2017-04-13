@@ -2,9 +2,14 @@
   "id": 638806539,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Riggs Pl South Orange NJ 07079",
+    "addr:housenumber":"27",
+    "addr:postcode":"07079",
+    "addr:street":"Riggs Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.252288,40.744456,-74.252288,40.744456",
     "geom:latitude":40.744456,
     "geom:longitude":-74.252288,
@@ -28,7 +33,10 @@
         "offset"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EIdVPhquG0BYHDgyLeafx_40.744456_-74.252288@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280369,
     "wof:geomhash":"5e01e1fe049cbd4edf2d978b6280e9df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":638806539
+        }
+    ],
     "wof:id":638806539,
-    "wof:lastmodified":1466686451,
+    "wof:lastmodified":1492029658,
     "wof:name":"Parker Business Communications",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

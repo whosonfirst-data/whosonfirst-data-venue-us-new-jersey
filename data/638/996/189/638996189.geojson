@@ -2,9 +2,14 @@
   "id": 638996189,
   "type": "Feature",
   "properties": {
+    "addr:full":"686 Mountain Ave Berkeley Heights NJ 07922",
+    "addr:housenumber":"686",
+    "addr:postcode":"07922",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.433601,40.668641,-74.433601,40.668641",
     "geom:latitude":40.668641,
     "geom:longitude":-74.433601,
@@ -27,7 +32,12 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892331,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S2vzLGrLLUNnKyEseDVl1_40.668641_-74.433601@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461285031,
     "wof:geomhash":"32631f7db7c8355b7c4a3cda74269fa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892331,
+            "region_id":85688607,
+            "venue_id":638996189
+        }
+    ],
     "wof:id":638996189,
-    "wof:lastmodified":1466692189,
+    "wof:lastmodified":1492076958,
     "wof:name":"Bjorkeson Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

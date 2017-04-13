@@ -2,9 +2,14 @@
   "id": 639577141,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Elm St Allendale NJ 07401",
+    "addr:housenumber":"17",
+    "addr:postcode":"07401",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126331,41.031341,-74.126331,41.031341",
     "geom:latitude":41.031341,
     "geom:longitude":-74.126331,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85892569,
+        102086773,
         420526547,
         102191575,
         404477743,
-        85633793,
-        85975897,
-        102086773,
-        85688607
+        85975897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461300789,
     "wof:geomhash":"7db307d068f28778eb0ab7fa8db05f2c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85892569,
+            "region_id":85688607,
+            "venue_id":639577141
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":639577141,
-    "wof:lastmodified":1466696390,
+    "wof:lastmodified":1492022094,
     "wof:name":"Spectrum Infrared Services Inc",
-    "wof:parent_id":420526547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

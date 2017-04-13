@@ -2,9 +2,14 @@
   "id": 655563795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 State Rte 88 Brick NJ 08724",
+    "addr:housenumber":"1451",
+    "addr:postcode":"08724",
+    "addr:street":"State Rte 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147364,40.082503,-74.147364,40.082503",
     "geom:latitude":40.082503,
     "geom:longitude":-74.147364,
@@ -29,7 +34,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ef8P5CPuLbTzdPn0e3I4K_40.082503_-74.147364@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461311446,
     "wof:geomhash":"f3388b52c40d9314df3ee197aaa6fc3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655563795
+        }
+    ],
     "wof:id":655563795,
-    "wof:lastmodified":1466679885,
+    "wof:lastmodified":1492045261,
     "wof:name":"Olympic Garden Associates",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

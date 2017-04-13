@@ -2,9 +2,14 @@
   "id": 655375621,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 Co Rd 625 Hampton NJ 08827",
+    "addr:housenumber":"723;625",
+    "addr:postcode":"08827",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.98322,40.613883,-74.98322,40.613883",
     "geom:latitude":40.613883,
     "geom:longitude":-74.98322,
@@ -24,7 +29,12 @@
     "sg:postcode":"08827",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85840889,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XtmrriUCsr7sRM8QUXt0G_40.613883_-74.983220@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461303645,
     "wof:geomhash":"bf61cd8eec3192bf69a1c7f68c6e6957",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85840889,
+            "region_id":85688607,
+            "venue_id":655375621
+        }
+    ],
     "wof:id":655375621,
-    "wof:lastmodified":1466674845,
+    "wof:lastmodified":1492053541,
     "wof:name":"New Jersey Gryhnd Adptn Prgrm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

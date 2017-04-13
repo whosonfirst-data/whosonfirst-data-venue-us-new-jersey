@@ -2,9 +2,14 @@
   "id": 655534783,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Brown St Washington NJ 07882",
+    "addr:housenumber":"35",
+    "addr:postcode":"07882",
+    "addr:street":"Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978512,40.760839,-74.978512,40.760839",
     "geom:latitude":40.760839,
     "geom:longitude":-74.978512,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zvapCQ04uZQXxyS3BZTi3_40.760839_-74.978512@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461310233,
     "wof:geomhash":"562f2ab30d75ff875f233b99233a6759",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655534783
+        }
+    ],
     "wof:id":655534783,
-    "wof:lastmodified":1466679154,
+    "wof:lastmodified":1492057542,
     "wof:name":"Network Transportation Systems",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

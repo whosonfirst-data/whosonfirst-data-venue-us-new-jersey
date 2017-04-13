@@ -2,9 +2,14 @@
   "id": 638853665,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Framingham Rd Beverly NJ 08010",
+    "addr:housenumber":"13",
+    "addr:postcode":"08010",
+    "addr:street":"Framingham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.923106,40.042654,-74.923106,40.042654",
     "geom:latitude":40.042654,
     "geom:longitude":-74.923106,
@@ -31,7 +36,10 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53hhjG4I2FPyYnc2YQXXGU_40.042654_-74.923106@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461281604,
     "wof:geomhash":"e0711a969e89b8b3f3398b13d124f06a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":638853665
+        }
+    ],
     "wof:id":638853665,
-    "wof:lastmodified":1466689114,
+    "wof:lastmodified":1492082188,
     "wof:name":"Framingham Floors LLC",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

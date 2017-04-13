@@ -2,9 +2,14 @@
   "id": 638835281,
   "type": "Feature",
   "properties": {
+    "addr:full":"913 Stuyvesant Ave Irvington NJ 07111",
+    "addr:housenumber":"913",
+    "addr:postcode":"07111",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.246219,40.718157,-74.246219,40.718157",
     "geom:latitude":40.718157,
     "geom:longitude":-74.246219,
@@ -27,7 +32,13 @@
         "religious"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76xdS8400KUyAxssDrvgtR_40.718157_-74.246219@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461281117,
     "wof:geomhash":"7383c717f046a83fb14d30bfad944297",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638835281
+        }
+    ],
     "wof:id":638835281,
-    "wof:lastmodified":1466688995,
+    "wof:lastmodified":1492029666,
     "wof:name":"Holy Dove Christian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

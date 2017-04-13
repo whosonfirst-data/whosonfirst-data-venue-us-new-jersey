@@ -2,9 +2,14 @@
   "id": 638818621,
   "type": "Feature",
   "properties": {
+    "addr:full":"562 State Rte 72 Barnegat NJ 08005",
+    "addr:housenumber":"562",
+    "addr:postcode":"08005",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.368946,39.79364,-74.368946,39.79364",
     "geom:latitude":39.79364,
     "geom:longitude":-74.368946,
@@ -28,7 +33,13 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477823,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E6JAAypqWgUcNP81iftQQ_39.793640_-74.368946@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461280670,
     "wof:geomhash":"04ffe3bb5d08d5aa46867eef6b92a0bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477823,
+            "region_id":85688607,
+            "venue_id":638818621
+        }
+    ],
     "wof:id":638818621,
-    "wof:lastmodified":1466687937,
+    "wof:lastmodified":1492071374,
     "wof:name":"Southsid Carting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

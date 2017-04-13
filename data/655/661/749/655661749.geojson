@@ -2,9 +2,14 @@
   "id": 655661749,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Buckingham Dr Willingboro NJ 08046",
+    "addr:housenumber":"110",
+    "addr:postcode":"08046",
+    "addr:street":"Buckingham Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.88289,40.040763,-74.88289,40.040763",
     "geom:latitude":40.040763,
     "geom:longitude":-74.88289,
@@ -29,7 +34,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LmEEBowPBhYPDiiME7BVt_40.040336_-74.883548@1293134755"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461315683,
     "wof:geomhash":"f31ef3132515f78d4ed1c7b397878202",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655661749
+        }
+    ],
     "wof:id":655661749,
-    "wof:lastmodified":1466683314,
+    "wof:lastmodified":1492028499,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

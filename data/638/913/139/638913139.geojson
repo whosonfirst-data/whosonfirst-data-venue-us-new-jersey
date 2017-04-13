@@ -2,9 +2,14 @@
   "id": 638913139,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 Jewell St Garfield NJ 07026",
+    "addr:housenumber":"144",
+    "addr:postcode":"07026",
+    "addr:street":"Jewell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120222,40.885119,-74.120222,40.885119",
     "geom:latitude":40.885119,
     "geom:longitude":-74.120222,
@@ -27,7 +32,14 @@
         "engineering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JQPJvJYrvduYljfZK9Tf4_40.885119_-74.120222@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283078,
     "wof:geomhash":"b1deae44aec6965c53978ff13be7bd71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":638913139
+        }
+    ],
     "wof:id":638913139,
-    "wof:lastmodified":1466690147,
+    "wof:lastmodified":1492047475,
     "wof:name":"G B Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

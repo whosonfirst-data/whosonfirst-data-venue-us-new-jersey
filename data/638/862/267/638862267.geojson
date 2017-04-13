@@ -2,9 +2,14 @@
   "id": 638862267,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Cherry St S Bound Brook NJ 08880",
+    "addr:housenumber":"30",
+    "addr:postcode":"08880",
+    "addr:street":"Cherry St S Bound",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526648,40.554754,-74.526648,40.554754",
     "geom:latitude":40.554754,
     "geom:longitude":-74.526648,
@@ -35,7 +40,14 @@
         "molding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kbNsFRRLpugaSAs7VTyZn_40.554754_-74.526648@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461281803,
     "wof:geomhash":"cdc45360c4d268e550a157cb2979af65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":638862267
+        }
+    ],
     "wof:id":638862267,
-    "wof:lastmodified":1466689447,
+    "wof:lastmodified":1492042961,
     "wof:name":"Tri Tech Tool & Design Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

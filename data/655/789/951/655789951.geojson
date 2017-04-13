@@ -2,9 +2,14 @@
   "id": 655789951,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 E Clinton St Newton NJ 07860",
+    "addr:housenumber":"6",
+    "addr:postcode":"07860",
+    "addr:street":"E Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750656,41.060483,-74.750656,41.060483",
     "geom:latitude":41.060483,
     "geom:longitude":-74.750656,
@@ -34,7 +39,10 @@
     "sg:postcode":"07860",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BH3CuOw38Rve8BEMpxwih_41.060483_-74.750656@1303262270"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461320976,
     "wof:geomhash":"4d56ef703aff579a97dde19913db1b3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789951
+        }
+    ],
     "wof:id":655789951,
-    "wof:lastmodified":1466686763,
+    "wof:lastmodified":1492070867,
     "wof:name":"Shear Expression",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

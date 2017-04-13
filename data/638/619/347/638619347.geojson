@@ -2,9 +2,14 @@
   "id": 638619347,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Renee Ct Forked River NJ 08731",
+    "addr:housenumber":"9",
+    "addr:postcode":"08731",
+    "addr:street":"Renee Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.17973,39.839929,-74.17973,39.839929",
     "geom:latitude":39.839929,
     "geom:longitude":-74.17973,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LakwMZz25FfgR2kyI9S0z_39.839929_-74.179730@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461274895,
     "wof:geomhash":"333420cb5656ce83d64ac935c583472a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527429,
+            "venue_id":638619347
+        }
+    ],
     "wof:id":638619347,
-    "wof:lastmodified":1466672942,
+    "wof:lastmodified":1492062528,
     "wof:name":"All Temp Mechanical Inc",
-    "wof:parent_id":420527383,
+    "wof:parent_id":420527429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655468123,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Village Dr Barnegat NJ 08005",
+    "addr:housenumber":"123",
+    "addr:postcode":"08005",
+    "addr:street":"Village Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243871,39.741898,-74.243871,39.741898",
     "geom:latitude":39.741898,
     "geom:longitude":-74.243871,
@@ -24,7 +29,10 @@
     "sg:postcode":"08005",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SZMXZN9HKrUfbYWh1nIYZ_39.741898_-74.243871@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461307509,
     "wof:geomhash":"bfe8844d8bb39bd366280f00d40b7ddc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":655468123
+        }
+    ],
     "wof:id":655468123,
-    "wof:lastmodified":1466677278,
+    "wof:lastmodified":1492053906,
     "wof:name":"Missys Cleaning",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

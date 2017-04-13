@@ -2,9 +2,14 @@
   "id": 639562225,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Elm St Branchburg NJ 08853",
+    "addr:housenumber":"100",
+    "addr:postcode":"08853",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.726863,40.509457,-74.726863,40.509457",
     "geom:latitude":40.509457,
     "geom:longitude":-74.726863,
@@ -32,7 +37,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57sxRnf1eljCvYm9Xtjsns_40.509457_-74.726863@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461300209,
     "wof:geomhash":"e9bcaad5c24c5874b210c25883c66a1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527621,
+            "venue_id":639562225
+        }
+    ],
     "wof:id":639562225,
-    "wof:lastmodified":1466696108,
+    "wof:lastmodified":1492025382,
     "wof:name":"Neshanic Flea Market",
     "wof:parent_id":420527621,
     "wof:placetype":"venue",

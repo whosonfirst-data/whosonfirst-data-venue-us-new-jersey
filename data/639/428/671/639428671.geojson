@@ -2,9 +2,14 @@
   "id": 639428671,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Spring Valley Rd Hardwick NJ 07825",
+    "addr:housenumber":"91",
+    "addr:postcode":"07825",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.918467,40.993485,-74.918467,40.993485",
     "geom:latitude":40.993485,
     "geom:longitude":-74.918467,
@@ -28,7 +33,12 @@
     ],
     "sg:website":"www.combineddriving.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85832493,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2igYxKyPMn5qJQKKrbE6Kd_40.993485_-74.918467@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461294888,
     "wof:geomhash":"02e4dbdfc157f02aef50e4291cc49a15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85832493,
+            "region_id":85688607,
+            "venue_id":639428671
+        }
+    ],
     "wof:id":639428671,
-    "wof:lastmodified":1466693319,
+    "wof:lastmodified":1492054556,
     "wof:name":"Carriage Corner",
-    "wof:parent_id":420558523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

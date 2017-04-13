@@ -2,9 +2,14 @@
   "id": 655764735,
   "type": "Feature",
   "properties": {
+    "addr:full":"164 Jacksonville Rd Pompton Plains NJ 07444",
+    "addr:housenumber":"164",
+    "addr:postcode":"07444",
+    "addr:street":"Jacksonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303101,40.9687,-74.303101,40.9687",
     "geom:latitude":40.9687,
     "geom:longitude":-74.303101,
@@ -27,7 +32,13 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477669,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S2r2HxPOH2gBqDRXu88xQ_40.968700_-74.303101@1303262264"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461319839,
     "wof:geomhash":"b4662b6ee12a1522f6bb5e2cc34a843a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477669,
+            "region_id":85688607,
+            "venue_id":655764735
+        }
+    ],
     "wof:id":655764735,
-    "wof:lastmodified":1466686012,
+    "wof:lastmodified":1492058418,
     "wof:name":"Netherlands Reformed Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

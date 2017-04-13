@@ -2,9 +2,14 @@
   "id": 638710501,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Ridgemont Dr Lanoka Harbor NJ 08734",
+    "addr:housenumber":"24",
+    "addr:postcode":"08734",
+    "addr:street":"Ridgemont Dr Lanoka",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.19546,39.868819,-74.19546,39.868819",
     "geom:latitude":39.868819,
     "geom:longitude":-74.19546,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527389
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jj1hthRVrUyzpozaYpFIJ_39.868819_-74.195460@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461277937,
     "wof:geomhash":"6d03e35838e14c33547a45d369e40e72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527389,
+            "venue_id":638710501
+        }
+    ],
     "wof:id":638710501,
-    "wof:lastmodified":1466688791,
+    "wof:lastmodified":1492062532,
     "wof:name":"A Slice of Country",
     "wof:parent_id":420527389,
     "wof:placetype":"venue",

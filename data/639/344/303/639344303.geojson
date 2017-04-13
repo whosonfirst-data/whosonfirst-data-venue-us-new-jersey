@@ -2,9 +2,14 @@
   "id": 639344303,
   "type": "Feature",
   "properties": {
+    "addr:full":"870 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"870",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.481452,40.488038,-74.481452,40.488038",
     "geom:latitude":40.488038,
     "geom:longitude":-74.481452,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L6fS0dfMnzJU2MsAnjpxr_40.488038_-74.481452@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292899,
     "wof:geomhash":"e608f956894a15541f0c080a4047db82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639344303
+        }
+    ],
     "wof:id":639344303,
-    "wof:lastmodified":1466692289,
+    "wof:lastmodified":1492042466,
     "wof:name":"Luxury Travel Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

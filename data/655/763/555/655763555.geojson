@@ -2,9 +2,14 @@
   "id": 655763555,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 State Rt 17 Mahwah NJ 07430",
+    "addr:housenumber":"375",
+    "addr:postcode":"07430",
+    "addr:street":"State Rt 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.151173,41.083581,-74.151173,41.083581",
     "geom:latitude":41.083581,
     "geom:longitude":-74.151173,
@@ -18,7 +23,13 @@
     "sg:postcode":"07430",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PlHzaV412QBgUlwrb2tnr_41.083581_-74.151173@1303262264"
@@ -26,9 +37,18 @@
     "wof:country":"US",
     "wof:created":1461319789,
     "wof:geomhash":"942adf5ffd1f4bdbd41df5bf57f98b2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763555
+        }
+    ],
     "wof:id":655763555,
-    "wof:lastmodified":1466685944,
+    "wof:lastmodified":1492058262,
     "wof:name":"State Line Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

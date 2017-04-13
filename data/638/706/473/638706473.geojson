@@ -2,9 +2,14 @@
   "id": 638706473,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Lackawanna Ave Totowa NJ 07512",
+    "addr:housenumber":"38",
+    "addr:postcode":"07512",
+    "addr:street":"Lackawanna Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220621,40.893421,-74.220621,40.893421",
     "geom:latitude":40.893421,
     "geom:longitude":-74.220621,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48izHMzRC6LOwZ3YwIMRJS_40.893421_-74.220621@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461277783,
     "wof:geomhash":"ee6d2af92435bc6cab0f8472d5166a09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":638706473
+        }
+    ],
     "wof:id":638706473,
-    "wof:lastmodified":1466688704,
+    "wof:lastmodified":1492076569,
     "wof:name":"Marc Gerard Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

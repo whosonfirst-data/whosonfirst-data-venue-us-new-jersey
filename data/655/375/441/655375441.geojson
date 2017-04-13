@@ -2,9 +2,14 @@
   "id": 655375441,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Chaucer Ln Medford NJ 08055",
+    "addr:housenumber":"24",
+    "addr:postcode":"08055",
+    "addr:street":"Chaucer Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.80402,39.913382,-74.80402,39.913382",
     "geom:latitude":39.913382,
     "geom:longitude":-74.80402,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57cuzCqXW7wyFtWncwiKbS_39.913382_-74.804020@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303639,
     "wof:geomhash":"b30cc028dedd7d1dc1c490950e3d54f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526561,
+            "venue_id":655375441
+        }
+    ],
     "wof:id":655375441,
-    "wof:lastmodified":1466674797,
+    "wof:lastmodified":1492025562,
     "wof:name":"Freedom Properties",
     "wof:parent_id":420526561,
     "wof:placetype":"venue",

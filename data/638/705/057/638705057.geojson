@@ -2,9 +2,14 @@
   "id": 638705057,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Hamilton Ave Lumberton NJ 08048",
+    "addr:housenumber":"505",
+    "addr:postcode":"08048",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.789074,39.974466,-74.789074,39.974466",
     "geom:latitude":39.974466,
     "geom:longitude":-74.789074,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85836783,
-        102087415
+        85811315,
+        102087415,
+        85836783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087415,
+            "neighbourhood_id":85811315,
+            "region_id":85688607,
+            "venue_id":638705057
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
             "neighbourhood_id":85836783,
             "region_id":85688607,
             "venue_id":638705057
         }
     ],
     "wof:id":638705057,
-    "wof:lastmodified":1466688620,
+    "wof:lastmodified":1492053471,
     "wof:name":"Transactional Consulting",
-    "wof:parent_id":85836783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

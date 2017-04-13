@@ -2,9 +2,14 @@
   "id": 638667067,
   "type": "Feature",
   "properties": {
+    "addr:full":"1609 Holly Blvd Manasquan NJ 08736",
+    "addr:housenumber":"1609",
+    "addr:postcode":"08736",
+    "addr:street":"Holly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.08916,40.12148,-74.08916,40.12148",
     "geom:latitude":40.12148,
     "geom:longitude":-74.08916,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478291,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NKgJKIlPimOWlEZNc3chi_40.121480_-74.089160@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461276370,
     "wof:geomhash":"93cf3bfebb0e14fb22526d5c29d63e2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478291,
+            "region_id":85688607,
+            "venue_id":638667067
+        }
+    ],
     "wof:id":638667067,
-    "wof:lastmodified":1466674262,
+    "wof:lastmodified":1492026305,
     "wof:name":"Dennis Frank Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

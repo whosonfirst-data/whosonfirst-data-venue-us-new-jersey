@@ -2,9 +2,14 @@
   "id": 639508179,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Franklin Rd Randolph NJ 07869",
+    "addr:housenumber":"199",
+    "addr:postcode":"07869",
+    "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.53177,40.877976,-74.53177,40.877976",
     "geom:latitude":40.877976,
     "geom:longitude":-74.53177,
@@ -29,7 +34,10 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IFEzdhMlp6cXqpPr8d9KL_40.877976_-74.531770@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461297765,
     "wof:geomhash":"1277e38fc63baece17cca8e69e2b66d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639508179
+        }
+    ],
     "wof:id":639508179,
-    "wof:lastmodified":1466694899,
+    "wof:lastmodified":1492048834,
     "wof:name":"U-Haul Co",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

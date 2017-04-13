@@ -2,9 +2,14 @@
   "id": 655529145,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Brittany Blvd Marlton NJ 08053",
+    "addr:housenumber":"21",
+    "addr:postcode":"08053",
+    "addr:street":"Brittany Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.885205,39.914306,-74.885205,39.914306",
     "geom:latitude":39.914306,
     "geom:longitude":-74.885205,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VmYIsp0oRjd1izlnfvhpM_39.914306_-74.885205@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310013,
     "wof:geomhash":"4e0690e345791278bf2f4a57d6209248",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":655529145
+        }
+    ],
     "wof:id":655529145,
-    "wof:lastmodified":1466678920,
+    "wof:lastmodified":1492050442,
     "wof:name":"Golden Rings Publishing Co",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

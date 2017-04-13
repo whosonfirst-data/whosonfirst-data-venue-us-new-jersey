@@ -2,9 +2,14 @@
   "id": 655559601,
   "type": "Feature",
   "properties": {
+    "addr:full":"470 S Green St Tuckerton NJ 08087",
+    "addr:housenumber":"470",
+    "addr:postcode":"08087",
+    "addr:street":"S Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.338964,39.589333,-74.338964,39.589333",
     "geom:latitude":39.589333,
     "geom:longitude":-74.338964,
@@ -27,7 +32,10 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mdZVip4dHWWA81sYAxK94_39.589333_-74.338964@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311253,
     "wof:geomhash":"d6939235bd4b04fe8f68a41927f3e7de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527413,
+            "venue_id":655559601
+        }
+    ],
     "wof:id":655559601,
-    "wof:lastmodified":1466679833,
+    "wof:lastmodified":1492053646,
     "wof:name":"Maritime Marina",
     "wof:parent_id":420527413,
     "wof:placetype":"venue",

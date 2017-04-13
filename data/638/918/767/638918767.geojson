@@ -2,9 +2,14 @@
   "id": 638918767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1592 Front St Scotch Plains NJ 07076",
+    "addr:housenumber":"1592",
+    "addr:postcode":"07076",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.403847,40.645051,-74.403847,40.645051",
     "geom:latitude":40.645051,
     "geom:longitude":-74.403847,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cVobnAEXGYjRSv9qmTDLM_40.645051_-74.403847@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283228,
     "wof:geomhash":"5d49230b6acf0d7345dd8dd124c02a8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":638918767
+        }
+    ],
     "wof:id":638918767,
-    "wof:lastmodified":1466690514,
+    "wof:lastmodified":1492049233,
     "wof:name":"Howerton Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

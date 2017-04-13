@@ -2,9 +2,14 @@
   "id": 655702823,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Washington Ave Carteret NJ 07008",
+    "addr:housenumber":"137",
+    "addr:postcode":"07008",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.225899,40.578499,-74.225899,40.578499",
     "geom:latitude":40.578499,
     "geom:longitude":-74.225899,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z181LI2Xj18dUFKCtxOpr_40.578499_-74.225899@1303262249"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317488,
     "wof:geomhash":"cc67c3645f7f5932e5fdce577b5d0d79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":655702823
+        }
+    ],
     "wof:id":655702823,
-    "wof:lastmodified":1466684423,
+    "wof:lastmodified":1492025531,
     "wof:name":"Quality Collision Repairs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

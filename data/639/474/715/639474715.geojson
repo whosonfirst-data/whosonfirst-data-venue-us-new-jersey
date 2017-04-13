@@ -2,9 +2,14 @@
   "id": 639474715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Lake St Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"1",
+    "addr:postcode":"07458",
+    "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.118931,41.062948,-74.118931,41.062948",
     "geom:latitude":41.062948,
     "geom:longitude":-74.118931,
@@ -27,7 +32,14 @@
         "periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p5NKcvkD6UYh4gwb2ejas_41.062948_-74.118931@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296388,
     "wof:geomhash":"ad65055dccc99776a30af682eccad823",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":639474715
+        }
+    ],
     "wof:id":639474715,
-    "wof:lastmodified":1466694218,
+    "wof:lastmodified":1492038925,
     "wof:name":"Prentice Hall Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

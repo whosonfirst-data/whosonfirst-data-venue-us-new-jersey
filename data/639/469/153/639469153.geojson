@@ -2,9 +2,14 @@
   "id": 639469153,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Railroad Ave Closter NJ 07624",
+    "addr:housenumber":"168",
+    "addr:postcode":"07624",
+    "addr:street":"Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961647,40.973068,-73.961647,40.973068",
     "geom:latitude":40.973068,
     "geom:longitude":-73.961647,
@@ -27,7 +32,14 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y48WQxDatDKnNt1qr4BqB_40.973068_-73.961647@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296150,
     "wof:geomhash":"b65145614487f52c35a3e72196faa5a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639469153
+        }
+    ],
     "wof:id":639469153,
-    "wof:lastmodified":1466693898,
+    "wof:lastmodified":1492042583,
     "wof:name":"Fish On The Fly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

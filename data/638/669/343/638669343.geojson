@@ -2,9 +2,14 @@
   "id": 638669343,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Osage Dr Old Bridge NJ 08857",
+    "addr:housenumber":"35",
+    "addr:postcode":"08857",
+    "addr:street":"Osage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.345198,40.385969,-74.345198,40.385969",
     "geom:latitude":40.385969,
     "geom:longitude":-74.345198,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4flV9tEpB0OF8hq9D6TUMY_40.385969_-74.345198@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461276440,
     "wof:geomhash":"8ae3f9e84d71ac1e2d8f7d91c7e644c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527219,
+            "venue_id":638669343
+        }
+    ],
     "wof:id":638669343,
-    "wof:lastmodified":1466674377,
+    "wof:lastmodified":1492062257,
     "wof:name":"Pine Gate",
     "wof:parent_id":420527219,
     "wof:placetype":"venue",

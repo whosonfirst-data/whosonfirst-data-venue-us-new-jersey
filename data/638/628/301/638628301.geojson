@@ -2,9 +2,14 @@
   "id": 638628301,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Jackson Ave Carteret NJ 07008",
+    "addr:housenumber":"37",
+    "addr:postcode":"07008",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239667,40.582369,-74.239667,40.582369",
     "geom:latitude":40.582369,
     "geom:longitude":-74.239667,
@@ -32,7 +37,14 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52SLVh9oE2c6IOmxk2lOvs_40.582369_-74.239667@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461275175,
     "wof:geomhash":"52553c47c98e30e6b115a556ad311bad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":638628301
+        }
+    ],
     "wof:id":638628301,
-    "wof:lastmodified":1466673199,
+    "wof:lastmodified":1492069589,
     "wof:name":"Life's A Stitch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

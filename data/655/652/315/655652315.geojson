@@ -2,9 +2,14 @@
   "id": 655652315,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Pelz Farm Ct Mahwah NJ 07430",
+    "addr:housenumber":"11",
+    "addr:postcode":"07430",
+    "addr:street":"Pelz Farm Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126122,41.076659,-74.126122,41.076659",
     "geom:latitude":41.076659,
     "geom:longitude":-74.126122,
@@ -28,7 +33,13 @@
         "renovation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XbLBDk8gq5fKMbm6gvbIk_41.076659_-74.126122@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461315274,
     "wof:geomhash":"3d5204b83ffb0ea3bad28c750db8f0a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655652315
+        }
+    ],
     "wof:id":655652315,
-    "wof:lastmodified":1466682853,
+    "wof:lastmodified":1492046288,
     "wof:name":"Runyon Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

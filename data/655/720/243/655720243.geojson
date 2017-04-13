@@ -2,9 +2,14 @@
   "id": 655720243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Morris Tpke Millburn NJ 07041",
+    "addr:housenumber":"1200",
+    "addr:postcode":"07041",
+    "addr:street":"Morris Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.299599,40.722198,-74.299599,40.722198",
     "geom:latitude":40.722198,
     "geom:longitude":-74.299599,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"shop.nordstrom.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TdCkrkt1OJybDWJiC8st8_40.722198_-74.299599@1303262253"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461318165,
     "wof:geomhash":"d11d69694aed8d5ffec86fb6e80f82fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655720243
+        }
+    ],
     "wof:id":655720243,
-    "wof:lastmodified":1466684754,
+    "wof:lastmodified":1492027697,
     "wof:name":"Nordstrom",
     "wof:parent_id":420526947,
     "wof:placetype":"venue",

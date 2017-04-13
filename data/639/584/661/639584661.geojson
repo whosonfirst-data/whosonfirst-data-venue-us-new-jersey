@@ -2,9 +2,14 @@
   "id": 639584661,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 Cranbury Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"249",
+    "addr:postcode":"08550",
+    "addr:street":"Cranbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.601005,40.31214,-74.601005,40.31214",
     "geom:latitude":40.31214,
     "geom:longitude":-74.601005,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LRwQmtRGxTJpHYldQE8nf_40.312140_-74.601005@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301104,
     "wof:geomhash":"6cb9238172f75155722ca7d0c9f94ec8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":639584661
+        }
+    ],
     "wof:id":639584661,
-    "wof:lastmodified":1466696651,
+    "wof:lastmodified":1492056104,
     "wof:name":"Paul Orr's Grovers Mill Auto",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655672985,
   "type": "Feature",
   "properties": {
+    "addr:full":"657 S Main St Stewartsville NJ 08886",
+    "addr:housenumber":"657",
+    "addr:postcode":"08886",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.109633,40.684321,-75.109633,40.684321",
     "geom:latitude":40.684321,
     "geom:longitude":-75.109633,
@@ -23,13 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85828083,
+        102083873,
         420527775,
         102191575,
         404478419,
-        85633793,
-        85976427,
-        102083873,
-        85688607
+        85976427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +45,13 @@
     "wof:created":1461316146,
     "wof:geomhash":"17e5542614648fcc61655bc3227a161f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85828083,
+            "region_id":85688607,
+            "venue_id":655672985
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -51,9 +64,9 @@
         }
     ],
     "wof:id":655672985,
-    "wof:lastmodified":1466683681,
+    "wof:lastmodified":1492024158,
     "wof:name":"Oberly Farms",
-    "wof:parent_id":420527775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

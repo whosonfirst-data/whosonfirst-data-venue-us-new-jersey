@@ -2,9 +2,14 @@
   "id": 639518415,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Coykendall Rd Sussex NJ 07461",
+    "addr:housenumber":"125",
+    "addr:postcode":"07461",
+    "addr:street":"Coykendall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.665972,41.231083,-74.665972,41.231083",
     "geom:latitude":41.231083,
     "geom:longitude":-74.665972,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85842417,
-        102086779
+        102086779,
+        85830441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,19 @@
             "neighbourhood_id":85842417,
             "region_id":85688607,
             "venue_id":639518415
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85830441,
+            "region_id":85688607,
+            "venue_id":639518415
         }
     ],
     "wof:id":639518415,
-    "wof:lastmodified":1466695099,
+    "wof:lastmodified":1492022093,
     "wof:name":"Penlo Shepherds Inc",
-    "wof:parent_id":85842417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

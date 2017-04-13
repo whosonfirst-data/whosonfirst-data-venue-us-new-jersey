@@ -2,9 +2,14 @@
   "id": 638705605,
   "type": "Feature",
   "properties": {
+    "addr:full":"362 Westfield Ave E Roselle Park NJ 07204",
+    "addr:housenumber":"362",
+    "addr:postcode":"07204",
+    "addr:street":"Westfield Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250624,40.663488,-74.250624,40.663488",
     "geom:latitude":40.663488,
     "geom:longitude":-74.250624,
@@ -31,13 +36,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802619,
+        85817887,
         102191575,
         404477587,
         85633793,
         85975833,
         102085995,
-        85688607
+        85688607,
+        85802619,
+        404478515,
+        85975831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +61,25 @@
             "county_id":102085995,
             "localadmin_id":404477587,
             "locality_id":85975833,
+            "neighbourhood_id":85817887,
+            "region_id":85688607,
+            "venue_id":638705605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478515,
+            "locality_id":85975831,
             "neighbourhood_id":85802619,
             "region_id":85688607,
             "venue_id":638705605
         }
     ],
     "wof:id":638705605,
-    "wof:lastmodified":1466688693,
+    "wof:lastmodified":1492039317,
     "wof:name":"Perfectly Centered",
-    "wof:parent_id":85802619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

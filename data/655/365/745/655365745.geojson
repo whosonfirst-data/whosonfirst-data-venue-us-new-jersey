@@ -2,9 +2,14 @@
   "id": 655365745,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Henderson Rd Kendall Park NJ 08824",
+    "addr:housenumber":"66",
+    "addr:postcode":"08824",
+    "addr:street":"Henderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.532924,40.42873,-74.532924,40.42873",
     "geom:latitude":40.42873,
     "geom:longitude":-74.532924,
@@ -25,10 +30,11 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527179,
         85842277,
         102191575,
         404478211,
-        85633793,
         85976275,
         102087417,
         85688607
@@ -42,6 +48,11 @@
     "wof:geomhash":"bdc2df23671a9b577d5ef5745760be4b",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":655365745
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087417,
@@ -53,9 +64,9 @@
         }
     ],
     "wof:id":655365745,
-    "wof:lastmodified":1466674609,
+    "wof:lastmodified":1492057145,
     "wof:name":"Jsl Consulting Inc",
-    "wof:parent_id":85842277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

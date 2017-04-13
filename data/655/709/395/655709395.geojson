@@ -2,9 +2,14 @@
   "id": 655709395,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 River Rd Edgewater NJ 07020",
+    "addr:housenumber":"236",
+    "addr:postcode":"07020",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991187,40.806887,-73.991187,40.806887",
     "geom:latitude":40.806887,
     "geom:longitude":-73.991187,
@@ -27,7 +32,14 @@
         "cuban"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477525,
+        85633793,
+        85975895,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MdQN3NMccDyyCLJVzyQPG_40.806887_-73.991187@1303262251"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317735,
     "wof:geomhash":"74ff86e2a353ceaada39efe2fdb730ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "region_id":85688607,
+            "venue_id":655709395
+        }
+    ],
     "wof:id":655709395,
-    "wof:lastmodified":1466684523,
+    "wof:lastmodified":1492041059,
     "wof:name":"Rebecca's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

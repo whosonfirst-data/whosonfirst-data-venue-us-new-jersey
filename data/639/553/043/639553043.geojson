@@ -2,9 +2,14 @@
   "id": 639553043,
   "type": "Feature",
   "properties": {
+    "addr:full":"1061 State Rte 73 Pennsauken NJ 08110",
+    "addr:housenumber":"1061",
+    "addr:postcode":"08110",
+    "addr:street":"State Rte 73",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023004,39.988949,-75.023004,39.988949",
     "geom:latitude":39.988949,
     "geom:longitude":-75.023004,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wFLb6l48O6mFAhUtBtKOk_39.988949_-75.023004@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461299870,
     "wof:geomhash":"da928c945802039eda9b3d12f2cc67a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":639553043
+        }
+    ],
     "wof:id":639553043,
-    "wof:lastmodified":1466695842,
+    "wof:lastmodified":1492045199,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

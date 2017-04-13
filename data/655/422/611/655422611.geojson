@@ -2,9 +2,14 @@
   "id": 655422611,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"339",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142042,40.044622,-74.142042,40.044622",
     "geom:latitude":40.044622,
     "geom:longitude":-74.142042,
@@ -34,7 +39,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fZ8vCD9TtH9V4CF2RPjcr_40.044622_-74.142042@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461305572,
     "wof:geomhash":"b62e18ce494ea4d18b66d9ba574d742a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655422611
+        }
+    ],
     "wof:id":655422611,
-    "wof:lastmodified":1466676148,
+    "wof:lastmodified":1492045212,
     "wof:name":"Kid's Stop",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

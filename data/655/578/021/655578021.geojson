@@ -2,9 +2,14 @@
   "id": 655578021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 W Edgar Rd Linden NJ 07036",
+    "addr:housenumber":"1801",
+    "addr:postcode":"07036",
+    "addr:street":"W Edgar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25837,40.61027,-74.25837,40.61027",
     "geom:latitude":40.61027,
     "geom:longitude":-74.25837,
@@ -24,7 +29,16 @@
     "sg:postcode":"07036",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995,
+        404478511,
+        85975835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D2UGZBZRKt5UIJTlEHaUn_40.610270_-74.258370@1294171694"
@@ -32,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1461312076,
     "wof:geomhash":"1957fc6997471b273c11538a4c266fcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655578021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655578021
+        }
+    ],
     "wof:id":655578021,
-    "wof:lastmodified":1466680217,
+    "wof:lastmodified":1492051951,
     "wof:name":"N A Project Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

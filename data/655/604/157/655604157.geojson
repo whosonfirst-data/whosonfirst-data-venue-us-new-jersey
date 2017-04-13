@@ -2,9 +2,14 @@
   "id": 655604157,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"43",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620945,40.300747,-74.620945,40.300747",
     "geom:latitude":40.300747,
     "geom:longitude":-74.620945,
@@ -27,7 +32,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_262lSJ6PnpPvBdoyn6zLLP_40.300747_-74.620945@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313181,
     "wof:geomhash":"43b9e531a03ad49ea87a8401b1e70324",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655604157
+        }
+    ],
     "wof:id":655604157,
-    "wof:lastmodified":1466681054,
+    "wof:lastmodified":1492049456,
     "wof:name":"PDQ Press",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

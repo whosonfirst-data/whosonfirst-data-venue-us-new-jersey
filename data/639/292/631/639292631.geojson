@@ -2,9 +2,14 @@
   "id": 639292631,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Cherry Way Wayne NJ 07470",
+    "addr:housenumber":"9",
+    "addr:postcode":"07470",
+    "addr:street":"Cherry Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237529,40.892211,-74.237529,40.892211",
     "geom:latitude":40.892211,
     "geom:longitude":-74.237529,
@@ -27,7 +32,13 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EfvQFFoUsF8io2sF9KeW9_40.892211_-74.237529@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291818,
     "wof:geomhash":"7902a13260dd4a442ea09a068cd9be27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639292631
+        }
+    ],
     "wof:id":639292631,
-    "wof:lastmodified":1466691188,
+    "wof:lastmodified":1492069637,
     "wof:name":"Horizon Handyman Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

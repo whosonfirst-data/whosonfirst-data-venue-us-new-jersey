@@ -2,9 +2,14 @@
   "id": 655817803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Route 130 S Cinnaminson NJ 08077",
+    "addr:housenumber":"2501",
+    "addr:postcode":"08077",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975826,40.006224,-74.975826,40.006224",
     "geom:latitude":40.006224,
     "geom:longitude":-74.975826,
@@ -77,7 +82,10 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GkX0DOxQANCxsOY53A9w7_40.006224_-74.975826@1303262277"
@@ -85,9 +93,15 @@
     "wof:country":"US",
     "wof:created":1461322185,
     "wof:geomhash":"44718d3810d355aacf7a5d1f2b92bc94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":655817803
+        }
+    ],
     "wof:id":655817803,
-    "wof:lastmodified":1466687495,
+    "wof:lastmodified":1492025867,
     "wof:name":"T-Mobile",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

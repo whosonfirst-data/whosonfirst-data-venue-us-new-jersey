@@ -2,9 +2,14 @@
   "id": 639114803,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Tuccamirgan Rd Flemington NJ 08822",
+    "addr:housenumber":"10",
+    "addr:postcode":"08822",
+    "addr:street":"Tuccamirgan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.870532,40.512006,-74.870532,40.512006",
     "geom:latitude":40.512006,
     "geom:longitude":-74.870532,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85851989,
+        102085997,
         85819609,
         102191575,
         404477453,
-        85633793,
-        85975697,
-        102085997,
-        85688607
+        85975697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +52,13 @@
     "wof:created":1461287668,
     "wof:geomhash":"c8f6e7b3e72d5a9f55de86eb37b71334",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85851989,
+            "region_id":85688607,
+            "venue_id":639114803
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":639114803,
-    "wof:lastmodified":1466676316,
+    "wof:lastmodified":1492025430,
     "wof:name":"Hoge Family Investments LLC",
-    "wof:parent_id":85819609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655389309,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 W Mill Rd Long Valley NJ 07853",
+    "addr:housenumber":"380",
+    "addr:postcode":"07853",
+    "addr:street":"W Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.822585,40.757545,-74.822585,40.757545",
     "geom:latitude":40.757545,
     "geom:longitude":-74.822585,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976195,
+        85842205,
         102087413,
+        85976195,
         85833983
     ],
     "wof:breaches":[],
@@ -46,6 +52,13 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85842205,
+            "region_id":85688607,
+            "venue_id":655389309
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "locality_id":85976195,
             "neighbourhood_id":85833983,
             "region_id":85688607,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":655389309,
-    "wof:lastmodified":1466675228,
+    "wof:lastmodified":1492051161,
     "wof:name":"Valley Training",
-    "wof:parent_id":85833983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655779741,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Irving Ave Closter NJ 07624",
+    "addr:housenumber":"211",
+    "addr:postcode":"07624",
+    "addr:street":"Irving Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.950729,40.972355,-73.950729,40.972355",
     "geom:latitude":40.972355,
     "geom:longitude":-73.950729,
@@ -34,7 +39,14 @@
     ],
     "sg:website":"http://www.lindgrenschool.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QnH05Y41zrCwNYviRBBag_40.972355_-73.950729@1303262268"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461320547,
     "wof:geomhash":"db27f34fa23eceadca0bfebf275c1136",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655779741
+        }
+    ],
     "wof:id":655779741,
-    "wof:lastmodified":1466686447,
+    "wof:lastmodified":1492066266,
     "wof:name":"Lindgren Nursery School And Summer Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

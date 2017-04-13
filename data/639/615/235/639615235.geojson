@@ -2,9 +2,14 @@
   "id": 639615235,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 Lakehurst Rd Browns Mills NJ 08015",
+    "addr:housenumber":"527",
+    "addr:postcode":"08015",
+    "addr:street":"Lakehurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.555294,39.954948,-74.555294,39.954948",
     "geom:latitude":39.954948,
     "geom:longitude":-74.555294,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85808087,
+        102191575,
+        404477957,
+        85633793,
+        85976187,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ppS2keL49Y8IX6u9MOZBW_39.954948_-74.555294@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461302324,
     "wof:geomhash":"5f22d25700f97aa4b76c3bbd13d2456d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477957,
+            "locality_id":85976187,
+            "neighbourhood_id":85808087,
+            "region_id":85688607,
+            "venue_id":639615235
+        }
+    ],
     "wof:id":639615235,
-    "wof:lastmodified":1466697010,
+    "wof:lastmodified":1492051107,
     "wof:name":"Browns Mills Seventh-Day Chr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

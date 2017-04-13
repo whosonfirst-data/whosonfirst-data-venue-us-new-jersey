@@ -2,9 +2,14 @@
   "id": 655661653,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"726",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985985,40.829529,-73.985985,40.829529",
     "geom:latitude":40.829529,
     "geom:longitude":-73.985985,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KWhgR6nxPVcKdEi8wbbDG_40.829148_-73.986077@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315680,
     "wof:geomhash":"13f818360858f07afb86596adca056b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655661653
+        }
+    ],
     "wof:id":655661653,
-    "wof:lastmodified":1466683282,
+    "wof:lastmodified":1492027487,
     "wof:name":"Finger Fitness Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

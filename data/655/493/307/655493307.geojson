@@ -2,9 +2,14 @@
   "id": 655493307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Campus Dr Morganville NJ 07751",
+    "addr:housenumber":"1113",
+    "addr:postcode":"07751",
+    "addr:street":"Campus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291031,40.353798,-74.291031,40.353798",
     "geom:latitude":40.353798,
     "geom:longitude":-74.291031,
@@ -29,7 +34,15 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46Lc03lguXPnsa3iTfjtLY_40.353798_-74.291031@1294171694"
@@ -37,9 +50,20 @@
     "wof:country":"US",
     "wof:created":1461308551,
     "wof:geomhash":"a1de745628a13b4ea02e1fab3b26f719",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":655493307
+        }
+    ],
     "wof:id":655493307,
-    "wof:lastmodified":1466677906,
+    "wof:lastmodified":1492028694,
     "wof:name":"Total Concept Merchandising",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

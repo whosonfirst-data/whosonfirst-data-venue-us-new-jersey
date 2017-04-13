@@ -2,9 +2,14 @@
   "id": 655627875,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Lynwood Rd Edison NJ 08820",
+    "addr:housenumber":"38",
+    "addr:postcode":"08820",
+    "addr:street":"Lynwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.353045,40.573319,-74.353045,40.573319",
     "geom:latitude":40.573319,
     "geom:longitude":-74.353045,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ITH0OQ1gzHwyFQPTID88T_40.573319_-74.353045@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461314235,
     "wof:geomhash":"a120be1879cb5f6fe997f88fad5c58aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527175,
+            "venue_id":655627875
+        }
+    ],
     "wof:id":655627875,
-    "wof:lastmodified":1466682247,
+    "wof:lastmodified":1492025523,
     "wof:name":"Ready Technologies",
     "wof:parent_id":420527175,
     "wof:placetype":"venue",

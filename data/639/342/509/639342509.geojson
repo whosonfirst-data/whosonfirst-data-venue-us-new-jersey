@@ -2,9 +2,14 @@
   "id": 639342509,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Pebble Rd Hightstown NJ 08520",
+    "addr:housenumber":"109",
+    "addr:postcode":"08520",
+    "addr:street":"Pebble Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.561283,40.276002,-74.561283,40.276002",
     "geom:latitude":40.276002,
     "geom:longitude":-74.561283,
@@ -29,7 +34,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qjgo23GGSl2VwC0jjmOlv_40.276002_-74.561283@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461292865,
     "wof:geomhash":"67810eebde162ef89f56533881a701b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639342509
+        }
+    ],
     "wof:id":639342509,
-    "wof:lastmodified":1466692289,
+    "wof:lastmodified":1492041605,
     "wof:name":"Kkarvy Media Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

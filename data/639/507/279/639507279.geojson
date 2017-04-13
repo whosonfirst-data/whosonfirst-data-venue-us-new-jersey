@@ -2,9 +2,14 @@
   "id": 639507279,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 E 2nd St Bound Brook NJ 08805",
+    "addr:housenumber":"21",
+    "addr:postcode":"08805",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533467,40.563106,-74.533467,40.563106",
     "geom:latitude":40.563106,
     "geom:longitude":-74.533467,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0akvbyZFYA1xm97ERyhulD_40.563106_-74.533467@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297725,
     "wof:geomhash":"c06db339fe3be891030063e437a35f77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":639507279
+        }
+    ],
     "wof:id":639507279,
-    "wof:lastmodified":1466694860,
+    "wof:lastmodified":1492041559,
     "wof:name":"Funeraria Cuerpo De Cristo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

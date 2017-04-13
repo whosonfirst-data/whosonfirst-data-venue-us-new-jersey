@@ -2,9 +2,14 @@
   "id": 639293469,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Newton Sparta Ave Newton NJ 07860",
+    "addr:housenumber":"207",
+    "addr:postcode":"07860",
+    "addr:street":"Newton Sparta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.708837,41.039125,-74.708837,41.039125",
     "geom:latitude":41.039125,
     "geom:longitude":-74.708837,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527663,
+        85688607,
         85811273,
         102086779
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":639293469
+        },
+        {
+            "country_id":85633793,
             "county_id":102086779,
             "neighbourhood_id":85811273,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":639293469,
-    "wof:lastmodified":1466691175,
+    "wof:lastmodified":1492043956,
     "wof:name":"Daves Repair Service",
-    "wof:parent_id":85811273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

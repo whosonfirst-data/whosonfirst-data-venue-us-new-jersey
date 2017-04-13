@@ -2,9 +2,14 @@
   "id": 639546333,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Montross Ave Rutherford NJ 07070",
+    "addr:housenumber":"456",
+    "addr:postcode":"07070",
+    "addr:street":"Montross Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117425,40.82675,-74.117425,40.82675",
     "geom:latitude":40.82675,
     "geom:longitude":-74.117425,
@@ -24,7 +29,14 @@
     "sg:postcode":"07070",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477727,
+        85633793,
+        85975923,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JnBdWy8r5LqWmrQJ0tg1o_40.826750_-74.117425@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461299583,
     "wof:geomhash":"26a5da63b34dc6b363b7b83119b6a77a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477727,
+            "locality_id":85975923,
+            "region_id":85688607,
+            "venue_id":639546333
+        }
+    ],
     "wof:id":639546333,
-    "wof:lastmodified":1466695666,
+    "wof:lastmodified":1492076228,
     "wof:name":"Rutherford Crane Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639022989,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 US Hwy 130 Bordentown NJ 08505",
+    "addr:housenumber":"243",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.70561,40.140219,-74.70561,40.140219",
     "geom:latitude":40.140219,
     "geom:longitude":-74.70561,
@@ -27,7 +32,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07Vk5EjHVcu2CuODzwytpV_40.140219_-74.705610@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285609,
     "wof:geomhash":"93e530787b36fc45f455b7d2d9c29df0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":639022989
+        }
+    ],
     "wof:id":639022989,
-    "wof:lastmodified":1466673708,
+    "wof:lastmodified":1492043904,
     "wof:name":"Remington & Vernick Engineers",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

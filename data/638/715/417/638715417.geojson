@@ -2,9 +2,14 @@
   "id": 638715417,
   "type": "Feature",
   "properties": {
+    "addr:full":"5741 Cranberry Ct Egg Harbor City NJ 08215",
+    "addr:housenumber":"5741",
+    "addr:postcode":"08215",
+    "addr:street":"Cranberry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.605386,39.591051,-74.605386,39.591051",
     "geom:latitude":39.591051,
     "geom:longitude":-74.605386,
@@ -27,7 +32,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477627,
+        85633793,
+        102083869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6csUOL1COu3w4SSI8pHpBg_39.591051_-74.605386@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278064,
     "wof:geomhash":"7d04820fd64d636178a0695ea98d5e9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477627,
+            "region_id":85688607,
+            "venue_id":638715417
+        }
+    ],
     "wof:id":638715417,
-    "wof:lastmodified":1466673387,
+    "wof:lastmodified":1492062447,
     "wof:name":"Cranberrygrower Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

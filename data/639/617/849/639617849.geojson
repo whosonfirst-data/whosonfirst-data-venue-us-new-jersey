@@ -2,9 +2,14 @@
   "id": 639617849,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Rock Rd Glen Rock NJ 07452",
+    "addr:housenumber":"168",
+    "addr:postcode":"07452",
+    "addr:street":"Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133981,40.96268,-74.133981,40.96268",
     "geom:latitude":40.96268,
     "geom:longitude":-74.133981,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xJQrRHrJnaiLSKpUB3VVY_40.962680_-74.133981@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302425,
     "wof:geomhash":"dd6984f1664016c0883c53fc961d007b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639617849
+        }
+    ],
     "wof:id":639617849,
-    "wof:lastmodified":1466697294,
+    "wof:lastmodified":1492081933,
     "wof:name":"OConnor Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

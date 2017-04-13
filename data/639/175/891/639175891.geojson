@@ -2,9 +2,14 @@
   "id": 639175891,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Youmans Ave Washington NJ 07882",
+    "addr:housenumber":"100",
+    "addr:postcode":"07882",
+    "addr:street":"Youmans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.973794,40.757665,-74.973794,40.757665",
     "geom:latitude":40.757665,
     "geom:longitude":-74.973794,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iINiv1TZkehyDsYhnAwvH_40.757665_-74.973794@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289099,
     "wof:geomhash":"7333814357327267567f51cffb741b20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639175891
+        }
+    ],
     "wof:id":639175891,
-    "wof:lastmodified":1466685270,
+    "wof:lastmodified":1492044147,
     "wof:name":"Rich Williamson Comedy",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

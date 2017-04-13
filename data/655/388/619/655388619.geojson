@@ -2,9 +2,14 @@
   "id": 655388619,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Newton Sparta Ave Newton NJ 07860",
+    "addr:housenumber":"235",
+    "addr:postcode":"07860",
+    "addr:street":"Newton Sparta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703678,41.03841,-74.703678,41.03841",
     "geom:latitude":41.03841,
     "geom:longitude":-74.703678,
@@ -27,7 +32,10 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YEmdFbfRckPbxLntnL6MZ_41.038410_-74.703678@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304145,
     "wof:geomhash":"9569e17b253cbb25241e99f5078c18cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":655388619
+        }
+    ],
     "wof:id":655388619,
-    "wof:lastmodified":1466675228,
+    "wof:lastmodified":1492071474,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":420527663,
     "wof:placetype":"venue",

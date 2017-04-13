@@ -2,9 +2,14 @@
   "id": 639580141,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Union Ave Bridgewater NJ 08807",
+    "addr:housenumber":"400",
+    "addr:postcode":"08807",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.579285,40.569813,-74.579285,40.569813",
     "geom:latitude":40.569813,
     "geom:longitude":-74.579285,
@@ -32,7 +37,9 @@
         85633793,
         85976151,
         102085045,
-        85688607
+        85688607,
+        85810873,
+        85976131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +58,22 @@
             "neighbourhood_id":85806805,
             "region_id":85688607,
             "venue_id":639580141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "neighbourhood_id":85810873,
+            "region_id":85688607,
+            "venue_id":639580141
         }
     ],
     "wof:id":639580141,
-    "wof:lastmodified":1466696439,
+    "wof:lastmodified":1492068539,
     "wof:name":"Adamsville Elementary School",
-    "wof:parent_id":85806805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638938347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Beach St Maplewood NJ 07040",
+    "addr:housenumber":"1",
+    "addr:postcode":"07040",
+    "addr:street":"Beach St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26261,40.735129,-74.26261,40.735129",
     "geom:latitude":40.735129,
     "geom:longitude":-74.26261,
@@ -24,7 +29,11 @@
     "sg:postcode":"07040",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526927,
+        420526955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z6KyYsdhTqTL9GmpE9CYN_40.735129_-74.262610@1294171694"
@@ -32,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461283763,
     "wof:geomhash":"f4d21d674f4312799af497a2c2f49984",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":638938347
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526955,
+            "venue_id":638938347
+        }
+    ],
     "wof:id":638938347,
-    "wof:lastmodified":1466690849,
+    "wof:lastmodified":1492051997,
     "wof:name":"Ty Pak",
-    "wof:parent_id":420526955,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

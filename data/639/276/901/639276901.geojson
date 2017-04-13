@@ -2,9 +2,14 @@
   "id": 639276901,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 Ellis Rd Milford NJ 08848",
+    "addr:housenumber":"404",
+    "addr:postcode":"08848",
+    "addr:street":"Ellis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.105421,40.621617,-75.105421,40.621617",
     "geom:latitude":40.621617,
     "geom:longitude":-75.105421,
@@ -27,7 +32,13 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478223,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N7d6GDMVUBGhxxwZdY8P4_40.621617_-75.105421@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291475,
     "wof:geomhash":"6d9b3802b5b2d0bc6653011c870468ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478223,
+            "region_id":85688607,
+            "venue_id":639276901
+        }
+    ],
     "wof:id":639276901,
-    "wof:lastmodified":1466690749,
+    "wof:lastmodified":1492030753,
     "wof:name":"Airport & Area Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

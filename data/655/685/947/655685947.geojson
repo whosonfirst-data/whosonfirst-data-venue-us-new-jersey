@@ -2,9 +2,14 @@
   "id": 655685947,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Edgewater Rd Cliffside Park NJ 07010",
+    "addr:housenumber":"207",
+    "addr:postcode":"07010",
+    "addr:street":"Edgewater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989403,40.820599,-73.989403,40.820599",
     "geom:latitude":40.820599,
     "geom:longitude":-73.989403,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.ticc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MLuRUcxseznkmyE2MklK8_40.820763_-73.989480@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316673,
     "wof:geomhash":"4e6f3335120d1892642e9ffce5d0bc1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655685947
+        }
+    ],
     "wof:id":655685947,
-    "wof:lastmodified":1466684017,
+    "wof:lastmodified":1492052005,
     "wof:name":"Temple Israel Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

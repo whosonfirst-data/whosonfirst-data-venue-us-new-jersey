@@ -2,9 +2,14 @@
   "id": 655539591,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Juniper Ln Forked River NJ 08731",
+    "addr:housenumber":"231",
+    "addr:postcode":"08731",
+    "addr:street":"Juniper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179385,39.844722,-74.179385,39.844722",
     "geom:latitude":39.844722,
     "geom:longitude":-74.179385,
@@ -32,7 +37,10 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Zyx4KkCpVhEanTSP1NVgx_39.844722_-74.179385@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461310413,
     "wof:geomhash":"eec94b1b28075f41554b5f8973c9244d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527429,
+            "venue_id":655539591
+        }
+    ],
     "wof:id":655539591,
-    "wof:lastmodified":1466679301,
+    "wof:lastmodified":1492045223,
     "wof:name":"Cristy's Office Works",
     "wof:parent_id":420527429,
     "wof:placetype":"venue",

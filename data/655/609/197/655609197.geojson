@@ -2,9 +2,14 @@
   "id": 655609197,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Palisade Ave Garfield NJ 07026",
+    "addr:housenumber":"500",
+    "addr:postcode":"07026",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.11213,40.882356,-74.11213,40.882356",
     "geom:latitude":40.882356,
     "geom:longitude":-74.11213,
@@ -24,7 +29,12 @@
     "sg:postcode":"07026",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85840881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_010mM03a3k6WLQrjABcsrU_40.882356_-74.112130@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461313392,
     "wof:geomhash":"48f408eae3735342df667dc51099c92d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85840881,
+            "region_id":85688607,
+            "venue_id":655609197
+        }
+    ],
     "wof:id":655609197,
-    "wof:lastmodified":1466681356,
+    "wof:lastmodified":1492047484,
     "wof:name":"Garfield Special Education",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

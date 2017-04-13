@@ -2,9 +2,14 @@
   "id": 655695787,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Cliffwood Ave # A  Cliffwood NJ 07721",
+    "addr:housenumber":"309",
+    "addr:postcode":"07721",
+    "addr:street":"Cliffwood Ave # A Cliffwood",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233533,40.435753,-74.233533,40.435753",
     "geom:latitude":40.435753,
     "geom:longitude":-74.233533,
@@ -29,7 +34,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52zujuX8HP3qgGIRZVw99k_40.435961_-74.232761@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461317125,
     "wof:geomhash":"236bb7a068b277d6565c20ca4b0b7dea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655695787
+        }
+    ],
     "wof:id":655695787,
-    "wof:lastmodified":1466684236,
+    "wof:lastmodified":1492048260,
     "wof:name":"V & F Pizza & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

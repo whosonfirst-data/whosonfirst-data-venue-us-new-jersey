@@ -2,9 +2,14 @@
   "id": 639529667,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Highlander Dr Scotch Plains NJ 07076",
+    "addr:housenumber":"57",
+    "addr:postcode":"07076",
+    "addr:street":"Highlander Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.382281,40.617782,-74.382281,40.617782",
     "geom:latitude":40.617782,
     "geom:longitude":-74.382281,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478517,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Baiw0DQg49LiG8VX51GCp_40.617782_-74.382281@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298822,
     "wof:geomhash":"3ffcb4d64d4255da99ed6da7bd73f07d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478517,
+            "region_id":85688607,
+            "venue_id":639529667
+        }
+    ],
     "wof:id":639529667,
-    "wof:lastmodified":1466695433,
+    "wof:lastmodified":1492076771,
     "wof:name":"Albert H Antoine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

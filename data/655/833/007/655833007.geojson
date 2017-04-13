@@ -2,9 +2,14 @@
   "id": 655833007,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Dutch Neck Rd Ste 2 Hightstown NJ 08520",
+    "addr:housenumber":"222",
+    "addr:postcode":"08520",
+    "addr:street":"Dutch Neck Rd Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.548639,40.270775,-74.548639,40.270775",
     "geom:latitude":40.270775,
     "geom:longitude":-74.548639,
@@ -29,7 +34,13 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CvOPeUhp3sMEhni5gxSXW_40.270775_-74.548639@1303262281"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461322786,
     "wof:geomhash":"3ad266089ecd29267d6bae763c537cb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":655833007
+        }
+    ],
     "wof:id":655833007,
-    "wof:lastmodified":1466687641,
+    "wof:lastmodified":1492057362,
     "wof:name":"Hunan Wok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

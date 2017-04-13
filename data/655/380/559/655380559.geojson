@@ -2,9 +2,14 @@
   "id": 655380559,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 St Lawrence Way Marlboro NJ 07746",
+    "addr:housenumber":"11",
+    "addr:postcode":"07746",
+    "addr:street":"St Lawrence Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281734,40.327731,-74.281734,40.327731",
     "geom:latitude":40.327731,
     "geom:longitude":-74.281734,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39QgfJTAM37zlxskyCzGQR_40.327731_-74.281734@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303827,
     "wof:geomhash":"a983cd63174d7dabfd37934e4eece026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":655380559
+        }
+    ],
     "wof:id":655380559,
-    "wof:lastmodified":1466675061,
+    "wof:lastmodified":1492056095,
     "wof:name":"Carpet Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

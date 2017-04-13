@@ -2,9 +2,14 @@
   "id": 655760499,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Main St Ste 5 Bloomingdale NJ 07403",
+    "addr:housenumber":"142",
+    "addr:postcode":"07403",
+    "addr:street":"Main St Ste 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.334537,41.003874,-74.334537,41.003874",
     "geom:latitude":41.003874,
     "geom:longitude":-74.334537,
@@ -28,7 +33,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30jkmGcMAP587N0tqRULMR_41.003874_-74.334537@1303262263"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319669,
     "wof:geomhash":"b92855a83ca50a92cd431b3852e98d4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760499
+        }
+    ],
     "wof:id":655760499,
-    "wof:lastmodified":1466685865,
+    "wof:lastmodified":1492061964,
     "wof:name":"Push To Walk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

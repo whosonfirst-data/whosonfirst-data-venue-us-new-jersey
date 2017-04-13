@@ -2,9 +2,14 @@
   "id": 655692835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3257 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"3257",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.684299,40.249951,-74.684299,40.249951",
     "geom:latitude":40.249951,
     "geom:longitude":-74.684299,
@@ -29,7 +34,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fwscHbU4PKqJOpAMqzIzn_40.249951_-74.684299@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316972,
     "wof:geomhash":"bcaa6c3ca9e1b5820574b2c0f51126d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655692835
+        }
+    ],
     "wof:id":655692835,
-    "wof:lastmodified":1466684166,
+    "wof:lastmodified":1492048429,
     "wof:name":"Subway",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

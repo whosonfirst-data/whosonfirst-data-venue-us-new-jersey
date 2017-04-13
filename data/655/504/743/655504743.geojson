@@ -2,9 +2,14 @@
   "id": 655504743,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Magnolia Rd Pemberton NJ 08068",
+    "addr:housenumber":"307",
+    "addr:postcode":"08068",
+    "addr:street":"Magnolia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660307,39.949337,-74.660307,39.949337",
     "geom:latitude":39.949337,
     "geom:longitude":-74.660307,
@@ -27,7 +32,10 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01f5PC7Nt62QxsQFgj2IoR_39.949337_-74.660307@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309050,
     "wof:geomhash":"6033e73c8e02dc5eeb2563dd1496352f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526641,
+            "venue_id":655504743
+        }
+    ],
     "wof:id":655504743,
-    "wof:lastmodified":1466678281,
+    "wof:lastmodified":1492025583,
     "wof:name":"Redmond Landscaping",
     "wof:parent_id":420526641,
     "wof:placetype":"venue",

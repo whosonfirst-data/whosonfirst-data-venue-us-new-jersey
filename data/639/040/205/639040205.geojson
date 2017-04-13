@@ -2,9 +2,14 @@
   "id": 639040205,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Terrapin Ln Trenton NJ 08619",
+    "addr:housenumber":"42",
+    "addr:postcode":"08619",
+    "addr:street":"Terrapin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.675361,40.25407,-74.675361,40.25407",
     "geom:latitude":40.25407,
     "geom:longitude":-74.675361,
@@ -24,7 +29,10 @@
     "sg:postcode":"08619",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E9XaNf9Rid62TpAXRM7Jp_40.254070_-74.675361@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461286053,
     "wof:geomhash":"dda380acaa168ff8a37010adf06cda2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":639040205
+        }
+    ],
     "wof:id":639040205,
-    "wof:lastmodified":1466673991,
+    "wof:lastmodified":1492047660,
     "wof:name":"R J Vanderhoof",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

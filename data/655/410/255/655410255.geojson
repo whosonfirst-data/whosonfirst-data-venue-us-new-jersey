@@ -2,9 +2,14 @@
   "id": 655410255,
   "type": "Feature",
   "properties": {
+    "addr:full":"675 Morris Ave Springfield NJ 07081",
+    "addr:housenumber":"675",
+    "addr:postcode":"07081",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.328719,40.718554,-74.328719,40.718554",
     "geom:latitude":40.718554,
     "geom:longitude":-74.328719,
@@ -27,7 +32,13 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478043,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j1t5yHY0XENHjaicB6hlH_40.718554_-74.328719@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461305063,
     "wof:geomhash":"fde08b7203b3cca6cb52af2e5a5b84b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "region_id":85688607,
+            "venue_id":655410255
+        }
+    ],
     "wof:id":655410255,
-    "wof:lastmodified":1466675772,
+    "wof:lastmodified":1492051355,
     "wof:name":"Fallig Roberta PH D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

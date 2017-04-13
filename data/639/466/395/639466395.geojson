@@ -2,9 +2,14 @@
   "id": 639466395,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Argonne Farm Dr Bridgewater NJ 08807",
+    "addr:housenumber":"15",
+    "addr:postcode":"08807",
+    "addr:street":"Argonne Farm Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.604948,40.627906,-74.604948,40.627906",
     "geom:latitude":40.627906,
     "geom:longitude":-74.604948,
@@ -27,7 +32,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477917,
+        85633793,
+        85976131,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZNLsjIgBbl8RUMy1yIlMQ_40.627906_-74.604948@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296051,
     "wof:geomhash":"e6544d46b5cba120992d23ffdfaefb50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976131,
+            "region_id":85688607,
+            "venue_id":639466395
+        }
+    ],
     "wof:id":639466395,
-    "wof:lastmodified":1466693963,
+    "wof:lastmodified":1492072268,
     "wof:name":"Jeff Zeller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

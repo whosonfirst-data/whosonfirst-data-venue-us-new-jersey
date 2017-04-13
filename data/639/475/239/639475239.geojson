@@ -2,9 +2,14 @@
   "id": 639475239,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 US Hwy 9 Englishtown NJ 07726",
+    "addr:housenumber":"309",
+    "addr:postcode":"07726",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303986,40.306095,-74.303986,40.306095",
     "geom:latitude":40.306095,
     "geom:longitude":-74.303986,
@@ -27,7 +32,12 @@
         "costume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85829017,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p3WLWllDCPTbNHcFMN0AN_40.306095_-74.303986@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461296405,
     "wof:geomhash":"b3e7d33d8f8afce2de5ac21797ebf115",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85829017,
+            "region_id":85688607,
+            "venue_id":639475239
+        }
+    ],
     "wof:id":639475239,
-    "wof:lastmodified":1466694250,
+    "wof:lastmodified":1492052327,
     "wof:name":"Jeweled Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

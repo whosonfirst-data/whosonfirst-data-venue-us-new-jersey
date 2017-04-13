@@ -2,9 +2,14 @@
   "id": 655659113,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Paris Ave Northvale NJ 07647",
+    "addr:housenumber":"121",
+    "addr:postcode":"07647",
+    "addr:street":"Paris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.951439,41.007599,-73.951439,41.007599",
     "geom:latitude":41.007599,
     "geom:longitude":-73.951439,
@@ -29,7 +34,14 @@
         "manicuring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WdjGZch6ZwGyidRzzJxub_41.007577_-73.951416@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461315583,
     "wof:geomhash":"4a446cb352beb6c3524fb90d78d27fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655659113
+        }
+    ],
     "wof:id":655659113,
-    "wof:lastmodified":1466683058,
+    "wof:lastmodified":1492052086,
     "wof:name":"Paris Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

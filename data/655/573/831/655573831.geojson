@@ -2,9 +2,14 @@
   "id": 655573831,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Springhill Rd Skillman NJ 08558",
+    "addr:housenumber":"100",
+    "addr:postcode":"08558",
+    "addr:street":"Springhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732007,40.40923,-74.732007,40.40923",
     "geom:latitude":40.40923,
     "geom:longitude":-74.732007,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iB5dKqKwRtXi6Qf6wu6xU_40.409230_-74.732007@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311900,
     "wof:geomhash":"df9b06a9c34a49f1198529bc7383a37c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655573831
+        }
+    ],
     "wof:id":655573831,
-    "wof:lastmodified":1466680234,
+    "wof:lastmodified":1492053583,
     "wof:name":"Gilman & Gilman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

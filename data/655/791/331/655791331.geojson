@@ -2,9 +2,14 @@
   "id": 655791331,
   "type": "Feature",
   "properties": {
+    "addr:full":"263 State Route 31 S Washington NJ 07882",
+    "addr:housenumber":"263",
+    "addr:postcode":"07882",
+    "addr:street":"State Route 31 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975098,40.753799,-74.975098,40.753799",
     "geom:latitude":40.753799,
     "geom:longitude":-74.975098,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tyuEcoliKo367VrLrygY3_40.753799_-74.975098@1303262271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321030,
     "wof:geomhash":"31d8f27f867129d9007d4b734a390468",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791331
+        }
+    ],
     "wof:id":655791331,
-    "wof:lastmodified":1466686606,
+    "wof:lastmodified":1492074641,
     "wof:name":"Washington Animal Hospital",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

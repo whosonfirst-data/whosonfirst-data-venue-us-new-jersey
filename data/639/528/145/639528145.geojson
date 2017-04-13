@@ -2,9 +2,14 @@
   "id": 639528145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Rachel Ter Pine Brook NJ 07058",
+    "addr:housenumber":"2300",
+    "addr:postcode":"07058",
+    "addr:street":"Rachel Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331166,40.853366,-74.331166,40.853366",
     "geom:latitude":40.853366,
     "geom:longitude":-74.331166,
@@ -28,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h0wZYQqzeDCzvLo68OHpG_40.853366_-74.331166@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298755,
     "wof:geomhash":"bbd4222aaf3d02d81ec7d74c7e71c76a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":639528145
+        }
+    ],
     "wof:id":639528145,
-    "wof:lastmodified":1466695683,
+    "wof:lastmodified":1492076467,
     "wof:name":"Gemini Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

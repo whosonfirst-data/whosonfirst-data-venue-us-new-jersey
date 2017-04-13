@@ -2,9 +2,14 @@
   "id": 639590439,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Lambert Rd Stockton NJ 08559",
+    "addr:housenumber":"43",
+    "addr:postcode":"08559",
+    "addr:street":"Lambert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.931719,40.447351,-74.931719,40.447351",
     "geom:latitude":40.447351,
     "geom:longitude":-74.931719,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c39FJQnkygc3ph0Hyjyme_40.447351_-74.931719@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301355,
     "wof:geomhash":"fd4d57facb8194b96dab5519cb87c0dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":639590439
+        }
+    ],
     "wof:id":639590439,
-    "wof:lastmodified":1466696816,
+    "wof:lastmodified":1492057143,
     "wof:name":"Neil Upmeyer & Assoc",
     "wof:parent_id":420527135,
     "wof:placetype":"venue",

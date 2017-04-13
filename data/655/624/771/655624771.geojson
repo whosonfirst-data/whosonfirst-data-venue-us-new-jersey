@@ -2,9 +2,14 @@
   "id": 655624771,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Scenic Dr Oak Ridge NJ 07438",
+    "addr:housenumber":"35",
+    "addr:postcode":"07438",
+    "addr:street":"Scenic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.533163,41.04895,-74.533163,41.04895",
     "geom:latitude":41.04895,
     "geom:longitude":-74.533163,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LJunC19eNhMFNa7uGmFed_41.048950_-74.533163@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461314097,
     "wof:geomhash":"040a1a1769dd3d77f0a57cc7c59ecca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527679,
+            "venue_id":655624771
+        }
+    ],
     "wof:id":655624771,
-    "wof:lastmodified":1466681979,
+    "wof:lastmodified":1492049222,
     "wof:name":"Brickworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655422981,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1135",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236696,40.69229,-74.236696,40.69229",
     "geom:latitude":40.69229,
     "geom:longitude":-74.236696,
@@ -30,7 +35,13 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dnNquxCeDHn3r3CkGFBQp_40.692290_-74.236696@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461305586,
     "wof:geomhash":"d4abc53db24dee2c9054e9ac78f81848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655422981
+        }
+    ],
     "wof:id":655422981,
-    "wof:lastmodified":1466676246,
+    "wof:lastmodified":1492071360,
     "wof:name":"Palmer Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

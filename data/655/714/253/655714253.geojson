@@ -2,9 +2,14 @@
   "id": 655714253,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Schuyler Ave North Arlington NJ 07031",
+    "addr:housenumber":"69",
+    "addr:postcode":"07031",
+    "addr:street":"Schuyler Ave North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128601,40.7803,-74.128601,40.7803",
     "geom:latitude":40.7803,
     "geom:longitude":-74.128601,
@@ -24,7 +29,14 @@
     "sg:postcode":"07031",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38IW0bli2CDAgClS3Di0hB_40.780300_-74.128601@1303262252"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317932,
     "wof:geomhash":"1d61a127036c22fc01bc64ae2bca941b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655714253
+        }
+    ],
     "wof:id":655714253,
-    "wof:lastmodified":1466684576,
+    "wof:lastmodified":1492076087,
     "wof:name":"Arlington Florist & Garden Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

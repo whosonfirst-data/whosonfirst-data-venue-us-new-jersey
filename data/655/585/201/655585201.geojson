@@ -2,9 +2,14 @@
   "id": 655585201,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Poe Rd Princeton NJ 08540",
+    "addr:housenumber":"86",
+    "addr:postcode":"08540",
+    "addr:street":"Poe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.631272,40.369458,-74.631272,40.369458",
     "geom:latitude":40.369458,
     "geom:longitude":-74.631272,
@@ -29,7 +34,13 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VTYPGRSfkpKpzNJnU2bwS_40.369458_-74.631272@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461312400,
     "wof:geomhash":"7739b20b733e1f20a981ee6b5614158f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655585201
+        }
+    ],
     "wof:id":655585201,
-    "wof:lastmodified":1466680354,
+    "wof:lastmodified":1492049438,
     "wof:name":"Jr Assoc Mtg Cnvntion Speakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638706265,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Hepworth Pl Garfield NJ 07026",
+    "addr:housenumber":"42",
+    "addr:postcode":"07026",
+    "addr:street":"Hepworth Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106968,40.867446,-74.106968,40.867446",
     "geom:latitude":40.867446,
     "geom:longitude":-74.106968,
@@ -35,7 +40,14 @@
         "vinyl"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y2b4TxJqaCbV0F68pniuU_40.867446_-74.106968@1294171694"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461277777,
     "wof:geomhash":"8319677608c1a6aa64e25d78b4713660",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":638706265
+        }
+    ],
     "wof:id":638706265,
-    "wof:lastmodified":1466688683,
+    "wof:lastmodified":1492068873,
     "wof:name":"Royal Slide Sales Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655534127,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Walnut Ave Clark NJ 07066",
+    "addr:housenumber":"67",
+    "addr:postcode":"07066",
+    "addr:street":"Walnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301594,40.629485,-74.301594,40.629485",
     "geom:latitude":40.629485,
     "geom:longitude":-74.301594,
@@ -32,7 +37,13 @@
         "exporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16YywDp8z6V4ZISWF00rc7_40.629485_-74.301594@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461310205,
     "wof:geomhash":"3439cabac584cce95525b4d86b2de76f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655534127
+        }
+    ],
     "wof:id":655534127,
-    "wof:lastmodified":1466678978,
+    "wof:lastmodified":1492048161,
     "wof:name":"Vertex International Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

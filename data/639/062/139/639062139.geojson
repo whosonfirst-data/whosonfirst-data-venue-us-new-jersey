@@ -2,9 +2,14 @@
   "id": 639062139,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Reiher Ct West Caldwell NJ 07006",
+    "addr:housenumber":"5",
+    "addr:postcode":"07006",
+    "addr:street":"Reiher Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301403,40.84078,-74.301403,40.84078",
     "geom:latitude":40.84078,
     "geom:longitude":-74.301403,
@@ -27,7 +32,13 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478059,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yLbeBbWJKqLF8lgO4rSHG_40.840780_-74.301403@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286525,
     "wof:geomhash":"c2080d6e49df7922b26e3608511df009",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478059,
+            "region_id":85688607,
+            "venue_id":639062139
+        }
+    ],
     "wof:id":639062139,
-    "wof:lastmodified":1466688070,
+    "wof:lastmodified":1492050749,
     "wof:name":"MTS Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

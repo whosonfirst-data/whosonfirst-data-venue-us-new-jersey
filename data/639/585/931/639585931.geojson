@@ -2,9 +2,14 @@
   "id": 639585931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2232 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"2232",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.488459,40.433367,-74.488459,40.433367",
     "geom:latitude":40.433367,
     "geom:longitude":-74.488459,
@@ -30,7 +35,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77RJp3hAPrjBgHy6pNX5WX_40.433367_-74.488459@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461301160,
     "wof:geomhash":"4b6e0c2af87b7999ac3e8b9bdc3350f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639585931
+        }
+    ],
     "wof:id":639585931,
-    "wof:lastmodified":1466696517,
+    "wof:lastmodified":1492068865,
     "wof:name":"Little Scholars Learning Ctr",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

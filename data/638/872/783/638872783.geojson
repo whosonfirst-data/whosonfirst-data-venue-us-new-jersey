@@ -2,9 +2,14 @@
   "id": 638872783,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"764",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217035,40.729153,-74.217035,40.729153",
     "geom:latitude":40.729153,
     "geom:longitude":-74.217035,
@@ -30,7 +35,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YocQCMUBiheRtNEZNzVyH_40.729153_-74.217035@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461282028,
     "wof:geomhash":"e8dc4094176ed871809746c15e19433a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":638872783
+        }
+    ],
     "wof:id":638872783,
-    "wof:lastmodified":1466689398,
+    "wof:lastmodified":1492024335,
     "wof:name":"Addies Deli & Payment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655457335,
   "type": "Feature",
   "properties": {
+    "addr:full":"271 W Main St Bergenfield NJ 07621",
+    "addr:housenumber":"271",
+    "addr:postcode":"07621",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.007344,40.928027,-74.007344,40.928027",
     "geom:latitude":40.928027,
     "geom:longitude":-74.007344,
@@ -27,7 +32,14 @@
         "tent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PjynYoQ9lN3pb7GbwGl6m_40.928027_-74.007344@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461307043,
     "wof:geomhash":"93af7b6fb73aa92d069fd42fd35fd745",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655457335
+        }
+    ],
     "wof:id":655457335,
-    "wof:lastmodified":1466677039,
+    "wof:lastmodified":1492051920,
     "wof:name":"Alpine Party Tent Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

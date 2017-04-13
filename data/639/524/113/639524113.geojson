@@ -2,9 +2,14 @@
   "id": 639524113,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 Hillcrest Blvd Phillipsburg NJ 08865",
+    "addr:housenumber":"621",
+    "addr:postcode":"08865",
+    "addr:street":"Hillcrest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.188133,40.698763,-75.188133,40.698763",
     "geom:latitude":40.698763,
     "geom:longitude":-75.188133,
@@ -27,7 +32,14 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nL2KTiQ7PeniAvkTS8qgR_40.698763_-75.188133@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298512,
     "wof:geomhash":"a5d241d44e442277bc7f1215a024653b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639524113
+        }
+    ],
     "wof:id":639524113,
-    "wof:lastmodified":1466695160,
+    "wof:lastmodified":1492076805,
     "wof:name":"Dental Equipment Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

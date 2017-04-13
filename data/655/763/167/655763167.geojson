@@ -2,9 +2,14 @@
   "id": 655763167,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Main St Little Falls NJ 07424",
+    "addr:housenumber":"417",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240898,40.886101,-74.240898,40.886101",
     "geom:latitude":40.886101,
     "geom:longitude":-74.240898,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wIVh0My8pyOhdJ3jGnhrj_40.886101_-74.240898@1303262264"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319776,
     "wof:geomhash":"c3c7012915ecec0798fed03c4db3452d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":655763167
+        }
+    ],
     "wof:id":655763167,
-    "wof:lastmodified":1466685842,
+    "wof:lastmodified":1492028495,
     "wof:name":"Malanga Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

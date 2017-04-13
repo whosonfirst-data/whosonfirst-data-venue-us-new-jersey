@@ -2,9 +2,14 @@
   "id": 638797735,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Johnson Ln Jackson NJ 08527",
+    "addr:housenumber":"91",
+    "addr:postcode":"08527",
+    "addr:street":"Johnson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.31346,40.118548,-74.31346,40.118548",
     "geom:latitude":40.118548,
     "geom:longitude":-74.31346,
@@ -28,7 +33,13 @@
         "refrigerating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xaFxGCYXMTj73nf9Au0nv_40.118548_-74.313460@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461280182,
     "wof:geomhash":"20c2089b0158dc0da9463d7fc45fd3cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638797735
+        }
+    ],
     "wof:id":638797735,
-    "wof:lastmodified":1466685261,
+    "wof:lastmodified":1492047912,
     "wof:name":"Chiller Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

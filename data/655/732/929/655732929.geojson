@@ -2,9 +2,14 @@
   "id": 655732929,
   "type": "Feature",
   "properties": {
+    "addr:full":"169 W Main Street Rahway NJ 07065",
+    "addr:housenumber":"169",
+    "addr:postcode":"07065",
+    "addr:street":"W Main Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275572,40.610931,-74.275572,40.610931",
     "geom:latitude":40.610931,
     "geom:longitude":-74.275572,
@@ -27,7 +32,14 @@
         "spanish"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZFSiMf17eNJ1PcBwMSKAU_40.610931_-74.275572@1303262257"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318643,
     "wof:geomhash":"6fb59e36b20a1e735230d190803da884",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655732929
+        }
+    ],
     "wof:id":655732929,
-    "wof:lastmodified":1466685234,
+    "wof:lastmodified":1492039784,
     "wof:name":"El Bodegon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

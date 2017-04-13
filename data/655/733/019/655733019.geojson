@@ -2,9 +2,14 @@
   "id": 655733019,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 US Highway 1 Rahway NJ 07065",
+    "addr:housenumber":"1500",
+    "addr:postcode":"07065",
+    "addr:street":"Us Highway 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.267303,40.602402,-74.267303,40.602402",
     "geom:latitude":40.602402,
     "geom:longitude":-74.267303,
@@ -27,7 +32,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UhMIKwPzgM67vtqTz6meA_40.602402_-74.267303@1303262257"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318646,
     "wof:geomhash":"a711642f2c212cb5b065ce68b62b7875",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733019
+        }
+    ],
     "wof:id":655733019,
-    "wof:lastmodified":1466685020,
+    "wof:lastmodified":1492049072,
     "wof:name":"Bell Subaru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

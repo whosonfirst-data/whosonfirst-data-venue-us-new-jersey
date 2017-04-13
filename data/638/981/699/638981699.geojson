@@ -2,9 +2,14 @@
   "id": 638981699,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 Cass St Trenton NJ 08611",
+    "addr:housenumber":"603",
+    "addr:postcode":"08611",
+    "addr:street":"Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.753882,40.206028,-74.753882,40.206028",
     "geom:latitude":40.206028,
     "geom:longitude":-74.753882,
@@ -24,7 +29,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DyZMKh702xuVsRQcolmt4_40.206028_-74.753882@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461284681,
     "wof:geomhash":"ab00923221b4473f3631cb027aec34d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638981699
+        }
+    ],
     "wof:id":638981699,
-    "wof:lastmodified":1466691915,
+    "wof:lastmodified":1492046314,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

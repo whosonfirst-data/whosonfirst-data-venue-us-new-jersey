@@ -2,9 +2,14 @@
   "id": 655600079,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Leffler Hill Rd Flemington NJ 08822",
+    "addr:housenumber":"89",
+    "addr:postcode":"08822",
+    "addr:street":"Leffler Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.895344,40.489195,-74.895344,40.489195",
     "geom:latitude":40.489195,
     "geom:longitude":-74.895344,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t5lgdrEzmSRQFkFkR04YG_40.489195_-74.895344@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313016,
     "wof:geomhash":"17fffacfa0b6bc10c8831e4222759609",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":655600079
+        }
+    ],
     "wof:id":655600079,
-    "wof:lastmodified":1466680916,
+    "wof:lastmodified":1492048137,
     "wof:name":"Lucent Technology",
     "wof:parent_id":420527093,
     "wof:placetype":"venue",

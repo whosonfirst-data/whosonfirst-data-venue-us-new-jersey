@@ -2,9 +2,14 @@
   "id": 655682371,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Lexington Blvd Clark NJ 07066",
+    "addr:housenumber":"209",
+    "addr:postcode":"07066",
+    "addr:street":"Lexington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.311623,40.627175,-74.311623,40.627175",
     "geom:latitude":40.627175,
     "geom:longitude":-74.311623,
@@ -29,7 +34,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q5xkRQy7FsC8NzEmucHKV_40.627648_-74.312427@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316519,
     "wof:geomhash":"0ce74ea2c7d167a6bc0dfcb9ff0ca48b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655682371
+        }
+    ],
     "wof:id":655682371,
-    "wof:lastmodified":1466683782,
+    "wof:lastmodified":1492024147,
     "wof:name":"Ivy Park Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

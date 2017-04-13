@@ -2,9 +2,14 @@
   "id": 638782937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Brace Rd Cherry Hill NJ 08034",
+    "addr:housenumber":"1210",
+    "addr:postcode":"08034",
+    "addr:street":"Brace Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012575,39.904553,-75.012575,39.904553",
     "geom:latitude":39.904553,
     "geom:longitude":-75.012575,
@@ -34,7 +39,10 @@
         85633793,
         85975661,
         102081131,
-        85688607
+        85688607,
+        85804463,
+        404477993,
+        85976245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":85853647,
             "region_id":85688607,
             "venue_id":638782937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976245,
+            "neighbourhood_id":85804463,
+            "region_id":85688607,
+            "venue_id":638782937
         }
     ],
     "wof:id":638782937,
-    "wof:lastmodified":1466683385,
+    "wof:lastmodified":1492059962,
     "wof:name":"Urology Care Center",
-    "wof:parent_id":85853647,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

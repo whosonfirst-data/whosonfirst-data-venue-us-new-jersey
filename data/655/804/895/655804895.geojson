@@ -2,9 +2,14 @@
   "id": 655804895,
   "type": "Feature",
   "properties": {
+    "addr:full":"2168 Camilla Ave Atco NJ 08004",
+    "addr:housenumber":"2168",
+    "addr:postcode":"08004",
+    "addr:street":"Camilla Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889999,39.7733,-74.889999,39.7733",
     "geom:latitude":39.7733,
     "geom:longitude":-74.889999,
@@ -27,7 +32,10 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I57ulQrUbh780yvPyPTMh_39.773300_-74.889999@1303262274"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321563,
     "wof:geomhash":"6c5a6701e3b387a1f33f7e435e01890c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655804895
+        }
+    ],
     "wof:id":655804895,
-    "wof:lastmodified":1466687186,
+    "wof:lastmodified":1492040551,
     "wof:name":"Marks Towing",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

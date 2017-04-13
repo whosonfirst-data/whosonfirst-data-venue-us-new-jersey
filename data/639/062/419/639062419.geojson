@@ -2,9 +2,14 @@
   "id": 639062419,
   "type": "Feature",
   "properties": {
+    "addr:full":"386 Mansfield Rd E Columbus NJ 08022",
+    "addr:housenumber":"386",
+    "addr:postcode":"08022",
+    "addr:street":"Mansfield Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703532,40.0895,-74.703532,40.0895",
     "geom:latitude":40.0895,
     "geom:longitude":-74.703532,
@@ -27,7 +32,10 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jRLGJF2DH5ZI3lNKYz1sj_40.089500_-74.703532@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286531,
     "wof:geomhash":"1a7c5592606bccda01adcc9d3578940e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639062419
+        }
+    ],
     "wof:id":639062419,
-    "wof:lastmodified":1466688107,
+    "wof:lastmodified":1492047921,
     "wof:name":"Wine Garden",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

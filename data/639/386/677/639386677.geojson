@@ -2,9 +2,14 @@
   "id": 639386677,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Edison Ave Oakland NJ 07436",
+    "addr:housenumber":"65",
+    "addr:postcode":"07436",
+    "addr:street":"Edison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.265045,41.021243,-74.265045,41.021243",
     "geom:latitude":41.021243,
     "geom:longitude":-74.265045,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.jamesconstruction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aWbkMwfzJucqRw4PQKOz7_41.021243_-74.265045@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461293777,
     "wof:geomhash":"7e613c6ae841494c95a3d93beed04636",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639386677
+        }
+    ],
     "wof:id":639386677,
-    "wof:lastmodified":1466692787,
+    "wof:lastmodified":1492054533,
     "wof:name":"James Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

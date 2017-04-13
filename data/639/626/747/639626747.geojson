@@ -2,9 +2,14 @@
   "id": 639626747,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 Bridge Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"2229",
+    "addr:postcode":"08742",
+    "addr:street":"Bridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.068025,40.071995,-74.068025,40.071995",
     "geom:latitude":40.071995,
     "geom:longitude":-74.068025,
@@ -28,7 +33,14 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fBVTrkFMtag7tNc8q26BN_40.071995_-74.068025@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302777,
     "wof:geomhash":"7c953a13ae05ced0a093c0d359211384",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639626747
+        }
+    ],
     "wof:id":639626747,
-    "wof:lastmodified":1466697510,
+    "wof:lastmodified":1492048495,
     "wof:name":"U S Postal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

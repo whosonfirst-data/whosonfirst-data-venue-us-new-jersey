@@ -2,9 +2,14 @@
   "id": 655412073,
   "type": "Feature",
   "properties": {
+    "addr:full":"258 William Livingston Ct Princeton NJ 08540",
+    "addr:housenumber":"258",
+    "addr:postcode":"08540",
+    "addr:street":"William Livingston Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660312,40.388012,-74.660312,40.388012",
     "geom:latitude":40.388012,
     "geom:longitude":-74.660312,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qgv71ZDuzK6K6qCKXoqCW_40.388012_-74.660312@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461305152,
     "wof:geomhash":"86572b1cb34e604a1517479538a639fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655412073
+        }
+    ],
     "wof:id":655412073,
-    "wof:lastmodified":1466675737,
+    "wof:lastmodified":1492043000,
     "wof:name":"SD Football Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

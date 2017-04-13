@@ -2,9 +2,14 @@
   "id": 638717187,
   "type": "Feature",
   "properties": {
+    "addr:full":"287 Julianne Ter Secaucus NJ 07094",
+    "addr:housenumber":"287",
+    "addr:postcode":"07094",
+    "addr:street":"Julianne Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.060808,40.800324,-74.060808,40.800324",
     "geom:latitude":40.800324,
     "geom:longitude":-74.060808,
@@ -29,7 +34,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c9AS7QOcXreBHy4RAvJVz_40.800324_-74.060808@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461278111,
     "wof:geomhash":"77cfe8a966da68d5be89cfc634925b86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":638717187
+        }
+    ],
     "wof:id":638717187,
-    "wof:lastmodified":1466673592,
+    "wof:lastmodified":1492062319,
     "wof:name":"Jinco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

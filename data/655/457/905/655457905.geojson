@@ -2,9 +2,14 @@
   "id": 655457905,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Bernards Ave Bernardsville NJ 07924",
+    "addr:housenumber":"52",
+    "addr:postcode":"07924",
+    "addr:street":"Bernards Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.572865,40.713533,-74.572865,40.713533",
     "geom:latitude":40.713533,
     "geom:longitude":-74.572865,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85841653,
+        102191575,
+        404477913,
         85633793,
-        85831903,
-        102085045
+        85975521,
+        102085045,
+        85688607,
+        85831903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"f2308a2922192f5a810c938de94bff2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477913,
+            "locality_id":85975521,
+            "neighbourhood_id":85841653,
+            "region_id":85688607,
+            "venue_id":655457905
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "neighbourhood_id":85831903,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":655457905,
-    "wof:lastmodified":1466677189,
+    "wof:lastmodified":1492041007,
     "wof:name":"Trumpets Shall Sound",
-    "wof:parent_id":85831903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639613147,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Sandbrook Headquarters Rd Stockton NJ 08559",
+    "addr:housenumber":"109",
+    "addr:postcode":"08559",
+    "addr:street":"Headquarters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.916177,40.466058,-74.916177,40.466058",
     "geom:latitude":40.466058,
     "geom:longitude":-74.916177,
@@ -27,7 +32,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gkbP68CbomfHx5Gmis1JH_40.466058_-74.916177@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302250,
     "wof:geomhash":"cad78d20f99c4acd4daaf4c64a68f5ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527135,
+            "venue_id":639613147
+        }
+    ],
     "wof:id":639613147,
-    "wof:lastmodified":1466697114,
+    "wof:lastmodified":1492053576,
     "wof:name":"Periodical Services",
     "wof:parent_id":420527135,
     "wof:placetype":"venue",

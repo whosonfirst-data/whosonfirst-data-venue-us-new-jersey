@@ -2,9 +2,14 @@
   "id": 655833065,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Reed Rd Jackson NJ 08527",
+    "addr:housenumber":"700",
+    "addr:postcode":"08527",
+    "addr:street":"Reed Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.410759,40.131502,-74.410759,40.131502",
     "geom:latitude":40.131502,
     "geom:longitude":-74.410759,
@@ -30,7 +35,13 @@
     ],
     "sg:website":"http://www.timberlandlakecampground.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NUH6aFkUSfakUjkp3OHfM_40.131502_-74.410759@1303262281"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461322789,
     "wof:geomhash":"d4f882bc7efff83aeeee2919832fea91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655833065
+        }
+    ],
     "wof:id":655833065,
-    "wof:lastmodified":1466687656,
+    "wof:lastmodified":1492065601,
     "wof:name":"Timberland Lake Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

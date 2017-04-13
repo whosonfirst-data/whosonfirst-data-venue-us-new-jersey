@@ -2,9 +2,14 @@
   "id": 639620161,
   "type": "Feature",
   "properties": {
+    "addr:full":"266 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"266",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.9602,40.971793,-73.9602,40.971793",
     "geom:latitude":40.971793,
     "geom:longitude":-73.9602,
@@ -28,7 +33,14 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B6VF86oeLg9VEBaUABPzx_40.971793_-73.960200@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302510,
     "wof:geomhash":"807160bf65114746e9c7720edb0b6761",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639620161
+        }
+    ],
     "wof:id":639620161,
-    "wof:lastmodified":1466697249,
+    "wof:lastmodified":1492050896,
     "wof:name":"General Nutrition Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638706781,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Lacey Rd Forked River NJ 08731",
+    "addr:housenumber":"42",
+    "addr:postcode":"08731",
+    "addr:street":"Lacey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.191657,39.840677,-74.191657,39.840677",
     "geom:latitude":39.840677,
     "geom:longitude":-74.191657,
@@ -27,7 +32,10 @@
         "midwife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ykg3e91Zf7PwClPl29Atu_39.840677_-74.191657@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461277795,
     "wof:geomhash":"121ceddbb32ef11c0c6d2ea0f0e7b709",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527429,
+            "venue_id":638706781
+        }
+    ],
     "wof:id":638706781,
-    "wof:lastmodified":1466688736,
+    "wof:lastmodified":1492062532,
     "wof:name":"North Dover Ob-Gyn",
     "wof:parent_id":420527429,
     "wof:placetype":"venue",

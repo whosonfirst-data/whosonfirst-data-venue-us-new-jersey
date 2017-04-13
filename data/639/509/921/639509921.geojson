@@ -2,9 +2,14 @@
   "id": 639509921,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Stewart Ave Irvington NJ 07111",
+    "addr:housenumber":"47",
+    "addr:postcode":"07111",
+    "addr:street":"Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.245236,40.712431,-74.245236,40.712431",
     "geom:latitude":40.712431,
     "geom:longitude":-74.245236,
@@ -27,7 +32,13 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jsHRBLq9WFKEFSTwVEUra_40.712431_-74.245236@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461297847,
     "wof:geomhash":"eb22c77c7d16b55bf16030ae4190f4e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639509921
+        }
+    ],
     "wof:id":639509921,
-    "wof:lastmodified":1466694949,
+    "wof:lastmodified":1492076687,
     "wof:name":"Morton Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

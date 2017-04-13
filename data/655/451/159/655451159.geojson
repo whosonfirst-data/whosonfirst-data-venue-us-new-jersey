@@ -2,9 +2,14 @@
   "id": 655451159,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 American Legion Dr Riverside NJ 08075",
+    "addr:housenumber":"212",
+    "addr:postcode":"08075",
+    "addr:street":"American Legion Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.967099,40.038583,-74.967099,40.038583",
     "geom:latitude":40.038583,
     "geom:longitude":-74.967099,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
-        85633793,
         85814165,
-        102087415
+        102191575,
+        404477959,
+        85633793,
+        102087415,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"135e5ad83441e9e5f599d15d551e4b1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087415,
+            "localadmin_id":404477959,
             "neighbourhood_id":85814165,
             "region_id":85688607,
             "venue_id":655451159
         }
     ],
     "wof:id":655451159,
-    "wof:lastmodified":1466676804,
+    "wof:lastmodified":1492045062,
     "wof:name":"American Legion",
     "wof:parent_id":85814165,
     "wof:placetype":"venue",

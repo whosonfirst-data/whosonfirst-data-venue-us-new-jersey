@@ -2,9 +2,14 @@
   "id": 639542885,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Ely Harmony Rd Freehold NJ 07728",
+    "addr:housenumber":"131",
+    "addr:postcode":"07728",
+    "addr:street":"Ely Harmony Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.314555,40.173583,-74.314555,40.173583",
     "geom:latitude":40.173583,
     "geom:longitude":-74.314555,
@@ -27,7 +32,13 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478343,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NY83k3gQcBqI8YClkbUp5_40.173583_-74.314555@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461299452,
     "wof:geomhash":"693c0cc248f6956414874dbf31d29452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478343,
+            "region_id":85688607,
+            "venue_id":639542885
+        }
+    ],
     "wof:id":639542885,
-    "wof:lastmodified":1466695739,
+    "wof:lastmodified":1492049697,
     "wof:name":"Complete Medical Billing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

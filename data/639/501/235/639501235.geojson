@@ -2,9 +2,14 @@
   "id": 639501235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 Parkway Ave Trenton NJ 08628",
+    "addr:housenumber":"1230",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.801842,40.263508,-74.801842,40.263508",
     "geom:latitude":40.263508,
     "geom:longitude":-74.801842,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vhbbBNetA4F0ause5pjhQ_40.263508_-74.801842@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461297466,
     "wof:geomhash":"3853947be1d1881e58dc20841e4a31db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":639501235
+        }
+    ],
     "wof:id":639501235,
-    "wof:lastmodified":1466694697,
+    "wof:lastmodified":1492042237,
     "wof:name":"J & J Staffing Resources Inc",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638882141,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Buckelew Ave Jamesburg NJ 08831",
+    "addr:housenumber":"300",
+    "addr:postcode":"08831",
+    "addr:street":"Buckelew Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.434128,40.347125,-74.434128,40.347125",
     "geom:latitude":40.347125,
     "geom:longitude":-74.434128,
@@ -37,7 +42,10 @@
     ],
     "sg:website":"www.hydranautics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mB9WNShXY8SoggZE1vtNZ_40.347125_-74.434128@1294171694"
@@ -45,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461282253,
     "wof:geomhash":"7b2075e4797d14376b2764b8fca820b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638882141
+        }
+    ],
     "wof:id":638882141,
-    "wof:lastmodified":1466689731,
+    "wof:lastmodified":1492028615,
     "wof:name":"Hydranautics",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

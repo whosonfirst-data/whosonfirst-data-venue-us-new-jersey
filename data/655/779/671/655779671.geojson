@@ -2,9 +2,14 @@
   "id": 655779671,
   "type": "Feature",
   "properties": {
+    "addr:full":"153 Homans Ave Closter NJ 07624",
+    "addr:housenumber":"153",
+    "addr:postcode":"07624",
+    "addr:street":"Homans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954556,40.970282,-73.954556,40.970282",
     "geom:latitude":40.970282,
     "geom:longitude":-73.954556,
@@ -37,7 +42,14 @@
     ],
     "sg:website":"http://www.clostergolfcenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XL3oviyEFgxhP3V0r8tvm_40.970282_-73.954556@1303262268"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461320545,
     "wof:geomhash":"455ac52739abc6e972014b134643294a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655779671
+        }
+    ],
     "wof:id":655779671,
-    "wof:lastmodified":1466686428,
+    "wof:lastmodified":1492027646,
     "wof:name":"Closter Golf Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

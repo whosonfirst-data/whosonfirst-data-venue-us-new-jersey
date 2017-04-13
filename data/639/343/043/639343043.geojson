@@ -2,9 +2,14 @@
   "id": 639343043,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 1st Ave Atlantic Highlands NJ 07716",
+    "addr:housenumber":"2",
+    "addr:postcode":"07716",
+    "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.036841,40.416545,-74.036841,40.416545",
     "geom:latitude":40.416545,
     "geom:longitude":-74.036841,
@@ -27,7 +32,15 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273,
+        85688607,
+        102191575,
+        85975375,
+        102085049,
+        85825733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Da6xBfAaEuGSC8rtYW8DL_40.416545_-74.036841@1294171694"
@@ -35,11 +48,26 @@
     "wof:country":"US",
     "wof:created":1461292875,
     "wof:geomhash":"2e5ef49ff1ae22073078bb451aa0a724",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639343043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85975375,
+            "neighbourhood_id":85825733,
+            "region_id":85688607,
+            "venue_id":639343043
+        }
+    ],
     "wof:id":639343043,
-    "wof:lastmodified":1466692245,
+    "wof:lastmodified":1492044425,
     "wof:name":"Seastreak America Inc",
-    "wof:parent_id":420527273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639573587,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Bartley Rd Jackson NJ 08527",
+    "addr:housenumber":"401",
+    "addr:postcode":"08527",
+    "addr:street":"Bartley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27778,40.148885,-74.27778,40.148885",
     "geom:latitude":40.148885,
     "geom:longitude":-74.27778,
@@ -27,7 +32,12 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85805747,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IfEICfgBZBqbIFum9m82U_40.148885_-74.277780@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461300655,
     "wof:geomhash":"089b18f78c5d728d1ce7c3ea6f0d08ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85805747,
+            "region_id":85688607,
+            "venue_id":639573587
+        }
+    ],
     "wof:id":639573587,
-    "wof:lastmodified":1466696285,
+    "wof:lastmodified":1492026253,
     "wof:name":"Knights Of Columbus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

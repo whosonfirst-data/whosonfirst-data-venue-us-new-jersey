@@ -2,9 +2,14 @@
   "id": 639299397,
   "type": "Feature",
   "properties": {
+    "addr:full":"3883 Federal St Pennsauken NJ 08110",
+    "addr:housenumber":"3883",
+    "addr:postcode":"08110",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.069981,39.948223,-75.069981,39.948223",
     "geom:latitude":39.948223,
     "geom:longitude":-75.069981,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37nTgiWk5igZOlJZZCWy4S_39.948223_-75.069981@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291957,
     "wof:geomhash":"e2cabaaf35fe591a520e8dfbcdaebde2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639299397
+        }
+    ],
     "wof:id":639299397,
-    "wof:lastmodified":1466691172,
+    "wof:lastmodified":1492053468,
     "wof:name":"Puebla Auto Repair",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

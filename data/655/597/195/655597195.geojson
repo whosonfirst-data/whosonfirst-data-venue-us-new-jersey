@@ -2,9 +2,14 @@
   "id": 655597195,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Willow Brook Dr Caldwell NJ 07006",
+    "addr:housenumber":"8",
+    "addr:postcode":"07006",
+    "addr:street":"Willow Brook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247386,40.864688,-74.247386,40.864688",
     "geom:latitude":40.864688,
     "geom:longitude":-74.247386,
@@ -27,7 +32,14 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477429,
+        85633793,
+        85975285,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1asbzVzq5ZSgu5pjFq3D5T_40.864688_-74.247386@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312890,
     "wof:geomhash":"cdb2846a7d5098f49abba6a55f7ce3db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404477429,
+            "locality_id":85975285,
+            "region_id":85688607,
+            "venue_id":655597195
+        }
+    ],
     "wof:id":655597195,
-    "wof:lastmodified":1466680957,
+    "wof:lastmodified":1492048011,
     "wof:name":"CNA Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

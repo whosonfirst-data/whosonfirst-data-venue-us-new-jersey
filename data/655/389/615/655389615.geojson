@@ -2,9 +2,14 @@
   "id": 655389615,
   "type": "Feature",
   "properties": {
+    "addr:full":"1091 River Ave Lakewood NJ 08701",
+    "addr:housenumber":"1091",
+    "addr:postcode":"08701",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220077,40.057438,-74.220077,40.057438",
     "geom:latitude":40.057438,
     "geom:longitude":-74.220077,
@@ -28,7 +33,10 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QzVILsKfHAxk02J9QInjs_40.057438_-74.220077@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304192,
     "wof:geomhash":"3133d7bd28831c72f1372a9d334aefe5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655389615
+        }
+    ],
     "wof:id":655389615,
-    "wof:lastmodified":1466675307,
+    "wof:lastmodified":1492065598,
     "wof:name":"Asset Tile & Paint",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

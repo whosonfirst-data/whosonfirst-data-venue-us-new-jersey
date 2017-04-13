@@ -2,9 +2,14 @@
   "id": 655547647,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Haussler Ter Clifton NJ 07013",
+    "addr:housenumber":"15",
+    "addr:postcode":"07013",
+    "addr:street":"Haussler Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.186136,40.854482,-74.186136,40.854482",
     "geom:latitude":40.854482,
     "geom:longitude":-74.186136,
@@ -29,7 +34,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rf40FWMOK71efqs71NFuM_40.854482_-74.186136@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461310730,
     "wof:geomhash":"1b1c85f3a87be7ad35dc8e68e3f1ec4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655547647
+        }
+    ],
     "wof:id":655547647,
-    "wof:lastmodified":1466679507,
+    "wof:lastmodified":1492028500,
     "wof:name":"Mint Condition Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

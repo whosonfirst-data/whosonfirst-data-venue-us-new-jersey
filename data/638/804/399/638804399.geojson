@@ -2,9 +2,14 @@
   "id": 638804399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Newark Tpke Kearny NJ 07032",
+    "addr:housenumber":"1100",
+    "addr:postcode":"07032",
+    "addr:street":"Newark Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.126018,40.750332,-74.126018,40.750332",
     "geom:latitude":40.750332,
     "geom:longitude":-74.126018,
@@ -27,7 +32,14 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478141,
+        85633793,
+        85975293,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z9vWIyCUrhfWqkHlGwCOO_40.750332_-74.126018@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461280324,
     "wof:geomhash":"9e7d283958c18edc08139094d355df1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478141,
+            "locality_id":85975293,
+            "region_id":85688607,
+            "venue_id":638804399
+        }
+    ],
     "wof:id":638804399,
-    "wof:lastmodified":1466686152,
+    "wof:lastmodified":1492041035,
     "wof:name":"Meadow Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638835697,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Eric Trl Sussex NJ 07461",
+    "addr:housenumber":"30",
+    "addr:postcode":"07461",
+    "addr:street":"Eric Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.551184,41.205458,-74.551184,41.205458",
     "geom:latitude":41.205458,
     "geom:longitude":-74.551184,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZrHMVpun69q75iU7K8HFT_41.205458_-74.551184@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461281132,
     "wof:geomhash":"75537445ce926e1ef1c04abe71a3b428",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":638835697
+        }
+    ],
     "wof:id":638835697,
-    "wof:lastmodified":1466689052,
+    "wof:lastmodified":1492058458,
     "wof:name":"Robert C Vncek Dsign Assoc LLC",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

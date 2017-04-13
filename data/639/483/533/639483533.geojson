@@ -2,9 +2,14 @@
   "id": 639483533,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 US Hwy 9 Englishtown NJ 07726",
+    "addr:housenumber":"405",
+    "addr:postcode":"07726",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306083,40.319207,-74.306083,40.319207",
     "geom:latitude":40.319207,
     "geom:longitude":-74.306083,
@@ -27,7 +32,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cqRb4amdTWM5Y2GVmIKeH_40.319207_-74.306083@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296756,
     "wof:geomhash":"45c1df4774c9b7c8111e9f158bc57ad5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":639483533
+        }
+    ],
     "wof:id":639483533,
-    "wof:lastmodified":1466694458,
+    "wof:lastmodified":1492075214,
     "wof:name":"Pet Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

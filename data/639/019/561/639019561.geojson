@@ -2,9 +2,14 @@
   "id": 639019561,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Hemlock Rd Andover NJ 07821",
+    "addr:housenumber":"16",
+    "addr:postcode":"07821",
+    "addr:street":"Hemlock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.730474,40.976419,-74.730474,40.976419",
     "geom:latitude":40.976419,
     "geom:longitude":-74.730474,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671,
+        85688607,
+        85803133,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YBvuy4DNEJ3frkQkBKKIP_40.976419_-74.730474@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461285540,
     "wof:geomhash":"2e86397cbc812b639f38844ef22569b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639019561
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85803133,
+            "region_id":85688607,
+            "venue_id":639019561
+        }
+    ],
     "wof:id":639019561,
-    "wof:lastmodified":1466673550,
+    "wof:lastmodified":1492057352,
     "wof:name":"Group & Financial Freedom",
-    "wof:parent_id":420527671,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

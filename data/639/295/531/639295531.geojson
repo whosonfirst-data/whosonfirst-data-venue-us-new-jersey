@@ -2,9 +2,14 @@
   "id": 639295531,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Airport Rd Pittstown NJ 08867",
+    "addr:housenumber":"77",
+    "addr:postcode":"08867",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021182,40.58309,-75.021182,40.58309",
     "geom:latitude":40.58309,
     "geom:longitude":-75.021182,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cz7lzO6X2G8sDHjJ1wRVc_40.583090_-75.021182@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461291875,
     "wof:geomhash":"324b77b65f1eb9ca3db30e81691a45fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639295531
+        }
+    ],
     "wof:id":639295531,
-    "wof:lastmodified":1466691304,
+    "wof:lastmodified":1492049902,
     "wof:name":"Brook Stony Nurseries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639493543,
   "type": "Feature",
   "properties": {
+    "addr:full":"386 Franklin Ave Wyckoff NJ 07481",
+    "addr:housenumber":"386",
+    "addr:postcode":"07481",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172304,41.009509,-74.172304,41.009509",
     "geom:latitude":41.009509,
     "geom:longitude":-74.172304,
@@ -27,7 +32,10 @@
         "everyday"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vdSMUfHaRemRO5eN5x1lY_41.009509_-74.172304@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297158,
     "wof:geomhash":"9528fefd8912a5bb22e908fe1f1de7ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":639493543
+        }
+    ],
     "wof:id":639493543,
-    "wof:lastmodified":1466694560,
+    "wof:lastmodified":1492048951,
     "wof:name":"Ivy Shop",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

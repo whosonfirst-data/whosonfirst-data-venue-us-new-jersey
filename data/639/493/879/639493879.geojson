@@ -2,9 +2,14 @@
   "id": 639493879,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Ravine Dr Matawan NJ 07747",
+    "addr:housenumber":"129",
+    "addr:postcode":"07747",
+    "addr:street":"Ravine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243482,40.419751,-74.243482,40.419751",
     "geom:latitude":40.419751,
     "geom:longitude":-74.243482,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478367,
+        85633793,
+        85975419,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2njTEa9Xa53TdU4Cgk2wML_40.419751_-74.243482@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297170,
     "wof:geomhash":"bada892676b8f56d2da546dc2336386d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478367,
+            "locality_id":85975419,
+            "region_id":85688607,
+            "venue_id":639493879
+        }
+    ],
     "wof:id":639493879,
-    "wof:lastmodified":1466694574,
+    "wof:lastmodified":1492042477,
     "wof:name":"Bulldog Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

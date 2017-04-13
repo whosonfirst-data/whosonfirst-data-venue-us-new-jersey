@@ -2,9 +2,14 @@
   "id": 639440543,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 Abbington Dr Hightstown NJ 08520",
+    "addr:housenumber":"659",
+    "addr:postcode":"08520",
+    "addr:street":"Abbington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.491757,40.266551,-74.491757,40.266551",
     "geom:latitude":40.266551,
     "geom:longitude":-74.491757,
@@ -29,7 +34,14 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        85976393,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45qImFAGx6pgPuB9Nko8sG_40.266551_-74.491757@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461295124,
     "wof:geomhash":"135da11db31b7f10946bd411e2a11461",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "locality_id":85976393,
+            "region_id":85688607,
+            "venue_id":639440543
+        }
+    ],
     "wof:id":639440543,
-    "wof:lastmodified":1466693351,
+    "wof:lastmodified":1492050838,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

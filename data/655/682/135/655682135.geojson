@@ -2,9 +2,14 @@
   "id": 655682135,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Charleston Rd Willingboro NJ 08046",
+    "addr:housenumber":"300",
+    "addr:postcode":"08046",
+    "addr:street":"Charleston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8918,40.038502,-74.8918,40.038502",
     "geom:latitude":40.038502,
     "geom:longitude":-74.8918,
@@ -27,7 +32,10 @@
         "deli"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ohl5tiu0JgkDA6BRuWXiE_40.038649_-74.891871@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316511,
     "wof:geomhash":"d834580f02a0e767c00a962c0981d643",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655682135
+        }
+    ],
     "wof:id":655682135,
-    "wof:lastmodified":1466683719,
+    "wof:lastmodified":1492048434,
     "wof:name":"Willingboro Food Mart",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

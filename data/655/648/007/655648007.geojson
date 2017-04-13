@@ -2,9 +2,14 @@
   "id": 655648007,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Marlton Pike Cherry Hill NJ 08002",
+    "addr:housenumber":"500",
+    "addr:postcode":"08002",
+    "addr:street":"Marlton Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.017467,39.915352,-75.017467,39.915352",
     "geom:latitude":39.915352,
     "geom:longitude":-75.017467,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804463,
+        85831181,
         102191575,
         404477993,
         85633793,
-        85976245,
+        85976233,
         102081131,
-        85688607
+        85688607,
+        85804463,
+        85976245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +57,16 @@
             "country_id":85633793,
             "county_id":102081131,
             "localadmin_id":404477993,
+            "locality_id":85976233,
+            "neighbourhood_id":85831181,
+            "region_id":85688607,
+            "venue_id":655648007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
             "locality_id":85976245,
             "neighbourhood_id":85804463,
             "region_id":85688607,
@@ -57,9 +74,9 @@
         }
     ],
     "wof:id":655648007,
-    "wof:lastmodified":1466682663,
+    "wof:lastmodified":1492028742,
     "wof:name":"Carman Ciervo DO",
-    "wof:parent_id":85804463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638719721,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Orangeburgh Rd Westwood NJ 07675",
+    "addr:housenumber":"8",
+    "addr:postcode":"07675",
+    "addr:street":"Orangeburgh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.968746,41.007785,-73.968746,41.007785",
     "geom:latitude":41.007785,
     "geom:longitude":-73.968746,
@@ -28,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XUhqVQwWeG8rqrwZhsI40_41.007785_-73.968746@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461278183,
     "wof:geomhash":"984f2f98809f95e399222522956c791e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":638719721
+        }
+    ],
     "wof:id":638719721,
-    "wof:lastmodified":1466673930,
+    "wof:lastmodified":1492053447,
     "wof:name":"CM Photos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

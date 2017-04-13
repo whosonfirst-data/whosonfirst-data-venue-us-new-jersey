@@ -2,9 +2,14 @@
   "id": 639250321,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Lafayette Ave Dumont NJ 07628",
+    "addr:housenumber":"57",
+    "addr:postcode":"07628",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.008284,40.942963,-74.008284,40.942963",
     "geom:latitude":40.942963,
     "geom:longitude":-74.008284,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78FPP4pigfkjvcWJHFg88k_40.942963_-74.008284@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461290839,
     "wof:geomhash":"788f22247178afc31cdc44997206388c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639250321
+        }
+    ],
     "wof:id":639250321,
-    "wof:lastmodified":1466690102,
+    "wof:lastmodified":1492076292,
     "wof:name":"Set Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

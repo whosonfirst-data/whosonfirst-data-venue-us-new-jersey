@@ -2,9 +2,14 @@
   "id": 639030993,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 George St Spotswood NJ 08884",
+    "addr:housenumber":"301",
+    "addr:postcode":"08884",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.388369,40.392318,-74.388369,40.392318",
     "geom:latitude":40.392318,
     "geom:longitude":-74.388369,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12iUsdLJhvKZjAca5kZiOP_40.392318_-74.388369@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285807,
     "wof:geomhash":"74cf877fde5f86923e775276420de9d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639030993
+        }
+    ],
     "wof:id":639030993,
-    "wof:lastmodified":1466673820,
+    "wof:lastmodified":1492069480,
     "wof:name":"Maglies Shannon",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

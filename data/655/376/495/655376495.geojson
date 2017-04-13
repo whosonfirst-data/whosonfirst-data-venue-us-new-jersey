@@ -2,9 +2,14 @@
   "id": 655376495,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Northern Blvd Bayville NJ 08721",
+    "addr:housenumber":"510",
+    "addr:postcode":"08721",
+    "addr:street":"Northern Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.201601,39.903287,-74.201601,39.903287",
     "geom:latitude":39.903287,
     "geom:longitude":-74.201601,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85814979,
-        102081485
+        85841985,
+        102081485,
+        85814979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102081485,
+            "neighbourhood_id":85841985,
+            "region_id":85688607,
+            "venue_id":655376495
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081485,
             "neighbourhood_id":85814979,
             "region_id":85688607,
             "venue_id":655376495
         }
     ],
     "wof:id":655376495,
-    "wof:lastmodified":1466674813,
+    "wof:lastmodified":1492070117,
     "wof:name":"Earth Care Lawn & Landscaping",
-    "wof:parent_id":85814979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

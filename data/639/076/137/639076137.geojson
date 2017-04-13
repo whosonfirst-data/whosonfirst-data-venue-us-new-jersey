@@ -2,9 +2,14 @@
   "id": 639076137,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Ewing Ave Franklin Lakes NJ 07417",
+    "addr:housenumber":"790",
+    "addr:postcode":"07417",
+    "addr:street":"Ewing Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.199148,40.992447,-74.199148,40.992447",
     "geom:latitude":40.992447,
     "geom:longitude":-74.199148,
@@ -29,7 +34,14 @@
         "feeder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mJr2dfgO0cWiXaDqhWFlE_40.992447_-74.199148@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461286840,
     "wof:geomhash":"972e32d5ac8ac76ce0ee4477ea02b82d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":639076137
+        }
+    ],
     "wof:id":639076137,
-    "wof:lastmodified":1466688473,
+    "wof:lastmodified":1492054521,
     "wof:name":"New Jersey Audubon Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

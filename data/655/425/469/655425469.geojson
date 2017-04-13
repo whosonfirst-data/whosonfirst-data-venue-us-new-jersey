@@ -2,9 +2,14 @@
   "id": 655425469,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Meadow Dr Warren NJ 07059",
+    "addr:housenumber":"5",
+    "addr:postcode":"07059",
+    "addr:street":"Meadow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.541313,40.632399,-74.541313,40.632399",
     "geom:latitude":40.632399,
     "geom:longitude":-74.541313,
@@ -24,7 +29,13 @@
     "sg:postcode":"07059",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478447,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B8iIOok2qu88qnvDIpbit_40.632399_-74.541313@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461305677,
     "wof:geomhash":"431993d1d6673516932bf92c3436bd35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404478447,
+            "region_id":85688607,
+            "venue_id":655425469
+        }
+    ],
     "wof:id":655425469,
-    "wof:lastmodified":1466676116,
+    "wof:lastmodified":1492055779,
     "wof:name":"Lee EMI Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

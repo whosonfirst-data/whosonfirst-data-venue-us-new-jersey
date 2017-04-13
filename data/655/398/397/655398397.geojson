@@ -2,9 +2,14 @@
   "id": 655398397,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Laurel Ave Union NJ 07083",
+    "addr:housenumber":"135",
+    "addr:postcode":"07083",
+    "addr:street":"Laurel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27109,40.717282,-74.27109,40.717282",
     "geom:latitude":40.717282,
     "geom:longitude":-74.27109,
@@ -28,7 +33,10 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GtLmTv30IyTf4GzEcEbDB_40.717282_-74.271090@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461304560,
     "wof:geomhash":"91bbd4bb7e355104e5caa2e91b1b0906",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":655398397
+        }
+    ],
     "wof:id":655398397,
-    "wof:lastmodified":1466675432,
+    "wof:lastmodified":1492051135,
     "wof:name":"Bearison Laboratories",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639367645,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"330",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142121,41.085736,-74.142121,41.085736",
     "geom:latitude":41.085736,
     "geom:longitude":-74.142121,
@@ -28,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_610obhCcGfUSeLk1BKJI0i_41.085736_-74.142121@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293381,
     "wof:geomhash":"ed5788866fc93c3bf11b9bf5d5def0af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639367645
+        }
+    ],
     "wof:id":639367645,
-    "wof:lastmodified":1466692675,
+    "wof:lastmodified":1492069682,
     "wof:name":"Indosoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

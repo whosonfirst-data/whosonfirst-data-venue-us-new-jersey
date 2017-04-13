@@ -2,9 +2,14 @@
   "id": 655740595,
   "type": "Feature",
   "properties": {
+    "addr:full":"548 Lehigh Ave Union NJ 07083",
+    "addr:housenumber":"548",
+    "addr:postcode":"07083",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.254753,40.675644,-74.254753,40.675644",
     "geom:latitude":40.675644,
     "geom:longitude":-74.254753,
@@ -30,7 +35,13 @@
         "cat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L8HNq5Rlynt2Ws2LfufEC_40.675644_-74.254753@1303262258"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461318937,
     "wof:geomhash":"4f3287fc0bf73bfde332cafccd5cb0ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655740595
+        }
+    ],
     "wof:id":655740595,
-    "wof:lastmodified":1466685370,
+    "wof:lastmodified":1492046880,
     "wof:name":"Cutie Patootie Pet Couture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

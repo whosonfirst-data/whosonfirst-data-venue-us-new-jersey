@@ -2,9 +2,14 @@
   "id": 655415599,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Scotch Rd Trenton NJ 08628",
+    "addr:housenumber":"100",
+    "addr:postcode":"08628",
+    "addr:street":"Scotch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.800012,40.270648,-74.800012,40.270648",
     "geom:latitude":40.270648,
     "geom:longitude":-74.800012,
@@ -27,7 +32,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BzzaDM1qKYMJp4Yl5I8EL_40.270648_-74.800012@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461305288,
     "wof:geomhash":"537723346bd6ccc24574f40698159304",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655415599
+        }
+    ],
     "wof:id":655415599,
-    "wof:lastmodified":1466675887,
+    "wof:lastmodified":1492047946,
     "wof:name":"SOS",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

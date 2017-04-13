@@ -2,9 +2,14 @@
   "id": 655445969,
   "type": "Feature",
   "properties": {
+    "addr:full":"474 Livingston St Norwood NJ 07648",
+    "addr:housenumber":"474",
+    "addr:postcode":"07648",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954992,40.997469,-73.954992,40.997469",
     "geom:latitude":40.997469,
     "geom:longitude":-73.954992,
@@ -27,7 +32,14 @@
         "acupuncture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zxRmOsFy4AIRRGZO63BNo_40.997469_-73.954992@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306513,
     "wof:geomhash":"1f6c0e73aac22fa4bc77cce2dfd7485f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655445969
+        }
+    ],
     "wof:id":655445969,
-    "wof:lastmodified":1466676765,
+    "wof:lastmodified":1492052075,
     "wof:name":"Imildong Acupuncture Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

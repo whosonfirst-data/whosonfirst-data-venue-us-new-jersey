@@ -2,9 +2,14 @@
   "id": 638950321,
   "type": "Feature",
   "properties": {
+    "addr:full":"576 Stamets Rd Milford NJ 08848",
+    "addr:housenumber":"576",
+    "addr:postcode":"08848",
+    "addr:street":"Stamets Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.054461,40.579462,-75.054461,40.579462",
     "geom:latitude":40.579462,
     "geom:longitude":-75.054461,
@@ -28,7 +33,10 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52rpOT8pwK5HkyuDglZCex_40.579462_-75.054461@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284031,
     "wof:geomhash":"8bd0a4f3932b7de707011e72742f82ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":638950321
+        }
+    ],
     "wof:id":638950321,
-    "wof:lastmodified":1466691296,
+    "wof:lastmodified":1492053524,
     "wof:name":"Hunterdon County District Spca",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

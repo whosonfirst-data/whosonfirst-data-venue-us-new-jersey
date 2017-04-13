@@ -2,9 +2,14 @@
   "id": 639551127,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 8th St Fairview NJ 07022",
+    "addr:housenumber":"200",
+    "addr:postcode":"07022",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.998614,40.818286,-73.998614,40.818286",
     "geom:latitude":40.818286,
     "geom:longitude":-73.998614,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DeXPIvFWRvlEKfBJPf7Ho_40.818286_-73.998614@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461299798,
     "wof:geomhash":"625dc263158818cac0e82a80d86be3ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":639551127
+        }
+    ],
     "wof:id":639551127,
-    "wof:lastmodified":1466695845,
+    "wof:lastmodified":1492083542,
     "wof:name":"Arrowtex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

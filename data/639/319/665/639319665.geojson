@@ -2,9 +2,14 @@
   "id": 639319665,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Etheridge Pl Park Ridge NJ 07656",
+    "addr:housenumber":"22",
+    "addr:postcode":"07656",
+    "addr:street":"Etheridge Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.040003,41.041002,-74.040003,41.041002",
     "geom:latitude":41.041002,
     "geom:longitude":-74.040003,
@@ -27,7 +32,14 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477711,
+        85633793,
+        85975949,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31VTwJiOFYwpZCT101h6q2_41.041002_-74.040003@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292382,
     "wof:geomhash":"e3652b04dbab8a879d9d1a55115c09cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477711,
+            "locality_id":85975949,
+            "region_id":85688607,
+            "venue_id":639319665
+        }
+    ],
     "wof:id":639319665,
-    "wof:lastmodified":1466691857,
+    "wof:lastmodified":1492042338,
     "wof:name":"Marconi Moving Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639140507,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Farnsworth Ave Bordentown NJ 08505",
+    "addr:housenumber":"806",
+    "addr:postcode":"08505",
+    "addr:street":"Farnsworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.704374,40.136435,-74.704374,40.136435",
     "geom:latitude":40.136435,
     "geom:longitude":-74.704374,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HUu08cQZzwiFid0wGWF3h_40.136435_-74.704374@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288305,
     "wof:geomhash":"c4c3dca03101f695675e673b28235ec1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":639140507
+        }
+    ],
     "wof:id":639140507,
-    "wof:lastmodified":1466679856,
+    "wof:lastmodified":1492069343,
     "wof:name":"Family Dentistry",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

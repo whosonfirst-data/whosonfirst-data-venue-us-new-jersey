@@ -2,9 +2,14 @@
   "id": 639261953,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Parsonage Rd Edison NJ 08837",
+    "addr:housenumber":"10",
+    "addr:postcode":"08837",
+    "addr:street":"Parsonage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.33131,40.545216,-74.33131,40.545216",
     "geom:latitude":40.545216,
     "geom:longitude":-74.33131,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85843811,
-        102087417
+        102087417,
+        85833777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,19 @@
             "neighbourhood_id":85843811,
             "region_id":85688607,
             "venue_id":639261953
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85833777,
+            "region_id":85688607,
+            "venue_id":639261953
         }
     ],
     "wof:id":639261953,
-    "wof:lastmodified":1466690624,
+    "wof:lastmodified":1492076779,
     "wof:name":"Justice Funding Corporation",
-    "wof:parent_id":85843811,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638825293,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 10th Ave Belmar NJ 07719",
+    "addr:housenumber":"302",
+    "addr:postcode":"07719",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.01972,40.178191,-74.01972,40.178191",
     "geom:latitude":40.178191,
     "geom:longitude":-74.01972,
@@ -33,7 +38,14 @@
         "accommodation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZYDLOfgdBYqueC7OgNZIX_40.178191_-74.019720@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461280856,
     "wof:geomhash":"33f6c8153fd540d0f9f796b6d6e86391",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638825293
+        }
+    ],
     "wof:id":638825293,
-    "wof:lastmodified":1466688867,
+    "wof:lastmodified":1492028445,
     "wof:name":"Gallagher's Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

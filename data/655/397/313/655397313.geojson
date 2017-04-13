@@ -2,9 +2,14 @@
   "id": 655397313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1156 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"1156",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236741,40.693265,-74.236741,40.693265",
     "geom:latitude":40.693265,
     "geom:longitude":-74.236741,
@@ -29,7 +34,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DWjv51MSMAMccwP9TrryZ_40.693265_-74.236741@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461304511,
     "wof:geomhash":"e837c33145f5076476c3e1f97370d6a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":655397313
+        }
+    ],
     "wof:id":655397313,
-    "wof:lastmodified":1466675328,
+    "wof:lastmodified":1492051368,
     "wof:name":"Anthony L Acampora MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

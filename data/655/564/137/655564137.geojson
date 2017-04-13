@@ -2,9 +2,14 @@
   "id": 655564137,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Thanet Cir Princeton NJ 08540",
+    "addr:housenumber":"100",
+    "addr:postcode":"08540",
+    "addr:street":"Thanet Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652328,40.369001,-74.652328,40.369001",
     "geom:latitude":40.369001,
     "geom:longitude":-74.652328,
@@ -27,7 +32,13 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yCQSql4h1c6LabgiAp3Tv_40.369001_-74.652328@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461311460,
     "wof:geomhash":"d7d5fec46e10e38d9812d773c63ce326",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655564137
+        }
+    ],
     "wof:id":655564137,
-    "wof:lastmodified":1466679773,
+    "wof:lastmodified":1492041013,
     "wof:name":"Applied Educational Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

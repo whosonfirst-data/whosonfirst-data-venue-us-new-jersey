@@ -2,9 +2,14 @@
   "id": 638964939,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Highland Ave Bloomingdale NJ 07403",
+    "addr:housenumber":"1",
+    "addr:postcode":"07403",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34892,41.00687,-74.34892,41.00687",
     "geom:latitude":41.00687,
     "geom:longitude":-74.34892,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OnoU4OqTC6K7bLp4NiBMo_41.006870_-74.348920@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284343,
     "wof:geomhash":"0d69a32e47f44e7e0e5722cec94089e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":638964939
+        }
+    ],
     "wof:id":638964939,
-    "wof:lastmodified":1466691667,
+    "wof:lastmodified":1492076207,
     "wof:name":"JM Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

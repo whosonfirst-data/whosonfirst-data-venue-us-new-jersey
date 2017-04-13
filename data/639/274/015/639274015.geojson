@@ -2,9 +2,14 @@
   "id": 639274015,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Cobblestone Xing Norwood NJ 07648",
+    "addr:housenumber":"31",
+    "addr:postcode":"07648",
+    "addr:street":"Cobblestone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959048,40.992013,-73.959048,40.992013",
     "geom:latitude":40.992013,
     "geom:longitude":-73.959048,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07q9sgkThrd5Q0bQKKrzt2_40.992013_-73.959048@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291410,
     "wof:geomhash":"a9545a34c529187bff4a785e4c7e116a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639274015
+        }
+    ],
     "wof:id":639274015,
-    "wof:lastmodified":1466690682,
+    "wof:lastmodified":1492048445,
     "wof:name":"TCS International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

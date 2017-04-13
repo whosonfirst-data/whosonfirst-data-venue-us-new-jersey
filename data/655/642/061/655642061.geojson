@@ -2,9 +2,14 @@
   "id": 655642061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 W Grochowiak St South River NJ 08882",
+    "addr:housenumber":"1",
+    "addr:postcode":"08882",
+    "addr:street":"W Grochowiak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.383225,40.446489,-74.383225,40.446489",
     "geom:latitude":40.446489,
     "geom:longitude":-74.383225,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85831841,
+        102191575,
+        404478209,
         85633793,
-        85975727,
+        85975735,
         102087417,
+        85688607,
+        85975727,
         85851809
     ],
     "wof:breaches":[],
@@ -40,6 +49,16 @@
     "wof:geomhash":"8b3b0b13348ca4e1414b75dbd2d19cbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478209,
+            "locality_id":85975735,
+            "neighbourhood_id":85831841,
+            "region_id":85688607,
+            "venue_id":655642061
+        },
+        {
             "country_id":85633793,
             "county_id":102087417,
             "locality_id":85975727,
@@ -49,9 +68,9 @@
         }
     ],
     "wof:id":655642061,
-    "wof:lastmodified":1466682389,
+    "wof:lastmodified":1492048307,
     "wof:name":"Rincon Services Corp",
-    "wof:parent_id":85851809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

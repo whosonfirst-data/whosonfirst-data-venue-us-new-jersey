@@ -2,9 +2,14 @@
   "id": 639629021,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Arrowhead Dr Burlington NJ 08016",
+    "addr:housenumber":"38",
+    "addr:postcode":"08016",
+    "addr:street":"Arrowhead Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.803497,40.073981,-74.803497,40.073981",
     "geom:latitude":40.073981,
     "geom:longitude":-74.803497,
@@ -27,7 +32,10 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g0Ahgn035CkGtvzS5OC4s_40.073981_-74.803497@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461302882,
     "wof:geomhash":"88f54e2088e01af5110f4f4cc4fdbc77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":639629021
+        }
+    ],
     "wof:id":639629021,
-    "wof:lastmodified":1466697572,
+    "wof:lastmodified":1492051107,
     "wof:name":"New Media Design",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

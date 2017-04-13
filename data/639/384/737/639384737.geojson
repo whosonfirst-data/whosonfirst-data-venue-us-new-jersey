@@ -2,9 +2,14 @@
   "id": 639384737,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Blauvelt Ave Bergenfield NJ 07621",
+    "addr:housenumber":"29",
+    "addr:postcode":"07621",
+    "addr:street":"Blauvelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.999635,40.934865,-73.999635,40.934865",
     "geom:latitude":40.934865,
     "geom:longitude":-73.999635,
@@ -29,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BBzphQ1vp7BtlT8T4vWH6_40.934865_-73.999635@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461293739,
     "wof:geomhash":"c4f8c2072ba65102bb977215eca2faa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639384737
+        }
+    ],
     "wof:id":639384737,
-    "wof:lastmodified":1466692905,
+    "wof:lastmodified":1492045608,
     "wof:name":"National Security Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

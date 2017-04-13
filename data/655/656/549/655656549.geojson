@@ -2,9 +2,14 @@
   "id": 655656549,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"535",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217796,40.900002,-74.217796,40.900002",
     "geom:latitude":40.900002,
     "geom:longitude":-74.217796,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.allforarose.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bUqRVpVeZDW6MqPQddsfd_40.900572_-74.217239@1293134755"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461315458,
     "wof:geomhash":"1130f04273f07381f562c0c246e0e474",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655656549
+        }
+    ],
     "wof:id":655656549,
-    "wof:lastmodified":1466683200,
+    "wof:lastmodified":1492026114,
     "wof:name":"All For A Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

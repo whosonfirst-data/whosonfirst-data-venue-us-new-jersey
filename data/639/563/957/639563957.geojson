@@ -2,9 +2,14 @@
   "id": 639563957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 Oak St Lakewood NJ 08701",
+    "addr:housenumber":"1436",
+    "addr:postcode":"08701",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.197166,40.061221,-74.197166,40.061221",
     "geom:latitude":40.061221,
     "geom:longitude":-74.197166,
@@ -27,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gusbEtfFtt0g1iizUC7KL_40.061221_-74.197166@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300271,
     "wof:geomhash":"fa62361c445b06ed1b84f3c2186c8a32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639563957
+        }
+    ],
     "wof:id":639563957,
-    "wof:lastmodified":1466696289,
+    "wof:lastmodified":1492070971,
     "wof:name":"Ahoy Construction",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

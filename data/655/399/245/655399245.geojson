@@ -2,9 +2,14 @@
   "id": 655399245,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Coniston Ct Princeton NJ 08540",
+    "addr:housenumber":"60",
+    "addr:postcode":"08540",
+    "addr:street":"Coniston Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.688912,40.359115,-74.688912,40.359115",
     "geom:latitude":40.359115,
     "geom:longitude":-74.688912,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iLgpGAKbDiQkj50aI173O_40.359115_-74.688912@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461304604,
     "wof:geomhash":"16368b7a290799bfdd44e4c8ac39eead",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655399245
+        }
+    ],
     "wof:id":655399245,
-    "wof:lastmodified":1466675470,
+    "wof:lastmodified":1492047776,
     "wof:name":"Russell Obrien Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

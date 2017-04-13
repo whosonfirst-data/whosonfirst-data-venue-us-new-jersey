@@ -2,9 +2,14 @@
   "id": 655779919,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Old Hook Rd Ste B Emerson NJ 07630",
+    "addr:housenumber":"425",
+    "addr:postcode":"07630",
+    "addr:street":"Old Hook Rd Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.005832,40.981833,-74.005832,40.981833",
     "geom:latitude":40.981833,
     "geom:longitude":-74.005832,
@@ -45,7 +50,14 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D8gRLmpCtWxxPQbxHvo5m_40.981833_-74.005832@1303262268"
@@ -53,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1461320552,
     "wof:geomhash":"6b3b85e3f49dd0c6f779acbc004bffa8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":655779919
+        }
+    ],
     "wof:id":655779919,
-    "wof:lastmodified":1466686495,
+    "wof:lastmodified":1492052127,
     "wof:name":"Designer Baths Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

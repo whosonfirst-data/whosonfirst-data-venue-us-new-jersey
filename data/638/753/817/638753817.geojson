@@ -2,9 +2,14 @@
   "id": 638753817,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Canal St S Bound Brook NJ 08880",
+    "addr:housenumber":"94",
+    "addr:postcode":"08880",
+    "addr:street":"Canal St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.521841,40.553789,-74.521841,40.553789",
     "geom:latitude":40.553789,
     "geom:longitude":-74.521841,
@@ -24,7 +29,14 @@
     "sg:postcode":"08880",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W2b7P11AsgLD5GNft51o0_40.553789_-74.521841@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461279121,
     "wof:geomhash":"1de73d82679c1474692ee57eccca75ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":638753817
+        }
+    ],
     "wof:id":638753817,
-    "wof:lastmodified":1466678685,
+    "wof:lastmodified":1492055443,
     "wof:name":"Plastics Color",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

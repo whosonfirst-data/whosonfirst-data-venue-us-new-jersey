@@ -2,9 +2,14 @@
   "id": 655789929,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"34",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.738998,41.073769,-74.738998,41.073769",
     "geom:latitude":41.073769,
     "geom:longitude":-74.738998,
@@ -31,7 +36,10 @@
     ],
     "sg:website":"http://www.newtonaudi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OZRzEYfi7XEb69VpFa6Vi_41.073769_-74.738998@1303262270"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461320975,
     "wof:geomhash":"7b2e6c6b2f81e280df9e7a667b108685",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655789929
+        }
+    ],
     "wof:id":655789929,
-    "wof:lastmodified":1466686757,
+    "wof:lastmodified":1492046272,
     "wof:name":"Newton Motorsports",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

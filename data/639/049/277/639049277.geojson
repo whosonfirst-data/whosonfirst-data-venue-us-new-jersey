@@ -2,9 +2,14 @@
   "id": 639049277,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Roanoke Rd Bridgewater NJ 08807",
+    "addr:housenumber":"24",
+    "addr:postcode":"08807",
+    "addr:street":"Roanoke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.668128,40.561358,-74.668128,40.561358",
     "geom:latitude":40.561358,
     "geom:longitude":-74.668128,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        420527591,
+        102191575,
+        404477917,
         85633793,
         85976135,
         102085045,
+        85688607,
         85834423
     ],
     "wof:breaches":[],
@@ -44,6 +52,16 @@
     "wof:geomhash":"53cca2d9710a21f001dca1f0da1bd39e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477917,
+            "locality_id":85976135,
+            "neighbourhood_id":420527591,
+            "region_id":85688607,
+            "venue_id":639049277
+        },
+        {
             "country_id":85633793,
             "county_id":102085045,
             "locality_id":85976135,
@@ -53,9 +71,9 @@
         }
     ],
     "wof:id":639049277,
-    "wof:lastmodified":1466674175,
+    "wof:lastmodified":1492069469,
     "wof:name":"Ytech Systems",
-    "wof:parent_id":85834423,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

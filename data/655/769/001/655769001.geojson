@@ -2,9 +2,14 @@
   "id": 655769001,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Wyckoff Ave Wyckoff NJ 07481",
+    "addr:housenumber":"630",
+    "addr:postcode":"07481",
+    "addr:street":"Wyckoff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.173103,41.00972,-74.173103,41.00972",
     "geom:latitude":41.00972,
     "geom:longitude":-74.173103,
@@ -42,7 +47,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32ogDj3RsmWIGgQzB0TH56_41.009720_-74.173103@1303262265"
@@ -50,9 +58,15 @@
     "wof:country":"US",
     "wof:created":1461320038,
     "wof:geomhash":"e4459d817cc04ecb04ecb1f8f0fc5ca2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526555,
+            "venue_id":655769001
+        }
+    ],
     "wof:id":655769001,
-    "wof:lastmodified":1466688852,
+    "wof:lastmodified":1492024404,
     "wof:name":"The Write Occasion",
     "wof:parent_id":420526555,
     "wof:placetype":"venue",

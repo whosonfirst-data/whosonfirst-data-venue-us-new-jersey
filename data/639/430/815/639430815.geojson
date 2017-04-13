@@ -2,9 +2,14 @@
   "id": 639430815,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Mount Lucas Rd Princeton NJ 08540",
+    "addr:housenumber":"66",
+    "addr:postcode":"08540",
+    "addr:street":"Mount Lucas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.664033,40.363277,-74.664033,40.363277",
     "geom:latitude":40.363277,
     "geom:longitude":-74.664033,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"www.pedgroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xg6zbPYMMtVJpISxNdWmL_40.363277_-74.664033@1294171694"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461294930,
     "wof:geomhash":"44ecd1d6c45572948e9325b56117ed49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639430815
+        }
+    ],
     "wof:id":639430815,
-    "wof:lastmodified":1466693351,
+    "wof:lastmodified":1492023420,
     "wof:name":"Pediatric Group PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639261199,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Ewingville Rd Trenton NJ 08638",
+    "addr:housenumber":"324",
+    "addr:postcode":"08638",
+    "addr:street":"Ewingville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.762974,40.269622,-74.762974,40.269622",
     "geom:latitude":40.269622,
     "geom:longitude":-74.762974,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85818373,
-        102081129
+        85851293,
+        102081129,
+        85818373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102081129,
+            "neighbourhood_id":85851293,
+            "region_id":85688607,
+            "venue_id":639261199
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
             "neighbourhood_id":85818373,
             "region_id":85688607,
             "venue_id":639261199
         }
     ],
     "wof:id":639261199,
-    "wof:lastmodified":1466690549,
+    "wof:lastmodified":1492042790,
     "wof:name":"Andy's Electrical Svc",
-    "wof:parent_id":85818373,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

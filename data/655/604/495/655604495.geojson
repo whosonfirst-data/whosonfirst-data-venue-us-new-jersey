@@ -2,9 +2,14 @@
   "id": 655604495,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Van Cleaf Ln Cliffwood NJ 07721",
+    "addr:housenumber":"204",
+    "addr:postcode":"07721",
+    "addr:street":"Van Cleaf Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231126,40.436863,-74.231126,40.436863",
     "geom:latitude":40.436863,
     "geom:longitude":-74.231126,
@@ -28,7 +33,13 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w2OPQrf3xFMdQHV8ECECD_40.436863_-74.231126@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313194,
     "wof:geomhash":"e25db4f982b010cb7f3fb419b08250bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655604495
+        }
+    ],
     "wof:id":655604495,
-    "wof:lastmodified":1466681201,
+    "wof:lastmodified":1492051783,
     "wof:name":"Painters Plus Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

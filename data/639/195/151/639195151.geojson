@@ -2,9 +2,14 @@
   "id": 639195151,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"253",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.973704,40.759556,-74.973704,40.759556",
     "geom:latitude":40.759556,
     "geom:longitude":-74.973704,
@@ -27,7 +32,10 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Eb7H4bORM5msAPSiKYTzz_40.759556_-74.973704@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461289519,
     "wof:geomhash":"3ffa77221ec64cc906ca287a1144c522",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639195151
+        }
+    ],
     "wof:id":639195151,
-    "wof:lastmodified":1466687860,
+    "wof:lastmodified":1492061316,
     "wof:name":"New Jersey Wildlife Discovery",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

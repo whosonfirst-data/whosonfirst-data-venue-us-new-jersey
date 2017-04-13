@@ -2,9 +2,14 @@
   "id": 639548131,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 US Hwy 206 Newton NJ 07860",
+    "addr:housenumber":"66",
+    "addr:postcode":"07860",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735255,41.081273,-74.735255,41.081273",
     "geom:latitude":41.081273,
     "geom:longitude":-74.735255,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vlUYxWjDGN07aOtk0GY92_41.081273_-74.735255@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299670,
     "wof:geomhash":"4209b3b59111a7fbbf8014b1aa546047",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":639548131
+        }
+    ],
     "wof:id":639548131,
-    "wof:lastmodified":1466695433,
+    "wof:lastmodified":1492082034,
     "wof:name":"Condit Ford",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

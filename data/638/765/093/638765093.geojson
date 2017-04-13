@@ -2,9 +2,14 @@
   "id": 638765093,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Sutton Pl Norwood NJ 07648",
+    "addr:housenumber":"220",
+    "addr:postcode":"07648",
+    "addr:street":"Sutton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.969439,40.998782,-73.969439,40.998782",
     "geom:latitude":40.998782,
     "geom:longitude":-73.969439,
@@ -28,7 +33,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t17hn0SyKnqfrxz32HGu7_40.998782_-73.969439@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279423,
     "wof:geomhash":"f12133f1b19003d205bc362ce016dbc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":638765093
+        }
+    ],
     "wof:id":638765093,
-    "wof:lastmodified":1466680169,
+    "wof:lastmodified":1492070640,
     "wof:name":"Landscape Design Const Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

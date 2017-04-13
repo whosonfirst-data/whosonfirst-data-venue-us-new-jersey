@@ -2,9 +2,14 @@
   "id": 638823801,
   "type": "Feature",
   "properties": {
+    "addr:full":"553 Pleasant View Rd Hillsborough NJ 08844",
+    "addr:housenumber":"553",
+    "addr:postcode":"08844",
+    "addr:street":"Pleasant View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.665032,40.499265,-74.665032,40.499265",
     "geom:latitude":40.499265,
     "geom:longitude":-74.665032,
@@ -31,7 +36,8 @@
         85688607,
         85633793,
         85806449,
-        102085045
+        102085045,
+        85820551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +53,19 @@
             "neighbourhood_id":85806449,
             "region_id":85688607,
             "venue_id":638823801
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85820551,
+            "region_id":85688607,
+            "venue_id":638823801
         }
     ],
     "wof:id":638823801,
-    "wof:lastmodified":1466688592,
+    "wof:lastmodified":1492051214,
     "wof:name":"Bokey Inc",
-    "wof:parent_id":85806449,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

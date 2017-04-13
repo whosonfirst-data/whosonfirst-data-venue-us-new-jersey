@@ -2,9 +2,14 @@
   "id": 655625437,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Summit St Norwood NJ 07648",
+    "addr:housenumber":"510",
+    "addr:postcode":"07648",
+    "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95523,41.002782,-73.95523,41.002782",
     "geom:latitude":41.002782,
     "geom:longitude":-73.95523,
@@ -28,7 +33,14 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M88k5rec0Xke6xJ5UHnyn_41.002782_-73.955230@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461314133,
     "wof:geomhash":"68cc6446629513dc41780d460e395616",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655625437
+        }
+    ],
     "wof:id":655625437,
-    "wof:lastmodified":1466681918,
+    "wof:lastmodified":1492052083,
     "wof:name":"Home Care Information Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

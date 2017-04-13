@@ -2,9 +2,14 @@
   "id": 655688641,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"115",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147217,41.099925,-74.147217,41.099925",
     "geom:latitude":41.099925,
     "geom:longitude":-74.147217,
@@ -30,7 +35,13 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ynUkQHlpj0h7jIbkWWYNd_41.099925_-74.147217@1299784598"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461316800,
     "wof:geomhash":"d335783e9e0926f50b6368c4c29a48e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655688641
+        }
+    ],
     "wof:id":655688641,
-    "wof:lastmodified":1466684064,
+    "wof:lastmodified":1492052355,
     "wof:name":"Blimpie Subs & Sandwiches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

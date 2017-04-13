@@ -2,9 +2,14 @@
   "id": 655437337,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 E State St Trenton NJ 08608",
+    "addr:housenumber":"319",
+    "addr:postcode":"08608",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.758898,40.220585,-74.758898,40.220585",
     "geom:latitude":40.220585,
     "geom:longitude":-74.758898,
@@ -24,7 +29,14 @@
     "sg:postcode":"08608",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ycbF7QmD87HfheCZOxR50_40.220585_-74.758898@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461306193,
     "wof:geomhash":"ef7d81ea25a2ce0f2cf9e69349223021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655437337
+        }
+    ],
     "wof:id":655437337,
-    "wof:lastmodified":1466676417,
+    "wof:lastmodified":1492048483,
     "wof:name":"Administration Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655374579,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 State Rte 72 Barnegat NJ 08005",
+    "addr:housenumber":"151",
+    "addr:postcode":"08005",
+    "addr:street":"State Rte 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.322475,39.766369,-74.322475,39.766369",
     "geom:latitude":39.766369,
     "geom:longitude":-74.322475,
@@ -28,7 +33,13 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477823,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YzvQ7BC8URK9RfV1agzxE_39.766369_-74.322475@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461303605,
     "wof:geomhash":"01c2988686c64fb3134ea0f8e12c34f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477823,
+            "region_id":85688607,
+            "venue_id":655374579
+        }
+    ],
     "wof:id":655374579,
-    "wof:lastmodified":1466674825,
+    "wof:lastmodified":1492050440,
     "wof:name":"Water Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

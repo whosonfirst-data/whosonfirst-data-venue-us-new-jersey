@@ -2,9 +2,14 @@
   "id": 655531455,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Bogert St Closter NJ 07624",
+    "addr:housenumber":"100",
+    "addr:postcode":"07624",
+    "addr:street":"Bogert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961355,40.967261,-73.961355,40.967261",
     "geom:latitude":40.967261,
     "geom:longitude":-73.961355,
@@ -28,7 +33,16 @@
     ],
     "sg:website":"www.pasvalco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773,
+        404477283,
+        85975905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IDrjfEIWr0Z0K4ZBZeVZD_40.967261_-73.961355@1294171694"
@@ -36,9 +50,28 @@
     "wof:country":"US",
     "wof:created":1461310103,
     "wof:geomhash":"7be9d12dd9878f814f1bdd493fc14f45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655531455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":655531455
+        }
+    ],
     "wof:id":655531455,
-    "wof:lastmodified":1466679003,
+    "wof:lastmodified":1492034246,
     "wof:name":"Pasvalco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

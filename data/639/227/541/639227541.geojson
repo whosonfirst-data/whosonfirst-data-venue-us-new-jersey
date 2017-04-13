@@ -2,9 +2,14 @@
   "id": 639227541,
   "type": "Feature",
   "properties": {
+    "addr:full":"4233 US Hwy 130 Beverly NJ 08010",
+    "addr:housenumber":"4233",
+    "addr:postcode":"08010",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.912746,40.040763,-74.912746,40.040763",
     "geom:latitude":40.040763,
     "geom:longitude":-74.912746,
@@ -28,7 +33,10 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_618QSfrHv9ftW76KuHM4mD_40.040763_-74.912746@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290307,
     "wof:geomhash":"6295367a105ccb55a7c4be6727233771",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":639227541
+        }
+    ],
     "wof:id":639227541,
-    "wof:lastmodified":1466689935,
+    "wof:lastmodified":1492051306,
     "wof:name":"Mini U Storage",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

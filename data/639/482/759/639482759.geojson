@@ -2,9 +2,14 @@
   "id": 639482759,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 US Hwy 206 Bedminster NJ 07921",
+    "addr:housenumber":"414",
+    "addr:postcode":"07921",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.642761,40.649378,-74.642761,40.649378",
     "geom:latitude":40.649378,
     "geom:longitude":-74.642761,
@@ -28,7 +33,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477909,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38wsBNV1PrmyLHuAKIyEJA_40.649378_-74.642761@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461296721,
     "wof:geomhash":"a6035daa7b00d28499934a0ba8f74d1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477909,
+            "region_id":85688607,
+            "venue_id":639482759
+        }
+    ],
     "wof:id":639482759,
-    "wof:lastmodified":1466694486,
+    "wof:lastmodified":1492042247,
     "wof:name":"CVS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

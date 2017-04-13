@@ -2,9 +2,14 @@
   "id": 655514651,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Fox Farm Rd Asbury NJ 08802",
+    "addr:housenumber":"600",
+    "addr:postcode":"08802",
+    "addr:street":"Fox Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019674,40.657129,-75.019674,40.657129",
     "geom:latitude":40.657129,
     "geom:longitude":-75.019674,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527783,
+        85688607,
         85840889,
         102085997
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":655514651
+        },
+        {
+            "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85840889,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":655514651,
-    "wof:lastmodified":1466678592,
+    "wof:lastmodified":1492019984,
     "wof:name":"Performance Tire Co Inc",
-    "wof:parent_id":85840889,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

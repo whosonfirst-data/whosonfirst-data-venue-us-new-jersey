@@ -2,9 +2,14 @@
   "id": 655512419,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Firmench Way Newark NJ 07114",
+    "addr:housenumber":"95",
+    "addr:postcode":"07114",
+    "addr:street":"Firmench Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128982,40.700448,-74.128982,40.700448",
     "geom:latitude":40.700448,
     "geom:longitude":-74.128982,
@@ -27,7 +32,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85838783,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Pjma9uTJFV4m7gwk17Axk_40.700448_-74.128982@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461309388,
     "wof:geomhash":"3c752506530a238f2b5f3b988b8ee3e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85838783,
+            "region_id":85688607,
+            "venue_id":655512419
+        }
+    ],
     "wof:id":655512419,
-    "wof:lastmodified":1466678463,
+    "wof:lastmodified":1492069843,
     "wof:name":"Adler Roof Vacuuming Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

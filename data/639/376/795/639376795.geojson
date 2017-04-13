@@ -2,9 +2,14 @@
   "id": 639376795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 US Hwy 206 Bordentown NJ 08505",
+    "addr:housenumber":"1021",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.70326,40.139279,-74.70326,40.139279",
     "geom:latitude":40.139279,
     "geom:longitude":-74.70326,
@@ -28,7 +33,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d3XmrN0WMHRnLDq9SNUl7_40.139279_-74.703260@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293573,
     "wof:geomhash":"c8faee59f7e67a3c6b91cb7784c8c790",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":639376795
+        }
+    ],
     "wof:id":639376795,
-    "wof:lastmodified":1466692730,
+    "wof:lastmodified":1492041692,
     "wof:name":"Laurel Run Garden Apartments",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

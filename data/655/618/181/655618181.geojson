@@ -2,9 +2,14 @@
   "id": 655618181,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Indian Ln Burlington NJ 08016",
+    "addr:housenumber":"21",
+    "addr:postcode":"08016",
+    "addr:street":"Indian Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.867781,40.04812,-74.867781,40.04812",
     "geom:latitude":40.04812,
     "geom:longitude":-74.867781,
@@ -27,7 +32,13 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571,
+        85688607,
+        85821105,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50VhVHSS3VUbEl7WQWKWWP_40.048120_-74.867781@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461313801,
     "wof:geomhash":"df2ebbb78f42bb603b316abd5ff9b513",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655618181
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85821105,
+            "region_id":85688607,
+            "venue_id":655618181
+        }
+    ],
     "wof:id":655618181,
-    "wof:lastmodified":1466681708,
+    "wof:lastmodified":1492018285,
     "wof:name":"B W Project Management",
-    "wof:parent_id":420526571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

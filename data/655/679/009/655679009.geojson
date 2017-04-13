@@ -2,9 +2,14 @@
   "id": 655679009,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Morris Ave Summit NJ 07901",
+    "addr:housenumber":"5",
+    "addr:postcode":"07901",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.339798,40.715801,-74.339798,40.715801",
     "geom:latitude":40.715801,
     "geom:longitude":-74.339798,
@@ -30,7 +35,14 @@
         "limo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UMkWWtLUN2E1o4BNwIboz_40.715705_-74.340282@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316375,
     "wof:geomhash":"68c7522d42033ed800aa013d59f18fab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655679009
+        }
+    ],
     "wof:id":655679009,
-    "wof:lastmodified":1466683638,
+    "wof:lastmodified":1492029676,
     "wof:name":"De Franco Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

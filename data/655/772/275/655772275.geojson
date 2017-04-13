@@ -2,9 +2,14 @@
   "id": 655772275,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Bomont Pl Totowa NJ 07512",
+    "addr:housenumber":"200",
+    "addr:postcode":"07512",
+    "addr:street":"Bomont Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220855,40.895584,-74.220855,40.895584",
     "geom:latitude":40.895584,
     "geom:longitude":-74.220855,
@@ -46,7 +51,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g0dzFBJi3ZaRDRj5sMBDZ_40.895584_-74.220855@1303262266"
@@ -54,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461320209,
     "wof:geomhash":"f1d706873d63e3240951d89c6d24b848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655772275
+        }
+    ],
     "wof:id":655772275,
-    "wof:lastmodified":1466686104,
+    "wof:lastmodified":1492061332,
     "wof:name":"Trico Equipment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

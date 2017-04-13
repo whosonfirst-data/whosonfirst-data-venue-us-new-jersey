@@ -2,9 +2,14 @@
   "id": 655761725,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 River Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"545",
+    "addr:postcode":"07407",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127292,40.903107,-74.127292,40.903107",
     "geom:latitude":40.903107,
     "geom:longitude":-74.127292,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.prolinebody.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t3Zea2L09LvewNwEJZNxm_40.903107_-74.127292@1303262263"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461319717,
     "wof:geomhash":"95544d0e0f220b957446ad831759653c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655761725
+        }
+    ],
     "wof:id":655761725,
-    "wof:lastmodified":1466685928,
+    "wof:lastmodified":1492041030,
     "wof:name":"Proline Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639090647,
   "type": "Feature",
   "properties": {
+    "addr:full":"396 Demarest Ave Closter NJ 07624",
+    "addr:housenumber":"396",
+    "addr:postcode":"07624",
+    "addr:street":"Demarest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962149,40.969563,-73.962149,40.969563",
     "geom:latitude":40.969563,
     "geom:longitude":-73.962149,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xXjykvBuiJm7ppMohst2O_40.969563_-73.962149@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461287155,
     "wof:geomhash":"58ebf5fd61e343cb4239317ea3393f2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639090647
+        }
+    ],
     "wof:id":639090647,
-    "wof:lastmodified":1466673057,
+    "wof:lastmodified":1492068296,
     "wof:name":"A & P Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

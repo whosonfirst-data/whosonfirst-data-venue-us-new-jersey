@@ -2,9 +2,14 @@
   "id": 655779823,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Washington Ave Ste 7 Dumont NJ 07628",
+    "addr:housenumber":"125",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave Ste 7",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.993846,40.940258,-73.993846,40.940258",
     "geom:latitude":40.940258,
     "geom:longitude":-73.993846,
@@ -33,7 +38,14 @@
         "analyst"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Av2nVCqLeZEzBCyzpkeZc_40.940258_-73.993846@1303262268"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461320549,
     "wof:geomhash":"bb4aec40a974e8bc9f1e7fe836bc6173",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655779823
+        }
+    ],
     "wof:id":655779823,
-    "wof:lastmodified":1466686470,
+    "wof:lastmodified":1492048531,
     "wof:name":"E Payne Susan & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

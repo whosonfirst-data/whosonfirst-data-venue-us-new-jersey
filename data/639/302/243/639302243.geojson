@@ -2,9 +2,14 @@
   "id": 639302243,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Jon St Old Bridge NJ 08857",
+    "addr:housenumber":"202",
+    "addr:postcode":"08857",
+    "addr:street":"Jon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.350207,40.386526,-74.350207,40.386526",
     "geom:latitude":40.386526,
     "geom:longitude":-74.350207,
@@ -27,7 +32,10 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LGMvaEngFc9l1yEPCR2Yi_40.386526_-74.350207@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292011,
     "wof:geomhash":"ee4a51384a141bbb2b6d103170290e86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639302243
+        }
+    ],
     "wof:id":639302243,
-    "wof:lastmodified":1466691389,
+    "wof:lastmodified":1492051828,
     "wof:name":"Imagine Systems Inc",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

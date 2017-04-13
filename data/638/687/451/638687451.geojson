@@ -2,9 +2,14 @@
   "id": 638687451,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Ellis Ave Irvington NJ 07111",
+    "addr:housenumber":"225",
+    "addr:postcode":"07111",
+    "addr:street":"Ellis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21616,40.733149,-74.21616,40.733149",
     "geom:latitude":40.733149,
     "geom:longitude":-74.21616,
@@ -29,7 +34,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872999,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tzdaVoGRwoia3PZHJ29rW_40.733149_-74.216160@1294171694"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461277065,
     "wof:geomhash":"a0382b34164249552cab94e88fe03d19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85872999,
+            "region_id":85688607,
+            "venue_id":638687451
+        }
+    ],
     "wof:id":638687451,
-    "wof:lastmodified":1466688260,
+    "wof:lastmodified":1492023500,
     "wof:name":"Harmon Trucking Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

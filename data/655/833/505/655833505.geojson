@@ -2,9 +2,14 @@
   "id": 655833505,
   "type": "Feature",
   "properties": {
+    "addr:full":"256 Bunn Dr Princeton NJ 08540",
+    "addr:housenumber":"256",
+    "addr:postcode":"08540",
+    "addr:street":"Bunn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652905,40.375421,-74.652905,40.375421",
     "geom:latitude":40.375421,
     "geom:longitude":-74.652905,
@@ -38,7 +43,13 @@
     ],
     "sg:website":"http://www.universityspine.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RcQJpScVC9HFG1VvPFVRh_40.375421_-74.652905@1303262281"
@@ -46,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1461322805,
     "wof:geomhash":"10aa3fc5425b3486fe861036f5054382",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655833505
+        }
+    ],
     "wof:id":655833505,
-    "wof:lastmodified":1466687772,
+    "wof:lastmodified":1492080205,
     "wof:name":"Blecher Haim D MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639450779,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Evans Ln Farmingdale NJ 07727",
+    "addr:housenumber":"10",
+    "addr:postcode":"07727",
+    "addr:street":"Evans Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.212302,40.1957,-74.212302,40.1957",
     "geom:latitude":40.1957,
     "geom:longitude":-74.212302,
@@ -29,7 +34,10 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rlghRsms1gBz1UsQxdMU1_40.195700_-74.212302@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461295438,
     "wof:geomhash":"14843aa33bef7bf362b7fc4c4cd4f97f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527253,
+            "venue_id":639450779
+        }
+    ],
     "wof:id":639450779,
-    "wof:lastmodified":1466693638,
+    "wof:lastmodified":1492056071,
     "wof:name":"Electric Technology",
     "wof:parent_id":420527253,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639203601,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Summit Rd Andover NJ 07821",
+    "addr:housenumber":"10",
+    "addr:postcode":"07821",
+    "addr:street":"Summit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.780568,40.974251,-74.780568,40.974251",
     "geom:latitude":40.974251,
     "geom:longitude":-74.780568,
@@ -24,7 +29,13 @@
     "sg:postcode":"07821",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478461,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1trfUx2RwW0QQPZ1Ov0KQD_40.974251_-74.780568@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461289730,
     "wof:geomhash":"d9303233cb521a479093bb9325fb8fab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478461,
+            "region_id":85688607,
+            "venue_id":639203601
+        }
+    ],
     "wof:id":639203601,
-    "wof:lastmodified":1466688989,
+    "wof:lastmodified":1492054549,
     "wof:name":"Scheible Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

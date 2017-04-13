@@ -2,9 +2,14 @@
   "id": 639329991,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Arnold Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"600",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051198,40.091631,-74.051198,40.091631",
     "geom:latitude":40.091631,
     "geom:longitude":-74.051198,
@@ -33,7 +38,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06xhG9M0tDicZP5tgctkvr_40.091631_-74.051198@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461292604,
     "wof:geomhash":"559995eecd77cee2c2b0a7131b9be4bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639329991
+        }
+    ],
     "wof:id":639329991,
-    "wof:lastmodified":1466692112,
+    "wof:lastmodified":1492051328,
     "wof:name":"Corner Bagelry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

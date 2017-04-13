@@ -2,9 +2,14 @@
   "id": 639072017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Corporate Pl S Piscataway NJ 08854",
+    "addr:housenumber":"2",
+    "addr:postcode":"08854",
+    "addr:street":"Corporate Pl S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.454807,40.549796,-74.454807,40.549796",
     "geom:latitude":40.549796,
     "geom:longitude":-74.454807,
@@ -29,7 +34,10 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OLWPpb0P0BX0v7pe3Cw9P_40.549796_-74.454807@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461286736,
     "wof:geomhash":"00d45f07f15b26f4c69df204650f93cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":639072017
+        }
+    ],
     "wof:id":639072017,
-    "wof:lastmodified":1466688309,
+    "wof:lastmodified":1492049940,
     "wof:name":"Federal Home Loan Bank NY",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

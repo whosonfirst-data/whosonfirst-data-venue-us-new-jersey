@@ -2,9 +2,14 @@
   "id": 639606831,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 Livingston St Northvale NJ 07647",
+    "addr:housenumber":"264",
+    "addr:postcode":"07647",
+    "addr:street":"Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.945684,41.01543,-73.945684,41.01543",
     "geom:latitude":41.01543,
     "geom:longitude":-73.945684,
@@ -27,7 +32,14 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PGqkpv83VCa0fkMNpTCfd_41.015430_-73.945684@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301992,
     "wof:geomhash":"9a2fc33bc357f74d99c5ed84e53dc68d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639606831
+        }
+    ],
     "wof:id":639606831,
-    "wof:lastmodified":1466697168,
+    "wof:lastmodified":1492068794,
     "wof:name":"Northvale Gas Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

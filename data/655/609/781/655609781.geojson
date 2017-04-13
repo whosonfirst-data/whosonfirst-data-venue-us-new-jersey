@@ -2,9 +2,14 @@
   "id": 655609781,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Rock Rd Glen Rock NJ 07452",
+    "addr:housenumber":"201",
+    "addr:postcode":"07452",
+    "addr:street":"Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131286,40.962531,-74.131286,40.962531",
     "geom:latitude":40.962531,
     "geom:longitude":-74.131286,
@@ -27,7 +32,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61fJQqunt0C5X7aaCHO0L9_40.962531_-74.131286@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313414,
     "wof:geomhash":"1909307b647d8a6657b3b1d67305a481",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":655609781
+        }
+    ],
     "wof:id":655609781,
-    "wof:lastmodified":1466681574,
+    "wof:lastmodified":1492076975,
     "wof:name":"Fletcher-Thompson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

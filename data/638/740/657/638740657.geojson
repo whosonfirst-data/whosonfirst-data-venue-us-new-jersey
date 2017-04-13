@@ -2,9 +2,14 @@
   "id": 638740657,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Shady Ln Bordentown NJ 08505",
+    "addr:housenumber":"2",
+    "addr:postcode":"08505",
+    "addr:street":"Shady Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.691542,40.144679,-74.691542,40.144679",
     "geom:latitude":40.144679,
     "geom:longitude":-74.691542,
@@ -27,7 +32,16 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85834189,
+        102191575,
+        404477313,
+        85633793,
+        85975539,
+        102087415,
+        85688607,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gs8poltQq3RyNXod0nQzS_40.144679_-74.691542@1294171694"
@@ -35,11 +49,27 @@
     "wof:country":"US",
     "wof:created":1461278753,
     "wof:geomhash":"87c63e32806f5aece86c8ab7cf2c3766",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477313,
+            "locality_id":85975539,
+            "neighbourhood_id":85834189,
+            "region_id":85688607,
+            "venue_id":638740657
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638740657
+        }
+    ],
     "wof:id":638740657,
-    "wof:lastmodified":1466676933,
+    "wof:lastmodified":1492062564,
     "wof:name":"Man Around House",
-    "wof:parent_id":420526703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

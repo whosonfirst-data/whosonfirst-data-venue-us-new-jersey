@@ -2,9 +2,14 @@
   "id": 655384727,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Mountain View Rd E Asbury NJ 08802",
+    "addr:housenumber":"118",
+    "addr:postcode":"08802",
+    "addr:street":"Mountain View Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.004871,40.728857,-75.004871,40.728857",
     "geom:latitude":40.728857,
     "geom:longitude":-75.004871,
@@ -30,7 +35,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cLy4g7QkGsA7GHDMLgNVm_40.728857_-75.004871@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461303984,
     "wof:geomhash":"a8d8429b81940bfd2186d00d2912b309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527791,
+            "venue_id":655384727
+        }
+    ],
     "wof:id":655384727,
-    "wof:lastmodified":1466675126,
+    "wof:lastmodified":1492028544,
     "wof:name":"S T Transport",
     "wof:parent_id":420527791,
     "wof:placetype":"venue",

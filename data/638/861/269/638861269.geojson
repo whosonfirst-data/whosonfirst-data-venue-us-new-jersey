@@ -2,9 +2,14 @@
   "id": 638861269,
   "type": "Feature",
   "properties": {
+    "addr:full":"757 Cass St Trenton NJ 08611",
+    "addr:housenumber":"757",
+    "addr:postcode":"08611",
+    "addr:street":"Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751529,40.206407,-74.751529,40.206407",
     "geom:latitude":40.206407,
     "geom:longitude":-74.751529,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.billbrowninc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v6LtKfaalGQRz6dIFNitL_40.206407_-74.751529@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461281782,
     "wof:geomhash":"2fd0ae7d140f091777aca4029627d278",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638861269
+        }
+    ],
     "wof:id":638861269,
-    "wof:lastmodified":1466689345,
+    "wof:lastmodified":1492082115,
     "wof:name":"Bill Brown & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

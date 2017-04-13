@@ -2,9 +2,14 @@
   "id": 638664603,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 US Hwy 206 Stanhope NJ 07821",
+    "addr:housenumber":"202",
+    "addr:postcode":"07821",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73247,40.948601,-74.73247,40.948601",
     "geom:latitude":40.948601,
     "geom:longitude":-74.73247,
@@ -28,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85812745,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UbiH3AKyCNRMWhz7XKqS5_40.948601_-74.732470@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461276279,
     "wof:geomhash":"dfd62ee68443a1922bc121894f4326cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85812745,
+            "region_id":85688607,
+            "venue_id":638664603
+        }
+    ],
     "wof:id":638664603,
-    "wof:lastmodified":1466674276,
+    "wof:lastmodified":1492062310,
     "wof:name":"Ferreira Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

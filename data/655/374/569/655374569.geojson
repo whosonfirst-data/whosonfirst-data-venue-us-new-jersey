@@ -2,9 +2,14 @@
   "id": 655374569,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Weiss Dr Towaco NJ 07082",
+    "addr:housenumber":"16",
+    "addr:postcode":"07082",
+    "addr:street":"Weiss Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.351166,40.905201,-74.351166,40.905201",
     "geom:latitude":40.905201,
     "geom:longitude":-74.351166,
@@ -29,7 +34,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nk8a36wohVrXREgSptKlB_40.905201_-74.351166@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461303605,
     "wof:geomhash":"2e8c57b1e1c168aac887eb4025c9494b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":655374569
+        }
+    ],
     "wof:id":655374569,
-    "wof:lastmodified":1466674823,
+    "wof:lastmodified":1492051021,
     "wof:name":"Vancor Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

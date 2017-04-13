@@ -2,9 +2,14 @@
   "id": 655537183,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Arrow Rd Ramsey NJ 07446",
+    "addr:housenumber":"25",
+    "addr:postcode":"07446",
+    "addr:street":"Arrow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120995,41.066145,-74.120995,41.066145",
     "geom:latitude":41.066145,
     "geom:longitude":-74.120995,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nwlAkTG2c8Zy6u2ChCbcx_41.066145_-74.120995@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310318,
     "wof:geomhash":"75735116c7a2f78572ba13e5c64d9a30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655537183
+        }
+    ],
     "wof:id":655537183,
-    "wof:lastmodified":1466679116,
+    "wof:lastmodified":1492051760,
     "wof:name":"Mer-Made Filter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

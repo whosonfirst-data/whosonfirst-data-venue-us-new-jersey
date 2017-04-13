@@ -2,9 +2,14 @@
   "id": 639499557,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Evergreen Rd New Egypt NJ 08533",
+    "addr:housenumber":"103",
+    "addr:postcode":"08533",
+    "addr:street":"Evergreen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.531645,40.076359,-74.531645,40.076359",
     "geom:latitude":40.076359,
     "geom:longitude":-74.531645,
@@ -28,7 +33,10 @@
         "freezer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527451
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HfiQEbqRCRwfrcUNeLIFH_40.076359_-74.531645@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297387,
     "wof:geomhash":"a17380b5d4fc33109d2aab0d63ad423e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527451,
+            "venue_id":639499557
+        }
+    ],
     "wof:id":639499557,
-    "wof:lastmodified":1466694772,
+    "wof:lastmodified":1492064889,
     "wof:name":"Sheaffer's Refrigeration Svc",
     "wof:parent_id":420527451,
     "wof:placetype":"venue",

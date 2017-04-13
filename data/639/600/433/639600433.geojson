@@ -2,9 +2,14 @@
   "id": 639600433,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Flock Rd Trenton NJ 08619",
+    "addr:housenumber":"53",
+    "addr:postcode":"08619",
+    "addr:street":"Flock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.684005,40.248835,-74.684005,40.248835",
     "geom:latitude":40.248835,
     "geom:longitude":-74.684005,
@@ -29,7 +34,10 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bNRTjojA7Qby0tEg0hpQs_40.248835_-74.684005@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461301750,
     "wof:geomhash":"3263b9e47b2782642d32eff41235a945",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":639600433
+        }
+    ],
     "wof:id":639600433,
-    "wof:lastmodified":1466696818,
+    "wof:lastmodified":1492047953,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

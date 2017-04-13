@@ -2,9 +2,14 @@
   "id": 655510803,
   "type": "Feature",
   "properties": {
+    "addr:full":"171 Loomis Ct Princeton NJ 08540",
+    "addr:housenumber":"171",
+    "addr:postcode":"08540",
+    "addr:street":"Loomis Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.65794,40.363835,-74.65794,40.363835",
     "geom:latitude":40.363835,
     "geom:longitude":-74.65794,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RE5Fnb4QewvC9hus8mNef_40.363835_-74.657940@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461309309,
     "wof:geomhash":"e9a9f2ea738f00da13e445fe5ed4d021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655510803
+        }
+    ],
     "wof:id":655510803,
-    "wof:lastmodified":1466678565,
+    "wof:lastmodified":1492070361,
     "wof:name":"Sean Dolan Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

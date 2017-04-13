@@ -2,9 +2,14 @@
   "id": 655833259,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Academy Ave Pennington NJ 08534",
+    "addr:housenumber":"5",
+    "addr:postcode":"08534",
+    "addr:street":"Academy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792068,40.32579,-74.792068,40.32579",
     "geom:latitude":40.32579,
     "geom:longitude":-74.792068,
@@ -33,7 +38,14 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477467,
+        85633793,
+        85975815,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rcG8rka8Ilkjt85eYVKtz_40.325790_-74.792068@1303262281"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461322796,
     "wof:geomhash":"016225b5726913b4965e55e5371a2053",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477467,
+            "locality_id":85975815,
+            "region_id":85688607,
+            "venue_id":655833259
+        }
+    ],
     "wof:id":655833259,
-    "wof:lastmodified":1466687706,
+    "wof:lastmodified":1492057379,
     "wof:name":"First Baptist Church Of Pennington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

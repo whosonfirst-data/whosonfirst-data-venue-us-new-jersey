@@ -2,9 +2,14 @@
   "id": 639477373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Philadelphia Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"1022",
+    "addr:postcode":"08742",
+    "addr:street":"Philadelphia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061723,40.085793,-74.061723,40.085793",
     "geom:latitude":40.085793,
     "geom:longitude":-74.061723,
@@ -28,7 +33,14 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H9tGVFemxkDwurlWYZZS8_40.085793_-74.061723@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296496,
     "wof:geomhash":"070a53c448188bc0598cc3d9287b894d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639477373
+        }
+    ],
     "wof:id":639477373,
-    "wof:lastmodified":1466694259,
+    "wof:lastmodified":1492052302,
     "wof:name":"Mar-Jel Remodeling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

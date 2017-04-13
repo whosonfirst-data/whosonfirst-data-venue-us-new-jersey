@@ -2,9 +2,14 @@
   "id": 639478767,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Notch Hill Dr Livingston NJ 07039",
+    "addr:housenumber":"9",
+    "addr:postcode":"07039",
+    "addr:street":"Notch Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.316835,40.759567,-74.316835,40.759567",
     "geom:latitude":40.759567,
     "geom:longitude":-74.316835,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85857457,
+        102191575,
+        404478043,
         85633793,
-        85838269,
-        102085043
+        85976003,
+        102085043,
+        85688607,
+        85838269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +51,16 @@
     "wof:geomhash":"4e3e3a750c526e9ff76515997a6e919c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "locality_id":85976003,
+            "neighbourhood_id":85857457,
+            "region_id":85688607,
+            "venue_id":639478767
+        },
+        {
             "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85838269,
@@ -50,9 +69,9 @@
         }
     ],
     "wof:id":639478767,
-    "wof:lastmodified":1466693851,
+    "wof:lastmodified":1492051158,
     "wof:name":"Tj Meier & Associates Inc",
-    "wof:parent_id":85838269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

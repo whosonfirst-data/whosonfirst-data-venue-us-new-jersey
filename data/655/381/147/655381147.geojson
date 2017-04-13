@@ -2,9 +2,14 @@
   "id": 655381147,
   "type": "Feature",
   "properties": {
+    "addr:full":"5514 Bergenline Pl West New York NJ 07093",
+    "addr:housenumber":"5514",
+    "addr:postcode":"07093",
+    "addr:street":"Bergenline Pl West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.018433,40.786032,-74.018433,40.786032",
     "geom:latitude":40.786032,
     "geom:longitude":-74.018433,
@@ -25,10 +30,13 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85836607,
+        102191575,
+        404477447,
         85633793,
-        85892533,
-        102080719
+        85975291,
+        102080719,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +47,20 @@
     "wof:geomhash":"151d4adf693e35f635015c0894ae291e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080719,
-            "neighbourhood_id":85892533,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85836607,
             "region_id":85688607,
             "venue_id":655381147
         }
     ],
     "wof:id":655381147,
-    "wof:lastmodified":1466674951,
+    "wof:lastmodified":1492068152,
     "wof:name":"El Carretero Restaurant",
-    "wof:parent_id":85892533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

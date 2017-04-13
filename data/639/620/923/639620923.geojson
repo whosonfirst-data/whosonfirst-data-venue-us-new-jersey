@@ -2,9 +2,14 @@
   "id": 639620923,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Spear St Oakland NJ 07436",
+    "addr:housenumber":"120",
+    "addr:postcode":"07436",
+    "addr:street":"Spear St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237821,41.012169,-74.237821,41.012169",
     "geom:latitude":41.012169,
     "geom:longitude":-74.237821,
@@ -27,7 +32,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6leKU0pp9iX7DTr9X8eJvP_41.012169_-74.237821@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302535,
     "wof:geomhash":"094d2d2f620704e5f304ef6207fddcd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639620923
+        }
+    ],
     "wof:id":639620923,
-    "wof:lastmodified":1466697281,
+    "wof:lastmodified":1492047689,
     "wof:name":"Bruno Bee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655659391,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Ramapo Valley Rd Oakland NJ 07436",
+    "addr:housenumber":"350",
+    "addr:postcode":"07436",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.242104,41.024502,-74.242104,41.024502",
     "geom:latitude":41.024502,
     "geom:longitude":-74.242104,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yexRBA75sypQMO0ekZ1Z4_41.024804_-74.241674@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461315593,
     "wof:geomhash":"9be2c4b180be9f28f9f2c13ffab4c9b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655659391
+        }
+    ],
     "wof:id":655659391,
-    "wof:lastmodified":1466683164,
+    "wof:lastmodified":1492058284,
     "wof:name":"Contemporary Mica Showcase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

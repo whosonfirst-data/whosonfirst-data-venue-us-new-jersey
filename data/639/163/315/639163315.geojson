@@ -2,9 +2,14 @@
   "id": 639163315,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Madison Ave Pennsauken NJ 08109",
+    "addr:housenumber":"6500",
+    "addr:postcode":"08109",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05096,39.961468,-75.05096,39.961468",
     "geom:latitude":39.961468,
     "geom:longitude":-75.05096,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tXWDZANMIaljZzRYRGjWQ_39.961468_-75.050960@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288821,
     "wof:geomhash":"abd208aa9f8916b2b9af37b637b12a4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":639163315
+        }
+    ],
     "wof:id":639163315,
-    "wof:lastmodified":1466683590,
+    "wof:lastmodified":1492069351,
     "wof:name":"Family Practice",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

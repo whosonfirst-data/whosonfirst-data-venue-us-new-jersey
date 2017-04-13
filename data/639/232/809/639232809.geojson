@@ -2,9 +2,14 @@
   "id": 639232809,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Gallmeier Rd Frenchtown NJ 08825",
+    "addr:housenumber":"92",
+    "addr:postcode":"08825",
+    "addr:street":"Gallmeier Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.058176,40.560592,-75.058176,40.560592",
     "geom:latitude":40.560592,
     "geom:longitude":-75.058176,
@@ -27,7 +32,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EPRtVlUcIgwlFkWxuEnm_40.560592_-75.058176@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461290424,
     "wof:geomhash":"0bf4e365cd1cd649826ffe73c11ebb1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":639232809
+        }
+    ],
     "wof:id":639232809,
-    "wof:lastmodified":1466689968,
+    "wof:lastmodified":1492056130,
     "wof:name":"Prestige Engineering",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

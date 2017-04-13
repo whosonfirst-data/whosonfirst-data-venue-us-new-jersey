@@ -2,9 +2,14 @@
   "id": 655466813,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 2nd St Closter NJ 07624",
+    "addr:housenumber":"28",
+    "addr:postcode":"07624",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.95624,40.965188,-73.95624,40.965188",
     "geom:latitude":40.965188,
     "geom:longitude":-73.95624,
@@ -29,7 +34,14 @@
         "dump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vZe0TJ8vrX1XXHl14jhbS_40.965188_-73.956240@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461307455,
     "wof:geomhash":"1a97a62db8e6250bbf69aced98f39f71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655466813
+        }
+    ],
     "wof:id":655466813,
-    "wof:lastmodified":1466677333,
+    "wof:lastmodified":1492024311,
     "wof:name":"Merleno Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

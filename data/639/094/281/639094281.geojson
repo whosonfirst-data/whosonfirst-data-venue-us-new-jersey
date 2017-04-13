@@ -2,9 +2,14 @@
   "id": 639094281,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E Partridge Ln Cherry Hill NJ 08003",
+    "addr:housenumber":"104",
+    "addr:postcode":"08003",
+    "addr:street":"E Partridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.935365,39.872196,-74.935365,39.872196",
     "geom:latitude":39.872196,
     "geom:longitude":-74.935365,
@@ -29,7 +34,14 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976229,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74wuluzYWdKNyMVvNJRT5M_39.872196_-74.935365@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461287226,
     "wof:geomhash":"983796479502630e2c088bd1eceb60f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976229,
+            "region_id":85688607,
+            "venue_id":639094281
+        }
+    ],
     "wof:id":639094281,
-    "wof:lastmodified":1466673540,
+    "wof:lastmodified":1492043258,
     "wof:name":"Transpacifik Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

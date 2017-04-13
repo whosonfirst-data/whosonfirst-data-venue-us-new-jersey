@@ -2,9 +2,14 @@
   "id": 655763891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Barbara Ln Oakland NJ 07436",
+    "addr:housenumber":"4",
+    "addr:postcode":"07436",
+    "addr:street":"Barbara Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.242923,41.027031,-74.242923,41.027031",
     "geom:latitude":41.027031,
     "geom:longitude":-74.242923,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wv8LCBpc4xHhKfhrxWaUK_41.027031_-74.242923@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319806,
     "wof:geomhash":"d327f7419081477ebbad35437cea0b10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655763891
+        }
+    ],
     "wof:id":655763891,
-    "wof:lastmodified":1466686035,
+    "wof:lastmodified":1492048312,
     "wof:name":"Kings Court Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

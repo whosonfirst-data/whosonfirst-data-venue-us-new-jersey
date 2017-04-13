@@ -2,9 +2,14 @@
   "id": 639167455,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Phelps Ave Bergenfield NJ 07621",
+    "addr:housenumber":"81",
+    "addr:postcode":"07621",
+    "addr:street":"Phelps Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.989245,40.934131,-73.989245,40.934131",
     "geom:latitude":40.934131,
     "geom:longitude":-73.989245,
@@ -30,7 +35,14 @@
         "to"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZdESXGmVx7NvCEMDYgDBW_40.934131_-73.989245@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461288909,
     "wof:geomhash":"d742cb9058701879ede795bde6aa8963",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639167455
+        }
+    ],
     "wof:id":639167455,
-    "wof:lastmodified":1466684136,
+    "wof:lastmodified":1492049640,
     "wof:name":"CTR Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

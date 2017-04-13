@@ -2,9 +2,14 @@
   "id": 655557515,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Scoles Ave Clifton NJ 07012",
+    "addr:housenumber":"122",
+    "addr:postcode":"07012",
+    "addr:street":"Scoles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.152133,40.850942,-74.152133,40.850942",
     "geom:latitude":40.850942,
     "geom:longitude":-74.152133,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_309d4Xn4MzthYI2Qaf1AFr_40.850942_-74.152133@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461311134,
     "wof:geomhash":"2b5678607a76e083f96ef04f7665e6f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655557515
+        }
+    ],
     "wof:id":655557515,
-    "wof:lastmodified":1466679736,
+    "wof:lastmodified":1492053679,
     "wof:name":"Allwood Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

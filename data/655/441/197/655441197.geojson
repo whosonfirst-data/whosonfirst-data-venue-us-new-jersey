@@ -2,9 +2,14 @@
   "id": 655441197,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Cherokee Ln Franklin Lakes NJ 07417",
+    "addr:housenumber":"933",
+    "addr:postcode":"07417",
+    "addr:street":"Cherokee Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216866,40.981918,-74.216866,40.981918",
     "geom:latitude":40.981918,
     "geom:longitude":-74.216866,
@@ -27,7 +32,14 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PshU6SisldN352t2yU1yZ_40.981918_-74.216866@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306331,
     "wof:geomhash":"4c0de9c42f4e9ce6ca8ae44214a109cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":655441197
+        }
+    ],
     "wof:id":655441197,
-    "wof:lastmodified":1466676554,
+    "wof:lastmodified":1492024254,
     "wof:name":"Back Room Investment Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655788045,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Great Meadows Rd Blairstown NJ 07825",
+    "addr:housenumber":"403",
+    "addr:postcode":"07825",
+    "addr:street":"Great Meadows Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.998199,40.8922,-74.998199,40.8922",
     "geom:latitude":40.8922,
     "geom:longitude":-74.998199,
@@ -28,7 +33,10 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41XDgW0KWZttoLYNaVtSY2_40.892200_-74.998199@1303262270"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320895,
     "wof:geomhash":"ac7e6497812c2db123ee8f787a8a2138",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655788045
+        }
+    ],
     "wof:id":655788045,
-    "wof:lastmodified":1466686522,
+    "wof:lastmodified":1492030397,
     "wof:name":"American Real Estate Inspections",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

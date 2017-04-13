@@ -2,9 +2,14 @@
   "id": 655678963,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"149",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.342697,41.007,-74.342697,41.007",
     "geom:latitude":41.007,
     "geom:longitude":-74.342697,
@@ -28,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UaBMU583qGL0QWjhB0FdL_41.006908_-74.342932@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316373,
     "wof:geomhash":"75c98e9f8cc4f59364de76fd3018b770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655678963
+        }
+    ],
     "wof:id":655678963,
-    "wof:lastmodified":1466683891,
+    "wof:lastmodified":1492041001,
     "wof:name":"Gas Pumpers of America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

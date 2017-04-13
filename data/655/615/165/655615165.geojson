@@ -2,9 +2,14 @@
   "id": 655615165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1058 Sherman Ave South Plainfield NJ 07080",
+    "addr:housenumber":"1058",
+    "addr:postcode":"07080",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.434461,40.595309,-74.434461,40.595309",
     "geom:latitude":40.595309,
     "geom:longitude":-74.434461,
@@ -27,7 +32,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478213,
+        85633793,
+        85975729,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_219guxJsXsXEbgJyNGBc94_40.595309_-74.434461@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313658,
     "wof:geomhash":"9d14a0dc1afd6d01068c1eb8b02cb0ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "region_id":85688607,
+            "venue_id":655615165
+        }
+    ],
     "wof:id":655615165,
-    "wof:lastmodified":1466681525,
+    "wof:lastmodified":1492023653,
     "wof:name":"Brat House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655392545,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Chandler Rd Englishtown NJ 07726",
+    "addr:housenumber":"16",
+    "addr:postcode":"07726",
+    "addr:street":"Chandler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.351256,40.248275,-74.351256,40.248275",
     "geom:latitude":40.248275,
     "geom:longitude":-74.351256,
@@ -24,7 +29,13 @@
     "sg:postcode":"07726",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1onRb9KaCDoHJy5T7U7fBJ_40.248275_-74.351256@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461304320,
     "wof:geomhash":"3c17af85e41d2596ba1af1c73a5d63d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655392545
+        }
+    ],
     "wof:id":655392545,
-    "wof:lastmodified":1466675333,
+    "wof:lastmodified":1492051006,
     "wof:name":"Sofia Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

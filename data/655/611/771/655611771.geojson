@@ -2,9 +2,14 @@
   "id": 655611771,
   "type": "Feature",
   "properties": {
+    "addr:full":"348 River Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"348",
+    "addr:postcode":"08742",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.073526,40.085101,-74.073526,40.085101",
     "geom:latitude":40.085101,
     "geom:longitude":-74.073526,
@@ -27,7 +32,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2biztlOvu9LZPmEM5eG3ZF_40.085101_-74.073526@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461313504,
     "wof:geomhash":"3037067ba8880c5ab1f5ced5735b40e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":655611771
+        }
+    ],
     "wof:id":655611771,
-    "wof:lastmodified":1466681571,
+    "wof:lastmodified":1492064850,
     "wof:name":"Michael Napolitan PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

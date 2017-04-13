@@ -2,9 +2,14 @@
   "id": 639447739,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 Main St Hampton NJ 08827",
+    "addr:housenumber":"224",
+    "addr:postcode":"08827",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.970071,40.620842,-74.970071,40.620842",
     "geom:latitude":40.620842,
     "geom:longitude":-74.970071,
@@ -28,7 +33,13 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478241,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aD9ah2Xl5UO0QASEQ7o8z_40.620842_-74.970071@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461295327,
     "wof:geomhash":"360c0bafcbfad3c819b2ac27966f8fd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478241,
+            "region_id":85688607,
+            "venue_id":639447739
+        }
+    ],
     "wof:id":639447739,
-    "wof:lastmodified":1466693626,
+    "wof:lastmodified":1492041829,
     "wof:name":"Gary Scott Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655673889,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Chapel Hill Rd Lincoln Park NJ 07035",
+    "addr:housenumber":"10",
+    "addr:postcode":"07035",
+    "addr:street":"Chapel Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304497,40.922798,-74.304497,40.922798",
     "geom:latitude":40.922798,
     "geom:longitude":-74.304497,
@@ -24,7 +29,14 @@
     "sg:postcode":"07035",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MhBXZOCCe5nrQG17rG2PU_40.922167_-74.304300@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461316177,
     "wof:geomhash":"c149e98337c6cdf4764adaa345f728f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":655673889
+        }
+    ],
     "wof:id":655673889,
-    "wof:lastmodified":1466683680,
+    "wof:lastmodified":1492075998,
     "wof:name":"Wallack Charles T DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

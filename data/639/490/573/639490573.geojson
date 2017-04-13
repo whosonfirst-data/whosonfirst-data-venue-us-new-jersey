@@ -2,9 +2,14 @@
   "id": 639490573,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Main St Bloomingdale NJ 07403",
+    "addr:housenumber":"142",
+    "addr:postcode":"07403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331699,41.003505,-74.331699,41.003505",
     "geom:latitude":41.003505,
     "geom:longitude":-74.331699,
@@ -24,7 +29,14 @@
     "sg:postcode":"07403",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79JtDUHkm0lWdUuxIcCqm8_41.003505_-74.331699@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297047,
     "wof:geomhash":"369974adc68e47f7b4ae038ceffbf3d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639490573
+        }
+    ],
     "wof:id":639490573,
-    "wof:lastmodified":1466694573,
+    "wof:lastmodified":1492051008,
     "wof:name":"Forever Summer Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655607159,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Thanet Rd Princeton NJ 08540",
+    "addr:housenumber":"",
+    "addr:postcode":"08540",
+    "addr:street":"Thanet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.652151,40.36798,-74.652151,40.36798",
     "geom:latitude":40.36798,
     "geom:longitude":-74.652151,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.idaccr.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51Eu5951AP0QmXXtmzdPxu_40.367980_-74.652151@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461313309,
     "wof:geomhash":"e16d437bc04598b87b2fda4e42976676",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655607159
+        }
+    ],
     "wof:id":655607159,
-    "wof:lastmodified":1466681336,
+    "wof:lastmodified":1492049439,
     "wof:name":"Center For Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

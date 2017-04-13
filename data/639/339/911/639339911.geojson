@@ -2,9 +2,14 @@
   "id": 639339911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1174 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1174",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.238695,40.685064,-74.238695,40.685064",
     "geom:latitude":40.685064,
     "geom:longitude":-74.238695,
@@ -29,7 +34,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FcMtXxsRh9u3MDt2dJOge_40.685064_-74.238695@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461292807,
     "wof:geomhash":"daa55757cf1fc69cd7e3cfcd1e0acc55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639339911
+        }
+    ],
     "wof:id":639339911,
-    "wof:lastmodified":1466692359,
+    "wof:lastmodified":1492056139,
     "wof:name":"Jiffy Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

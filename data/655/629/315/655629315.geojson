@@ -2,9 +2,14 @@
   "id": 655629315,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Jersey Ave Mahwah NJ 07430",
+    "addr:housenumber":"8",
+    "addr:postcode":"07430",
+    "addr:street":"Jersey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.156257,41.109122,-74.156257,41.109122",
     "geom:latitude":41.109122,
     "geom:longitude":-74.156257,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kv2knWa0hcAzVGj4VQj8t_41.109122_-74.156257@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314289,
     "wof:geomhash":"f868ae2865f582c45390ae1c52457870",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655629315
+        }
+    ],
     "wof:id":655629315,
-    "wof:lastmodified":1466682052,
+    "wof:lastmodified":1492027754,
     "wof:name":"Ra Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

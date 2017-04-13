@@ -2,9 +2,14 @@
   "id": 639556369,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 Madison Ave Elizabeth NJ 07201",
+    "addr:housenumber":"927",
+    "addr:postcode":"07201",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.200518,40.683239,-74.200518,40.683239",
     "geom:latitude":40.683239,
     "geom:longitude":-74.200518,
@@ -24,7 +29,14 @@
     "sg:postcode":"07201",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xTFUtoOg6JKRHLFcEXInh_40.683239_-74.200518@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461299999,
     "wof:geomhash":"1ffaf10928db748db5073a0166abac3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":639556369
+        }
+    ],
     "wof:id":639556369,
-    "wof:lastmodified":1466695954,
+    "wof:lastmodified":1492049623,
     "wof:name":"North Jersey Sea Scouts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

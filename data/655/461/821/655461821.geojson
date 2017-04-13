@@ -2,9 +2,14 @@
   "id": 655461821,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Studio Rd Ridgefield NJ 07657",
+    "addr:housenumber":"565",
+    "addr:postcode":"07657",
+    "addr:street":"Studio Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.996427,40.828741,-73.996427,40.828741",
     "geom:latitude":40.828741,
     "geom:longitude":-73.996427,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GeyzZFpQ0kySqyU3TjfFv_40.828741_-73.996427@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307237,
     "wof:geomhash":"5ea54882aedeeca501082af78272aced",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":655461821
+        }
+    ],
     "wof:id":655461821,
-    "wof:lastmodified":1466677242,
+    "wof:lastmodified":1492068300,
     "wof:name":"Marbell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638695067,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Huntington Dr Southampton NJ 08088",
+    "addr:housenumber":"27",
+    "addr:postcode":"08088",
+    "addr:street":"Huntington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703021,39.887921,-74.703021,39.887921",
     "geom:latitude":39.887921,
     "geom:longitude":-74.703021,
@@ -27,7 +32,10 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uOHi9pXHhuvQWcFfiE7i0_39.887921_-74.703021@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461277369,
     "wof:geomhash":"334b4ef449bb2e84298ce3ea29269f2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":638695067
+        }
+    ],
     "wof:id":638695067,
-    "wof:lastmodified":1466688340,
+    "wof:lastmodified":1492071372,
     "wof:name":"Leisuretowne",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655375589,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Princeton Pl Princeton Jct NJ 08550",
+    "addr:housenumber":"44",
+    "addr:postcode":"08550",
+    "addr:street":"Princeton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.620792,40.300757,-74.620792,40.300757",
     "geom:latitude":40.300757,
     "geom:longitude":-74.620792,
@@ -24,7 +29,10 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55y4uwaeq1BZmHRV5YzNMO_40.300757_-74.620792@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461303644,
     "wof:geomhash":"c227fb9857337f2f6e149b2992d0639f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655375589
+        }
+    ],
     "wof:id":655375589,
-    "wof:lastmodified":1466674836,
+    "wof:lastmodified":1492049442,
     "wof:name":"Prudential Fox & Roach",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

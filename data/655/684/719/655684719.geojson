@@ -2,9 +2,14 @@
   "id": 655684719,
   "type": "Feature",
   "properties": {
+    "addr:full":"2730 Haddonfield Rd Pennsauken NJ 08110",
+    "addr:housenumber":"",
+    "addr:postcode":"2730;08110",
+    "addr:street":"Haddonfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022801,39.971685,-75.022801,39.971685",
     "geom:latitude":39.971685,
     "geom:longitude":-75.022801,
@@ -38,7 +43,14 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cxoV36MsEnmmvCd4S46B5_39.971880_-75.022711@1293134755"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461316631,
     "wof:geomhash":"8fd99cae7b94ef6a4a58791e05e8976b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655684719
+        }
+    ],
     "wof:id":655684719,
-    "wof:lastmodified":1466683917,
+    "wof:lastmodified":1492048140,
     "wof:name":"E & F Auto Glass",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

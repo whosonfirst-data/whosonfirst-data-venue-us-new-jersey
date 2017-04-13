@@ -2,9 +2,14 @@
   "id": 655713883,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"16",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.137814,40.782153,-74.137814,40.782153",
     "geom:latitude":40.782153,
     "geom:longitude":-74.137814,
@@ -28,7 +33,14 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oJq0Tj5uHpFTsHgCfgXEE_40.782153_-74.137814@1303262252"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461317920,
     "wof:geomhash":"355d545cdcaca3dfa9d419984c6405b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655713883
+        }
+    ],
     "wof:id":655713883,
-    "wof:lastmodified":1466684723,
+    "wof:lastmodified":1492058097,
     "wof:name":"Jackson Eric MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

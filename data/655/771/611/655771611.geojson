@@ -2,9 +2,14 @@
   "id": 655771611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 US Highway 46 Totowa NJ 07512",
+    "addr:housenumber":"",
+    "addr:postcode":"07512",
+    "addr:street":"Us Highway 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220596,40.890999,-74.220596,40.890999",
     "geom:latitude":40.890999,
     "geom:longitude":-74.220596,
@@ -24,7 +29,14 @@
     "sg:postcode":"07512",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l7E4bsZDW3YU9UTPwFqdv_40.890999_-74.220596@1303262266"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461320162,
     "wof:geomhash":"9ed8d95665de84441dacebe506f46a40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655771611
+        }
+    ],
     "wof:id":655771611,
-    "wof:lastmodified":1466686159,
+    "wof:lastmodified":1492057262,
     "wof:name":"Green's Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

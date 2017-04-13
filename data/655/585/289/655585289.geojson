@@ -2,9 +2,14 @@
   "id": 655585289,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 Goffle Hill Rd Hawthorne NJ 07506",
+    "addr:housenumber":"253",
+    "addr:postcode":"07506",
+    "addr:street":"Goffle Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.160789,40.96694,-74.160789,40.96694",
     "geom:latitude":40.96694,
     "geom:longitude":-74.160789,
@@ -24,7 +29,15 @@
     "sg:postcode":"07506",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892495,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PlTEshWzdg0Xbwrsd630H_40.966940_-74.160789@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461312404,
     "wof:geomhash":"95c99a41de671d0405cdbe9659c19244",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "neighbourhood_id":85892495,
+            "region_id":85688607,
+            "venue_id":655585289
+        }
+    ],
     "wof:id":655585289,
-    "wof:lastmodified":1466680385,
+    "wof:lastmodified":1492047972,
     "wof:name":"A Second Chance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655828375,
   "type": "Feature",
   "properties": {
+    "addr:full":"5626 State Highway 38 N Pennsauken NJ 08110",
+    "addr:housenumber":"5626",
+    "addr:postcode":"08110",
+    "addr:street":"State Highway 38 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.066498,39.962002,-75.066498,39.962002",
     "geom:latitude":39.962002,
     "geom:longitude":-75.066498,
@@ -27,7 +32,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mmmB9RHtAz5AkcvNYiVly_39.962002_-75.066498@1303262280"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322576,
     "wof:geomhash":"49f9a20c9fcc2c2657018b72b6022f4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828375
+        }
+    ],
     "wof:id":655828375,
-    "wof:lastmodified":1466687648,
+    "wof:lastmodified":1492023810,
     "wof:name":"Chem-Dry by Todd",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

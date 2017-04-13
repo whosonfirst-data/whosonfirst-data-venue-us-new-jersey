@@ -2,9 +2,14 @@
   "id": 639588685,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Kent Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"19",
+    "addr:postcode":"08002",
+    "addr:street":"Kent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.016544,39.952165,-75.016544,39.952165",
     "geom:latitude":39.952165,
     "geom:longitude":-75.016544,
@@ -27,7 +32,14 @@
         "editorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XUzgwn6rpdKLrRUPtB5GK_39.952165_-75.016544@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301274,
     "wof:geomhash":"66d3dfe9bc8466c79c689f192ef7a648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639588685
+        }
+    ],
     "wof:id":639588685,
-    "wof:lastmodified":1466696481,
+    "wof:lastmodified":1492045148,
     "wof:name":"Christine Nrris Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

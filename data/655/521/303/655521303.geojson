@@ -2,9 +2,14 @@
   "id": 655521303,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 N Haledon Ave North Haledon NJ 07508",
+    "addr:housenumber":"103",
+    "addr:postcode":"07508",
+    "addr:street":"N Haledon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179941,40.962839,-74.179941,40.962839",
     "geom:latitude":40.962839,
     "geom:longitude":-74.179941,
@@ -28,7 +33,14 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478537,
+        85633793,
+        85975485,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XJtoU2ET2H5sxvrTXgdGZ_40.962839_-74.179941@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309724,
     "wof:geomhash":"86e3d088f31b9fe27c32b46fd7a9fdf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404478537,
+            "locality_id":85975485,
+            "region_id":85688607,
+            "venue_id":655521303
+        }
+    ],
     "wof:id":655521303,
-    "wof:lastmodified":1466678700,
+    "wof:lastmodified":1492020711,
     "wof:name":"North Haledon Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638782393,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Main St Belmar NJ 07719",
+    "addr:housenumber":"705",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.024599,40.182363,-74.024599,40.182363",
     "geom:latitude":40.182363,
     "geom:longitude":-74.024599,
@@ -28,7 +33,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YYO3TUrNIrXnCdHDb7isJ_40.182363_-74.024599@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279853,
     "wof:geomhash":"9c562a207e44c27ea0cd2597de7e08a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638782393
+        }
+    ],
     "wof:id":638782393,
-    "wof:lastmodified":1466683293,
+    "wof:lastmodified":1492048452,
     "wof:name":"LA Tuscany Italia LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

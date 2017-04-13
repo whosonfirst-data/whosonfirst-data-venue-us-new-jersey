@@ -2,9 +2,14 @@
   "id": 655497787,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Cliffwood Ave Cliffwood NJ 07721",
+    "addr:housenumber":"63",
+    "addr:postcode":"07721",
+    "addr:street":"Cliffwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243488,40.431342,-74.243488,40.431342",
     "geom:latitude":40.431342,
     "geom:longitude":-74.243488,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pB1ixwg3fJkurK5lyyljy_40.431342_-74.243488@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308743,
     "wof:geomhash":"d075372b844e5ce5cbdaf66c97ee8bd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655497787
+        }
+    ],
     "wof:id":655497787,
-    "wof:lastmodified":1466678208,
+    "wof:lastmodified":1492021468,
     "wof:name":"Harvest Time Worship Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

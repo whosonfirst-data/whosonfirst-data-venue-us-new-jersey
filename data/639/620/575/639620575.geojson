@@ -2,9 +2,14 @@
   "id": 639620575,
   "type": "Feature",
   "properties": {
+    "addr:full":"2496 US Hwy 130 Cinnaminson NJ 08077",
+    "addr:housenumber":"2496",
+    "addr:postcode":"08077",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.974208,40.006667,-74.974208,40.006667",
     "geom:latitude":40.006667,
     "geom:longitude":-74.974208,
@@ -24,7 +29,10 @@
     "sg:postcode":"08077",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZomdkzCTXytPbGm6yyCVE_40.006667_-74.974208@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461302524,
     "wof:geomhash":"0f8851cfd800daaa56fc619e8ef62208",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":639620575
+        }
+    ],
     "wof:id":639620575,
-    "wof:lastmodified":1466697268,
+    "wof:lastmodified":1492056742,
     "wof:name":"US Post Office",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

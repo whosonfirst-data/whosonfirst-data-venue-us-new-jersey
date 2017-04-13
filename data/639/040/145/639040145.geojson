@@ -2,9 +2,14 @@
   "id": 639040145,
   "type": "Feature",
   "properties": {
+    "addr:full":"675 Cooper Landing Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"675",
+    "addr:postcode":"08002",
+    "addr:street":"Cooper Landing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012942,39.928876,-75.012942,39.928876",
     "geom:latitude":39.928876,
     "geom:longitude":-75.012942,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FgA3i99rWxVIk6ZiA7zu6_39.928876_-75.012942@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286052,
     "wof:geomhash":"ddcad4ec92a47624be694d795893b51d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639040145
+        }
+    ],
     "wof:id":639040145,
-    "wof:lastmodified":1466673981,
+    "wof:lastmodified":1492030495,
     "wof:name":"St Michael's Ukrainian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

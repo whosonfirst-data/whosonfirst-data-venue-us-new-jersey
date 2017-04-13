@@ -2,9 +2,14 @@
   "id": 655768527,
   "type": "Feature",
   "properties": {
+    "addr:full":"1777 Hamburg Tpke Ste 102 Wayne NJ 07470",
+    "addr:housenumber":"1777",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260597,40.969799,-74.260597,40.969799",
     "geom:latitude":40.969799,
     "geom:longitude":-74.260597,
@@ -24,7 +29,10 @@
     "sg:postcode":"07470",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JQCMEzuV7qsivK6JxLiVq_40.969799_-74.260597@1303262265"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461320022,
     "wof:geomhash":"20805f0417a0857db5bec5fca71ec106",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655768527
+        }
+    ],
     "wof:id":655768527,
-    "wof:lastmodified":1466686124,
+    "wof:lastmodified":1492041291,
     "wof:name":"Pollack Shoshannah MD",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

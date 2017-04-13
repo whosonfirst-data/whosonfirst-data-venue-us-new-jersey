@@ -2,9 +2,14 @@
   "id": 655606265,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Lyons Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"55",
+    "addr:postcode":"07438",
+    "addr:street":"Lyons Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.500697,41.01232,-74.500697,41.01232",
     "geom:latitude":41.01232,
     "geom:longitude":-74.500697,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sM4DeXvGK5RKBsj6iKJE2_41.012320_-74.500697@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313266,
     "wof:geomhash":"2473fee65b4d9dd71dd7488ace808043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527329,
+            "venue_id":655606265
+        }
+    ],
     "wof:id":655606265,
-    "wof:lastmodified":1466681180,
+    "wof:lastmodified":1492047571,
     "wof:name":"Van Ness Contracting",
     "wof:parent_id":420527329,
     "wof:placetype":"venue",

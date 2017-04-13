@@ -2,9 +2,14 @@
   "id": 655670107,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Mathews Ave Riverdale NJ 07457",
+    "addr:housenumber":"5",
+    "addr:postcode":"07457",
+    "addr:street":"Mathews Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.321215,41.000591,-74.321215,41.000591",
     "geom:latitude":41.000591,
     "geom:longitude":-74.321215,
@@ -22,7 +27,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477321,
+        85633793,
+        85975579,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o0BD5nushAAYcByyQFlBr_41.000591_-74.321215@1294171694"
@@ -30,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461316013,
     "wof:geomhash":"18eb6a965df6211075b632188e829edf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477321,
+            "locality_id":85975579,
+            "region_id":85688607,
+            "venue_id":655670107
+        }
+    ],
     "wof:id":655670107,
-    "wof:lastmodified":1466683413,
+    "wof:lastmodified":1492048149,
     "wof:name":"Frank Dimattia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655628057,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Martin Luther King Jr Dr Jersey City NJ 07305",
+    "addr:housenumber":"140",
+    "addr:postcode":"07305",
+    "addr:street":"Martin Luther King Jr Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.086631,40.704494,-74.086631,40.704494",
     "geom:latitude":40.704494,
     "geom:longitude":-74.086631,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823085,
+        85878409,
         102191575,
         404478139,
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        85823085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102080719,
             "localadmin_id":404478139,
             "locality_id":85975295,
+            "neighbourhood_id":85878409,
+            "region_id":85688607,
+            "venue_id":655628057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
             "neighbourhood_id":85823085,
             "region_id":85688607,
             "venue_id":655628057
         }
     ],
     "wof:id":655628057,
-    "wof:lastmodified":1466681961,
+    "wof:lastmodified":1492019942,
     "wof:name":"NJ Association On Correction",
-    "wof:parent_id":85823085,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639511577,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Elm St Spotswood NJ 08884",
+    "addr:housenumber":"22",
+    "addr:postcode":"08884",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.386053,40.385878,-74.386053,40.385878",
     "geom:latitude":40.385878,
     "geom:longitude":-74.386053,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qnbirfn8RZefCeCTlI5t2_40.385878_-74.386053@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297922,
     "wof:geomhash":"c67509db79c70eb42d0e36a4b00f25c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639511577
+        }
+    ],
     "wof:id":639511577,
-    "wof:lastmodified":1466695055,
+    "wof:lastmodified":1492029453,
     "wof:name":"Jack Pine Electrical Contr Co",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

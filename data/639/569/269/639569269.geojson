@@ -2,9 +2,14 @@
   "id": 639569269,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Fountain Dr Lakewood NJ 08701",
+    "addr:housenumber":"5",
+    "addr:postcode":"08701",
+    "addr:street":"Fountain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.174385,40.087539,-74.174385,40.087539",
     "geom:latitude":40.087539,
     "geom:longitude":-74.174385,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RGGea2X44ItWPIxMNPwFR_40.087539_-74.174385@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300479,
     "wof:geomhash":"c07de099d2118299f5177ed97294ae7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639569269
+        }
+    ],
     "wof:id":639569269,
-    "wof:lastmodified":1466696232,
+    "wof:lastmodified":1492070972,
     "wof:name":"Woodlake Village",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

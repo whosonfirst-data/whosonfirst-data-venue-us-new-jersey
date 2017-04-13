@@ -2,9 +2,14 @@
   "id": 655790601,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 State Route 10 Randolph NJ 07869",
+    "addr:housenumber":"140",
+    "addr:postcode":"07869",
+    "addr:street":"State Route 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5364,40.873501,-74.5364,40.873501",
     "geom:latitude":40.873501,
     "geom:longitude":-74.5364,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.subway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nc6mfEmrUt2Q4NQJ3wsYq_40.873501_-74.536400@1303262271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461320999,
     "wof:geomhash":"d08d67156cb8c472409c28ac84227390",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790601
+        }
+    ],
     "wof:id":655790601,
-    "wof:lastmodified":1466686675,
+    "wof:lastmodified":1492027616,
     "wof:name":"Subway",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

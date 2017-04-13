@@ -2,9 +2,14 @@
   "id": 655577313,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Millville Rd Montague NJ 07827",
+    "addr:housenumber":"27",
+    "addr:postcode":"07827",
+    "addr:street":"Millville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.778872,41.313078,-74.778872,41.313078",
     "geom:latitude":41.313078,
     "geom:longitude":-74.778872,
@@ -30,7 +35,13 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478469,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7erboDy2ps0C17E6A3s7z5_41.313078_-74.778872@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461312047,
     "wof:geomhash":"c001d93ca309f0d06114b4354bb3ad61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478469,
+            "region_id":85688607,
+            "venue_id":655577313
+        }
+    ],
     "wof:id":655577313,
-    "wof:lastmodified":1466680296,
+    "wof:lastmodified":1492048029,
     "wof:name":"JRC Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

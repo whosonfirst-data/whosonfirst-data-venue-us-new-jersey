@@ -2,9 +2,14 @@
   "id": 655835455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Ocean Ave Lakewood NJ 08701",
+    "addr:housenumber":"1400",
+    "addr:postcode":"08701",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.161728,40.08202,-74.161728,40.08202",
     "geom:latitude":40.08202,
     "geom:longitude":-74.161728,
@@ -28,7 +33,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Knd59VEN2e3GDcERR9B4X_40.082020_-74.161728@1303262282"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461322884,
     "wof:geomhash":"6655fd1a6b56bb3c02ac5d0b0e2167bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655835455
+        }
+    ],
     "wof:id":655835455,
-    "wof:lastmodified":1466687908,
+    "wof:lastmodified":1492065595,
     "wof:name":"Pine Belt Subaru",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

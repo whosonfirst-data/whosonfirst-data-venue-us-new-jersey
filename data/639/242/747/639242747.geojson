@@ -2,9 +2,14 @@
   "id": 639242747,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Atrium Dr Somerset NJ 08873",
+    "addr:housenumber":"700",
+    "addr:postcode":"08873",
+    "addr:street":"Atrium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52086,40.533744,-74.52086,40.533744",
     "geom:latitude":40.533744,
     "geom:longitude":-74.52086,
@@ -27,7 +32,14 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F0WVytM79q2J1G2XT2p4N_40.533744_-74.520860@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290675,
     "wof:geomhash":"31149cd5db7c167d916dc346c872b43e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":639242747
+        }
+    ],
     "wof:id":639242747,
-    "wof:lastmodified":1466690286,
+    "wof:lastmodified":1492069473,
     "wof:name":"Merck Employees Federal Cr Un",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

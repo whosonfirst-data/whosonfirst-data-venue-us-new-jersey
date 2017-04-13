@@ -2,9 +2,14 @@
   "id": 655641989,
   "type": "Feature",
   "properties": {
+    "addr:full":"367 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"367",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142053,40.043503,-74.142053,40.043503",
     "geom:latitude":40.043503,
     "geom:longitude":-74.142053,
@@ -29,7 +34,10 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dvhw5zt0BsKb0HrdpoGhz_40.043503_-74.142053@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461314839,
     "wof:geomhash":"2215f75545af4acf08101461f07ef504",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":655641989
+        }
+    ],
     "wof:id":655641989,
-    "wof:lastmodified":1466682670,
+    "wof:lastmodified":1492053911,
     "wof:name":"Absolute Sprinklers & Piping",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

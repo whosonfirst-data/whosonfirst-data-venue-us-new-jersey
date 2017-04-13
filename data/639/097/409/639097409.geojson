@@ -2,9 +2,14 @@
   "id": 639097409,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 E Veterans Hwy Jackson NJ 08527",
+    "addr:housenumber":"138",
+    "addr:postcode":"08527",
+    "addr:street":"E Veterans Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.336112,40.107655,-74.336112,40.107655",
     "geom:latitude":40.107655,
     "geom:longitude":-74.336112,
@@ -28,7 +33,13 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gWoGpiSibCQZTcILerTRY_40.107655_-74.336112@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287292,
     "wof:geomhash":"d51d564456a5999109bc6a5324582883",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639097409
+        }
+    ],
     "wof:id":639097409,
-    "wof:lastmodified":1466673942,
+    "wof:lastmodified":1492043908,
     "wof:name":"Lawn Doctor of Lakewood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

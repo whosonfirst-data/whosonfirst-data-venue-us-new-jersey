@@ -2,9 +2,14 @@
   "id": 639581249,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 3rd St Fairview NJ 07022",
+    "addr:housenumber":"222",
+    "addr:postcode":"07022",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994159,40.815813,-73.994159,40.815813",
     "geom:latitude":40.815813,
     "geom:longitude":-73.994159,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HGz1jegp0LXOLLn4pxEsD_40.815813_-73.994159@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461300952,
     "wof:geomhash":"65c55bbf410a801264b25375a389d879",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639581249
+        }
+    ],
     "wof:id":639581249,
-    "wof:lastmodified":1466696459,
+    "wof:lastmodified":1492050904,
     "wof:name":"George McOuri & Sons Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

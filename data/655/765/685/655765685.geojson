@@ -2,9 +2,14 @@
   "id": 655765685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Greenwood Lake Tpke Ste A Ringwood NJ 07456",
+    "addr:housenumber":"6",
+    "addr:postcode":"07456",
+    "addr:street":"Greenwood Lake Tpke Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281104,41.072172,-74.281104,41.072172",
     "geom:latitude":41.072172,
     "geom:longitude":-74.281104,
@@ -32,7 +37,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XMgQrvuDJPEYAzjwIvewL_41.072172_-74.281104@1303262264"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461319882,
     "wof:geomhash":"ddbad05ba143ee5b43a54afb625daffd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":655765685
+        }
+    ],
     "wof:id":655765685,
-    "wof:lastmodified":1466686151,
+    "wof:lastmodified":1492058467,
     "wof:name":"Ringwood Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

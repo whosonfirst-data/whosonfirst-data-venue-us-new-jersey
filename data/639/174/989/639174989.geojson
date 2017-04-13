@@ -2,9 +2,14 @@
   "id": 639174989,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 Beverly Dr Keyport NJ 07735",
+    "addr:housenumber":"423",
+    "addr:postcode":"07735",
+    "addr:street":"Beverly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217771,40.439589,-74.217771,40.439589",
     "geom:latitude":40.439589,
     "geom:longitude":-74.217771,
@@ -27,7 +32,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZRGJJSvCZ8yBhGGMGorCA_40.439589_-74.217771@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289077,
     "wof:geomhash":"cf302136c0c15feced2cd0439c7e369d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":639174989
+        }
+    ],
     "wof:id":639174989,
-    "wof:lastmodified":1466685119,
+    "wof:lastmodified":1492049289,
     "wof:name":"Netty Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639264611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Myrtle Dr Montague NJ 07827",
+    "addr:housenumber":"2",
+    "addr:postcode":"07827",
+    "addr:street":"Myrtle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792966,41.286085,-74.792966,41.286085",
     "geom:latitude":41.286085,
     "geom:longitude":-74.792966,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478469,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TPnljisOGW7JbPUlq521f_41.286085_-74.792966@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291152,
     "wof:geomhash":"68323578883b8771ebc8359ea8320de9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478469,
+            "region_id":85688607,
+            "venue_id":639264611
+        }
+    ],
     "wof:id":639264611,
-    "wof:lastmodified":1466690668,
+    "wof:lastmodified":1492076392,
     "wof:name":"Terrence A Duddy & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

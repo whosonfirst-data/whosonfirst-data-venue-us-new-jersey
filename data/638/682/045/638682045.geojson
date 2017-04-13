@@ -2,9 +2,14 @@
   "id": 638682045,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Primrose Ln Closter NJ 07624",
+    "addr:housenumber":"39",
+    "addr:postcode":"07624",
+    "addr:street":"Primrose Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.956941,40.981822,-73.956941,40.981822",
     "geom:latitude":40.981822,
     "geom:longitude":-73.956941,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L7cLonQ37WVwJvodJue2X_40.981822_-73.956941@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461276820,
     "wof:geomhash":"2a497d3b79320660123e0115197b4fe2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638682045
+        }
+    ],
     "wof:id":638682045,
-    "wof:lastmodified":1466688071,
+    "wof:lastmodified":1492062267,
     "wof:name":"Fjm Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

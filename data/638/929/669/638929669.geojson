@@ -2,9 +2,14 @@
   "id": 638929669,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Bauer Dr Oakland NJ 07436",
+    "addr:housenumber":"178",
+    "addr:postcode":"07436",
+    "addr:street":"Bauer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236265,41.01019,-74.236265,41.01019",
     "geom:latitude":41.01019,
     "geom:longitude":-74.236265,
@@ -29,7 +34,14 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YpLeMfKO7yB4qz9C58gtU_41.010190_-74.236265@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461283504,
     "wof:geomhash":"42d2b0719d385ead7c59bb2614583941",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":638929669
+        }
+    ],
     "wof:id":638929669,
-    "wof:lastmodified":1466691064,
+    "wof:lastmodified":1492024327,
     "wof:name":"5s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

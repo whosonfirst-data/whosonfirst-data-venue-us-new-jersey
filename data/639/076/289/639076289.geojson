@@ -2,9 +2,14 @@
   "id": 639076289,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Herbert Ave Closter NJ 07624",
+    "addr:housenumber":"239",
+    "addr:postcode":"07624",
+    "addr:street":"Herbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959622,40.975001,-73.959622,40.975001",
     "geom:latitude":40.975001,
     "geom:longitude":-73.959622,
@@ -33,7 +38,14 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HI2yS57JFxjdldlHXB22n_40.975001_-73.959622@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461286843,
     "wof:geomhash":"96dfecc08182307d43b33fb9c162b1cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":639076289
+        }
+    ],
     "wof:id":639076289,
-    "wof:lastmodified":1466688492,
+    "wof:lastmodified":1492050730,
     "wof:name":"Buchhart Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

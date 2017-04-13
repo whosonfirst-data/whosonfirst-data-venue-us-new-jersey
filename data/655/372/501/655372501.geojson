@@ -2,9 +2,14 @@
   "id": 655372501,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 W End Dr Newton NJ 07860",
+    "addr:housenumber":"950",
+    "addr:postcode":"07860",
+    "addr:street":"W End Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.827624,41.0521,-74.827624,41.0521",
     "geom:latitude":41.0521,
     "geom:longitude":-74.827624,
@@ -28,7 +33,10 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AEuoIkAje1dq0fjgd1Cjx_41.052100_-74.827624@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303521,
     "wof:geomhash":"5a954dae1f7b6c45095da76d7d5d1c29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655372501
+        }
+    ],
     "wof:id":655372501,
-    "wof:lastmodified":1466674796,
+    "wof:lastmodified":1492082039,
     "wof:name":"Stillwater Water District",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

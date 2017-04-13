@@ -2,9 +2,14 @@
   "id": 638750971,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 10th Ave Belmar NJ 07719",
+    "addr:housenumber":"603",
+    "addr:postcode":"07719",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025596,40.179294,-74.025596,40.179294",
     "geom:latitude":40.179294,
     "geom:longitude":-74.025596,
@@ -29,7 +34,14 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rhZbC6JUuihD47xXjH2lk_40.179294_-74.025596@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461279043,
     "wof:geomhash":"5726ae60554960d33e000f5271233140",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":638750971
+        }
+    ],
     "wof:id":638750971,
-    "wof:lastmodified":1466678236,
+    "wof:lastmodified":1492017017,
     "wof:name":"Cozy Manor Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

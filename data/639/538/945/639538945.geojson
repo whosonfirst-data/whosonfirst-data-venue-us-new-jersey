@@ -2,9 +2,14 @@
   "id": 639538945,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Butternut Rd Vernon NJ 07462",
+    "addr:housenumber":"15",
+    "addr:postcode":"07462",
+    "addr:street":"Butternut Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.548813,41.179351,-74.548813,41.179351",
     "geom:latitude":41.179351,
     "geom:longitude":-74.548813,
@@ -31,7 +36,11 @@
         85688607,
         85633793,
         85846363,
-        102086779
+        102086779,
+        85846973,
+        102191575,
+        404478483,
+        85976265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +56,22 @@
             "neighbourhood_id":85846363,
             "region_id":85688607,
             "venue_id":639538945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478483,
+            "locality_id":85976265,
+            "neighbourhood_id":85846973,
+            "region_id":85688607,
+            "venue_id":639538945
         }
     ],
     "wof:id":639538945,
-    "wof:lastmodified":1466695538,
+    "wof:lastmodified":1492051096,
     "wof:name":"Central Liquors",
-    "wof:parent_id":85846363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

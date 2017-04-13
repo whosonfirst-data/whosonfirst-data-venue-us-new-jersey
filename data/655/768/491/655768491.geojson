@@ -2,9 +2,14 @@
   "id": 655768491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1341 Hamburg Tpke Ste 1 Wayne NJ 07470",
+    "addr:housenumber":"1341",
+    "addr:postcode":"07470",
+    "addr:street":"Hamburg Tpke Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249199,40.9618,-74.249199,40.9618",
     "geom:latitude":40.9618,
     "geom:longitude":-74.249199,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.advancedpersonnelsvcs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_715CG4nuqKJqKcd97SfkGR_40.961800_-74.249199@1303262265"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461320020,
     "wof:geomhash":"28b586184dffe6c741167744338d4416",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655768491
+        }
+    ],
     "wof:id":655768491,
-    "wof:lastmodified":1466686114,
+    "wof:lastmodified":1492058428,
     "wof:name":"Advanced Temporary Services",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

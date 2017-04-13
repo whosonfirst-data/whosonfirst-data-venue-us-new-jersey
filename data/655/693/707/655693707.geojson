@@ -2,9 +2,14 @@
   "id": 655693707,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 State Route 18 East Brunswick NJ 08816",
+    "addr:housenumber":"300",
+    "addr:postcode":"08816",
+    "addr:street":"State Route 18",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.41403,40.474935,-74.41403,40.474935",
     "geom:latitude":40.474935,
     "geom:longitude":-74.41403,
@@ -28,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xFqwcZhmaBaQZ6PUtBAmc_40.474935_-74.414030@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461317023,
     "wof:geomhash":"85c530283828aff25eac9a1c6804724b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527221,
+            "venue_id":655693707
+        }
+    ],
     "wof:id":655693707,
-    "wof:lastmodified":1466684158,
+    "wof:lastmodified":1492049093,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":420527221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639550691,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Spring Hill Rd Skillman NJ 08558",
+    "addr:housenumber":"501",
+    "addr:postcode":"08558",
+    "addr:street":"Spring Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749686,40.427314,-74.749686,40.427314",
     "geom:latitude":40.427314,
     "geom:longitude":-74.749686,
@@ -27,7 +32,10 @@
         "renovation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XOEZDdm7R0u0u352EK4Kh_40.427314_-74.749686@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299783,
     "wof:geomhash":"a6013a98798000855c4e15f2b1f9edff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527609,
+            "venue_id":639550691
+        }
+    ],
     "wof:id":639550691,
-    "wof:lastmodified":1466695950,
+    "wof:lastmodified":1492049839,
     "wof:name":"Loscalzo Renovations LLC",
     "wof:parent_id":420527609,
     "wof:placetype":"venue",

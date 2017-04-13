@@ -2,9 +2,14 @@
   "id": 655685219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1115",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.313202,40.6292,-74.313202,40.6292",
     "geom:latitude":40.6292,
     "geom:longitude":-74.313202,
@@ -29,7 +34,13 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H0UA22TGqYioCihjh5xfM_40.628888_-74.313557@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316647,
     "wof:geomhash":"3db5fa0fe53ad2f976ea36c04b491615",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655685219
+        }
+    ],
     "wof:id":655685219,
-    "wof:lastmodified":1466683822,
+    "wof:lastmodified":1492074597,
     "wof:name":"Joseph's Custom Tailor & Dry Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

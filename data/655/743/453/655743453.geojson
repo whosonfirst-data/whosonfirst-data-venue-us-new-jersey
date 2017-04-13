@@ -2,9 +2,14 @@
   "id": 655743453,
   "type": "Feature",
   "properties": {
+    "addr:full":"759 Farragut Pl West New York NJ 07093",
+    "addr:housenumber":"759",
+    "addr:postcode":"07093",
+    "addr:street":"Farragut Pl West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.000825,40.789384,-74.000825,40.789384",
     "geom:latitude":40.789384,
     "geom:longitude":-74.000825,
@@ -25,14 +30,10 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869077,
-        102191575,
-        404478149,
-        85633793,
-        85975287,
-        102080719,
         85688607,
-        85826425
+        85633793,
+        85826425,
+        102080719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +44,6 @@
     "wof:geomhash":"aa8d76fd4c881386541bbafe0ec2a3b0",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080719,
-            "localadmin_id":404478149,
-            "locality_id":85975287,
-            "neighbourhood_id":85869077,
-            "region_id":85688607,
-            "venue_id":655743453
-        },
-        {
             "country_id":85633793,
             "county_id":102080719,
             "neighbourhood_id":85826425,
@@ -61,9 +52,9 @@
         }
     ],
     "wof:id":655743453,
-    "wof:lastmodified":1466685395,
+    "wof:lastmodified":1492054507,
     "wof:name":"Marinero Grill",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

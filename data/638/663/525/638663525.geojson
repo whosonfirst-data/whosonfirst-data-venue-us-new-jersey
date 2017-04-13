@@ -2,9 +2,14 @@
   "id": 638663525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 Limecrest Rd Lafayette NJ 07848",
+    "addr:housenumber":"1023",
+    "addr:postcode":"07848",
+    "addr:street":"Limecrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.692658,41.046763,-74.692658,41.046763",
     "geom:latitude":41.046763,
     "geom:longitude":-74.692658,
@@ -34,7 +39,8 @@
         85633793,
         85976255,
         102086779,
-        85688607
+        85688607,
+        420527663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,17 @@
             "neighbourhood_id":85865317,
             "region_id":85688607,
             "venue_id":638663525
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527663,
+            "venue_id":638663525
         }
     ],
     "wof:id":638663525,
-    "wof:lastmodified":1466674206,
+    "wof:lastmodified":1492050709,
     "wof:name":"Pyskaty Brothers Trucking Inc",
-    "wof:parent_id":85865317,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638894929,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Hidden Glen Rd Saddle River NJ 07458",
+    "addr:housenumber":"49",
+    "addr:postcode":"07458",
+    "addr:street":"Hidden Glen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.079586,41.06115,-74.079586,41.06115",
     "geom:latitude":41.06115,
     "geom:longitude":-74.079586,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wUetZEp6H2LUQlKnuej6k_41.061150_-74.079586@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282615,
     "wof:geomhash":"81ba771dc54c848508b9e1856f0a9078",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":638894929
+        }
+    ],
     "wof:id":638894929,
-    "wof:lastmodified":1466690070,
+    "wof:lastmodified":1492051907,
     "wof:name":"A M L Consulting Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

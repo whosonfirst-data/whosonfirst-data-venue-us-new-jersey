@@ -2,9 +2,14 @@
   "id": 638750557,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 Armour Rd Mahwah NJ 07430",
+    "addr:housenumber":"85",
+    "addr:postcode":"07430",
+    "addr:street":"Armour Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136949,41.089367,-74.136949,41.089367",
     "geom:latitude":41.089367,
     "geom:longitude":-74.136949,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kqVBRlkG5CPtHoPE0lmLB_41.089367_-74.136949@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461279034,
     "wof:geomhash":"032fe67d7687dc0412ab52f2f5137ba8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638750557
+        }
+    ],
     "wof:id":638750557,
-    "wof:lastmodified":1466678175,
+    "wof:lastmodified":1492062228,
     "wof:name":"Armour Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

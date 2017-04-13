@@ -2,9 +2,14 @@
   "id": 638984327,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Knollwood Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"45",
+    "addr:postcode":"08002",
+    "addr:street":"Knollwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.00652,39.931606,-75.00652,39.931606",
     "geom:latitude":39.931606,
     "geom:longitude":-75.00652,
@@ -28,7 +33,14 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HjChFoeqFeJZEJpRizI2N_39.931606_-75.006520@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461284734,
     "wof:geomhash":"c95e1b2d8660220278e0ff2a8d4dcc57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":638984327
+        }
+    ],
     "wof:id":638984327,
-    "wof:lastmodified":1466692049,
+    "wof:lastmodified":1492053483,
     "wof:name":"Westin Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

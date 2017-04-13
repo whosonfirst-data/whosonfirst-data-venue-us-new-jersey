@@ -2,9 +2,14 @@
   "id": 639471525,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Kathryn St Clark NJ 07066",
+    "addr:housenumber":"4",
+    "addr:postcode":"07066",
+    "addr:street":"Kathryn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.298442,40.619595,-74.298442,40.619595",
     "geom:latitude":40.619595,
     "geom:longitude":-74.298442,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eW0OLQ1FVD8b3i1tYeOSW_40.619595_-74.298442@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461296254,
     "wof:geomhash":"ce27b3cf215e2ea0d0976edef5f3e87a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639471525
+        }
+    ],
     "wof:id":639471525,
-    "wof:lastmodified":1466694230,
+    "wof:lastmodified":1492049670,
     "wof:name":"S & C Contractors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

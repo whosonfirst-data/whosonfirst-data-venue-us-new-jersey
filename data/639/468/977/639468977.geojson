@@ -2,9 +2,14 @@
   "id": 639468977,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Stelle Ave Plainfield NJ 07060",
+    "addr:housenumber":"520",
+    "addr:postcode":"07060",
+    "addr:street":"Stelle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.421375,40.607486,-74.421375,40.607486",
     "geom:latitude":40.607486,
     "geom:longitude":-74.421375,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RTxp4QuXVpjaMZYA8rqt3_40.607486_-74.421375@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296144,
     "wof:geomhash":"f54b2b86d7ce1859dc58b8d2cf82bd05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639468977
+        }
+    ],
     "wof:id":639468977,
-    "wof:lastmodified":1466694211,
+    "wof:lastmodified":1492064886,
     "wof:name":"Collective Trade Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

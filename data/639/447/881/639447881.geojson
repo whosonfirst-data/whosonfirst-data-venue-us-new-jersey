@@ -2,9 +2,14 @@
   "id": 639447881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1011 US Hwy 22 Alt Phillipsburg NJ 08865",
+    "addr:housenumber":"1011",
+    "addr:postcode":"08865",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170706,40.677155,-75.170706,40.677155",
     "geom:latitude":40.677155,
     "geom:longitude":-75.170706,
@@ -27,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i50q2zQCDwPFyItyo5qIS_40.677155_-75.170706@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295333,
     "wof:geomhash":"dd7f025084ffff148b8ee193fc9f61ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639447881
+        }
+    ],
     "wof:id":639447881,
-    "wof:lastmodified":1466693655,
+    "wof:lastmodified":1492053532,
     "wof:name":"Gma Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

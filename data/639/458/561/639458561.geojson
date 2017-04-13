@@ -2,9 +2,14 @@
   "id": 639458561,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Barclay St Paterson NJ 07503",
+    "addr:housenumber":"123",
+    "addr:postcode":"07503",
+    "addr:street":"Barclay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.168291,40.901305,-74.168291,40.901305",
     "geom:latitude":40.901305,
     "geom:longitude":-74.168291,
@@ -24,7 +29,14 @@
     "sg:postcode":"07503",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477819,
+        85633793,
+        85975481,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RLhfXW4T0drbpjogKXVB5_40.901305_-74.168291@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461295746,
     "wof:geomhash":"a6a24e77c8b00ad99ddd246ca466f055",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
+            "region_id":85688607,
+            "venue_id":639458561
+        }
+    ],
     "wof:id":639458561,
-    "wof:lastmodified":1466693808,
+    "wof:lastmodified":1492041627,
     "wof:name":"Mardoris Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

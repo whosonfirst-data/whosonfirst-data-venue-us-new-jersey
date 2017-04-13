@@ -2,9 +2,14 @@
   "id": 655486769,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 E Front St Trenton NJ 08611",
+    "addr:housenumber":"227",
+    "addr:postcode":"08611",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761592,40.219085,-74.761592,40.219085",
     "geom:latitude":40.219085,
     "geom:longitude":-74.761592,
@@ -28,7 +33,14 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AMXCymBNnu092rZj5OtjW_40.219085_-74.761592@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461308277,
     "wof:geomhash":"bc5ec4ccc0433683ba898b09de1dfffb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655486769
+        }
+    ],
     "wof:id":655486769,
-    "wof:lastmodified":1466677849,
+    "wof:lastmodified":1492044999,
     "wof:name":"Trinity Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

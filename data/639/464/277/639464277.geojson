@@ -2,9 +2,14 @@
   "id": 639464277,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Round Top Rd Warren NJ 07059",
+    "addr:housenumber":"61",
+    "addr:postcode":"07059",
+    "addr:street":"Round Top Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.547394,40.635058,-74.547394,40.635058",
     "geom:latitude":40.635058,
     "geom:longitude":-74.547394,
@@ -27,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85835515,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x0KkkcPRQki5atk8bHWC5_40.635058_-74.547394@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461295969,
     "wof:geomhash":"069206b9acb9311c293f289f27567e52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85835515,
+            "region_id":85688607,
+            "venue_id":639464277
+        }
+    ],
     "wof:id":639464277,
-    "wof:lastmodified":1466693829,
+    "wof:lastmodified":1492042457,
     "wof:name":"B & B Tile Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

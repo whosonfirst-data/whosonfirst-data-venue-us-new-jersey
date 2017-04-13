@@ -2,9 +2,14 @@
   "id": 655687723,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Valley St South Orange NJ 07079",
+    "addr:housenumber":"23",
+    "addr:postcode":"07079",
+    "addr:street":"Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259272,40.745089,-74.259272,40.745089",
     "geom:latitude":40.745089,
     "geom:longitude":-74.259272,
@@ -28,7 +33,10 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UjDQPD7pMinSNpNe3hJ3R_40.745089_-74.259272@1299784598"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461316767,
     "wof:geomhash":"e80d45dcb4ee8f76cc61e3c6e4559db4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":655687723
+        }
+    ],
     "wof:id":655687723,
-    "wof:lastmodified":1466684082,
+    "wof:lastmodified":1492057337,
     "wof:name":"Toro Loco",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

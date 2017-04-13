@@ -2,9 +2,14 @@
   "id": 638883929,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Brookwood Rd Stanhope NJ 07874",
+    "addr:housenumber":"39",
+    "addr:postcode":"07874",
+    "addr:street":"Brookwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.707907,40.927356,-74.707907,40.927356",
     "geom:latitude":40.927356,
     "geom:longitude":-74.707907,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478453,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10ax4XIZoopT9yQiWqB0Tz_40.927356_-74.707907@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461282300,
     "wof:geomhash":"54091c2fdb839c1800543e49759d5b67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478453,
+            "region_id":85688607,
+            "venue_id":638883929
+        }
+    ],
     "wof:id":638883929,
-    "wof:lastmodified":1466689944,
+    "wof:lastmodified":1492053421,
     "wof:name":"Viking Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

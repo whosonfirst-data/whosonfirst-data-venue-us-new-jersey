@@ -2,9 +2,14 @@
   "id": 638667209,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Washington Ave Milltown NJ 08850",
+    "addr:housenumber":"27",
+    "addr:postcode":"08850",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.436009,40.45069,-74.436009,40.45069",
     "geom:latitude":40.45069,
     "geom:longitude":-74.436009,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818781,
+        85892365,
         102191575,
         404478285,
         85633793,
         85975741,
         102087417,
-        85688607
+        85688607,
+        85818781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102087417,
             "localadmin_id":404478285,
             "locality_id":85975741,
+            "neighbourhood_id":85892365,
+            "region_id":85688607,
+            "venue_id":638667209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478285,
+            "locality_id":85975741,
             "neighbourhood_id":85818781,
             "region_id":85688607,
             "venue_id":638667209
         }
     ],
     "wof:id":638667209,
-    "wof:lastmodified":1466674294,
+    "wof:lastmodified":1492056270,
     "wof:name":"US Post Office",
-    "wof:parent_id":85818781,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

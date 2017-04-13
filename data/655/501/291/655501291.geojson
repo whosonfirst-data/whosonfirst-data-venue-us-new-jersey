@@ -2,9 +2,14 @@
   "id": 655501291,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Cottage St Jersey City NJ 07306",
+    "addr:housenumber":"127",
+    "addr:postcode":"07306",
+    "addr:street":"Cottage St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.063116,40.734586,-74.063116,40.734586",
     "geom:latitude":40.734586,
     "geom:longitude":-74.063116,
@@ -34,7 +39,9 @@
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        420527035,
+        85868457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,32 @@
             "neighbourhood_id":85878425,
             "region_id":85688607,
             "venue_id":655501291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":420527035,
+            "region_id":85688607,
+            "venue_id":655501291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85868457,
+            "region_id":85688607,
+            "venue_id":655501291
         }
     ],
     "wof:id":655501291,
-    "wof:lastmodified":1466678156,
+    "wof:lastmodified":1492057029,
     "wof:name":"Gandhi Sq Parking Plaza I",
-    "wof:parent_id":85878425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

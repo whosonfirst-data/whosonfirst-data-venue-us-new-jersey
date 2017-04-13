@@ -2,9 +2,14 @@
   "id": 639003651,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 E Highland Ave Atlantic Hghlnds NJ 07716",
+    "addr:housenumber":"40",
+    "addr:postcode":"07716",
+    "addr:street":"E Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.033403,40.411187,-74.033403,40.411187",
     "geom:latitude":40.411187,
     "geom:longitude":-74.033403,
@@ -27,7 +32,15 @@
         "commodity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        85633793,
+        85975375,
+        102085049,
+        85825733,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zub6dPwmDn51Zo6LLlOPm_40.411187_-74.033403@1294171694"
@@ -35,11 +48,26 @@
     "wof:country":"US",
     "wof:created":1461285187,
     "wof:geomhash":"45dd267ed9cbac4816bb763db3d6d019",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85975375,
+            "neighbourhood_id":85825733,
+            "region_id":85688607,
+            "venue_id":639003651
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639003651
+        }
+    ],
     "wof:id":639003651,
-    "wof:lastmodified":1466673124,
+    "wof:lastmodified":1492051863,
     "wof:name":"Republic Metals Corp",
-    "wof:parent_id":420527273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

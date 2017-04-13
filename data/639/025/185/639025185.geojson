@@ -2,9 +2,14 @@
   "id": 639025185,
   "type": "Feature",
   "properties": {
+    "addr:full":"282 Lemon Rd Farmingdale NJ 07727",
+    "addr:housenumber":"282",
+    "addr:postcode":"07727",
+    "addr:street":"Lemon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232404,40.199034,-74.232404,40.199034",
     "geom:latitude":40.199034,
     "geom:longitude":-74.232404,
@@ -27,7 +32,10 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qs3FVYJmsLQ3TrlvtPjiF_40.199034_-74.232404@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461285665,
     "wof:geomhash":"440a19c948dceae7f4fc0c5c21d4e76d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527253,
+            "venue_id":639025185
+        }
+    ],
     "wof:id":639025185,
-    "wof:lastmodified":1466673613,
+    "wof:lastmodified":1492069370,
     "wof:name":"Weld Tech Fabricators",
     "wof:parent_id":420527253,
     "wof:placetype":"venue",

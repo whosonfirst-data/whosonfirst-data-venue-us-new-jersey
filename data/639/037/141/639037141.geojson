@@ -2,9 +2,14 @@
   "id": 639037141,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 Newport Ave Lakewood NJ 08701",
+    "addr:housenumber":"213",
+    "addr:postcode":"08701",
+    "addr:street":"Newport Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250953,40.07463,-74.250953,40.07463",
     "geom:latitude":40.07463,
     "geom:longitude":-74.250953,
@@ -28,7 +33,13 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477773,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57HSdAvI07il07qnAQIi46_40.074630_-74.250953@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461285956,
     "wof:geomhash":"45c2935651547bbe93a38f42dd00e142",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477773,
+            "region_id":85688607,
+            "venue_id":639037141
+        }
+    ],
     "wof:id":639037141,
-    "wof:lastmodified":1466673868,
+    "wof:lastmodified":1492053455,
     "wof:name":"Special Olympics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

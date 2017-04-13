@@ -2,9 +2,14 @@
   "id": 639290571,
   "type": "Feature",
   "properties": {
+    "addr:full":"777 Port Reading Ave Port Reading NJ 07064",
+    "addr:housenumber":"777",
+    "addr:postcode":"07064",
+    "addr:street":"Port Reading Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236488,40.570322,-74.236488,40.570322",
     "geom:latitude":40.570322,
     "geom:longitude":-74.236488,
@@ -24,7 +29,14 @@
     "sg:postcode":"07064",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478217,
+        85633793,
+        85976313,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SkODzaGrv5284SMRgIXIf_40.570322_-74.236488@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461291779,
     "wof:geomhash":"8713867ce36192dd6f9d6161cd0f15f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976313,
+            "region_id":85688607,
+            "venue_id":639290571
+        }
+    ],
     "wof:id":639290571,
-    "wof:lastmodified":1466691184,
+    "wof:lastmodified":1492030522,
     "wof:name":"Academy Florist Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

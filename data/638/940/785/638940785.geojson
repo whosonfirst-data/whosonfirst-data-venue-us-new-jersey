@@ -2,9 +2,14 @@
   "id": 638940785,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Knowlton Rd Columbia NJ 07832",
+    "addr:housenumber":"20",
+    "addr:postcode":"07832",
+    "addr:street":"Knowlton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027313,40.930802,-75.027313,40.930802",
     "geom:latitude":40.930802,
     "geom:longitude":-75.027313,
@@ -28,7 +33,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0doKF23JJvbuLzXyVkHVzL_40.930802_-75.027313@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283822,
     "wof:geomhash":"15a53b924bcbb733c70b7b32d1d7aa88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":638940785
+        }
+    ],
     "wof:id":638940785,
-    "wof:lastmodified":1466691109,
+    "wof:lastmodified":1492052132,
     "wof:name":"Edward Range LLC",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

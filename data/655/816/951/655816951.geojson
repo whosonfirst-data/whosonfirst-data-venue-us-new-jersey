@@ -2,9 +2,14 @@
   "id": 655816951,
   "type": "Feature",
   "properties": {
+    "addr:full":"4004 Route 130 Delran NJ 08075",
+    "addr:housenumber":"4004",
+    "addr:postcode":"08075",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.961683,40.012178,-74.961683,40.012178",
     "geom:latitude":40.012178,
     "geom:longitude":-74.961683,
@@ -53,7 +58,10 @@
     ],
     "sg:website":"http://www.petsmart.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y6Wqf9acdQSqhsTqIGEEQ_40.012178_-74.961683@1303262277"
@@ -61,9 +69,15 @@
     "wof:country":"US",
     "wof:created":1461322144,
     "wof:geomhash":"07f3985151efc03f8e2f4d326662ff2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":655816951
+        }
+    ],
     "wof:id":655816951,
-    "wof:lastmodified":1466687530,
+    "wof:lastmodified":1492065394,
     "wof:name":"PetSmart",
     "wof:parent_id":420526595,
     "wof:placetype":"venue",

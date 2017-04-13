@@ -2,9 +2,14 @@
   "id": 655452325,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 Christie Ave Mahwah NJ 07430",
+    "addr:housenumber":"126",
+    "addr:postcode":"07430",
+    "addr:street":"Christie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147723,41.102489,-74.147723,41.102489",
     "geom:latitude":41.102489,
     "geom:longitude":-74.147723,
@@ -27,7 +32,13 @@
         "textile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E9UcoVAUKoLHizwppJP8a_41.102489_-74.147723@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461306794,
     "wof:geomhash":"0c3276e1983299dd03ff01599ace435b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655452325
+        }
+    ],
     "wof:id":655452325,
-    "wof:lastmodified":1466676857,
+    "wof:lastmodified":1492083230,
     "wof:name":"Theo Tiedemann & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

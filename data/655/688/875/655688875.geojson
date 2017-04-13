@@ -2,9 +2,14 @@
   "id": 655688875,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Smith Ln Wayne NJ 07470",
+    "addr:housenumber":"7",
+    "addr:postcode":"07470",
+    "addr:street":"Smith Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257497,40.958427,-74.257497,40.958427",
     "geom:latitude":40.958427,
     "geom:longitude":-74.257497,
@@ -30,7 +35,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qC0DegL7CG7ROb8rF2Uvt_40.958427_-74.257497@1299784598"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461316808,
     "wof:geomhash":"fde55a016ce621b1a67e286b63929ef6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655688875
+        }
+    ],
     "wof:id":655688875,
-    "wof:lastmodified":1466684126,
+    "wof:lastmodified":1492027643,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

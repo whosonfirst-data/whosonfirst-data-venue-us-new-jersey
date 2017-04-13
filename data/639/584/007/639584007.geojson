@@ -2,9 +2,14 @@
   "id": 639584007,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Glenside Ave Scotch Plains NJ 07076",
+    "addr:housenumber":"67",
+    "addr:postcode":"07076",
+    "addr:street":"Glenside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.387659,40.673458,-74.387659,40.673458",
     "geom:latitude":40.673458,
     "geom:longitude":-74.387659,
@@ -24,7 +29,15 @@
     "sg:postcode":"07076",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85836079,
+        102191575,
+        404478507,
+        85633793,
+        85975825,
+        102085995,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y1Yxp2VzVzy9ulayduWZD_40.673458_-74.387659@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461301076,
     "wof:geomhash":"869714aa9973331c5dc9e63d29938cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478507,
+            "locality_id":85975825,
+            "neighbourhood_id":85836079,
+            "region_id":85688607,
+            "venue_id":639584007
+        }
+    ],
     "wof:id":639584007,
-    "wof:lastmodified":1466696612,
+    "wof:lastmodified":1492023412,
     "wof:name":"M Doyle Communications",
-    "wof:parent_id":420527697,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655819409,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Elm Ave Chesilhurst NJ 08089",
+    "addr:housenumber":"132",
+    "addr:postcode":"08089",
+    "addr:street":"Elm Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.874219,39.726132,-74.874219,39.726132",
     "geom:latitude":39.726132,
     "geom:longitude":-74.874219,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477393,
+        85633793,
+        85975671,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JPf8cBoXfwSVa4t1GZ2K3_39.726132_-74.874219@1303262278"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461322240,
     "wof:geomhash":"1b131241ab03bb74bb2db47bff14da27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477393,
+            "locality_id":85975671,
+            "region_id":85688607,
+            "venue_id":655819409
+        }
+    ],
     "wof:id":655819409,
-    "wof:lastmodified":1466687399,
+    "wof:lastmodified":1492070094,
     "wof:name":"Mount Zion Ame Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

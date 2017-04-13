@@ -2,9 +2,14 @@
   "id": 639261453,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Shira Ln Englishtown NJ 07726",
+    "addr:housenumber":"18",
+    "addr:postcode":"07726",
+    "addr:street":"Shira Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.350412,40.21752,-74.350412,40.21752",
     "geom:latitude":40.21752,
     "geom:longitude":-74.350412,
@@ -28,7 +33,10 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kBSRbl7rvFTK3W9mN666f_40.217520_-74.350412@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461291088,
     "wof:geomhash":"6c1238c7f8d9afaaa2d73f44251cf827",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527319,
+            "venue_id":639261453
+        }
+    ],
     "wof:id":639261453,
-    "wof:lastmodified":1466690706,
+    "wof:lastmodified":1492051968,
     "wof:name":"Coastal Promotions Inc",
     "wof:parent_id":420527319,
     "wof:placetype":"venue",

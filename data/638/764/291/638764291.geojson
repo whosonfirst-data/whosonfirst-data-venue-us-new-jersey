@@ -2,9 +2,14 @@
   "id": 638764291,
   "type": "Feature",
   "properties": {
+    "addr:full":"254 Brick Blvd Brick NJ 08723",
+    "addr:housenumber":"254",
+    "addr:postcode":"08723",
+    "addr:street":"Brick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142799,40.038555,-74.142799,40.038555",
     "geom:latitude":40.038555,
     "geom:longitude":-74.142799,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ivjhaY6EakEzAdpA5VCGe_40.038555_-74.142799@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461279406,
     "wof:geomhash":"3e2c3e8b8ab79b584fd89e4984898fd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":638764291
+        }
+    ],
     "wof:id":638764291,
-    "wof:lastmodified":1466680036,
+    "wof:lastmodified":1492053276,
     "wof:name":"Taxfirm",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

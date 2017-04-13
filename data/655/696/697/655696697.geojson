@@ -2,9 +2,14 @@
   "id": 655696697,
   "type": "Feature",
   "properties": {
+    "addr:full":"988 Easton Ave Somerset NJ 08873",
+    "addr:housenumber":"988",
+    "addr:postcode":"08873",
+    "addr:street":"Easton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.487246,40.514067,-74.487246,40.514067",
     "geom:latitude":40.514067,
     "geom:longitude":-74.487246,
@@ -30,7 +35,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g9CF3tq5cCm82Uy3ml5ar_40.513908_-74.487184@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461317168,
     "wof:geomhash":"d01c0ca5865a8de713e42b787fa70fdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":655696697
+        }
+    ],
     "wof:id":655696697,
-    "wof:lastmodified":1466684329,
+    "wof:lastmodified":1492049246,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655611883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1344 Woodlane Rd Mount Holly NJ 08060",
+    "addr:housenumber":"1344",
+    "addr:postcode":"08060",
+    "addr:street":"Woodlane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751589,40.001975,-74.751589,40.001975",
     "geom:latitude":40.001975,
     "geom:longitude":-74.751589,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85849139,
-        102087415
+        85853109,
+        102087415,
+        85849139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087415,
+            "neighbourhood_id":85853109,
+            "region_id":85688607,
+            "venue_id":655611883
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
             "neighbourhood_id":85849139,
             "region_id":85688607,
             "venue_id":655611883
         }
     ],
     "wof:id":655611883,
-    "wof:lastmodified":1466681615,
+    "wof:lastmodified":1492023716,
     "wof:name":"Jims Custom Drywall",
-    "wof:parent_id":85849139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

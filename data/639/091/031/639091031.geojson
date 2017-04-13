@@ -2,9 +2,14 @@
   "id": 639091031,
   "type": "Feature",
   "properties": {
+    "addr:full":"853 State Rte 33 Monroe Twp NJ 08831",
+    "addr:housenumber":"853",
+    "addr:postcode":"08831",
+    "addr:street":"State Rte 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.445979,40.263198,-74.445979,40.263198",
     "geom:latitude":40.263198,
     "geom:longitude":-74.445979,
@@ -28,7 +33,13 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478287,
+        85633793,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U6cfuZbu5SKZAKW8w2uJI_40.263198_-74.445979@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461287162,
     "wof:geomhash":"698818772ae6f5fb2fbe22f98f2d6960",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478287,
+            "region_id":85688607,
+            "venue_id":639091031
+        }
+    ],
     "wof:id":639091031,
-    "wof:lastmodified":1466673108,
+    "wof:lastmodified":1492049297,
     "wof:name":"Central Masonry & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

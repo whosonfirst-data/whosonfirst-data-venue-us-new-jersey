@@ -2,9 +2,14 @@
   "id": 638802925,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Mercer St Hightstown NJ 08520",
+    "addr:housenumber":"315",
+    "addr:postcode":"08520",
+    "addr:street":"Mercer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.528818,40.266607,-74.528818,40.266607",
     "geom:latitude":40.266607,
     "geom:longitude":-74.528818,
@@ -24,7 +29,14 @@
     "sg:postcode":"08520",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Uvqch2IPOjAGuzw0Kc8ij_40.266607_-74.528818@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461280293,
     "wof:geomhash":"2390524ebfd78a022c10d339b0926597",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":638802925
+        }
+    ],
     "wof:id":638802925,
-    "wof:lastmodified":1466685956,
+    "wof:lastmodified":1492056749,
     "wof:name":"Convenience Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

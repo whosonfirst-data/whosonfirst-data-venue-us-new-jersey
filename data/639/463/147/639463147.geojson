@@ -2,9 +2,14 @@
   "id": 639463147,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mc Queen Blvd Farmingdale NJ 07727",
+    "addr:housenumber":"15",
+    "addr:postcode":"07727",
+    "addr:street":"Mc Queen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214008,40.200289,-74.214008,40.200289",
     "geom:latitude":40.200289,
     "geom:longitude":-74.214008,
@@ -24,7 +29,12 @@
     "sg:postcode":"07727",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85803415,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BAAdAy4hLs5rzHNaQyyWs_40.200289_-74.214008@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461295929,
     "wof:geomhash":"49d4adb0f67ed15813f43b7475d08967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85803415,
+            "region_id":85688607,
+            "venue_id":639463147
+        }
+    ],
     "wof:id":639463147,
-    "wof:lastmodified":1466693835,
+    "wof:lastmodified":1492052319,
     "wof:name":"Tower Enterprises",
-    "wof:parent_id":420527253,
+    "wof:parent_id":85803415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655703693,
   "type": "Feature",
   "properties": {
+    "addr:full":"442 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"442",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991402,40.820599,-73.991402,40.820599",
     "geom:latitude":40.820599,
     "geom:longitude":-73.991402,
@@ -27,7 +32,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OTs8rPLCC0Xhtpod2vR2v_40.820599_-73.991402@1303262249"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317525,
     "wof:geomhash":"f53e420a986ee1ca2bcbc19b81f85515",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655703693
+        }
+    ],
     "wof:id":655703693,
-    "wof:lastmodified":1466684415,
+    "wof:lastmodified":1492052007,
     "wof:name":"Ceci Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

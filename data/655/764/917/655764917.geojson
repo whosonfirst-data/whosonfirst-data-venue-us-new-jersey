@@ -2,9 +2,14 @@
   "id": 655764917,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 State Rt 23 Ste 2 Pompton Plains NJ 07444",
+    "addr:housenumber":"500",
+    "addr:postcode":"07444",
+    "addr:street":"State Rt 23 Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.284977,40.966982,-74.284977,40.966982",
     "geom:latitude":40.966982,
     "geom:longitude":-74.284977,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.footsolutions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZwqK4495PozFFCVQ9xqnm_40.966982_-74.284977@1303262264"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461319850,
     "wof:geomhash":"9633d3c590eaaa4a6b9c77991b377072",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764917
+        }
+    ],
     "wof:id":655764917,
-    "wof:lastmodified":1466686059,
+    "wof:lastmodified":1492058420,
     "wof:name":"Foot Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639058237,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Godwin Ave Midland Park NJ 07432",
+    "addr:housenumber":"44",
+    "addr:postcode":"07432",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.135783,40.983551,-74.135783,40.983551",
     "geom:latitude":40.983551,
     "geom:longitude":-74.135783,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hDqzzgXb3kX8MHXTMLYxc_40.983551_-74.135783@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461286446,
     "wof:geomhash":"414a16322d5574c0b9d6107ff93ba9fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":639058237
+        }
+    ],
     "wof:id":639058237,
-    "wof:lastmodified":1466678380,
+    "wof:lastmodified":1492054519,
     "wof:name":"Adam Kelman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

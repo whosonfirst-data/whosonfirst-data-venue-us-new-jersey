@@ -2,9 +2,14 @@
   "id": 639422193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1159 Erhardt St Union NJ 07083",
+    "addr:housenumber":"1159",
+    "addr:postcode":"07083",
+    "addr:street":"Erhardt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250067,40.694568,-74.250067,40.694568",
     "geom:latitude":40.694568,
     "geom:longitude":-74.250067,
@@ -27,7 +32,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z3DD2Y2EEsz9lrO1br6Le_40.694568_-74.250067@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294757,
     "wof:geomhash":"76dae7c63e1e638f9d1ba3e8fbea4c0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":639422193
+        }
+    ],
     "wof:id":639422193,
-    "wof:lastmodified":1466693224,
+    "wof:lastmodified":1492017054,
     "wof:name":"Reider Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

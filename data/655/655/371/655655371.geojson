@@ -2,9 +2,14 @@
   "id": 655655371,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Florence Dr Clark NJ 07066",
+    "addr:housenumber":"27",
+    "addr:postcode":"07066",
+    "addr:street":"Florence Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301271,40.631066,-74.301271,40.631066",
     "geom:latitude":40.631066,
     "geom:longitude":-74.301271,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sU25xCTJgWmJA2hQalVT6_40.631066_-74.301271@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461315402,
     "wof:geomhash":"7269c95b397915999564437b28e40dca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655655371
+        }
+    ],
     "wof:id":655655371,
-    "wof:lastmodified":1466682966,
+    "wof:lastmodified":1492067789,
     "wof:name":"Renaissance Strategies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

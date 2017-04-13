@@ -2,9 +2,14 @@
   "id": 639143225,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Old Mill Rd Spring Lake NJ 07762",
+    "addr:housenumber":"319",
+    "addr:postcode":"07762",
+    "addr:street":"Old Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051181,40.150247,-74.051181,40.150247",
     "geom:latitude":40.150247,
     "geom:longitude":-74.051181,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85839881,
+        102191575,
+        404478395,
         85633793,
-        85806415,
-        102085049
+        85975395,
+        102085049,
+        85688607,
+        85806415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +52,16 @@
     "wof:geomhash":"9552b346110c22b6dfe1550c9a10cf80",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478395,
+            "locality_id":85975395,
+            "neighbourhood_id":85839881,
+            "region_id":85688607,
+            "venue_id":639143225
+        },
+        {
             "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85806415,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":639143225,
-    "wof:lastmodified":1466680274,
+    "wof:lastmodified":1492051536,
     "wof:name":"Talking Savings",
-    "wof:parent_id":85806415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

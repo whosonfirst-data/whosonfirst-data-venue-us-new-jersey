@@ -2,9 +2,14 @@
   "id": 655764695,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 State Rt 23 Pompton Plains NJ 07444",
+    "addr:housenumber":"500",
+    "addr:postcode":"07444",
+    "addr:street":"State Rt 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.285103,40.966999,-74.285103,40.966999",
     "geom:latitude":40.966999,
     "geom:longitude":-74.285103,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pITPKACWDbFyuZjek2XkJ_40.966999_-74.285103@1303262264"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319838,
     "wof:geomhash":"d7954968ed61ec87c1dd61c154bec76e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655764695
+        }
+    ],
     "wof:id":655764695,
-    "wof:lastmodified":1466686001,
+    "wof:lastmodified":1492057510,
     "wof:name":"Family Dental Services PA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655674395,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 Charleston Rd Willingboro NJ 08046",
+    "addr:housenumber":"43",
+    "addr:postcode":"08046",
+    "addr:street":"Charleston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901001,40.044899,-74.901001,40.044899",
     "geom:latitude":40.044899,
     "geom:longitude":-74.901001,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pSIeWpf57JlRG6YzKuPj7_40.045161_-74.901217@1293134755"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461316195,
     "wof:geomhash":"72f7e1c933f01bccb766523e69680185",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655674395
+        }
+    ],
     "wof:id":655674395,
-    "wof:lastmodified":1466683568,
+    "wof:lastmodified":1492025873,
     "wof:name":"Boonoonoonous Caribbean Restaurant",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655426659,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Lincoln Dr Columbus NJ 08022",
+    "addr:housenumber":"23",
+    "addr:postcode":"08022",
+    "addr:street":"Lincoln Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.672084,40.08932,-74.672084,40.08932",
     "geom:latitude":40.08932,
     "geom:longitude":-74.672084,
@@ -28,7 +33,10 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xJHeekUVwvSxCLV8ACRIl_40.089320_-74.672084@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305735,
     "wof:geomhash":"0720441e180a7790e33f69e6ef8a9c53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":655426659
+        }
+    ],
     "wof:id":655426659,
-    "wof:lastmodified":1466676206,
+    "wof:lastmodified":1492057065,
     "wof:name":"Whole Pear Holding Co",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

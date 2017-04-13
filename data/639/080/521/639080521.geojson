@@ -2,9 +2,14 @@
   "id": 639080521,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Bartell Pl Clark NJ 07066",
+    "addr:housenumber":"75",
+    "addr:postcode":"07066",
+    "addr:street":"Bartell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303292,40.619788,-74.303292,40.619788",
     "geom:latitude":40.619788,
     "geom:longitude":-74.303292,
@@ -27,7 +32,13 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A6taaD6bQiml0I7j4ODD1_40.619788_-74.303292@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286929,
     "wof:geomhash":"16c9522c8a9a133c63d0a1ab0bb71d58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639080521
+        }
+    ],
     "wof:id":639080521,
-    "wof:lastmodified":1466688623,
+    "wof:lastmodified":1492043847,
     "wof:name":"Mary Diaz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

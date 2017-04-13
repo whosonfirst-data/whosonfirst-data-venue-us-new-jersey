@@ -2,9 +2,14 @@
   "id": 638858585,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Joan Pl Clifton NJ 07012",
+    "addr:housenumber":"12",
+    "addr:postcode":"07012",
+    "addr:street":"Joan Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172497,40.856886,-74.172497,40.856886",
     "geom:latitude":40.856886,
     "geom:longitude":-74.172497,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aDbtCpN73Gf3sPmgYncny_40.856886_-74.172497@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461281725,
     "wof:geomhash":"51d3e692862652b802c8cf58ec39c339",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":638858585
+        }
+    ],
     "wof:id":638858585,
-    "wof:lastmodified":1466689365,
+    "wof:lastmodified":1492023680,
     "wof:name":"Dillon Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655469749,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Hillcrest Dr Bloomingdale NJ 07403",
+    "addr:housenumber":"26",
+    "addr:postcode":"07403",
+    "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.330005,41.014323,-74.330005,41.014323",
     "geom:latitude":41.014323,
     "geom:longitude":-74.330005,
@@ -30,7 +35,14 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WtiEGevOD6dlm2sbr0lJr_41.014323_-74.330005@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461307576,
     "wof:geomhash":"7688ccf77a628cd7f77b344e6d0eb02a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655469749
+        }
+    ],
     "wof:id":655469749,
-    "wof:lastmodified":1466677488,
+    "wof:lastmodified":1492076931,
     "wof:name":"Money Miler Greater Essex Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639203611,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Passaic Ave Passaic NJ 07055",
+    "addr:housenumber":"215",
+    "addr:postcode":"07055",
+    "addr:street":"Passaic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129734,40.855627,-74.129734,40.855627",
     "geom:latitude":40.855627,
     "geom:longitude":-74.129734,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527473,
+        85892459,
         102191575,
         404477817,
         85633793,
         85975483,
         102081133,
-        85688607
+        85688607,
+        420527473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081133,
             "localadmin_id":404477817,
             "locality_id":85975483,
+            "neighbourhood_id":85892459,
+            "region_id":85688607,
+            "venue_id":639203611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477817,
+            "locality_id":85975483,
             "neighbourhood_id":420527473,
             "region_id":85688607,
             "venue_id":639203611
         }
     ],
     "wof:id":639203611,
-    "wof:lastmodified":1466688991,
+    "wof:lastmodified":1492061348,
     "wof:name":"St Marys Balance Management",
-    "wof:parent_id":420527473,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639139207,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 10th Ave Belmar NJ 07719",
+    "addr:housenumber":"712",
+    "addr:postcode":"07719",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.026666,40.179748,-74.026666,40.179748",
     "geom:latitude":40.179748,
     "geom:longitude":-74.026666,
@@ -28,7 +33,14 @@
         "savings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yKMFOPY8ZdU4Hi4WW7bxT_40.179748_-74.026666@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288271,
     "wof:geomhash":"47d2c2f63cbc403ebf27b87eb3491c36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639139207
+        }
+    ],
     "wof:id":639139207,
-    "wof:lastmodified":1466679653,
+    "wof:lastmodified":1492018848,
     "wof:name":"Sovereign Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

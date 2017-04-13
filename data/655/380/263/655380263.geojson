@@ -2,9 +2,14 @@
   "id": 655380263,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Schindler Way Fairfield NJ 07004",
+    "addr:housenumber":"57",
+    "addr:postcode":"07004",
+    "addr:street":"Schindler Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.279854,40.868193,-74.279854,40.868193",
     "geom:latitude":40.868193,
     "geom:longitude":-74.279854,
@@ -27,7 +32,13 @@
         "lamp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478111,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g6HxLsrJU52mwFZ1ruo8Y_40.868193_-74.279854@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303816,
     "wof:geomhash":"22911e5ce63104385267cb72bc2b8b6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478111,
+            "region_id":85688607,
+            "venue_id":655380263
+        }
+    ],
     "wof:id":655380263,
-    "wof:lastmodified":1466674982,
+    "wof:lastmodified":1492068759,
     "wof:name":"Leeson Marketing Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

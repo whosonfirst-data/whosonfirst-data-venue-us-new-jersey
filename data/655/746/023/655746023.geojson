@@ -2,9 +2,14 @@
   "id": 655746023,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Enterprise Ave N Secaucus NJ 07094",
+    "addr:housenumber":"20",
+    "addr:postcode":"07094",
+    "addr:street":"Enterprise Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.067409,40.786856,-74.067409,40.786856",
     "geom:latitude":40.786856,
     "geom:longitude":-74.067409,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.innovationluggage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dBmr63xnbI1WPwEs4s29G_40.786856_-74.067409@1303262260"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461319136,
     "wof:geomhash":"96bf22b72c6a229a36a1e6b8cd171663",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":655746023
+        }
+    ],
     "wof:id":655746023,
-    "wof:lastmodified":1466685458,
+    "wof:lastmodified":1492022312,
     "wof:name":"Innovation Luggage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

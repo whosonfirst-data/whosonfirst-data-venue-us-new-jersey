@@ -2,9 +2,14 @@
   "id": 639549885,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Long Ave Hillside NJ 07205",
+    "addr:housenumber":"225",
+    "addr:postcode":"07205",
+    "addr:street":"Long Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229487,40.697568,-74.229487,40.697568",
     "geom:latitude":40.697568,
     "geom:longitude":-74.229487,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.vitafac.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jItIKXOTuTe0g0ohBkpth_40.697568_-74.229487@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461299754,
     "wof:geomhash":"7090d4319c9280c918d907084e7cb7ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639549885
+        }
+    ],
     "wof:id":639549885,
-    "wof:lastmodified":1466695831,
+    "wof:lastmodified":1492049721,
     "wof:name":"Vitamin Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

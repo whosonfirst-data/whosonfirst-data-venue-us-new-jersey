@@ -2,9 +2,14 @@
   "id": 655583433,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Jacksonville Rd Pompton Plains NJ 07444",
+    "addr:housenumber":"32",
+    "addr:postcode":"07444",
+    "addr:street":"Jacksonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.296607,40.952318,-74.296607,40.952318",
     "geom:latitude":40.952318,
     "geom:longitude":-74.296607,
@@ -24,7 +29,10 @@
     "sg:postcode":"07444",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26dcptgGktmZ4eTKY35TZZ_40.952318_-74.296607@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461312314,
     "wof:geomhash":"122f26e8b168d09ee65c0021dfa7518a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655583433
+        }
+    ],
     "wof:id":655583433,
-    "wof:lastmodified":1466680417,
+    "wof:lastmodified":1492048665,
     "wof:name":"Mobilemech Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

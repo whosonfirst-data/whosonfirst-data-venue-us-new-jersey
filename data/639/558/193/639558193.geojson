@@ -2,9 +2,14 @@
   "id": 639558193,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Shore Rd Lake Hopatcong NJ 07849",
+    "addr:housenumber":"35",
+    "addr:postcode":"07849",
+    "addr:street":"Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.616348,40.98412,-74.616348,40.98412",
     "geom:latitude":40.98412,
     "geom:longitude":-74.616348,
@@ -29,7 +34,10 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YmOqKrcAMRaKLSXzs5FM3_40.984120_-74.616348@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461300067,
     "wof:geomhash":"8ef943cff18f74d1dd07acca81f9caf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":639558193
+        }
+    ],
     "wof:id":639558193,
-    "wof:lastmodified":1466695918,
+    "wof:lastmodified":1492060937,
     "wof:name":"All Kraft Construction Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

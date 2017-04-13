@@ -2,9 +2,14 @@
   "id": 639424723,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 E Garden Way Dayton NJ 08810",
+    "addr:housenumber":"2",
+    "addr:postcode":"08810",
+    "addr:street":"E Garden Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.524321,40.381751,-74.524321,40.381751",
     "geom:latitude":40.381751,
     "geom:longitude":-74.524321,
@@ -29,7 +34,11 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CNmwRvpRhAIU5ZX9IMZBW_40.381751_-74.524321@1294171694"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461294812,
     "wof:geomhash":"087a19b89410fe3d533ff883862fc9e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":639424723
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":639424723
+        }
+    ],
     "wof:id":639424723,
-    "wof:lastmodified":1466693294,
+    "wof:lastmodified":1492042564,
     "wof:name":"Delta Information Inc",
-    "wof:parent_id":420527177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

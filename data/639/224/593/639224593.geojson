@@ -2,9 +2,14 @@
   "id": 639224593,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Shore Rd Andover NJ 07821",
+    "addr:housenumber":"56",
+    "addr:postcode":"07821",
+    "addr:street":"Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.779707,40.951257,-74.779707,40.951257",
     "geom:latitude":40.951257,
     "geom:longitude":-74.779707,
@@ -27,7 +32,10 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_037eq0toQVfMMrKkynHOs7_40.951257_-74.779707@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461290243,
     "wof:geomhash":"2fd0bf4a8510224edbb36879161bf824",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527671,
+            "venue_id":639224593
+        }
+    ],
     "wof:id":639224593,
-    "wof:lastmodified":1466689550,
+    "wof:lastmodified":1492050873,
     "wof:name":"Lake Tranquility Country Club",
     "wof:parent_id":420527671,
     "wof:placetype":"venue",

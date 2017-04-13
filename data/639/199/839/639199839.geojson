@@ -2,9 +2,14 @@
   "id": 639199839,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Lane Dr Flemington NJ 08822",
+    "addr:housenumber":"34",
+    "addr:postcode":"08822",
+    "addr:street":"Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.774448,40.552174,-74.774448,40.552174",
     "geom:latitude":40.552174,
     "geom:longitude":-74.774448,
@@ -30,7 +35,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FsnEY4jokK93tL5g1ScW8_40.552174_-74.774448@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461289629,
     "wof:geomhash":"a785d2b1b7edcb10a10976de1a33346e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639199839
+        }
+    ],
     "wof:id":639199839,
-    "wof:lastmodified":1466688510,
+    "wof:lastmodified":1492044077,
     "wof:name":"J Mc Farland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

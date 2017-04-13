@@ -2,9 +2,14 @@
   "id": 655466381,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Lamberton St Trenton NJ 08611",
+    "addr:housenumber":"400",
+    "addr:postcode":"08611",
+    "addr:street":"Lamberton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.760705,40.209579,-74.760705,40.209579",
     "geom:latitude":40.209579,
     "geom:longitude":-74.760705,
@@ -24,7 +29,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67tPDqZ4mqBRuvyWPvEPNS_40.209579_-74.760705@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461307434,
     "wof:geomhash":"c1037700656e555ab0377b632a7647b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":655466381
+        }
+    ],
     "wof:id":655466381,
-    "wof:lastmodified":1466677216,
+    "wof:lastmodified":1492028667,
     "wof:name":"New Lamberton Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

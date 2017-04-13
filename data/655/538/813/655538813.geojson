@@ -2,9 +2,14 @@
   "id": 655538813,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Rabbit Ct Lakehurst NJ 08759",
+    "addr:housenumber":"17",
+    "addr:postcode":"08759",
+    "addr:street":"Rabbit Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.327209,39.948229,-74.327209,39.948229",
     "geom:latitude":39.948229,
     "geom:longitude":-74.327209,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477781,
+        85633793,
+        85976337,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26OacE2dmbP5DxoBGiXPoT_39.948229_-74.327209@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310379,
     "wof:geomhash":"be72b9bcb53d590c1f00cf33716a7583",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477781,
+            "locality_id":85976337,
+            "region_id":85688607,
+            "venue_id":655538813
+        }
+    ],
     "wof:id":655538813,
-    "wof:lastmodified":1466679362,
+    "wof:lastmodified":1492045223,
     "wof:name":"Village Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

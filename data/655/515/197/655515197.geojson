@@ -2,9 +2,14 @@
   "id": 655515197,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Lake Dr North Brunswick NJ 08902",
+    "addr:housenumber":"38",
+    "addr:postcode":"08902",
+    "addr:street":"Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.477196,40.432032,-74.477196,40.432032",
     "geom:latitude":40.432032,
     "geom:longitude":-74.477196,
@@ -27,7 +32,10 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NlYOqFAI3pNGwcli2FX2h_40.432032_-74.477196@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309494,
     "wof:geomhash":"312c54381e7d8bdfce0ee1449b30b084",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527209,
+            "venue_id":655515197
+        }
+    ],
     "wof:id":655515197,
-    "wof:lastmodified":1466678489,
+    "wof:lastmodified":1492052029,
     "wof:name":"Mortgage Options",
     "wof:parent_id":420527209,
     "wof:placetype":"venue",

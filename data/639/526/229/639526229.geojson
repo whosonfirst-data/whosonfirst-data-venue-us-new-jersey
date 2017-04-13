@@ -2,9 +2,14 @@
   "id": 639526229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1280 Yardville Allentown Rd Allentown NJ 08501",
+    "addr:housenumber":"1280",
+    "addr:postcode":"08501",
+    "addr:street":"Yardville Allentown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.612743,40.173522,-74.612743,40.173522",
     "geom:latitude":40.173522,
     "geom:longitude":-74.612743,
@@ -27,7 +32,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B5noxO4a6JQeVQUdaN0XB_40.173522_-74.612743@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298651,
     "wof:geomhash":"ea7c0163977bc5442641a95a05d88cc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":639526229
+        }
+    ],
     "wof:id":639526229,
-    "wof:lastmodified":1466695305,
+    "wof:lastmodified":1492047616,
     "wof:name":"John's Pizza & Sub Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

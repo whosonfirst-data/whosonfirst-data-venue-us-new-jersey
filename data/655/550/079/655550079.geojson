@@ -2,9 +2,14 @@
   "id": 655550079,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Cleveland Ln Princeton NJ 08540",
+    "addr:housenumber":"10",
+    "addr:postcode":"08540",
+    "addr:street":"Cleveland Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66928,40.351889,-74.66928,40.351889",
     "geom:latitude":40.351889,
     "geom:longitude":-74.66928,
@@ -24,7 +29,14 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17w6E5tCK6fw9lJ84Or5YE_40.351889_-74.669280@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461310823,
     "wof:geomhash":"a4c7abe0329f1e147ce7c03c03db7c2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":655550079
+        }
+    ],
     "wof:id":655550079,
-    "wof:lastmodified":1466679430,
+    "wof:lastmodified":1492049452,
     "wof:name":"Doyle Medical Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

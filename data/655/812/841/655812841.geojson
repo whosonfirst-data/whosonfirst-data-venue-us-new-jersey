@@ -2,9 +2,14 @@
   "id": 655812841,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Somerset Dr Willingboro NJ 08046",
+    "addr:housenumber":"137",
+    "addr:postcode":"08046",
+    "addr:street":"Somerset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.892773,40.045921,-74.892773,40.045921",
     "geom:latitude":40.045921,
     "geom:longitude":-74.892773,
@@ -27,7 +32,10 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SuoCY94xJHDanvhe0LBMb_40.045921_-74.892773@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321931,
     "wof:geomhash":"4cc5ad223cab5e92a208133327802d3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812841
+        }
+    ],
     "wof:id":655812841,
-    "wof:lastmodified":1466687284,
+    "wof:lastmodified":1492053426,
     "wof:name":"Maritime Emergency Response Educators",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

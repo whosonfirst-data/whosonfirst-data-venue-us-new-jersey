@@ -2,9 +2,14 @@
   "id": 639080219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 Round Hill Rd Somerville NJ 08876",
+    "addr:housenumber":"3411",
+    "addr:postcode":"08876",
+    "addr:street":"Round Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.706718,40.612185,-74.706718,40.612185",
     "geom:latitude":40.612185,
     "geom:longitude":-74.706718,
@@ -27,7 +32,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37JwB7vrvELeeEZZh8tM3q_40.612185_-74.706718@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286923,
     "wof:geomhash":"dba4513fc9a84f3e401a1f5d9ce9fcd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":639080219
+        }
+    ],
     "wof:id":639080219,
-    "wof:lastmodified":1466688579,
+    "wof:lastmodified":1492044193,
     "wof:name":"Kurowski Arline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

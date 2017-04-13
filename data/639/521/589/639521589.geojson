@@ -2,9 +2,14 @@
   "id": 639521589,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Ellis Ave Irvington NJ 07111",
+    "addr:housenumber":"62",
+    "addr:postcode":"07111",
+    "addr:street":"Ellis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218233,40.727217,-74.218233,40.727217",
     "geom:latitude":40.727217,
     "geom:longitude":-74.218233,
@@ -27,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SLUdebPw0QMQ773BeaD3i_40.727217_-74.218233@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298378,
     "wof:geomhash":"8e0b223772ca136df8d54f3b3c4ca202",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639521589
+        }
+    ],
     "wof:id":639521589,
-    "wof:lastmodified":1466695277,
+    "wof:lastmodified":1492042760,
     "wof:name":"J & J Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

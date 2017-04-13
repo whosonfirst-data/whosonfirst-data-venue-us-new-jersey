@@ -2,9 +2,14 @@
   "id": 639387229,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Thomas Rd Somerset NJ 08873",
+    "addr:housenumber":"20",
+    "addr:postcode":"08873",
+    "addr:street":"Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.527948,40.544592,-74.527948,40.544592",
     "geom:latitude":40.544592,
     "geom:longitude":-74.527948,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976155,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BeLn4lxS6S7QxOiDi9rh5_40.544592_-74.527948@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293787,
     "wof:geomhash":"b2df9fdf17845f9ac18a49a9049da5a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976155,
+            "region_id":85688607,
+            "venue_id":639387229
+        }
+    ],
     "wof:id":639387229,
-    "wof:lastmodified":1466692902,
+    "wof:lastmodified":1492042418,
     "wof:name":"Snyder & Snyder Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

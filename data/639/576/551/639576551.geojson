@@ -2,9 +2,14 @@
   "id": 639576551,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Park Slope Ter Hawthorne NJ 07506",
+    "addr:housenumber":"30",
+    "addr:postcode":"07506",
+    "addr:street":"Park;Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.164239,40.967677,-74.164239,40.967677",
     "geom:latitude":40.967677,
     "geom:longitude":-74.164239,
@@ -24,7 +29,14 @@
     "sg:postcode":"07506",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_443jq2HkIVKVBxBEFUOIBA_40.967677_-74.164239@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461300763,
     "wof:geomhash":"65e3c66b1bc84cedec2ed6951aa9d476",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":639576551
+        }
+    ],
     "wof:id":639576551,
-    "wof:lastmodified":1466696452,
+    "wof:lastmodified":1492080177,
     "wof:name":"Flower House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

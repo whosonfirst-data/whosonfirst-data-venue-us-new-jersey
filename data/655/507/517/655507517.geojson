@@ -2,9 +2,14 @@
   "id": 655507517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 State Rte 12 Frenchtown NJ 08825",
+    "addr:housenumber":"1060",
+    "addr:postcode":"08825",
+    "addr:street":"State Rte 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.994143,40.518113,-74.994143,40.518113",
     "geom:latitude":40.518113,
     "geom:longitude":-74.994143,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478227,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43neTYRbcxXnoGBicWxyM5_40.518113_-74.994143@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461309185,
     "wof:geomhash":"678da8975fb8f9e7178b034822870b46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478227,
+            "region_id":85688607,
+            "venue_id":655507517
+        }
+    ],
     "wof:id":655507517,
-    "wof:lastmodified":1466678405,
+    "wof:lastmodified":1492053558,
     "wof:name":"Canyon Creek Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

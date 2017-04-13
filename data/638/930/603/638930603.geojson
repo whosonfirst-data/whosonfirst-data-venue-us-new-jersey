@@ -2,9 +2,14 @@
   "id": 638930603,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 New Rd Vincentown NJ 08088",
+    "addr:housenumber":"514",
+    "addr:postcode":"08088",
+    "addr:street":"New Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.736116,39.909387,-74.736116,39.909387",
     "geom:latitude":39.909387,
     "geom:longitude":-74.736116,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KW0p2zj16pHpGk3fEkOpw_39.909387_-74.736116@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461283529,
     "wof:geomhash":"a829b704ed9dc78e4650170d6c8a7635",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":638930603
+        }
+    ],
     "wof:id":638930603,
-    "wof:lastmodified":1466690913,
+    "wof:lastmodified":1492030762,
     "wof:name":"Sadowski Builders",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

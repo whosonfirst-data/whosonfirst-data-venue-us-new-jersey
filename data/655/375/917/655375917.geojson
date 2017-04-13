@@ -2,9 +2,14 @@
   "id": 655375917,
   "type": "Feature",
   "properties": {
+    "addr:full":"273 Grove St Jersey City NJ 07302",
+    "addr:housenumber":"273",
+    "addr:postcode":"07302",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.043756,40.71815,-74.043756,40.71815",
     "geom:latitude":40.71815,
     "geom:longitude":-74.043756,
@@ -34,7 +39,9 @@
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        85878417,
+        85878415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,32 @@
             "neighbourhood_id":85878431,
             "region_id":85688607,
             "venue_id":655375917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878417,
+            "region_id":85688607,
+            "venue_id":655375917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878415,
+            "region_id":85688607,
+            "venue_id":655375917
         }
     ],
     "wof:id":655375917,
-    "wof:lastmodified":1466674922,
+    "wof:lastmodified":1492020235,
     "wof:name":"One Stop Shop",
-    "wof:parent_id":85878431,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

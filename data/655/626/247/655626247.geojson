@@ -2,9 +2,14 @@
   "id": 655626247,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Sweetmans Ln Manalapan NJ 07726",
+    "addr:housenumber":"42",
+    "addr:postcode":"07726",
+    "addr:street":"Sweetmans Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.349554,40.246477,-74.349554,40.246477",
     "geom:latitude":40.246477,
     "geom:longitude":-74.349554,
@@ -28,7 +33,13 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZU6OzLcj3zbvUYl8YAtky_40.246477_-74.349554@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314167,
     "wof:geomhash":"d1a5db8e4ceba7bae94e59c789f0e7e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655626247
+        }
+    ],
     "wof:id":655626247,
-    "wof:lastmodified":1466681869,
+    "wof:lastmodified":1492023455,
     "wof:name":"M & D Video Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

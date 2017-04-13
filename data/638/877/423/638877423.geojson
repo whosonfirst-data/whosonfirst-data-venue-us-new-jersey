@@ -2,9 +2,14 @@
   "id": 638877423,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Milltown Rd North Brunswick NJ 08902",
+    "addr:housenumber":"505",
+    "addr:postcode":"08902",
+    "addr:street":"Milltown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.44796,40.464721,-74.44796,40.464721",
     "geom:latitude":40.464721,
     "geom:longitude":-74.44796,
@@ -32,7 +37,11 @@
         85688607,
         85633793,
         85844057,
-        102087417
+        102087417,
+        85818781,
+        102191575,
+        404478285,
+        85975741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +57,22 @@
             "neighbourhood_id":85844057,
             "region_id":85688607,
             "venue_id":638877423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478285,
+            "locality_id":85975741,
+            "neighbourhood_id":85818781,
+            "region_id":85688607,
+            "venue_id":638877423
         }
     ],
     "wof:id":638877423,
-    "wof:lastmodified":1466689876,
+    "wof:lastmodified":1492048255,
     "wof:name":"Environics",
-    "wof:parent_id":85844057,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655661261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Robert Ave Howell NJ 07731",
+    "addr:housenumber":"2",
+    "addr:postcode":"07731",
+    "addr:street":"Robert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248432,40.145559,-74.248432,40.145559",
     "geom:latitude":40.145559,
     "geom:longitude":-74.248432,
@@ -22,7 +27,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1huycmt5KjFfA1ZsOiiwMH_40.145559_-74.248432@1294171694"
@@ -30,11 +38,17 @@
     "wof:country":"US",
     "wof:created":1461315666,
     "wof:geomhash":"e75d67407eccbf01fb1770655b8e6b92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655661261
+        }
+    ],
     "wof:id":655661261,
-    "wof:lastmodified":1466683133,
+    "wof:lastmodified":1492053244,
     "wof:name":"East Coast Kitchen Instltn Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

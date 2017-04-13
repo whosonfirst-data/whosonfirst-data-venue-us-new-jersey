@@ -2,9 +2,14 @@
   "id": 655376321,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Marshall St Phillipsburg NJ 08865",
+    "addr:housenumber":"350",
+    "addr:postcode":"08865",
+    "addr:street":"Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.184713,40.693767,-75.184713,40.693767",
     "geom:latitude":40.693767,
     "geom:longitude":-75.184713,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29tCTBoP77ykWYAvHBmkzw_40.693767_-75.184713@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303673,
     "wof:geomhash":"e19aed7030e402500e44d310cfd0bfb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":655376321
+        }
+    ],
     "wof:id":655376321,
-    "wof:lastmodified":1466674767,
+    "wof:lastmodified":1492028515,
     "wof:name":"Energy Assistants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

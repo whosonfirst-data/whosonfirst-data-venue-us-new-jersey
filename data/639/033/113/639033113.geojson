@@ -2,9 +2,14 @@
   "id": 639033113,
   "type": "Feature",
   "properties": {
+    "addr:full":"768 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"768",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233049,40.708722,-74.233049,40.708722",
     "geom:latitude":40.708722,
     "geom:longitude":-74.233049,
@@ -27,7 +32,10 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BGOy8zF9pg65PL3onbi2V_40.708722_-74.233049@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461285856,
     "wof:geomhash":"024f97bbd2e0a69ec5ba2cfc86077619",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639033113
+        }
+    ],
     "wof:id":639033113,
-    "wof:lastmodified":1466673811,
+    "wof:lastmodified":1492027823,
     "wof:name":"Irvington Beauty & Barber Sups",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

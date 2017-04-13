@@ -2,9 +2,14 @@
   "id": 655454103,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Stillwater Rd Blairstown NJ 07825",
+    "addr:housenumber":"81",
+    "addr:postcode":"07825",
+    "addr:street":"Stillwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.925524,40.997993,-74.925524,40.997993",
     "geom:latitude":40.997993,
     "geom:longitude":-74.925524,
@@ -29,7 +34,10 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RCLCkVqp86Q2KpuntXl8O_40.997993_-74.925524@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461306871,
     "wof:geomhash":"833cc0fe15649d4c69f988537bd4428b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527769,
+            "venue_id":655454103
+        }
+    ],
     "wof:id":655454103,
-    "wof:lastmodified":1466676800,
+    "wof:lastmodified":1492047629,
     "wof:name":"Motown Property Maintenance",
     "wof:parent_id":420527769,
     "wof:placetype":"venue",

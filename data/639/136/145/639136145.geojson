@@ -2,9 +2,14 @@
   "id": 639136145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2431 Church Rd Cherry Hill NJ 08002",
+    "addr:housenumber":"2431",
+    "addr:postcode":"08002",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.010729,39.940861,-75.010729,39.940861",
     "geom:latitude":39.940861,
     "geom:longitude":-75.010729,
@@ -28,7 +33,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FjB4UjekvMiNx9TH52w9L_39.940861_-75.010729@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461288208,
     "wof:geomhash":"a5703efb50b3dc7899114e83ddb81517",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639136145
+        }
+    ],
     "wof:id":639136145,
-    "wof:lastmodified":1466679206,
+    "wof:lastmodified":1492069445,
     "wof:name":"Center Stage Tickets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

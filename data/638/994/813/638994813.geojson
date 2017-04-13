@@ -2,9 +2,14 @@
   "id": 638994813,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Riverside Ave Lyndhurst NJ 07071",
+    "addr:housenumber":"500",
+    "addr:postcode":"07071",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.13687,40.810752,-74.13687,40.810752",
     "geom:latitude":40.810752,
     "geom:longitude":-74.13687,
@@ -24,7 +29,13 @@
     "sg:postcode":"07071",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477683,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23al8Pfwdy6wcU1MwMqfaq_40.810752_-74.136870@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461285002,
     "wof:geomhash":"01ac7efa88ecd98958418a949013e4e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477683,
+            "region_id":85688607,
+            "venue_id":638994813
+        }
+    ],
     "wof:id":638994813,
-    "wof:lastmodified":1466692554,
+    "wof:lastmodified":1492052018,
     "wof:name":"Home Town Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

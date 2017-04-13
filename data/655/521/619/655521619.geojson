@@ -2,9 +2,14 @@
   "id": 655521619,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Beverly Pl Bergenfield NJ 07621",
+    "addr:housenumber":"59",
+    "addr:postcode":"07621",
+    "addr:street":"Beverly Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.006025,40.934567,-74.006025,40.934567",
     "geom:latitude":40.934567,
     "geom:longitude":-74.006025,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K6cR17vd5DD2pdwbOIims_40.934567_-74.006025@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309737,
     "wof:geomhash":"b4218ba6a1e09a12b59794fd0ffb7de6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":655521619
+        }
+    ],
     "wof:id":655521619,
-    "wof:lastmodified":1466678784,
+    "wof:lastmodified":1492053870,
     "wof:name":"Country Green Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

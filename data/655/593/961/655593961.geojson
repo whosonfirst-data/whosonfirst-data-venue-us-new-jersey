@@ -2,9 +2,14 @@
   "id": 655593961,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Cripplebush Rd Old Tappan NJ 07675",
+    "addr:housenumber":"11",
+    "addr:postcode":"07675",
+    "addr:street":"Cripplebush Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.980207,41.005052,-73.980207,41.005052",
     "geom:latitude":41.005052,
     "geom:longitude":-73.980207,
@@ -24,7 +29,16 @@
     "sg:postcode":"07675",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773,
+        404477705,
+        85975957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ru5siLngNYiJK27f9CXTX_41.005052_-73.980207@1294171694"
@@ -32,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1461312748,
     "wof:geomhash":"bb00ea5b3717499d82d28a493bf33392",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655593961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":655593961
+        }
+    ],
     "wof:id":655593961,
-    "wof:lastmodified":1466680965,
+    "wof:lastmodified":1492048075,
     "wof:name":"Sabbit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

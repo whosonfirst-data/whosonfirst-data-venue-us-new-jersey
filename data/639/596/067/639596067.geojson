@@ -2,9 +2,14 @@
   "id": 639596067,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S Center St Orange NJ 07050",
+    "addr:housenumber":"500",
+    "addr:postcode":"07050",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235213,40.757873,-74.235213,40.757873",
     "geom:latitude":40.757873,
     "geom:longitude":-74.235213,
@@ -27,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526951,
+        85688607,
+        85892457,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yeL7qNvq2Jb4NcPBcANpO_40.757873_-74.235213@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461301585,
     "wof:geomhash":"a74ab9075524692427a15a85f38ab6bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526951,
+            "venue_id":639596067
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "neighbourhood_id":85892457,
+            "region_id":85688607,
+            "venue_id":639596067
+        }
+    ],
     "wof:id":639596067,
-    "wof:lastmodified":1466696723,
+    "wof:lastmodified":1492051159,
     "wof:name":"Wilson Cleaning",
-    "wof:parent_id":420526951,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

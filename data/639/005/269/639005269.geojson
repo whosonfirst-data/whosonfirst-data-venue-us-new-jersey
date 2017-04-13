@@ -2,9 +2,14 @@
   "id": 639005269,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 W State St Trenton NJ 08618",
+    "addr:housenumber":"33",
+    "addr:postcode":"08618",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.768033,40.220506,-74.768033,40.220506",
     "geom:latitude":40.220506,
     "geom:longitude":-74.768033,
@@ -27,7 +32,15 @@
         "fed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85825415,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72UQc84ItZdutUYgp8eSje_40.220506_-74.768033@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461285216,
     "wof:geomhash":"31d9b25edaa4248bebdccf4707cb6fe6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "neighbourhood_id":85825415,
+            "region_id":85688607,
+            "venue_id":639005269
+        }
+    ],
     "wof:id":639005269,
-    "wof:lastmodified":1466673079,
+    "wof:lastmodified":1492046315,
     "wof:name":"Sovereign Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

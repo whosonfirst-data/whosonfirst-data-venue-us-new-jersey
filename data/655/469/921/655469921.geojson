@@ -2,9 +2,14 @@
   "id": 655469921,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 South St Cresskill NJ 07626",
+    "addr:housenumber":"166",
+    "addr:postcode":"07626",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.956557,40.94538,-73.956557,40.94538",
     "geom:latitude":40.94538,
     "geom:longitude":-73.956557,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826677,
+        102191575,
+        404477641,
+        85633793,
+        85975939,
+        102086773,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FLR46yu3GLDFjqlGFGYi6_40.945380_-73.956557@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461307581,
     "wof:geomhash":"dec40bc2d1f167d1d9179869b07dabc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477641,
+            "locality_id":85975939,
+            "neighbourhood_id":85826677,
+            "region_id":85688607,
+            "venue_id":655469921
+        }
+    ],
     "wof:id":655469921,
-    "wof:lastmodified":1466677533,
+    "wof:lastmodified":1492039118,
     "wof:name":"A & F Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

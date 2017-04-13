@@ -2,9 +2,14 @@
   "id": 655691061,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 S Main St Barnegat NJ 08005",
+    "addr:housenumber":"21",
+    "addr:postcode":"08005",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.237445,39.732442,-74.237445,39.732442",
     "geom:latitude":39.732442,
     "geom:longitude":-74.237445,
@@ -30,7 +35,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eUAS9S8X7nf61HVgsYt0J_39.732442_-74.237445@1299784598"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461316904,
     "wof:geomhash":"61d1e0f6627de091e4a5acde60d423d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":655691061
+        }
+    ],
     "wof:id":655691061,
-    "wof:lastmodified":1466683932,
+    "wof:lastmodified":1492050447,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

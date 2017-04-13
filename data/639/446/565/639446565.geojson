@@ -2,9 +2,14 @@
   "id": 639446565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1391 North Ave Elizabeth NJ 07208",
+    "addr:housenumber":"1391",
+    "addr:postcode":"07208",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.214063,40.682337,-74.214063,40.682337",
     "geom:latitude":40.682337,
     "geom:longitude":-74.214063,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SXX4Zs564f1m81tglc18i_40.682337_-74.214063@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461295275,
     "wof:geomhash":"d4806ff713eece961e0e2e3d79207b09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":639446565
+        }
+    ],
     "wof:id":639446565,
-    "wof:lastmodified":1466693503,
+    "wof:lastmodified":1492032745,
     "wof:name":"Jewish Synagogue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

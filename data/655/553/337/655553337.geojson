@@ -2,9 +2,14 @@
   "id": 655553337,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Union Ave Hillside NJ 07205",
+    "addr:housenumber":"600",
+    "addr:postcode":"07205",
+    "addr:street":"N Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244478,40.708194,-74.244478,40.708194",
     "geom:latitude":40.708194,
     "geom:longitude":-74.244478,
@@ -27,7 +32,10 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_158IxaTRCzJwS4dPXpQfdc_40.708194_-74.244478@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310955,
     "wof:geomhash":"d8c4a0ad76a85ad248bb153025deff2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655553337
+        }
+    ],
     "wof:id":655553337,
-    "wof:lastmodified":1466679501,
+    "wof:lastmodified":1492052247,
     "wof:name":"Vanguard Marine Svc",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

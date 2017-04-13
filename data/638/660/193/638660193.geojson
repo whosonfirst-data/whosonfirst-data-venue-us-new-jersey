@@ -2,9 +2,14 @@
   "id": 638660193,
   "type": "Feature",
   "properties": {
+    "addr:full":"287 Princeton Ave Brick NJ 08724",
+    "addr:housenumber":"287",
+    "addr:postcode":"08724",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.106528,40.058209,-74.106528,40.058209",
     "geom:latitude":40.058209,
     "geom:longitude":-74.106528,
@@ -30,7 +35,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FjE4QUYr6hPnG5JqfntN5_40.058209_-74.106528@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461276145,
     "wof:geomhash":"4e9fe264dbeccff321d285b40cccad33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":638660193
+        }
+    ],
     "wof:id":638660193,
-    "wof:lastmodified":1466674086,
+    "wof:lastmodified":1492056568,
     "wof:name":"River Nursery",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

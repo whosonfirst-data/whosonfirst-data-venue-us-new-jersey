@@ -2,9 +2,14 @@
   "id": 655772043,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Union Blvd Totowa NJ 07512",
+    "addr:housenumber":"500",
+    "addr:postcode":"07512",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216499,40.901001,-74.216499,40.901001",
     "geom:latitude":40.901001,
     "geom:longitude":-74.216499,
@@ -29,7 +34,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477875,
+        85633793,
+        85975471,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bCkFrQ9u2mIfuq2CSTGV0_40.901001_-74.216499@1303262266"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461320195,
     "wof:geomhash":"75aa1a5c42e920bb130ddaf234d7bb08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477875,
+            "locality_id":85975471,
+            "region_id":85688607,
+            "venue_id":655772043
+        }
+    ],
     "wof:id":655772043,
-    "wof:lastmodified":1466686045,
+    "wof:lastmodified":1492027548,
     "wof:name":"Heit Peter MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

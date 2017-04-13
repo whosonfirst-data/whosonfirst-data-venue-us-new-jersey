@@ -2,9 +2,14 @@
   "id": 655641367,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 S Plainfield Ave South Plainfield NJ 07080",
+    "addr:housenumber":"499",
+    "addr:postcode":"07080",
+    "addr:street":"S Plainfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.398887,40.585003,-74.398887,40.585003",
     "geom:latitude":40.585003,
     "geom:longitude":-74.398887,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843277,
+        85846861,
         102191575,
         404478213,
         85633793,
         85975729,
         102087417,
-        85688607
+        85688607,
+        85843277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102087417,
             "localadmin_id":404478213,
             "locality_id":85975729,
+            "neighbourhood_id":85846861,
+            "region_id":85688607,
+            "venue_id":655641367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
             "neighbourhood_id":85843277,
             "region_id":85688607,
             "venue_id":655641367
         }
     ],
     "wof:id":655641367,
-    "wof:lastmodified":1466682431,
+    "wof:lastmodified":1492046109,
     "wof:name":"Gene's Auto Wreckers",
-    "wof:parent_id":85843277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

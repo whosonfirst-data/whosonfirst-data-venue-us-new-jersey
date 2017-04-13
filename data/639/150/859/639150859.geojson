@@ -2,9 +2,14 @@
   "id": 639150859,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Parker Ave Maplewood NJ 07040",
+    "addr:housenumber":"205",
+    "addr:postcode":"07040",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.249041,40.731362,-74.249041,40.731362",
     "geom:latitude":40.731362,
     "geom:longitude":-74.249041,
@@ -27,7 +32,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rodx2XBxOelMF1MsZhluP_40.731362_-74.249041@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288539,
     "wof:geomhash":"644898ba360a0d45bbf069ca2cd03bdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":639150859
+        }
+    ],
     "wof:id":639150859,
-    "wof:lastmodified":1466681490,
+    "wof:lastmodified":1492030641,
     "wof:name":"Puff & Stuff Candy Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

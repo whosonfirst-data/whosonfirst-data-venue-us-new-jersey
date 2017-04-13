@@ -2,9 +2,14 @@
   "id": 655508517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Jones Ln Hardwick NJ 07825",
+    "addr:housenumber":"4",
+    "addr:postcode":"07825",
+    "addr:street":"Jones Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.948923,40.9986,-74.948923,40.9986",
     "geom:latitude":40.9986,
     "geom:longitude":-74.948923,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
-        85827269,
-        102083873
+        420527769,
+        85688607,
+        85840931,
+        102083873,
+        85827269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +50,18 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527769,
+            "venue_id":655508517
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083873,
+            "neighbourhood_id":85840931,
+            "region_id":85688607,
+            "venue_id":655508517
+        },
+        {
+            "country_id":85633793,
             "county_id":102083873,
             "neighbourhood_id":85827269,
             "region_id":85688607,
@@ -50,9 +69,9 @@
         }
     ],
     "wof:id":655508517,
-    "wof:lastmodified":1466678484,
+    "wof:lastmodified":1492040962,
     "wof:name":"Blair Creek Arabians",
-    "wof:parent_id":85827269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

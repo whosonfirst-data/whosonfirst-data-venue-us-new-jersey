@@ -2,9 +2,14 @@
   "id": 639248523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1499 Jersey St South Plainfield NJ 07080",
+    "addr:housenumber":"1499",
+    "addr:postcode":"07080",
+    "addr:street":"Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.430604,40.573977,-74.430604,40.573977",
     "geom:latitude":40.573977,
     "geom:longitude":-74.430604,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85846861,
+        102191575,
+        404478213,
         85633793,
-        85836695,
-        102087417
+        85975729,
+        102087417,
+        85688607,
+        85836695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +52,16 @@
     "wof:geomhash":"c5cb4893c498d781f9bda504b4070eb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "neighbourhood_id":85846861,
+            "region_id":85688607,
+            "venue_id":639248523
+        },
+        {
             "country_id":85633793,
             "county_id":102087417,
             "neighbourhood_id":85836695,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":639248523,
-    "wof:lastmodified":1466690419,
+    "wof:lastmodified":1492034446,
     "wof:name":"Vanguard Equipment Rentals Inc",
-    "wof:parent_id":85836695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

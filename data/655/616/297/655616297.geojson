@@ -2,9 +2,14 @@
   "id": 655616297,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Roszel Rd Princeton NJ 08540",
+    "addr:housenumber":"15",
+    "addr:postcode":"08540",
+    "addr:street":"Roszel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.645838,40.318042,-74.645838,40.318042",
     "geom:latitude":40.318042,
     "geom:longitude":-74.645838,
@@ -27,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PezOiao1rP92YzSuRTxsx_40.318042_-74.645838@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461313710,
     "wof:geomhash":"0d65730d4088670c41d89e8e842e1d55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655616297
+        }
+    ],
     "wof:id":655616297,
-    "wof:lastmodified":1466681576,
+    "wof:lastmodified":1492051672,
     "wof:name":"Murphy & Hoffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

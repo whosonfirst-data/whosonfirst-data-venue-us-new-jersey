@@ -2,9 +2,14 @@
   "id": 639106579,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 S Clinton Ave Trenton NJ 08611",
+    "addr:housenumber":"714",
+    "addr:postcode":"08611",
+    "addr:street":"S Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751034,40.209292,-74.751034,40.209292",
     "geom:latitude":40.209292,
     "geom:longitude":-74.751034,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.peqnj.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VVwOv0eHBo1bmFZvCaLAU_40.209292_-74.751034@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461287494,
     "wof:geomhash":"ccd0dd9c06b583710a5035cdcaa7c01e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639106579
+        }
+    ],
     "wof:id":639106579,
-    "wof:lastmodified":1466675194,
+    "wof:lastmodified":1492048467,
     "wof:name":"Partners For Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

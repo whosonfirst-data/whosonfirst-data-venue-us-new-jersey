@@ -2,9 +2,14 @@
   "id": 639487533,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Douglas St Lambertville NJ 08530",
+    "addr:housenumber":"6",
+    "addr:postcode":"08530",
+    "addr:street":"Douglas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.937172,40.362793,-74.937172,40.362793",
     "geom:latitude":40.362793,
     "geom:longitude":-74.937172,
@@ -30,7 +35,14 @@
         "word"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P0BX9wHw0ruKJtTmh7fC8_40.362793_-74.937172@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461296931,
     "wof:geomhash":"3ec7a2086fab027bcfe0affeefb8c08b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":639487533
+        }
+    ],
     "wof:id":639487533,
-    "wof:lastmodified":1466694436,
+    "wof:lastmodified":1492047768,
     "wof:name":"Perfect Word",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

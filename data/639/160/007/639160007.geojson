@@ -2,9 +2,14 @@
   "id": 639160007,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Duane Ln Demarest NJ 07627",
+    "addr:housenumber":"53",
+    "addr:postcode":"07627",
+    "addr:street":"Duane Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.940807,40.953287,-73.940807,40.953287",
     "geom:latitude":40.953287,
     "geom:longitude":-73.940807,
@@ -24,7 +29,14 @@
     "sg:postcode":"07627",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mP6T51eT8ZqqsRp3QXCF6_40.953287_-73.940807@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288752,
     "wof:geomhash":"8162d1e58581d210b5b8ef7dcbff9f85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":639160007
+        }
+    ],
     "wof:id":639160007,
-    "wof:lastmodified":1466683054,
+    "wof:lastmodified":1492061045,
     "wof:name":"St Seraphin Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

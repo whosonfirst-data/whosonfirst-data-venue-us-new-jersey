@@ -2,9 +2,14 @@
   "id": 638839757,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Hardscrabble Hill Rd Flemington NJ 08822",
+    "addr:housenumber":"46",
+    "addr:postcode":"08822",
+    "addr:street":"Hardscrabble Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.893997,40.51453,-74.893997,40.51453",
     "geom:latitude":40.51453,
     "geom:longitude":-74.893997,
@@ -24,7 +29,17 @@
     "sg:postcode":"08822",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85851989,
+        102085997,
+        85819609,
+        102191575,
+        404477453,
+        85975697,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jshEiSghhytBI6P9GfCzV_40.514530_-74.893997@1294171694"
@@ -32,11 +47,34 @@
     "wof:country":"US",
     "wof:created":1461281233,
     "wof:geomhash":"3858c183df0b09ba07cbd2d875cbbffb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85851989,
+            "region_id":85688607,
+            "venue_id":638839757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477453,
+            "locality_id":85975697,
+            "neighbourhood_id":85819609,
+            "region_id":85688607,
+            "venue_id":638839757
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":638839757
+        }
+    ],
     "wof:id":638839757,
-    "wof:lastmodified":1466689292,
+    "wof:lastmodified":1492074603,
     "wof:name":"Tirpok Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

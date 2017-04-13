@@ -2,9 +2,14 @@
   "id": 638872537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Danbury Ln Lake Hopatcong NJ 07849",
+    "addr:housenumber":"3",
+    "addr:postcode":"07849",
+    "addr:street":"Danbury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.605629,40.982864,-74.605629,40.982864",
     "geom:latitude":40.982864,
     "geom:longitude":-74.605629,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lunl55B5ZKf7DM2BTJkdW_40.982864_-74.605629@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461282023,
     "wof:geomhash":"b21c16651c4c59b0a68d03814b75afc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527667,
+            "venue_id":638872537
+        }
+    ],
     "wof:id":638872537,
-    "wof:lastmodified":1466689366,
+    "wof:lastmodified":1492030731,
     "wof:name":"Michael Togna Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

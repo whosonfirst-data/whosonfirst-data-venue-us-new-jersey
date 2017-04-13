@@ -2,9 +2,14 @@
   "id": 639437437,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Burnet St Elizabeth NJ 07202",
+    "addr:housenumber":"122",
+    "addr:postcode":"07202",
+    "addr:street":"Burnet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220686,40.658695,-74.220686,40.658695",
     "geom:latitude":40.658695,
     "geom:longitude":-74.220686,
@@ -29,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868017,
+        85877219,
         102191575,
         404478497,
         85633793,
         85975847,
         102085995,
-        85688607
+        85688607,
+        85868017,
+        404478503,
+        85975837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +59,25 @@
             "county_id":102085995,
             "localadmin_id":404478497,
             "locality_id":85975847,
+            "neighbourhood_id":85877219,
+            "region_id":85688607,
+            "venue_id":639437437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
             "neighbourhood_id":85868017,
             "region_id":85688607,
             "venue_id":639437437
         }
     ],
     "wof:id":639437437,
-    "wof:lastmodified":1466693411,
+    "wof:lastmodified":1492053017,
     "wof:name":"Medina & Sons Trucking",
-    "wof:parent_id":85868017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

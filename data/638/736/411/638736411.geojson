@@ -2,9 +2,14 @@
   "id": 638736411,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 White Rd Jackson NJ 08527",
+    "addr:housenumber":"219",
+    "addr:postcode":"08527",
+    "addr:street":"White Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264143,40.071146,-74.264143,40.071146",
     "geom:latitude":40.071146,
     "geom:longitude":-74.264143,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w34OzEEK3nuWQrm75ZP1g_40.071146_-74.264143@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461278652,
     "wof:geomhash":"58859daaeafdd61b6d4cd4e6add41a63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638736411
+        }
+    ],
     "wof:id":638736411,
-    "wof:lastmodified":1466676354,
+    "wof:lastmodified":1492024127,
     "wof:name":"Jerry Dodyk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

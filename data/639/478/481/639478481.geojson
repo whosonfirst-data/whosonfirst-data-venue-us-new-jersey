@@ -2,9 +2,14 @@
   "id": 639478481,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 Bloomsbury Rd Bloomsbury NJ 08804",
+    "addr:housenumber":"436",
+    "addr:postcode":"08804",
+    "addr:street":"Bloomsbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078723,40.662205,-75.078723,40.662205",
     "geom:latitude":40.662205,
     "geom:longitude":-75.078723,
@@ -32,7 +37,10 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P819hIY88lgSOVZUzwKsk_40.662205_-75.078723@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461296545,
     "wof:geomhash":"dbf3f314ff6f0f7ca754241efa0d20d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":639478481
+        }
+    ],
     "wof:id":639478481,
-    "wof:lastmodified":1466694140,
+    "wof:lastmodified":1492065316,
     "wof:name":"Heritage Farm",
     "wof:parent_id":420527783,
     "wof:placetype":"venue",

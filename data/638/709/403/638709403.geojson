@@ -2,9 +2,14 @@
   "id": 638709403,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Barnet Rd Pine Brook NJ 07058",
+    "addr:housenumber":"4",
+    "addr:postcode":"07058",
+    "addr:street":"Barnet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.361019,40.868667,-74.361019,40.868667",
     "geom:latitude":40.868667,
     "geom:longitude":-74.361019,
@@ -28,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y5riCxiainXmq8l8LDoYR_40.868667_-74.361019@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461277906,
     "wof:geomhash":"6c74bc76f9a33cea45b9cbfcfb40346e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":638709403
+        }
+    ],
     "wof:id":638709403,
-    "wof:lastmodified":1466688865,
+    "wof:lastmodified":1492068550,
     "wof:name":"Julius Machine & Tool Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

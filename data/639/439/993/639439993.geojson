@@ -2,9 +2,14 @@
   "id": 639439993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Eckerson Ct Westwood NJ 07675",
+    "addr:housenumber":"1",
+    "addr:postcode":"07675",
+    "addr:street":"Eckerson Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986096,41.006015,-73.986096,41.006015",
     "geom:latitude":41.006015,
     "geom:longitude":-73.986096,
@@ -30,7 +35,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Et0l8p8iadrorlPewBPb5_41.006015_-73.986096@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461295115,
     "wof:geomhash":"c450d4ff6929327662b9727de8535ae6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639439993
+        }
+    ],
     "wof:id":639439993,
-    "wof:lastmodified":1466693282,
+    "wof:lastmodified":1492048072,
     "wof:name":"Hartland Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

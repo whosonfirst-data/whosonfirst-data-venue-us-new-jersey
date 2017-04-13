@@ -2,9 +2,14 @@
   "id": 655739149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cleveland Pl Springfield NJ 07081",
+    "addr:housenumber":"1",
+    "addr:postcode":"07081",
+    "addr:street":"Cleveland Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329399,40.718399,-74.329399,40.718399",
     "geom:latitude":40.718399,
     "geom:longitude":-74.329399,
@@ -28,7 +33,13 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478519,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51k3jV2R6s1AQEAdzz7cM2_40.718399_-74.329399@1303262258"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461318886,
     "wof:geomhash":"9b07b0a16d90d4b94e4c460a6e86e983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478519,
+            "region_id":85688607,
+            "venue_id":655739149
+        }
+    ],
     "wof:id":655739149,
-    "wof:lastmodified":1466685248,
+    "wof:lastmodified":1492050586,
     "wof:name":"Goldsmith Marc A DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

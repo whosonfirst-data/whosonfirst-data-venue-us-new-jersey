@@ -2,9 +2,14 @@
   "id": 639464723,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Terhune Rd Princeton NJ 08540",
+    "addr:housenumber":"22",
+    "addr:postcode":"08540",
+    "addr:street":"Terhune Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.664008,40.362195,-74.664008,40.362195",
     "geom:latitude":40.362195,
     "geom:longitude":-74.664008,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RX1TlCn2EpLIYnR2cql3j_40.362195_-74.664008@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295989,
     "wof:geomhash":"190af6c4d24fc05539b56c9bb40f7e87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639464723
+        }
+    ],
     "wof:id":639464723,
-    "wof:lastmodified":1466693847,
+    "wof:lastmodified":1492041609,
     "wof:name":"Di Meglio Landscaping Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

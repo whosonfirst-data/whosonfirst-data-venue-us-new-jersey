@@ -2,9 +2,14 @@
   "id": 639466355,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 Burlington Pike Burlington NJ 08016",
+    "addr:housenumber":"2050",
+    "addr:postcode":"08016",
+    "addr:street":"Burlington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.795736,40.101417,-74.795736,40.101417",
     "geom:latitude":40.101417,
     "geom:longitude":-74.795736,
@@ -27,7 +32,10 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hxvIghExP27LSUKHw6j0F_40.101417_-74.795736@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461296049,
     "wof:geomhash":"f13843216c9e1c259f58c8f418e54406",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":639466355
+        }
+    ],
     "wof:id":639466355,
-    "wof:lastmodified":1466693953,
+    "wof:lastmodified":1492047607,
     "wof:name":"Cooks Motors",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

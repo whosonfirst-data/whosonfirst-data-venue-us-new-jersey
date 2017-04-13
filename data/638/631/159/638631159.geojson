@@ -2,9 +2,14 @@
   "id": 638631159,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 S Central Ave Ramsey NJ 07446",
+    "addr:housenumber":"176",
+    "addr:postcode":"07446",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143479,41.051227,-74.143479,41.051227",
     "geom:latitude":41.051227,
     "geom:longitude":-74.143479,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dpKM0mSRDWnfnX9Y4q1Go_41.051227_-74.143479@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461275258,
     "wof:geomhash":"b8cdbae40d59aaf3ee0a5367beaca26a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":638631159
+        }
+    ],
     "wof:id":638631159,
-    "wof:lastmodified":1466673199,
+    "wof:lastmodified":1492043333,
     "wof:name":"Your Dollar Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

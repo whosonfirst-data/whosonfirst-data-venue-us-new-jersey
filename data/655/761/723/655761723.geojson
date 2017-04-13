@@ -2,9 +2,14 @@
   "id": 655761723,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 River Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"375",
+    "addr:postcode":"07407",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131117,40.909011,-74.131117,40.909011",
     "geom:latitude":40.909011,
     "geom:longitude":-74.131117,
@@ -29,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UkbyQ9IFYo8J1MUrLlmPi_40.909011_-74.131117@1303262263"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461319717,
     "wof:geomhash":"749eed619608c8635cddb230d2cb54f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655761723
+        }
+    ],
     "wof:id":655761723,
-    "wof:lastmodified":1466685927,
+    "wof:lastmodified":1492045590,
     "wof:name":"Elmwood Park School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

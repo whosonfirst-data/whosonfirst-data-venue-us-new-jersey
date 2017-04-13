@@ -2,9 +2,14 @@
   "id": 655436171,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Jill Ct Monmouth Junction NJ 08852",
+    "addr:housenumber":"11",
+    "addr:postcode":"08852",
+    "addr:street":"Jill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.53719,40.380303,-74.53719,40.380303",
     "geom:latitude":40.380303,
     "geom:longitude":-74.53719,
@@ -27,7 +32,10 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MfsVk1VHw6OK1h3rylhJ6_40.380303_-74.537190@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461306152,
     "wof:geomhash":"95cf6fe1c545b1dcbc2ee8ebd799a2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655436171
+        }
+    ],
     "wof:id":655436171,
-    "wof:lastmodified":1466676340,
+    "wof:lastmodified":1492028621,
     "wof:name":"O&M Vending",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

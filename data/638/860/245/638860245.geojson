@@ -2,9 +2,14 @@
   "id": 638860245,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Monmouth Rd Cream Ridge NJ 08514",
+    "addr:housenumber":"630",
+    "addr:postcode":"08514",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.453937,40.139214,-74.453937,40.139214",
     "geom:latitude":40.139214,
     "geom:longitude":-74.453937,
@@ -34,7 +39,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mxQ1OyEyO7eFtyrGs77fm_40.139214_-74.453937@1294171694"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461281761,
     "wof:geomhash":"820d1eb7588584e1fe3c61346237da4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638860245
+        }
+    ],
     "wof:id":638860245,
-    "wof:lastmodified":1466689345,
+    "wof:lastmodified":1492056268,
     "wof:name":"Rozansky Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

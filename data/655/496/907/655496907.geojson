@@ -2,9 +2,14 @@
   "id": 655496907,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Broadway Bayonne NJ 07002",
+    "addr:housenumber":"502",
+    "addr:postcode":"07002",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.117579,40.664582,-74.117579,40.664582",
     "geom:latitude":40.664582,
     "geom:longitude":-74.117579,
@@ -31,7 +36,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GSqzECZNmOUq7ckKe7ox1_40.664582_-74.117579@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461308707,
     "wof:geomhash":"d86a2efb30e4ac7d19e7b4f41f0f1d15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":655496907
+        }
+    ],
     "wof:id":655496907,
-    "wof:lastmodified":1466678148,
+    "wof:lastmodified":1492039323,
     "wof:name":"Advanced Photo Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

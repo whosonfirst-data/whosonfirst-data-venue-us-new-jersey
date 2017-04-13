@@ -2,9 +2,14 @@
   "id": 639621185,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Main St S Bound Brook NJ 08880",
+    "addr:housenumber":"16",
+    "addr:postcode":"08880",
+    "addr:street":"Main St S Bound",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.52748,40.557554,-74.52748,40.557554",
     "geom:latitude":40.557554,
     "geom:longitude":-74.52748,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_570xLR7aWMmj1mA1uP1Kh8_40.557554_-74.527480@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302545,
     "wof:geomhash":"74c41077ad6fc09ebc5b80726d77a380",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":639621185
+        }
+    ],
     "wof:id":639621185,
-    "wof:lastmodified":1466697480,
+    "wof:lastmodified":1492057033,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

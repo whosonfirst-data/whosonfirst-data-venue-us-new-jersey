@@ -2,9 +2,14 @@
   "id": 655525303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 Broad St Clifton NJ 07013",
+    "addr:housenumber":"1333",
+    "addr:postcode":"07013",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179585,40.85246,-74.179585,40.85246",
     "geom:latitude":40.85246,
     "geom:longitude":-74.179585,
@@ -28,7 +33,14 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01vbnHlsmu0cA7nek3PYNI_40.852460_-74.179585@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309868,
     "wof:geomhash":"b0e28430708e5e2f30c39c551f2a90fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655525303
+        }
+    ],
     "wof:id":655525303,
-    "wof:lastmodified":1466678782,
+    "wof:lastmodified":1492053661,
     "wof:name":"First Jersey Casualty Insur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639248359,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"719",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.322544,40.618514,-74.322544,40.618514",
     "geom:latitude":40.618514,
     "geom:longitude":-74.322544,
@@ -29,7 +34,13 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33UCUPV2XxssXxeZdLVlpD_40.618514_-74.322544@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461290796,
     "wof:geomhash":"6aa28395e0547b5bf6d0b7564575cc89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639248359
+        }
+    ],
     "wof:id":639248359,
-    "wof:lastmodified":1466690413,
+    "wof:lastmodified":1492030752,
     "wof:name":"Dealersightcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

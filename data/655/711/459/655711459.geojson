@@ -2,9 +2,14 @@
   "id": 655711459,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 River Dr Garfield NJ 07026",
+    "addr:housenumber":"530",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115378,40.876627,-74.115378,40.876627",
     "geom:latitude":40.876627,
     "geom:longitude":-74.115378,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nf6vTtrN9SnVFeHIVnoiB_40.876627_-74.115378@1303262251"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317822,
     "wof:geomhash":"dbef3b44fb3217c4e7d3446dac8eb7ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655711459
+        }
+    ],
     "wof:id":655711459,
-    "wof:lastmodified":1466684555,
+    "wof:lastmodified":1492025478,
     "wof:name":"One Eight Hundred Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

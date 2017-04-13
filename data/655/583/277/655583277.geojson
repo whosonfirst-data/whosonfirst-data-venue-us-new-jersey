@@ -2,9 +2,14 @@
   "id": 655583277,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 Countryside Ln Hackettstown NJ 07840",
+    "addr:housenumber":"97",
+    "addr:postcode":"07840",
+    "addr:street":"Countryside Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.830075,40.864321,-74.830075,40.864321",
     "geom:latitude":40.864321,
     "geom:longitude":-74.830075,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yfq55mKEUHHoSZnuQldpe_40.864321_-74.830075@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312308,
     "wof:geomhash":"563923f3a14ad791715c196cef7d95b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":655583277
+        }
+    ],
     "wof:id":655583277,
-    "wof:lastmodified":1466680363,
+    "wof:lastmodified":1492048351,
     "wof:name":"Country Side Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

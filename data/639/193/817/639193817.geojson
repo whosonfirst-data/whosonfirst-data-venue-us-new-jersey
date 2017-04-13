@@ -2,9 +2,14 @@
   "id": 639193817,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Madison St Pequannock NJ 07440",
+    "addr:housenumber":"55",
+    "addr:postcode":"07440",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282841,40.951827,-74.282841,40.951827",
     "geom:latitude":40.951827,
     "geom:longitude":-74.282841,
@@ -24,7 +29,10 @@
     "sg:postcode":"07440",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uljjbImb4O69ay4Yf65YT_40.951827_-74.282841@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461289491,
     "wof:geomhash":"df018ae1be60db35d326461487e24c46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":639193817
+        }
+    ],
     "wof:id":639193817,
-    "wof:lastmodified":1466687700,
+    "wof:lastmodified":1492039832,
     "wof:name":"HP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

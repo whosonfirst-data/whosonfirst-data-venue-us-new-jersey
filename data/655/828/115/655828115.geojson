@@ -2,9 +2,14 @@
   "id": 655828115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Union Ave Pennsauken NJ 08110",
+    "addr:housenumber":"1301",
+    "addr:postcode":"08110",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044144,39.980061,-75.044144,39.980061",
     "geom:latitude":39.980061,
     "geom:longitude":-75.044144,
@@ -35,7 +40,14 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WDwxiDFvJEQw29euYlYnO_39.980061_-75.044144@1303262280"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461322567,
     "wof:geomhash":"934ce9e62ddac4ac3a5f9d324a5d2bd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828115
+        }
+    ],
     "wof:id":655828115,
-    "wof:lastmodified":1466687578,
+    "wof:lastmodified":1492056541,
     "wof:name":"Dependable Distribution Services Inc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

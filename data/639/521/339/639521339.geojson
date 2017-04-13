@@ -2,9 +2,14 @@
   "id": 639521339,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E State St Trenton NJ 08608",
+    "addr:housenumber":"104",
+    "addr:postcode":"08608",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.761943,40.220398,-74.761943,40.220398",
     "geom:latitude":40.220398,
     "geom:longitude":-74.761943,
@@ -27,7 +32,14 @@
         "uniform"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qa3sSNmfjaOU5y8pqYH6k_40.220398_-74.761943@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298366,
     "wof:geomhash":"872e5a4db48d8e83b1079830f7225831",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639521339
+        }
+    ],
     "wof:id":639521339,
-    "wof:lastmodified":1466695168,
+    "wof:lastmodified":1492048473,
     "wof:name":"Bits N' Pieces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

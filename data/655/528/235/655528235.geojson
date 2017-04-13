@@ -2,9 +2,14 @@
   "id": 655528235,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Lynn St Harrington Park NJ 07640",
+    "addr:housenumber":"7",
+    "addr:postcode":"07640",
+    "addr:street":"Lynn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.979739,40.983228,-73.979739,40.983228",
     "geom:latitude":40.983228,
     "geom:longitude":-73.979739,
@@ -28,7 +33,14 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ldaWGelnx4y3enoCkT21C_40.983228_-73.979739@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309977,
     "wof:geomhash":"eb27209e137287b76c169739de1e3a96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655528235
+        }
+    ],
     "wof:id":655528235,
-    "wof:lastmodified":1466678944,
+    "wof:lastmodified":1492042823,
     "wof:name":"Harrington Park Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

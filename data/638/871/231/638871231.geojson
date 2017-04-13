@@ -2,9 +2,14 @@
   "id": 638871231,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Peregrine Dr Voorhees NJ 08043",
+    "addr:housenumber":"157",
+    "addr:postcode":"08043",
+    "addr:street":"Peregrine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.925475,39.862898,-74.925475,39.862898",
     "geom:latitude":39.862898,
     "geom:longitude":-74.925475,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p1sCq2q9EkqW3OWypyLDW_39.862898_-74.925475@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461281992,
     "wof:geomhash":"7a31db60cc1f524c850aa92c4febd6d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":638871231
+        }
+    ],
     "wof:id":638871231,
-    "wof:lastmodified":1466689601,
+    "wof:lastmodified":1492032739,
     "wof:name":"Andes Landscaping LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655659429,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 River Dr Garfield NJ 07026",
+    "addr:housenumber":"85",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.1054,40.8638,-74.1054,40.8638",
     "geom:latitude":40.8638,
     "geom:longitude":-74.1054,
@@ -36,7 +41,14 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yLH1jLul0E1UAs0vpW5B0_40.863817_-74.104913@1293134755"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461315595,
     "wof:geomhash":"071e82664fb1f797097ad69770d118eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655659429
+        }
+    ],
     "wof:id":655659429,
-    "wof:lastmodified":1466683179,
+    "wof:lastmodified":1492027605,
     "wof:name":"River Drive Bar & Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

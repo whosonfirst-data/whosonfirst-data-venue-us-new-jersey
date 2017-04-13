@@ -2,9 +2,14 @@
   "id": 655452057,
   "type": "Feature",
   "properties": {
+    "addr:full":"2093 Pleasant Pkwy Union NJ 07083",
+    "addr:housenumber":"2093",
+    "addr:postcode":"07083",
+    "addr:street":"Pleasant Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261827,40.713092,-74.261827,40.713092",
     "geom:latitude":40.713092,
     "geom:longitude":-74.261827,
@@ -28,7 +33,10 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sB5mZxfLvFoZhj2CF8TNr_40.713092_-74.261827@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461306780,
     "wof:geomhash":"43efcf59d22c42d66d7009888499983d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":655452057
+        }
+    ],
     "wof:id":655452057,
-    "wof:lastmodified":1466676786,
+    "wof:lastmodified":1492079123,
     "wof:name":"Weddings From Heaven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

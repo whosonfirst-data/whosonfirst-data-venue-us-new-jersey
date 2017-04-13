@@ -2,9 +2,14 @@
   "id": 655400597,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Palisade Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"130",
+    "addr:postcode":"07010",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994121,40.809354,-73.994121,40.809354",
     "geom:latitude":40.809354,
     "geom:longitude":-73.994121,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sfnLmr7sOmz41XZoq90f3_40.809354_-73.994121@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304661,
     "wof:geomhash":"e0e9c9331994207905aab66ed4d05cdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655400597
+        }
+    ],
     "wof:id":655400597,
-    "wof:lastmodified":1466675598,
+    "wof:lastmodified":1492023711,
     "wof:name":"Gem 18",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639201639,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Country Ln Sussex NJ 07461",
+    "addr:housenumber":"10",
+    "addr:postcode":"07461",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.521729,41.268012,-74.521729,41.268012",
     "geom:latitude":41.268012,
     "geom:longitude":-74.521729,
@@ -28,7 +33,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rjJNsjFKBwYN5GnGl9UC4_41.268012_-74.521729@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289670,
     "wof:geomhash":"ef332ce60f6ac15745476e2aa4aa5d41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527651,
+            "venue_id":639201639
+        }
+    ],
     "wof:id":639201639,
-    "wof:lastmodified":1466688752,
+    "wof:lastmodified":1492069677,
     "wof:name":"Abacus Systems Inc",
     "wof:parent_id":420527651,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655682417,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Raritan Rd Clark NJ 07066",
+    "addr:housenumber":"1113",
+    "addr:postcode":"07066",
+    "addr:street":"Raritan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.313904,40.628899,-74.313904,40.628899",
     "geom:latitude":40.628899,
     "geom:longitude":-74.313904,
@@ -29,7 +34,13 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QiIvAcOuqQY2oJrZCXSAv_40.628919_-74.313438@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461316526,
     "wof:geomhash":"41e9206277c818ea1790b48f368a5ab7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655682417
+        }
+    ],
     "wof:id":655682417,
-    "wof:lastmodified":1466683795,
+    "wof:lastmodified":1492045542,
     "wof:name":"French Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

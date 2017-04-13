@@ -2,9 +2,14 @@
   "id": 638924741,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Mott St Trenton NJ 08611",
+    "addr:housenumber":"142",
+    "addr:postcode":"08611",
+    "addr:street":"Mott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749372,40.212155,-74.749372,40.212155",
     "geom:latitude":40.212155,
     "geom:longitude":-74.749372,
@@ -24,7 +29,14 @@
     "sg:postcode":"08611",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_168RHgXzv7WMGlp8KxXHCY_40.212155_-74.749372@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461283386,
     "wof:geomhash":"4a1030a37817aa9b6f124992b06bb232",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":638924741
+        }
+    ],
     "wof:id":638924741,
-    "wof:lastmodified":1466690759,
+    "wof:lastmodified":1492052148,
     "wof:name":"John Bon Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

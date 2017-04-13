@@ -2,9 +2,14 @@
   "id": 655408317,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Beach Ave Manahawkin NJ 08050",
+    "addr:housenumber":"400",
+    "addr:postcode":"08050",
+    "addr:street":"Beach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236662,39.69974,-74.236662,39.69974",
     "geom:latitude":39.69974,
     "geom:longitude":-74.236662,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85804837,
-        102081485
+        102081485,
+        420527411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,17 @@
             "neighbourhood_id":85804837,
             "region_id":85688607,
             "venue_id":655408317
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":655408317
         }
     ],
     "wof:id":655408317,
-    "wof:lastmodified":1466675674,
+    "wof:lastmodified":1492054891,
     "wof:name":"Christian Lighthouse Academy",
-    "wof:parent_id":85804837,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

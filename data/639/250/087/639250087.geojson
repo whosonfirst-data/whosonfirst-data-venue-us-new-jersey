@@ -2,9 +2,14 @@
   "id": 639250087,
   "type": "Feature",
   "properties": {
+    "addr:full":"12000 Long Beach Blvd Beach Haven NJ 08008",
+    "addr:housenumber":"12000",
+    "addr:postcode":"08008",
+    "addr:street":"Long Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.21963,39.591621,-74.21963,39.591621",
     "geom:latitude":39.591621,
     "geom:longitude":-74.21963,
@@ -28,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527377,
         85804993,
         102191575,
         404477779,
-        85633793,
         85976381,
         102081485,
         85688607
@@ -45,6 +51,11 @@
     "wof:geomhash":"cd0dfacc78ffff56ecdcf3e29f959944",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527377,
+            "venue_id":639250087
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -56,9 +67,9 @@
         }
     ],
     "wof:id":639250087,
-    "wof:lastmodified":1466690071,
+    "wof:lastmodified":1492043092,
     "wof:name":"Undertoe Service Center",
-    "wof:parent_id":85804993,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

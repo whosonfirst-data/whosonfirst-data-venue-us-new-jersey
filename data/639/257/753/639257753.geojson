@@ -2,9 +2,14 @@
   "id": 639257753,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 Miller Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"159",
+    "addr:postcode":"07407",
+    "addr:street":"Miller Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120839,40.908757,-74.120839,40.908757",
     "geom:latitude":40.908757,
     "geom:longitude":-74.120839,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yTMQLeIvKct9Iokf8aBXu_40.908757_-74.120839@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461291010,
     "wof:geomhash":"b88ffbed02b9478361c9d1d929dea975",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":639257753
+        }
+    ],
     "wof:id":639257753,
-    "wof:lastmodified":1466690558,
+    "wof:lastmodified":1492070588,
     "wof:name":"Alfresco Environmental LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

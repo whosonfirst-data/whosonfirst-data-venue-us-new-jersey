@@ -2,9 +2,14 @@
   "id": 639479093,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 N Summit St Tenafly NJ 07670",
+    "addr:housenumber":"103",
+    "addr:postcode":"07670",
+    "addr:street":"N Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960148,40.935508,-73.960148,40.935508",
     "geom:latitude":40.935508,
     "geom:longitude":-73.960148,
@@ -30,7 +35,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E0Ewk9KI7dG9UfRCUJNxO_40.935508_-73.960148@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461296567,
     "wof:geomhash":"1515f6928df57361cf5ec9d0883b7a65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":639479093
+        }
+    ],
     "wof:id":639479093,
-    "wof:lastmodified":1466693928,
+    "wof:lastmodified":1492041766,
     "wof:name":"Energy Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

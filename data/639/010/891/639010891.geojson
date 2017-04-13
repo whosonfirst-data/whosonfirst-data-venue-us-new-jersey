@@ -2,9 +2,14 @@
   "id": 639010891,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Iron Horse Rd Oakland NJ 07436",
+    "addr:housenumber":"32",
+    "addr:postcode":"07436",
+    "addr:street":"Iron Horse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260933,41.022976,-74.260933,41.022976",
     "geom:latitude":41.022976,
     "geom:longitude":-74.260933,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.tracermed.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Aoauu6FcCW3Ey5YGyDqMy_41.022976_-74.260933@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461285337,
     "wof:geomhash":"3c3fe15047c7ae240f2b00095fbe48c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":639010891
+        }
+    ],
     "wof:id":639010891,
-    "wof:lastmodified":1466673279,
+    "wof:lastmodified":1492054517,
     "wof:name":"Tracer Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

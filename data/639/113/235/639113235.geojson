@@ -2,9 +2,14 @@
   "id": 639113235,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 Seaspray Ln Neptune NJ 07753",
+    "addr:housenumber":"329",
+    "addr:postcode":"07753",
+    "addr:street":"Seaspray Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.027799,40.185664,-74.027799,40.185664",
     "geom:latitude":40.185664,
     "geom:longitude":-74.027799,
@@ -27,7 +32,13 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478375,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WH1luuwcA8lGqYBKBfKex_40.185664_-74.027799@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461287630,
     "wof:geomhash":"7fccb750df08542c1ed9d57f854c3576",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478375,
+            "region_id":85688607,
+            "venue_id":639113235
+        }
+    ],
     "wof:id":639113235,
-    "wof:lastmodified":1466676123,
+    "wof:lastmodified":1492070276,
     "wof:name":"Shark River Tire & Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655652185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2965 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"2965",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.687473,40.243195,-74.687473,40.243195",
     "geom:latitude":40.243195,
     "geom:longitude":-74.687473,
@@ -34,7 +39,8 @@
         85633793,
         85976399,
         102081129,
-        85688607
+        85688607,
+        420527143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,17 @@
             "neighbourhood_id":420527157,
             "region_id":85688607,
             "venue_id":655652185
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655652185
         }
     ],
     "wof:id":655652185,
-    "wof:lastmodified":1466682805,
+    "wof:lastmodified":1492071792,
     "wof:name":"Data Smith of New Jersey",
-    "wof:parent_id":420527157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

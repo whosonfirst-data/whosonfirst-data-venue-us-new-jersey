@@ -2,9 +2,14 @@
   "id": 638899373,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 Blanche Ave Norwood NJ 07648",
+    "addr:housenumber":"815",
+    "addr:postcode":"07648",
+    "addr:street":"Blanche Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962617,40.989336,-73.962617,40.989336",
     "geom:latitude":40.989336,
     "geom:longitude":-73.962617,
@@ -28,7 +33,14 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gJhcZnNIDI7JQ06Pch80N_40.989336_-73.962617@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461282733,
     "wof:geomhash":"efb0afdaf77baffa0d5aae6f12d0c508",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":638899373
+        }
+    ],
     "wof:id":638899373,
-    "wof:lastmodified":1466690093,
+    "wof:lastmodified":1492052104,
     "wof:name":"Lawler Scientific Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

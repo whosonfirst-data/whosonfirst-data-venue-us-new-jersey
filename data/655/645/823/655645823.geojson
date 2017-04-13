@@ -2,9 +2,14 @@
   "id": 655645823,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Magnolia Ave Tenafly NJ 07670",
+    "addr:housenumber":"103",
+    "addr:postcode":"07670",
+    "addr:street":"Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959876,40.929478,-73.959876,40.929478",
     "geom:latitude":40.929478,
     "geom:longitude":-73.959876,
@@ -24,7 +29,14 @@
     "sg:postcode":"07670",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_281awD7VH4PYBie6WpsBro_40.929478_-73.959876@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461315008,
     "wof:geomhash":"a993608585e8031b155bda7efa106233",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":655645823
+        }
+    ],
     "wof:id":655645823,
-    "wof:lastmodified":1466682773,
+    "wof:lastmodified":1492068718,
     "wof:name":"Cinematograph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

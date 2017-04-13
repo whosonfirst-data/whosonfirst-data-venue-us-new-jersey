@@ -2,9 +2,14 @@
   "id": 655552975,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Seaview Dr Secaucus NJ 07094",
+    "addr:housenumber":"30",
+    "addr:postcode":"07094",
+    "addr:street":"Seaview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.079793,40.767841,-74.079793,40.767841",
     "geom:latitude":40.767841,
     "geom:longitude":-74.079793,
@@ -36,7 +41,15 @@
     ],
     "sg:website":"www.metro1.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85813091,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hx7PMwYjClJLYPXGFDJeM_40.767841_-74.079793@1294171694"
@@ -44,11 +57,22 @@
     "wof:country":"US",
     "wof:created":1461310943,
     "wof:geomhash":"1904ef5ffcf3635d94187d301c9ebc6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "neighbourhood_id":85813091,
+            "region_id":85688607,
+            "venue_id":655552975
+        }
+    ],
     "wof:id":655552975,
-    "wof:lastmodified":1466679670,
+    "wof:lastmodified":1491898841,
     "wof:name":"Metro One Telecommunications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

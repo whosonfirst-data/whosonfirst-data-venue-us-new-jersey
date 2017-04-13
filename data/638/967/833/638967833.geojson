@@ -2,9 +2,14 @@
   "id": 638967833,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Dogwood Dr Oakland NJ 07436",
+    "addr:housenumber":"49",
+    "addr:postcode":"07436",
+    "addr:street":"Dogwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244503,41.016798,-74.244503,41.016798",
     "geom:latitude":41.016798,
     "geom:longitude":-74.244503,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3izrkJak3fYhHMj9hup538_41.016798_-74.244503@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284406,
     "wof:geomhash":"3a7587ab6207165667874d3140fdfd9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":638967833
+        }
+    ],
     "wof:id":638967833,
-    "wof:lastmodified":1466691674,
+    "wof:lastmodified":1492054516,
     "wof:name":"Pinnacle Consulting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

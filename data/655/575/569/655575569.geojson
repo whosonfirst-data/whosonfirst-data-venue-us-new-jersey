@@ -2,9 +2,14 @@
   "id": 655575569,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Walter Dr Jackson NJ 08527",
+    "addr:housenumber":"15",
+    "addr:postcode":"08527",
+    "addr:street":"Walter Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.36479,40.111576,-74.36479,40.111576",
     "geom:latitude":40.111576,
     "geom:longitude":-74.36479,
@@ -27,7 +32,10 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ACb6Krkx4BPzQauJpGCZd_40.111576_-74.364790@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311972,
     "wof:geomhash":"2ec1648019243659ea864c76abaff466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527441,
+            "venue_id":655575569
+        }
+    ],
     "wof:id":655575569,
-    "wof:lastmodified":1466680176,
+    "wof:lastmodified":1492045056,
     "wof:name":"R C G Industries Inc",
     "wof:parent_id":420527441,
     "wof:placetype":"venue",

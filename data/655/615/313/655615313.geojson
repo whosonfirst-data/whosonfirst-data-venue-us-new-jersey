@@ -2,9 +2,14 @@
   "id": 655615313,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Camptown Rd Irvington NJ 07111",
+    "addr:housenumber":"17",
+    "addr:postcode":"07111",
+    "addr:street":"Camptown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.250766,40.719405,-74.250766,40.719405",
     "geom:latitude":40.719405,
     "geom:longitude":-74.250766,
@@ -28,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tCRhnszatDH1DYeRcugP8_40.719405_-74.250766@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313663,
     "wof:geomhash":"8412b6ee4023e06fcadb8aaaf1ccfc0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655615313
+        }
+    ],
     "wof:id":655615313,
-    "wof:lastmodified":1466681582,
+    "wof:lastmodified":1492053864,
     "wof:name":"Mainetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

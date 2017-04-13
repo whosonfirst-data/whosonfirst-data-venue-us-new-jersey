@@ -2,9 +2,14 @@
   "id": 639456709,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Co Rd 519 Belvidere NJ 07823",
+    "addr:housenumber":"546;519",
+    "addr:postcode":"07823",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023142,40.841845,-75.023142,40.841845",
     "geom:latitude":40.841845,
     "geom:longitude":-75.023142,
@@ -29,7 +34,14 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        85976491,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cPRBnLl3zzDzrKgR6i57x_40.841845_-75.023142@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461295679,
     "wof:geomhash":"6402bf57789637c775f3bf6e5dff5d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "locality_id":85976491,
+            "region_id":85688607,
+            "venue_id":639456709
+        }
+    ],
     "wof:id":639456709,
-    "wof:lastmodified":1466693567,
+    "wof:lastmodified":1492065123,
     "wof:name":"Short Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

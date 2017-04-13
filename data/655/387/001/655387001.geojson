@@ -2,9 +2,14 @@
   "id": 655387001,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Foothill Rd Flemington NJ 08822",
+    "addr:housenumber":"123",
+    "addr:postcode":"08822",
+    "addr:street":"Foothill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.847045,40.574791,-74.847045,40.574791",
     "geom:latitude":40.574791,
     "geom:longitude":-74.847045,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CdQeVhlrTDupF7ARLSszO_40.574791_-74.847045@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304072,
     "wof:geomhash":"a8e58da200b0053700c9b9d405954c3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":655387001
+        }
+    ],
     "wof:id":655387001,
-    "wof:lastmodified":1466688828,
+    "wof:lastmodified":1492053556,
     "wof:name":"John Walsh Dvm",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

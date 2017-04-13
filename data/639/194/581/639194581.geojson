@@ -2,9 +2,14 @@
   "id": 639194581,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 W Crystal Lake Ave Collingswood NJ 08108",
+    "addr:housenumber":"105",
+    "addr:postcode":"08108",
+    "addr:street":"W Crystal Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.048655,39.906849,-75.048655,39.906849",
     "geom:latitude":39.906849,
     "geom:longitude":-75.048655,
@@ -27,8 +32,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85823437,
-        102081131
+        85975661,
+        102081131,
+        85855593,
+        85823437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +48,23 @@
         {
             "country_id":85633793,
             "county_id":102081131,
+            "locality_id":85975661,
+            "neighbourhood_id":85855593,
+            "region_id":85688607,
+            "venue_id":639194581
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081131,
             "neighbourhood_id":85823437,
             "region_id":85688607,
             "venue_id":639194581
         }
     ],
     "wof:id":639194581,
-    "wof:lastmodified":1466687783,
+    "wof:lastmodified":1492047097,
     "wof:name":"Haas Richard Asid",
-    "wof:parent_id":85823437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

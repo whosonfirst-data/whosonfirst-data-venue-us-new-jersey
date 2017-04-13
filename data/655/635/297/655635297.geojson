@@ -2,9 +2,14 @@
   "id": 655635297,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 Franklin Rd Denville NJ 07834",
+    "addr:housenumber":"424",
+    "addr:postcode":"07834",
+    "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.5202,40.870869,-74.5202,40.870869",
     "geom:latitude":40.870869,
     "geom:longitude":-74.5202,
@@ -33,7 +38,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s1ys9IpRHsgV5DeZmp1zI_40.870869_-74.520200@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461314575,
     "wof:geomhash":"214af21b750dccf187e9479b3c6f50ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655635297
+        }
+    ],
     "wof:id":655635297,
-    "wof:lastmodified":1466682208,
+    "wof:lastmodified":1492023704,
     "wof:name":"York Glass Company Inc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

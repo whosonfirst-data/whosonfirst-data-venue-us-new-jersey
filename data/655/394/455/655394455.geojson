@@ -2,9 +2,14 @@
   "id": 655394455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 Haddonfield Berlin Rd Voorhees NJ 08043",
+    "addr:housenumber":"1227",
+    "addr:postcode":"08043",
+    "addr:street":"Haddonfield Berlin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.948612,39.819353,-74.948612,39.819353",
     "geom:latitude":39.819353,
     "geom:longitude":-74.948612,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85975613,
+        102081131,
+        85844193,
         420526729,
         102191575,
         404478017,
-        85633793,
-        85975649,
-        102081131,
-        85688607
+        85975649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +53,14 @@
     "wof:created":1461304393,
     "wof:geomhash":"fdb841e0a358e99ed0d16aeceb102454",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081131,
+            "locality_id":85975613,
+            "neighbourhood_id":85844193,
+            "region_id":85688607,
+            "venue_id":655394455
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +73,9 @@
         }
     ],
     "wof:id":655394455,
-    "wof:lastmodified":1466675316,
+    "wof:lastmodified":1492055636,
     "wof:name":"Rainbow Cleaners",
-    "wof:parent_id":420526729,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

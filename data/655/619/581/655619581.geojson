@@ -2,9 +2,14 @@
   "id": 655619581,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Eden St Franklin Park NJ 08823",
+    "addr:housenumber":"30",
+    "addr:postcode":"08823",
+    "addr:street":"Eden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.540202,40.441098,-74.540202,40.441098",
     "geom:latitude":40.441098,
     "geom:longitude":-74.540202,
@@ -24,7 +29,14 @@
     "sg:postcode":"08823",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6orHHytkH9qJJd71bOjliG_40.441098_-74.540202@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461313867,
     "wof:geomhash":"519f5ae23f21c4c70339b29401bb7f57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":655619581
+        }
+    ],
     "wof:id":655619581,
-    "wof:lastmodified":1466681823,
+    "wof:lastmodified":1492070332,
     "wof:name":"Franklin Park School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

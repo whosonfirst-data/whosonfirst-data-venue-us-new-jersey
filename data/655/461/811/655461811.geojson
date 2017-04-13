@@ -2,9 +2,14 @@
   "id": 655461811,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Ebbetts Dr Atco NJ 08004",
+    "addr:housenumber":"113",
+    "addr:postcode":"08004",
+    "addr:street":"Ebbetts Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.891708,39.753455,-74.891708,39.753455",
     "geom:latitude":39.753455,
     "geom:longitude":-74.891708,
@@ -28,7 +33,13 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qhdEFpJAHV8buEOh7x019_39.753455_-74.891708@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461307236,
     "wof:geomhash":"718192ac7bed2353226664d6fdb50531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":655461811
+        }
+    ],
     "wof:id":655461811,
-    "wof:lastmodified":1466677239,
+    "wof:lastmodified":1492057077,
     "wof:name":"Tufolo Tailor Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655396437,
   "type": "Feature",
   "properties": {
+    "addr:full":"992 Easton Ave Somerset NJ 08873",
+    "addr:housenumber":"992",
+    "addr:postcode":"08873",
+    "addr:street":"Easton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.487115,40.513831,-74.487115,40.513831",
     "geom:latitude":40.513831,
     "geom:longitude":-74.487115,
@@ -29,7 +34,14 @@
         "mineral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DlU481NSeNSEv2z63E8Og_40.513831_-74.487115@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461304480,
     "wof:geomhash":"c626c4096ecfe6f21f9a077396a09c45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":655396437
+        }
+    ],
     "wof:id":655396437,
-    "wof:lastmodified":1466675321,
+    "wof:lastmodified":1492028423,
     "wof:name":"GNC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

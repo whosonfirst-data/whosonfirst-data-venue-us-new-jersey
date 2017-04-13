@@ -2,9 +2,14 @@
   "id": 655569493,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Mackerly Rd Newton NJ 07860",
+    "addr:housenumber":"42",
+    "addr:postcode":"07860",
+    "addr:street":"Mackerly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.79745,40.985849,-74.79745,40.985849",
     "geom:latitude":40.985849,
     "geom:longitude":-74.79745,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KbSjS7euMwVSxkYGy6USR_40.985849_-74.797450@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461311690,
     "wof:geomhash":"ac261192fd53ef148650e94bf4a6b22c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":655569493
+        }
+    ],
     "wof:id":655569493,
-    "wof:lastmodified":1466680075,
+    "wof:lastmodified":1492048350,
     "wof:name":"Lupo Lettering",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

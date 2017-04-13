@@ -2,9 +2,14 @@
   "id": 639520223,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 John Ringo Rd Ringoes NJ 08551",
+    "addr:housenumber":"131",
+    "addr:postcode":"08551",
+    "addr:street":"John Ringo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.872817,40.440711,-74.872817,40.440711",
     "geom:latitude":40.440711,
     "geom:longitude":-74.872817,
@@ -31,7 +36,9 @@
         85688607,
         85633793,
         85829815,
-        102085997
+        102085997,
+        85812239,
+        420527065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +54,24 @@
             "neighbourhood_id":85829815,
             "region_id":85688607,
             "venue_id":639520223
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85812239,
+            "region_id":85688607,
+            "venue_id":639520223
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527065,
+            "venue_id":639520223
         }
     ],
     "wof:id":639520223,
-    "wof:lastmodified":1466695149,
+    "wof:lastmodified":1492048127,
     "wof:name":"American Pump Svc",
-    "wof:parent_id":85829815,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

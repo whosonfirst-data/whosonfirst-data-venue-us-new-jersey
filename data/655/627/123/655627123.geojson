@@ -2,9 +2,14 @@
   "id": 655627123,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 E 2nd St Bound Brook NJ 08805",
+    "addr:housenumber":"305",
+    "addr:postcode":"08805",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.530663,40.562623,-74.530663,40.562623",
     "geom:latitude":40.562623,
     "geom:longitude":-74.530663,
@@ -24,7 +29,14 @@
     "sg:postcode":"08805",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477363,
+        85633793,
+        85975519,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ys5LrsrbTDbrpfgaGQu3I_40.562623_-74.530663@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461314205,
     "wof:geomhash":"8849bf23bdadc01cbfcdbd8cdd7d8f6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477363,
+            "locality_id":85975519,
+            "region_id":85688607,
+            "venue_id":655627123
+        }
+    ],
     "wof:id":655627123,
-    "wof:lastmodified":1466681984,
+    "wof:lastmodified":1492023726,
     "wof:name":"Elks BPOE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

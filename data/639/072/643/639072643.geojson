@@ -2,9 +2,14 @@
   "id": 639072643,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 New Hampshire Ave Lakewood NJ 08701",
+    "addr:housenumber":"400",
+    "addr:postcode":"08701",
+    "addr:street":"New Hampshire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.180762,40.081289,-74.180762,40.081289",
     "geom:latitude":40.081289,
     "geom:longitude":-74.180762,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cmuvcPGlzpqPjJqauu94D_40.081289_-74.180762@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461286751,
     "wof:geomhash":"52fd9ff941cfea1d9c4dc65a10f5c253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639072643
+        }
+    ],
     "wof:id":639072643,
-    "wof:lastmodified":1466688389,
+    "wof:lastmodified":1492018835,
     "wof:name":"Immediate Medical Care",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

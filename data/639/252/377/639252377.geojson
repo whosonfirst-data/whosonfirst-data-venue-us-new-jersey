@@ -2,9 +2,14 @@
   "id": 639252377,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Heathwood Ave Jackson NJ 08527",
+    "addr:housenumber":"17",
+    "addr:postcode":"08527",
+    "addr:street":"Heathwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.334468,40.137989,-74.334468,40.137989",
     "geom:latitude":40.137989,
     "geom:longitude":-74.334468,
@@ -24,7 +29,13 @@
     "sg:postcode":"08527",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OKpppzmg7VRICRfRnXoUy_40.137989_-74.334468@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461290879,
     "wof:geomhash":"44dd8d6a750e2832d30a88b5aecc2911",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":639252377
+        }
+    ],
     "wof:id":639252377,
-    "wof:lastmodified":1466690334,
+    "wof:lastmodified":1492043915,
     "wof:name":"Information Analysts Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

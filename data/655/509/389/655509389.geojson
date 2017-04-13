@@ -2,9 +2,14 @@
   "id": 655509389,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 W Farms Rd Farmingdale NJ 07727",
+    "addr:housenumber":"53",
+    "addr:postcode":"07727",
+    "addr:street":"W Farms Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.188757,40.197091,-74.188757,40.197091",
     "geom:latitude":40.197091,
     "geom:longitude":-74.188757,
@@ -29,7 +34,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4InExcVwPgX9fHSkkedf5k_40.197091_-74.188757@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461309258,
     "wof:geomhash":"3761b6a4948a7f076d7ac15de940b6a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527253,
+            "venue_id":655509389
+        }
+    ],
     "wof:id":655509389,
-    "wof:lastmodified":1466678450,
+    "wof:lastmodified":1492053710,
     "wof:name":"ABC Pet Grooming",
     "wof:parent_id":420527253,
     "wof:placetype":"venue",

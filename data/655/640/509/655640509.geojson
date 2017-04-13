@@ -2,9 +2,14 @@
   "id": 655640509,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Hickory Ridge Dr Blairstown NJ 07825",
+    "addr:housenumber":"5",
+    "addr:postcode":"07825",
+    "addr:street":"Hickory Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.001421,40.951519,-75.001421,40.951519",
     "geom:latitude":40.951519,
     "geom:longitude":-75.001421,
@@ -27,7 +32,10 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pu6vjnYfP8poP7FlxiCwJ_40.951519_-75.001421@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461314780,
     "wof:geomhash":"d34d1e5f8de472d1d798f59ff848c836",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655640509
+        }
+    ],
     "wof:id":655640509,
-    "wof:lastmodified":1466682477,
+    "wof:lastmodified":1492048110,
     "wof:name":"D C Auto Works",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

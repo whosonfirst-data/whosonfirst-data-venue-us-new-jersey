@@ -2,9 +2,14 @@
   "id": 655505593,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Fernwood Rd Milford NJ 08848",
+    "addr:housenumber":"15",
+    "addr:postcode":"08848",
+    "addr:street":"Fernwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.117969,40.604494,-75.117969,40.604494",
     "geom:latitude":40.604494,
     "geom:longitude":-75.117969,
@@ -29,7 +34,10 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oL7ug8Brl1LosXPuhZJKw_40.604494_-75.117969@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461309082,
     "wof:geomhash":"648647bafd629b7f0b331aeadfe83723",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":655505593
+        }
+    ],
     "wof:id":655505593,
-    "wof:lastmodified":1466678245,
+    "wof:lastmodified":1492044263,
     "wof:name":"Michael Knight",
     "wof:parent_id":420527141,
     "wof:placetype":"venue",

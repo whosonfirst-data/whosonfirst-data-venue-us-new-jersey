@@ -2,9 +2,14 @@
   "id": 638925865,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Neil Ave Brick NJ 08724",
+    "addr:housenumber":"65",
+    "addr:postcode":"08724",
+    "addr:street":"Neil Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14918,40.097726,-74.14918,40.097726",
     "geom:latitude":40.097726,
     "geom:longitude":-74.14918,
@@ -24,7 +29,13 @@
     "sg:postcode":"08724",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KIDsgrE1Rr4hOSJMd5hx0_40.097726_-74.149180@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461283412,
     "wof:geomhash":"8d6f118fbf3b5f1fe8e9ced093f1c9dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":638925865
+        }
+    ],
     "wof:id":638925865,
-    "wof:lastmodified":1466690753,
+    "wof:lastmodified":1492051319,
     "wof:name":"A Pompeo & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655430375,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"101",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.338708,41.008116,-74.338708,41.008116",
     "geom:latitude":41.008116,
     "geom:longitude":-74.338708,
@@ -27,7 +32,14 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i9unFX0aMxI3s4y167Ey4_41.008116_-74.338708@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461305916,
     "wof:geomhash":"3abeeaf9987601f2ca3ebb8029f64dfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655430375
+        }
+    ],
     "wof:id":655430375,
-    "wof:lastmodified":1466676330,
+    "wof:lastmodified":1492024258,
     "wof:name":"Bloomingdale Recreation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655382253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Drift Rd Freehold NJ 07728",
+    "addr:housenumber":"3",
+    "addr:postcode":"07728",
+    "addr:street":"Drift Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.301451,40.169529,-74.301451,40.169529",
     "geom:latitude":40.169529,
     "geom:longitude":-74.301451,
@@ -24,7 +29,10 @@
     "sg:postcode":"07728",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53MA4lloCqqxMbOhYCuzJ0_40.169529_-74.301451@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461303885,
     "wof:geomhash":"398038545f6d8520d532a6d53e8533a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527379,
+            "venue_id":655382253
+        }
+    ],
     "wof:id":655382253,
-    "wof:lastmodified":1466674994,
+    "wof:lastmodified":1492047994,
     "wof:name":"Michaels Collection",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

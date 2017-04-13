@@ -2,9 +2,14 @@
   "id": 639630655,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 Cherry Valley Rd Princeton NJ 08540",
+    "addr:housenumber":"925",
+    "addr:postcode":"08540",
+    "addr:street":"Cherry Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.720944,40.375469,-74.720944,40.375469",
     "geom:latitude":40.375469,
     "geom:longitude":-74.720944,
@@ -29,7 +34,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gRbQ6ZHTAVwILoDiaXMSE_40.375469_-74.720944@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461302962,
     "wof:geomhash":"537a583e572887d23202d8edf69b44d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":639630655
+        }
+    ],
     "wof:id":639630655,
-    "wof:lastmodified":1466697561,
+    "wof:lastmodified":1492047773,
     "wof:name":"Art Banc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

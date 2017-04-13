@@ -2,9 +2,14 @@
   "id": 655765193,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 N Central Ave Ramsey NJ 07446",
+    "addr:housenumber":"44",
+    "addr:postcode":"07446",
+    "addr:street":"N Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.14399,41.05864,-74.14399,41.05864",
     "geom:latitude":41.05864,
     "geom:longitude":-74.14399,
@@ -52,7 +57,14 @@
     ],
     "sg:website":"http://www.beltone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477713,
+        85633793,
+        85975945,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_109rrV63iWT3tMFuP7ZNUO_41.058640_-74.143990@1303262264"
@@ -60,9 +72,19 @@
     "wof:country":"US",
     "wof:created":1461319859,
     "wof:geomhash":"79e5614eff49fd2a13a5d1687915dbf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477713,
+            "locality_id":85975945,
+            "region_id":85688607,
+            "venue_id":655765193
+        }
+    ],
     "wof:id":655765193,
-    "wof:lastmodified":1466686023,
+    "wof:lastmodified":1492052111,
     "wof:name":"Beltone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

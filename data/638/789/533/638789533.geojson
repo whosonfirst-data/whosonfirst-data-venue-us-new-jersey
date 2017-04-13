@@ -2,9 +2,14 @@
   "id": 638789533,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 High St West Milford NJ 07480",
+    "addr:housenumber":"23",
+    "addr:postcode":"07480",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.372054,41.07262,-74.372054,41.07262",
     "geom:latitude":41.07262,
     "geom:longitude":-74.372054,
@@ -28,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KSzCS7yoWavuTrPuLAGVE_41.072620_-74.372054@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280010,
     "wof:geomhash":"d09c4913266310d666812e9745cd483f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527489,
+            "venue_id":638789533
+        }
+    ],
     "wof:id":638789533,
-    "wof:lastmodified":1466684251,
+    "wof:lastmodified":1492036269,
     "wof:name":"Shared Vision Inc",
     "wof:parent_id":420527489,
     "wof:placetype":"venue",

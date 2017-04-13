@@ -2,9 +2,14 @@
   "id": 638853407,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Sutton Farm Rd Flemington NJ 08822",
+    "addr:housenumber":"63",
+    "addr:postcode":"08822",
+    "addr:street":"Sutton Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.903755,40.471806,-74.903755,40.471806",
     "geom:latitude":40.471806,
     "geom:longitude":-74.903755,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"www.wire-x.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VurvlErpc5B6UBVVnP6MR_40.471806_-74.903755@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461281598,
     "wof:geomhash":"ff82a6f58243d9d7edc3249977898f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":638853407
+        }
+    ],
     "wof:id":638853407,
-    "wof:lastmodified":1466689290,
+    "wof:lastmodified":1492030684,
     "wof:name":"Wire Excellence",
     "wof:parent_id":420527093,
     "wof:placetype":"venue",

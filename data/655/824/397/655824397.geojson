@@ -2,9 +2,14 @@
   "id": 655824397,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Hillside Ave Camden NJ 08105",
+    "addr:housenumber":"355",
+    "addr:postcode":"08105",
+    "addr:street":"Hillside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078521,39.942709,-75.078521,39.942709",
     "geom:latitude":39.942709,
     "geom:longitude":-75.078521,
@@ -36,7 +41,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526785,
+        102191575,
+        404477989,
+        85633793,
+        85975673,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72WUfxyylZp783Fc1xW9Ir_39.942709_-75.078521@1303262279"
@@ -44,9 +57,20 @@
     "wof:country":"US",
     "wof:created":1461322426,
     "wof:geomhash":"91fe663b3285921b4a0d06071bb7825c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477989,
+            "locality_id":85975673,
+            "neighbourhood_id":420526785,
+            "region_id":85688607,
+            "venue_id":655824397
+        }
+    ],
     "wof:id":655824397,
-    "wof:lastmodified":1466687579,
+    "wof:lastmodified":1492025868,
     "wof:name":"Lockheed Martin Corporation",
     "wof:parent_id":420526785,
     "wof:placetype":"venue",

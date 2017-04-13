@@ -2,9 +2,14 @@
   "id": 655518363,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 US Hwy 46 Columbia NJ 07832",
+    "addr:housenumber":"565",
+    "addr:postcode":"07832",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049486,40.860617,-75.049486,40.860617",
     "geom:latitude":40.860617,
     "geom:longitude":-75.049486,
@@ -24,7 +29,13 @@
     "sg:postcode":"07832",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aHT2qkAZ2wnYGmRABESXI_40.860617_-75.049486@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461309614,
     "wof:geomhash":"a18de101abd9c04b9abdb0a656d917e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":655518363
+        }
+    ],
     "wof:id":655518363,
-    "wof:lastmodified":1466678711,
+    "wof:lastmodified":1492053659,
     "wof:name":"King Cole Grove Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

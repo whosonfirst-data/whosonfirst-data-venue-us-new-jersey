@@ -2,9 +2,14 @@
   "id": 639529717,
   "type": "Feature",
   "properties": {
+    "addr:full":"789 US Hwy 202 Bridgewater NJ 08807",
+    "addr:housenumber":"789",
+    "addr:postcode":"08807",
+    "addr:street":"Us Hwy 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.666416,40.573626,-74.666416,40.573626",
     "geom:latitude":40.573626,
     "geom:longitude":-74.666416,
@@ -34,7 +39,8 @@
         85633793,
         85976135,
         102085045,
-        85834423
+        85834423,
+        85837395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,19 @@
             "neighbourhood_id":85834423,
             "region_id":85688607,
             "venue_id":639529717
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "neighbourhood_id":85837395,
+            "region_id":85688607,
+            "venue_id":639529717
         }
     ],
     "wof:id":639529717,
-    "wof:lastmodified":1466695753,
+    "wof:lastmodified":1492042516,
     "wof:name":"R & M Marketing Svc",
-    "wof:parent_id":85834423,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

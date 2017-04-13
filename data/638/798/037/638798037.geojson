@@ -2,9 +2,14 @@
   "id": 638798037,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 B St Brick NJ 08723",
+    "addr:housenumber":"106",
+    "addr:postcode":"08723",
+    "addr:street":"B St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138379,40.027548,-74.138379,40.027548",
     "geom:latitude":40.027548,
     "geom:longitude":-74.138379,
@@ -27,7 +32,10 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2onRntm3DjgMGV3ERvlI3j_40.027548_-74.138379@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280189,
     "wof:geomhash":"50125e87bb2ff88f85d787e2dd554994",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527371,
+            "venue_id":638798037
+        }
+    ],
     "wof:id":638798037,
-    "wof:lastmodified":1466685301,
+    "wof:lastmodified":1492065597,
     "wof:name":"B&C Auto Sales Inc",
     "wof:parent_id":420527371,
     "wof:placetype":"venue",

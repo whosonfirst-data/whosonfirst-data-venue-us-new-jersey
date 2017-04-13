@@ -2,9 +2,14 @@
   "id": 639473385,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 W Factory Rd Berlin NJ 08009",
+    "addr:housenumber":"22",
+    "addr:postcode":"08009",
+    "addr:street":"W Factory Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.917557,39.760804,-74.917557,39.760804",
     "geom:latitude":39.760804,
     "geom:longitude":-74.917557,
@@ -30,7 +35,11 @@
         "block"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526747,
+        420526739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iIaBqmk894AODdpkOtvqU_39.760804_-74.917557@1294171694"
@@ -38,11 +47,22 @@
     "wof:country":"US",
     "wof:created":1461296337,
     "wof:geomhash":"0e98b9ce57435b752ce3061dc7c8c719",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526747,
+            "venue_id":639473385
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526739,
+            "venue_id":639473385
+        }
+    ],
     "wof:id":639473385,
-    "wof:lastmodified":1466694082,
+    "wof:lastmodified":1492059893,
     "wof:name":"Victory Brick & Block Co",
-    "wof:parent_id":420526739,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

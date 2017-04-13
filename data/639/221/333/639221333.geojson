@@ -2,9 +2,14 @@
   "id": 639221333,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Hillcrest Dr Bloomingdale NJ 07403",
+    "addr:housenumber":"22",
+    "addr:postcode":"07403",
+    "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.329991,41.014369,-74.329991,41.014369",
     "geom:latitude":41.014369,
     "geom:longitude":-74.329991,
@@ -31,7 +36,14 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04rlUeledWKw5QQJaE0V1r_41.014369_-74.329991@1294171694"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461290176,
     "wof:geomhash":"7791428f1776c097b8a2641359c433fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":639221333
+        }
+    ],
     "wof:id":639221333,
-    "wof:lastmodified":1466689589,
+    "wof:lastmodified":1492080175,
     "wof:name":"Floor Covering International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

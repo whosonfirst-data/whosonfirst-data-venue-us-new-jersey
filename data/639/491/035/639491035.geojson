@@ -2,9 +2,14 @@
   "id": 639491035,
   "type": "Feature",
   "properties": {
+    "addr:full":"466 Old Hook Rd Emerson NJ 07630",
+    "addr:housenumber":"466",
+    "addr:postcode":"07630",
+    "addr:street":"Old Hook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.005833,40.981785,-74.005833,40.981785",
     "geom:latitude":40.981785,
     "geom:longitude":-74.005833,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eyTI5vkX4yS2o3qVJthcW_40.981785_-74.005833@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297064,
     "wof:geomhash":"fcc4b3716d88f574eb6d09f039d44eae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":639491035
+        }
+    ],
     "wof:id":639491035,
-    "wof:lastmodified":1466694525,
+    "wof:lastmodified":1492048951,
     "wof:name":"Pulmonary & Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

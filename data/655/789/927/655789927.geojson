@@ -2,9 +2,14 @@
   "id": 655789927,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Spring St Ste 1 Newton NJ 07860",
+    "addr:housenumber":"185",
+    "addr:postcode":"07860",
+    "addr:street":"Spring St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750878,41.0569,-74.750878,41.0569",
     "geom:latitude":41.0569,
     "geom:longitude":-74.750878,
@@ -35,7 +40,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xW4nOJJ4XL9nevLkShSKV_41.056900_-74.750878@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320975,
     "wof:geomhash":"e1e6b62f6711a2a74751c5a8d389ac21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789927
+        }
+    ],
     "wof:id":655789927,
-    "wof:lastmodified":1466686756,
+    "wof:lastmodified":1492046272,
     "wof:name":"Feels Like Home",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

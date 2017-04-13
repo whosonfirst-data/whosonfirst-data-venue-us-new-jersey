@@ -2,9 +2,14 @@
   "id": 639579801,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Pulaski Rd Whitehouse Sta NJ 08889",
+    "addr:housenumber":"41",
+    "addr:postcode":"08889",
+    "addr:street":"Pulaski Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.75907,40.603849,-74.75907,40.603849",
     "geom:latitude":40.603849,
     "geom:longitude":-74.75907,
@@ -27,7 +32,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HJBFbioMWrCNEeDvhzoVn_40.603849_-74.759070@1294171694"
@@ -35,11 +46,20 @@
     "wof:country":"US",
     "wof:created":1461300893,
     "wof:geomhash":"06a7e108b480bd03b13c157154ccd743",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639579801
+        }
+    ],
     "wof:id":639579801,
-    "wof:lastmodified":1466696575,
+    "wof:lastmodified":1492076842,
     "wof:name":"GVH Trucking Inc",
-    "wof:parent_id":420527081,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

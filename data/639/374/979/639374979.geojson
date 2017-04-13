@@ -2,9 +2,14 @@
   "id": 639374979,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Southfield Rd Princeton Jct NJ 08550",
+    "addr:housenumber":"221",
+    "addr:postcode":"08550",
+    "addr:street":"Southfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.576174,40.302757,-74.576174,40.302757",
     "geom:latitude":40.302757,
     "geom:longitude":-74.576174,
@@ -30,7 +35,13 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YszUwXo5YVptPQ1Trvz66_40.302757_-74.576174@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461293540,
     "wof:geomhash":"911c543317334c5e0f9d58edc0e8a65e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639374979
+        }
+    ],
     "wof:id":639374979,
-    "wof:lastmodified":1466692862,
+    "wof:lastmodified":1492069736,
     "wof:name":"P M Whitney Deck Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

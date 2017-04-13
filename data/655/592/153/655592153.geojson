@@ -2,9 +2,14 @@
   "id": 655592153,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Summit St Norwood NJ 07648",
+    "addr:housenumber":"66",
+    "addr:postcode":"07648",
+    "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961681,40.994756,-73.961681,40.994756",
     "geom:latitude":40.994756,
     "geom:longitude":-73.961681,
@@ -24,7 +29,14 @@
     "sg:postcode":"07648",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05lNBMBZCaizuhItDu8uYV_40.994756_-73.961681@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461312678,
     "wof:geomhash":"0f4fa66a9685e08776240b21163ae145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":655592153
+        }
+    ],
     "wof:id":655592153,
-    "wof:lastmodified":1466680674,
+    "wof:lastmodified":1492053733,
     "wof:name":"Church of Holy Communion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

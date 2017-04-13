@@ -2,9 +2,14 @@
   "id": 655402097,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Oak St Oakland NJ 07436",
+    "addr:housenumber":"71",
+    "addr:postcode":"07436",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.24927,41.024619,-74.24927,41.024619",
     "geom:latitude":41.024619,
     "geom:longitude":-74.24927,
@@ -24,7 +29,14 @@
     "sg:postcode":"07436",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Ssv1ZjsbaddDPhTsr7R1_41.024619_-74.249270@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461304721,
     "wof:geomhash":"9cb4202cb000dc7cd0915f646091323d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655402097
+        }
+    ],
     "wof:id":655402097,
-    "wof:lastmodified":1466675477,
+    "wof:lastmodified":1492057022,
     "wof:name":"Aramark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

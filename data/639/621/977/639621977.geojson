@@ -2,9 +2,14 @@
   "id": 639621977,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Newport Ct Brick NJ 08724",
+    "addr:housenumber":"11",
+    "addr:postcode":"08724",
+    "addr:street":"Newport Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120111,40.086779,-74.120111,40.086779",
     "geom:latitude":40.086779,
     "geom:longitude":-74.120111,
@@ -29,7 +34,10 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IQadcW9eKhP34mJz1T7wA_40.086779_-74.120111@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461302574,
     "wof:geomhash":"5e9e2751aa6609dfb8b5386c17a9683c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639621977
+        }
+    ],
     "wof:id":639621977,
-    "wof:lastmodified":1466697546,
+    "wof:lastmodified":1492053464,
     "wof:name":"Alpha Animal Control",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

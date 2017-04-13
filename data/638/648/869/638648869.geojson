@@ -2,9 +2,14 @@
   "id": 638648869,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Kings Hwy Landing NJ 07850",
+    "addr:housenumber":"142",
+    "addr:postcode":"07850",
+    "addr:street":"Kings Hwy Landing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.671191,40.906372,-74.671191,40.906372",
     "geom:latitude":40.906372,
     "geom:longitude":-74.671191,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527693,
+        102191575,
+        404477661,
+        85633793,
+        85976201,
+        102087413,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61aPTWnldiePvm1A4uDQbx_40.906372_-74.671191@1294171694"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461275769,
     "wof:geomhash":"8eab4e6ba3d3b5e8629db598deef304e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477661,
+            "locality_id":85976201,
+            "neighbourhood_id":420527693,
+            "region_id":85688607,
+            "venue_id":638648869
+        }
+    ],
     "wof:id":638648869,
-    "wof:lastmodified":1466673822,
+    "wof:lastmodified":1492062309,
     "wof:name":"Don KNOX Home Improvements",
-    "wof:parent_id":420527361,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655479211,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 W Washington Ave Washington NJ 07882",
+    "addr:housenumber":"41",
+    "addr:postcode":"07882",
+    "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.980242,40.758156,-74.980242,40.758156",
     "geom:latitude":40.758156,
     "geom:longitude":-74.980242,
@@ -27,7 +32,10 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gd95oKZE8j9WUPhFD2WMB_40.758156_-74.980242@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307978,
     "wof:geomhash":"b78d4381c9649f2d20decb95eff4b578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655479211
+        }
+    ],
     "wof:id":655479211,
-    "wof:lastmodified":1466677608,
+    "wof:lastmodified":1492070248,
     "wof:name":"Krauszer's",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

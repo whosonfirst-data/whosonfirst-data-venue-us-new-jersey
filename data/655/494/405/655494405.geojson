@@ -2,9 +2,14 @@
   "id": 655494405,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Ellis Ave Irvington NJ 07111",
+    "addr:housenumber":"140",
+    "addr:postcode":"07111",
+    "addr:street":"Ellis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.217629,40.727876,-74.217629,40.727876",
     "geom:latitude":40.727876,
     "geom:longitude":-74.217629,
@@ -27,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ggoTCCugfgbFgkcHShLsb_40.727876_-74.217629@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308601,
     "wof:geomhash":"fbdb89fa1480e0ff1acd6aa75d8f49a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655494405
+        }
+    ],
     "wof:id":655494405,
-    "wof:lastmodified":1466677931,
+    "wof:lastmodified":1492024195,
     "wof:name":"Jmar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

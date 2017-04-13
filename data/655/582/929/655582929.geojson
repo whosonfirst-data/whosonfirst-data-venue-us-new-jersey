@@ -2,9 +2,14 @@
   "id": 655582929,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Pine Hill Rd Closter NJ 07624",
+    "addr:housenumber":"37",
+    "addr:postcode":"07624",
+    "addr:street":"Pine Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.947986,40.959305,-73.947986,40.959305",
     "geom:latitude":40.959305,
     "geom:longitude":-73.947986,
@@ -27,7 +32,14 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54axUIZPS0EssfnzvPJ55b_40.959305_-73.947986@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312295,
     "wof:geomhash":"3f8a3eab94a4ffb3e17762911236a38b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655582929
+        }
+    ],
     "wof:id":655582929,
-    "wof:lastmodified":1466680509,
+    "wof:lastmodified":1492052070,
     "wof:name":"Aurora Computers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

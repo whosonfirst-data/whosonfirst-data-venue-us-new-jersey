@@ -2,9 +2,14 @@
   "id": 639449293,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Bay Ave Toms River NJ 08753",
+    "addr:housenumber":"800",
+    "addr:postcode":"08753",
+    "addr:street":"Bay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.16546,39.972144,-74.16546,39.972144",
     "geom:latitude":39.972144,
     "geom:longitude":-74.16546,
@@ -24,7 +29,16 @@
     "sg:postcode":"08753",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85809943,
+        102191575,
+        404477803,
+        85633793,
+        85976323,
+        102081485,
+        85688607,
+        420527373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nLlpQKFHoM2YbBaTo8dAb_39.972144_-74.165460@1294171694"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1461295381,
     "wof:geomhash":"2c36cdcb1a65fcda8df8c92c3561ee22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":85809943,
+            "region_id":85688607,
+            "venue_id":639449293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":420527373,
+            "region_id":85688607,
+            "venue_id":639449293
+        }
+    ],
     "wof:id":639449293,
-    "wof:lastmodified":1466693570,
+    "wof:lastmodified":1492051500,
     "wof:name":"First Assembly Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

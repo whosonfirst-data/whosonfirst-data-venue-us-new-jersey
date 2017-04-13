@@ -2,9 +2,14 @@
   "id": 639458407,
   "type": "Feature",
   "properties": {
+    "addr:full":"577 Bergen Ave Jersey City NJ 07304",
+    "addr:housenumber":"577",
+    "addr:postcode":"07304",
+    "addr:street":"Bergen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.072797,40.7209,-74.072797,40.7209",
     "geom:latitude":40.7209,
     "geom:longitude":-74.072797,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420527029,
+        85878427,
         102191575,
         404478139,
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        420527029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102080719,
             "localadmin_id":404478139,
             "locality_id":85975295,
+            "neighbourhood_id":85878427,
+            "region_id":85688607,
+            "venue_id":639458407
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
             "neighbourhood_id":420527029,
             "region_id":85688607,
             "venue_id":639458407
         }
     ],
     "wof:id":639458407,
-    "wof:lastmodified":1466693805,
+    "wof:lastmodified":1492042537,
     "wof:name":"Mt Pisgah Day Nursery",
-    "wof:parent_id":420527029,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

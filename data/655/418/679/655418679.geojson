@@ -2,9 +2,14 @@
   "id": 655418679,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Walden Pl Caldwell NJ 07006",
+    "addr:housenumber":"24",
+    "addr:postcode":"07006",
+    "addr:street":"Walden Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300241,40.833291,-74.300241,40.833291",
     "geom:latitude":40.833291,
     "geom:longitude":-74.300241,
@@ -30,7 +35,13 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478059,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11RF7mi18x8mUiXY2e4GgY_40.833291_-74.300241@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461305413,
     "wof:geomhash":"06b9e9427a625810b94bfc7b39240e0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478059,
+            "region_id":85688607,
+            "venue_id":655418679
+        }
+    ],
     "wof:id":655418679,
-    "wof:lastmodified":1466676109,
+    "wof:lastmodified":1492070478,
     "wof:name":"Timeline Promotions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

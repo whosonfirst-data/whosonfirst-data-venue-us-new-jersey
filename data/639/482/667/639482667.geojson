@@ -2,9 +2,14 @@
   "id": 639482667,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Monroe Ave Dumont NJ 07628",
+    "addr:housenumber":"3",
+    "addr:postcode":"07628",
+    "addr:street":"Monroe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00929,40.940798,-74.00929,40.940798",
     "geom:latitude":40.940798,
     "geom:longitude":-74.00929,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55xf8HPeqN1kg7JCVBGMC4_40.940798_-74.009290@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296718,
     "wof:geomhash":"8318462d9ebe88bc0e6dde4c0977b131",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639482667
+        }
+    ],
     "wof:id":639482667,
-    "wof:lastmodified":1466694471,
+    "wof:lastmodified":1492041767,
     "wof:name":"Carmen Driggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

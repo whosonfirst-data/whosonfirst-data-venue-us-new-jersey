@@ -2,9 +2,14 @@
   "id": 639428537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Springfield Ave Summit NJ 07901",
+    "addr:housenumber":"1",
+    "addr:postcode":"07901",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.331549,40.717734,-74.331549,40.717734",
     "geom:latitude":40.717734,
     "geom:longitude":-74.331549,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fUcZNxaVQmH5wmNE3vKIQ_40.717734_-74.331549@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294886,
     "wof:geomhash":"c97972054d3930e1b0f14b1cba74fa62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":639428537
+        }
+    ],
     "wof:id":639428537,
-    "wof:lastmodified":1466693300,
+    "wof:lastmodified":1492042536,
     "wof:name":"Bello Ottilie Brechner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

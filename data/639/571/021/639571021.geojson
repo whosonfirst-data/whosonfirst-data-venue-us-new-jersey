@@ -2,9 +2,14 @@
   "id": 639571021,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Tree Farm Rd Pennington NJ 08534",
+    "addr:housenumber":"2",
+    "addr:postcode":"08534",
+    "addr:street":"Tree Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.797482,40.336726,-74.797482,40.336726",
     "geom:latitude":40.336726,
     "geom:longitude":-74.797482,
@@ -35,7 +40,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UrIZ5VWE8ECsYOxePaFkH_40.336726_-74.797482@1294171694"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461300560,
     "wof:geomhash":"0c156711ec99c733519c6a987c2a72af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":639571021
+        }
+    ],
     "wof:id":639571021,
-    "wof:lastmodified":1466696313,
+    "wof:lastmodified":1492047754,
     "wof:name":"Penny Lane Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655604079,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 E Main St Little Falls NJ 07424",
+    "addr:housenumber":"39",
+    "addr:postcode":"07424",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.221336,40.878853,-74.221336,40.878853",
     "geom:latitude":40.878853,
     "geom:longitude":-74.221336,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.prudentialdamiano.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3seHwR6Ui1iPIOgInLAc5r_40.878853_-74.221336@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461313178,
     "wof:geomhash":"152f6873db2d11af7d9de3de3b53e431",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655604079
+        }
+    ],
     "wof:id":655604079,
-    "wof:lastmodified":1466681020,
+    "wof:lastmodified":1492027536,
     "wof:name":"Prudential Damiano Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

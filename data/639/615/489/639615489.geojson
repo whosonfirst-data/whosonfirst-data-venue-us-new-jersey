@@ -2,9 +2,14 @@
   "id": 639615489,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Broad St Norwood NJ 07648",
+    "addr:housenumber":"10",
+    "addr:postcode":"07648",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.966757,40.9998,-73.966757,40.9998",
     "geom:latitude":40.9998,
     "geom:longitude":-73.966757,
@@ -27,7 +32,14 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04I216pAaMsv8Ed3svw3JR_40.999800_-73.966757@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302332,
     "wof:geomhash":"bd064d06c67eceac22ac221423711b90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639615489
+        }
+    ],
     "wof:id":639615489,
-    "wof:lastmodified":1466697038,
+    "wof:lastmodified":1492081948,
     "wof:name":"Italian Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655489277,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Barrington Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"10",
+    "addr:postcode":"08550",
+    "addr:street":"Barrington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.597291,40.30661,-74.597291,40.30661",
     "geom:latitude":40.30661,
     "geom:longitude":-74.597291,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WBW1Y8QpMOavD1XFKxsjN_40.306610_-74.597291@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308377,
     "wof:geomhash":"138bd6f2035508aa10ac92509815f836",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":655489277
+        }
+    ],
     "wof:id":655489277,
-    "wof:lastmodified":1466677889,
+    "wof:lastmodified":1492028629,
     "wof:name":"Singal",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

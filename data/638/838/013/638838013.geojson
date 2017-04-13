@@ -2,9 +2,14 @@
   "id": 638838013,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Garden State Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"405",
+    "addr:postcode":"08002",
+    "addr:street":"Garden State Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015872,39.93309,-75.015872,39.93309",
     "geom:latitude":39.93309,
     "geom:longitude":-75.015872,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bU5TezoWgCQFFaDp6Tlkv_39.933090_-75.015872@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461281191,
     "wof:geomhash":"a31e27f34d42f415cc12569bd76eec6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":638838013
+        }
+    ],
     "wof:id":638838013,
-    "wof:lastmodified":1466689008,
+    "wof:lastmodified":1492082023,
     "wof:name":"Susan S Wolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638896201,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Woodfield Rd Andover NJ 07821",
+    "addr:housenumber":"5",
+    "addr:postcode":"07821",
+    "addr:street":"Woodfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.799496,40.978609,-74.799496,40.978609",
     "geom:latitude":40.978609,
     "geom:longitude":-74.799496,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xVIBI7NRkR3tKRXBEdZ52_40.978609_-74.799496@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282650,
     "wof:geomhash":"a08f4d5fc4dae73f60fd58766da0a8fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527689,
+            "venue_id":638896201
+        }
+    ],
     "wof:id":638896201,
-    "wof:lastmodified":1466689998,
+    "wof:lastmodified":1492038954,
     "wof:name":"Cedar Ridge Farms Inc",
     "wof:parent_id":420527689,
     "wof:placetype":"venue",

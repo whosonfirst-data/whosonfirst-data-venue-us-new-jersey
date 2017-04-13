@@ -2,9 +2,14 @@
   "id": 639304537,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Hudson Bay Ter Marlboro NJ 07746",
+    "addr:housenumber":"14",
+    "addr:postcode":"07746",
+    "addr:street":"Hudson Bay Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.282034,40.324773,-74.282034,40.324773",
     "geom:latitude":40.324773,
     "geom:longitude":-74.282034,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09uk5aoLq0Dh6bTOEpOPJ8_40.324773_-74.282034@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461292060,
     "wof:geomhash":"a628135a8caa186a6e8bb2bca605ef25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639304537
+        }
+    ],
     "wof:id":639304537,
-    "wof:lastmodified":1466691431,
+    "wof:lastmodified":1492075215,
     "wof:name":"Matrixx Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

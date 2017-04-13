@@ -2,9 +2,14 @@
   "id": 638841895,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Douglas St Lambertville NJ 08530",
+    "addr:housenumber":"83",
+    "addr:postcode":"08530",
+    "addr:street":"Douglas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.936666,40.362824,-74.936666,40.362824",
     "geom:latitude":40.362824,
     "geom:longitude":-74.936666,
@@ -29,7 +34,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477459,
+        85633793,
+        85975685,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bQivVWZx4vdMjWmDDak2e_40.362824_-74.936666@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461281284,
     "wof:geomhash":"a664716e2fe89052e9f265b7baf7f7ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477459,
+            "locality_id":85975685,
+            "region_id":85688607,
+            "venue_id":638841895
+        }
+    ],
     "wof:id":638841895,
-    "wof:lastmodified":1466689107,
+    "wof:lastmodified":1492043242,
     "wof:name":"Ken Singer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

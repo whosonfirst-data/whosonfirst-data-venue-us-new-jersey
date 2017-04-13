@@ -2,9 +2,14 @@
   "id": 655516257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Central Ave Plainfield NJ 07060",
+    "addr:housenumber":"1030",
+    "addr:postcode":"07060",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.416277,40.602832,-74.416277,40.602832",
     "geom:latitude":40.602832,
     "geom:longitude":-74.416277,
@@ -29,7 +34,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61sJ5BkV5bKka3LpuyphAe_40.602832_-74.416277@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461309537,
     "wof:geomhash":"44b742580c4bbecc1ea32dcb9dd941f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":655516257
+        }
+    ],
     "wof:id":655516257,
-    "wof:lastmodified":1466678555,
+    "wof:lastmodified":1492023636,
     "wof:name":"Du Cret School of Arts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

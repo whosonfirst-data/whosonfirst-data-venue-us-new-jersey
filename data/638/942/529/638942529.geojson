@@ -2,9 +2,14 @@
   "id": 638942529,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"252;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.650307,41.18111,-74.650307,41.18111",
     "geom:latitude":41.18111,
     "geom:longitude":-74.650307,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mqro310m87cq08VG54P5k_41.181110_-74.650307@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461283858,
     "wof:geomhash":"506bc4b5a13099978caf4ad8b3612cf3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527633,
+            "venue_id":638942529
+        }
+    ],
     "wof:id":638942529,
-    "wof:lastmodified":1466691179,
+    "wof:lastmodified":1492050528,
     "wof:name":"Rent-A-Wreck",
     "wof:parent_id":420527633,
     "wof:placetype":"venue",

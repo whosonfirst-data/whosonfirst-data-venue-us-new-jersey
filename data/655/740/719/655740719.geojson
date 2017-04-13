@@ -2,9 +2,14 @@
   "id": 655740719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1291 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1291",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264961,40.700722,-74.264961,40.700722",
     "geom:latitude":40.700722,
     "geom:longitude":-74.264961,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59oWz8HuV363zYWAcBBUwj_40.700722_-74.264961@1303262258"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461318941,
     "wof:geomhash":"028d950dc266045e5509f042f34650c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655740719
+        }
+    ],
     "wof:id":655740719,
-    "wof:lastmodified":1466685403,
+    "wof:lastmodified":1492027544,
     "wof:name":"Summit Observer",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

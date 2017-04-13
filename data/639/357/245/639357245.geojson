@@ -2,9 +2,14 @@
   "id": 639357245,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Jonathan Pl Somerset NJ 08873",
+    "addr:housenumber":"193",
+    "addr:postcode":"08873",
+    "addr:street":"Jonathan Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517108,40.521807,-74.517108,40.521807",
     "geom:latitude":40.521807,
     "geom:longitude":-74.517108,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976149,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78fDZMjZsYUpB7WQNZS9ak_40.521807_-74.517108@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461293176,
     "wof:geomhash":"3510ac0b24298bb79da242216ecfefec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976149,
+            "region_id":85688607,
+            "venue_id":639357245
+        }
+    ],
     "wof:id":639357245,
-    "wof:lastmodified":1466692441,
+    "wof:lastmodified":1492041555,
     "wof:name":"Special Occasion Candy Bars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

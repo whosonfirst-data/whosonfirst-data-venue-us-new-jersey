@@ -2,9 +2,14 @@
   "id": 639441741,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 Franklin Tpke Mahwah NJ 07430",
+    "addr:housenumber":"380",
+    "addr:postcode":"07430",
+    "addr:street":"Franklin Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.140631,41.081836,-74.140631,41.081836",
     "geom:latitude":41.081836,
     "geom:longitude":-74.140631,
@@ -36,7 +41,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01FtAxOKVKpnJYZb26bIt5_41.081836_-74.140631@1294171694"
@@ -44,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461295147,
     "wof:geomhash":"3ef3891bc417486e4c70d5a6d72b5fcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639441741
+        }
+    ],
     "wof:id":639441741,
-    "wof:lastmodified":1466693533,
+    "wof:lastmodified":1492053971,
     "wof:name":"Treasure Island Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

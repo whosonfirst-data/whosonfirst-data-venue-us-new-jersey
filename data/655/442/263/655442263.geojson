@@ -2,9 +2,14 @@
   "id": 655442263,
   "type": "Feature",
   "properties": {
+    "addr:full":"549 Sherman Ave Belford NJ 07718",
+    "addr:housenumber":"549",
+    "addr:postcode":"07718",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.083415,40.406696,-74.083415,40.406696",
     "geom:latitude":40.406696,
     "geom:longitude":-74.083415,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527279,
+        85688607,
         85852425,
         102085049
     ],
@@ -43,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":655442263
+        },
+        {
+            "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85852425,
             "region_id":85688607,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":655442263,
-    "wof:lastmodified":1466676579,
+    "wof:lastmodified":1492052224,
     "wof:name":"Paris John General Contractor",
-    "wof:parent_id":85852425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

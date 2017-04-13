@@ -2,9 +2,14 @@
   "id": 638713353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1760 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"1760",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.255047,40.889535,-74.255047,40.889535",
     "geom:latitude":40.889535,
     "geom:longitude":-74.255047,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.sephora.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gNxICpXAX4M0ZmU0UQ3of_40.889535_-74.255047@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461278009,
     "wof:geomhash":"ec517b47db2e9032a446ec36c0663eeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":638713353
+        }
+    ],
     "wof:id":638713353,
-    "wof:lastmodified":1466673126,
+    "wof:lastmodified":1492062275,
     "wof:name":"Sephora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

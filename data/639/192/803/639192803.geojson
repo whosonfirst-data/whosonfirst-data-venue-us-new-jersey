@@ -2,9 +2,14 @@
   "id": 639192803,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Fairfield Rd Freehold NJ 07728",
+    "addr:housenumber":"360",
+    "addr:postcode":"07728",
+    "addr:street":"Fairfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220444,40.224489,-74.220444,40.224489",
     "geom:latitude":40.224489,
     "geom:longitude":-74.220444,
@@ -33,7 +38,8 @@
         85688607,
         85633793,
         85803415,
-        102085049
+        102085049,
+        420527275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,17 @@
             "neighbourhood_id":85803415,
             "region_id":85688607,
             "venue_id":639192803
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527275,
+            "venue_id":639192803
         }
     ],
     "wof:id":639192803,
-    "wof:lastmodified":1466687564,
+    "wof:lastmodified":1492053490,
     "wof:name":"Alan Piasecki Site Clearing",
-    "wof:parent_id":85803415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

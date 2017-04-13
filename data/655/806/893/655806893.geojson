@@ -2,9 +2,14 @@
   "id": 655806893,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"911",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.872446,40.049587,-74.872446,40.049587",
     "geom:latitude":40.049587,
     "geom:longitude":-74.872446,
@@ -35,7 +40,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jC4jBtUIfNsU2d92ebNWa_40.049587_-74.872446@1303262275"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461321645,
     "wof:geomhash":"c1288ca60927f5144104d3383981a804",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655806893
+        }
+    ],
     "wof:id":655806893,
-    "wof:lastmodified":1466687252,
+    "wof:lastmodified":1492027528,
     "wof:name":"Moront, Barbara J, Md - Cardio Stat Physical Therapy",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

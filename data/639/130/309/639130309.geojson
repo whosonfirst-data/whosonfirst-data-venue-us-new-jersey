@@ -2,9 +2,14 @@
   "id": 639130309,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 S Creek Dr West Creek NJ 08092",
+    "addr:housenumber":"223",
+    "addr:postcode":"08092",
+    "addr:street":"S Creek Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.283684,39.62177,-74.283684,39.62177",
     "geom:latitude":39.62177,
     "geom:longitude":-74.283684,
@@ -27,7 +32,10 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GTHRCvwKM3CYlWXpDAcBx_39.621770_-74.283684@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288087,
     "wof:geomhash":"ec20685ca5e06966984ab55b06a4c7f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527409,
+            "venue_id":639130309
+        }
+    ],
     "wof:id":639130309,
-    "wof:lastmodified":1466678387,
+    "wof:lastmodified":1492043091,
     "wof:name":"Atlantic Structure Movers",
     "wof:parent_id":420527409,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655596277,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Columbia Ave Hopewell NJ 08525",
+    "addr:housenumber":"4",
+    "addr:postcode":"08525",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.760112,40.388617,-74.760112,40.388617",
     "geom:latitude":40.388617,
     "geom:longitude":-74.760112,
@@ -28,7 +33,14 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477465,
+        85633793,
+        85975817,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38U4rKVzN8yOY0Fv1F0dxj_40.388617_-74.760112@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312843,
     "wof:geomhash":"b372ec1e376b879d854b4261abef4b99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477465,
+            "locality_id":85975817,
+            "region_id":85688607,
+            "venue_id":655596277
+        }
+    ],
     "wof:id":655596277,
-    "wof:lastmodified":1466680802,
+    "wof:lastmodified":1492051671,
     "wof:name":"Hopewell Tax Collector's Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

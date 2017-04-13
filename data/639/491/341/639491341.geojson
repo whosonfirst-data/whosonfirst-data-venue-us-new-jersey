@@ -2,9 +2,14 @@
   "id": 639491341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 5th Ave Hammonton NJ 08037",
+    "addr:housenumber":"2401",
+    "addr:postcode":"08037",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.636255,39.594552,-74.636255,39.594552",
     "geom:latitude":39.594552,
     "geom:longitude":-74.636255,
@@ -28,7 +33,13 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477627,
+        85633793,
+        102083869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pKIUMr9SSxBah2CQznV5i_39.594552_-74.636255@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461297075,
     "wof:geomhash":"9a640a16b3c8be9bb25104ce7210ac01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477627,
+            "region_id":85688607,
+            "venue_id":639491341
+        }
+    ],
     "wof:id":639491341,
-    "wof:lastmodified":1466694554,
+    "wof:lastmodified":1492047158,
     "wof:name":"Associated Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

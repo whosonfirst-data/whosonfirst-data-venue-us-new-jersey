@@ -2,9 +2,14 @@
   "id": 655807097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4393 Route 130 S Burlington NJ 08016",
+    "addr:housenumber":"4393",
+    "addr:postcode":"08016",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8905,40.0561,-74.8905,40.0561",
     "geom:latitude":40.0561,
     "geom:longitude":-74.8905,
@@ -32,7 +37,10 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qIUXQMfyNhuY5Jlmf0qDV_40.056100_-74.890500@1303262275"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461321662,
     "wof:geomhash":"a1344b5a2fdd3ca876723accd2f664a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655807097
+        }
+    ],
     "wof:id":655807097,
-    "wof:lastmodified":1466687049,
+    "wof:lastmodified":1492070317,
     "wof:name":"Burlington Auto Park",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

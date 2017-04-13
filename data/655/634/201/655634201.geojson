@@ -2,9 +2,14 @@
   "id": 655634201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Willowbrook Mall Wayne NJ 07470",
+    "addr:housenumber":"1108",
+    "addr:postcode":"07470",
+    "addr:street":"Willowbrook Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.254978,40.889546,-74.254978,40.889546",
     "geom:latitude":40.889546,
     "geom:longitude":-74.254978,
@@ -27,7 +32,13 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OoukAP9sG9v5HwMRcT9Dt_40.889546_-74.254978@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314523,
     "wof:geomhash":"e86871d22fd557c1fa5652d5e877b620",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":655634201
+        }
+    ],
     "wof:id":655634201,
-    "wof:lastmodified":1466682122,
+    "wof:lastmodified":1492048185,
     "wof:name":"Epic Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655402575,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Mildred Ter Clark NJ 07066",
+    "addr:housenumber":"54",
+    "addr:postcode":"07066",
+    "addr:street":"Mildred Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.315647,40.614443,-74.315647,40.614443",
     "geom:latitude":40.614443,
     "geom:longitude":-74.315647,
@@ -27,7 +32,13 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QR3wpkqjWCzZbdGc0U5eX_40.614443_-74.315647@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304739,
     "wof:geomhash":"9d1884e99fce86a2bc881f5276befb77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655402575
+        }
+    ],
     "wof:id":655402575,
-    "wof:lastmodified":1466675603,
+    "wof:lastmodified":1492028571,
     "wof:name":"Crawford & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

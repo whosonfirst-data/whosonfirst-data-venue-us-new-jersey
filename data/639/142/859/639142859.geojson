@@ -2,9 +2,14 @@
   "id": 639142859,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 Monmouth Rd Jackson NJ 08527",
+    "addr:housenumber":"537",
+    "addr:postcode":"08527",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.420932,40.16242,-74.420932,40.16242",
     "geom:latitude":40.16242,
     "geom:longitude":-74.420932,
@@ -27,7 +32,12 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85826059,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SqCvBD62IJY4HfAkmAYkA_40.162420_-74.420932@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461288355,
     "wof:geomhash":"788631def2e43f4e8bc9fdd13b154e8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85826059,
+            "region_id":85688607,
+            "venue_id":639142859
+        }
+    ],
     "wof:id":639142859,
-    "wof:lastmodified":1466680208,
+    "wof:lastmodified":1492043910,
     "wof:name":"Levis Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

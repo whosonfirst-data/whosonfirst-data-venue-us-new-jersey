@@ -2,9 +2,14 @@
   "id": 638968825,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Mercer St Hightstown NJ 08520",
+    "addr:housenumber":"411",
+    "addr:postcode":"08520",
+    "addr:street":"Mercer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.535569,40.263515,-74.535569,40.263515",
     "geom:latitude":40.263515,
     "geom:longitude":-74.535569,
@@ -30,7 +35,14 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76edRejFCERNpWy61suT3H_40.263515_-74.535569@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461284425,
     "wof:geomhash":"d46e9b2b0ec22d347c6ec84c23eed614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":638968825
+        }
+    ],
     "wof:id":638968825,
-    "wof:lastmodified":1466691664,
+    "wof:lastmodified":1492042857,
     "wof:name":"VIC Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

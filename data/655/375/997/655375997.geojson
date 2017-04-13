@@ -2,9 +2,14 @@
   "id": 655375997,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 W Quackenbush Ave Dumont NJ 07628",
+    "addr:housenumber":"35",
+    "addr:postcode":"07628",
+    "addr:street":"W Quackenbush Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994863,40.938483,-73.994863,40.938483",
     "geom:latitude":40.938483,
     "geom:longitude":-73.994863,
@@ -24,7 +29,14 @@
     "sg:postcode":"07628",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cCD249G9To1FZyk89oJ9T_40.938483_-73.994863@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461303660,
     "wof:geomhash":"4a7638994b0dd8d04253c8c4168dcf62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655375997
+        }
+    ],
     "wof:id":655375997,
-    "wof:lastmodified":1466674943,
+    "wof:lastmodified":1492082123,
     "wof:name":"MSA Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

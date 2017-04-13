@@ -2,9 +2,14 @@
   "id": 639489487,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Carter Rd Haskell NJ 07420",
+    "addr:housenumber":"59",
+    "addr:postcode":"07420",
+    "addr:street":"Carter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.289085,41.035081,-74.289085,41.035081",
     "geom:latitude":41.035081,
     "geom:longitude":-74.289085,
@@ -30,7 +35,14 @@
         "biomedical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477877,
+        85633793,
+        85975469,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q8YbiFlOADoSHCUhyTkOm_41.035081_-74.289085@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461297009,
     "wof:geomhash":"1f0cbc4914a1f73b5caf684f0d7e3ef5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477877,
+            "locality_id":85975469,
+            "region_id":85688607,
+            "venue_id":639489487
+        }
+    ],
     "wof:id":639489487,
-    "wof:lastmodified":1466694491,
+    "wof:lastmodified":1492076295,
     "wof:name":"Point Industry Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

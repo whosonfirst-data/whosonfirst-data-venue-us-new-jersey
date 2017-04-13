@@ -2,9 +2,14 @@
   "id": 638786699,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Foothill Ln Oxford NJ 07863",
+    "addr:housenumber":"14",
+    "addr:postcode":"07863",
+    "addr:street":"Foothill Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.961287,40.833223,-74.961287,40.833223",
     "geom:latitude":40.833223,
     "geom:longitude":-74.961287,
@@ -27,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tp2tpT3Zqqw5mWMTLjUIt_40.833223_-74.961287@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461279945,
     "wof:geomhash":"66f59becc22fdacb4778147498dc51ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":638786699
+        }
+    ],
     "wof:id":638786699,
-    "wof:lastmodified":1466683880,
+    "wof:lastmodified":1492024137,
     "wof:name":"Old Stone School Hse Antq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639298577,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Ave C Bayonne NJ 07002",
+    "addr:housenumber":"445",
+    "addr:postcode":"07002",
+    "addr:street":"Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.122389,40.663013,-74.122389,40.663013",
     "geom:latitude":40.663013,
     "geom:longitude":-74.122389,
@@ -27,7 +32,14 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f0b9hu0h0MXtyNc5pdC06_40.663013_-74.122389@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291942,
     "wof:geomhash":"930bfb47b281636624791d5172079784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639298577
+        }
+    ],
     "wof:id":639298577,
-    "wof:lastmodified":1466691263,
+    "wof:lastmodified":1492055912,
     "wof:name":"Sicilian Citizens' Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

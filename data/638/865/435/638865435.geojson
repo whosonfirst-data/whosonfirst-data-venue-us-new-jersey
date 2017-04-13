@@ -2,9 +2,14 @@
   "id": 638865435,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 North Ave Garwood NJ 07027",
+    "addr:housenumber":"518",
+    "addr:postcode":"07027",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.332239,40.652299,-74.332239,40.652299",
     "geom:latitude":40.652299,
     "geom:longitude":-74.332239,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85892563,
+        102191575,
+        404478409,
         85633793,
-        85812765,
-        102085995
+        85975827,
+        102085995,
+        85688607,
+        85892559,
+        85812765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +53,26 @@
     "wof:geomhash":"4d831b8343f05d03b8c60198174f4f50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478409,
+            "locality_id":85975827,
+            "neighbourhood_id":85892563,
+            "region_id":85688607,
+            "venue_id":638865435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478409,
+            "locality_id":85975827,
+            "neighbourhood_id":85892559,
+            "region_id":85688607,
+            "venue_id":638865435
+        },
+        {
             "country_id":85633793,
             "county_id":102085995,
             "neighbourhood_id":85812765,
@@ -51,9 +81,9 @@
         }
     ],
     "wof:id":638865435,
-    "wof:lastmodified":1466689640,
+    "wof:lastmodified":1492071287,
     "wof:name":"LA Belle Cleaners & Tailors",
-    "wof:parent_id":85812765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

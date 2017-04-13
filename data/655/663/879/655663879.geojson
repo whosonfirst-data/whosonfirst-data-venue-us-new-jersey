@@ -2,9 +2,14 @@
   "id": 655663879,
   "type": "Feature",
   "properties": {
+    "addr:full":"634 Gorge Rd Cliffside Park NJ 07010",
+    "addr:housenumber":"634",
+    "addr:postcode":"07010",
+    "addr:street":"Gorge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987297,40.825401,-73.987297,40.825401",
     "geom:latitude":40.825401,
     "geom:longitude":-73.987297,
@@ -28,7 +33,14 @@
         "nightlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25AbzoSlPkpAhxsKiahJoI_40.824906_-73.987487@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315768,
     "wof:geomhash":"0b145ee7b3dc4df0e5d999330029330e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655663879
+        }
+    ],
     "wof:id":655663879,
-    "wof:lastmodified":1466683419,
+    "wof:lastmodified":1492070761,
     "wof:name":"Forum Garden Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

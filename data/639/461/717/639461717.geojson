@@ -2,9 +2,14 @@
   "id": 639461717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Lower Rd Linden NJ 07036",
+    "addr:housenumber":"1805",
+    "addr:postcode":"07036",
+    "addr:street":"Lower Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25553,40.607569,-74.25553,40.607569",
     "geom:latitude":40.607569,
     "geom:longitude":-74.25553,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.cooper-electric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59C0w3JD4PFMY2Mo13vVS9_40.607569_-74.255530@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461295868,
     "wof:geomhash":"e963200ba7becdabbc7874be3653ab64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":639461717
+        }
+    ],
     "wof:id":639461717,
-    "wof:lastmodified":1466693978,
+    "wof:lastmodified":1492049669,
     "wof:name":"Cooper Electric Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

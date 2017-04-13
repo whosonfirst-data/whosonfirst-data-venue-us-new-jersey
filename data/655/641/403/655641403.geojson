@@ -2,9 +2,14 @@
   "id": 655641403,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Deer Way Manalapan NJ 07726",
+    "addr:housenumber":"24",
+    "addr:postcode":"07726",
+    "addr:street":"Deer Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.352642,40.320317,-74.352642,40.320317",
     "geom:latitude":40.320317,
     "geom:longitude":-74.352642,
@@ -28,7 +33,13 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hfuWRioD4doDtHcHRqfMT_40.320317_-74.352642@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461314811,
     "wof:geomhash":"4556f361fc9acf36fc44554da12b5ce3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655641403
+        }
+    ],
     "wof:id":655641403,
-    "wof:lastmodified":1466682444,
+    "wof:lastmodified":1492041112,
     "wof:name":"Calton Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655791081,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Shoppers Ln Washington NJ 07882",
+    "addr:housenumber":"10",
+    "addr:postcode":"07882",
+    "addr:street":"Shoppers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.981201,40.759102,-74.981201,40.759102",
     "geom:latitude":40.759102,
     "geom:longitude":-74.981201,
@@ -27,7 +32,10 @@
         "performing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RqlxiV33OOeKbKuBT6ZX0_40.759102_-74.981201@1303262271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321022,
     "wof:geomhash":"b08f2393f8a7445f60ee4bff72d10d39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791081
+        }
+    ],
     "wof:id":655791081,
-    "wof:lastmodified":1466686541,
+    "wof:lastmodified":1492042048,
     "wof:name":"Rhythm and Dance",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

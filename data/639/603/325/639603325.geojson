@@ -2,9 +2,14 @@
   "id": 639603325,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Raven Rock Rd Stockton NJ 08559",
+    "addr:housenumber":"104",
+    "addr:postcode":"08559",
+    "addr:street":"Raven Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.007091,40.420461,-75.007091,40.420461",
     "geom:latitude":40.420461,
     "geom:longitude":-75.007091,
@@ -27,7 +32,13 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478163,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49XH8bPFm9OsqzPJDhNjnA_40.420461_-75.007091@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461301869,
     "wof:geomhash":"0fcae595af590f848bc8c948b6eeb73a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478163,
+            "region_id":85688607,
+            "venue_id":639603325
+        }
+    ],
     "wof:id":639603325,
-    "wof:lastmodified":1466697024,
+    "wof:lastmodified":1492057144,
     "wof:name":"Cahill Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

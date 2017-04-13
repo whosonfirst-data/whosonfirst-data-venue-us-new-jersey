@@ -2,9 +2,14 @@
   "id": 655608167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1029 Beach Dr Keyport NJ 07735",
+    "addr:housenumber":"1029",
+    "addr:postcode":"07735",
+    "addr:street":"Beach Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.209538,40.446011,-74.209538,40.446011",
     "geom:latitude":40.446011,
     "geom:longitude":-74.209538,
@@ -28,7 +33,14 @@
         "closed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        85976065,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20chyFnkMVUOkrLrxOWkQe_40.446011_-74.209538@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461313353,
     "wof:geomhash":"7fce1b2e54463e31fd16db0b7f81237a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "locality_id":85976065,
+            "region_id":85688607,
+            "venue_id":655608167
+        }
+    ],
     "wof:id":655608167,
-    "wof:lastmodified":1466681341,
+    "wof:lastmodified":1492051783,
     "wof:name":"G Assesment Katz Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

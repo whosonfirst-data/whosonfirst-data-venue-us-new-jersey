@@ -2,9 +2,14 @@
   "id": 639516815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1377 Rahway Ave Avenel NJ 07001",
+    "addr:housenumber":"1377",
+    "addr:postcode":"07001",
+    "addr:street":"Rahway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.266741,40.58663,-74.266741,40.58663",
     "geom:latitude":40.58663,
     "geom:longitude":-74.266741,
@@ -27,7 +32,15 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85817329,
+        102191575,
+        404478217,
+        85633793,
+        85976299,
+        102087417,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RTx3jPevabm6jBLs7BZ2k_40.586630_-74.266741@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461298152,
     "wof:geomhash":"b124d5e9c0cbd886008a27daf86783e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976299,
+            "neighbourhood_id":85817329,
+            "region_id":85688607,
+            "venue_id":639516815
+        }
+    ],
     "wof:id":639516815,
-    "wof:lastmodified":1466695102,
+    "wof:lastmodified":1492068932,
     "wof:name":"SBC Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639278675,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Paterson Ave West Paterson NJ 07424",
+    "addr:housenumber":"230",
+    "addr:postcode":"07424",
+    "addr:street":"Paterson Ave West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.223319,40.884234,-74.223319,40.884234",
     "geom:latitude":40.884234,
     "geom:longitude":-74.223319,
@@ -27,7 +32,13 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VnOtClOpnKtjSh1pNjlek_40.884234_-74.223319@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291515,
     "wof:geomhash":"69439c8fdccc4f4dc11ec4da26db886d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":639278675
+        }
+    ],
     "wof:id":639278675,
-    "wof:lastmodified":1466690857,
+    "wof:lastmodified":1492030621,
     "wof:name":"Promotional Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

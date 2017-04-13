@@ -2,9 +2,14 @@
   "id": 639021543,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Mount Laurel Rd Mt Laurel NJ 08054",
+    "addr:housenumber":"200",
+    "addr:postcode":"08054",
+    "addr:street":"Mount Laurel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.922056,39.955134,-74.922056,39.955134",
     "geom:latitude":39.955134,
     "geom:longitude":-74.922056,
@@ -28,7 +33,12 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85806173,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bz15qL49mnvmhaw9VDvxn_39.955134_-74.922056@1294171694"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461285580,
     "wof:geomhash":"0353a58abc1aabc9f03c1a6b9efe6231",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85806173,
+            "region_id":85688607,
+            "venue_id":639021543
+        }
+    ],
     "wof:id":639021543,
-    "wof:lastmodified":1466673618,
+    "wof:lastmodified":1492043100,
     "wof:name":"Shearon Environmental Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639019487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Meyers Rd Branchville NJ 07826",
+    "addr:housenumber":"1",
+    "addr:postcode":"07826",
+    "addr:street":"Meyers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.792198,41.243297,-74.792198,41.243297",
     "geom:latitude":41.243297,
     "geom:longitude":-74.792198,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527687,
+        85688607,
         85837111,
         102086779
     ],
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527687,
+            "venue_id":639019487
+        },
+        {
+            "country_id":85633793,
             "county_id":102086779,
             "neighbourhood_id":85837111,
             "region_id":85688607,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":639019487,
-    "wof:lastmodified":1466673541,
+    "wof:lastmodified":1492053290,
     "wof:name":"Scott Predmore",
-    "wof:parent_id":85837111,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

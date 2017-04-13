@@ -2,9 +2,14 @@
   "id": 639626631,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Ridge Rd Glen Rock NJ 07452",
+    "addr:housenumber":"89",
+    "addr:postcode":"07452",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.119829,40.961464,-74.119829,40.961464",
     "geom:latitude":40.961464,
     "geom:longitude":-74.119829,
@@ -28,7 +33,14 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477543,
+        85633793,
+        85975863,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QjYjlPCbtaEHp9sSphNmk_40.961464_-74.119829@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302772,
     "wof:geomhash":"befab647d9b7c1e125219da1cc918b29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477543,
+            "locality_id":85975863,
+            "region_id":85688607,
+            "venue_id":639626631
+        }
+    ],
     "wof:id":639626631,
-    "wof:lastmodified":1466697558,
+    "wof:lastmodified":1492081934,
     "wof:name":"Spectrum Consulting & Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

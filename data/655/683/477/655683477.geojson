@@ -2,9 +2,14 @@
   "id": 655683477,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Broadway Clark NJ 07066",
+    "addr:housenumber":"6",
+    "addr:postcode":"07066",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294197,40.6185,-74.294197,40.6185",
     "geom:latitude":40.6185,
     "geom:longitude":-74.294197,
@@ -30,7 +35,13 @@
         "space"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ytbcTtr4RJrhq9t6AMpMq_40.618562_-74.294525@1293134755"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461316567,
     "wof:geomhash":"bdef54ef42966442de2e570181c545c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655683477
+        }
+    ],
     "wof:id":655683477,
-    "wof:lastmodified":1466683836,
+    "wof:lastmodified":1492024148,
     "wof:name":"Vfw Clark Post No 7363",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

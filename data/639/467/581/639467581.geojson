@@ -2,9 +2,14 @@
   "id": 639467581,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 E Church St Bergenfield NJ 07621",
+    "addr:housenumber":"212",
+    "addr:postcode":"07621",
+    "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985695,40.930246,-73.985695,40.930246",
     "geom:latitude":40.930246,
     "geom:longitude":-73.985695,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477643,
+        85633793,
+        85975937,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O9jffeb6MlFc9x7LfMg60_40.930246_-73.985695@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461296093,
     "wof:geomhash":"c9f7b979641eb586d52ccb8c29c243b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477643,
+            "locality_id":85975937,
+            "region_id":85688607,
+            "venue_id":639467581
+        }
+    ],
     "wof:id":639467581,
-    "wof:lastmodified":1466694009,
+    "wof:lastmodified":1492048845,
     "wof:name":"Max Klingenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

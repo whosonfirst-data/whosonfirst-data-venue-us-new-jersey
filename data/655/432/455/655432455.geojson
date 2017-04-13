@@ -2,9 +2,14 @@
   "id": 655432455,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Co Rd 519 Belvidere NJ 07823",
+    "addr:housenumber":"77;519",
+    "addr:postcode":"07823",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.08578,40.792221,-75.08578,40.792221",
     "geom:latitude":40.792221,
     "geom:longitude":-75.08578,
@@ -29,7 +34,10 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kazBg7YekL7r5IFhnkt6A_40.792221_-75.085780@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461306004,
     "wof:geomhash":"41cc417be20c8e5c2a3353e026042ddd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527803,
+            "venue_id":655432455
+        }
+    ],
     "wof:id":655432455,
-    "wof:lastmodified":1466676371,
+    "wof:lastmodified":1492051439,
     "wof:name":"Belvidere Glass & Mirror",
     "wof:parent_id":420527803,
     "wof:placetype":"venue",

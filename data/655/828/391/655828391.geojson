@@ -2,9 +2,14 @@
   "id": 655828391,
   "type": "Feature",
   "properties": {
+    "addr:full":"1827 42nd St Pennsauken NJ 08110",
+    "addr:housenumber":"1827",
+    "addr:postcode":"08110",
+    "addr:street":"42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.073332,39.957507,-75.073332,39.957507",
     "geom:latitude":39.957507,
     "geom:longitude":-75.073332,
@@ -28,7 +33,14 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02nMfzSOE0eoS9K5P3vbfu_39.957507_-75.073332@1303262280"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461322582,
     "wof:geomhash":"3cdb95646abc521ab16c2d9727fc9048",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":655828391
+        }
+    ],
     "wof:id":655828391,
-    "wof:lastmodified":1466687653,
+    "wof:lastmodified":1492040335,
     "wof:name":"New Jeneration Performing Arts",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

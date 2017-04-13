@@ -2,9 +2,14 @@
   "id": 655787949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Upper Sarepta Rd Belvidere NJ 07823",
+    "addr:housenumber":"2",
+    "addr:postcode":"07823",
+    "addr:street":"Upper Sarepta Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.055199,40.8447,-75.055199,40.8447",
     "geom:latitude":40.8447,
     "geom:longitude":-75.055199,
@@ -72,7 +77,13 @@
     ],
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29hjsQCNGDDPdlVpgwqyhZ_40.844700_-75.055199@1303262270"
@@ -80,9 +91,18 @@
     "wof:country":"US",
     "wof:created":1461320892,
     "wof:geomhash":"5f323e2c8d433b4ec23725f61729e645",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":655787949
+        }
+    ],
     "wof:id":655787949,
-    "wof:lastmodified":1466686754,
+    "wof:lastmodified":1492048121,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

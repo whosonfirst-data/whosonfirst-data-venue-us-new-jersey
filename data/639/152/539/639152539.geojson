@@ -2,9 +2,14 @@
   "id": 639152539,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Main St Emerson NJ 07630",
+    "addr:housenumber":"133",
+    "addr:postcode":"07630",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.014598,40.974002,-74.014598,40.974002",
     "geom:latitude":40.974002,
     "geom:longitude":-74.014598,
@@ -24,7 +29,14 @@
     "sg:postcode":"07630",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BQGt1xYrI3zQExsOqezk7_40.974002_-74.014598@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288578,
     "wof:geomhash":"3cead66a72f0d1d6e7e6e3aa114fe97d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":639152539
+        }
+    ],
     "wof:id":639152539,
-    "wof:lastmodified":1466681756,
+    "wof:lastmodified":1492031379,
     "wof:name":"Emerson Board Of Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

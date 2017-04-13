@@ -2,9 +2,14 @@
   "id": 639498745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Parkway Ave Trenton NJ 08628",
+    "addr:housenumber":"1340",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804547,40.265039,-74.804547,40.265039",
     "geom:latitude":40.265039,
     "geom:longitude":-74.804547,
@@ -27,7 +32,10 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14NevYzE9OH4Uz7daQwPMG_40.265039_-74.804547@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461297357,
     "wof:geomhash":"a32ec2343f8ecae1db08bd3bb8eae993",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":639498745
+        }
+    ],
     "wof:id":639498745,
-    "wof:lastmodified":1466694816,
+    "wof:lastmodified":1492042236,
     "wof:name":"N J Dot Credit Union",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

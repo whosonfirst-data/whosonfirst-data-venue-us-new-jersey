@@ -2,9 +2,14 @@
   "id": 655626903,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Mine Rd Asbury NJ 08802",
+    "addr:housenumber":"405",
+    "addr:postcode":"08802",
+    "addr:street":"Mine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.014257,40.671062,-75.014257,40.671062",
     "geom:latitude":40.671062,
     "geom:longitude":-75.014257,
@@ -28,7 +33,10 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XLo9zHJnfajmI4dbo5V6r_40.671062_-75.014257@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461314192,
     "wof:geomhash":"0b561665d77109fae62b1849e915fdeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527783,
+            "venue_id":655626903
+        }
+    ],
     "wof:id":655626903,
-    "wof:lastmodified":1466682082,
+    "wof:lastmodified":1492023726,
     "wof:name":"Bethlehem Twp Treasurer",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

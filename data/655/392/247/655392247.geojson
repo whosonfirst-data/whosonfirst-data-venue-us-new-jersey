@@ -2,9 +2,14 @@
   "id": 655392247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2056 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2056",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.277999,40.71956,-74.277999,40.71956",
     "geom:latitude":40.71956,
     "geom:longitude":-74.277999,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0agLs1EMif6GC50BzQZenV_40.719560_-74.277999@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304309,
     "wof:geomhash":"a503d5b422c097b22c5624dbf4f66988",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":655392247
+        }
+    ],
     "wof:id":655392247,
-    "wof:lastmodified":1466675254,
+    "wof:lastmodified":1492051419,
     "wof:name":"Sybil's International Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

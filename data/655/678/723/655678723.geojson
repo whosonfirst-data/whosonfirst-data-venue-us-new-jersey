@@ -2,9 +2,14 @@
   "id": 655678723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1700",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.25695,40.712471,-74.25695,40.712471",
     "geom:latitude":40.712471,
     "geom:longitude":-74.25695,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"http://www.hollywoodflowersnj.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SeOQzZz59MdopMUoPS930_40.712865_-74.256141@1293134755"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461316364,
     "wof:geomhash":"941e04582827bb3ec5627d5f08c76d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":655678723
+        }
+    ],
     "wof:id":655678723,
-    "wof:lastmodified":1466683828,
+    "wof:lastmodified":1492086028,
     "wof:name":"Hollywood Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655540535,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Sheldon Dr Jackson NJ 08527",
+    "addr:housenumber":"5",
+    "addr:postcode":"08527",
+    "addr:street":"Sheldon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.383341,40.130005,-74.383341,40.130005",
     "geom:latitude":40.130005,
     "geom:longitude":-74.383341,
@@ -28,7 +33,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527427
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5spnSloXifxkxa5iVvDQjP_40.130005_-74.383341@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310446,
     "wof:geomhash":"68549d1cdf6ba7e2989c3914507e0a59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527427,
+            "venue_id":655540535
+        }
+    ],
     "wof:id":655540535,
-    "wof:lastmodified":1466679290,
+    "wof:lastmodified":1492045055,
     "wof:name":"Childrens Kingdom Inc",
     "wof:parent_id":420527427,
     "wof:placetype":"venue",

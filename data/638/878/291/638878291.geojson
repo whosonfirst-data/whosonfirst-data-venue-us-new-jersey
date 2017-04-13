@@ -2,9 +2,14 @@
   "id": 638878291,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Palmer Sq W Princeton NJ 08542",
+    "addr:housenumber":"37",
+    "addr:postcode":"08542",
+    "addr:street":"Palmer Sq W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.66174,40.350237,-74.66174,40.350237",
     "geom:latitude":40.350237,
     "geom:longitude":-74.66174,
@@ -27,7 +32,14 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lMpNjX75U38Lnf0OmrmHY_40.350237_-74.661740@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282155,
     "wof:geomhash":"8f6c5aeb51be9fb1c072dbb9357bc100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":638878291
+        }
+    ],
     "wof:id":638878291,
-    "wof:lastmodified":1466689610,
+    "wof:lastmodified":1492024024,
     "wof:name":"Learning Advantage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

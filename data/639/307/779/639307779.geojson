@@ -2,9 +2,14 @@
   "id": 639307779,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Co Rd 513 Glen Gardner NJ 08826",
+    "addr:housenumber":"201;513",
+    "addr:postcode":"08826",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.886848,40.69759,-74.886848,40.69759",
     "geom:latitude":40.69759,
     "geom:longitude":-74.886848,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85808433,
-        102085997
+        102085997,
+        420527123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,17 @@
             "neighbourhood_id":85808433,
             "region_id":85688607,
             "venue_id":639307779
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527123,
+            "venue_id":639307779
         }
     ],
     "wof:id":639307779,
-    "wof:lastmodified":1466691670,
+    "wof:lastmodified":1492056054,
     "wof:name":"Voorhees N Rsdential Group Ctr",
-    "wof:parent_id":85808433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655404095,
   "type": "Feature",
   "properties": {
+    "addr:full":"5715 Berkshire Valley Rd Oak Ridge NJ 07438",
+    "addr:housenumber":"5715",
+    "addr:postcode":"07438",
+    "addr:street":"Berkshire Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.507082,41.035169,-74.507082,41.035169",
     "geom:latitude":41.035169,
     "geom:longitude":-74.507082,
@@ -28,7 +33,13 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478317,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YA6Pjd5IV2Ky6Kox4xUpj_41.035169_-74.507082@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461304797,
     "wof:geomhash":"aadc61478dace7923fca7e563cc357f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478317,
+            "region_id":85688607,
+            "venue_id":655404095
+        }
+    ],
     "wof:id":655404095,
-    "wof:lastmodified":1466675484,
+    "wof:lastmodified":1492082040,
     "wof:name":"Falcon Auto Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

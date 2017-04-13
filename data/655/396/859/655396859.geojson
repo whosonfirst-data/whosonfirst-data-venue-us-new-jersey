@@ -2,9 +2,14 @@
   "id": 655396859,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Sunset Blvd Newton NJ 07860",
+    "addr:housenumber":"111",
+    "addr:postcode":"07860",
+    "addr:street":"W Sunset Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.767731,41.022827,-74.767731,41.022827",
     "geom:latitude":41.022827,
     "geom:longitude":-74.767731,
@@ -28,7 +33,13 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631,
+        85688607,
+        85803133,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vPysWtjgeN3zhxq37Yla8_41.022827_-74.767731@1294171694"
@@ -36,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461304495,
     "wof:geomhash":"8f50478a8a277fc3c582c8624322dc58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655396859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "neighbourhood_id":85803133,
+            "region_id":85688607,
+            "venue_id":655396859
+        }
+    ],
     "wof:id":655396859,
-    "wof:lastmodified":1466675431,
+    "wof:lastmodified":1492048131,
     "wof:name":"West Sunset Hm Improvement Inc",
-    "wof:parent_id":420527631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

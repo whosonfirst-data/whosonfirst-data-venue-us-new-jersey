@@ -2,9 +2,14 @@
   "id": 639593015,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Florence Dr Clark NJ 07066",
+    "addr:housenumber":"37",
+    "addr:postcode":"07066",
+    "addr:street":"Florence Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300589,40.631766,-74.300589,40.631766",
     "geom:latitude":40.631766,
     "geom:longitude":-74.300589,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j8ahtjC7CfaQuIya3eQUn_40.631766_-74.300589@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461301483,
     "wof:geomhash":"575dee1a4d0d08b2197cd9f9e0523861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639593015
+        }
+    ],
     "wof:id":639593015,
-    "wof:lastmodified":1466696708,
+    "wof:lastmodified":1492061287,
     "wof:name":"Babco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

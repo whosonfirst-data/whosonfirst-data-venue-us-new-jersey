@@ -2,9 +2,14 @@
   "id": 655596253,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Bergen Blvd Ridgefield NJ 07657",
+    "addr:housenumber":"725",
+    "addr:postcode":"07657",
+    "addr:street":"Bergen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991828,40.832248,-73.991828,40.832248",
     "geom:latitude":40.832248,
     "geom:longitude":-73.991828,
@@ -32,7 +37,14 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477715,
+        85633793,
+        85975943,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dQ9syzI5q3fnkpw6J7tQc_40.832248_-73.991828@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461312842,
     "wof:geomhash":"535779ae6ca1e839ac438d4a3bef691a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477715,
+            "locality_id":85975943,
+            "region_id":85688607,
+            "venue_id":655596253
+        }
+    ],
     "wof:id":655596253,
-    "wof:lastmodified":1466680793,
+    "wof:lastmodified":1492040386,
     "wof:name":"Amrick Galleries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

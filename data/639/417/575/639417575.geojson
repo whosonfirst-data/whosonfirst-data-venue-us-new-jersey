@@ -2,9 +2,14 @@
   "id": 639417575,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 State Rte 31 Pennington NJ 08534",
+    "addr:housenumber":"93",
+    "addr:postcode":"08534",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.79295,40.314938,-74.79295,40.314938",
     "geom:latitude":40.314938,
     "geom:longitude":-74.79295,
@@ -27,7 +32,13 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478253,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PpsVHKWZxaXdwmlngAMip_40.314938_-74.792950@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294651,
     "wof:geomhash":"fd46005ce644424a23b438d35e8ee7c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478253,
+            "region_id":85688607,
+            "venue_id":639417575
+        }
+    ],
     "wof:id":639417575,
-    "wof:lastmodified":1466693180,
+    "wof:lastmodified":1492051557,
     "wof:name":"All Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

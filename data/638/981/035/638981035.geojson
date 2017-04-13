@@ -2,9 +2,14 @@
   "id": 638981035,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Clinton Ave Plainfield NJ 07063",
+    "addr:housenumber":"262",
+    "addr:postcode":"07063",
+    "addr:street":"Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.444437,40.601148,-74.444437,40.601148",
     "geom:latitude":40.601148,
     "geom:longitude":-74.444437,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7klyzdKf1C1PrEFAhBF8sZ_40.601148_-74.444437@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284667,
     "wof:geomhash":"18eb6f6d51fcaff73d8afffe3070022a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":638981035
+        }
+    ],
     "wof:id":638981035,
-    "wof:lastmodified":1466691856,
+    "wof:lastmodified":1492027230,
     "wof:name":"All Liberty Car & Limo Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

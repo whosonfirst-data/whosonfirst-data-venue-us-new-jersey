@@ -2,9 +2,14 @@
   "id": 655590369,
   "type": "Feature",
   "properties": {
+    "addr:full":"784 Morris Ave Short Hills NJ 07078",
+    "addr:housenumber":"784",
+    "addr:postcode":"07078",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.332962,40.720639,-74.332962,40.720639",
     "geom:latitude":40.720639,
     "geom:longitude":-74.332962,
@@ -30,7 +35,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y47abMguaZlpO9UHZr4aN_40.720639_-74.332962@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461312610,
     "wof:geomhash":"13f01bca01da96687eb1b06c084c20c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655590369
+        }
+    ],
     "wof:id":655590369,
-    "wof:lastmodified":1466680668,
+    "wof:lastmodified":1492056784,
     "wof:name":"Mail Boxes Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

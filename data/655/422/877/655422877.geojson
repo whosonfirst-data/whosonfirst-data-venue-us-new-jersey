@@ -2,9 +2,14 @@
   "id": 655422877,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Co Rd 639 Bloomsbury NJ 08804",
+    "addr:housenumber":"304;639",
+    "addr:postcode":"08804",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.120155,40.651627,-75.120155,40.651627",
     "geom:latitude":40.651627,
     "geom:longitude":-75.120155,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B1ZTyIxOmBC5Wf3PwykJf_40.651627_-75.120155@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461305583,
     "wof:geomhash":"9559a06b4ccdba77de03125f89525aca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527777,
+            "venue_id":655422877
+        }
+    ],
     "wof:id":655422877,
-    "wof:lastmodified":1466676219,
+    "wof:lastmodified":1492055213,
     "wof:name":"Belco Instrument Co",
     "wof:parent_id":420527777,
     "wof:placetype":"venue",

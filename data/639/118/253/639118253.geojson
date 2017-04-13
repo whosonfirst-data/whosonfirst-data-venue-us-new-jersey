@@ -2,9 +2,14 @@
   "id": 639118253,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Sunset View Rd White House Station NJ 08889",
+    "addr:housenumber":"15",
+    "addr:postcode":"08889",
+    "addr:street":"Sunset View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.746398,40.559137,-74.746398,40.559137",
     "geom:latitude":40.559137,
     "geom:longitude":-74.746398,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jq10D8XH8H6OPJ4qao4rz_40.559137_-74.746398@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461287747,
     "wof:geomhash":"5b2fcb302ee12887cdc1553416d88b3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639118253
+        }
+    ],
     "wof:id":639118253,
-    "wof:lastmodified":1466676817,
+    "wof:lastmodified":1492030543,
     "wof:name":"Faic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

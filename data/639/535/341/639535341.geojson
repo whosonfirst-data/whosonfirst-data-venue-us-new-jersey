@@ -2,9 +2,14 @@
   "id": 639535341,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Sunset Ter Tenafly NJ 07670",
+    "addr:housenumber":"28",
+    "addr:postcode":"07670",
+    "addr:street":"Sunset Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.978875,40.930313,-73.978875,40.930313",
     "geom:latitude":40.930313,
     "geom:longitude":-73.978875,
@@ -28,7 +33,14 @@
         "orchestra"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JjA9OBIAWvsZDPqU4iYfG_40.930313_-73.978875@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299074,
     "wof:geomhash":"9123ecd2f27ac565ec74529c57631664",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":639535341
+        }
+    ],
     "wof:id":639535341,
-    "wof:lastmodified":1466695752,
+    "wof:lastmodified":1492041777,
     "wof:name":"Taylor Paul Gaglio Orchestra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

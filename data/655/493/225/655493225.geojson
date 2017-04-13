@@ -2,9 +2,14 @@
   "id": 655493225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 US Hwy 130 Riverside NJ 08075",
+    "addr:housenumber":"3002",
+    "addr:postcode":"08075",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.966401,40.00978,-74.966401,40.00978",
     "geom:latitude":40.00978,
     "geom:longitude":-74.966401,
@@ -27,7 +32,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dBuBLu7yQldoLOJBdcbyU_40.009780_-74.966401@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308548,
     "wof:geomhash":"9765b2d75cb82a5bb911fba476ffe1ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":655493225
+        }
+    ],
     "wof:id":655493225,
-    "wof:lastmodified":1466677884,
+    "wof:lastmodified":1492018663,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

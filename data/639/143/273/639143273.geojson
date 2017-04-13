@@ -2,9 +2,14 @@
   "id": 639143273,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Laird Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"230",
+    "addr:postcode":"07010",
+    "addr:street":"Laird Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.991761,40.812129,-73.991761,40.812129",
     "geom:latitude":40.812129,
     "geom:longitude":-73.991761,
@@ -27,7 +32,14 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PT4v3rEPoxbscr0t8ZLjD_40.812129_-73.991761@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288364,
     "wof:geomhash":"e11499acd36edf9763e4fa6a178fadb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":639143273
+        }
+    ],
     "wof:id":639143273,
-    "wof:lastmodified":1466680281,
+    "wof:lastmodified":1492067917,
     "wof:name":"Wayne Reith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

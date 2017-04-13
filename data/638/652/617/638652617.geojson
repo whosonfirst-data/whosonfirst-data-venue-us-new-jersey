@@ -2,9 +2,14 @@
   "id": 638652617,
   "type": "Feature",
   "properties": {
+    "addr:full":"842 Arnold Ave Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"842",
+    "addr:postcode":"08742",
+    "addr:street":"Arnold Ave Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.057155,40.091107,-74.057155,40.091107",
     "geom:latitude":40.091107,
     "geom:longitude":-74.057155,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EYbHEkCpPwGads23Y6OWH_40.091107_-74.057155@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275875,
     "wof:geomhash":"92329b94853498e22978b89707e7769f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638652617
+        }
+    ],
     "wof:id":638652617,
-    "wof:lastmodified":1466673904,
+    "wof:lastmodified":1492041214,
     "wof:name":"Robert A Wojciak DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

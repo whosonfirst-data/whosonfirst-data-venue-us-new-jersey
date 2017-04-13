@@ -2,9 +2,14 @@
   "id": 639560135,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Woodschurch Rd Flemington NJ 08822",
+    "addr:housenumber":"101",
+    "addr:postcode":"08822",
+    "addr:street":"W Woodschurch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.82985,40.557835,-74.82985,40.557835",
     "geom:latitude":40.557835,
     "geom:longitude":-74.82985,
@@ -24,7 +29,10 @@
     "sg:postcode":"08822",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SzjszaclmARjdTypIj9by_40.557835_-74.829850@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461300134,
     "wof:geomhash":"0daea8fa662de72cd376cb91e22947b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":639560135
+        }
+    ],
     "wof:id":639560135,
-    "wof:lastmodified":1466695906,
+    "wof:lastmodified":1492025382,
     "wof:name":"Schaefer Farm",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

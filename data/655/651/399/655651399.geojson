@@ -2,9 +2,14 @@
   "id": 655651399,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Broad St Branchville NJ 07826",
+    "addr:housenumber":"10",
+    "addr:postcode":"07826",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751025,41.14635,-74.751025,41.14635",
     "geom:latitude":41.14635,
     "geom:longitude":-74.751025,
@@ -27,7 +32,10 @@
         "supermarket"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Azs6JqYHDt9WnUjEDPo8L_41.146350_-74.751025@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461315231,
     "wof:geomhash":"75f9d9933bf8ee41565fb91bfc70f0ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527639,
+            "venue_id":655651399
+        }
+    ],
     "wof:id":655651399,
-    "wof:lastmodified":1466682822,
+    "wof:lastmodified":1492048139,
     "wof:name":"Belchers Village Market",
     "wof:parent_id":420527639,
     "wof:placetype":"venue",

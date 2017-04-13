@@ -2,9 +2,14 @@
   "id": 639224089,
   "type": "Feature",
   "properties": {
+    "addr:full":"799 Blanche Ave Norwood NJ 07648",
+    "addr:housenumber":"799",
+    "addr:postcode":"07648",
+    "addr:street":"Blanche Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.96309,40.989912,-73.96309,40.989912",
     "geom:latitude":40.989912,
     "geom:longitude":-73.96309,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hzMyJBrOjvtl5a7eKhGDz_40.989912_-73.963090@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290233,
     "wof:geomhash":"161cb9973478fd34a7b55c803fa738b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":639224089
+        }
+    ],
     "wof:id":639224089,
-    "wof:lastmodified":1466689643,
+    "wof:lastmodified":1492075576,
     "wof:name":"William Falkenstern Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

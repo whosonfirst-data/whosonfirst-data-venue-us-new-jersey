@@ -2,9 +2,14 @@
   "id": 655624631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1509",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.260204,40.707236,-74.260204,40.707236",
     "geom:latitude":40.707236,
     "geom:longitude":-74.260204,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20Ok24ns3zwwe4rzxIRSat_40.707236_-74.260204@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461314091,
     "wof:geomhash":"26af2017803381216b02421eb0c4b217",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655624631
+        }
+    ],
     "wof:id":655624631,
-    "wof:lastmodified":1466681930,
+    "wof:lastmodified":1492027826,
     "wof:name":"Veterans Legal Resource Cmmsn",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

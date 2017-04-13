@@ -2,9 +2,14 @@
   "id": 655363081,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Church St Bloomsbury NJ 08804",
+    "addr:housenumber":"29",
+    "addr:postcode":"08804",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.088514,40.655034,-75.088514,40.655034",
     "geom:latitude":40.655034,
     "geom:longitude":-75.088514,
@@ -27,7 +32,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478155,
+        85633793,
+        85975703,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29vrDBMIAoV5Km9CDgtxD2_40.655034_-75.088514@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303144,
     "wof:geomhash":"9b519e620fe51c5f3b4d571ec86d7816",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478155,
+            "locality_id":85975703,
+            "region_id":85688607,
+            "venue_id":655363081
+        }
+    ],
     "wof:id":655363081,
-    "wof:lastmodified":1466674415,
+    "wof:lastmodified":1492053927,
     "wof:name":"Vegga Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

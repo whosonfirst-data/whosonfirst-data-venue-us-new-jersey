@@ -2,9 +2,14 @@
   "id": 639081123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1057 Sanford Ave Irvington NJ 07111",
+    "addr:housenumber":"1057",
+    "addr:postcode":"07111",
+    "addr:street":"Sanford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241348,40.726907,-74.241348,40.726907",
     "geom:latitude":40.726907,
     "geom:longitude":-74.241348,
@@ -29,7 +34,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KdKFaXBTiARzkpkQqkHop_40.726907_-74.241348@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461286941,
     "wof:geomhash":"ab7f750d80d5f8b121630c6d2c849fb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639081123
+        }
+    ],
     "wof:id":639081123,
-    "wof:lastmodified":1466688589,
+    "wof:lastmodified":1492041588,
     "wof:name":"Metroplitan Cardiovascular Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

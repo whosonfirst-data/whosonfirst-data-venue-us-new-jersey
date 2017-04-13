@@ -2,9 +2,14 @@
   "id": 639301649,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Hanover St Pemberton NJ 08068",
+    "addr:housenumber":"90",
+    "addr:postcode":"08068",
+    "addr:street":"Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.682206,39.973946,-74.682206,39.973946",
     "geom:latitude":39.973946,
     "geom:longitude":-74.682206,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ByQiocBNxZ62MyUomB4GK_39.973946_-74.682206@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292001,
     "wof:geomhash":"3554bbb7bdd4640c3b8f7918f9600bb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":639301649
+        }
+    ],
     "wof:id":639301649,
-    "wof:lastmodified":1466691264,
+    "wof:lastmodified":1492047348,
     "wof:name":"Albert M Yohannan DDS",
     "wof:parent_id":420526589,
     "wof:placetype":"venue",

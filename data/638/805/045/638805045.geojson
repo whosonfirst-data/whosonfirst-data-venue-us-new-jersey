@@ -2,9 +2,14 @@
   "id": 638805045,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 US Hwy 130 Bordentown NJ 08505",
+    "addr:housenumber":"240",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.705511,40.14056,-74.705511,40.14056",
     "geom:latitude":40.14056,
     "geom:longitude":-74.705511,
@@ -27,7 +32,10 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SVHmV5ADBFLNXiW9gBvDN_40.140560_-74.705511@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280336,
     "wof:geomhash":"8e15ca267744662c0234b7726b0bf652",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638805045
+        }
+    ],
     "wof:id":638805045,
-    "wof:lastmodified":1466686238,
+    "wof:lastmodified":1492043902,
     "wof:name":"Haines Towing Svc",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

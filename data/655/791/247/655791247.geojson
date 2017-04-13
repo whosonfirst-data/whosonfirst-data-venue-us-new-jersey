@@ -2,9 +2,14 @@
   "id": 655791247,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Washburn Ave Washington NJ 07882",
+    "addr:housenumber":"403",
+    "addr:postcode":"07882",
+    "addr:street":"Washburn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.96174,40.758925,-74.96174,40.758925",
     "geom:latitude":40.758925,
     "geom:longitude":-74.96174,
@@ -49,7 +54,10 @@
     ],
     "sg:website":"http://www.windowdresser.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tCWfNlFx3QSjuUst1yn2s_40.758925_-74.961740@1303262271"
@@ -57,9 +65,15 @@
     "wof:country":"US",
     "wof:created":1461321027,
     "wof:geomhash":"4ce82ac9f5708e700d390e962c1fec0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791247
+        }
+    ],
     "wof:id":655791247,
-    "wof:lastmodified":1466686585,
+    "wof:lastmodified":1492076795,
     "wof:name":"The Window Dresser",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

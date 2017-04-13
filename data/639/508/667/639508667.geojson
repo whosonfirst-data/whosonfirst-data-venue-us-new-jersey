@@ -2,9 +2,14 @@
   "id": 639508667,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Paris Ave Northvale NJ 07647",
+    "addr:housenumber":"116",
+    "addr:postcode":"07647",
+    "addr:street":"Paris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.952193,41.007863,-73.952193,41.007863",
     "geom:latitude":41.007863,
     "geom:longitude":-73.952193,
@@ -27,7 +32,14 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z7bQML22E2D9uoY437krh_41.007863_-73.952193@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297788,
     "wof:geomhash":"2cb19db9b21040443db449fde940711c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639508667
+        }
+    ],
     "wof:id":639508667,
-    "wof:lastmodified":1466694921,
+    "wof:lastmodified":1492041712,
     "wof:name":"J F McGuire Memorial Senior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

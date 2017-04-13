@@ -2,9 +2,14 @@
   "id": 655609321,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Rick Rd Milford NJ 08848",
+    "addr:housenumber":"133",
+    "addr:postcode":"08848",
+    "addr:street":"Rick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.037056,40.589328,-75.037056,40.589328",
     "geom:latitude":40.589328,
     "geom:longitude":-75.037056,
@@ -27,7 +32,10 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iGb2xBRm11OqnZ1neH3be_40.589328_-75.037056@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313397,
     "wof:geomhash":"f9cffed8a1d936ce68d32f42ca8e82c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527041,
+            "venue_id":655609321
+        }
+    ],
     "wof:id":655609321,
-    "wof:lastmodified":1466681403,
+    "wof:lastmodified":1492040965,
     "wof:name":"Ombalski Consulting & Engrs",
     "wof:parent_id":420527041,
     "wof:placetype":"venue",

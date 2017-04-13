@@ -2,9 +2,14 @@
   "id": 639527381,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Avenue E Bayonne NJ 07002",
+    "addr:housenumber":"311",
+    "addr:postcode":"07002",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114877,40.66404,-74.114877,40.66404",
     "geom:latitude":40.66404,
     "geom:longitude":-74.114877,
@@ -24,7 +29,14 @@
     "sg:postcode":"07002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bqg1yGfaJLujwHlv9bSdf_40.664040_-74.114877@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298713,
     "wof:geomhash":"0ecc88771088666e923191169cf82d32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639527381
+        }
+    ],
     "wof:id":639527381,
-    "wof:lastmodified":1466695377,
+    "wof:lastmodified":1492045583,
     "wof:name":"Bayonne School 14",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

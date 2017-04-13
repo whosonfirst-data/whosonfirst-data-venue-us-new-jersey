@@ -2,9 +2,14 @@
   "id": 639365469,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Elm St North Arlington NJ 07031",
+    "addr:housenumber":"62",
+    "addr:postcode":"07031",
+    "addr:street":"Elm St North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130234,40.780447,-74.130234,40.780447",
     "geom:latitude":40.780447,
     "geom:longitude":-74.130234,
@@ -27,7 +32,14 @@
         "spanish"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iBHCmC11cYc1NdtejKFI5_40.780447_-74.130234@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293340,
     "wof:geomhash":"1fb87056801476431b745bcc471e4574",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":639365469
+        }
+    ],
     "wof:id":639365469,
-    "wof:lastmodified":1466692592,
+    "wof:lastmodified":1492051821,
     "wof:name":"Lous Barcelona Rest & Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

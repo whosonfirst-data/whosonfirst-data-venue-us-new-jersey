@@ -2,9 +2,14 @@
   "id": 639522745,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Godwin Ave Midland Park NJ 07432",
+    "addr:housenumber":"118",
+    "addr:postcode":"07432",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.139069,40.985757,-74.139069,40.985757",
     "geom:latitude":40.985757,
     "geom:longitude":-74.139069,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477295,
+        85633793,
+        85975975,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mORdUcROV8gQDnsjqPn03_40.985757_-74.139069@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461298438,
     "wof:geomhash":"b853b478b146957963511bebddd6eeeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477295,
+            "locality_id":85975975,
+            "region_id":85688607,
+            "venue_id":639522745
+        }
+    ],
     "wof:id":639522745,
-    "wof:lastmodified":1466695219,
+    "wof:lastmodified":1492028011,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

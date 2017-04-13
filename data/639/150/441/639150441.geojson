@@ -2,9 +2,14 @@
   "id": 639150441,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Ferry Ln Toms River NJ 08753",
+    "addr:housenumber":"37",
+    "addr:postcode":"08753",
+    "addr:street":"Ferry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.116817,39.966074,-74.116817,39.966074",
     "geom:latitude":39.966074,
     "geom:longitude":-74.116817,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.inletcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CpjtTIkRFWLlKnSNzVNBv_39.966074_-74.116817@1294171694"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461288531,
     "wof:geomhash":"48784d1f6736fddf9693477645044611",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527391,
+            "venue_id":639150441
+        }
+    ],
     "wof:id":639150441,
-    "wof:lastmodified":1466681409,
+    "wof:lastmodified":1492069458,
     "wof:name":"Inlet Corp",
     "wof:parent_id":420527391,
     "wof:placetype":"venue",

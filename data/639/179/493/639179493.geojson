@@ -2,9 +2,14 @@
   "id": 639179493,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 State Rte 183 Stanhope NJ 07874",
+    "addr:housenumber":"133",
+    "addr:postcode":"07874",
+    "addr:street":"State Rte 183",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.712772,40.910769,-74.712772,40.910769",
     "geom:latitude":40.910769,
     "geom:longitude":-74.712772,
@@ -27,7 +32,14 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477579,
+        85633793,
+        85975707,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CFUB95cBAu9rNVEYhMDDW_40.910769_-74.712772@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289179,
     "wof:geomhash":"c179fb3231a028aec3b7571a753db4d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404477579,
+            "locality_id":85975707,
+            "region_id":85688607,
+            "venue_id":639179493
+        }
+    ],
     "wof:id":639179493,
-    "wof:lastmodified":1466685744,
+    "wof:lastmodified":1492050650,
     "wof:name":"Jim Holly Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

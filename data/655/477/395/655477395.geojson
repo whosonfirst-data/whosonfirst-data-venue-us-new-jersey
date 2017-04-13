@@ -2,9 +2,14 @@
   "id": 655477395,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 Tuckerton Rd Vincentown NJ 08088",
+    "addr:housenumber":"351",
+    "addr:postcode":"08088",
+    "addr:street":"Tuckerton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.715,39.81261,-74.715,39.81261",
     "geom:latitude":39.81261,
     "geom:longitude":-74.715,
@@ -28,7 +33,8 @@
         85688607,
         85633793,
         85839773,
-        102087415
+        102087415,
+        85806961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +50,19 @@
             "neighbourhood_id":85839773,
             "region_id":85688607,
             "venue_id":655477395
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85806961,
+            "region_id":85688607,
+            "venue_id":655477395
         }
     ],
     "wof:id":655477395,
-    "wof:lastmodified":1466677583,
+    "wof:lastmodified":1492024303,
     "wof:name":"David Matchett",
-    "wof:parent_id":85839773,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

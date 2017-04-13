@@ -2,9 +2,14 @@
   "id": 639239471,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Hospital Rd Franklin NJ 07416",
+    "addr:housenumber":"19",
+    "addr:postcode":"07416",
+    "addr:street":"Hospital Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.586702,41.111101,-74.586702,41.111101",
     "geom:latitude":41.111101,
     "geom:longitude":-74.586702,
@@ -34,7 +39,9 @@
         85633793,
         85975709,
         102086779,
-        85688607
+        85688607,
+        85975719,
+        85823953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,20 @@
             "neighbourhood_id":85849915,
             "region_id":85688607,
             "venue_id":639239471
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
+            "locality_id":85975719,
+            "neighbourhood_id":85823953,
+            "region_id":85688607,
+            "venue_id":639239471
         }
     ],
     "wof:id":639239471,
-    "wof:lastmodified":1466690031,
+    "wof:lastmodified":1492054527,
     "wof:name":"Family Health Center",
-    "wof:parent_id":85849915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

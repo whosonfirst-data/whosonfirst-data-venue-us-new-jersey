@@ -2,9 +2,14 @@
   "id": 638897709,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 State Rte 70 Lakewood NJ 08701",
+    "addr:housenumber":"1255",
+    "addr:postcode":"08701",
+    "addr:street":"State Rte 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172337,40.05405,-74.172337,40.05405",
     "geom:latitude":40.05405,
     "geom:longitude":-74.172337,
@@ -29,10 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420527315,
         85830241,
         102191575,
         404477773,
-        85633793,
         85976331,
         102081485,
         85688607
@@ -46,6 +52,11 @@
     "wof:geomhash":"ee826230011fe1ef3d9bb7d5e42e3743",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":638897709
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081485,
@@ -57,9 +68,9 @@
         }
     ],
     "wof:id":638897709,
-    "wof:lastmodified":1466690141,
+    "wof:lastmodified":1492020997,
     "wof:name":"Regional Prenatal Consortium O",
-    "wof:parent_id":85830241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

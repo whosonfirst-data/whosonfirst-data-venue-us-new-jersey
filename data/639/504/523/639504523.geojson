@@ -2,9 +2,14 @@
   "id": 639504523,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Chapel View Dr Flemington NJ 08822",
+    "addr:housenumber":"3",
+    "addr:postcode":"08822",
+    "addr:street":"Chapel View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.868788,40.546598,-74.868788,40.546598",
     "geom:latitude":40.546598,
     "geom:longitude":-74.868788,
@@ -30,7 +35,10 @@
         "show"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oa3s7mnOmHe29bQ8U09Q3_40.546598_-74.868788@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461297606,
     "wof:geomhash":"3308f82461943bc44f10362bac39dd4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527053,
+            "venue_id":639504523
+        }
+    ],
     "wof:id":639504523,
-    "wof:lastmodified":1466694764,
+    "wof:lastmodified":1492053552,
     "wof:name":"Professional Show Svc",
     "wof:parent_id":420527053,
     "wof:placetype":"venue",

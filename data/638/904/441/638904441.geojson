@@ -2,9 +2,14 @@
   "id": 638904441,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Pine St Closter NJ 07624",
+    "addr:housenumber":"130",
+    "addr:postcode":"07624",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.97461,40.970993,-73.97461,40.970993",
     "geom:latitude":40.970993,
     "geom:longitude":-73.97461,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jZKqj7id6JtxPeLKMCi4B_40.970993_-73.974610@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461282863,
     "wof:geomhash":"ccb15dd1aae76a9c1c701acda870a798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":638904441
+        }
+    ],
     "wof:id":638904441,
-    "wof:lastmodified":1466690175,
+    "wof:lastmodified":1492024288,
     "wof:name":"Lighting By Gregory Upper S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

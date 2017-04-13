@@ -2,9 +2,14 @@
   "id": 655386871,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Broad St Hightstown NJ 08520",
+    "addr:housenumber":"157",
+    "addr:postcode":"08520",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.520444,40.271246,-74.520444,40.271246",
     "geom:latitude":40.271246,
     "geom:longitude":-74.520444,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TzZ7FMkoCESlqEr7qereo_40.271246_-74.520444@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304067,
     "wof:geomhash":"cf6a1cb09193334b9293a7a78e154e95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":655386871
+        }
+    ],
     "wof:id":655386871,
-    "wof:lastmodified":1466675173,
+    "wof:lastmodified":1492050936,
     "wof:name":"Precision Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

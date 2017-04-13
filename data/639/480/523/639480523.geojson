@@ -2,9 +2,14 @@
   "id": 639480523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Mercedes Dr Montvale NJ 07645",
+    "addr:housenumber":"1",
+    "addr:postcode":"07645",
+    "addr:street":"Mercedes Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.062249,41.05329,-74.062249,41.05329",
     "geom:latitude":41.05329,
     "geom:longitude":-74.062249,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.mbusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477691,
+        85633793,
+        85975973,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Vq4Cnj0lCUUnR8S3VFlDc_41.053290_-74.062249@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461296631,
     "wof:geomhash":"82c766ac8069e0d947265b8baef4aab3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477691,
+            "locality_id":85975973,
+            "region_id":85688607,
+            "venue_id":639480523
+        }
+    ],
     "wof:id":639480523,
-    "wof:lastmodified":1466694337,
+    "wof:lastmodified":1492042344,
     "wof:name":"Mercedes-Benz USA LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639214085,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Hazel St Harrington Park NJ 07640",
+    "addr:housenumber":"16",
+    "addr:postcode":"07640",
+    "addr:street":"Hazel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.986144,40.990041,-73.986144,40.990041",
     "geom:latitude":40.990041,
     "geom:longitude":-73.986144,
@@ -30,7 +35,14 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Adz1eB2a93CNIAEQu8b18_40.990041_-73.986144@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461290003,
     "wof:geomhash":"ee1815c2956c426f3191362419916f9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":639214085
+        }
+    ],
     "wof:id":639214085,
-    "wof:lastmodified":1466689427,
+    "wof:lastmodified":1492075812,
     "wof:name":"Nelson Roofing & Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

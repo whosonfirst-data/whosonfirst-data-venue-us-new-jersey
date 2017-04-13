@@ -2,9 +2,14 @@
   "id": 655501515,
   "type": "Feature",
   "properties": {
+    "addr:full":"544 E 2nd St Plainfield NJ 07060",
+    "addr:housenumber":"544",
+    "addr:postcode":"07060",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.414436,40.62628,-74.414436,40.62628",
     "geom:latitude":40.62628,
     "geom:longitude":-74.414436,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ASEWIMhouoLHJulFXijbD_40.626280_-74.414436@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308913,
     "wof:geomhash":"240e2f7723dabded6c6c6864a3b697bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":655501515
+        }
+    ],
     "wof:id":655501515,
-    "wof:lastmodified":1466678215,
+    "wof:lastmodified":1492028434,
     "wof:name":"S & S Merchandise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

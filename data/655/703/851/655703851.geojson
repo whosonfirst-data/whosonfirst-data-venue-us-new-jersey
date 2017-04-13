@@ -2,9 +2,14 @@
   "id": 655703851,
   "type": "Feature",
   "properties": {
+    "addr:full":"495 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"495",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.990997,40.821499,-73.990997,40.821499",
     "geom:latitude":40.821499,
     "geom:longitude":-73.990997,
@@ -27,7 +32,14 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477535,
+        85633793,
+        85975871,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F2BcHyrkqpMlbAmPrkwr3_40.821499_-73.990997@1303262249"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317530,
     "wof:geomhash":"658277e878513199cae41b6853356227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477535,
+            "locality_id":85975871,
+            "region_id":85688607,
+            "venue_id":655703851
+        }
+    ],
     "wof:id":655703851,
-    "wof:lastmodified":1466684457,
+    "wof:lastmodified":1492070840,
     "wof:name":"MacAgna Anthony S Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

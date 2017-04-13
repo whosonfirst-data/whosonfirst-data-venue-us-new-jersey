@@ -2,9 +2,14 @@
   "id": 655612593,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Kinderkamack Rd Emerson NJ 07630",
+    "addr:housenumber":"99",
+    "addr:postcode":"07630",
+    "addr:street":"Kinderkamack Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.028515,40.972724,-74.028515,40.972724",
     "geom:latitude":40.972724,
     "geom:longitude":-74.028515,
@@ -29,7 +34,14 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477529,
+        85633793,
+        85975881,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77R1SFRCAVGjwxulNOosG4_40.972724_-74.028515@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313539,
     "wof:geomhash":"63cbb4d8d1e26c7bf6d861ac571776d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477529,
+            "locality_id":85975881,
+            "region_id":85688607,
+            "venue_id":655612593
+        }
+    ],
     "wof:id":655612593,
-    "wof:lastmodified":1466681587,
+    "wof:lastmodified":1492038146,
     "wof:name":"Affordable Senior Adult Rsrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

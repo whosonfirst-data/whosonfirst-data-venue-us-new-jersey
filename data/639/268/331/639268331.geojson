@@ -2,9 +2,14 @@
   "id": 639268331,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Magnolia Ave Tenafly NJ 07670",
+    "addr:housenumber":"163",
+    "addr:postcode":"07670",
+    "addr:street":"Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.958901,40.93086,-73.958901,40.93086",
     "geom:latitude":40.93086,
     "geom:longitude":-73.958901,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OEvL9fKHxg2XqUwcwvMbL_40.930860_-73.958901@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461291243,
     "wof:geomhash":"fa42b8c5c625b6b4a87b2ce5e7d7715a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":639268331
+        }
+    ],
     "wof:id":639268331,
-    "wof:lastmodified":1466690640,
+    "wof:lastmodified":1492044085,
     "wof:name":"Generation Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639310865,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 US Hwy 130 Riverside NJ 08075",
+    "addr:housenumber":"3025",
+    "addr:postcode":"08075",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.96421,40.011148,-74.96421,40.011148",
     "geom:latitude":40.011148,
     "geom:longitude":-74.96421,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5geQNYV7h502DrTf4gl79Z_40.011148_-74.964210@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461292189,
     "wof:geomhash":"879e359eb6ea41a175057330c2b2cdc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526595,
+            "venue_id":639310865
+        }
+    ],
     "wof:id":639310865,
-    "wof:lastmodified":1466691728,
+    "wof:lastmodified":1492051803,
     "wof:name":"Golden Fountain",
     "wof:parent_id":420526595,
     "wof:placetype":"venue",

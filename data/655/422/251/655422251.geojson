@@ -2,9 +2,14 @@
   "id": 655422251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 Stanley Ter Union NJ 07083",
+    "addr:housenumber":"2150",
+    "addr:postcode":"07083",
+    "addr:street":"Stanley Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264232,40.712235,-74.264232,40.712235",
     "geom:latitude":40.712235,
     "geom:longitude":-74.264232,
@@ -24,7 +29,10 @@
     "sg:postcode":"07083",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lDS2bO4AhvxIPB7WZMRBP_40.712235_-74.264232@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461305560,
     "wof:geomhash":"ab7f42803219d531788c660e4869c565",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":655422251
+        }
+    ],
     "wof:id":655422251,
-    "wof:lastmodified":1466676052,
+    "wof:lastmodified":1492017000,
     "wof:name":"First Vehicle Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

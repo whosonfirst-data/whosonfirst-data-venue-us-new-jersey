@@ -2,9 +2,14 @@
   "id": 655655473,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Jackson Ave Wayne NJ 07470",
+    "addr:housenumber":"23",
+    "addr:postcode":"07470",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.265705,40.964765,-74.265705,40.964765",
     "geom:latitude":40.964765,
     "geom:longitude":-74.265705,
@@ -28,7 +33,10 @@
         "therapeutic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VVd0IXPPtX5W0BXa2nGbj_40.964765_-74.265705@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461315406,
     "wof:geomhash":"575cd3c65b7131ab8490a303e5985598",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655655473
+        }
+    ],
     "wof:id":655655473,
-    "wof:lastmodified":1466683002,
+    "wof:lastmodified":1492058414,
     "wof:name":"Andrea Daly Massage Therapist",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

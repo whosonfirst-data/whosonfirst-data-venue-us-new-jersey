@@ -2,9 +2,14 @@
   "id": 655457417,
   "type": "Feature",
   "properties": {
+    "addr:full":"665 Chancellor Ave Irvington NJ 07111",
+    "addr:housenumber":"665",
+    "addr:postcode":"07111",
+    "addr:street":"Chancellor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23522,40.714497,-74.23522,40.714497",
     "geom:latitude":40.714497,
     "geom:longitude":-74.23522,
@@ -27,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mUCcpvMwMxgBqQ5HdVDz0_40.714497_-74.235220@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461307046,
     "wof:geomhash":"1f31063044327b7097c34655acbb7371",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655457417
+        }
+    ],
     "wof:id":655457417,
-    "wof:lastmodified":1466677061,
+    "wof:lastmodified":1492036460,
     "wof:name":"Diamond Bbby Cmplete Auto Repr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

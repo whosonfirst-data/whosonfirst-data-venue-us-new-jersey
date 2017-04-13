@@ -2,9 +2,14 @@
   "id": 639516093,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Overlook Pl Mahwah NJ 07430",
+    "addr:housenumber":"202",
+    "addr:postcode":"07430",
+    "addr:street":"Overlook Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.134009,41.086518,-74.134009,41.086518",
     "geom:latitude":41.086518,
     "geom:longitude":-74.134009,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vdAW4UtS3Jw7WyK6815o8_41.086518_-74.134009@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461298119,
     "wof:geomhash":"38bdf93a3af1266b7b24532912ebafb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639516093
+        }
+    ],
     "wof:id":639516093,
-    "wof:lastmodified":1466694968,
+    "wof:lastmodified":1492042294,
     "wof:name":"Devine Electrical Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639088301,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 Lewistown Rd Juliustown NJ 08042",
+    "addr:housenumber":"434",
+    "addr:postcode":"08042",
+    "addr:street":"Lewistown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658868,40.011717,-74.658868,40.011717",
     "geom:latitude":40.011717,
     "geom:longitude":-74.658868,
@@ -29,7 +34,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85803603,
+        102087415,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j9n6vxVsWa7hhrKtB1IfQ_40.011717_-74.658868@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461287110,
     "wof:geomhash":"9f4b907eaf6bc3a12597a373bdd62b42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85803603,
+            "region_id":85688607,
+            "venue_id":639088301
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639088301
+        }
+    ],
     "wof:id":639088301,
-    "wof:lastmodified":1466688770,
+    "wof:lastmodified":1492085217,
     "wof:name":"M & M Screw Machine Prod Co",
-    "wof:parent_id":420526663,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

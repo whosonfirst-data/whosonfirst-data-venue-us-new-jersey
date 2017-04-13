@@ -2,9 +2,14 @@
   "id": 655683505,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"620",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.23951,40.703856,-74.23951,40.703856",
     "geom:latitude":40.703856,
     "geom:longitude":-74.23951,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.cinnabon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yzdIJaluGhJVlM64py6e3_40.703984_-74.239448@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461316568,
     "wof:geomhash":"9984854d0fb4c8a890f0a111c54429cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655683505
+        }
+    ],
     "wof:id":655683505,
-    "wof:lastmodified":1466683843,
+    "wof:lastmodified":1492039789,
     "wof:name":"Cinnabon",
     "wof:parent_id":420527725,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638954465,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 Finchley Dr Brick NJ 08723",
+    "addr:housenumber":"499",
+    "addr:postcode":"08723",
+    "addr:street":"Finchley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.111293,40.028911,-74.111293,40.028911",
     "geom:latitude":40.028911,
     "geom:longitude":-74.111293,
@@ -34,7 +39,10 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rbIBjOgZJVfCLt4BL7CLC_40.028911_-74.111293@1294171694"
@@ -42,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461284121,
     "wof:geomhash":"f264bfcc13f9c5209706e250fb2dfb78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":638954465
+        }
+    ],
     "wof:id":638954465,
-    "wof:lastmodified":1466691425,
+    "wof:lastmodified":1492028450,
     "wof:name":"Captain's Cleaning",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

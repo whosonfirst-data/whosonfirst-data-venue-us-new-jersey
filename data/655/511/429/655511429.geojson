@@ -2,9 +2,14 @@
   "id": 655511429,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Chelsea Ct Basking Ridge NJ 07920",
+    "addr:housenumber":"21",
+    "addr:postcode":"07920",
+    "addr:street":"Chelsea Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.576341,40.671277,-74.576341,40.671277",
     "geom:latitude":40.671277,
     "geom:longitude":-74.576341,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PbWJJIum2Ep2VmXiCPz67_40.671277_-74.576341@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461309341,
     "wof:geomhash":"31cb95a3b9a4d06feddb4b0256f632f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":655511429
+        }
+    ],
     "wof:id":655511429,
-    "wof:lastmodified":1466678466,
+    "wof:lastmodified":1492025704,
     "wof:name":"David S Ainsworth DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

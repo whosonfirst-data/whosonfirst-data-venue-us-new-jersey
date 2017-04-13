@@ -2,9 +2,14 @@
   "id": 655771945,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 US Highway 46 Totowa NJ 07512",
+    "addr:housenumber":"545",
+    "addr:postcode":"07512",
+    "addr:street":"Us Highway 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.202259,40.876262,-74.202259,40.876262",
     "geom:latitude":40.876262,
     "geom:longitude":-74.202259,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.selectcomfort.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rOyQSvcbCiBxet7MVK3Fz_40.876262_-74.202259@1303262266"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461320192,
     "wof:geomhash":"ddde49096e84205022ece588e38e4016",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655771945
+        }
+    ],
     "wof:id":655771945,
-    "wof:lastmodified":1466686245,
+    "wof:lastmodified":1492058511,
     "wof:name":"Select Comfort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

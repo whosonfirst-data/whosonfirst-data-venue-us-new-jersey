@@ -2,9 +2,14 @@
   "id": 639047081,
   "type": "Feature",
   "properties": {
+    "addr:full":"192 Orange Ave Irvington NJ 07111",
+    "addr:housenumber":"192",
+    "addr:postcode":"07111",
+    "addr:street":"Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.229089,40.733049,-74.229089,40.733049",
     "geom:latitude":40.733049,
     "geom:longitude":-74.229089,
@@ -28,7 +33,13 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W7uKXK4NOnMsgPAwuz9VJ_40.733049_-74.229089@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286208,
     "wof:geomhash":"45241d357713a67c7e68a8f12f28efcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":639047081
+        }
+    ],
     "wof:id":639047081,
-    "wof:lastmodified":1466674125,
+    "wof:lastmodified":1492044106,
     "wof:name":"EMERGENCY Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655771283,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Surrey Dr Wayne Township NJ 07505",
+    "addr:housenumber":"111",
+    "addr:postcode":"07505",
+    "addr:street":"Surrey Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.258281,40.967667,-74.258281,40.967667",
     "geom:latitude":40.967667,
     "geom:longitude":-74.258281,
@@ -24,7 +29,10 @@
     "sg:postcode":"07505",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65hYpUtH4EJGoPjtVU1Xs1_40.967667_-74.258281@1303262266"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461320143,
     "wof:geomhash":"fac86ec8f87819650f5b852e0e8c39a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655771283
+        }
+    ],
     "wof:id":655771283,
-    "wof:lastmodified":1466686072,
+    "wof:lastmodified":1492058429,
     "wof:name":"Alpha Appliance Llc",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

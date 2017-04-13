@@ -2,9 +2,14 @@
   "id": 638843729,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Tennent Rd Morganville NJ 07751",
+    "addr:housenumber":"114",
+    "addr:postcode":"07751",
+    "addr:street":"Tennent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259517,40.372849,-74.259517,40.372849",
     "geom:latitude":40.372849,
     "geom:longitude":-74.259517,
@@ -27,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976025,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OPRBDsdGN2QXd7ReaAHwm_40.372849_-74.259517@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281334,
     "wof:geomhash":"6f45e2bac823c0ec495a18ccc73e7c80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976025,
+            "region_id":85688607,
+            "venue_id":638843729
+        }
+    ],
     "wof:id":638843729,
-    "wof:lastmodified":1466689210,
+    "wof:lastmodified":1492024449,
     "wof:name":"Bill Trochiano CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

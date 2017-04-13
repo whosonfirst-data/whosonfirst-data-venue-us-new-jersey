@@ -2,9 +2,14 @@
   "id": 655371285,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 Co Rd 579 Flemington NJ 08822",
+    "addr:housenumber":"702",
+    "addr:postcode":"08822",
+    "addr:street":"Co Rd 579",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.916202,40.485711,-74.916202,40.485711",
     "geom:latitude":40.485711,
     "geom:longitude":-74.916202,
@@ -27,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xnJrpZVMruE6AlZZZsaqe_40.485711_-74.916202@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461303471,
     "wof:geomhash":"7760ac53b6a194da658841fd9b86b1d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527093,
+            "venue_id":655371285
+        }
+    ],
     "wof:id":655371285,
-    "wof:lastmodified":1466674721,
+    "wof:lastmodified":1492055641,
     "wof:name":"Hunterdon Home Vet",
     "wof:parent_id":420527093,
     "wof:placetype":"venue",

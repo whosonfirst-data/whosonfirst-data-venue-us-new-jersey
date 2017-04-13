@@ -2,9 +2,14 @@
   "id": 638744491,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Quakerbridge Rd Trenton NJ 08619",
+    "addr:housenumber":"3535",
+    "addr:postcode":"08619",
+    "addr:street":"Quakerbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.674916,40.263767,-74.674916,40.263767",
     "geom:latitude":40.263767,
     "geom:longitude":-74.674916,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.quakerbridgeradiology.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dAMJRz09xSMdfS7BGXYrQ_40.263767_-74.674916@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461278855,
     "wof:geomhash":"770351ffd5a1ff303516aff9bd1d792e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":638744491
+        }
+    ],
     "wof:id":638744491,
-    "wof:lastmodified":1466677408,
+    "wof:lastmodified":1492062470,
     "wof:name":"Quakerbridge Radiology Assoc",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

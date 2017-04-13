@@ -2,9 +2,14 @@
   "id": 655366649,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Pine Bank Rd Flemington NJ 08822",
+    "addr:housenumber":"185",
+    "addr:postcode":"08822",
+    "addr:street":"Pine Bank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.760519,40.568311,-74.760519,40.568311",
     "geom:latitude":40.568311,
     "geom:longitude":-74.760519,
@@ -28,7 +33,10 @@
         "safety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SRgGzeBj0LQ5RM7B8VZHh_40.568311_-74.760519@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461303287,
     "wof:geomhash":"ee20b4f80f672ee32672952ae7733f85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527047,
+            "venue_id":655366649
+        }
+    ],
     "wof:id":655366649,
-    "wof:lastmodified":1466674581,
+    "wof:lastmodified":1492068704,
     "wof:name":"Newton Health & Safety Assoc",
     "wof:parent_id":420527047,
     "wof:placetype":"venue",

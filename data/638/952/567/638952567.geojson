@@ -2,9 +2,14 @@
   "id": 638952567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 State Rte 208 Fair Lawn NJ 07410",
+    "addr:housenumber":"1",
+    "addr:postcode":"07410",
+    "addr:street":"State Rte 208",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.132098,40.945156,-74.132098,40.945156",
     "geom:latitude":40.945156,
     "geom:longitude":-74.132098,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21niu8J5vtzs3UgqU5SH4p_40.945156_-74.132098@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284077,
     "wof:geomhash":"d9bd4145a54328819322931cfe9834aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":638952567
+        }
+    ],
     "wof:id":638952567,
-    "wof:lastmodified":1466691347,
+    "wof:lastmodified":1492024277,
     "wof:name":"Sealed Air Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

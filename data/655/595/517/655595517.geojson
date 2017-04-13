@@ -2,9 +2,14 @@
   "id": 655595517,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Hickory Corner Rd Milford NJ 08848",
+    "addr:housenumber":"185",
+    "addr:postcode":"08848",
+    "addr:street":"Hickory Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052337,40.60303,-75.052337,40.60303",
     "geom:latitude":40.60303,
     "geom:longitude":-75.052337,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"www.mworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XSsAxBnOI3PuJ5MU4WDj8_40.603030_-75.052337@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461312810,
     "wof:geomhash":"209745fa6a65bf85627555de817e34c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527091,
+            "venue_id":655595517
+        }
+    ],
     "wof:id":655595517,
-    "wof:lastmodified":1466680891,
+    "wof:lastmodified":1492050432,
     "wof:name":"Media Works",
     "wof:parent_id":420527091,
     "wof:placetype":"venue",

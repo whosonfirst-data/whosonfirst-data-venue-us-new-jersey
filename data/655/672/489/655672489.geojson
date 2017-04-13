@@ -2,9 +2,14 @@
   "id": 655672489,
   "type": "Feature",
   "properties": {
+    "addr:full":"488 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"488",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2901,40.5993,-74.2901,40.5993",
     "geom:latitude":40.5993,
     "geom:longitude":-74.2901,
@@ -27,7 +32,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b6TkGDkMNSiigbzp64o2O_40.598935_-74.290232@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461316128,
     "wof:geomhash":"26dd07d889e699e93aee972582ec25e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655672489
+        }
+    ],
     "wof:id":655672489,
-    "wof:lastmodified":1466683554,
+    "wof:lastmodified":1492041113,
     "wof:name":"N C Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

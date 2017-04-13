@@ -2,9 +2,14 @@
   "id": 639449179,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Demarest Dr Wayne NJ 07470",
+    "addr:housenumber":"60",
+    "addr:postcode":"07470",
+    "addr:street":"Demarest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261446,40.900099,-74.261446,40.900099",
     "geom:latitude":40.900099,
     "geom:longitude":-74.261446,
@@ -32,7 +37,13 @@
     ],
     "sg:website":"www.maneusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477879,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uaPlfBzia3vJiV5LRDv3u_40.900099_-74.261446@1294171694"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461295377,
     "wof:geomhash":"35149e60a296c6a1e6159e1a50caae26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477879,
+            "region_id":85688607,
+            "venue_id":639449179
+        }
+    ],
     "wof:id":639449179,
-    "wof:lastmodified":1466693554,
+    "wof:lastmodified":1492042273,
     "wof:name":"Mane USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

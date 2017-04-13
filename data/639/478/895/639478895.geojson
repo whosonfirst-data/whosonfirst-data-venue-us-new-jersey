@@ -2,9 +2,14 @@
   "id": 639478895,
   "type": "Feature",
   "properties": {
+    "addr:full":"384 Penwell Rd Port Murray NJ 07865",
+    "addr:housenumber":"384",
+    "addr:postcode":"07865",
+    "addr:street":"Penwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.88913,40.775167,-74.88913,40.775167",
     "geom:latitude":40.775167,
     "geom:longitude":-74.88913,
@@ -24,7 +29,10 @@
     "sg:postcode":"07865",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ppeO3w1eGSNr2j10p2OG9_40.775167_-74.889130@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461296560,
     "wof:geomhash":"aa6fb6e6afd70469c2f6e5379157364e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527753,
+            "venue_id":639478895
+        }
+    ],
     "wof:id":639478895,
-    "wof:lastmodified":1466693875,
+    "wof:lastmodified":1492076987,
     "wof:name":"Allen Nichols Lls",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

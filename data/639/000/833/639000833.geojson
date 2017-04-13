@@ -2,9 +2,14 @@
   "id": 639000833,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Reeder Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"225",
+    "addr:postcode":"08865",
+    "addr:street":"Reeder Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.115968,40.773693,-75.115968,40.773693",
     "geom:latitude":40.773693,
     "geom:longitude":-75.115968,
@@ -27,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478427,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_270LZqUnGuZCRNG4Q3LGYs_40.773693_-75.115968@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461285126,
     "wof:geomhash":"f71c086ba45ff9f4c37c36735a5fc749",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478427,
+            "region_id":85688607,
+            "venue_id":639000833
+        }
+    ],
     "wof:id":639000833,
-    "wof:lastmodified":1466673157,
+    "wof:lastmodified":1492039929,
     "wof:name":"Laubachs Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

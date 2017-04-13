@@ -2,9 +2,14 @@
   "id": 655499987,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Herbert Ave Closter NJ 07624",
+    "addr:housenumber":"70",
+    "addr:postcode":"07624",
+    "addr:street":"Herbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.958096,40.98148,-73.958096,40.98148",
     "geom:latitude":40.98148,
     "geom:longitude":-73.958096,
@@ -24,7 +29,14 @@
     "sg:postcode":"07624",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6seeup8K5foAqmvuIUMX37_40.981480_-73.958096@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461308835,
     "wof:geomhash":"e5cc3a6cb639c2dd17ee3817923299d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655499987
+        }
+    ],
     "wof:id":655499987,
-    "wof:lastmodified":1466678342,
+    "wof:lastmodified":1492024317,
     "wof:name":"Sterling Restoration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

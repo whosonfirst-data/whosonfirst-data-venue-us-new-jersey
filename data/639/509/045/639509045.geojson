@@ -2,9 +2,14 @@
   "id": 639509045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 US Hwy 130 North Brunswick NJ 08902",
+    "addr:housenumber":"1901",
+    "addr:postcode":"08902",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.47682,40.441024,-74.47682,40.441024",
     "geom:latitude":40.441024,
     "geom:longitude":-74.47682,
@@ -28,7 +33,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WEU7k0ucE4H1XH7ntdXU5_40.441024_-74.476820@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461297816,
     "wof:geomhash":"0c255b7ec0489d1430471a064c93a1f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527233,
+            "venue_id":639509045
+        }
+    ],
     "wof:id":639509045,
-    "wof:lastmodified":1466694930,
+    "wof:lastmodified":1492042263,
     "wof:name":"Con Mar Intl LTD",
     "wof:parent_id":420527233,
     "wof:placetype":"venue",

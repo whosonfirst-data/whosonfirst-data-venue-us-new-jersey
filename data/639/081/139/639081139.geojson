@@ -2,9 +2,14 @@
   "id": 639081139,
   "type": "Feature",
   "properties": {
+    "addr:full":"729 Alexander Rd Princeton NJ 08540",
+    "addr:housenumber":"729",
+    "addr:postcode":"08540",
+    "addr:street":"Alexander Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.634008,40.31891,-74.634008,40.31891",
     "geom:latitude":40.31891,
     "geom:longitude":-74.634008,
@@ -28,7 +33,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AclnClh0xWZvq48PFzdJF_40.318910_-74.634008@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286941,
     "wof:geomhash":"e6b4e91f7930c66b02c5c06a883319d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639081139
+        }
+    ],
     "wof:id":639081139,
-    "wof:lastmodified":1466688591,
+    "wof:lastmodified":1492074637,
     "wof:name":"Alexander Court Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

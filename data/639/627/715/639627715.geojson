@@ -2,9 +2,14 @@
   "id": 639627715,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Carmen Ln Flemington NJ 08889",
+    "addr:housenumber":"6",
+    "addr:postcode":"08889",
+    "addr:street":"Carmen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.751511,40.631086,-74.751511,40.631086",
     "geom:latitude":40.631086,
     "geom:longitude":-74.751511,
@@ -28,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A30d8J5SB20SC5CB618SA_40.631086_-74.751511@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461302827,
     "wof:geomhash":"6b9dafa53318a7d9259242f46d746272",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607,
+            "venue_id":639627715
+        }
+    ],
     "wof:id":639627715,
-    "wof:lastmodified":1466697555,
+    "wof:lastmodified":1492065633,
     "wof:name":"Depaola Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

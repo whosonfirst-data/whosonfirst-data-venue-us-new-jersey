@@ -2,9 +2,14 @@
   "id": 638968703,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Chardonay Ct Marlton NJ 08053",
+    "addr:housenumber":"7",
+    "addr:postcode":"08053",
+    "addr:street":"Chardonay Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919481,39.910804,-74.919481,39.910804",
     "geom:latitude":39.910804,
     "geom:longitude":-74.919481,
@@ -27,7 +32,10 @@
         "broadcast"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d6r1acWAvZmHolmR1WVxt_39.910804_-74.919481@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461284423,
     "wof:geomhash":"067cd4100e0f80d7b09dc8026afecfeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526569,
+            "venue_id":638968703
+        }
+    ],
     "wof:id":638968703,
-    "wof:lastmodified":1466691648,
+    "wof:lastmodified":1492027929,
     "wof:name":"Optimal Performance",
     "wof:parent_id":420526569,
     "wof:placetype":"venue",

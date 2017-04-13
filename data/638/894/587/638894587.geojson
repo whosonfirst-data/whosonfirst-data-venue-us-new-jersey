@@ -2,9 +2,14 @@
   "id": 638894587,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Scott Dr Hazlet NJ 07730",
+    "addr:housenumber":"22",
+    "addr:postcode":"07730",
+    "addr:street":"Scott Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143768,40.431439,-74.143768,40.431439",
     "geom:latitude":40.431439,
     "geom:longitude":-74.143768,
@@ -25,10 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85836359,
+        102191575,
+        404478399,
         85633793,
-        85841489,
-        102085049
+        85975391,
+        102085049,
+        85688607,
+        85841489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +48,16 @@
     "wof:geomhash":"0f2f69f93d4e9f3c1011585f1f16c494",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478399,
+            "locality_id":85975391,
+            "neighbourhood_id":85836359,
+            "region_id":85688607,
+            "venue_id":638894587
+        },
+        {
             "country_id":85633793,
             "county_id":102085049,
             "neighbourhood_id":85841489,
@@ -47,9 +66,9 @@
         }
     ],
     "wof:id":638894587,
-    "wof:lastmodified":1466690027,
+    "wof:lastmodified":1492049285,
     "wof:name":"Wenran Inc",
-    "wof:parent_id":85841489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

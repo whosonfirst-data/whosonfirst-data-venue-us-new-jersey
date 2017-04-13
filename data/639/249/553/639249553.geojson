@@ -2,9 +2,14 @@
   "id": 639249553,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 C St Belmar NJ 07719",
+    "addr:housenumber":"404",
+    "addr:postcode":"07719",
+    "addr:street":"C St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.017531,40.184102,-74.017531,40.184102",
     "geom:latitude":40.184102,
     "geom:longitude":-74.017531,
@@ -24,7 +29,14 @@
     "sg:postcode":"07719",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kc0vPV5XLGNyPjBqTbSav_40.184102_-74.017531@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461290821,
     "wof:geomhash":"fe2e5c5999dc68bda94082f453c11ea0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639249553
+        }
+    ],
     "wof:id":639249553,
-    "wof:lastmodified":1466690346,
+    "wof:lastmodified":1492070281,
     "wof:name":"Artfull Dodger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

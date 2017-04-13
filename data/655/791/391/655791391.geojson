@@ -2,9 +2,14 @@
   "id": 655791391,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"304",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.965559,40.761469,-74.965559,40.761469",
     "geom:latitude":40.761469,
     "geom:longitude":-74.965559,
@@ -42,7 +47,10 @@
     ],
     "sg:website":"http://www.eradukerealtors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RQnSDIRaVecI8V0Mi6gLl_40.761469_-74.965559@1303262271"
@@ -50,9 +58,15 @@
     "wof:country":"US",
     "wof:created":1461321032,
     "wof:geomhash":"2d683ec26dffe204b3406643d608801d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655791391
+        }
+    ],
     "wof:id":655791391,
-    "wof:lastmodified":1466686622,
+    "wof:lastmodified":1492045916,
     "wof:name":"E R A Duke Realtors",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

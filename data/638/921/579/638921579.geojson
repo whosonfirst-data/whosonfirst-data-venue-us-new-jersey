@@ -2,9 +2,14 @@
   "id": 638921579,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W Roland Ave Maple Shade NJ 08052",
+    "addr:housenumber":"106",
+    "addr:postcode":"08052",
+    "addr:street":"W Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.016117,39.961172,-75.016117,39.961172",
     "geom:latitude":39.961172,
     "geom:longitude":-75.016117,
@@ -27,7 +32,13 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477857,
+        85633793,
+        102087415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OHjMyJ8iF5XQOiRIgLgP4_39.961172_-75.016117@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283310,
     "wof:geomhash":"173209449a878ed4bcd7dc3976d7e5d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477857,
+            "region_id":85688607,
+            "venue_id":638921579
+        }
+    ],
     "wof:id":638921579,
-    "wof:lastmodified":1466690448,
+    "wof:lastmodified":1492069599,
     "wof:name":"Photo Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

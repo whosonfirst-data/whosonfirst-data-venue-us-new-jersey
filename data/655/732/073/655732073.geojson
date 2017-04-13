@@ -2,9 +2,14 @@
   "id": 655732073,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Midland Ave Wallington NJ 07057",
+    "addr:housenumber":"99",
+    "addr:postcode":"07057",
+    "addr:street":"Midland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.10505,40.86009,-74.10505,40.86009",
     "geom:latitude":40.86009,
     "geom:longitude":-74.10505,
@@ -27,7 +32,14 @@
         "hair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477745,
+        85633793,
+        85975889,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ChAKJrHsyUTdgCJC8UIhR_40.860090_-74.105050@1303262256"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461318613,
     "wof:geomhash":"d90d09b7c46c6485f6c100a0e6084070",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477745,
+            "locality_id":85975889,
+            "region_id":85688607,
+            "venue_id":655732073
+        }
+    ],
     "wof:id":655732073,
-    "wof:lastmodified":1466685008,
+    "wof:lastmodified":1492041248,
     "wof:name":"Hair Couture Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

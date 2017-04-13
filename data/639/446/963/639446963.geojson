@@ -2,9 +2,14 @@
   "id": 639446963,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Monmouth St Hightstown NJ 08520",
+    "addr:housenumber":"412",
+    "addr:postcode":"08520",
+    "addr:street":"Monmouth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.503912,40.269524,-74.503912,40.269524",
     "geom:latitude":40.269524,
     "geom:longitude":-74.503912,
@@ -27,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mlFyrvb3XQp4e4n0NXzqi_40.269524_-74.503912@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295290,
     "wof:geomhash":"8033c33cfa9de76bdd42f3b35473e6a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639446963
+        }
+    ],
     "wof:id":639446963,
-    "wof:lastmodified":1466693526,
+    "wof:lastmodified":1492050839,
     "wof:name":"Nieschmidt Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

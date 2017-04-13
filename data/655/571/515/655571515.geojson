@@ -2,9 +2,14 @@
   "id": 655571515,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Old New Brunswick Rd Piscataway NJ 08854",
+    "addr:housenumber":"151",
+    "addr:postcode":"08854",
+    "addr:street":"Old New Brunswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.470094,40.557385,-74.470094,40.557385",
     "geom:latitude":40.557385,
     "geom:longitude":-74.470094,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85836695,
-        102087417
+        85842907,
+        102087417,
+        85836695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102087417,
+            "neighbourhood_id":85842907,
+            "region_id":85688607,
+            "venue_id":655571515
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
             "neighbourhood_id":85836695,
             "region_id":85688607,
             "venue_id":655571515
         }
     ],
     "wof:id":655571515,
-    "wof:lastmodified":1466680081,
+    "wof:lastmodified":1492045184,
     "wof:name":"Oz Dental Inc",
-    "wof:parent_id":85836695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

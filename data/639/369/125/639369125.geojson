@@ -2,9 +2,14 @@
   "id": 639369125,
   "type": "Feature",
   "properties": {
+    "addr:full":"564 Yale Ave Hillside NJ 07205",
+    "addr:housenumber":"564",
+    "addr:postcode":"07205",
+    "addr:street":"Yale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.24182,40.698002,-74.24182,40.698002",
     "geom:latitude":40.698002,
     "geom:longitude":-74.24182,
@@ -27,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W1PqcFvWuT278d9kTtTZR_40.698002_-74.241820@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293413,
     "wof:geomhash":"ffa79a66789d7fdfffcdd4efafc6d28a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639369125
+        }
+    ],
     "wof:id":639369125,
-    "wof:lastmodified":1466692839,
+    "wof:lastmodified":1492055915,
     "wof:name":"Marcia Clening Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

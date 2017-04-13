@@ -2,9 +2,14 @@
   "id": 638759195,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Aurora St Phillipsburg NJ 08865",
+    "addr:housenumber":"146",
+    "addr:postcode":"08865",
+    "addr:street":"Aurora St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190074,40.702257,-75.190074,40.702257",
     "geom:latitude":40.702257,
     "geom:longitude":-75.190074,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        85976485,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75pRcbGbsZsVk2YTaVsvfr_40.702257_-75.190074@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461279270,
     "wof:geomhash":"4763e68eef82dd2db9e06d502e9f1fc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "locality_id":85976485,
+            "region_id":85688607,
+            "venue_id":638759195
+        }
+    ],
     "wof:id":638759195,
-    "wof:lastmodified":1466679384,
+    "wof:lastmodified":1492062393,
     "wof:name":"Sciascia Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

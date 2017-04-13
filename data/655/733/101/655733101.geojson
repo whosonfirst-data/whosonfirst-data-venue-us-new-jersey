@@ -2,9 +2,14 @@
   "id": 655733101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1151 Woodbridge Rd Rahway NJ 07065",
+    "addr:housenumber":"1151",
+    "addr:postcode":"07065",
+    "addr:street":"Woodbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.268204,40.597198,-74.268204,40.597198",
     "geom:latitude":40.597198,
     "geom:longitude":-74.268204,
@@ -28,7 +33,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dp8XZVhPWdZspYi3oSVmh_40.597198_-74.268204@1303262257"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461318649,
     "wof:geomhash":"9664b048d47694bf3ca1a978d714de97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733101
+        }
+    ],
     "wof:id":655733101,
-    "wof:lastmodified":1466685040,
+    "wof:lastmodified":1492039785,
     "wof:name":"K C's Pizzeria & Italian Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655553329,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Atlantic Ave Lawnside NJ 08022",
+    "addr:housenumber":"7",
+    "addr:postcode":"08022",
+    "addr:street":"Atlantic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.721627,40.070467,-74.721627,40.070467",
     "geom:latitude":40.070467,
     "geom:longitude":-74.721627,
@@ -29,7 +34,10 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Gv8FF2uLubotbh7ioP29_40.070467_-74.721627@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461310955,
     "wof:geomhash":"43264c0c1ae58d05ae520bc9017106f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":655553329
+        }
+    ],
     "wof:id":655553329,
-    "wof:lastmodified":1466679499,
+    "wof:lastmodified":1492082159,
     "wof:name":"Sterling Auto Sales & Service",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

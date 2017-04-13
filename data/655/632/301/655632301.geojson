@@ -2,9 +2,14 @@
   "id": 655632301,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Mountain Ave Berkeley Heights NJ 07922",
+    "addr:housenumber":"620",
+    "addr:postcode":"07922",
+    "addr:street":"Mountain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.4393,40.668033,-74.4393,40.668033",
     "geom:latitude":40.668033,
     "geom:longitude":-74.4393,
@@ -24,7 +29,13 @@
     "sg:postcode":"07922",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478489,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66J7D81gIC29uLKqJyQMfa_40.668033_-74.439300@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461314441,
     "wof:geomhash":"32509916ccd79ade657614d560ea0bd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478489,
+            "region_id":85688607,
+            "venue_id":655632301
+        }
+    ],
     "wof:id":655632301,
-    "wof:lastmodified":1466682114,
+    "wof:lastmodified":1492024145,
     "wof:name":"Discount AC Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

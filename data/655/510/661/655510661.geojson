@@ -2,9 +2,14 @@
   "id": 655510661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Windsor Dr Oak Ridge NJ 07438",
+    "addr:housenumber":"4",
+    "addr:postcode":"07438",
+    "addr:street":"Windsor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.498775,41.028039,-74.498775,41.028039",
     "geom:latitude":41.028039,
     "geom:longitude":-74.498775,
@@ -24,7 +29,10 @@
     "sg:postcode":"07438",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79D4eq0GghdogmxRZ4AWc1_41.028039_-74.498775@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461309304,
     "wof:geomhash":"bdefa71cca58a266783228a59a74b47f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527329,
+            "venue_id":655510661
+        }
+    ],
     "wof:id":655510661,
-    "wof:lastmodified":1466678528,
+    "wof:lastmodified":1492048424,
     "wof:name":"Letterworks",
     "wof:parent_id":420527329,
     "wof:placetype":"venue",

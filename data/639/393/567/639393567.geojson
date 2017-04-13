@@ -2,9 +2,14 @@
   "id": 639393567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Forest Ave Brick NJ 08724",
+    "addr:housenumber":"1415",
+    "addr:postcode":"08724",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144189,40.088312,-74.144189,40.088312",
     "geom:latitude":40.088312,
     "geom:longitude":-74.144189,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AU28WV1oGu7drwIKBs49W_40.088312_-74.144189@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461293947,
     "wof:geomhash":"2b558f1cd9b663cc004075486392b099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639393567
+        }
+    ],
     "wof:id":639393567,
-    "wof:lastmodified":1466692834,
+    "wof:lastmodified":1492051332,
     "wof:name":"Delmar Homes Inc",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

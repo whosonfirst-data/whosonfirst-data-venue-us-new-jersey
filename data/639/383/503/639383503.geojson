@@ -2,9 +2,14 @@
   "id": 639383503,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Castle Pointe Blvd Piscataway NJ 08854",
+    "addr:housenumber":"101",
+    "addr:postcode":"08854",
+    "addr:street":"Castle Pointe Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.458304,40.535598,-74.458304,40.535598",
     "geom:latitude":40.535598,
     "geom:longitude":-74.458304,
@@ -29,7 +34,10 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zylgFuQNPwq4Ow9jZr1uJ_40.535598_-74.458304@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461293714,
     "wof:geomhash":"37651c144977ef4226344533b826de6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527201,
+            "venue_id":639383503
+        }
+    ],
     "wof:id":639383503,
-    "wof:lastmodified":1466692807,
+    "wof:lastmodified":1492051265,
     "wof:name":"Pepco Energy Services Inc",
     "wof:parent_id":420527201,
     "wof:placetype":"venue",

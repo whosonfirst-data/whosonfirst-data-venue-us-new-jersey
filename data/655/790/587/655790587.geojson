@@ -2,9 +2,14 @@
   "id": 655790587,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 S Salem St Randolph NJ 07869",
+    "addr:housenumber":"224",
+    "addr:postcode":"07869",
+    "addr:street":"S Salem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.537102,40.876202,-74.537102,40.876202",
     "geom:latitude":40.876202,
     "geom:longitude":-74.537102,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tP1DuGKSEh667utwYLzvP_40.876202_-74.537102@1303262271"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461320998,
     "wof:geomhash":"519758eea00e5c8ddaa68d5bf2cc27d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655790587
+        }
+    ],
     "wof:id":655790587,
-    "wof:lastmodified":1466686672,
+    "wof:lastmodified":1492030398,
     "wof:name":"Dunkin Donut's",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638943735,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Tennent Rd Morganville NJ 07751",
+    "addr:housenumber":"168",
+    "addr:postcode":"07751",
+    "addr:street":"Tennent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.261562,40.371001,-74.261562,40.371001",
     "geom:latitude":40.371001,
     "geom:longitude":-74.261562,
@@ -27,7 +32,13 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jlzfX2LA0ebv9qWsnJBdS_40.371001_-74.261562@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283884,
     "wof:geomhash":"83777395784dc5522ff575655a080f8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "region_id":85688607,
+            "venue_id":638943735
+        }
+    ],
     "wof:id":638943735,
-    "wof:lastmodified":1466691204,
+    "wof:lastmodified":1492069304,
     "wof:name":"G & G Automotives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

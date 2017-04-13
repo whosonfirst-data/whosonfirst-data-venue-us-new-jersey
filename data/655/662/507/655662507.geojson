@@ -2,9 +2,14 @@
   "id": 655662507,
   "type": "Feature",
   "properties": {
+    "addr:full":"83 Main St Little Falls NJ 07424",
+    "addr:housenumber":"83",
+    "addr:postcode":"07424",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.227699,40.881302,-74.227699,40.881302",
     "geom:latitude":40.881302,
     "geom:longitude":-74.227699,
@@ -29,7 +34,13 @@
         "cigar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s2dgOp7XtS38itlfqP6pJ_40.881262_-74.227728@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461315712,
     "wof:geomhash":"bc988880a0beb2426ca3a2ed4f44f288",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":655662507
+        }
+    ],
     "wof:id":655662507,
-    "wof:lastmodified":1466683279,
+    "wof:lastmodified":1492029328,
     "wof:name":"Main Tobacco & Confectionary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

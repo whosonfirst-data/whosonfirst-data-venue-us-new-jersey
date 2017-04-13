@@ -2,9 +2,14 @@
   "id": 639049341,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 E Hanover St Trenton NJ 08608",
+    "addr:housenumber":"22",
+    "addr:postcode":"08608",
+    "addr:street":"E Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.764489,40.221036,-74.764489,40.221036",
     "geom:latitude":40.221036,
     "geom:longitude":-74.764489,
@@ -24,7 +29,14 @@
     "sg:postcode":"08608",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478265,
+        85633793,
+        85975811,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e7LWHacxbQzplJcKYSePr_40.221036_-74.764489@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461286257,
     "wof:geomhash":"de570c07fe7c1eb52ef9e9afd5d9179d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478265,
+            "locality_id":85975811,
+            "region_id":85688607,
+            "venue_id":639049341
+        }
+    ],
     "wof:id":639049341,
-    "wof:lastmodified":1466674183,
+    "wof:lastmodified":1492046316,
     "wof:name":"TDA Field Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639133315,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Wakefield Rd Atco NJ 08004",
+    "addr:housenumber":"18",
+    "addr:postcode":"08004",
+    "addr:street":"Wakefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.898455,39.758395,-74.898455,39.758395",
     "geom:latitude":39.758395,
     "geom:longitude":-74.898455,
@@ -27,7 +32,10 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xjknPZqshoVK1SEbQGxLh_39.758395_-74.898455@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288145,
     "wof:geomhash":"86d0d6821dc717c5224ecdc1ea737536",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":639133315
+        }
+    ],
     "wof:id":639133315,
-    "wof:lastmodified":1466678796,
+    "wof:lastmodified":1492051337,
     "wof:name":"Woodstream Travel",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655833895,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Nassau Ct Skillman NJ 08558",
+    "addr:housenumber":"39",
+    "addr:postcode":"08558",
+    "addr:street":"Nassau Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.690882,40.406092,-74.690882,40.406092",
     "geom:latitude":40.406092,
     "geom:longitude":-74.690882,
@@ -35,7 +40,13 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477929,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mYc64YnwTC6HfCvbbaI2O_40.406092_-74.690882@1303262282"
@@ -43,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461322820,
     "wof:geomhash":"d8bc76a3fcf8ce0b608bb6a7d8cd62fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477929,
+            "region_id":85688607,
+            "venue_id":655833895
+        }
+    ],
     "wof:id":655833895,
-    "wof:lastmodified":1466687876,
+    "wof:lastmodified":1492070372,
     "wof:name":"Town & County Powerwashing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

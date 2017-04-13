@@ -2,9 +2,14 @@
   "id": 639576043,
   "type": "Feature",
   "properties": {
+    "addr:full":"964 State Rte 23 Sussex NJ 07461",
+    "addr:housenumber":"964",
+    "addr:postcode":"07461",
+    "addr:street":"State Rte 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.62834,41.254272,-74.62834,41.254272",
     "geom:latitude":41.254272,
     "geom:longitude":-74.62834,
@@ -31,8 +36,10 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85830441,
-        102086779
+        85975705,
+        102086779,
+        85830361,
+        85830441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,23 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "locality_id":85975705,
+            "neighbourhood_id":85830361,
+            "region_id":85688607,
+            "venue_id":639576043
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85830441,
             "region_id":85688607,
             "venue_id":639576043
         }
     ],
     "wof:id":639576043,
-    "wof:lastmodified":1466696550,
+    "wof:lastmodified":1492051733,
     "wof:name":"Extended Software Solutions",
-    "wof:parent_id":85830441,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

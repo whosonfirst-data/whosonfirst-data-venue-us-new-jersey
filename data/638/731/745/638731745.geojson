@@ -2,9 +2,14 @@
   "id": 638731745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1896 Morris Ave Union NJ 07083",
+    "addr:housenumber":"1896",
+    "addr:postcode":"07083",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264932,40.695285,-74.264932,40.695285",
     "geom:latitude":40.695285,
     "geom:longitude":-74.264932,
@@ -28,7 +33,13 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975841,
+        102085995,
+        85892527
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HaUifxEg4fBn7SeWVgyOI_40.695285_-74.264932@1294171694"
@@ -36,11 +47,20 @@
     "wof:country":"US",
     "wof:created":1461278527,
     "wof:geomhash":"06eb5adb01bfcd3f4e3118ed2b3bc5cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "locality_id":85975841,
+            "neighbourhood_id":85892527,
+            "region_id":85688607,
+            "venue_id":638731745
+        }
+    ],
     "wof:id":638731745,
-    "wof:lastmodified":1466675671,
+    "wof:lastmodified":1492023505,
     "wof:name":"Afm Mortgage",
-    "wof:parent_id":420559973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

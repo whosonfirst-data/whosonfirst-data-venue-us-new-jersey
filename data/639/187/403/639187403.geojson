@@ -2,9 +2,14 @@
   "id": 639187403,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Shipman St Newark NJ 07102",
+    "addr:housenumber":"108",
+    "addr:postcode":"07102",
+    "addr:street":"Shipman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179408,40.734762,-74.179408,40.734762",
     "geom:latitude":40.734762,
     "geom:longitude":-74.179408,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873007,
+        85872997,
         102191575,
         404478049,
         85633793,
         85975279,
         102085043,
-        85688607
+        85688607,
+        85873007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102085043,
             "localadmin_id":404478049,
             "locality_id":85975279,
+            "neighbourhood_id":85872997,
+            "region_id":85688607,
+            "venue_id":639187403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
             "neighbourhood_id":85873007,
             "region_id":85688607,
             "venue_id":639187403
         }
     ],
     "wof:id":639187403,
-    "wof:lastmodified":1466686838,
+    "wof:lastmodified":1492044109,
     "wof:name":"Geriatric Center For Fmly Life",
-    "wof:parent_id":85873007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

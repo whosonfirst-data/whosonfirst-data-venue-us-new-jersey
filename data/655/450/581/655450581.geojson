@@ -2,9 +2,14 @@
   "id": 655450581,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 County Rd Cliffwood NJ 07721",
+    "addr:housenumber":"403",
+    "addr:postcode":"07721",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231052,40.442127,-74.231052,40.442127",
     "geom:latitude":40.442127,
     "geom:longitude":-74.231052,
@@ -29,7 +34,13 @@
         "unit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478319,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yHN8UUfey37gh11FMfyhz_40.442127_-74.231052@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461306718,
     "wof:geomhash":"56418d9d4aabc4f10dfa6dded3fed361",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478319,
+            "region_id":85688607,
+            "venue_id":655450581
+        }
+    ],
     "wof:id":655450581,
-    "wof:lastmodified":1466676907,
+    "wof:lastmodified":1492049291,
     "wof:name":"Eaton Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

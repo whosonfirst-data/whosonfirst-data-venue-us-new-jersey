@@ -2,9 +2,14 @@
   "id": 639102041,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Issac Budd Rd Southampton NJ 08088",
+    "addr:housenumber":"405",
+    "addr:postcode":"08088",
+    "addr:street":"Budd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.698793,39.926851,-74.698793,39.926851",
     "geom:latitude":39.926851,
     "geom:longitude":-74.698793,
@@ -27,7 +32,10 @@
         "taxidermist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PUVrBUsrzZFdDgbA0m5NK_39.926851_-74.698793@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287389,
     "wof:geomhash":"ca017ae61e3b597266bb27c80ad8d854",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":639102041
+        }
+    ],
     "wof:id":639102041,
-    "wof:lastmodified":1466674550,
+    "wof:lastmodified":1492030496,
     "wof:name":"Anderson's Taxidermy Studio",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

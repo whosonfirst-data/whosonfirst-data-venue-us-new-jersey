@@ -2,9 +2,14 @@
   "id": 655391795,
   "type": "Feature",
   "properties": {
+    "addr:full":"343 State Rte 73 Voorhees NJ 08043",
+    "addr:housenumber":"343",
+    "addr:postcode":"08043",
+    "addr:street":"State Rte 73",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.922238,39.851862,-74.922238,39.851862",
     "geom:latitude":39.851862,
     "geom:longitude":-74.922238,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478037,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zAFUBH9kyeQdWIQqR3fZ9_39.851862_-74.922238@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461304292,
     "wof:geomhash":"7830462e85f41b57512de820eb9d2777",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478037,
+            "region_id":85688607,
+            "venue_id":655391795
+        }
+    ],
     "wof:id":655391795,
-    "wof:lastmodified":1466675389,
+    "wof:lastmodified":1492024062,
     "wof:name":"Doo Yong Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

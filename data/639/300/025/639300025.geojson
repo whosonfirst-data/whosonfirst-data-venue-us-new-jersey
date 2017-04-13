@@ -2,9 +2,14 @@
   "id": 639300025,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Smithville Rd Mount Holly NJ 08060",
+    "addr:housenumber":"725",
+    "addr:postcode":"08060",
+    "addr:street":"Smithville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.749448,39.981359,-74.749448,39.981359",
     "geom:latitude":39.981359,
     "geom:longitude":-74.749448,
@@ -27,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LBwutBN6qR82yXcY7pXO4_39.981359_-74.749448@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461291968,
     "wof:geomhash":"0fe8484de8f8acd1ca484cb6fd6b55c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526619,
+            "venue_id":639300025
+        }
+    ],
     "wof:id":639300025,
-    "wof:lastmodified":1466691408,
+    "wof:lastmodified":1492047348,
     "wof:name":"Eastampton Police",
     "wof:parent_id":420526619,
     "wof:placetype":"venue",

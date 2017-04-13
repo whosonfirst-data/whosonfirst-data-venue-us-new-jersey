@@ -2,9 +2,14 @@
   "id": 655480509,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Sandy Ridge Mount Airy Rd Stockton NJ 08559",
+    "addr:housenumber":"110",
+    "addr:postcode":"08559",
+    "addr:street":"Sandy;Mount Airy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.952048,40.420173,-74.952048,40.420173",
     "geom:latitude":40.420173,
     "geom:longitude":-74.952048,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dyMCc5i9ZmwZ9uU5PjwTu_40.420173_-74.952048@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461308030,
     "wof:geomhash":"4c48d7655b459ae5b0d0319841696840",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527105,
+            "venue_id":655480509
+        }
+    ],
     "wof:id":655480509,
-    "wof:lastmodified":1466677687,
+    "wof:lastmodified":1492028669,
     "wof:name":"Country Carpenter",
     "wof:parent_id":420527105,
     "wof:placetype":"venue",

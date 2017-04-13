@@ -2,9 +2,14 @@
   "id": 639542559,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Riverside Ave Rutherford NJ 07070",
+    "addr:housenumber":"350",
+    "addr:postcode":"07070",
+    "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.120882,40.827411,-74.120882,40.827411",
     "geom:latitude":40.827411,
     "geom:longitude":-74.120882,
@@ -33,7 +38,14 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477727,
+        85633793,
+        85975923,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I5SAargfG6vz2B4ldwI4R_40.827411_-74.120882@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461299440,
     "wof:geomhash":"3d9a4031b7e9f2e9d8f40bb8dd54a3ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477727,
+            "locality_id":85975923,
+            "region_id":85688607,
+            "venue_id":639542559
+        }
+    ],
     "wof:id":639542559,
-    "wof:lastmodified":1466695674,
+    "wof:lastmodified":1492049609,
     "wof:name":"Nereid Boat Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639101767,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"49",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.735914,41.079986,-74.735914,41.079986",
     "geom:latitude":41.079986,
     "geom:longitude":-74.735914,
@@ -27,7 +32,10 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09f4FqYaxGslZf2dDVlJVR_41.079986_-74.735914@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461287379,
     "wof:geomhash":"3801d26b434952dee990bf1f3151dcf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":639101767
+        }
+    ],
     "wof:id":639101767,
-    "wof:lastmodified":1466674510,
+    "wof:lastmodified":1492083225,
     "wof:name":"Wine Country",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

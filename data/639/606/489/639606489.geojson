@@ -2,9 +2,14 @@
   "id": 639606489,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Park Rd Cherry Hill NJ 08034",
+    "addr:housenumber":"500",
+    "addr:postcode":"08034",
+    "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.983728,39.918501,-74.983728,39.918501",
     "geom:latitude":39.918501,
     "geom:longitude":-74.983728,
@@ -38,7 +43,8 @@
         85633793,
         85976225,
         102081131,
-        85688607
+        85688607,
+        420526727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +63,22 @@
             "neighbourhood_id":420526805,
             "region_id":85688607,
             "venue_id":639606489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976225,
+            "neighbourhood_id":420526727,
+            "region_id":85688607,
+            "venue_id":639606489
         }
     ],
     "wof:id":639606489,
-    "wof:lastmodified":1466697095,
+    "wof:lastmodified":1492025560,
     "wof:name":"Cherry Hill Group Home",
-    "wof:parent_id":420526805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

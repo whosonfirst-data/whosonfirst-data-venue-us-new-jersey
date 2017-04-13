@@ -2,9 +2,14 @@
   "id": 639595941,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Redfern St Trenton NJ 08610",
+    "addr:housenumber":"515",
+    "addr:postcode":"08610",
+    "addr:street":"Redfern St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.729266,40.21364,-74.729266,40.21364",
     "geom:latitude":40.21364,
     "geom:longitude":-74.729266,
@@ -27,7 +32,13 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AMLOhBrbJnTZHo8jCCrxG_40.213640_-74.729266@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461301581,
     "wof:geomhash":"1b27b5eee235b595b6485cec0360221b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "region_id":85688607,
+            "venue_id":639595941
+        }
+    ],
     "wof:id":639595941,
-    "wof:lastmodified":1466696955,
+    "wof:lastmodified":1492048476,
     "wof:name":"James Door Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

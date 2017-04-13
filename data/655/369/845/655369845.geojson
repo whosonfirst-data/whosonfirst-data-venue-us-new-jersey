@@ -2,9 +2,14 @@
   "id": 655369845,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Pemberton Vincentown Rd Pemberton NJ 08068",
+    "addr:housenumber":"100",
+    "addr:postcode":"08068",
+    "addr:street":"Pemberton Vincentown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.689193,39.955717,-74.689193,39.955717",
     "geom:latitude":39.955717,
     "geom:longitude":-74.689193,
@@ -27,7 +32,11 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oAhqrGMHyh9t3Z0xKMhI2_39.955717_-74.689193@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461303412,
     "wof:geomhash":"9c629a079b074f120dc585695253d978",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":655369845
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":655369845
+        }
+    ],
     "wof:id":655369845,
-    "wof:lastmodified":1466674841,
+    "wof:lastmodified":1492029381,
     "wof:name":"Cinco De Mayo",
-    "wof:parent_id":420526613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

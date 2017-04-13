@@ -2,9 +2,14 @@
   "id": 638774845,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 Long Hill Rd Little Falls NJ 07424",
+    "addr:housenumber":"181",
+    "addr:postcode":"07424",
+    "addr:street":"Long Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.206741,40.873269,-74.206741,40.873269",
     "geom:latitude":40.873269,
     "geom:longitude":-74.206741,
@@ -27,7 +32,13 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ENTBL1VGLH8uwID4jv9hd_40.873269_-74.206741@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461279672,
     "wof:geomhash":"bfff086197e0a5ccb04bd0bdd2f93422",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638774845
+        }
+    ],
     "wof:id":638774845,
-    "wof:lastmodified":1466681896,
+    "wof:lastmodified":1492041317,
     "wof:name":"Forever Yours Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

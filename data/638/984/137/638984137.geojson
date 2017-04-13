@@ -2,9 +2,14 @@
   "id": 638984137,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Columbia Ave Bergenfield NJ 07621",
+    "addr:housenumber":"22",
+    "addr:postcode":"07621",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.997007,40.936306,-73.997007,40.936306",
     "geom:latitude":40.936306,
     "geom:longitude":-73.997007,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hO6OaFJcsySDPky4UhuZV_40.936306_-73.997007@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461284730,
     "wof:geomhash":"ca84c1c070e63b1e0d778587fa38159e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":638984137
+        }
+    ],
     "wof:id":638984137,
-    "wof:lastmodified":1466691932,
+    "wof:lastmodified":1492029565,
     "wof:name":"RJA Design & Renovation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655763701,
   "type": "Feature",
   "properties": {
+    "addr:full":"173 La Rue Rd Newfoundland NJ 07435",
+    "addr:housenumber":"173",
+    "addr:postcode":"07435",
+    "addr:street":"La Rue Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.439201,41.060799,-74.439201,41.060799",
     "geom:latitude":41.060799,
     "geom:longitude":-74.439201,
@@ -24,7 +29,13 @@
     "sg:postcode":"07435",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dwtZ7aawgqExY5O1aSnJU_41.060799_-74.439201@1303262264"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461319799,
     "wof:geomhash":"b05606e806ac0bc66e2d2815ed3cd6e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":655763701
+        }
+    ],
     "wof:id":655763701,
-    "wof:lastmodified":1466685984,
+    "wof:lastmodified":1492068941,
     "wof:name":"Animal Damage Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

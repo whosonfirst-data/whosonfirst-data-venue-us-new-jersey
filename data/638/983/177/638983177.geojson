@@ -2,9 +2,14 @@
   "id": 638983177,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 Haddonfield Rd Pennsauken NJ 08110",
+    "addr:housenumber":"2821",
+    "addr:postcode":"08110",
+    "addr:street":"Haddonfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023357,39.9694,-75.023357,39.9694",
     "geom:latitude":39.9694,
     "geom:longitude":-75.023357,
@@ -27,7 +32,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iC0uR0LDzd97A9OyosQvG_39.969400_-75.023357@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284708,
     "wof:geomhash":"65d3aa7459beee648c3fbe43fe435c0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638983177
+        }
+    ],
     "wof:id":638983177,
-    "wof:lastmodified":1466691888,
+    "wof:lastmodified":1492030686,
     "wof:name":"Guardian Leasing Corp",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

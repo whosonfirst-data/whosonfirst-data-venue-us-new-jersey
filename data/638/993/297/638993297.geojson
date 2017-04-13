@@ -2,9 +2,14 @@
   "id": 638993297,
   "type": "Feature",
   "properties": {
+    "addr:full":"1194 Parkway Ave Trenton NJ 08628",
+    "addr:housenumber":"1194",
+    "addr:postcode":"08628",
+    "addr:street":"Parkway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.797671,40.260849,-74.797671,40.260849",
     "geom:latitude":40.260849,
     "geom:longitude":-74.797671,
@@ -27,7 +32,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KGJCufIttqRJxuVGmANa2_40.260849_-74.797671@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461284965,
     "wof:geomhash":"54c6aad726f6841fe207e31217f169cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":638993297
+        }
+    ],
     "wof:id":638993297,
-    "wof:lastmodified":1466692082,
+    "wof:lastmodified":1492019949,
     "wof:name":"Century 21",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

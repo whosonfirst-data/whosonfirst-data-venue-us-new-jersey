@@ -2,9 +2,14 @@
   "id": 655477377,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 US Hwy 206 Hillsborough NJ 08844",
+    "addr:housenumber":"425",
+    "addr:postcode":"08844",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.640176,40.507131,-74.640176,40.507131",
     "geom:latitude":40.507131,
     "geom:longitude":-74.640176,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85806449,
-        102085045
+        85858977,
+        102085045,
+        85806449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85858977,
+            "region_id":85688607,
+            "venue_id":655477377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85806449,
             "region_id":85688607,
             "venue_id":655477377
         }
     ],
     "wof:id":655477377,
-    "wof:lastmodified":1466677578,
+    "wof:lastmodified":1492046974,
     "wof:name":"Provident Bank",
-    "wof:parent_id":85806449,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

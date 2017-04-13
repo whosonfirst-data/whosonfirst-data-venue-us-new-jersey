@@ -2,9 +2,14 @@
   "id": 655576535,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Spicy Pond Rd Howell NJ 07731",
+    "addr:housenumber":"12",
+    "addr:postcode":"07731",
+    "addr:street":"Spicy Pond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256237,40.150661,-74.256237,40.150661",
     "geom:latitude":40.150661,
     "geom:longitude":-74.256237,
@@ -24,7 +29,10 @@
     "sg:postcode":"07731",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iCMcJxTmwLezB3rI90yxW_40.150661_-74.256237@1294171694"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461312017,
     "wof:geomhash":"7aa375edf12814186795dd41beca0b63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":655576535
+        }
+    ],
     "wof:id":655576535,
-    "wof:lastmodified":1466680227,
+    "wof:lastmodified":1492068329,
     "wof:name":"Fogarty Accounting Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

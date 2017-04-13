@@ -2,9 +2,14 @@
   "id": 639457315,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Brian St Lakewood NJ 08701",
+    "addr:housenumber":"22",
+    "addr:postcode":"08701",
+    "addr:street":"Brian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.167827,40.102436,-74.167827,40.102436",
     "geom:latitude":40.102436,
     "geom:longitude":-74.167827,
@@ -27,7 +32,10 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DsMd2U3gQe3XpHwtDpjPf_40.102436_-74.167827@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295701,
     "wof:geomhash":"ce26e87d063777ab330bfa9417eaab76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639457315
+        }
+    ],
     "wof:id":639457315,
-    "wof:lastmodified":1466693675,
+    "wof:lastmodified":1492070970,
     "wof:name":"American Rose Society",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

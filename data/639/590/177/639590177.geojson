@@ -2,9 +2,14 @@
   "id": 639590177,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Ramapo Valley Rd Mahwah NJ 07430",
+    "addr:housenumber":"65",
+    "addr:postcode":"07430",
+    "addr:street":"Ramapo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.150911,41.103255,-74.150911,41.103255",
     "geom:latitude":41.103255,
     "geom:longitude":-74.150911,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wje4XfykhQ4xs7SJfVoex_41.103255_-74.150911@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461301346,
     "wof:geomhash":"c6f69769d2b49bd2970a3e493c57cecb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":639590177
+        }
+    ],
     "wof:id":639590177,
-    "wof:lastmodified":1466696747,
+    "wof:lastmodified":1492068281,
     "wof:name":"J C Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

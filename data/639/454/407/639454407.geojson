@@ -2,9 +2,14 @@
   "id": 639454407,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Chaucer Dr Berkeley Heights NJ 07922",
+    "addr:housenumber":"16",
+    "addr:postcode":"07922",
+    "addr:street":"Chaucer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.45603,40.670578,-74.45603,40.670578",
     "geom:latitude":40.670578,
     "geom:longitude":-74.45603,
@@ -27,7 +32,12 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85892331,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i1BWtq0eLTPMIEQms5xAt_40.670578_-74.456030@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461295591,
     "wof:geomhash":"7569b27c10db8e52a0d40151691b554e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85892331,
+            "region_id":85688607,
+            "venue_id":639454407
+        }
+    ],
     "wof:id":639454407,
-    "wof:lastmodified":1466693757,
+    "wof:lastmodified":1492047196,
     "wof:name":"Iannone Bros Lndscp LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

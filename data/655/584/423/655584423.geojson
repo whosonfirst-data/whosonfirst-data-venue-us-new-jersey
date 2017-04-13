@@ -2,9 +2,14 @@
   "id": 655584423,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Spring Mills Rd Milford NJ 08848",
+    "addr:housenumber":"131",
+    "addr:postcode":"08848",
+    "addr:street":"Spring Mills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.100371,40.596884,-75.100371,40.596884",
     "geom:latitude":40.596884,
     "geom:longitude":-75.100371,
@@ -27,7 +32,10 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gXRRT3b5Tknyo8VgnS8iz_40.596884_-75.100371@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461312360,
     "wof:geomhash":"48e5bfe9654c5b8aef7fcaee9d40a71e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527141,
+            "venue_id":655584423
+        }
+    ],
     "wof:id":655584423,
-    "wof:lastmodified":1466680426,
+    "wof:lastmodified":1492048107,
     "wof:name":"Municipal Garage",
     "wof:parent_id":420527141,
     "wof:placetype":"venue",

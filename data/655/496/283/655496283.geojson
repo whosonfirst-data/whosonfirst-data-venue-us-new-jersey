@@ -2,9 +2,14 @@
   "id": 655496283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Rockwell Rd Belvidere NJ 07823",
+    "addr:housenumber":"2",
+    "addr:postcode":"07823",
+    "addr:street":"Rockwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.991276,40.83459,-74.991276,40.83459",
     "geom:latitude":40.83459,
     "geom:longitude":-74.991276,
@@ -27,7 +32,13 @@
         "programming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478535,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ty4nWsbucQMLhZ60QiRQp_40.834590_-74.991276@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461308678,
     "wof:geomhash":"cfbf3d4eebd1bc5c37a77ef0bcffc526",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478535,
+            "region_id":85688607,
+            "venue_id":655496283
+        }
+    ],
     "wof:id":655496283,
-    "wof:lastmodified":1466677985,
+    "wof:lastmodified":1492040961,
     "wof:name":"Sombers Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

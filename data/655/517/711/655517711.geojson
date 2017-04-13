@@ -2,9 +2,14 @@
   "id": 655517711,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Pleasant Ave Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"120",
+    "addr:postcode":"07458",
+    "addr:street":"Pleasant Ave Upper Saddle Rvr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.121375,41.052012,-74.121375,41.052012",
     "geom:latitude":41.052012,
     "geom:longitude":-74.121375,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UqtPboRMP45hTpmhQFoes_41.052012_-74.121375@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309591,
     "wof:geomhash":"8c96927dfa18dd03ae00115c3aac5e6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655517711
+        }
+    ],
     "wof:id":655517711,
-    "wof:lastmodified":1466678730,
+    "wof:lastmodified":1492048999,
     "wof:name":"Jack Daniel Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

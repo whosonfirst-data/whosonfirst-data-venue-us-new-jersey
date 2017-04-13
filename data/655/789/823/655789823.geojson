@@ -2,9 +2,14 @@
   "id": 655789823,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Cherry Ln Newton NJ 07860",
+    "addr:housenumber":"21",
+    "addr:postcode":"07860",
+    "addr:street":"Cherry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.736389,41.076165,-74.736389,41.076165",
     "geom:latitude":41.076165,
     "geom:longitude":-74.736389,
@@ -35,7 +40,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57NxO1PmEsw8zjfeKMZqAD_41.076165_-74.736389@1303262270"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461320971,
     "wof:geomhash":"1712ebe034e8f26a7d9a47165559e732",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789823
+        }
+    ],
     "wof:id":655789823,
-    "wof:lastmodified":1466686729,
+    "wof:lastmodified":1492070867,
     "wof:name":"Emileigh-Loop Embroudery",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655608885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2489 Richards Ave Atco NJ 08004",
+    "addr:housenumber":"2489",
+    "addr:postcode":"08004",
+    "addr:street":"Richards Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.85464,39.783322,-74.85464,39.783322",
     "geom:latitude":39.783322,
     "geom:longitude":-74.85464,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hxmC6p0sGPw4duU0iWzMf_39.783322_-74.854640@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313380,
     "wof:geomhash":"1a403b1c58a7749601b0d638e39a576d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":655608885
+        }
+    ],
     "wof:id":655608885,
-    "wof:lastmodified":1466681615,
+    "wof:lastmodified":1492025152,
     "wof:name":"Typing Chick Professional Svc",
     "wof:parent_id":420526725,
     "wof:placetype":"venue",

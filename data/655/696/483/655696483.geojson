@@ -2,9 +2,14 @@
   "id": 655696483,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 N Main St Forked River NJ 08731",
+    "addr:housenumber":"208",
+    "addr:postcode":"08731",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.188343,39.843821,-74.188343,39.843821",
     "geom:latitude":39.843821,
     "geom:longitude":-74.188343,
@@ -29,7 +34,10 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gxmt8boWUqgkdpW1QjZNu_39.843692_-74.188443@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461317160,
     "wof:geomhash":"fb0133dd91a39d299f3b14e0ef8cfc95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527429,
+            "venue_id":655696483
+        }
+    ],
     "wof:id":655696483,
-    "wof:lastmodified":1466684273,
+    "wof:lastmodified":1492048169,
     "wof:name":"Riverside Diner",
     "wof:parent_id":420527429,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639542015,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Georgetown Blvd Barnegat NJ 08005",
+    "addr:housenumber":"101",
+    "addr:postcode":"08005",
+    "addr:street":"Georgetown Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248791,39.739841,-74.248791,39.739841",
     "geom:latitude":39.739841,
     "geom:longitude":-74.248791,
@@ -28,7 +33,10 @@
         "recovery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69Rr04rkPmlCY29sFliSn1_39.739841_-74.248791@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299408,
     "wof:geomhash":"22661b46a19a34ad85565e5a409e954a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527411,
+            "venue_id":639542015
+        }
+    ],
     "wof:id":639542015,
-    "wof:lastmodified":1466695544,
+    "wof:lastmodified":1492049705,
     "wof:name":"Jacks Towing & Recovery",
     "wof:parent_id":420527411,
     "wof:placetype":"venue",

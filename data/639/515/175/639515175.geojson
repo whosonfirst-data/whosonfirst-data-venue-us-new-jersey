@@ -2,9 +2,14 @@
   "id": 639515175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1387 Monmouth Rd Mount Holly NJ 08060",
+    "addr:housenumber":"1387",
+    "addr:postcode":"08060",
+    "addr:street":"Monmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.742448,40.014101,-74.742448,40.014101",
     "geom:latitude":40.014101,
     "geom:longitude":-74.742448,
@@ -27,7 +32,13 @@
         "pool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85810355,
+        102087415,
+        85849139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fzrOlZOXvn8UPiKxTDpfJ_40.014101_-74.742448@1294171694"
@@ -35,11 +46,26 @@
     "wof:country":"US",
     "wof:created":1461298077,
     "wof:geomhash":"15954dd8d08c9ccad3c7737ee7e1d682",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85810355,
+            "region_id":85688607,
+            "venue_id":639515175
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85849139,
+            "region_id":85688607,
+            "venue_id":639515175
+        }
+    ],
     "wof:id":639515175,
-    "wof:lastmodified":1466695199,
+    "wof:lastmodified":1492060810,
     "wof:name":"Splash Pools & Spa Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

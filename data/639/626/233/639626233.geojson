@@ -2,9 +2,14 @@
   "id": 639626233,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Little York Mount Pleasant Rd Milford NJ 08848",
+    "addr:housenumber":"480",
+    "addr:postcode":"08848",
+    "addr:street":"Little;Mount Pleasant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.071286,40.599906,-75.071286,40.599906",
     "geom:latitude":40.599906,
     "geom:longitude":-75.071286,
@@ -29,7 +34,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EQqIzWxvO36Z1biQw6AA_40.599906_-75.071286@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461302744,
     "wof:geomhash":"9ef3dc082f3a173f4c2bf183def29585",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639626233
+        }
+    ],
     "wof:id":639626233,
-    "wof:lastmodified":1466697450,
+    "wof:lastmodified":1492053541,
     "wof:name":"Gilded Quill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

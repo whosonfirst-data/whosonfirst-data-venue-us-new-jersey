@@ -2,9 +2,14 @@
   "id": 655568067,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Nightingale Rd Blairstown NJ 07825",
+    "addr:housenumber":"121",
+    "addr:postcode":"07825",
+    "addr:street":"Nightingale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021921,40.904763,-75.021921,40.904763",
     "geom:latitude":40.904763,
     "geom:longitude":-75.021921,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SAbnAVQh3NpKu2QhW9Qcl_40.904763_-75.021921@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311625,
     "wof:geomhash":"9b1b6b828487d96c5978b1110235efcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527765,
+            "venue_id":655568067
+        }
+    ],
     "wof:id":655568067,
-    "wof:lastmodified":1466679951,
+    "wof:lastmodified":1492038962,
     "wof:name":"Acc Contracting",
     "wof:parent_id":420527765,
     "wof:placetype":"venue",

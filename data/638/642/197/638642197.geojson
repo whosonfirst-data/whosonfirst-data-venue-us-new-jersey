@@ -2,9 +2,14 @@
   "id": 638642197,
   "type": "Feature",
   "properties": {
+    "addr:full":"2025 Columbus Rd Burlington NJ 08016",
+    "addr:housenumber":"2025",
+    "addr:postcode":"08016",
+    "addr:street":"Columbus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.805239,40.080289,-74.805239,40.080289",
     "geom:latitude":40.080289,
     "geom:longitude":-74.805239,
@@ -28,7 +33,10 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62nliRgKo0uSr0DyB3RqtA_40.080289_-74.805239@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275583,
     "wof:geomhash":"7bbc359d0d5a3c5d3b5e072236953319",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526601,
+            "venue_id":638642197
+        }
+    ],
     "wof:id":638642197,
-    "wof:lastmodified":1466673475,
+    "wof:lastmodified":1492062577,
     "wof:name":"WIFI",
     "wof:parent_id":420526601,
     "wof:placetype":"venue",

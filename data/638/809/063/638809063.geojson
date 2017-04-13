@@ -2,9 +2,14 @@
   "id": 638809063,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 W 3rd St South Orange NJ 07079",
+    "addr:housenumber":"28",
+    "addr:postcode":"07079",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263474,40.744902,-74.263474,40.744902",
     "geom:latitude":40.744902,
     "geom:longitude":-74.263474,
@@ -28,7 +33,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uruKsZaj132aZBbINOp9Z_40.744902_-74.263474@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280424,
     "wof:geomhash":"9c666bb7fef54dadb90ae0d1b4243713",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":638809063
+        }
+    ],
     "wof:id":638809063,
-    "wof:lastmodified":1466686768,
+    "wof:lastmodified":1492029658,
     "wof:name":"Bank Street Commons",
     "wof:parent_id":420526927,
     "wof:placetype":"venue",

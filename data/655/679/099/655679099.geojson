@@ -2,9 +2,14 @@
   "id": 655679099,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 W Hazelwood Ave Rahway NJ 07065",
+    "addr:housenumber":"27",
+    "addr:postcode":"07065",
+    "addr:street":"W Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.281197,40.6026,-74.281197,40.6026",
     "geom:latitude":40.6026,
     "geom:longitude":-74.281197,
@@ -29,7 +34,14 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v9UsS8iSj7EXF7bQqS45v_40.602909_-74.281431@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316378,
     "wof:geomhash":"ac6209446f26087eb087a25bab029c63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655679099
+        }
+    ],
     "wof:id":655679099,
-    "wof:lastmodified":1466683662,
+    "wof:lastmodified":1492068854,
     "wof:name":"Propane Filling Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

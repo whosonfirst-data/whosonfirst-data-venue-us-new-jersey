@@ -2,9 +2,14 @@
   "id": 655468885,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Ridge Rd North Arlington NJ 07031",
+    "addr:housenumber":"206",
+    "addr:postcode":"07031",
+    "addr:street":"Ridge Rd North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133875,40.787737,-74.133875,40.787737",
     "geom:latitude":40.787737,
     "geom:longitude":-74.133875,
@@ -28,7 +33,14 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QV2GcFG69MRGfUmORKxkr_40.787737_-74.133875@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307535,
     "wof:geomhash":"6e868685b2d69cdde712a7b0278ca52c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655468885
+        }
+    ],
     "wof:id":655468885,
-    "wof:lastmodified":1466677481,
+    "wof:lastmodified":1492028645,
     "wof:name":"24 Hour A Day Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

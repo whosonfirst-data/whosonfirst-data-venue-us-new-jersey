@@ -2,9 +2,14 @@
   "id": 655600235,
   "type": "Feature",
   "properties": {
+    "addr:full":"839 Raritan Ave Atco NJ 08004",
+    "addr:housenumber":"839",
+    "addr:postcode":"08004",
+    "addr:street":"Raritan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.853486,39.764567,-74.853486,39.764567",
     "geom:latitude":39.764567,
     "geom:longitude":-74.853486,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AQnmG60EZ8irrYsC2Yko1_39.764567_-74.853486@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461313022,
     "wof:geomhash":"3139ef0af0a4d612832d9f0fa03fbf29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":655600235
+        }
+    ],
     "wof:id":655600235,
-    "wof:lastmodified":1466680972,
+    "wof:lastmodified":1492024548,
     "wof:name":"Mc Cartys Boiler Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

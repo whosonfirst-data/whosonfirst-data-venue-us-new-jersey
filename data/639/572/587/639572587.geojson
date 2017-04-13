@@ -2,9 +2,14 @@
   "id": 639572587,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Lasinski Rd Franklin NJ 07416",
+    "addr:housenumber":"112",
+    "addr:postcode":"07416",
+    "addr:street":"Lasinski Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.617612,41.121738,-74.617612,41.121738",
     "geom:latitude":41.121738,
     "geom:longitude":-74.617612,
@@ -27,7 +32,10 @@
         "mold"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ku703KzhA6xZ7SIlSr7NV_41.121738_-74.617612@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300620,
     "wof:geomhash":"7cd518670c6be8963c01719256c7c2c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527625,
+            "venue_id":639572587
+        }
+    ],
     "wof:id":639572587,
-    "wof:lastmodified":1466696237,
+    "wof:lastmodified":1492081931,
     "wof:name":"CPS Precision Tool Co",
     "wof:parent_id":420527625,
     "wof:placetype":"venue",

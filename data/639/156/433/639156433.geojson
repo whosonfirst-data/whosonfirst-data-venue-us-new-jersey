@@ -2,9 +2,14 @@
   "id": 639156433,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Radtke Rd Randolph NJ 07869",
+    "addr:housenumber":"65",
+    "addr:postcode":"07869",
+    "addr:street":"Radtke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.54533,40.846008,-74.54533,40.846008",
     "geom:latitude":40.846008,
     "geom:longitude":-74.54533,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85848511,
-        102087413
+        102087413,
+        85834231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85848511,
             "region_id":85688607,
             "venue_id":639156433
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85834231,
+            "region_id":85688607,
+            "venue_id":639156433
         }
     ],
     "wof:id":639156433,
-    "wof:lastmodified":1466682348,
+    "wof:lastmodified":1492042365,
     "wof:name":"East Coast Investments Inc",
-    "wof:parent_id":85848511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

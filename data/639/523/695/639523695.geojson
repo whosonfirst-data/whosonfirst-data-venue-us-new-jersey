@@ -2,9 +2,14 @@
   "id": 639523695,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Knickerbocker Rd Demarest NJ 07627",
+    "addr:housenumber":"95",
+    "addr:postcode":"07627",
+    "addr:street":"Knickerbocker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.975107,40.958169,-73.975107,40.958169",
     "geom:latitude":40.958169,
     "geom:longitude":-73.975107,
@@ -27,7 +32,14 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sXThgQGTcrH9q6rYge1Io_40.958169_-73.975107@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461298491,
     "wof:geomhash":"bd6b653b560022970fbf50a6de7359b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":639523695
+        }
+    ],
     "wof:id":639523695,
-    "wof:lastmodified":1466695228,
+    "wof:lastmodified":1492049648,
     "wof:name":"A & A Viktor Limousine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

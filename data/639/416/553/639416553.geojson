@@ -2,9 +2,14 @@
   "id": 639416553,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Ivy Ln Cherry Hill NJ 08002",
+    "addr:housenumber":"35",
+    "addr:postcode":"08002",
+    "addr:street":"Ivy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003576,39.93287,-75.003576,39.93287",
     "geom:latitude":39.93287,
     "geom:longitude":-75.003576,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uLSTdepdQBiLr7xtQ1zfM_39.932870_-75.003576@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461294631,
     "wof:geomhash":"d984e39857cf1dcd3b7b76deedb03bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639416553
+        }
+    ],
     "wof:id":639416553,
-    "wof:lastmodified":1466693409,
+    "wof:lastmodified":1492051292,
     "wof:name":"Institute For Mammography RES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

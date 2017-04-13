@@ -2,9 +2,14 @@
   "id": 639490407,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 County Rd Tenafly NJ 07670",
+    "addr:housenumber":"228",
+    "addr:postcode":"07670",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959724,40.931804,-73.959724,40.931804",
     "geom:latitude":40.931804,
     "geom:longitude":-73.959724,
@@ -28,7 +33,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477305,
+        85633793,
+        85975909,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rou6K8XuDNYttgJGHaMyT_40.931804_-73.959724@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297042,
     "wof:geomhash":"f0b80265d5f9ab72bf4cf835a7cff0cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477305,
+            "locality_id":85975909,
+            "region_id":85688607,
+            "venue_id":639490407
+        }
+    ],
     "wof:id":639490407,
-    "wof:lastmodified":1466694476,
+    "wof:lastmodified":1492048848,
     "wof:name":"Ae 21",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

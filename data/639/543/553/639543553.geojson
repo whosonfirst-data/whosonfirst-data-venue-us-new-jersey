@@ -2,9 +2,14 @@
   "id": 639543553,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Mansfield Rd E Columbus NJ 08022",
+    "addr:housenumber":"34",
+    "addr:postcode":"08022",
+    "addr:street":"Mansfield Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.673094,40.084095,-74.673094,40.084095",
     "geom:latitude":40.084095,
     "geom:longitude":-74.673094,
@@ -29,7 +34,10 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9d0R6fskOI2WDqko8HKX_40.084095_-74.673094@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461299477,
     "wof:geomhash":"42ebea1f8518db0c641b66ea255446d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639543553
+        }
+    ],
     "wof:id":639543553,
-    "wof:lastmodified":1466695791,
+    "wof:lastmodified":1492047926,
     "wof:name":"Sterling Lawns",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

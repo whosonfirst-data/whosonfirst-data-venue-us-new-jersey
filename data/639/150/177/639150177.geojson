@@ -2,9 +2,14 @@
   "id": 639150177,
   "type": "Feature",
   "properties": {
+    "addr:full":"491 Ave C Kenilworth NJ 07002",
+    "addr:housenumber":"491",
+    "addr:postcode":"07002",
+    "addr:street":"Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.121637,40.663823,-74.121637,40.663823",
     "geom:latitude":40.663823,
     "geom:longitude":-74.121637,
@@ -27,7 +32,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BF805KHVeXHtnwDnxNcJC_40.663823_-74.121637@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461288526,
     "wof:geomhash":"d110c41ba05fcb472ab883aafa46251a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":639150177
+        }
+    ],
     "wof:id":639150177,
-    "wof:lastmodified":1466681360,
+    "wof:lastmodified":1492042874,
     "wof:name":"Kenilworth Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655619411,
   "type": "Feature",
   "properties": {
+    "addr:full":"288 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"288",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.980251,40.768595,-74.980251,40.768595",
     "geom:latitude":40.768595,
     "geom:longitude":-74.980251,
@@ -29,7 +34,10 @@
         "fabric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OBZxZFQTWJ546cQtIxvDm_40.768595_-74.980251@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461313856,
     "wof:geomhash":"b83d3a9e197e0ba4e803a562f66f4e23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655619411
+        }
+    ],
     "wof:id":655619411,
-    "wof:lastmodified":1466681777,
+    "wof:lastmodified":1492040965,
     "wof:name":"Washington One Stop",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

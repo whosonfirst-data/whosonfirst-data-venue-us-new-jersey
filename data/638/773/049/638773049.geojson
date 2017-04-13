@@ -2,9 +2,14 @@
   "id": 638773049,
   "type": "Feature",
   "properties": {
+    "addr:full":"446 Jack Martin Blvd Brick NJ 08724",
+    "addr:housenumber":"446",
+    "addr:postcode":"08724",
+    "addr:street":"Jack Martin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.130157,40.078544,-74.130157,40.078544",
     "geom:latitude":40.078544,
     "geom:longitude":-74.130157,
@@ -29,7 +34,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85829965,
+        102081485,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MClNP6ctw4MmPK1amimHF_40.078544_-74.130157@1294171694"
@@ -37,11 +48,24 @@
     "wof:country":"US",
     "wof:created":1461279630,
     "wof:geomhash":"e70919c3e77ec970907f1b5eeb82c371",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85829965,
+            "region_id":85688607,
+            "venue_id":638773049
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":638773049
+        }
+    ],
     "wof:id":638773049,
-    "wof:lastmodified":1466681663,
+    "wof:lastmodified":1492065592,
     "wof:name":"Shore Health Group",
-    "wof:parent_id":420527407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

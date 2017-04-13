@@ -2,9 +2,14 @@
   "id": 639041767,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Dorchester Dr Hightstown NJ 08520",
+    "addr:housenumber":"143",
+    "addr:postcode":"08520",
+    "addr:street":"Dorchester Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.574982,40.267311,-74.574982,40.267311",
     "geom:latitude":40.267311,
     "geom:longitude":-74.574982,
@@ -24,7 +29,13 @@
     "sg:postcode":"08520",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hL3IxR9tMosfrarBAT04o_40.267311_-74.574982@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461286090,
     "wof:geomhash":"b0409b6d2c90a2833f1203d4ff681290",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639041767
+        }
+    ],
     "wof:id":639041767,
-    "wof:lastmodified":1466674102,
+    "wof:lastmodified":1492069727,
     "wof:name":"Lighthouse Business Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

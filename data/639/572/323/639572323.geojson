@@ -2,9 +2,14 @@
   "id": 639572323,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Farrington Ln Somerville NJ 08876",
+    "addr:housenumber":"19",
+    "addr:postcode":"08876",
+    "addr:street":"Farrington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.717365,40.566281,-74.717365,40.566281",
     "geom:latitude":40.566281,
     "geom:longitude":-74.717365,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477915,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60lwxmJBFmeCCceYVYPyBZ_40.566281_-74.717365@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461300611,
     "wof:geomhash":"c3260e61a1ca81d70b0c29a058d716a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477915,
+            "region_id":85688607,
+            "venue_id":639572323
+        }
+    ],
     "wof:id":639572323,
-    "wof:lastmodified":1466696192,
+    "wof:lastmodified":1492065221,
     "wof:name":"V Heileman Electric Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

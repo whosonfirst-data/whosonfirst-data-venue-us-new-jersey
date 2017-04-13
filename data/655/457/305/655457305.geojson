@@ -2,9 +2,14 @@
   "id": 655457305,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Elmwood Dr Elmwood Park NJ 07407",
+    "addr:housenumber":"25",
+    "addr:postcode":"07407",
+    "addr:street":"Elmwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127312,40.913872,-74.127312,40.913872",
     "geom:latitude":40.913872,
     "geom:longitude":-74.127312,
@@ -24,7 +29,14 @@
     "sg:postcode":"07407",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N8ncB5OPYVNZ0D7omKJXG_40.913872_-74.127312@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461307042,
     "wof:geomhash":"8f3a7d917dd492fc43a35844b94909b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655457305
+        }
+    ],
     "wof:id":655457305,
-    "wof:lastmodified":1466677030,
+    "wof:lastmodified":1492024241,
     "wof:name":"Ignacio Rommer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

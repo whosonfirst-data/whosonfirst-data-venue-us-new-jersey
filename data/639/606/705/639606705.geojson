@@ -2,9 +2,14 @@
   "id": 639606705,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Co Rd 520 Morganville NJ 07726",
+    "addr:housenumber":"50;520",
+    "addr:postcode":"07726",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.306299,40.352997,-74.306299,40.352997",
     "geom:latitude":40.352997,
     "geom:longitude":-74.306299,
@@ -24,7 +29,15 @@
     "sg:postcode":"07726",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420527245,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DkRNHdJ0fnhfdejU5NxJv_40.352997_-74.306299@1294171694"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1461301987,
     "wof:geomhash":"93993c39198ea42be45d6bcd3bf83b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "neighbourhood_id":420527245,
+            "region_id":85688607,
+            "venue_id":639606705
+        }
+    ],
     "wof:id":639606705,
-    "wof:lastmodified":1466697244,
+    "wof:lastmodified":1492051031,
     "wof:name":"Goddard School",
     "wof:parent_id":420527245,
     "wof:placetype":"venue",

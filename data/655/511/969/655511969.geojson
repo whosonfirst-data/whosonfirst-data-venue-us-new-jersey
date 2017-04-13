@@ -2,9 +2,14 @@
   "id": 655511969,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Lynn St Harrington Park NJ 07640",
+    "addr:housenumber":"157",
+    "addr:postcode":"07640",
+    "addr:street":"Lynn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.98294,40.989026,-73.98294,40.989026",
     "geom:latitude":40.989026,
     "geom:longitude":-73.98294,
@@ -24,7 +29,14 @@
     "sg:postcode":"07640",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WvNmL5rujceRyPhepYK77_40.989026_-73.982940@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461309371,
     "wof:geomhash":"ca86d52c01c9993269feb1f6391d5230",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":655511969
+        }
+    ],
     "wof:id":655511969,
-    "wof:lastmodified":1466678611,
+    "wof:lastmodified":1492053722,
     "wof:name":"Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

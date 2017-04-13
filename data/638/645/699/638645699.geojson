@@ -2,9 +2,14 @@
   "id": 638645699,
   "type": "Feature",
   "properties": {
+    "addr:full":"6103 Westfield Ave Pennsauken NJ 08110",
+    "addr:housenumber":"6103",
+    "addr:postcode":"08110",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057667,39.963635,-75.057667,39.963635",
     "geom:latitude":39.963635,
     "geom:longitude":-75.057667,
@@ -29,7 +34,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526749,
+        102191575,
+        404478023,
+        85633793,
+        102081131,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NPqKJ4nGLLo4VfDwfqrU1_39.963635_-75.057667@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461275681,
     "wof:geomhash":"0a5b15fddcf9ebad28826d44247bdf9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "neighbourhood_id":420526749,
+            "region_id":85688607,
+            "venue_id":638645699
+        }
+    ],
     "wof:id":638645699,
-    "wof:lastmodified":1466673664,
+    "wof:lastmodified":1492043193,
     "wof:name":"Wiley Adult Medical Day Svc",
     "wof:parent_id":420526749,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655536473,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Gold St North Arlington NJ 07031",
+    "addr:housenumber":"39",
+    "addr:postcode":"07031",
+    "addr:street":"Gold St North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133976,40.79196,-74.133976,40.79196",
     "geom:latitude":40.79196,
     "geom:longitude":-74.133976,
@@ -28,7 +33,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477697,
+        85633793,
+        85975967,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YSsajspBGeQsBv6Oqoy9R_40.791960_-74.133976@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461310293,
     "wof:geomhash":"4350080c0d787eccb3bea8c6e5cb0ea6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477697,
+            "locality_id":85975967,
+            "region_id":85688607,
+            "venue_id":655536473
+        }
+    ],
     "wof:id":655536473,
-    "wof:lastmodified":1466679140,
+    "wof:lastmodified":1492045588,
     "wof:name":"Disessa Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638736557,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Manchester Ave Haledon NJ 07508",
+    "addr:housenumber":"20",
+    "addr:postcode":"07508",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.181007,40.954056,-74.181007,40.954056",
     "geom:latitude":40.954056,
     "geom:longitude":-74.181007,
@@ -24,7 +29,15 @@
     "sg:postcode":"07508",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879787,
+        102191575,
+        404477819,
+        85633793,
+        85975481,
+        102081133,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tUsR9QhT4wwSCVln4zXBD_40.954056_-74.181007@1294171694"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461278655,
     "wof:geomhash":"709c5572e148ab9ffe7df6753f95b63a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
+            "neighbourhood_id":85879787,
+            "region_id":85688607,
+            "venue_id":638736557
+        }
+    ],
     "wof:id":638736557,
-    "wof:lastmodified":1466676375,
+    "wof:lastmodified":1492023558,
     "wof:name":"Falkenas True Value",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

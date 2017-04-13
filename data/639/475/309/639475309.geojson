@@ -2,9 +2,14 @@
   "id": 639475309,
   "type": "Feature",
   "properties": {
+    "addr:full":"172 Washington St Northvale NJ 07647",
+    "addr:housenumber":"172",
+    "addr:postcode":"07647",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948954,41.002305,-73.948954,41.002305",
     "geom:latitude":41.002305,
     "geom:longitude":-73.948954,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hKA7N6ZI8WHSBTg3HgsXh_41.002305_-73.948954@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296408,
     "wof:geomhash":"a56d456d7fecd2a4c9b3aea746c9f68b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":639475309
+        }
+    ],
     "wof:id":639475309,
-    "wof:lastmodified":1466694257,
+    "wof:lastmodified":1492049551,
     "wof:name":"Saryu Dani MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

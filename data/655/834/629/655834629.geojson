@@ -2,9 +2,14 @@
   "id": 655834629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1987 N Olden Avenue Ext Ewing NJ 08618",
+    "addr:housenumber":"1987",
+    "addr:postcode":"08618",
+    "addr:street":"N Olden Avenue Ext",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.788689,40.252099,-74.788689,40.252099",
     "geom:latitude":40.252099,
     "geom:longitude":-74.788689,
@@ -30,7 +35,10 @@
     "sg:province":"NJ",
     "sg:website":"http://www.familydollar.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hcXILm894Pt9IqMcAcIQS_40.252099_-74.788689@1303262282"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461322851,
     "wof:geomhash":"45a564078ea5cb60bbb6a96e891e6cea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527147,
+            "venue_id":655834629
+        }
+    ],
     "wof:id":655834629,
-    "wof:lastmodified":1466687904,
+    "wof:lastmodified":1492065601,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":420527147,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639235995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1440 Main St Rahway NJ 07065",
+    "addr:housenumber":"1440",
+    "addr:postcode":"07065",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.274471,40.605703,-74.274471,40.605703",
     "geom:latitude":40.605703,
     "geom:longitude":-74.274471,
@@ -27,7 +32,14 @@
         "attendant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BeKt99bFHJWD4TXruficG_40.605703_-74.274471@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461290499,
     "wof:geomhash":"5b864a630a561fbc6a2ef66bace5bc0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639235995
+        }
+    ],
     "wof:id":639235995,
-    "wof:lastmodified":1466689986,
+    "wof:lastmodified":1492032721,
     "wof:name":"Rahway Parking Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

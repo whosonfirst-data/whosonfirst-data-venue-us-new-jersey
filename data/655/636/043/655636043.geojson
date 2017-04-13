@@ -2,9 +2,14 @@
   "id": 655636043,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Goffle Rd Wyckoff NJ 07450",
+    "addr:housenumber":"405",
+    "addr:postcode":"07450",
+    "addr:street":"Goffle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141635,40.982473,-74.141635,40.982473",
     "geom:latitude":40.982473,
     "geom:longitude":-74.141635,
@@ -29,7 +34,13 @@
         "lithographic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SWe6VnDc5zudSMeXZ7LJp_40.982473_-74.141635@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461314604,
     "wof:geomhash":"a7037a39a66a44b1f1b3f65afa7bfee0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":655636043
+        }
+    ],
     "wof:id":655636043,
-    "wof:lastmodified":1466682128,
+    "wof:lastmodified":1492029569,
     "wof:name":"Sir Speedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

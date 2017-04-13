@@ -2,9 +2,14 @@
   "id": 639412871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1460 Chestnut Ave Hillside NJ 07205",
+    "addr:housenumber":"1460",
+    "addr:postcode":"07205",
+    "addr:street":"Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.233015,40.707758,-74.233015,40.707758",
     "geom:latitude":40.707758,
     "geom:longitude":-74.233015,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MqrWNrM4G9Lg8EGRnqMqc_40.707758_-74.233015@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461294550,
     "wof:geomhash":"fbba2778f70f7d8f0a8df6028ffd55b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639412871
+        }
+    ],
     "wof:id":639412871,
-    "wof:lastmodified":1466693195,
+    "wof:lastmodified":1492078914,
     "wof:name":"Suenest Realty Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

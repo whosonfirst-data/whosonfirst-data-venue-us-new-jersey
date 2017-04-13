@@ -2,9 +2,14 @@
   "id": 639393141,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Lowell Ct Princeton NJ 08540",
+    "addr:housenumber":"108",
+    "addr:postcode":"08540",
+    "addr:street":"Lowell Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.65768,40.322139,-74.65768,40.322139",
     "geom:latitude":40.322139,
     "geom:longitude":-74.65768,
@@ -27,7 +32,13 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iRLaVOLjaRx0Ywxr4RljG_40.322139_-74.657680@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293936,
     "wof:geomhash":"dfc9a7d997946d982b2ee175825f47c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":639393141
+        }
+    ],
     "wof:id":639393141,
-    "wof:lastmodified":1466692794,
+    "wof:lastmodified":1492075213,
     "wof:name":"Matthew J Coefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

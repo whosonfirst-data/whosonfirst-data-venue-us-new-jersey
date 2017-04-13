@@ -2,9 +2,14 @@
   "id": 639619225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 Thomas Busch Mem Hwy Pennsauken NJ 08110",
+    "addr:housenumber":"1025",
+    "addr:postcode":"08110",
+    "addr:street":"Thomas Busch Mem Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029736,39.988558,-75.029736,39.988558",
     "geom:latitude":39.988558,
     "geom:longitude":-75.029736,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.ucfamerica.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478023,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4opHAdV6IKkZv4Ime2ysoc_39.988558_-75.029736@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461302478,
     "wof:geomhash":"a89cec7b89e4836fa8615d9a96b568c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478023,
+            "region_id":85688607,
+            "venue_id":639619225
+        }
+    ],
     "wof:id":639619225,
-    "wof:lastmodified":1466697402,
+    "wof:lastmodified":1492047557,
     "wof:name":"UCF America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655389023,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 W Hampton St Pemberton NJ 08068",
+    "addr:housenumber":"7",
+    "addr:postcode":"08068",
+    "addr:street":"W Hampton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.685566,39.967571,-74.685566,39.967571",
     "geom:latitude":39.967571,
     "geom:longitude":-74.685566,
@@ -27,7 +32,10 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZoYrwRc6y8riXX5jYQmiJ_39.967571_-74.685566@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304165,
     "wof:geomhash":"185e993224cac9aba5ebe7697735858e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526589,
+            "venue_id":655389023
+        }
+    ],
     "wof:id":655389023,
-    "wof:lastmodified":1466675151,
+    "wof:lastmodified":1492056690,
     "wof:name":"Executive Inn",
     "wof:parent_id":420526589,
     "wof:placetype":"venue",

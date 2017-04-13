@@ -2,9 +2,14 @@
   "id": 639329601,
   "type": "Feature",
   "properties": {
+    "addr:full":"729 State Rte 34 Matawan NJ 07747",
+    "addr:housenumber":"729",
+    "addr:postcode":"07747",
+    "addr:street":"State Rte 34",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.247832,40.416055,-74.247832,40.416055",
     "geom:latitude":40.416055,
     "geom:longitude":-74.247832,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85835333,
+        102085049,
         85820695,
         102191575,
         404478367,
-        85633793,
-        85975419,
-        102085049,
-        85688607
+        85975419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +50,13 @@
     "wof:created":1461292595,
     "wof:geomhash":"b7df2bfd01ebf80289a1ab5d2b92f87b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85835333,
+            "region_id":85688607,
+            "venue_id":639329601
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":639329601,
-    "wof:lastmodified":1466692096,
+    "wof:lastmodified":1492051787,
     "wof:name":"Seymour R Kleinberg",
-    "wof:parent_id":85820695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 639356169,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Summit St Hightstown NJ 08520",
+    "addr:housenumber":"211",
+    "addr:postcode":"08520",
+    "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.531525,40.269382,-74.531525,40.269382",
     "geom:latitude":40.269382,
     "geom:longitude":-74.531525,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477463,
+        85633793,
+        85975819,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0um8eghmAC16fSVKAWXAf3_40.269382_-74.531525@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461293155,
     "wof:geomhash":"3af3c302f62a03704294d934fe0f7700",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404477463,
+            "locality_id":85975819,
+            "region_id":85688607,
+            "venue_id":639356169
+        }
+    ],
     "wof:id":639356169,
-    "wof:lastmodified":1466692411,
+    "wof:lastmodified":1492047942,
     "wof:name":"Richardson Murison Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

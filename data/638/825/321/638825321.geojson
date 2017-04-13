@@ -2,9 +2,14 @@
   "id": 638825321,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W Broadway Paterson NJ 07522",
+    "addr:housenumber":"200",
+    "addr:postcode":"07522",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.179026,40.922943,-74.179026,40.922943",
     "geom:latitude":40.922943,
     "geom:longitude":-74.179026,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879783,
+        85852383,
         102191575,
         404477819,
         85633793,
         85975481,
         102081133,
-        85688607
+        85688607,
+        85879783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081133,
             "localadmin_id":404477819,
             "locality_id":85975481,
+            "neighbourhood_id":85852383,
+            "region_id":85688607,
+            "venue_id":638825321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
             "neighbourhood_id":85879783,
             "region_id":85688607,
             "venue_id":638825321
         }
     ],
     "wof:id":638825321,
-    "wof:lastmodified":1466688792,
+    "wof:lastmodified":1492024149,
     "wof:name":"Select Marble & Granite Inc",
-    "wof:parent_id":85879783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

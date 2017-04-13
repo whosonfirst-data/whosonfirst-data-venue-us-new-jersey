@@ -2,9 +2,14 @@
   "id": 639547241,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 E Washington Ave Washington NJ 07882",
+    "addr:housenumber":"113",
+    "addr:postcode":"07882",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978662,40.758447,-74.978662,40.758447",
     "geom:latitude":40.758447,
     "geom:longitude":-74.978662,
@@ -28,7 +33,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3llizRvKar5qjL4fEnIDHt_40.758447_-74.978662@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461299617,
     "wof:geomhash":"9e2d8ea0f3db9c39953c72f33493be68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639547241
+        }
+    ],
     "wof:id":639547241,
-    "wof:lastmodified":1466695623,
+    "wof:lastmodified":1492051158,
     "wof:name":"Biggs Engineering Assoc P A",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

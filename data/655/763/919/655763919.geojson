@@ -2,9 +2,14 @@
   "id": 655763919,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 W Oakland Ave Oakland NJ 07436",
+    "addr:housenumber":"350",
+    "addr:postcode":"07436",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264099,41.0191,-74.264099,41.0191",
     "geom:latitude":41.0191,
     "geom:longitude":-74.264099,
@@ -27,7 +32,14 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477701,
+        85633793,
+        85975959,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MWVO2Ewj9L8bFmjYNrO8L_41.019100_-74.264099@1303262264"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461319806,
     "wof:geomhash":"f01ae7d590da923577eda238d5fdceff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477701,
+            "locality_id":85975959,
+            "region_id":85688607,
+            "venue_id":655763919
+        }
+    ],
     "wof:id":655763919,
-    "wof:lastmodified":1466686042,
+    "wof:lastmodified":1492076414,
     "wof:name":"S & S Auto Recyclers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639482467,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 Oberlin Ave S Lakewood NJ 08701",
+    "addr:housenumber":"450",
+    "addr:postcode":"08701",
+    "addr:street":"Oberlin Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.184418,40.071968,-74.184418,40.071968",
     "geom:latitude":40.071968,
     "geom:longitude":-74.184418,
@@ -29,7 +34,10 @@
         "surface"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DIQzu4mDuzsz7vsWlmGZ2_40.071968_-74.184418@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461296711,
     "wof:geomhash":"fe3639bdd6a52f24685f0dd4b4b41b1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639482467
+        }
+    ],
     "wof:id":639482467,
-    "wof:lastmodified":1466694441,
+    "wof:lastmodified":1492052303,
     "wof:name":"Advanced Surfaces",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

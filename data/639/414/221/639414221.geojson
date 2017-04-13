@@ -2,9 +2,14 @@
   "id": 639414221,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Monmouth Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"305",
+    "addr:postcode":"08002",
+    "addr:street":"Monmouth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.017103,39.935072,-75.017103,39.935072",
     "geom:latitude":39.935072,
     "geom:longitude":-75.017103,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LDnNhIrUDohkRUvyuhDrw_39.935072_-75.017103@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461294586,
     "wof:geomhash":"7d5767a8814068dd7abc5258dee39330",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":639414221
+        }
+    ],
     "wof:id":639414221,
-    "wof:lastmodified":1466693088,
+    "wof:lastmodified":1492051292,
     "wof:name":"Children Of Terror",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

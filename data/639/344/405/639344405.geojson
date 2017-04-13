@@ -2,9 +2,14 @@
   "id": 639344405,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 US Hwy 9 Morganville NJ 07751",
+    "addr:housenumber":"",
+    "addr:postcode":"07751",
+    "addr:street":"Us Hwy 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.305303,40.3613,-74.305303,40.3613",
     "geom:latitude":40.3613,
     "geom:longitude":-74.305303,
@@ -28,7 +33,14 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976053,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WGTLkZpzB38QkfQ4pk503_40.361300_-74.305303@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292901,
     "wof:geomhash":"b2782bdb8b9a94595c966c3e25a19b92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976053,
+            "region_id":85688607,
+            "venue_id":639344405
+        }
+    ],
     "wof:id":639344405,
-    "wof:lastmodified":1466692302,
+    "wof:lastmodified":1492042720,
     "wof:name":"Mica Showcase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

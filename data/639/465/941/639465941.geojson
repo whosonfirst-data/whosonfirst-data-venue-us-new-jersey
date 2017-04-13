@@ -2,9 +2,14 @@
   "id": 639465941,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Mount Vernon Pl Newark NJ 07106",
+    "addr:housenumber":"76",
+    "addr:postcode":"07106",
+    "addr:street":"Mount Vernon Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.241267,40.73658,-74.241267,40.73658",
     "geom:latitude":40.73658,
     "geom:longitude":-74.241267,
@@ -24,7 +29,13 @@
     "sg:postcode":"07106",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VKgT9b2hThV1fc7A8uurJ_40.736580_-74.241267@1294171694"
@@ -32,11 +43,20 @@
     "wof:country":"US",
     "wof:created":1461296031,
     "wof:geomhash":"94a4d798718a5b3a2ac12e4544a797c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639465941
+        }
+    ],
     "wof:id":639465941,
-    "wof:lastmodified":1466694204,
+    "wof:lastmodified":1491938438,
     "wof:name":"Jacob's Athletes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

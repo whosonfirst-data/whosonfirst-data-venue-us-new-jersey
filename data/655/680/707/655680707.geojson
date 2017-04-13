@@ -2,9 +2,14 @@
   "id": 655680707,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 Morris Ave Summit NJ 07901",
+    "addr:housenumber":"513",
+    "addr:postcode":"07901",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.373596,40.7262,-74.373596,40.7262",
     "geom:latitude":40.7262,
     "geom:longitude":-74.373596,
@@ -29,7 +34,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478403,
+        85633793,
+        85975829,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cXlIGUADcihNW8h7mFcl7_40.726710_-74.374115@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316434,
     "wof:geomhash":"632c1775e503524fc641e121422ab01c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478403,
+            "locality_id":85975829,
+            "region_id":85688607,
+            "venue_id":655680707
+        }
+    ],
     "wof:id":655680707,
-    "wof:lastmodified":1466683833,
+    "wof:lastmodified":1492028982,
     "wof:name":"Buzzy's Place & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

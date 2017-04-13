@@ -2,9 +2,14 @@
   "id": 639380005,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Goodale Rd Newton NJ 07860",
+    "addr:housenumber":"101",
+    "addr:postcode":"07860",
+    "addr:street":"Goodale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.736408,41.02625,-74.736408,41.02625",
     "geom:latitude":41.02625,
     "geom:longitude":-74.736408,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85803133,
-        102086779
+        85811273,
+        102086779,
+        85803133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85811273,
+            "region_id":85688607,
+            "venue_id":639380005
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85803133,
             "region_id":85688607,
             "venue_id":639380005
         }
     ],
     "wof:id":639380005,
-    "wof:lastmodified":1466692716,
+    "wof:lastmodified":1492042435,
     "wof:name":"Nelson Gravenstede",
-    "wof:parent_id":85803133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

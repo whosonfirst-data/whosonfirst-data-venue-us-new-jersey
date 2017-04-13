@@ -2,9 +2,14 @@
   "id": 655840567,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Airport Rd Pittstown NJ 08867",
+    "addr:housenumber":"52",
+    "addr:postcode":"08867",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008318,40.588924,-75.008318,40.588924",
     "geom:latitude":40.588924,
     "geom:longitude":-75.008318,
@@ -32,7 +37,13 @@
         "breeder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hxbXRRjvQAguzZLE1pLzF_40.588924_-75.008318@1303262283"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461323090,
     "wof:geomhash":"1a2e044c0b9aa32647ba8883bb40c0b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":655840567
+        }
+    ],
     "wof:id":655840567,
-    "wof:lastmodified":1466687970,
+    "wof:lastmodified":1492070336,
     "wof:name":"Jandel Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

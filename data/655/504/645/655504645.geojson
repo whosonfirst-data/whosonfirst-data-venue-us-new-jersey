@@ -2,9 +2,14 @@
   "id": 655504645,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Tappan Rd Northvale NJ 07647",
+    "addr:housenumber":"441",
+    "addr:postcode":"07647",
+    "addr:street":"Tappan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.952955,41.011252,-73.952955,41.011252",
     "geom:latitude":41.011252,
     "geom:longitude":-73.952955,
@@ -24,7 +29,14 @@
     "sg:postcode":"07647",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73RFoE2rs7rQ75uWnPpKy0_41.011252_-73.952955@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461309047,
     "wof:geomhash":"43a630b754c7218af7db080617b8f930",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655504645
+        }
+    ],
     "wof:id":655504645,
-    "wof:lastmodified":1466678255,
+    "wof:lastmodified":1492053720,
     "wof:name":"Nathan Hale Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

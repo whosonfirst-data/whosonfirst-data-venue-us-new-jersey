@@ -2,9 +2,14 @@
   "id": 639202863,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Charles St Allendale NJ 07401",
+    "addr:housenumber":"64",
+    "addr:postcode":"07401",
+    "addr:street":"Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.133718,41.043415,-74.133718,41.043415",
     "geom:latitude":41.043415,
     "geom:longitude":-74.133718,
@@ -27,7 +32,14 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477279,
+        85633793,
+        85975941,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OEnYQnJw6RlAmTiLVo4b7_41.043415_-74.133718@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461289708,
     "wof:geomhash":"51a3d3da2e739e89f4a230609783afe0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477279,
+            "locality_id":85975941,
+            "region_id":85688607,
+            "venue_id":639202863
+        }
+    ],
     "wof:id":639202863,
-    "wof:lastmodified":1466688841,
+    "wof:lastmodified":1492043342,
     "wof:name":"Sino Metal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

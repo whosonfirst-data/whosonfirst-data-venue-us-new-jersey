@@ -2,9 +2,14 @@
   "id": 639471927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 Church St Rahway NJ 07065",
+    "addr:housenumber":"1731",
+    "addr:postcode":"07065",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280778,40.615154,-74.280778,40.615154",
     "geom:latitude":40.615154,
     "geom:longitude":-74.280778,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q2syVTxsIiHkpYEWUOAwn_40.615154_-74.280778@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296268,
     "wof:geomhash":"8439d21571ce2c1fd62412065aab3628",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639471927
+        }
+    ],
     "wof:id":639471927,
-    "wof:lastmodified":1466694180,
+    "wof:lastmodified":1492074591,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

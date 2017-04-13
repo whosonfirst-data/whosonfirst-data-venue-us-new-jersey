@@ -2,9 +2,14 @@
   "id": 655595457,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Carriage Ln Freehold NJ 07726",
+    "addr:housenumber":"47",
+    "addr:postcode":"07726",
+    "addr:street":"Carriage Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.367349,40.298556,-74.367349,40.298556",
     "geom:latitude":40.298556,
     "geom:longitude":-74.367349,
@@ -27,7 +32,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477491,
+        85633793,
+        85975359,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y3ULbSWTreI0ATjcObzmA_40.298556_-74.367349@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312807,
     "wof:geomhash":"6572afa8b134f948505fb887d0c09d2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404477491,
+            "locality_id":85975359,
+            "region_id":85688607,
+            "venue_id":655595457
+        }
+    ],
     "wof:id":655595457,
-    "wof:lastmodified":1466680868,
+    "wof:lastmodified":1492018850,
     "wof:name":"Clorox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

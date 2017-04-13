@@ -2,9 +2,14 @@
   "id": 638808649,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Oak Pines Blvd Pemberton NJ 08068",
+    "addr:housenumber":"108",
+    "addr:postcode":"08068",
+    "addr:street":"Oak Pines Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.672555,39.956569,-74.672555,39.956569",
     "geom:latitude":39.956569,
     "geom:longitude":-74.672555,
@@ -28,7 +33,10 @@
         "tech"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cySHUynyhQVrcNfcuqiaA_39.956569_-74.672555@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461280414,
     "wof:geomhash":"8ec4f04b50607dd28e4394ecec8e7a06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526613,
+            "venue_id":638808649
+        }
+    ],
     "wof:id":638808649,
-    "wof:lastmodified":1466686730,
+    "wof:lastmodified":1492025581,
     "wof:name":"D S Gardner",
     "wof:parent_id":420526613,
     "wof:placetype":"venue",

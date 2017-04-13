@@ -2,9 +2,14 @@
   "id": 655497607,
   "type": "Feature",
   "properties": {
+    "addr:full":"634 Willow Grove St Hackettstown NJ 07840",
+    "addr:housenumber":"634",
+    "addr:postcode":"07840",
+    "addr:street":"Willow Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.811898,40.863969,-74.811898,40.863969",
     "geom:latitude":40.863969,
     "geom:longitude":-74.811898,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478421,
+        85633793,
+        85975855,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f9FDhmeO8aoKmbL1EKZsb_40.863969_-74.811898@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461308737,
     "wof:geomhash":"a35031d99d178f9f4ca2aeddc4c7e62a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478421,
+            "locality_id":85975855,
+            "region_id":85688607,
+            "venue_id":655497607
+        }
+    ],
     "wof:id":655497607,
-    "wof:lastmodified":1466678160,
+    "wof:lastmodified":1492048133,
     "wof:name":"Calico Country Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

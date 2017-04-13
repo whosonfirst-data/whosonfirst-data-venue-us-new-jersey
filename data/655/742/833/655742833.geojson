@@ -2,9 +2,14 @@
   "id": 655742833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2346 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2346",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.288335,40.717911,-74.288335,40.717911",
     "geom:latitude":40.717911,
     "geom:longitude":-74.288335,
@@ -24,7 +29,10 @@
     "sg:postcode":"07088",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ex5nCr4iMWLc27cZJ5IBM_40.717911_-74.288335@1303262259"
@@ -32,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461319019,
     "wof:geomhash":"4bb61060d6269023a27cc8334db2c5e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526947,
+            "venue_id":655742833
+        }
+    ],
     "wof:id":655742833,
-    "wof:lastmodified":1466685467,
+    "wof:lastmodified":1492041207,
     "wof:name":"S I Cleaning Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

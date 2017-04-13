@@ -2,9 +2,14 @@
   "id": 639531217,
   "type": "Feature",
   "properties": {
+    "addr:full":"890 Amwell Rd Hillsborough NJ 08844",
+    "addr:housenumber":"890",
+    "addr:postcode":"08844",
+    "addr:street":"Amwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.782513,40.487775,-74.782513,40.487775",
     "geom:latitude":40.487775,
     "geom:longitude":-74.782513,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.cloverhillchurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WyXoJsxgwidE198TjtUI2_40.487775_-74.782513@1294171694"
@@ -36,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461298884,
     "wof:geomhash":"8a48c465e0f9579fa4c96b6d6b9029d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527603,
+            "venue_id":639531217
+        }
+    ],
     "wof:id":639531217,
-    "wof:lastmodified":1466695331,
+    "wof:lastmodified":1492049590,
     "wof:name":"Clover Hill Reformed Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

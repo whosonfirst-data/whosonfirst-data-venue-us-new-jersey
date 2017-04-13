@@ -2,9 +2,14 @@
   "id": 638876915,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Armstrong Ave Wayne NJ 07470",
+    "addr:housenumber":"68",
+    "addr:postcode":"07470",
+    "addr:street":"Armstrong Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275081,40.975702,-74.275081,40.975702",
     "geom:latitude":40.975702,
     "geom:longitude":-74.275081,
@@ -28,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P4hfXqIHNLsxX9cukicz9_40.975702_-74.275081@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461282120,
     "wof:geomhash":"305893c4e40428d6df755fe91ab42134",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":638876915
+        }
+    ],
     "wof:id":638876915,
-    "wof:lastmodified":1466689902,
+    "wof:lastmodified":1492053759,
     "wof:name":"Mtm Design & Prepress",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655641821,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Miller Rd Cranbury NJ 08512",
+    "addr:housenumber":"28",
+    "addr:postcode":"08512",
+    "addr:street":"Miller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.522165,40.359272,-74.522165,40.359272",
     "geom:latitude":40.359272,
     "geom:longitude":-74.522165,
@@ -29,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420527177,
+        85688607,
         85976311,
         102087417,
         85865297
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":655641821
+        },
+        {
+            "country_id":85633793,
             "county_id":102087417,
             "locality_id":85976311,
             "neighbourhood_id":85865297,
@@ -53,9 +64,9 @@
         }
     ],
     "wof:id":655641821,
-    "wof:lastmodified":1466682602,
+    "wof:lastmodified":1492080204,
     "wof:name":"Alan Landscaping LLC",
-    "wof:parent_id":85865297,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

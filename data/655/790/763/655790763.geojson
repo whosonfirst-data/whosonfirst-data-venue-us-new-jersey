@@ -2,9 +2,14 @@
   "id": 655790763,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Route 31 S Washington NJ 07882",
+    "addr:housenumber":"300",
+    "addr:postcode":"07882",
+    "addr:street":"Route 31 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.980297,40.768606,-74.980297,40.768606",
     "geom:latitude":40.768606,
     "geom:longitude":-74.980297,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.shoprite.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19NwtlcoZ7qMtCMENf4DiE_40.768606_-74.980297@1303262271"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321005,
     "wof:geomhash":"b0e50dc0acd02e15305326522f41fe3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":655790763
+        }
+    ],
     "wof:id":655790763,
-    "wof:lastmodified":1466686717,
+    "wof:lastmodified":1492025906,
     "wof:name":"ShopRite",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

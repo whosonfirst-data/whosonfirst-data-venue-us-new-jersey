@@ -2,9 +2,14 @@
   "id": 655370105,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Miller Rd Mahwah NJ 07430",
+    "addr:housenumber":"107",
+    "addr:postcode":"07430",
+    "addr:street":"Miller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.144798,41.094406,-74.144798,41.094406",
     "geom:latitude":41.094406,
     "geom:longitude":-74.144798,
@@ -27,7 +32,13 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hbHVkdWRuWsbRqJGNAWnZ_41.094406_-74.144798@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461303422,
     "wof:geomhash":"ce97257bf19127a2dc1b587326de43a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655370105
+        }
+    ],
     "wof:id":655370105,
-    "wof:lastmodified":1466674668,
+    "wof:lastmodified":1492040122,
     "wof:name":"Gracie's Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

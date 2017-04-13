@@ -2,9 +2,14 @@
   "id": 638923907,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Bunn Rd Bedminster NJ 07921",
+    "addr:housenumber":"405",
+    "addr:postcode":"07921",
+    "addr:street":"Bunn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.667696,40.644117,-74.667696,40.644117",
     "geom:latitude":40.644117,
     "geom:longitude":-74.667696,
@@ -27,7 +32,13 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477909,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kr7aByXIdn5dWgG3a0Ejm_40.644117_-74.667696@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461283366,
     "wof:geomhash":"f6274b8d4c1f59e040f8c4f0e53ee1f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477909,
+            "region_id":85688607,
+            "venue_id":638923907
+        }
+    ],
     "wof:id":638923907,
-    "wof:lastmodified":1466690758,
+    "wof:lastmodified":1492024342,
     "wof:name":"River Run Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639005529,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Downing Pl Harrington Park NJ 07640",
+    "addr:housenumber":"14",
+    "addr:postcode":"07640",
+    "addr:street":"Downing Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985214,40.987282,-73.985214,40.987282",
     "geom:latitude":40.987282,
     "geom:longitude":-73.985214,
@@ -28,7 +33,14 @@
         "specialist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477547,
+        85633793,
+        85975995,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YjDKlpLvEAXqE9TReA6su_40.987282_-73.985214@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461285221,
     "wof:geomhash":"4be35e7722ac98411126076aaaebac79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477547,
+            "locality_id":85975995,
+            "region_id":85688607,
+            "venue_id":639005529
+        }
+    ],
     "wof:id":639005529,
-    "wof:lastmodified":1466673114,
+    "wof:lastmodified":1492049639,
     "wof:name":"R F Q Cross Connection Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

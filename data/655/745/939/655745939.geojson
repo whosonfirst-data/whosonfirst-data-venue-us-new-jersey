@@ -2,9 +2,14 @@
   "id": 655745939,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Centre Ave Secaucus NJ 07094",
+    "addr:housenumber":"315",
+    "addr:postcode":"07094",
+    "addr:street":"Centre Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.065697,40.793201,-74.065697,40.793201",
     "geom:latitude":40.793201,
     "geom:longitude":-74.065697,
@@ -24,7 +29,14 @@
     "sg:postcode":"07094",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477447,
+        85633793,
+        85975291,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DIpctZqsZGAEprbGOPPO3_40.793201_-74.065697@1303262260"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461319133,
     "wof:geomhash":"06e9abe02b2b29508e9109dbb0ab5c66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404477447,
+            "locality_id":85975291,
+            "region_id":85688607,
+            "venue_id":655745939
+        }
+    ],
     "wof:id":655745939,
-    "wof:lastmodified":1466685691,
+    "wof:lastmodified":1492048977,
     "wof:name":"Brother's Deli & Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639592127,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Channel Dr Pt Pleasant Bch NJ 08742",
+    "addr:housenumber":"81",
+    "addr:postcode":"08742",
+    "addr:street":"Channel Dr Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.039819,40.101546,-74.039819,40.101546",
     "geom:latitude":40.101546,
     "geom:longitude":-74.039819,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55LdShmgql86mk3O7Xuph5_40.101546_-74.039819@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301447,
     "wof:geomhash":"7ebd84e919c3990211ea98742cbd03d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639592127
+        }
+    ],
     "wof:id":639592127,
-    "wof:lastmodified":1466696738,
+    "wof:lastmodified":1492064847,
     "wof:name":"Chefs International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

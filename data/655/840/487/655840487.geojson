@@ -2,9 +2,14 @@
   "id": 655840487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Marble Hill Rd Phillipsburg NJ 08865",
+    "addr:housenumber":"1",
+    "addr:postcode":"08865",
+    "addr:street":"Marble Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.183907,40.72142,-75.183907,40.72142",
     "geom:latitude":40.72142,
     "geom:longitude":-75.183907,
@@ -49,7 +54,13 @@
     ],
     "sg:website":"http://www.pburgmarble.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478521,
+        85633793,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oUikTof0xim6L9GGxnK1N_40.721420_-75.183907@1303262283"
@@ -57,9 +68,18 @@
     "wof:country":"US",
     "wof:created":1461323087,
     "wof:geomhash":"1e464de6b9cc60de7bb82c511e01ae8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478521,
+            "region_id":85688607,
+            "venue_id":655840487
+        }
+    ],
     "wof:id":655840487,
-    "wof:lastmodified":1466687949,
+    "wof:lastmodified":1492044123,
     "wof:name":"Phillipsburg Marble Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639248973,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Franklin Lake Rd Franklin Lakes NJ 07417",
+    "addr:housenumber":"730",
+    "addr:postcode":"07417",
+    "addr:street":"Franklin Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.206462,40.994292,-74.206462,40.994292",
     "geom:latitude":40.994292,
     "geom:longitude":-74.206462,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477287,
+        85633793,
+        85975867,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WwkmItVdjvaeVfOT2d2pg_40.994292_-74.206462@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290807,
     "wof:geomhash":"eba0b1426b6ec74b2ba84109a09c5628",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477287,
+            "locality_id":85975867,
+            "region_id":85688607,
+            "venue_id":639248973
+        }
+    ],
     "wof:id":639248973,
-    "wof:lastmodified":1466690370,
+    "wof:lastmodified":1492076621,
     "wof:name":"Wyckoff Family YMCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

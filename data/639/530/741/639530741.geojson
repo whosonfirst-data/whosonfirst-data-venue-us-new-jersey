@@ -2,9 +2,14 @@
   "id": 639530741,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 Main St Lincoln Park NJ 07035",
+    "addr:housenumber":"183",
+    "addr:postcode":"07035",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307637,40.923022,-74.307637,40.923022",
     "geom:latitude":40.923022,
     "geom:longitude":-74.307637,
@@ -24,7 +29,14 @@
     "sg:postcode":"07035",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478435,
+        85633793,
+        85975553,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sYm7KtvDaoXikOt8LvEoa_40.923022_-74.307637@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298865,
     "wof:geomhash":"1281a2e3e8a95ea27826bb75b72c71e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478435,
+            "locality_id":85975553,
+            "region_id":85688607,
+            "venue_id":639530741
+        }
+    ],
     "wof:id":639530741,
-    "wof:lastmodified":1466695473,
+    "wof:lastmodified":1492029948,
     "wof:name":"Elysium Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

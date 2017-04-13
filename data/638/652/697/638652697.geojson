@@ -2,9 +2,14 @@
   "id": 638652697,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Franklin Corner Rd Lawrenceville NJ 08648",
+    "addr:housenumber":"100",
+    "addr:postcode":"08648",
+    "addr:street":"Franklin Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.721847,40.284065,-74.721847,40.284065",
     "geom:latitude":40.284065,
     "geom:longitude":-74.721847,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85851293,
-        102081129
+        102081129,
+        85804261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85851293,
             "region_id":85688607,
             "venue_id":638652697
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85804261,
+            "region_id":85688607,
+            "venue_id":638652697
         }
     ],
     "wof:id":638652697,
-    "wof:lastmodified":1466673914,
+    "wof:lastmodified":1492062467,
     "wof:name":"Courtney W Renegar",
-    "wof:parent_id":85851293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

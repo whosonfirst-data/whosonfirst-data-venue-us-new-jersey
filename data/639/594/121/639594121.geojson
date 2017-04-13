@@ -2,9 +2,14 @@
   "id": 639594121,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Izmir St Elizabeth NJ 07201",
+    "addr:housenumber":"",
+    "addr:postcode":"4010;07201",
+    "addr:street":"Izmir St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.15014,40.673346,-74.15014,40.673346",
     "geom:latitude":40.673346,
     "geom:longitude":-74.15014,
@@ -28,7 +33,14 @@
         "foreign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62tu8ds4TJnUyupUUVSAzU_40.673346_-74.150140@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461301520,
     "wof:geomhash":"33919a3995df7a3a7492a0b9ab02ef69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":639594121
+        }
+    ],
     "wof:id":639594121,
-    "wof:lastmodified":1466696737,
+    "wof:lastmodified":1492025504,
     "wof:name":"Yang Ming Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

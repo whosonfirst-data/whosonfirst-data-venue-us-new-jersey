@@ -2,9 +2,14 @@
   "id": 638815745,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Crest Rd Jackson NJ 08527",
+    "addr:housenumber":"11",
+    "addr:postcode":"08527",
+    "addr:street":"Crest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.37424,40.140614,-74.37424,40.140614",
     "geom:latitude":40.140614,
     "geom:longitude":-74.37424,
@@ -28,7 +33,13 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K1Z1qeg2fXJvBWtyWxaY1_40.140614_-74.374240@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461280598,
     "wof:geomhash":"34330e33554c8aa416830a57c810b846",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":638815745
+        }
+    ],
     "wof:id":638815745,
-    "wof:lastmodified":1466687600,
+    "wof:lastmodified":1492051962,
     "wof:name":"O'Brien Investigations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

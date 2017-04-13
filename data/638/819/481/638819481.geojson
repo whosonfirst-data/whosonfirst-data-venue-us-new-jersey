@@ -2,9 +2,14 @@
   "id": 638819481,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Long Ave Mahwah NJ 07430",
+    "addr:housenumber":"34",
+    "addr:postcode":"07430",
+    "addr:street":"Long Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.155004,41.106962,-74.155004,41.106962",
     "geom:latitude":41.106962,
     "geom:longitude":-74.155004,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IQKnusmHHg3Dhjd8Y4f15_41.106962_-74.155004@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461280693,
     "wof:geomhash":"9cd066d65048260df3e3bbb01b6f4309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":638819481
+        }
+    ],
     "wof:id":638819481,
-    "wof:lastmodified":1466688071,
+    "wof:lastmodified":1492024405,
     "wof:name":"Lynn Ro Carrier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638832923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Springfield Ave Irvington NJ 07111",
+    "addr:housenumber":"1208",
+    "addr:postcode":"07111",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239198,40.725015,-74.239198,40.725015",
     "geom:latitude":40.725015,
     "geom:longitude":-74.239198,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rhE7KxVWOcy1jtdBGGcX5_40.725015_-74.239198@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461281060,
     "wof:geomhash":"a1f485cc706307c6100cc5e4048bf7c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":638832923
+        }
+    ],
     "wof:id":638832923,
-    "wof:lastmodified":1466689077,
+    "wof:lastmodified":1492076938,
     "wof:name":"Tony's Auto Repair",
     "wof:parent_id":420526925,
     "wof:placetype":"venue",

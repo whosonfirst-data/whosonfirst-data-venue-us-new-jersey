@@ -2,9 +2,14 @@
   "id": 639146759,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Downing St Cherry Hill NJ 08003",
+    "addr:housenumber":"11",
+    "addr:postcode":"08003",
+    "addr:street":"Downing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.933971,39.887374,-74.933971,39.887374",
     "geom:latitude":39.887374,
     "geom:longitude":-74.933971,
@@ -24,7 +29,14 @@
     "sg:postcode":"08003",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976231,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RmoZBHfDuyzyqL4dfsW1g_39.887374_-74.933971@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461288444,
     "wof:geomhash":"c8109b905e0175523bf8bc20c0e816a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976231,
+            "region_id":85688607,
+            "venue_id":639146759
+        }
+    ],
     "wof:id":639146759,
-    "wof:lastmodified":1466680804,
+    "wof:lastmodified":1492069356,
     "wof:name":"1820 Corp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

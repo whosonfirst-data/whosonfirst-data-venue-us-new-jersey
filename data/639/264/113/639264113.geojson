@@ -2,9 +2,14 @@
   "id": 639264113,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Terbell Pkwy Westwood NJ 07675",
+    "addr:housenumber":"89",
+    "addr:postcode":"07675",
+    "addr:street":"Terbell Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.000616,40.990544,-74.000616,40.990544",
     "geom:latitude":40.990544,
     "geom:longitude":-74.000616,
@@ -27,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477723,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31eNayJLTRrvpecssSQ1eT_40.990544_-74.000616@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461291141,
     "wof:geomhash":"e1ba1f0cd29268fa947a923141888a45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477723,
+            "region_id":85688607,
+            "venue_id":639264113
+        }
+    ],
     "wof:id":639264113,
-    "wof:lastmodified":1466690615,
+    "wof:lastmodified":1492042822,
     "wof:name":"Embryoserv Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

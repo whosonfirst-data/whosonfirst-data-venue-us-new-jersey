@@ -2,9 +2,14 @@
   "id": 638939021,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Godwin Ave Ridgewood NJ 07450",
+    "addr:housenumber":"217",
+    "addr:postcode":"07450",
+    "addr:street":"Godwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127241,40.978811,-74.127241,40.978811",
     "geom:latitude":40.978811,
     "geom:longitude":-74.127241,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477717,
+        85633793,
+        85975931,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kJAVNtPCkpDRd8Yta7u3k_40.978811_-74.127241@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461283778,
     "wof:geomhash":"5887725ffb55b42ff587d0bfeb4dcedf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477717,
+            "locality_id":85975931,
+            "region_id":85688607,
+            "venue_id":638939021
+        }
+    ],
     "wof:id":638939021,
-    "wof:lastmodified":1466690888,
+    "wof:lastmodified":1492050727,
     "wof:name":"Management Strategies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

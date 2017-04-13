@@ -2,9 +2,14 @@
   "id": 655449405,
   "type": "Feature",
   "properties": {
+    "addr:full":"290 Palisade Ave Garfield NJ 07026",
+    "addr:housenumber":"290",
+    "addr:postcode":"07026",
+    "addr:street":"Palisade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.109883,40.873547,-74.109883,40.873547",
     "geom:latitude":40.873547,
     "geom:longitude":-74.109883,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jqYyMpZpeozWUK2lNi1Qu_40.873547_-74.109883@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306662,
     "wof:geomhash":"15922d30095f79f07ae58341bd5e9b4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655449405
+        }
+    ],
     "wof:id":655449405,
-    "wof:lastmodified":1466676861,
+    "wof:lastmodified":1492028635,
     "wof:name":"Jason Koch Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

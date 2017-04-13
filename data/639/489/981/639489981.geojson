@@ -2,9 +2,14 @@
   "id": 639489981,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Cherry St S Bound Brook NJ 08880",
+    "addr:housenumber":"10",
+    "addr:postcode":"08880",
+    "addr:street":"Cherry St S Bound",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526744,40.554505,-74.526744,40.554505",
     "geom:latitude":40.554505,
     "geom:longitude":-74.526744,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.cnjnet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rmdehY8zPiaOaFl4Lb664_40.554505_-74.526744@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461297027,
     "wof:geomhash":"ec42ba313590ecd50a3b7a75ede14ac8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":639489981
+        }
+    ],
     "wof:id":639489981,
-    "wof:lastmodified":1466694603,
+    "wof:lastmodified":1492050334,
     "wof:name":"Computown Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

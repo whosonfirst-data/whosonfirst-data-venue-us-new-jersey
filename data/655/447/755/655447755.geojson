@@ -2,9 +2,14 @@
   "id": 655447755,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Carnegie Center Princeton NJ 08540",
+    "addr:housenumber":"214",
+    "addr:postcode":"08540",
+    "addr:street":"Carnegie Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.646497,40.315567,-74.646497,40.315567",
     "geom:latitude":40.315567,
     "geom:longitude":-74.646497,
@@ -24,7 +29,13 @@
     "sg:postcode":"08540",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a8YZy0dcVq27JfLqWuKga_40.315567_-74.646497@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461306594,
     "wof:geomhash":"825d9376f5f97a94f46bc2b047fe232f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "region_id":85688607,
+            "venue_id":655447755
+        }
+    ],
     "wof:id":655447755,
-    "wof:lastmodified":1466676886,
+    "wof:lastmodified":1492071988,
     "wof:name":"Nations Real Estate Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

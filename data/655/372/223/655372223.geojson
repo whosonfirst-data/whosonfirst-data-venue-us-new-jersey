@@ -2,9 +2,14 @@
   "id": 655372223,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 Stuart Rd Princeton NJ 08540",
+    "addr:housenumber":"917",
+    "addr:postcode":"08540",
+    "addr:street":"Stuart Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.676151,40.371691,-74.676151,40.371691",
     "geom:latitude":40.371691,
     "geom:longitude":-74.676151,
@@ -29,7 +34,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478259,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pu66qeAJ8mdSzerz3gZbW_40.371691_-74.676151@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461303510,
     "wof:geomhash":"07462ea6645fb957c1b7c8c1edd6b4cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478259,
+            "region_id":85688607,
+            "venue_id":655372223
+        }
+    ],
     "wof:id":655372223,
-    "wof:lastmodified":1466674721,
+    "wof:lastmodified":1492047774,
     "wof:name":"Dorothy Rubin Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

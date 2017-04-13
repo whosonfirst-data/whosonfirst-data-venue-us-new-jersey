@@ -2,9 +2,14 @@
   "id": 655562573,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Flock Rd Trenton NJ 08619",
+    "addr:housenumber":"106",
+    "addr:postcode":"08619",
+    "addr:street":"Flock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.682959,40.249055,-74.682959,40.249055",
     "geom:latitude":40.249055,
     "geom:longitude":-74.682959,
@@ -29,7 +34,10 @@
         "boot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V2YFiXDJzhxBX2DlSP5cu_40.249055_-74.682959@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461311388,
     "wof:geomhash":"a79afa55ddfd5697dc9002110019147b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527143,
+            "venue_id":655562573
+        }
+    ],
     "wof:id":655562573,
-    "wof:lastmodified":1466679824,
+    "wof:lastmodified":1492048426,
     "wof:name":"University Shoe & Luggage Repr",
     "wof:parent_id":420527143,
     "wof:placetype":"venue",

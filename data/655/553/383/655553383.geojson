@@ -2,9 +2,14 @@
   "id": 655553383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Bedford Ct Annandale NJ 08801",
+    "addr:housenumber":"5",
+    "addr:postcode":"08801",
+    "addr:street":"Bedford Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.890534,40.608854,-74.890534,40.608854",
     "geom:latitude":40.608854,
     "geom:longitude":-74.890534,
@@ -27,7 +32,10 @@
         "ribbon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l9p0BEV8h21Nh5Eyu5qen_40.608854_-74.890534@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461310957,
     "wof:geomhash":"bb885f1251b9d90bead211d7cd22bb21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527051,
+            "venue_id":655553383
+        }
+    ],
     "wof:id":655553383,
-    "wof:lastmodified":1466679513,
+    "wof:lastmodified":1492051947,
     "wof:name":"Ribbon Factory Store",
     "wof:parent_id":420527051,
     "wof:placetype":"venue",

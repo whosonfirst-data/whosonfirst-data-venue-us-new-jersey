@@ -2,9 +2,14 @@
   "id": 655683853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Brown's Ln Phillipsburg NJ 08865",
+    "addr:housenumber":"3",
+    "addr:postcode":"08865",
+    "addr:street":"Brown'S Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.14822,40.646765,-75.14822,40.646765",
     "geom:latitude":40.646765,
     "geom:longitude":-75.14822,
@@ -24,7 +29,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_740dbU3KtMFcDLSkXNdqqn_40.646765_-75.148220@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461316584,
     "wof:geomhash":"dcb8ea9afa266be809cd9741774b973d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527777,
+            "venue_id":655683853
+        }
+    ],
     "wof:id":655683853,
-    "wof:lastmodified":1466683935,
+    "wof:lastmodified":1492040562,
     "wof:name":"New Village Farms",
     "wof:parent_id":420527777,
     "wof:placetype":"venue",

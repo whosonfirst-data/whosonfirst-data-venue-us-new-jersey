@@ -2,9 +2,14 @@
   "id": 655397457,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 Black Oak Ridge Rd Wayne NJ 07470",
+    "addr:housenumber":"820",
+    "addr:postcode":"07470",
+    "addr:street":"Black Oak Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.26968,40.968088,-74.26968,40.968088",
     "geom:latitude":40.968088,
     "geom:longitude":-74.26968,
@@ -27,7 +32,10 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RJBo3neLak18hb30YbAQW_40.968088_-74.269680@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461304516,
     "wof:geomhash":"df2329aaa8b1b823f47b96eb09244541",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527491,
+            "venue_id":655397457
+        }
+    ],
     "wof:id":655397457,
-    "wof:lastmodified":1466675366,
+    "wof:lastmodified":1492080178,
     "wof:name":"First Student",
     "wof:parent_id":420527491,
     "wof:placetype":"venue",

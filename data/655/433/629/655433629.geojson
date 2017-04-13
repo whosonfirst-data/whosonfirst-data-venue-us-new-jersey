@@ -2,9 +2,14 @@
   "id": 655433629,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Colleen Ct Howell NJ 07731",
+    "addr:housenumber":"8",
+    "addr:postcode":"07731",
+    "addr:street":"Colleen Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.142438,40.125641,-74.142438,40.125641",
     "geom:latitude":40.125641,
     "geom:longitude":-74.142438,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        85976041,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aKUwV7g7Ni3vB5iGi1Irp_40.125641_-74.142438@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306044,
     "wof:geomhash":"0ffc2e6e6845bfe6bde26b142f501b5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "locality_id":85976041,
+            "region_id":85688607,
+            "venue_id":655433629
+        }
+    ],
     "wof:id":655433629,
-    "wof:lastmodified":1466676415,
+    "wof:lastmodified":1492053905,
     "wof:name":"KMA Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

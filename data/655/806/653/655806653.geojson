@@ -2,9 +2,14 @@
   "id": 655806653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Sunset Rd Burlington NJ 08016",
+    "addr:housenumber":"1002",
+    "addr:postcode":"08016",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876139,40.049341,-74.876139,40.049341",
     "geom:latitude":40.049341,
     "geom:longitude":-74.876139,
@@ -25,7 +30,10 @@
     "sg:province":"NJ",
     "sg:website":"www.sunsetflowersandgifts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JSQrjWEpBKF2oVvjtHFMj_40.049341_-74.876139@1303262274"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461321637,
     "wof:geomhash":"de8cea99c7fc4af73b07109618ee3b86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526649,
+            "venue_id":655806653
+        }
+    ],
     "wof:id":655806653,
-    "wof:lastmodified":1466687189,
+    "wof:lastmodified":1492070320,
     "wof:name":"Steins at Sunset Florist",
     "wof:parent_id":420526649,
     "wof:placetype":"venue",

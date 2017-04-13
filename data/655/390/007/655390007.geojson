@@ -2,9 +2,14 @@
   "id": 655390007,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 McCatharn Rd Lebanon NJ 08833",
+    "addr:housenumber":"10",
+    "addr:postcode":"08833",
+    "addr:street":"Mccatharn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.838912,40.674316,-74.838912,40.674316",
     "geom:latitude":40.674316,
     "geom:longitude":-74.838912,
@@ -31,7 +36,10 @@
         "new"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ru8HGZWgXkTCpUGWNy4ga_40.674316_-74.838912@1294171694"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461304213,
     "wof:geomhash":"bca8a2ec6df99e06d8f6d6d09a496ad8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655390007
+        }
+    ],
     "wof:id":655390007,
-    "wof:lastmodified":1466675179,
+    "wof:lastmodified":1492028516,
     "wof:name":"Brinkerhoff Home Builders Inc",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

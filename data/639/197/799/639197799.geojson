@@ -2,9 +2,14 @@
   "id": 639197799,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"66",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.976276,40.761852,-74.976276,40.761852",
     "geom:latitude":40.761852,
     "geom:longitude":-74.976276,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MsANuNALi2xPImIjuqXx8_40.761852_-74.976276@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289582,
     "wof:geomhash":"a6e163750176b027104545263722215d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639197799
+        }
+    ],
     "wof:id":639197799,
-    "wof:lastmodified":1466688236,
+    "wof:lastmodified":1492042804,
     "wof:name":"Class A Auto Sales",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

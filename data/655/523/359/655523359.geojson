@@ -2,9 +2,14 @@
   "id": 655523359,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Stevenson Ln Califon NJ 07830",
+    "addr:housenumber":"12",
+    "addr:postcode":"07830",
+    "addr:street":"Stevenson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.853805,40.692671,-74.853805,40.692671",
     "geom:latitude":40.692671,
     "geom:longitude":-74.853805,
@@ -27,7 +32,10 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dOLCfGPTrU0MKs1i5N0il_40.692671_-74.853805@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461309796,
     "wof:geomhash":"ea60f5b2a8a40235839768ec91c66141",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527101,
+            "venue_id":655523359
+        }
+    ],
     "wof:id":655523359,
-    "wof:lastmodified":1466678715,
+    "wof:lastmodified":1492048134,
     "wof:name":"Lupo W A I A-Architecht",
     "wof:parent_id":420527101,
     "wof:placetype":"venue",

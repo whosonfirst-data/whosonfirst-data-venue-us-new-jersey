@@ -2,9 +2,14 @@
   "id": 655779763,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Union Ave Cresskill NJ 07626",
+    "addr:housenumber":"67",
+    "addr:postcode":"07626",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.959837,40.941478,-73.959837,40.941478",
     "geom:latitude":40.941478,
     "geom:longitude":-73.959837,
@@ -27,7 +32,14 @@
         "government-state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oY2OkgEaEEQ903UTRnxWg_40.941478_-73.959837@1303262268"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461320547,
     "wof:geomhash":"ae94396fc271c798eefdec980da047df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655779763
+        }
+    ],
     "wof:id":655779763,
-    "wof:lastmodified":1466686453,
+    "wof:lastmodified":1492027784,
     "wof:name":"Nj State Judiciary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655869847,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sharp Plaza Mahwah NJ",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.185895,41.083159,-74.185895,41.083159",
     "geom:latitude":41.083159,
     "geom:longitude":-74.185895,
@@ -24,7 +29,13 @@
     "sg:province":"NJ",
     "sg:website":"http://www.sharpusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6O2jnLEFu7yzngezoG7H6D_41.083159_-74.185895@1308186497"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461615217,
     "wof:geomhash":"3665afa504664aba41c7bdf89f53d8f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655869847
+        }
+    ],
     "wof:id":655869847,
-    "wof:lastmodified":1466687883,
+    "wof:lastmodified":1492058015,
     "wof:name":"Sharp Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

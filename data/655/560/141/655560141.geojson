@@ -2,9 +2,14 @@
   "id": 655560141,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Pine Blvd Lakewood NJ 08701",
+    "addr:housenumber":"24",
+    "addr:postcode":"08701",
+    "addr:street":"Pine Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220228,40.06568,-74.220228,40.06568",
     "geom:latitude":40.06568,
     "geom:longitude":-74.220228,
@@ -27,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35ES9Ayettd5GbXFx5qtJQ_40.065680_-74.220228@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311282,
     "wof:geomhash":"750256c36b7f32a56cb83b9604f7334a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527393,
+            "venue_id":655560141
+        }
+    ],
     "wof:id":655560141,
-    "wof:lastmodified":1466679710,
+    "wof:lastmodified":1492045216,
     "wof:name":"Robert P Weising CPA",
     "wof:parent_id":420527393,
     "wof:placetype":"venue",

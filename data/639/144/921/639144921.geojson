@@ -2,9 +2,14 @@
   "id": 639144921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Country Ln Howell NJ 07731",
+    "addr:housenumber":"4",
+    "addr:postcode":"07731",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.170257,40.111903,-74.170257,40.111903",
     "geom:latitude":40.111903,
     "geom:longitude":-74.170257,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pdFOz8VMzBoKYQZAVSL15_40.111903_-74.170257@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461288406,
     "wof:geomhash":"d14c515744afdba598270a07aac79b69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639144921
+        }
+    ],
     "wof:id":639144921,
-    "wof:lastmodified":1466680534,
+    "wof:lastmodified":1492069343,
     "wof:name":"Globex",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

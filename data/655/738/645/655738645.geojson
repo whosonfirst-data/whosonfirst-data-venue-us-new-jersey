@@ -2,9 +2,14 @@
   "id": 655738645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Morris Tpke Short Hills NJ 07078",
+    "addr:housenumber":"1200",
+    "addr:postcode":"07078",
+    "addr:street":"Morris Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.363701,40.737701,-74.363701,40.737701",
     "geom:latitude":40.737701,
     "geom:longitude":-74.363701,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.gnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478043,
+        85633793,
+        85976003,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14YptvDSrvr4edyl9KnIrg_40.737701_-74.363701@1303262258"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461318868,
     "wof:geomhash":"335cc107b9d364c7e561ddb7ba61c95a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478043,
+            "locality_id":85976003,
+            "region_id":85688607,
+            "venue_id":655738645
+        }
+    ],
     "wof:id":655738645,
-    "wof:lastmodified":1466685371,
+    "wof:lastmodified":1492040310,
     "wof:name":"General Nutrition Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

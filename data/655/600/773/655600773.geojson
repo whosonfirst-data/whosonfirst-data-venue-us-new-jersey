@@ -2,9 +2,14 @@
   "id": 655600773,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Ocean Ave Belmar NJ 07719",
+    "addr:housenumber":"801",
+    "addr:postcode":"07719",
+    "addr:street":"Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.013091,40.178865,-74.013091,40.178865",
     "geom:latitude":40.178865,
     "geom:longitude":-74.013091,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AoS8n8usRC2887C7riTNX_40.178865_-74.013091@1294171694"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461313044,
     "wof:geomhash":"6016341a37a88eef2abe36ae6a018f11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655600773
+        }
+    ],
     "wof:id":655600773,
-    "wof:lastmodified":1466681186,
+    "wof:lastmodified":1492051726,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

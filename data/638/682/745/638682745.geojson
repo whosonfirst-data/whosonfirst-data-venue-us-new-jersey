@@ -2,9 +2,14 @@
   "id": 638682745,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 State Rte 208 Fair Lawn NJ 07410",
+    "addr:housenumber":"10",
+    "addr:postcode":"07410",
+    "addr:street":"State Rte 208",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131724,40.944784,-74.131724,40.944784",
     "geom:latitude":40.944784,
     "geom:longitude":-74.131724,
@@ -27,7 +32,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48vTmM3kGPg0u1PgoW8e14_40.944784_-74.131724@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461276836,
     "wof:geomhash":"e2b8d762cbefcacb72c469f8d78b069a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":638682745
+        }
+    ],
     "wof:id":638682745,
-    "wof:lastmodified":1466688165,
+    "wof:lastmodified":1492062242,
     "wof:name":"Sk Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

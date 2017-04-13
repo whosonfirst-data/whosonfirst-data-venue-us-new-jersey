@@ -2,9 +2,14 @@
   "id": 639219853,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Mountbatten Dr Old Bridge NJ 08857",
+    "addr:housenumber":"52",
+    "addr:postcode":"08857",
+    "addr:street":"Mountbatten Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.286613,40.383816,-74.286613,40.383816",
     "geom:latitude":40.383816,
     "geom:longitude":-74.286613,
@@ -28,7 +33,14 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478201,
+        85633793,
+        85976317,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ggb7T5LJy0GOWENRqtDXy_40.383816_-74.286613@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461290141,
     "wof:geomhash":"0f5132e44210c87239471f43f800e81d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478201,
+            "locality_id":85976317,
+            "region_id":85688607,
+            "venue_id":639219853
+        }
+    ],
     "wof:id":639219853,
-    "wof:lastmodified":1466689624,
+    "wof:lastmodified":1492053433,
     "wof:name":"Signature Wireless Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

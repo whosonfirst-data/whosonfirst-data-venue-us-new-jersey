@@ -2,9 +2,14 @@
   "id": 638826179,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Houston Rd Little Falls NJ 07424",
+    "addr:housenumber":"14",
+    "addr:postcode":"07424",
+    "addr:street":"Houston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210569,40.870737,-74.210569,40.870737",
     "geom:latitude":40.870737,
     "geom:longitude":-74.210569,
@@ -24,7 +29,13 @@
     "sg:postcode":"07424",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cg1T3e8z5VQxwl4FluTIS_40.870737_-74.210569@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461280894,
     "wof:geomhash":"cd7c1969a48232b4aefe6ba5b8df1b9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":638826179
+        }
+    ],
     "wof:id":638826179,
-    "wof:lastmodified":1466688894,
+    "wof:lastmodified":1492023954,
     "wof:name":"John Hall & Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

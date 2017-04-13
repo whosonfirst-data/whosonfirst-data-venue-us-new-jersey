@@ -2,9 +2,14 @@
   "id": 639053737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1037 Clinton Ave Irvington NJ 07111",
+    "addr:housenumber":"1037",
+    "addr:postcode":"07111",
+    "addr:street":"Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.244007,40.73068,-74.244007,40.73068",
     "geom:latitude":40.73068,
     "geom:longitude":-74.244007,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478041,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tnBvRWVlXi9vyoe69p582_40.730680_-74.244007@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461286343,
     "wof:geomhash":"abc2606e973cf791814e8822890c2fe2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478041,
+            "region_id":85688607,
+            "venue_id":639053737
+        }
+    ],
     "wof:id":639053737,
-    "wof:lastmodified":1466674363,
+    "wof:lastmodified":1492030639,
     "wof:name":"Y & K Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

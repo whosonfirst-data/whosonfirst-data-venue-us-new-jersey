@@ -2,9 +2,14 @@
   "id": 639566983,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Goritz Rd Asbury NJ 08802",
+    "addr:housenumber":"509",
+    "addr:postcode":"08802",
+    "addr:street":"Goritz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057993,40.631904,-75.057993,40.631904",
     "geom:latitude":40.631904,
     "geom:longitude":-75.057993,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46qtnCOFec99MCDEsRk8f8_40.631904_-75.057993@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461300381,
     "wof:geomhash":"f174e8b3f2675ce8d276e04fdbcf5aa9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639566983
+        }
+    ],
     "wof:id":639566983,
-    "wof:lastmodified":1466696221,
+    "wof:lastmodified":1492053538,
     "wof:name":"Ferrari Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

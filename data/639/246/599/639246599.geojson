@@ -2,9 +2,14 @@
   "id": 639246599,
   "type": "Feature",
   "properties": {
+    "addr:full":"586 US Hwy 22 Hillside NJ 07205",
+    "addr:housenumber":"586",
+    "addr:postcode":"07205",
+    "addr:street":"Us Hwy 22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.240956,40.69874,-74.240956,40.69874",
     "geom:latitude":40.69874,
     "geom:longitude":-74.240956,
@@ -29,7 +34,13 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60UgCowBTSWJrlA3pXJZTO_40.698740_-74.240956@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461290757,
     "wof:geomhash":"5f75050b75dfeffca5d82b3724577459",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639246599
+        }
+    ],
     "wof:id":639246599,
-    "wof:lastmodified":1466690417,
+    "wof:lastmodified":1492057646,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

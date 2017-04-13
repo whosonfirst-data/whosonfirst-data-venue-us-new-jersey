@@ -2,9 +2,14 @@
   "id": 639575005,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Clarksville Rd Princeton Junction NJ 08550",
+    "addr:housenumber":"195",
+    "addr:postcode":"08550",
+    "addr:street":"Clarksville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.649188,40.296051,-74.649188,40.296051",
     "geom:latitude":40.296051,
     "geom:longitude":-74.649188,
@@ -27,7 +32,10 @@
         "destructive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A4BE0AESDNSsCLOWHxS1C_40.296051_-74.649188@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461300705,
     "wof:geomhash":"dec2f591d310270346cd87d43792536b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527153,
+            "venue_id":639575005
+        }
+    ],
     "wof:id":639575005,
-    "wof:lastmodified":1466696357,
+    "wof:lastmodified":1492049950,
     "wof:name":"Conam Insptn & Engrg Svcs Inc",
     "wof:parent_id":420527153,
     "wof:placetype":"venue",

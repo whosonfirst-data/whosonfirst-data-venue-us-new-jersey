@@ -2,9 +2,14 @@
   "id": 638819723,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Pine St Old Bridge NJ 08857",
+    "addr:housenumber":"51",
+    "addr:postcode":"08857",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.351887,40.396474,-74.351887,40.396474",
     "geom:latitude":40.396474,
     "geom:longitude":-74.351887,
@@ -27,7 +32,10 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79Xjka2sgyC9Cz3f1yImVx_40.396474_-74.351887@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280701,
     "wof:geomhash":"ff03eb4fb971b560fa703615e466301a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527177,
+            "venue_id":638819723
+        }
+    ],
     "wof:id":638819723,
-    "wof:lastmodified":1466688120,
+    "wof:lastmodified":1492053432,
     "wof:name":"Binek Garage Door",
     "wof:parent_id":420527177,
     "wof:placetype":"venue",

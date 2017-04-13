@@ -2,9 +2,14 @@
   "id": 639353371,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Coe Ave Hillside NJ 07205",
+    "addr:housenumber":"41",
+    "addr:postcode":"07205",
+    "addr:street":"Coe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.218436,40.691118,-74.218436,40.691118",
     "geom:latitude":40.691118,
     "geom:longitude":-74.218436,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EGsuEamVqAMNoc21CIkF3_40.691118_-74.218436@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461293092,
     "wof:geomhash":"54503a8956d1b5a7ef958f58783cc02e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":639353371
+        }
+    ],
     "wof:id":639353371,
-    "wof:lastmodified":1466692439,
+    "wof:lastmodified":1492055914,
     "wof:name":"Ilsogno Due",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

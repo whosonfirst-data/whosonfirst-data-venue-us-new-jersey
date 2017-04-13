@@ -2,9 +2,14 @@
   "id": 639598063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Woodcrest Ln Westwood NJ 07675",
+    "addr:housenumber":"1",
+    "addr:postcode":"07675",
+    "addr:street":"Woodcrest Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.970905,41.011905,-73.970905,41.011905",
     "geom:latitude":41.011905,
     "geom:longitude":-73.970905,
@@ -27,7 +32,14 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477705,
+        85633793,
+        85975957,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dp4lPIJjs2sg86mT2Fk5M_41.011905_-73.970905@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461301666,
     "wof:geomhash":"3a0bfa4e7bf8aef1e16507ae1dc348a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477705,
+            "locality_id":85975957,
+            "region_id":85688607,
+            "venue_id":639598063
+        }
+    ],
     "wof:id":639598063,
-    "wof:lastmodified":1466696721,
+    "wof:lastmodified":1492039106,
     "wof:name":"MBA Developers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

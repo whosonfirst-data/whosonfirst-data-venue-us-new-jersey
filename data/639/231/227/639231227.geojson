@@ -2,9 +2,14 @@
   "id": 639231227,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Clove Rd Montague NJ 07827",
+    "addr:housenumber":"235",
+    "addr:postcode":"07827",
+    "addr:street":"Clove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.759514,41.313354,-74.759514,41.313354",
     "geom:latitude":41.313354,
     "geom:longitude":-74.759514,
@@ -24,7 +29,13 @@
     "sg:postcode":"07827",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478469,
+        85633793,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YIDmIPS6k1HuVkyWuLiRZ_41.313354_-74.759514@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461290384,
     "wof:geomhash":"87eae2ce93971b96e0babfc6122d1e8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478469,
+            "region_id":85688607,
+            "venue_id":639231227
+        }
+    ],
     "wof:id":639231227,
-    "wof:lastmodified":1466689772,
+    "wof:lastmodified":1492076391,
     "wof:name":"Joe Andriac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

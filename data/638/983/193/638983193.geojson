@@ -2,9 +2,14 @@
   "id": 638983193,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 Wilson Rd Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"2210",
+    "addr:postcode":"08742",
+    "addr:street":"Wilson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.066783,40.074156,-74.066783,40.074156",
     "geom:latitude":40.074156,
     "geom:longitude":-74.066783,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ksRCc2hVyGXeRZ1yfFKmN_40.074156_-74.066783@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461284708,
     "wof:geomhash":"8c2aac6613ea4fad2f91b5a1cacf7409",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":638983193
+        }
+    ],
     "wof:id":638983193,
-    "wof:lastmodified":1466691891,
+    "wof:lastmodified":1492041219,
     "wof:name":"Dunrice Renovations Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639437601,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 State Rte 31 Washington NJ 07882",
+    "addr:housenumber":"315",
+    "addr:postcode":"07882",
+    "addr:street":"State Rte 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975102,40.780563,-74.975102,40.780563",
     "geom:latitude":40.780563,
     "geom:longitude":-74.975102,
@@ -27,7 +32,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K61lrCIqSKquujKy1qwpr_40.780563_-74.975102@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461295060,
     "wof:geomhash":"e296bb19ac59d6e82e551bcce1141c55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527795,
+            "venue_id":639437601
+        }
+    ],
     "wof:id":639437601,
-    "wof:lastmodified":1466693492,
+    "wof:lastmodified":1492055954,
     "wof:name":"Laboratory Corp Of America",
     "wof:parent_id":420527795,
     "wof:placetype":"venue",

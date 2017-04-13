@@ -2,9 +2,14 @@
   "id": 655705587,
   "type": "Feature",
   "properties": {
+    "addr:full":"786 Bloomfield Ave Clifton NJ 07012",
+    "addr:housenumber":"786",
+    "addr:postcode":"07012",
+    "addr:street":"Bloomfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.156601,40.845901,-74.156601,40.845901",
     "geom:latitude":40.845901,
     "geom:longitude":-74.156601,
@@ -24,7 +29,14 @@
     "sg:postcode":"07012",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eILhq2M0bGabqXUNCWfMx_40.845901_-74.156601@1303262250"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317588,
     "wof:geomhash":"edc8244c853679af9d248a328da53a7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655705587
+        }
+    ],
     "wof:id":655705587,
-    "wof:lastmodified":1466684445,
+    "wof:lastmodified":1492070774,
     "wof:name":"All Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

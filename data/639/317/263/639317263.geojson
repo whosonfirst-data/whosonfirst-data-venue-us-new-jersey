@@ -2,9 +2,14 @@
   "id": 639317263,
   "type": "Feature",
   "properties": {
+    "addr:full":"72 Mount Vernon Pl Newark NJ 07106",
+    "addr:housenumber":"72",
+    "addr:postcode":"07106",
+    "addr:street":"Mount Vernon Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239361,40.735997,-74.239361,40.735997",
     "geom:latitude":40.735997,
     "geom:longitude":-74.239361,
@@ -30,7 +35,13 @@
     ],
     "sg:website":"www.hudsoncitysavingsbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975279,
+        102085043,
+        85872983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IObcKumqqDzV6DBteMlsF_40.735997_-74.239361@1294171694"
@@ -38,11 +49,20 @@
     "wof:country":"US",
     "wof:created":1461292336,
     "wof:geomhash":"ae8bbc9f10f558a25f154a850333343c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085043,
+            "locality_id":85975279,
+            "neighbourhood_id":85872983,
+            "region_id":85688607,
+            "venue_id":639317263
+        }
+    ],
     "wof:id":639317263,
-    "wof:lastmodified":1466691805,
+    "wof:lastmodified":1491938441,
     "wof:name":"Hudson City Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

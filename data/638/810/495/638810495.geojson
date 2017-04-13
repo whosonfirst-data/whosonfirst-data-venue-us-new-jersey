@@ -2,9 +2,14 @@
   "id": 638810495,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Eleanor Dr Kendall Park NJ 08824",
+    "addr:housenumber":"93",
+    "addr:postcode":"08824",
+    "addr:street":"Eleanor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.538589,40.422495,-74.538589,40.422495",
     "geom:latitude":40.422495,
     "geom:longitude":-74.538589,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aBSehjcxaNchZRNYfUswj_40.422495_-74.538589@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461280458,
     "wof:geomhash":"2007959b3d5b82d4a00a914aa2b3636f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527179,
+            "venue_id":638810495
+        }
+    ],
     "wof:id":638810495,
-    "wof:lastmodified":1466686949,
+    "wof:lastmodified":1492052154,
     "wof:name":"Anh Business Svc Inc",
     "wof:parent_id":420527179,
     "wof:placetype":"venue",

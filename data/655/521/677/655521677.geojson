@@ -2,9 +2,14 @@
   "id": 655521677,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Forest Ridge Upper Saddle Rvr NJ 07458",
+    "addr:housenumber":"3",
+    "addr:postcode":"07458",
+    "addr:street":"Forest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.105958,41.061727,-74.105958,41.061727",
     "geom:latitude":41.061727,
     "geom:longitude":-74.105958,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ikKstDynyXRJS8Aqe5mz_41.061727_-74.105958@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309739,
     "wof:geomhash":"8e48143efc82b9880f634ce79acaecfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655521677
+        }
+    ],
     "wof:id":655521677,
-    "wof:lastmodified":1466678799,
+    "wof:lastmodified":1492020033,
     "wof:name":"Interventional Spine & Pain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

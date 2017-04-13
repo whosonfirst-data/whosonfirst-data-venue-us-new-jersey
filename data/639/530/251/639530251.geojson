@@ -2,9 +2,14 @@
   "id": 639530251,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 10th Ave Paterson NJ 07514",
+    "addr:housenumber":"501",
+    "addr:postcode":"07514",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.143024,40.923254,-74.143024,40.923254",
     "geom:latitude":40.923254,
     "geom:longitude":-74.143024,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879785,
+        85844985,
         102191575,
         404477819,
         85633793,
         85975481,
         102081133,
-        85688607
+        85688607,
+        85879785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081133,
             "localadmin_id":404477819,
             "locality_id":85975481,
+            "neighbourhood_id":85844985,
+            "region_id":85688607,
+            "venue_id":639530251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477819,
+            "locality_id":85975481,
             "neighbourhood_id":85879785,
             "region_id":85688607,
             "venue_id":639530251
         }
     ],
     "wof:id":639530251,
-    "wof:lastmodified":1466695718,
+    "wof:lastmodified":1492076673,
     "wof:name":"Rent-A-Wreck",
-    "wof:parent_id":85879785,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

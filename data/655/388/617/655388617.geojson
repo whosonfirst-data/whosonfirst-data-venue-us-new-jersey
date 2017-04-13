@@ -2,9 +2,14 @@
   "id": 655388617,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Chestnut St Bordentown NJ 08505",
+    "addr:housenumber":"200",
+    "addr:postcode":"08505",
+    "addr:street":"E Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.703626,40.144098,-74.703626,40.144098",
     "geom:latitude":40.144098,
     "geom:longitude":-74.703626,
@@ -37,7 +42,8 @@
         85633793,
         85975539,
         102087415,
-        85688607
+        85688607,
+        420526703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +62,17 @@
             "neighbourhood_id":85834189,
             "region_id":85688607,
             "venue_id":655388617
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":655388617
         }
     ],
     "wof:id":655388617,
-    "wof:lastmodified":1466675228,
+    "wof:lastmodified":1492055604,
     "wof:name":"Springside Commons",
-    "wof:parent_id":85834189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

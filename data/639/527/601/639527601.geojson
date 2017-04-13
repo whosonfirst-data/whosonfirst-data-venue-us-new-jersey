@@ -2,9 +2,14 @@
   "id": 639527601,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 E Madison Ave Dumont NJ 07628",
+    "addr:housenumber":"86",
+    "addr:postcode":"07628",
+    "addr:street":"E Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.99222,40.940514,-73.99222,40.940514",
     "geom:latitude":40.940514,
     "geom:longitude":-73.99222,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g63nT0CA8LNxNk5pWVoju_40.940514_-73.992220@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298721,
     "wof:geomhash":"2ecd26a5d575293e5f15bfcec02eb064",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639527601
+        }
+    ],
     "wof:id":639527601,
-    "wof:lastmodified":1466695431,
+    "wof:lastmodified":1492072403,
     "wof:name":"B & F Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

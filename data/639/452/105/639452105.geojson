@@ -2,9 +2,14 @@
   "id": 639452105,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Squan Rd Clarksburg NJ 08510",
+    "addr:housenumber":"17",
+    "addr:postcode":"08510",
+    "addr:street":"Squan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.415621,40.171081,-74.415621,40.171081",
     "geom:latitude":40.171081,
     "geom:longitude":-74.415621,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478373,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t1ZgeHExia8Gws9RrChlU_40.171081_-74.415621@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461295504,
     "wof:geomhash":"97866abf2bbeb62c1205cf2173a17ac6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478373,
+            "region_id":85688607,
+            "venue_id":639452105
+        }
+    ],
     "wof:id":639452105,
-    "wof:lastmodified":1466693470,
+    "wof:lastmodified":1492050202,
     "wof:name":"Frank Scotto Ltd Liability Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

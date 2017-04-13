@@ -2,9 +2,14 @@
   "id": 655795335,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Columbia Tpke Florham Park NJ 07932",
+    "addr:housenumber":"195",
+    "addr:postcode":"07932",
+    "addr:street":"Columbia Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.393898,40.788601,-74.393898,40.788601",
     "geom:latitude":40.788601,
     "geom:longitude":-74.393898,
@@ -25,7 +30,14 @@
     "sg:province":"NJ",
     "sg:website":"www.adecco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67NYy6XBhEsZ3x67y2zsrt_40.788601_-74.393898@1303262272"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461321185,
     "wof:geomhash":"abc3029a4ee77dd017677d766ffc8469",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":655795335
+        }
+    ],
     "wof:id":655795335,
-    "wof:lastmodified":1466686838,
+    "wof:lastmodified":1492042906,
     "wof:name":"Adecco Employment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

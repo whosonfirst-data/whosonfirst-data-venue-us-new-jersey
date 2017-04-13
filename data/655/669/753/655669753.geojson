@@ -2,9 +2,14 @@
   "id": 655669753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1470 Witherspoon St Rahway NJ 07065",
+    "addr:housenumber":"1470",
+    "addr:postcode":"07065",
+    "addr:street":"Witherspoon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.263802,40.599998,-74.263802,40.599998",
     "geom:latitude":40.599998,
     "geom:longitude":-74.263802,
@@ -28,7 +33,14 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LAYfQk4d4iDqfRCj32y6D_40.600310_-74.263982@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315985,
     "wof:geomhash":"b987c6a5b4a77c02dd8f7898fa38e531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655669753
+        }
+    ],
     "wof:id":655669753,
-    "wof:lastmodified":1466683572,
+    "wof:lastmodified":1492023540,
     "wof:name":"Jfk of Rahway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

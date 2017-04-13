@@ -2,9 +2,14 @@
   "id": 639032685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Doree Rd Morganville NJ 07751",
+    "addr:housenumber":"6",
+    "addr:postcode":"07751",
+    "addr:street":"Doree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.224595,40.366027,-74.224595,40.366027",
     "geom:latitude":40.366027,
     "geom:longitude":-74.224595,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478365,
+        85633793,
+        85976025,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XVVllywFmscmTav2TjXOk_40.366027_-74.224595@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285848,
     "wof:geomhash":"7c8bc6509b7e390a36e399cfa20329d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":85976025,
+            "region_id":85688607,
+            "venue_id":639032685
+        }
+    ],
     "wof:id":639032685,
-    "wof:lastmodified":1466673829,
+    "wof:lastmodified":1492030627,
     "wof:name":"SPS Mgmt Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

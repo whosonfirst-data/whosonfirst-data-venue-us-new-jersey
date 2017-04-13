@@ -2,9 +2,14 @@
   "id": 655607021,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 River Dr Garfield NJ 07026",
+    "addr:housenumber":"81",
+    "addr:postcode":"07026",
+    "addr:street":"River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.105058,40.863813,-74.105058,40.863813",
     "geom:latitude":40.863813,
     "geom:longitude":-74.105058,
@@ -30,7 +35,14 @@
         "cashing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sIDLfQQN00sRST3PH6JU9_40.863813_-74.105058@1294171694"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461313304,
     "wof:geomhash":"0e8e034a6334e7afe9c65152ce0de724",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655607021
+        }
+    ],
     "wof:id":655607021,
-    "wof:lastmodified":1466681284,
+    "wof:lastmodified":1492053665,
     "wof:name":"United Check Cashing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

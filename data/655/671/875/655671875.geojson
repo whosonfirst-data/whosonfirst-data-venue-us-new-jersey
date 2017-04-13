@@ -2,9 +2,14 @@
   "id": 655671875,
   "type": "Feature",
   "properties": {
+    "addr:full":"865 Port Reading Ave Port Reading NJ 07064",
+    "addr:housenumber":"865",
+    "addr:postcode":"07064",
+    "addr:street":"Port Reading Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.232903,40.5704,-74.232903,40.5704",
     "geom:latitude":40.5704,
     "geom:longitude":-74.232903,
@@ -29,7 +34,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478217,
+        85633793,
+        85976313,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42Qx1eKWNK7lttylVAQgeb_40.570341_-74.232896@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316093,
     "wof:geomhash":"d944b1612842919570f431a45e997760",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478217,
+            "locality_id":85976313,
+            "region_id":85688607,
+            "venue_id":655671875
+        }
+    ],
     "wof:id":655671875,
-    "wof:lastmodified":1466683620,
+    "wof:lastmodified":1492023540,
     "wof:name":"B & W Auto Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

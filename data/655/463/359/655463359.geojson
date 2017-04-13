@@ -2,9 +2,14 @@
   "id": 655463359,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 New England Ave Piscataway NJ 08854",
+    "addr:housenumber":"100",
+    "addr:postcode":"08854",
+    "addr:street":"New England Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.468691,40.549546,-74.468691,40.549546",
     "geom:latitude":40.549546,
     "geom:longitude":-74.468691,
@@ -36,7 +41,8 @@
         85633793,
         85976303,
         102087417,
-        85688607
+        85688607,
+        85842907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,19 @@
             "neighbourhood_id":85865293,
             "region_id":85688607,
             "venue_id":655463359
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "neighbourhood_id":85842907,
+            "region_id":85688607,
+            "venue_id":655463359
         }
     ],
     "wof:id":655463359,
-    "wof:lastmodified":1466677130,
+    "wof:lastmodified":1492057037,
     "wof:name":"Strato Inc",
-    "wof:parent_id":85865293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655591231,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Knollwood Dr Cherry Hill NJ 08002",
+    "addr:housenumber":"47",
+    "addr:postcode":"08002",
+    "addr:street":"Knollwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.006587,39.931681,-75.006587,39.931681",
     "geom:latitude":39.931681,
     "geom:longitude":-75.006587,
@@ -24,7 +29,14 @@
     "sg:postcode":"08002",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477993,
+        85633793,
+        85976241,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jGSPcrE72dvYfXxcORjZW_39.931681_-75.006587@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461312643,
     "wof:geomhash":"96135391b4ad6a2c86d2e8017555c385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477993,
+            "locality_id":85976241,
+            "region_id":85688607,
+            "venue_id":655591231
+        }
+    ],
     "wof:id":655591231,
-    "wof:lastmodified":1466680619,
+    "wof:lastmodified":1492028742,
     "wof:name":"Burnstein Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

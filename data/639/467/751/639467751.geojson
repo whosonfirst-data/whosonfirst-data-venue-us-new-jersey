@@ -2,9 +2,14 @@
   "id": 639467751,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Central Ave Clark NJ 07066",
+    "addr:housenumber":"59",
+    "addr:postcode":"07066",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.307023,40.628455,-74.307023,40.628455",
     "geom:latitude":40.628455,
     "geom:longitude":-74.307023,
@@ -24,7 +29,13 @@
     "sg:postcode":"07066",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DG81dA74vG35Z5kRQs7Es_40.628455_-74.307023@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461296098,
     "wof:geomhash":"798f4265680ba849fe9be8c42ab71678",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639467751
+        }
+    ],
     "wof:id":639467751,
-    "wof:lastmodified":1466694054,
+    "wof:lastmodified":1492080187,
     "wof:name":"Roy Rogers Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

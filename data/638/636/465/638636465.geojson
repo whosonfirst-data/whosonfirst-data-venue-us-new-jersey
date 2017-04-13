@@ -2,9 +2,14 @@
   "id": 638636465,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Old Milford Ln West Milford NJ 07480",
+    "addr:housenumber":"30",
+    "addr:postcode":"07480",
+    "addr:street":"Old Milford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.407844,41.103467,-74.407844,41.103467",
     "geom:latitude":41.103467,
     "geom:longitude":-74.407844,
@@ -28,7 +33,10 @@
         "works"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oRg1PS2N3GHHtQXKR6y1T_41.103467_-74.407844@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461275414,
     "wof:geomhash":"22eaf0349ed091c1ff206ce1950ff2ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527495,
+            "venue_id":638636465
+        }
+    ],
     "wof:id":638636465,
-    "wof:lastmodified":1466673370,
+    "wof:lastmodified":1492062238,
     "wof:name":"West Milford Dpw",
     "wof:parent_id":420527495,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639066853,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Gordon Rd Robbinsville NJ 08691",
+    "addr:housenumber":"403",
+    "addr:postcode":"08691",
+    "addr:street":"Gordon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.560367,40.194984,-74.560367,40.194984",
     "geom:latitude":40.194984,
     "geom:longitude":-74.560367,
@@ -27,7 +32,13 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478263,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NAj7MSHYug9gmmkyWL8bX_40.194984_-74.560367@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461286625,
     "wof:geomhash":"3f398e4ba2304db334d5a721fd4d67a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478263,
+            "region_id":85688607,
+            "venue_id":639066853
+        }
+    ],
     "wof:id":639066853,
-    "wof:lastmodified":1466688270,
+    "wof:lastmodified":1492016998,
     "wof:name":"Princeton Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

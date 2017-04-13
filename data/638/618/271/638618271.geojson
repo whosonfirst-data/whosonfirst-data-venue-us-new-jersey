@@ -2,9 +2,14 @@
   "id": 638618271,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Brook Ave Maywood NJ 07607",
+    "addr:housenumber":"1",
+    "addr:postcode":"07607",
+    "addr:street":"Brook Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.070488,40.90134,-74.070488,40.90134",
     "geom:latitude":40.90134,
     "geom:longitude":-74.070488,
@@ -32,7 +37,11 @@
         85688607,
         85633793,
         85840881,
-        102086773
+        102086773,
+        85810655,
+        102191575,
+        404477719,
+        85975927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +57,22 @@
             "neighbourhood_id":85840881,
             "region_id":85688607,
             "venue_id":638618271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477719,
+            "locality_id":85975927,
+            "neighbourhood_id":85810655,
+            "region_id":85688607,
+            "venue_id":638618271
         }
     ],
     "wof:id":638618271,
-    "wof:lastmodified":1466672932,
+    "wof:lastmodified":1492040801,
     "wof:name":"Maywood Pool",
-    "wof:parent_id":85840881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655518741,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Marion Ave Linden NJ 07036",
+    "addr:housenumber":"200",
+    "addr:postcode":"07036",
+    "addr:street":"Marion Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.265965,40.620192,-74.265965,40.620192",
     "geom:latitude":40.620192,
     "geom:longitude":-74.265965,
@@ -28,7 +33,14 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478503,
+        85633793,
+        85975837,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_331xQhAZtjHgh1v5W1kMrG_40.620192_-74.265965@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461309627,
     "wof:geomhash":"95c40be9b5660c0efdb1e900dbc2ff43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478503,
+            "locality_id":85975837,
+            "region_id":85688607,
+            "venue_id":655518741
+        }
+    ],
     "wof:id":655518741,
-    "wof:lastmodified":1466678814,
+    "wof:lastmodified":1492023646,
     "wof:name":"Metals Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

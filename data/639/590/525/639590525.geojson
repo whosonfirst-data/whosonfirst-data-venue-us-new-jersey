@@ -2,9 +2,14 @@
   "id": 639590525,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Wall St Newton NJ 07860",
+    "addr:housenumber":"901",
+    "addr:postcode":"07860",
+    "addr:street":"Wall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.866485,41.032849,-74.866485,41.032849",
     "geom:latitude":41.032849,
     "geom:longitude":-74.866485,
@@ -27,7 +32,10 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jytQOX18CHPu60giHd9xr_41.032849_-74.866485@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301358,
     "wof:geomhash":"89f8836c778c83c2c5cf0087a59c2f1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":639590525
+        }
+    ],
     "wof:id":639590525,
-    "wof:lastmodified":1466696839,
+    "wof:lastmodified":1492080177,
     "wof:name":"Traxside Stable",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

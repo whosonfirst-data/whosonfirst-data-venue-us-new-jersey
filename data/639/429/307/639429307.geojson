@@ -2,9 +2,14 @@
   "id": 639429307,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Mission Rd Hackettstown NJ 07840",
+    "addr:housenumber":"219",
+    "addr:postcode":"07840",
+    "addr:street":"Mission Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.789778,40.838282,-74.789778,40.838282",
     "geom:latitude":40.838282,
     "geom:longitude":-74.789778,
@@ -33,8 +38,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85976195,
+        85815173,
         102087413,
+        85976195,
         85850781
     ],
     "wof:breaches":[],
@@ -48,6 +54,13 @@
         {
             "country_id":85633793,
             "county_id":102087413,
+            "neighbourhood_id":85815173,
+            "region_id":85688607,
+            "venue_id":639429307
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087413,
             "locality_id":85976195,
             "neighbourhood_id":85850781,
             "region_id":85688607,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":639429307,
-    "wof:lastmodified":1466693295,
+    "wof:lastmodified":1492044309,
     "wof:name":"Morgan Associates",
-    "wof:parent_id":85850781,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

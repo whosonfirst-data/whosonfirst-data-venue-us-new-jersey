@@ -2,9 +2,14 @@
   "id": 639517505,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Westfield Ave Clark NJ 07066",
+    "addr:housenumber":"133",
+    "addr:postcode":"07066",
+    "addr:street":"Westfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.299778,40.620405,-74.299778,40.620405",
     "geom:latitude":40.620405,
     "geom:longitude":-74.299778,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_253r2gSFf1JQ5vDpQYqecl_40.620405_-74.299778@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461298187,
     "wof:geomhash":"5b2487b78cfdd3b1fae2202d992d7a94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":639517505
+        }
+    ],
     "wof:id":639517505,
-    "wof:lastmodified":1466694982,
+    "wof:lastmodified":1492074592,
     "wof:name":"Cromwell Management Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

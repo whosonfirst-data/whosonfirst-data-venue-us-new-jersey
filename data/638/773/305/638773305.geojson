@@ -2,9 +2,14 @@
   "id": 638773305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 State Rte 35 Ocean NJ 07712",
+    "addr:housenumber":"1000",
+    "addr:postcode":"07712",
+    "addr:street":"State Rte 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.037973,40.23569,-74.037973,40.23569",
     "geom:latitude":40.23569,
     "geom:longitude":-74.037973,
@@ -24,7 +29,14 @@
     "sg:postcode":"07712",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85976033,
+        102085049,
+        85855351,
+        85857571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ro60ZCpEQeuYr7JS3ImZO_40.235690_-74.037973@1294171694"
@@ -32,11 +44,27 @@
     "wof:country":"US",
     "wof:created":1461279635,
     "wof:geomhash":"bcd9c39892bc8f78b431e823712ccf0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "locality_id":85976033,
+            "neighbourhood_id":85855351,
+            "region_id":85688607,
+            "venue_id":638773305
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85857571,
+            "region_id":85688607,
+            "venue_id":638773305
+        }
+    ],
     "wof:id":638773305,
-    "wof:lastmodified":1466681703,
+    "wof:lastmodified":1492056576,
     "wof:name":"Attilio's Italian Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

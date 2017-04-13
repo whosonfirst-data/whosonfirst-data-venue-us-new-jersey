@@ -2,9 +2,14 @@
   "id": 655595133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Stuyvesant Ave Union NJ 07083",
+    "addr:housenumber":"1701",
+    "addr:postcode":"07083",
+    "addr:street":"Stuyvesant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.256141,40.712865,-74.256141,40.712865",
     "geom:latitude":40.712865,
     "geom:longitude":-74.256141,
@@ -27,7 +32,11 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526957,
+        420527725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jrFqe0ziRvwnb9M9fKoyw_40.712865_-74.256141@1294171694"
@@ -35,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461312794,
     "wof:geomhash":"87b8cfbec4b979911d28cf7b674adf08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526957,
+            "venue_id":655595133
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527725,
+            "venue_id":655595133
+        }
+    ],
     "wof:id":655595133,
-    "wof:lastmodified":1466680749,
+    "wof:lastmodified":1492069849,
     "wof:name":"Gulbenkian Inc",
-    "wof:parent_id":420527725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

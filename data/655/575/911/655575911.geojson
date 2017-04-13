@@ -2,9 +2,14 @@
   "id": 655575911,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Main St Bloomsbury NJ 08804",
+    "addr:housenumber":"95",
+    "addr:postcode":"08804",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.077708,40.657438,-75.077708,40.657438",
     "geom:latitude":40.657438,
     "geom:longitude":-75.077708,
@@ -28,7 +33,14 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478155,
+        85633793,
+        85975703,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jQbxrQgCivDo2vSfsJCH2_40.657438_-75.077708@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461311990,
     "wof:geomhash":"23cbe03e6838f001dcadf37829838669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478155,
+            "locality_id":85975703,
+            "region_id":85688607,
+            "venue_id":655575911
+        }
+    ],
     "wof:id":655575911,
-    "wof:lastmodified":1466680272,
+    "wof:lastmodified":1492041836,
     "wof:name":"Eric's TV Sales & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

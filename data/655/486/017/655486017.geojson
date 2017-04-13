@@ -2,9 +2,14 @@
   "id": 655486017,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Don Connor Blvd Jackson NJ 08527",
+    "addr:housenumber":"65",
+    "addr:postcode":"08527",
+    "addr:street":"Don Connor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.350084,40.109525,-74.350084,40.109525",
     "geom:latitude":40.109525,
     "geom:longitude":-74.350084,
@@ -28,7 +33,13 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477839,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_577RsT7KU6FfaWcETLnXPE_40.109525_-74.350084@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461308241,
     "wof:geomhash":"d741f4eb72f80ad9b49e7b6194cd42de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477839,
+            "region_id":85688607,
+            "venue_id":655486017
+        }
+    ],
     "wof:id":655486017,
-    "wof:lastmodified":1466677651,
+    "wof:lastmodified":1492065599,
     "wof:name":"Jackson Women Of Today Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

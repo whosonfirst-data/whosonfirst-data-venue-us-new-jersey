@@ -2,9 +2,14 @@
   "id": 639225327,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Lehigh Ave Lakewood NJ 08701",
+    "addr:housenumber":"175",
+    "addr:postcode":"08701",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172737,40.072747,-74.172737,40.072747",
     "geom:latitude":40.072747,
     "geom:longitude":-74.172737,
@@ -29,7 +34,10 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SrtYzhJF8We1Ofp1omWwE_40.072747_-74.172737@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461290256,
     "wof:geomhash":"f2063916f0c702ed0d8df1ea63de2e12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639225327
+        }
+    ],
     "wof:id":639225327,
-    "wof:lastmodified":1466689612,
+    "wof:lastmodified":1492049926,
     "wof:name":"Sureline",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

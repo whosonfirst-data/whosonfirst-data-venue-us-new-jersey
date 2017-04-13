@@ -2,9 +2,14 @@
   "id": 639043617,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 Hamilton St Somerset NJ 08873",
+    "addr:housenumber":"631",
+    "addr:postcode":"08873",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.470314,40.49241,-74.470314,40.49241",
     "geom:latitude":40.49241,
     "geom:longitude":-74.470314,
@@ -24,7 +29,14 @@
     "sg:postcode":"08873",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4syDLmWRugmVLobhNjbaPm_40.492410_-74.470314@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461286124,
     "wof:geomhash":"d999ac1198197d0dc57d50f50df6198a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639043617
+        }
+    ],
     "wof:id":639043617,
-    "wof:lastmodified":1466674085,
+    "wof:lastmodified":1492042764,
     "wof:name":"Medicine Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

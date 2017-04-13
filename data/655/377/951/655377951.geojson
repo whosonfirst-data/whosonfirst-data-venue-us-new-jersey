@@ -2,9 +2,14 @@
   "id": 655377951,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 11th Ave Belmar NJ 07719",
+    "addr:housenumber":"611",
+    "addr:postcode":"07719",
+    "addr:street":"11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.025839,40.178251,-74.025839,40.178251",
     "geom:latitude":40.178251,
     "geom:longitude":-74.025839,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NZ9vDDtiFIdvgc7KYW0uM_40.178251_-74.025839@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461303732,
     "wof:geomhash":"152143ce8a6a42e5c379e1cacb314971",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655377951
+        }
+    ],
     "wof:id":655377951,
-    "wof:lastmodified":1466674973,
+    "wof:lastmodified":1492048459,
     "wof:name":"Rdp Consulting Liability C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

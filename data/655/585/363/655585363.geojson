@@ -2,9 +2,14 @@
   "id": 655585363,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 State Rte 156 Trenton NJ 08620",
+    "addr:housenumber":"77",
+    "addr:postcode":"08620",
+    "addr:street":"State Rte 156",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.673328,40.17721,-74.673328,40.17721",
     "geom:latitude":40.17721,
     "geom:longitude":-74.673328,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478251,
+        85633793,
+        85976389,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lT59hLdGpGW0ovBSoHKUW_40.177210_-74.673328@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461312406,
     "wof:geomhash":"8d4617885114916c0bf1fc3d1d1308f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976389,
+            "region_id":85688607,
+            "venue_id":655585363
+        }
+    ],
     "wof:id":655585363,
-    "wof:lastmodified":1466680414,
+    "wof:lastmodified":1492045006,
     "wof:name":"PBA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

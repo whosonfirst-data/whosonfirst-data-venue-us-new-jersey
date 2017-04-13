@@ -2,9 +2,14 @@
   "id": 655494969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Mount Holly Mt Holly NJ 08060",
+    "addr:housenumber":"2",
+    "addr:postcode":"08060",
+    "addr:street":"Mount",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.804678,39.982192,-74.804678,39.982192",
     "geom:latitude":39.982192,
     "geom:longitude":-74.804678,
@@ -30,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526707,
+        85688607,
         85811315,
         102087415
     ],
@@ -45,6 +51,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526707,
+            "venue_id":655494969
+        },
+        {
+            "country_id":85633793,
             "county_id":102087415,
             "neighbourhood_id":85811315,
             "region_id":85688607,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":655494969,
-    "wof:lastmodified":1466678078,
+    "wof:lastmodified":1492070383,
     "wof:name":"Adolescent Prevention Programs",
-    "wof:parent_id":85811315,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

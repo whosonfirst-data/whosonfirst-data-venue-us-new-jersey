@@ -2,9 +2,14 @@
   "id": 638697283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1155 State Rte 73 Mt Laurel NJ 08054",
+    "addr:housenumber":"1155",
+    "addr:postcode":"08054",
+    "addr:street":"State Rte 73 Mt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878734,39.920819,-74.878734,39.920819",
     "geom:latitude":39.920819,
     "geom:longitude":-74.878734,
@@ -32,7 +37,8 @@
         85688607,
         85633793,
         85812655,
-        102087415
+        102087415,
+        85811711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85812655,
             "region_id":85688607,
             "venue_id":638697283
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85811711,
+            "region_id":85688607,
+            "venue_id":638697283
         }
     ],
     "wof:id":638697283,
-    "wof:lastmodified":1466688422,
+    "wof:lastmodified":1492062582,
     "wof:name":"Alcan Chemicals",
-    "wof:parent_id":85812655,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

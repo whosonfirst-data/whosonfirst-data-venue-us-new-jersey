@@ -2,9 +2,14 @@
   "id": 639543895,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Hazel Pl Fair Lawn NJ 07410",
+    "addr:housenumber":"24",
+    "addr:postcode":"07410",
+    "addr:street":"Hazel Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.128379,40.926721,-74.128379,40.926721",
     "geom:latitude":40.926721,
     "geom:longitude":-74.128379,
@@ -28,7 +33,14 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477533,
+        85633793,
+        85975873,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fk7fGPe1hRP49ODxO3HeR_40.926721_-74.128379@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299491,
     "wof:geomhash":"2758c8224ab2996c6305a424edc55493",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477533,
+            "locality_id":85975873,
+            "region_id":85688607,
+            "venue_id":639543895
+        }
+    ],
     "wof:id":639543895,
-    "wof:lastmodified":1466695810,
+    "wof:lastmodified":1492049489,
     "wof:name":"Pennsyvania Ship Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

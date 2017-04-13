@@ -2,9 +2,14 @@
   "id": 638655735,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 W 22nd St Bayonne NJ 07002",
+    "addr:housenumber":"64",
+    "addr:postcode":"07002",
+    "addr:street":"W 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.12323,40.665129,-74.12323,40.665129",
     "geom:latitude":40.665129,
     "geom:longitude":-74.12323,
@@ -27,7 +32,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UVw5gP3e0RQ5oQrjG6VJH_40.665129_-74.123230@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275963,
     "wof:geomhash":"a8206d81280c90a84a48c7261084670a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":638655735
+        }
+    ],
     "wof:id":638655735,
-    "wof:lastmodified":1466674037,
+    "wof:lastmodified":1492081910,
     "wof:name":"Russ & Scott Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

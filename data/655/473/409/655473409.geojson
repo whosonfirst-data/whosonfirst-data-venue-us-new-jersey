@@ -2,9 +2,14 @@
   "id": 655473409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Sawmill Rd Brick NJ 08724",
+    "addr:housenumber":"1108",
+    "addr:postcode":"08724",
+    "addr:street":"Sawmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115129,40.109843,-74.115129,40.109843",
     "geom:latitude":40.109843,
     "geom:longitude":-74.115129,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477835,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15OtIejl9bauHcgPRnU2B3_40.109843_-74.115129@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461307731,
     "wof:geomhash":"dd7f68caf53bb5123517c6462f1479ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "region_id":85688607,
+            "venue_id":655473409
+        }
+    ],
     "wof:id":655473409,
-    "wof:lastmodified":1466677410,
+    "wof:lastmodified":1492047739,
     "wof:name":"Grass Roots Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639010895,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Nassau St Princeton NJ 08542",
+    "addr:housenumber":"92",
+    "addr:postcode":"08542",
+    "addr:street":"Nassau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.658666,40.349975,-74.658666,40.349975",
     "geom:latitude":40.349975,
     "geom:longitude":-74.658666,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q7s8Exe1y0q3Ww0JNZcI9_40.349975_-74.658666@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461285337,
     "wof:geomhash":"3438cec0a0341a9bf42d85389b1a566f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639010895
+        }
+    ],
     "wof:id":639010895,
-    "wof:lastmodified":1466673280,
+    "wof:lastmodified":1492019949,
     "wof:name":"ICG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

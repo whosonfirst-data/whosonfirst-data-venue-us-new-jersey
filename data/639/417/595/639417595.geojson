@@ -2,9 +2,14 @@
   "id": 639417595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 State Rte 179 Lambertville NJ 08530",
+    "addr:housenumber":"1525",
+    "addr:postcode":"08530",
+    "addr:street":"State Rte 179",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.934283,40.374995,-74.934283,40.374995",
     "geom:latitude":40.374995,
     "geom:longitude":-74.934283,
@@ -30,7 +35,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478245,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YdmZwrITAO1UU4pDLFXWV_40.374995_-74.934283@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461294652,
     "wof:geomhash":"a1be104296046fe47be352da94669cfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478245,
+            "region_id":85688607,
+            "venue_id":639417595
+        }
+    ],
     "wof:id":639417595,
-    "wof:lastmodified":1466693185,
+    "wof:lastmodified":1492051529,
     "wof:name":"Connect Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

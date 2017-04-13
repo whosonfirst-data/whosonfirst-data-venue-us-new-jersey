@@ -2,9 +2,14 @@
   "id": 655393615,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Rainier Dr Brick NJ 08724",
+    "addr:housenumber":"49",
+    "addr:postcode":"08724",
+    "addr:street":"Rainier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131939,40.095656,-74.131939,40.095656",
     "geom:latitude":40.095656,
     "geom:longitude":-74.131939,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CRoQTtG8PITnxoMEKfl8c_40.095656_-74.131939@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304359,
     "wof:geomhash":"ed28b4e0912889cc09b8a2dec7498b22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":655393615
+        }
+    ],
     "wof:id":655393615,
-    "wof:lastmodified":1466675355,
+    "wof:lastmodified":1492047744,
     "wof:name":"Police Management Consulting",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

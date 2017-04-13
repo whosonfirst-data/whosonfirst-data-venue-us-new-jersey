@@ -2,9 +2,14 @@
   "id": 655547507,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 South Ave E Cranford NJ 07016",
+    "addr:housenumber":"299",
+    "addr:postcode":"07016",
+    "addr:street":"South Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.300763,40.655035,-74.300763,40.655035",
     "geom:latitude":40.655035,
     "geom:longitude":-74.300763,
@@ -28,7 +33,8 @@
         85688607,
         85633793,
         85850963,
-        102085995
+        102085995,
+        85812765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +50,19 @@
             "neighbourhood_id":85850963,
             "region_id":85688607,
             "venue_id":655547507
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85812765,
+            "region_id":85688607,
+            "venue_id":655547507
         }
     ],
     "wof:id":655547507,
-    "wof:lastmodified":1466679470,
+    "wof:lastmodified":1492051694,
     "wof:name":"Krauszers",
-    "wof:parent_id":85850963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

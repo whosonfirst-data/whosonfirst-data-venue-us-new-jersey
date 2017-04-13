@@ -2,9 +2,14 @@
   "id": 638922533,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 Ave C Weehawken NJ 07002",
+    "addr:housenumber":"708",
+    "addr:postcode":"07002",
+    "addr:street":"Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.114895,40.671537,-74.114895,40.671537",
     "geom:latitude":40.671537,
     "geom:longitude":-74.114895,
@@ -27,7 +32,14 @@
         "translator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pIPCWnMmWZ4CpUc0aWFOF_40.671537_-74.114895@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461283336,
     "wof:geomhash":"e6e551338093e6c4aa70239219045f6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "region_id":85688607,
+            "venue_id":638922533
+        }
+    ],
     "wof:id":638922533,
-    "wof:lastmodified":1466690696,
+    "wof:lastmodified":1492025502,
     "wof:name":"Alex C Ladd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

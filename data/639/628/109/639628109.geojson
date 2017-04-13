@@ -2,9 +2,14 @@
   "id": 639628109,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Main St Somerset NJ 08873",
+    "addr:housenumber":"11",
+    "addr:postcode":"08873",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.465152,40.491589,-74.465152,40.491589",
     "geom:latitude":40.491589,
     "geom:longitude":-74.465152,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976153,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WQTQ4GlavDPGCqrKwzwPh_40.491589_-74.465152@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302841,
     "wof:geomhash":"18c83d8e719f4a9ed892eb88192b06a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976153,
+            "region_id":85688607,
+            "venue_id":639628109
+        }
+    ],
     "wof:id":639628109,
-    "wof:lastmodified":1466697417,
+    "wof:lastmodified":1492051082,
     "wof:name":"Hansen Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

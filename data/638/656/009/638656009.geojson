@@ -2,9 +2,14 @@
   "id": 638656009,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Bluebird Dr Hillsborough NJ 08844",
+    "addr:housenumber":"112",
+    "addr:postcode":"08844",
+    "addr:street":"Bluebird Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660899,40.503428,-74.660899,40.503428",
     "geom:latitude":40.503428,
     "geom:longitude":-74.660899,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85820551,
-        102085045
+        85806449,
+        102085045,
+        85820551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085045,
+            "neighbourhood_id":85806449,
+            "region_id":85688607,
+            "venue_id":638656009
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
             "neighbourhood_id":85820551,
             "region_id":85688607,
             "venue_id":638656009
         }
     ],
     "wof:id":638656009,
-    "wof:lastmodified":1466673954,
+    "wof:lastmodified":1492068645,
     "wof:name":"Ronnie Lee Music",
-    "wof:parent_id":85820551,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 655400905,
   "type": "Feature",
   "properties": {
+    "addr:full":"685 Chancellor Ave Irvington NJ 07111",
+    "addr:housenumber":"685",
+    "addr:postcode":"07111",
+    "addr:street":"Chancellor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.235974,40.714753,-74.235974,40.714753",
     "geom:latitude":40.714753,
     "geom:longitude":-74.235974,
@@ -24,7 +29,13 @@
     "sg:postcode":"07111",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V3iqiHvaZEYJmPmLapUC7_40.714753_-74.235974@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461304672,
     "wof:geomhash":"0e6e6773d006bc29305af7de52de26f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655400905
+        }
+    ],
     "wof:id":655400905,
-    "wof:lastmodified":1466675682,
+    "wof:lastmodified":1492053858,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

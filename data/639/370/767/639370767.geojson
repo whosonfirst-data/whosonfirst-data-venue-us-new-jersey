@@ -2,9 +2,14 @@
   "id": 639370767,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Hickory Corner Rd Hightstown NJ 08520",
+    "addr:housenumber":"170",
+    "addr:postcode":"08520",
+    "addr:street":"Hickory Corner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.564747,40.267371,-74.564747,40.267371",
     "geom:latitude":40.267371,
     "geom:longitude":-74.564747,
@@ -28,7 +33,13 @@
         "manufacturing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478247,
+        85633793,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gly6Bl79eum6htzDbasIA_40.267371_-74.564747@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461293447,
     "wof:geomhash":"7e65604e44084c64a7e163bd9171bced",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "region_id":85688607,
+            "venue_id":639370767
+        }
+    ],
     "wof:id":639370767,
-    "wof:lastmodified":1466692684,
+    "wof:lastmodified":1492050835,
     "wof:name":"Microcraft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

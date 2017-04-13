@@ -2,9 +2,14 @@
   "id": 655684405,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Kamena St Fairview NJ 07022",
+    "addr:housenumber":"250",
+    "addr:postcode":"07022",
+    "addr:street":"Kamena St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994003,40.8144,-73.994003,40.8144",
     "geom:latitude":40.8144,
     "geom:longitude":-73.994003,
@@ -29,7 +34,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7axMUpZJuUiZSRNTYDRh4c_40.814357_-73.994536@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316620,
     "wof:geomhash":"6ebe2b9532fecdd125604c814a2aff03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655684405
+        }
+    ],
     "wof:id":655684405,
-    "wof:lastmodified":1466683834,
+    "wof:lastmodified":1492041055,
     "wof:name":"View Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

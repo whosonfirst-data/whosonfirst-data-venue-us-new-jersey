@@ -2,9 +2,14 @@
   "id": 638731077,
   "type": "Feature",
   "properties": {
+    "addr:full":"2861 18th Ave Belmar NJ 07719",
+    "addr:housenumber":"2861",
+    "addr:postcode":"07719",
+    "addr:street":"18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.087303,40.16287,-74.087303,40.16287",
     "geom:latitude":40.16287,
     "geom:longitude":-74.087303,
@@ -32,7 +37,10 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BghVXeIGxaUOo2EjeT8Zu_40.162870_-74.087303@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461278511,
     "wof:geomhash":"44af9c452e0fdf670c7f9d94e9d77dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527307,
+            "venue_id":638731077
+        }
+    ],
     "wof:id":638731077,
-    "wof:lastmodified":1466675559,
+    "wof:lastmodified":1492083437,
     "wof:name":"Engineering Inspection Service",
     "wof:parent_id":420527307,
     "wof:placetype":"venue",

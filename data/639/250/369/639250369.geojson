@@ -2,9 +2,14 @@
   "id": 639250369,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Baldwin Ct Basking Ridge NJ 07920",
+    "addr:housenumber":"30",
+    "addr:postcode":"07920",
+    "addr:street":"Baldwin Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.570277,40.658883,-74.570277,40.658883",
     "geom:latitude":40.658883,
     "geom:longitude":-74.570277,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477911,
+        85633793,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NvYdGPjUkQDh9nd2j0x8k_40.658883_-74.570277@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461290840,
     "wof:geomhash":"2921776854bdcd5425023deaf872ceeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "region_id":85688607,
+            "venue_id":639250369
+        }
+    ],
     "wof:id":639250369,
-    "wof:lastmodified":1466690109,
+    "wof:lastmodified":1492042243,
     "wof:name":"New ERA Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

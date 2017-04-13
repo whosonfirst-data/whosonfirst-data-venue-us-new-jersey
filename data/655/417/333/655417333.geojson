@@ -2,9 +2,14 @@
   "id": 655417333,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 9th St Belford NJ 07718",
+    "addr:housenumber":"112",
+    "addr:postcode":"07718",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.079909,40.416685,-74.079909,40.416685",
     "geom:latitude":40.416685,
     "geom:longitude":-74.079909,
@@ -32,7 +37,10 @@
         "conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kxk5YSkCswIPq5DPY0vVg_40.416685_-74.079909@1294171694"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461305356,
     "wof:geomhash":"4d5a7537e4f0e3eaeda93ec60c0b8068",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527279,
+            "venue_id":655417333
+        }
+    ],
     "wof:id":655417333,
-    "wof:lastmodified":1466675861,
+    "wof:lastmodified":1492057039,
     "wof:name":"Energy Heating & AC",
     "wof:parent_id":420527279,
     "wof:placetype":"venue",

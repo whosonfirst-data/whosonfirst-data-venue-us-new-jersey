@@ -2,9 +2,14 @@
   "id": 655615319,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Veterans Dr Northvale NJ 07647",
+    "addr:housenumber":"157",
+    "addr:postcode":"07647",
+    "addr:street":"Veterans Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.948176,40.998812,-73.948176,40.998812",
     "geom:latitude":40.998812,
     "geom:longitude":-73.948176,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.covermark.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477297,
+        85633793,
+        85975963,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nx2N25cLXmsimbSyPz5Ak_40.998812_-73.948176@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313664,
     "wof:geomhash":"7dea7572caa03d63e0ebec7151559f6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477297,
+            "locality_id":85975963,
+            "region_id":85688607,
+            "venue_id":655615319
+        }
+    ],
     "wof:id":655615319,
-    "wof:lastmodified":1466681585,
+    "wof:lastmodified":1492029354,
     "wof:name":"Covermark Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

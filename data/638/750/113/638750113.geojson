@@ -2,9 +2,14 @@
   "id": 638750113,
   "type": "Feature",
   "properties": {
+    "addr:full":"467 S Olden Ave Trenton NJ 08629",
+    "addr:housenumber":"467",
+    "addr:postcode":"08629",
+    "addr:street":"S Olden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.732807,40.21971,-74.732807,40.21971",
     "geom:latitude":40.21971,
     "geom:longitude":-74.732807,
@@ -29,7 +34,15 @@
         "devices"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826675,
+        102191575,
+        404478251,
+        85633793,
+        85976399,
+        102081129,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mwMEOCz4vIhaHL5pOLshC_40.219710_-74.732807@1294171694"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461279024,
     "wof:geomhash":"4b243bb45889c4db3277d7390da2c05f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478251,
+            "locality_id":85976399,
+            "neighbourhood_id":85826675,
+            "region_id":85688607,
+            "venue_id":638750113
+        }
+    ],
     "wof:id":638750113,
-    "wof:lastmodified":1466678109,
+    "wof:lastmodified":1492062441,
     "wof:name":"Industrial Instrument Repr Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

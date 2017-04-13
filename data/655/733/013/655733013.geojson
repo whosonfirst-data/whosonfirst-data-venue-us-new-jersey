@@ -2,9 +2,14 @@
   "id": 655733013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2263 Saint Georges Ave Rahway NJ 07065",
+    "addr:housenumber":"2263",
+    "addr:postcode":"07065",
+    "addr:street":"Saint Georges Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.2771,40.623901,-74.2771,40.623901",
     "geom:latitude":40.623901,
     "geom:longitude":-74.2771,
@@ -29,7 +34,14 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cazy0Hn6AEcKBYhCGtB4P_40.623901_-74.277100@1303262257"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461318646,
     "wof:geomhash":"9f3d297101561c7c42c7c9220b8d78ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655733013
+        }
+    ],
     "wof:id":655733013,
-    "wof:lastmodified":1466685018,
+    "wof:lastmodified":1492071291,
     "wof:name":"Lee Young MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

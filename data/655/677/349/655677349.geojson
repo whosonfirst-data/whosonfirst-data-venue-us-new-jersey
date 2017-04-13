@@ -2,9 +2,14 @@
   "id": 655677349,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Bartell Pl Clark NJ 07066",
+    "addr:housenumber":"75",
+    "addr:postcode":"07066",
+    "addr:street":"Bartell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.303438,40.619391,-74.303438,40.619391",
     "geom:latitude":40.619391,
     "geom:longitude":-74.303438,
@@ -27,7 +32,13 @@
         "dj"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478491,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HWt4bPtU0541so4RCSWvf_40.619788_-74.303292@1293134755"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461316315,
     "wof:geomhash":"e34a0a17d1398ba85f27fc37f4c22e51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478491,
+            "region_id":85688607,
+            "venue_id":655677349
+        }
+    ],
     "wof:id":655677349,
-    "wof:lastmodified":1466683722,
+    "wof:lastmodified":1492024147,
     "wof:name":"Five Star Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

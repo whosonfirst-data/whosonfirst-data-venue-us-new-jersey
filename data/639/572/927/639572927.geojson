@@ -2,9 +2,14 @@
   "id": 639572927,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Crest Rd Newton NJ 07860",
+    "addr:housenumber":"116",
+    "addr:postcode":"07860",
+    "addr:street":"Crest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.810638,41.065197,-74.810638,41.065197",
     "geom:latitude":41.065197,
     "geom:longitude":-74.810638,
@@ -33,7 +38,10 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hoBIejYoGV27cisGjYHEm_41.065197_-74.810638@1294171694"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461300632,
     "wof:geomhash":"9a1560048e36300d1d8d77d53e8a7b29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":639572927
+        }
+    ],
     "wof:id":639572927,
-    "wof:lastmodified":1466696312,
+    "wof:lastmodified":1492075900,
     "wof:name":"Nick's Central Vacuum System",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

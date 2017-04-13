@@ -2,9 +2,14 @@
   "id": 655812997,
   "type": "Feature",
   "properties": {
+    "addr:full":"4382 Route 130 Willingboro NJ 08046",
+    "addr:housenumber":"4382",
+    "addr:postcode":"08046",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901901,40.047401,-74.901901,40.047401",
     "geom:latitude":40.047401,
     "geom:longitude":-74.901901,
@@ -27,7 +32,10 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46yHaMWvXxww23k4gzNZLh_40.047401_-74.901901@1303262276"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461321937,
     "wof:geomhash":"d8da8ac24fa2c0a37ce6eb98dc3febfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655812997
+        }
+    ],
     "wof:id":655812997,
-    "wof:lastmodified":1466687325,
+    "wof:lastmodified":1492027529,
     "wof:name":"Carpet Dimensions",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

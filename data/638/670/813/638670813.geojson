@@ -2,9 +2,14 @@
   "id": 638670813,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Brand Rd Toms River NJ 08753",
+    "addr:housenumber":"55",
+    "addr:postcode":"08753",
+    "addr:street":"Brand Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129876,40.010726,-74.129876,40.010726",
     "geom:latitude":40.010726,
     "geom:longitude":-74.129876,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848789,
+        420527469,
         102191575,
         404477803,
         85633793,
         85976323,
         102081485,
-        85688607
+        85688607,
+        85848789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081485,
             "localadmin_id":404477803,
             "locality_id":85976323,
+            "neighbourhood_id":420527469,
+            "region_id":85688607,
+            "venue_id":638670813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
             "neighbourhood_id":85848789,
             "region_id":85688607,
             "venue_id":638670813
         }
     ],
     "wof:id":638670813,
-    "wof:lastmodified":1466674489,
+    "wof:lastmodified":1492052610,
     "wof:name":"Mds Building Inc",
-    "wof:parent_id":85848789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

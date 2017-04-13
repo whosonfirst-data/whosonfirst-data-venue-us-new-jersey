@@ -2,9 +2,14 @@
   "id": 639500347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1467 Pinewood St Rahway NJ 07065",
+    "addr:housenumber":"1467",
+    "addr:postcode":"07065",
+    "addr:street":"Pinewood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262187,40.597762,-74.262187,40.597762",
     "geom:latitude":40.597762,
     "geom:longitude":-74.262187,
@@ -27,7 +32,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J5jsVXnQWj8NCYupNNfmO_40.597762_-74.262187@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461297428,
     "wof:geomhash":"bd5763c36988c777ea0c1a7688508438",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":639500347
+        }
+    ],
     "wof:id":639500347,
-    "wof:lastmodified":1466694724,
+    "wof:lastmodified":1492022216,
     "wof:name":"Wytech Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

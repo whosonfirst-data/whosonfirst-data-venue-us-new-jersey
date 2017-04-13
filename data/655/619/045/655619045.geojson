@@ -2,9 +2,14 @@
   "id": 655619045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1988 Morrison Ave Union NJ 07083",
+    "addr:housenumber":"1988",
+    "addr:postcode":"07083",
+    "addr:street":"Morrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259143,40.70457,-74.259143,40.70457",
     "geom:latitude":40.70457,
     "geom:longitude":-74.259143,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oDmQeZseI701tT3F2YXpM_40.704570_-74.259143@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461313839,
     "wof:geomhash":"a473a8b9a669c2cb81942470d92be883",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527731,
+            "venue_id":655619045
+        }
+    ],
     "wof:id":655619045,
-    "wof:lastmodified":1466681670,
+    "wof:lastmodified":1492052250,
     "wof:name":"Kathys Beauty Bar",
     "wof:parent_id":420527731,
     "wof:placetype":"venue",

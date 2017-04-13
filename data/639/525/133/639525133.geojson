@@ -2,9 +2,14 @@
   "id": 639525133,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Spring Hill Rd Skillman NJ 08558",
+    "addr:housenumber":"206",
+    "addr:postcode":"08558",
+    "addr:street":"Spring Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73578,40.41483,-74.73578,40.41483",
     "geom:latitude":40.41483,
     "geom:longitude":-74.73578,
@@ -27,7 +32,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1otGFUbiaBO91HGKJC1P3t_40.414830_-74.735780@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461298564,
     "wof:geomhash":"09989ee0020357b31816b6cf0152c12a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527609,
+            "venue_id":639525133
+        }
+    ],
     "wof:id":639525133,
-    "wof:lastmodified":1466695069,
+    "wof:lastmodified":1492049589,
     "wof:name":"Pamco Printers & Stationers",
     "wof:parent_id":420527609,
     "wof:placetype":"venue",

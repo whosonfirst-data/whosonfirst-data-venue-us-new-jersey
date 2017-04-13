@@ -2,9 +2,14 @@
   "id": 638974225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Springfield Ave Maplewood NJ 07040",
+    "addr:housenumber":"1805",
+    "addr:postcode":"07040",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.264508,40.721351,-74.264508,40.721351",
     "geom:latitude":40.721351,
     "geom:longitude":-74.264508,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SLAjTJt8R3achYHDwirM0_40.721351_-74.264508@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461284541,
     "wof:geomhash":"de9d22d04531f6f981a32a37fd733410",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526931,
+            "venue_id":638974225
+        }
+    ],
     "wof:id":638974225,
-    "wof:lastmodified":1466691721,
+    "wof:lastmodified":1492055312,
     "wof:name":"Mechanics Warehouse",
     "wof:parent_id":420526931,
     "wof:placetype":"venue",

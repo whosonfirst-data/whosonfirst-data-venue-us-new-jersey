@@ -2,9 +2,14 @@
   "id": 639270647,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 E Main St Little Falls NJ 07424",
+    "addr:housenumber":"175",
+    "addr:postcode":"07424",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.216183,40.876994,-74.216183,40.876994",
     "geom:latitude":40.876994,
     "geom:longitude":-74.216183,
@@ -28,7 +33,13 @@
         "bridal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fAE98rqNKjvNRhAyh2HEH_40.876994_-74.216183@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461291311,
     "wof:geomhash":"10004300b6d40f2057426d92f7b02421",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "region_id":85688607,
+            "venue_id":639270647
+        }
+    ],
     "wof:id":639270647,
-    "wof:lastmodified":1466690704,
+    "wof:lastmodified":1492076629,
     "wof:name":"Gowns By Valda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

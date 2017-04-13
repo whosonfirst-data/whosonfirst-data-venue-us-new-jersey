@@ -2,9 +2,14 @@
   "id": 639284883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Schuyler Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"1",
+    "addr:postcode":"08550",
+    "addr:street":"Schuyler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.58031,40.301653,-74.58031,40.301653",
     "geom:latitude":40.301653,
     "geom:longitude":-74.58031,
@@ -28,7 +33,10 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WwilU7OZDuCfCEdFQ9q2x_40.301653_-74.580310@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461291646,
     "wof:geomhash":"bf6d6bb94a0dbe53a4ca6ef00557189c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527155,
+            "venue_id":639284883
+        }
+    ],
     "wof:id":639284883,
-    "wof:lastmodified":1466691039,
+    "wof:lastmodified":1492023419,
     "wof:name":"300 Club Inc",
     "wof:parent_id":420527155,
     "wof:placetype":"venue",

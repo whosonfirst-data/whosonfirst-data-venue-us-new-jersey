@@ -2,9 +2,14 @@
   "id": 655396257,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 Main St Belmar NJ 07719",
+    "addr:housenumber":"602",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.024086,40.183349,-74.024086,40.183349",
     "geom:latitude":40.183349,
     "geom:longitude":-74.024086,
@@ -27,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65oc5TrmVNpJcLiEmLQst9_40.183349_-74.024086@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304473,
     "wof:geomhash":"2b15540bc4d9c4130cf18eb69517c40d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":655396257
+        }
+    ],
     "wof:id":655396257,
-    "wof:lastmodified":1466675274,
+    "wof:lastmodified":1492051093,
     "wof:name":"Stacie A Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

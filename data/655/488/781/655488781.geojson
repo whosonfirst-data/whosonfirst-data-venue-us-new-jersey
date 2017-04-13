@@ -2,9 +2,14 @@
   "id": 655488781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3027 US Hwy 206 Columbus NJ 08022",
+    "addr:housenumber":"3027",
+    "addr:postcode":"08022",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.721899,40.068079,-74.721899,40.068079",
     "geom:latitude":40.068079,
     "geom:longitude":-74.721899,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VIzS4V2swi89Blb70OqC2_40.068079_-74.721899@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461308355,
     "wof:geomhash":"7423b728c49dc2bb3cc5b58cf627e67a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526689,
+            "venue_id":655488781
+        }
+    ],
     "wof:id":655488781,
-    "wof:lastmodified":1466677979,
+    "wof:lastmodified":1492041008,
     "wof:name":"Columbus Dental Arts",
     "wof:parent_id":420526689,
     "wof:placetype":"venue",

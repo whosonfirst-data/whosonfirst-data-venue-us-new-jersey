@@ -2,9 +2,14 @@
   "id": 639527723,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Donato Dr Little Falls NJ 07424",
+    "addr:housenumber":"61",
+    "addr:postcode":"07424",
+    "addr:street":"Donato Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.239372,40.881376,-74.239372,40.881376",
     "geom:latitude":40.881376,
     "geom:longitude":-74.239372,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477815,
+        85633793,
+        85976101,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WGbUMTwlhECuw4deiwG3S_40.881376_-74.239372@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298726,
     "wof:geomhash":"93d9da69564b816138234cc17848ff3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477815,
+            "locality_id":85976101,
+            "region_id":85688607,
+            "venue_id":639527723
+        }
+    ],
     "wof:id":639527723,
-    "wof:lastmodified":1466695463,
+    "wof:lastmodified":1492041745,
     "wof:name":"Jfa Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

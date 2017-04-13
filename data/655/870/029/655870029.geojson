@@ -2,9 +2,14 @@
   "id": 655870029,
   "type": "Feature",
   "properties": {
+    "addr:full":"P.O.B. 242 Skillman NJ 08558",
+    "addr:housenumber":"242",
+    "addr:postcode":"08558",
+    "addr:street":"Skillman",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.708525,40.434255,-74.708525,40.434255",
     "geom:latitude":40.434255,
     "geom:longitude":-74.708525,
@@ -35,7 +40,10 @@
     ],
     "sg:website":"http://www.mpgomatic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vutFkCi118VkeG1DTFXH7_40.434255_-74.708525@1308186498"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461615226,
     "wof:geomhash":"d195cf80cbecf9e91e0501b3de54a517",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527609,
+            "venue_id":655870029
+        }
+    ],
     "wof:id":655870029,
-    "wof:lastmodified":1466687910,
+    "wof:lastmodified":1492043318,
     "wof:name":"MPGomatic.com",
     "wof:parent_id":420527609,
     "wof:placetype":"venue",

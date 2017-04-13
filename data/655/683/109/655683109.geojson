@@ -2,9 +2,14 @@
   "id": 655683109,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 White Horse Pike Atco NJ 08004",
+    "addr:housenumber":"275",
+    "addr:postcode":"08004",
+    "addr:street":"White Horse Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.901581,39.772148,-74.901581,39.772148",
     "geom:latitude":39.772148,
     "geom:longitude":-74.901581,
@@ -32,7 +37,10 @@
     ],
     "sg:website":"http://www.freestyleskishop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VyOIClhPu7kGXA6QyIlek_39.772639_-74.902288@1293134755"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461316548,
     "wof:geomhash":"bc2ae6d52c3ea605543e86ae5e6b684d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526741,
+            "venue_id":655683109
+        }
+    ],
     "wof:id":655683109,
-    "wof:lastmodified":1466683738,
+    "wof:lastmodified":1492056714,
     "wof:name":"Freestyle Ski Shop",
     "wof:parent_id":420526741,
     "wof:placetype":"venue",

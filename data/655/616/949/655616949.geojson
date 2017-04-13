@@ -2,9 +2,14 @@
   "id": 655616949,
   "type": "Feature",
   "properties": {
+    "addr:full":"462 Jackson Rd Atco NJ 08004",
+    "addr:housenumber":"462",
+    "addr:postcode":"08004",
+    "addr:street":"Jackson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.875977,39.778563,-74.875977,39.778563",
     "geom:latitude":39.778563,
     "geom:longitude":-74.875977,
@@ -28,7 +33,10 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PLH6HN9WZeG3uGcPqXGoE_39.778563_-74.875977@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461313746,
     "wof:geomhash":"91e7263d89d6e79871145659a8c789f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526725,
+            "venue_id":655616949
+        }
+    ],
     "wof:id":655616949,
-    "wof:lastmodified":1466681781,
+    "wof:lastmodified":1492040549,
     "wof:name":"K & W Fence Co",
     "wof:parent_id":420526725,
     "wof:placetype":"venue",

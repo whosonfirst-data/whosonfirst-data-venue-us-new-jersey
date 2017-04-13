@@ -2,9 +2,14 @@
   "id": 639589263,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"123",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.257085,40.745592,-74.257085,40.745592",
     "geom:latitude":40.745592,
     "geom:longitude":-74.257085,
@@ -27,7 +32,10 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tHvLCXmZSoTOmqehJfWSn_40.745592_-74.257085@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461301296,
     "wof:geomhash":"19dd7220775e612bb26de295e71a3376",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639589263
+        }
+    ],
     "wof:id":639589263,
-    "wof:lastmodified":1466696587,
+    "wof:lastmodified":1492051041,
     "wof:name":"Sonnys Bagels",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

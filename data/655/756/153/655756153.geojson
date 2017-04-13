@@ -2,9 +2,14 @@
   "id": 655756153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1241 Clinton Pl Elizabeth NJ 07208",
+    "addr:housenumber":"1241",
+    "addr:postcode":"07208",
+    "addr:street":"Clinton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.210556,40.680292,-74.210556,40.680292",
     "geom:latitude":40.680292,
     "geom:longitude":-74.210556,
@@ -28,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478497,
+        85633793,
+        85975847,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d9BpKVeKhO3yABVK9T24s_40.680292_-74.210556@1303262262"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319504,
     "wof:geomhash":"39ec10199eedcba13f16a1e94bfa01af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "region_id":85688607,
+            "venue_id":655756153
+        }
+    ],
     "wof:id":655756153,
-    "wof:lastmodified":1466685756,
+    "wof:lastmodified":1492079042,
     "wof:name":"Sunshine Mngmt and Consl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

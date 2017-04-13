@@ -2,9 +2,14 @@
   "id": 638707795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2113 Springfield Ave Vauxhall NJ 07088",
+    "addr:housenumber":"2113",
+    "addr:postcode":"07088",
+    "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.280116,40.719029,-74.280116,40.719029",
     "geom:latitude":40.719029,
     "geom:longitude":-74.280116,
@@ -27,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478407,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DZtnStMuWZOsdqrh5eAJe_40.719029_-74.280116@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461277846,
     "wof:geomhash":"82307adb38a8259ff81b49df72343b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478407,
+            "region_id":85688607,
+            "venue_id":638707795
+        }
+    ],
     "wof:id":638707795,
-    "wof:lastmodified":1466688780,
+    "wof:lastmodified":1492029662,
     "wof:name":"J & M Deli & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

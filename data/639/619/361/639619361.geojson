@@ -2,9 +2,14 @@
   "id": 639619361,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Hillside Ave Milford NJ 08848",
+    "addr:housenumber":"7",
+    "addr:postcode":"08848",
+    "addr:street":"Hillside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.093114,40.568975,-75.093114,40.568975",
     "geom:latitude":40.568975,
     "geom:longitude":-75.093114,
@@ -27,7 +32,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478233,
+        85633793,
+        85975681,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WuGj7z0E90IyhF9PdnzUn_40.568975_-75.093114@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461302482,
     "wof:geomhash":"cbd1e0358ffe57c95d53b197f4ac7890",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478233,
+            "locality_id":85975681,
+            "region_id":85688607,
+            "venue_id":639619361
+        }
+    ],
     "wof:id":639619361,
-    "wof:lastmodified":1466697426,
+    "wof:lastmodified":1492041972,
     "wof:name":"Milford Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

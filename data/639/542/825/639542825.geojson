@@ -2,9 +2,14 @@
   "id": 639542825,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Springtown Rd Whitehouse Sta NJ 08889",
+    "addr:housenumber":"25",
+    "addr:postcode":"08889",
+    "addr:street":"Springtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.821086,40.579229,-74.821086,40.579229",
     "geom:latitude":40.579229,
     "geom:longitude":-74.821086,
@@ -27,7 +32,10 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lK1BEMhqX9YiAFfaXc7BM_40.579229_-74.821086@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461299450,
     "wof:geomhash":"8d6792bf5d902539554b7a6df5bc04ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527139,
+            "venue_id":639542825
+        }
+    ],
     "wof:id":639542825,
-    "wof:lastmodified":1466695729,
+    "wof:lastmodified":1492025381,
     "wof:name":"Andy B Taxi Car Svc",
     "wof:parent_id":420527139,
     "wof:placetype":"venue",

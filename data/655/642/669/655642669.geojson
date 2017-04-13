@@ -2,9 +2,14 @@
   "id": 655642669,
   "type": "Feature",
   "properties": {
+    "addr:full":"367 Union Valley Rd Newfoundland NJ 07435",
+    "addr:housenumber":"367",
+    "addr:postcode":"07435",
+    "addr:street":"Union Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.429475,41.069851,-74.429475,41.069851",
     "geom:latitude":41.069851,
     "geom:longitude":-74.429475,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.kebra.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477881,
+        85633793,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13JVm6if96iN4iivvHuyZz_41.069851_-74.429475@1294171694"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461314872,
     "wof:geomhash":"32530d9348e8e322e5ee8859c69d2674",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "region_id":85688607,
+            "venue_id":655642669
+        }
+    ],
     "wof:id":655642669,
-    "wof:lastmodified":1466682613,
+    "wof:lastmodified":1492045431,
     "wof:name":"Kebra Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

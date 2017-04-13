@@ -2,9 +2,14 @@
   "id": 639507985,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Sussex Ave Morristown NJ 07960",
+    "addr:housenumber":"40",
+    "addr:postcode":"07960",
+    "addr:street":"Sussex Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.485941,40.806784,-74.485941,40.806784",
     "geom:latitude":40.806784,
     "geom:longitude":-74.485941,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85834825,
+        102191575,
+        404477771,
         85633793,
-        85854675,
-        102087413
+        85975575,
+        102087413,
+        85688607,
+        85854675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"7ffbda39a7edb67275eb2c2aad27609c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477771,
+            "locality_id":85975575,
+            "neighbourhood_id":85834825,
+            "region_id":85688607,
+            "venue_id":639507985
+        },
+        {
             "country_id":85633793,
             "county_id":102087413,
             "neighbourhood_id":85854675,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":639507985,
-    "wof:lastmodified":1466694710,
+    "wof:lastmodified":1492051430,
     "wof:name":"Abd",
-    "wof:parent_id":85854675,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

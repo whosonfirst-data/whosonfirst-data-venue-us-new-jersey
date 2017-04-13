@@ -2,9 +2,14 @@
   "id": 655665269,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Rupell Rd Hampton NJ 08827",
+    "addr:housenumber":"35",
+    "addr:postcode":"08827",
+    "addr:street":"Rupell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.938659,40.635986,-74.938659,40.635986",
     "geom:latitude":40.635986,
     "geom:longitude":-74.938659,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"http://www.homesolutionsapc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IpsfW2TlIqPRCCc7JKPJk_40.635910_-74.939060@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461315822,
     "wof:geomhash":"6793a5ac18fca0fd40804f06278cb38c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527125,
+            "venue_id":655665269
+        }
+    ],
     "wof:id":655665269,
-    "wof:lastmodified":1466683295,
+    "wof:lastmodified":1492023729,
     "wof:name":"Home Solutions",
     "wof:parent_id":420527125,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639525039,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Seminole Ave Dumont NJ 07628",
+    "addr:housenumber":"16",
+    "addr:postcode":"07628",
+    "addr:street":"Seminole Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00793,40.945928,-74.00793,40.945928",
     "geom:latitude":40.945928,
     "geom:longitude":-74.00793,
@@ -28,7 +33,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r7XLu8QQOSrGOMR9TogOf_40.945928_-74.007930@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461298560,
     "wof:geomhash":"d1fd0562ecee893d7a4e75a08b994223",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639525039
+        }
+    ],
     "wof:id":639525039,
-    "wof:lastmodified":1466695053,
+    "wof:lastmodified":1492048853,
     "wof:name":"Grafik Effects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

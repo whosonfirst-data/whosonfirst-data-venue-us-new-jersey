@@ -2,9 +2,14 @@
   "id": 638665725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 US Hwy 206 Bordentown NJ 08505",
+    "addr:housenumber":"1007",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.702919,40.140882,-74.702919,40.140882",
     "geom:latitude":40.140882,
     "geom:longitude":-74.702919,
@@ -28,7 +33,10 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1olx0q0PILmER4wXLfnUG6_40.140882_-74.702919@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461276325,
     "wof:geomhash":"e7cce42e98b3231be9d2121a48433ab4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":638665725
+        }
+    ],
     "wof:id":638665725,
-    "wof:lastmodified":1466674322,
+    "wof:lastmodified":1492062561,
     "wof:name":"Storage Today",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

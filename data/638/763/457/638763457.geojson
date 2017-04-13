@@ -2,9 +2,14 @@
   "id": 638763457,
   "type": "Feature",
   "properties": {
+    "addr:full":"2395 Atco Ave Atco NJ 08004",
+    "addr:housenumber":"2395",
+    "addr:postcode":"08004",
+    "addr:street":"Atco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.873591,39.775754,-74.873591,39.775754",
     "geom:latitude":39.775754,
     "geom:longitude":-74.873591,
@@ -33,7 +38,13 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478039,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Sa4BMqEFiky5ysiM9tX3Q_39.775754_-74.873591@1294171694"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461279386,
     "wof:geomhash":"279d1a3875f4ebba6eb3bbfa7e372daa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404478039,
+            "region_id":85688607,
+            "venue_id":638763457
+        }
+    ],
     "wof:id":638763457,
-    "wof:lastmodified":1466679898,
+    "wof:lastmodified":1492042251,
     "wof:name":"C & S Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

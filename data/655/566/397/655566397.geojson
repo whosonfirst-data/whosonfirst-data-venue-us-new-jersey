@@ -2,9 +2,14 @@
   "id": 655566397,
   "type": "Feature",
   "properties": {
+    "addr:full":"395 S Orange Ave Newark NJ 07103",
+    "addr:housenumber":"395",
+    "addr:postcode":"07103",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.204065,40.741561,-74.204065,40.741561",
     "geom:latitude":40.741561,
     "geom:longitude":-74.204065,
@@ -27,7 +32,15 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872989,
+        102191575,
+        404478049,
+        85633793,
+        85975279,
+        102085043,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1izI93qCTPiv8R0OF9fQpy_40.741561_-74.204065@1294171694"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461311555,
     "wof:geomhash":"fda0f5a9bd57c081434b8c658d181e92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478049,
+            "locality_id":85975279,
+            "neighbourhood_id":85872989,
+            "region_id":85688607,
+            "venue_id":655566397
+        }
+    ],
     "wof:id":655566397,
-    "wof:lastmodified":1466679911,
+    "wof:lastmodified":1492051992,
     "wof:name":"Ibeautyplus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

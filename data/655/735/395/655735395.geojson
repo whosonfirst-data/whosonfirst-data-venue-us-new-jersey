@@ -2,9 +2,14 @@
   "id": 655735395,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Eagle Rock Ave Roseland NJ 07068",
+    "addr:housenumber":"176",
+    "addr:postcode":"07068",
+    "addr:street":"Eagle Rock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.294547,40.820763,-74.294547,40.820763",
     "geom:latitude":40.820763,
     "geom:longitude":-74.294547,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.finerphoto.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nMsmlqjSkeQDXovrr639L_40.820763_-74.294547@1303262257"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461318739,
     "wof:geomhash":"deccc8dacbf90499f5de3b2552ec8773",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478053,
+            "locality_id":85975283,
+            "region_id":85688607,
+            "venue_id":655735395
+        }
+    ],
     "wof:id":655735395,
-    "wof:lastmodified":1466685291,
+    "wof:lastmodified":1492027520,
     "wof:name":"Finer Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

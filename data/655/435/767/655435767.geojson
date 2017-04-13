@@ -2,9 +2,14 @@
   "id": 655435767,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 S White Horse Pike Hammonton NJ 08037",
+    "addr:housenumber":"222",
+    "addr:postcode":"08037",
+    "addr:street":"S White Horse Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.855698,39.716844,-74.855698,39.716844",
     "geom:latitude":39.716844,
     "geom:longitude":-74.855698,
@@ -25,7 +30,13 @@
     "sg:province":"NJ",
     "sg:website":"www.fleetbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DKYUcX5xMYLmnLMdjKSRe_39.716844_-74.855698@1294171694"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461306138,
     "wof:geomhash":"d3f8d349d793d30b1a9f22f3fdbf85d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":655435767
+        }
+    ],
     "wof:id":655435767,
-    "wof:lastmodified":1466676450,
+    "wof:lastmodified":1492047781,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

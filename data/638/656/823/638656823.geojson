@@ -2,9 +2,14 @@
   "id": 638656823,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 Denninger Rd Plainfield NJ 07063",
+    "addr:housenumber":"708",
+    "addr:postcode":"07063",
+    "addr:street":"Denninger Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.46095,40.607158,-74.46095,40.607158",
     "geom:latitude":40.607158,
     "geom:longitude":-74.46095,
@@ -27,7 +32,14 @@
         "wholesaler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477931,
+        85633793,
+        85975509,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yor0atxM9TpMJNP34hPu5_40.607158_-74.460950@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461275996,
     "wof:geomhash":"3438efec9bcd3184242d8ca3eb8fb38d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477931,
+            "locality_id":85975509,
+            "region_id":85688607,
+            "venue_id":638656823
+        }
+    ],
     "wof:id":638656823,
-    "wof:lastmodified":1466674072,
+    "wof:lastmodified":1492023629,
     "wof:name":"Golden America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

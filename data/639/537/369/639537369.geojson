@@ -2,9 +2,14 @@
   "id": 639537369,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Genevieve Ave Hawthorne NJ 07506",
+    "addr:housenumber":"53",
+    "addr:postcode":"07506",
+    "addr:street":"Genevieve Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.158227,40.96176,-74.158227,40.96176",
     "geom:latitude":40.96176,
     "geom:longitude":-74.158227,
@@ -28,7 +33,14 @@
         "radon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477813,
+        85633793,
+        85975487,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jjyFTf2VvJz2HdNEzQg9z_40.961760_-74.158227@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461299155,
     "wof:geomhash":"6f0eaa8be0e939207255e8f4688a2f48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477813,
+            "locality_id":85975487,
+            "region_id":85688607,
+            "venue_id":639537369
+        }
+    ],
     "wof:id":639537369,
-    "wof:lastmodified":1466695443,
+    "wof:lastmodified":1492020710,
     "wof:name":"Action Radon Counts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655564085,
   "type": "Feature",
   "properties": {
+    "addr:full":"455 Watters Rd Hackettstown NJ 07840",
+    "addr:housenumber":"455",
+    "addr:postcode":"07840",
+    "addr:street":"Watters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878083,40.803805,-74.878083,40.803805",
     "geom:latitude":40.803805,
     "geom:longitude":-74.878083,
@@ -27,7 +32,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PGCkyF8UwqIIj0RRPqUs8_40.803805_-74.878083@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461311459,
     "wof:geomhash":"aae13db5988574fb7eba10d747c683e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527805,
+            "venue_id":655564085
+        }
+    ],
     "wof:id":655564085,
-    "wof:lastmodified":1466679760,
+    "wof:lastmodified":1492045956,
     "wof:name":"Amz Design Associates",
     "wof:parent_id":420527805,
     "wof:placetype":"venue",

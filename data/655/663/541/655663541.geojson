@@ -2,9 +2,14 @@
   "id": 655663541,
   "type": "Feature",
   "properties": {
+    "addr:full":"1299 Roosevelt Ave Carteret NJ 07008",
+    "addr:housenumber":"1299",
+    "addr:postcode":"07008",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.243301,40.592999,-74.243301,40.592999",
     "geom:latitude":40.592999,
     "geom:longitude":-74.243301,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_207Gndv7DWwKOVdf2sxI2V_40.593016_-74.243340@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461315756,
     "wof:geomhash":"06e5fbb96e479335bbd1e56aad173c09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":655663541
+        }
+    ],
     "wof:id":655663541,
-    "wof:lastmodified":1466683318,
+    "wof:lastmodified":1492023538,
     "wof:name":"Blooming Nail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

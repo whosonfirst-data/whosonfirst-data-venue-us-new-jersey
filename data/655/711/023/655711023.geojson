@@ -2,9 +2,14 @@
   "id": 655711023,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Midland Ave Garfield NJ 07026",
+    "addr:housenumber":"200",
+    "addr:postcode":"07026",
+    "addr:street":"Midland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.104401,40.869499,-74.104401,40.869499",
     "geom:latitude":40.869499,
     "geom:longitude":-74.104401,
@@ -24,7 +29,14 @@
     "sg:postcode":"07026",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477539,
+        85633793,
+        85975865,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HZ72ti5GvnK55knyafwnc_40.869499_-74.104401@1303262251"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461317807,
     "wof:geomhash":"401706cf82db9e05b6f8a89b0c8b8f64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477539,
+            "locality_id":85975865,
+            "region_id":85688607,
+            "venue_id":655711023
+        }
+    ],
     "wof:id":655711023,
-    "wof:lastmodified":1466684441,
+    "wof:lastmodified":1492046254,
     "wof:name":"Midland Deli & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

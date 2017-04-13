@@ -2,9 +2,14 @@
   "id": 639563883,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Jack Martin Blvd Brick NJ 08723",
+    "addr:housenumber":"525",
+    "addr:postcode":"08723",
+    "addr:street":"Jack Martin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.136083,40.081294,-74.136083,40.081294",
     "geom:latitude":40.081294,
     "geom:longitude":-74.136083,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IQ02JeWQC8dIJPEgTWuM2_40.081294_-74.136083@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461300269,
     "wof:geomhash":"05809c5747f2f8ba19be99ca4ad29128",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639563883
+        }
+    ],
     "wof:id":639563883,
-    "wof:lastmodified":1466696285,
+    "wof:lastmodified":1492056014,
     "wof:name":"Pediatric Medical Group",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

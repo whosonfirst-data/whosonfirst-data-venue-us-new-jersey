@@ -2,9 +2,14 @@
   "id": 639334727,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Lambertville Hq Rd Lambertville NJ 08530",
+    "addr:housenumber":"31",
+    "addr:postcode":"08530",
+    "addr:street":"Hq Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.945447,40.39656,-74.945447,40.39656",
     "geom:latitude":40.39656,
     "geom:longitude":-74.945447,
@@ -28,7 +33,13 @@
         "horse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478163,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NYxXUvrJrf3XLa8kA2sNy_40.396560_-74.945447@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461292705,
     "wof:geomhash":"0b704dc902cbe39c241504065d0456e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478163,
+            "region_id":85688607,
+            "venue_id":639334727
+        }
+    ],
     "wof:id":639334727,
-    "wof:lastmodified":1466692248,
+    "wof:lastmodified":1492075332,
     "wof:name":"Sky View Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

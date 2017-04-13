@@ -2,9 +2,14 @@
   "id": 638834717,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Bucknell Trl Hopatcong NJ 07843",
+    "addr:housenumber":"155",
+    "addr:postcode":"07843",
+    "addr:street":"Bucknell Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.660265,40.948287,-74.660265,40.948287",
     "geom:latitude":40.948287,
     "geom:longitude":-74.660265,
@@ -27,7 +32,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478467,
+        85633793,
+        85975715,
+        102086779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mFc7tNccTlcEPwpFdzAPz_40.948287_-74.660265@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461281104,
     "wof:geomhash":"b6a39c9ba922ba67d886f5e552736c39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086779,
+            "localadmin_id":404478467,
+            "locality_id":85975715,
+            "region_id":85688607,
+            "venue_id":638834717
+        }
+    ],
     "wof:id":638834717,
-    "wof:lastmodified":1466689283,
+    "wof:lastmodified":1492027676,
     "wof:name":"Sun Country Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

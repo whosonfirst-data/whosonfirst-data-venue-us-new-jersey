@@ -2,9 +2,14 @@
   "id": 655837723,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 Bissell Rd Lebanon NJ 08833",
+    "addr:housenumber":"98",
+    "addr:postcode":"nj 08833",
+    "addr:street":"Bissell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8041,40.669899,-74.8041,40.669899",
     "geom:latitude":40.669899,
     "geom:longitude":-74.8041,
@@ -27,7 +32,10 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t1DOitJpEAcDCBbtbE4Wi_40.669899_-74.804100@1303262283"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461322974,
     "wof:geomhash":"f4e6bbc50ed788a0077c299a9faef190",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527095,
+            "venue_id":655837723
+        }
+    ],
     "wof:id":655837723,
-    "wof:lastmodified":1466687994,
+    "wof:lastmodified":1492050502,
     "wof:name":"Northern Lights Electric",
     "wof:parent_id":420527095,
     "wof:placetype":"venue",

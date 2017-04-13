@@ -2,9 +2,14 @@
   "id": 639500071,
   "type": "Feature",
   "properties": {
+    "addr:full":"189 Reeve Ter Plainfield NJ 07062",
+    "addr:housenumber":"189",
+    "addr:postcode":"07062",
+    "addr:street":"Reeve Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.405747,40.636958,-74.405747,40.636958",
     "geom:latitude":40.636958,
     "geom:longitude":-74.405747,
@@ -24,7 +29,14 @@
     "sg:postcode":"07062",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478509,
+        85633793,
+        85975849,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HXNAj8pD3EXmcG5j0IJlu_40.636958_-74.405747@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461297412,
     "wof:geomhash":"f456a7907d6d7d24c632098a9022163b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478509,
+            "locality_id":85975849,
+            "region_id":85688607,
+            "venue_id":639500071
+        }
+    ],
     "wof:id":639500071,
-    "wof:lastmodified":1466694661,
+    "wof:lastmodified":1492080187,
     "wof:name":"BSW Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

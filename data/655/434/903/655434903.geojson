@@ -2,9 +2,14 @@
   "id": 655434903,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Hemlock Ln North Brunswick NJ 08902",
+    "addr:housenumber":"7",
+    "addr:postcode":"08902",
+    "addr:street":"Hemlock Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.496361,40.459041,-74.496361,40.459041",
     "geom:latitude":40.459041,
     "geom:longitude":-74.496361,
@@ -31,7 +36,10 @@
         85688607,
         85633793,
         85802403,
-        102087417
+        102087417,
+        85976119,
+        102085045,
+        85848861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +55,20 @@
             "neighbourhood_id":85802403,
             "region_id":85688607,
             "venue_id":655434903
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085045,
+            "locality_id":85976119,
+            "neighbourhood_id":85848861,
+            "region_id":85688607,
+            "venue_id":655434903
         }
     ],
     "wof:id":655434903,
-    "wof:lastmodified":1466676487,
+    "wof:lastmodified":1492070327,
     "wof:name":"Media Distribution Svc",
-    "wof:parent_id":85802403,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 638891783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1603 Taylors Ln Cinnaminson NJ 08077",
+    "addr:housenumber":"1603",
+    "addr:postcode":"08077",
+    "addr:street":"Taylors Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978816,40.017039,-74.978816,40.017039",
     "geom:latitude":40.017039,
     "geom:longitude":-74.978816,
@@ -27,7 +32,14 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526651,
+        102191575,
+        404477315,
+        85633793,
+        102087415,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eRlA73S6Lbw1aN0T1ctTX_40.017039_-74.978816@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461282539,
     "wof:geomhash":"e12db528886acf9c752cffb136d10398",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477315,
+            "neighbourhood_id":420526651,
+            "region_id":85688607,
+            "venue_id":638891783
+        }
+    ],
     "wof:id":638891783,
-    "wof:lastmodified":1466689980,
+    "wof:lastmodified":1492043231,
     "wof:name":"KMR Enterprises Inc",
     "wof:parent_id":420526651,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655703039,
   "type": "Feature",
   "properties": {
+    "addr:full":"645 Roosevelt Ave Carteret NJ 07008",
+    "addr:housenumber":"645",
+    "addr:postcode":"07008",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.220818,40.58416,-74.220818,40.58416",
     "geom:latitude":40.58416,
     "geom:longitude":-74.220818,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477471,
+        85633793,
+        85975757,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p91a7tiy8T3g7X8qngd0M_40.584160_-74.220818@1303262249"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461317495,
     "wof:geomhash":"3d2ed2fbdf9440ed05da69332a18b09a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404477471,
+            "locality_id":85975757,
+            "region_id":85688607,
+            "venue_id":655703039
+        }
+    ],
     "wof:id":655703039,
-    "wof:lastmodified":1466684244,
+    "wof:lastmodified":1492070683,
     "wof:name":"St Demetrius Ukranian Orthodox Cathedral Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

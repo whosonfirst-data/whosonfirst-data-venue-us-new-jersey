@@ -2,9 +2,14 @@
   "id": 655675105,
   "type": "Feature",
   "properties": {
+    "addr:full":"742 Anderson Ave Cliffside Park NJ 07010",
+    "addr:housenumber":"742",
+    "addr:postcode":"07010",
+    "addr:street":"Anderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.985603,40.830101,-73.985603,40.830101",
     "geom:latitude":40.830101,
     "geom:longitude":-73.985603,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.oritani.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477647,
+        85633793,
+        85975919,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Vju83qv4MSnL1NzDUt9do_40.829938_-73.985673@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461316220,
     "wof:geomhash":"675efb1183d749d561215548b33127a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477647,
+            "locality_id":85975919,
+            "region_id":85688607,
+            "venue_id":655675105
+        }
+    ],
     "wof:id":655675105,
-    "wof:lastmodified":1466683530,
+    "wof:lastmodified":1492041055,
     "wof:name":"Oritani Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655393557,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 Co Rd 625 Hampton NJ 08827",
+    "addr:housenumber":"745;625",
+    "addr:postcode":"08827",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.976919,40.621567,-74.976919,40.621567",
     "geom:latitude":40.621567,
     "geom:longitude":-74.976919,
@@ -28,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AgARnQoJSxtmmJyANkPzZ_40.621567_-74.976919@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461304356,
     "wof:geomhash":"0f9879720f5ff4e08b906bfb3b0d9aa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527121,
+            "venue_id":655393557
+        }
+    ],
     "wof:id":655393557,
-    "wof:lastmodified":1466675340,
+    "wof:lastmodified":1492028606,
     "wof:name":"Greater Improvements",
     "wof:parent_id":420527121,
     "wof:placetype":"venue",

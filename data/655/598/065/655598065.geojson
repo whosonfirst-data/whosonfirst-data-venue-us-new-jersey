@@ -2,9 +2,14 @@
   "id": 655598065,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"50",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994418,40.93819,-73.994418,40.93819",
     "geom:latitude":40.93819,
     "geom:longitude":-73.994418,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.dumont.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_384rzY0vX8tiwbiZDw6pCY_40.938190_-73.994418@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461312928,
     "wof:geomhash":"42e7da083e21920a5ba4efa83e46ea8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":655598065
+        }
+    ],
     "wof:id":655598065,
-    "wof:lastmodified":1466680908,
+    "wof:lastmodified":1492051933,
     "wof:name":"Dumont Mayor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638765783,
   "type": "Feature",
   "properties": {
+    "addr:full":"341 Georgia Rd Freehold NJ 07728",
+    "addr:housenumber":"341",
+    "addr:postcode":"07728",
+    "addr:street":"Georgia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.275391,40.181537,-74.275391,40.181537",
     "geom:latitude":40.181537,
     "geom:longitude":-74.275391,
@@ -28,7 +33,10 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N4QTjSCA849kdZiU0M2vb_40.181537_-74.275391@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279447,
     "wof:geomhash":"6a0195510aa091e454d06bdf60ea7cf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527263,
+            "venue_id":638765783
+        }
+    ],
     "wof:id":638765783,
-    "wof:lastmodified":1466680275,
+    "wof:lastmodified":1492056746,
     "wof:name":"Jim Dempsey Consulting",
     "wof:parent_id":420527263,
     "wof:placetype":"venue",

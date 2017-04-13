@@ -2,9 +2,14 @@
   "id": 639376129,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Palmer Rd Denville NJ 07834",
+    "addr:housenumber":"321",
+    "addr:postcode":"07834",
+    "addr:street":"Palmer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.517794,40.879559,-74.517794,40.879559",
     "geom:latitude":40.879559,
     "geom:longitude":-74.517794,
@@ -24,7 +29,10 @@
     "sg:postcode":"07834",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q94UlPvO7YbJM4VxXtOKv_40.879559_-74.517794@1294171694"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461293560,
     "wof:geomhash":"de1951c56b634c2084c057879ca75443",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":639376129
+        }
+    ],
     "wof:id":639376129,
-    "wof:lastmodified":1466692642,
+    "wof:lastmodified":1492054541,
     "wof:name":"Fromm Packaging System Inc",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

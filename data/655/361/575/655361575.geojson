@@ -2,9 +2,14 @@
   "id": 655361575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Broadway Elmwood Park NJ 07407",
+    "addr:housenumber":"1",
+    "addr:postcode":"07407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.127296,40.918622,-74.127296,40.918622",
     "geom:latitude":40.918622,
     "geom:longitude":-74.127296,
@@ -29,7 +34,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N451gJWr72WxE0eWK0Bcf_40.918622_-74.127296@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461303067,
     "wof:geomhash":"0c07eee7204567649d23e989dc32a467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":655361575
+        }
+    ],
     "wof:id":655361575,
-    "wof:lastmodified":1466674528,
+    "wof:lastmodified":1492029394,
     "wof:name":"Anis A Bhatty MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638987311,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Main St Lumberton NJ 08048",
+    "addr:housenumber":"719",
+    "addr:postcode":"08048",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.799253,39.978452,-74.799253,39.978452",
     "geom:latitude":39.978452,
     "geom:longitude":-74.799253,
@@ -32,8 +37,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85833401,
-        102087415
+        85811315,
+        102087415,
+        85833401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,22 @@
         {
             "country_id":85633793,
             "county_id":102087415,
+            "neighbourhood_id":85811315,
+            "region_id":85688607,
+            "venue_id":638987311
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087415,
             "neighbourhood_id":85833401,
             "region_id":85688607,
             "venue_id":638987311
         }
     ],
     "wof:id":638987311,
-    "wof:lastmodified":1466691944,
+    "wof:lastmodified":1492052098,
     "wof:name":"Hometown Moving & Storage",
-    "wof:parent_id":85833401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

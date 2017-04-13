@@ -2,9 +2,14 @@
   "id": 639592089,
   "type": "Feature",
   "properties": {
+    "addr:full":"486 Island Rd Columbus NJ 08022",
+    "addr:housenumber":"486",
+    "addr:postcode":"08022",
+    "addr:street":"Island Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.700644,40.075315,-74.700644,40.075315",
     "geom:latitude":40.075315,
     "geom:longitude":-74.700644,
@@ -28,7 +33,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OVf54xiwOZ8b37vzcrkX4_40.075315_-74.700644@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461301445,
     "wof:geomhash":"f04fa08b31f90aa6656b099ec346ed85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526663,
+            "venue_id":639592089
+        }
+    ],
     "wof:id":639592089,
-    "wof:lastmodified":1466696729,
+    "wof:lastmodified":1492048494,
     "wof:name":"Lanman Data Services Corp",
     "wof:parent_id":420526663,
     "wof:placetype":"venue",

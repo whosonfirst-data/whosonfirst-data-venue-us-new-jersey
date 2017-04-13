@@ -2,9 +2,14 @@
   "id": 639064235,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Great Bay Blvd Little Egg Hbr NJ 08087",
+    "addr:housenumber":"210",
+    "addr:postcode":"08087",
+    "addr:street":"Great Bay Blvd Little",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.345851,39.591726,-74.345851,39.591726",
     "geom:latitude":39.591726,
     "geom:longitude":-74.345851,
@@ -27,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85856529,
+        102081485,
+        420527413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Qa96ODycjhjeCNg4gWoh_39.591726_-74.345851@1294171694"
@@ -35,11 +46,24 @@
     "wof:country":"US",
     "wof:created":1461286566,
     "wof:geomhash":"fc2cad5c98f776b0be9f873914846086",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081485,
+            "neighbourhood_id":85856529,
+            "region_id":85688607,
+            "venue_id":639064235
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527413,
+            "venue_id":639064235
+        }
+    ],
     "wof:id":639064235,
-    "wof:lastmodified":1466688108,
+    "wof:lastmodified":1492025883,
     "wof:name":"Tuckerton and Dental",
-    "wof:parent_id":420527413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

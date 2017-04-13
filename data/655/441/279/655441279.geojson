@@ -2,9 +2,14 @@
   "id": 655441279,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 N Hill Rd Ringoes NJ 08551",
+    "addr:housenumber":"46",
+    "addr:postcode":"08551",
+    "addr:street":"N Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.779957,40.453392,-74.779957,40.453392",
     "geom:latitude":40.453392,
     "geom:longitude":-74.779957,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TynRLCudWElpE8sutPARy_40.453392_-74.779957@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461306335,
     "wof:geomhash":"1dfae8416615d2340767aeda14bc4576",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527071,
+            "venue_id":655441279
+        }
+    ],
     "wof:id":655441279,
-    "wof:lastmodified":1466676576,
+    "wof:lastmodified":1492048130,
     "wof:name":"Weathertop Farm",
     "wof:parent_id":420527071,
     "wof:placetype":"venue",

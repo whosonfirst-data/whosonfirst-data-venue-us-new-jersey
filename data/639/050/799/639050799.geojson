@@ -2,9 +2,14 @@
   "id": 639050799,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Greenholm St Princeton NJ 08540",
+    "addr:housenumber":"8",
+    "addr:postcode":"08540",
+    "addr:street":"Greenholm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.663639,40.35068,-74.663639,40.35068",
     "geom:latitude":40.35068,
     "geom:longitude":-74.663639,
@@ -28,7 +33,14 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDPSXAorvGdhscl5m2UWg_40.350680_-74.663639@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461286291,
     "wof:geomhash":"42696703106bc1d8d80de51c3dfbfab2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639050799
+        }
+    ],
     "wof:id":639050799,
-    "wof:lastmodified":1466674311,
+    "wof:lastmodified":1492051457,
     "wof:name":"Garry L Brown Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

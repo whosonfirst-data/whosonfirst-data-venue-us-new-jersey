@@ -2,9 +2,14 @@
   "id": 638990635,
   "type": "Feature",
   "properties": {
+    "addr:full":"947 Liberty Ave Hillside NJ 07205",
+    "addr:housenumber":"947",
+    "addr:postcode":"07205",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236505,40.690342,-74.236505,40.690342",
     "geom:latitude":40.690342,
     "geom:longitude":-74.236505,
@@ -30,7 +35,13 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478499,
+        85633793,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wCHHC1qj9b5I0dAmH2ALi_40.690342_-74.236505@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461284913,
     "wof:geomhash":"5106cb7b3594b85562334d8edd1997f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478499,
+            "region_id":85688607,
+            "venue_id":638990635
+        }
+    ],
     "wof:id":638990635,
-    "wof:lastmodified":1466692150,
+    "wof:lastmodified":1492028537,
     "wof:name":"Capo's Emergency Sewer & Drain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

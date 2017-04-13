@@ -2,9 +2,14 @@
   "id": 638758995,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 7th Ave Hammonton NJ 08037",
+    "addr:housenumber":"2105",
+    "addr:postcode":"08037",
+    "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.655406,39.592325,-74.655406,39.592325",
     "geom:latitude":39.592325,
     "geom:longitude":-74.655406,
@@ -30,7 +35,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477627,
+        85633793,
+        102083869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PhGgNophqPvNVTkDUSRrc_39.592325_-74.655406@1294171694"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461279256,
     "wof:geomhash":"bca31c0480eb0171baca75a115c4c297",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477627,
+            "region_id":85688607,
+            "venue_id":638758995
+        }
+    ],
     "wof:id":638758995,
-    "wof:lastmodified":1466679365,
+    "wof:lastmodified":1492062449,
     "wof:name":"American Hammock Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

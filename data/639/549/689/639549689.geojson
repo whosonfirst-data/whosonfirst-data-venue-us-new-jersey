@@ -2,9 +2,14 @@
   "id": 639549689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Long Hill Rd Stirling NJ 07980",
+    "addr:housenumber":"1050",
+    "addr:postcode":"07980",
+    "addr:street":"Long Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.498865,40.6802,-74.498865,40.6802",
     "geom:latitude":40.6802,
     "geom:longitude":-74.498865,
@@ -24,7 +29,12 @@
     "sg:postcode":"07980",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85833921,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zW1QsRcDy3WiY69QV4B7i_40.680200_-74.498865@1294171694"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1461299746,
     "wof:geomhash":"d7e36edb1b739d8756cad346d905b6cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85833921,
+            "region_id":85688607,
+            "venue_id":639549689
+        }
+    ],
     "wof:id":639549689,
-    "wof:lastmodified":1466695766,
+    "wof:lastmodified":1492028511,
     "wof:name":"Shrines Gift Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

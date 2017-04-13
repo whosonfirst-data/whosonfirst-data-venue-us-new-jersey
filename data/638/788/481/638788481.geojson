@@ -2,9 +2,14 @@
   "id": 638788481,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Jordan Dr Highland Lakes NJ 07422",
+    "addr:housenumber":"20",
+    "addr:postcode":"07422",
+    "addr:street":"Jordan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.427798,41.200541,-74.427798,41.200541",
     "geom:latitude":41.200541,
     "geom:longitude":-74.427798,
@@ -31,8 +36,9 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        85854855,
-        102086779
+        85814079,
+        102086779,
+        85854855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102086779,
+            "neighbourhood_id":85814079,
+            "region_id":85688607,
+            "venue_id":638788481
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086779,
             "neighbourhood_id":85854855,
             "region_id":85688607,
             "venue_id":638788481
         }
     ],
     "wof:id":638788481,
-    "wof:lastmodified":1466684112,
+    "wof:lastmodified":1492066647,
     "wof:name":"Joseph G Mack",
-    "wof:parent_id":85854855,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

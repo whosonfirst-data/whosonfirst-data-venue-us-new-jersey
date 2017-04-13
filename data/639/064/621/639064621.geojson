@@ -2,9 +2,14 @@
   "id": 639064621,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Oak Forest Ct Brick NJ 08724",
+    "addr:housenumber":"210",
+    "addr:postcode":"08724",
+    "addr:street":"Oak Forest Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.129139,40.08872,-74.129139,40.08872",
     "geom:latitude":40.08872,
     "geom:longitude":-74.129139,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T0Y6kEshynd8kttlPizPd_40.088720_-74.129139@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461286574,
     "wof:geomhash":"d0c8688aa5c69f5a83d3e57b21ef97d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527407,
+            "venue_id":639064621
+        }
+    ],
     "wof:id":639064621,
-    "wof:lastmodified":1466688160,
+    "wof:lastmodified":1492069613,
     "wof:name":"Better Builders Construction",
     "wof:parent_id":420527407,
     "wof:placetype":"venue",

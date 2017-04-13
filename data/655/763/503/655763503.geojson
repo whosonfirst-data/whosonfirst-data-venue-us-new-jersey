@@ -2,9 +2,14 @@
   "id": 655763503,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Mckee Dr Mahwah NJ 07430",
+    "addr:housenumber":"91",
+    "addr:postcode":"07430",
+    "addr:street":"Mckee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.147773,41.083321,-74.147773,41.083321",
     "geom:latitude":41.083321,
     "geom:longitude":-74.147773,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"http://www.edax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GthWN257SYqyNxScs7aPF_41.083321_-74.147773@1303262264"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461319787,
     "wof:geomhash":"06c8a25a5da363074edb9303236c5764",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655763503
+        }
+    ],
     "wof:id":655763503,
-    "wof:lastmodified":1466685930,
+    "wof:lastmodified":1492027767,
     "wof:name":"Edax Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

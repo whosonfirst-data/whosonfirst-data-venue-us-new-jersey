@@ -2,9 +2,14 @@
   "id": 639452713,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Maple Ave South Bound Brook NJ 08880",
+    "addr:housenumber":"152",
+    "addr:postcode":"08880",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.526135,40.551027,-74.526135,40.551027",
     "geom:latitude":40.551027,
     "geom:longitude":-74.526135,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W5rWzIJVRWevJyu1abB5I_40.551027_-74.526135@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461295527,
     "wof:geomhash":"a6e2bc66373333f5288625d6a0549c3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":639452713
+        }
+    ],
     "wof:id":639452713,
-    "wof:lastmodified":1466693595,
+    "wof:lastmodified":1492055928,
     "wof:name":"Twin Brooks Sound SEC Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655760455,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Hamburg Tpke Bloomingdale NJ 07403",
+    "addr:housenumber":"207",
+    "addr:postcode":"07403",
+    "addr:street":"Hamburg Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.347191,41.005531,-74.347191,41.005531",
     "geom:latitude":41.005531,
     "geom:longitude":-74.347191,
@@ -34,7 +39,14 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cpfPXVfCv9ZLKPuVIbm8o_41.005531_-74.347191@1303262263"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461319668,
     "wof:geomhash":"08a7f8fcd5d5c72c8fcf856d28a82c3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760455
+        }
+    ],
     "wof:id":655760455,
-    "wof:lastmodified":1466685854,
+    "wof:lastmodified":1492028015,
     "wof:name":"Manahawkin Trailer Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

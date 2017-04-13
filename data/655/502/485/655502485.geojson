@@ -2,9 +2,14 @@
   "id": 655502485,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 Anne Rd Newton NJ 07860",
+    "addr:housenumber":"914",
+    "addr:postcode":"07860",
+    "addr:street":"Anne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.845344,41.087243,-74.845344,41.087243",
     "geom:latitude":41.087243,
     "geom:longitude":-74.845344,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CxRhPWJP3tbL7qMH1C79O_41.087243_-74.845344@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461308953,
     "wof:geomhash":"6119c8b6bf6d047ee8abc6b0ad5b8385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527683,
+            "venue_id":655502485
+        }
+    ],
     "wof:id":655502485,
-    "wof:lastmodified":1466678210,
+    "wof:lastmodified":1492047567,
     "wof:name":"Shop At Home Floors",
     "wof:parent_id":420527683,
     "wof:placetype":"venue",

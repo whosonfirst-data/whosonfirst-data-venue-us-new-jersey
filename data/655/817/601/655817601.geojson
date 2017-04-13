@@ -2,9 +2,14 @@
   "id": 655817601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Route 130 S Cinnaminson NJ 08077",
+    "addr:housenumber":"2401",
+    "addr:postcode":"08077",
+    "addr:street":"Route 130 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.97821,40.005295,-74.97821,40.005295",
     "geom:latitude":40.005295,
     "geom:longitude":-74.97821,
@@ -33,7 +38,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FSb7qcLFsrw5ZVeEhkEga_40.005295_-74.978210@1303262277"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461322177,
     "wof:geomhash":"73eb35fdd84f59532657051194b3670b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526675,
+            "venue_id":655817601
+        }
+    ],
     "wof:id":655817601,
-    "wof:lastmodified":1466687443,
+    "wof:lastmodified":1492042018,
     "wof:name":"Optic One",
     "wof:parent_id":420526675,
     "wof:placetype":"venue",

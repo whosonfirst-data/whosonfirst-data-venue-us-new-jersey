@@ -2,9 +2,14 @@
   "id": 639529163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1587 Co Rd 565 Sussex NJ 07461",
+    "addr:housenumber":"1587;565",
+    "addr:postcode":"07461",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.554996,41.207451,-74.554996,41.207451",
     "geom:latitude":41.207451,
     "geom:longitude":-74.554996,
@@ -29,7 +34,10 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rkBiesIDSghEjgN0Zz1h1_41.207451_-74.554996@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461298792,
     "wof:geomhash":"0c06c73ba46058ac7a87c2b26a7de05d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527649,
+            "venue_id":639529163
+        }
+    ],
     "wof:id":639529163,
-    "wof:lastmodified":1466695679,
+    "wof:lastmodified":1492076395,
     "wof:name":"Dundas Engineering",
     "wof:parent_id":420527649,
     "wof:placetype":"venue",

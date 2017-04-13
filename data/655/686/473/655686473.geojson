@@ -2,9 +2,14 @@
   "id": 655686473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1311 Madison Hill Rd Rahway NJ 07065",
+    "addr:housenumber":"1311",
+    "addr:postcode":"07065",
+    "addr:street":"Madison Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.295524,40.617141,-74.295524,40.617141",
     "geom:latitude":40.617141,
     "geom:longitude":-74.295524,
@@ -28,7 +33,14 @@
         "barbeque"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UR7DIXzhrJ2Io4RNTm5AG_40.617175_-74.295494@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316692,
     "wof:geomhash":"4e74b706ef4ec8173581f45af52d0ed6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655686473
+        }
+    ],
     "wof:id":655686473,
-    "wof:lastmodified":1466684009,
+    "wof:lastmodified":1492024148,
     "wof:name":"Laura's Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

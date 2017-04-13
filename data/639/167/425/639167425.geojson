@@ -2,9 +2,14 @@
   "id": 639167425,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Main St Belmar NJ 07719",
+    "addr:housenumber":"601",
+    "addr:postcode":"07719",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.024153,40.183389,-74.024153,40.183389",
     "geom:latitude":40.183389,
     "geom:longitude":-74.024153,
@@ -33,7 +38,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478327,
+        85633793,
+        85975369,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Yi3stC3EYWuoRdmIXftOf_40.183389_-74.024153@1294171694"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461288909,
     "wof:geomhash":"12e954694ccacfdde3b94a000adc90bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478327,
+            "locality_id":85975369,
+            "region_id":85688607,
+            "venue_id":639167425
+        }
+    ],
     "wof:id":639167425,
-    "wof:lastmodified":1466684128,
+    "wof:lastmodified":1492048453,
     "wof:name":"South Belmar Municipal Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

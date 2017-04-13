@@ -2,9 +2,14 @@
   "id": 639200359,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Lehigh Ave Lakewood NJ 08701",
+    "addr:housenumber":"180",
+    "addr:postcode":"08701",
+    "addr:street":"Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.172545,40.072485,-74.172545,40.072485",
     "geom:latitude":40.072485,
     "geom:longitude":-74.172545,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O9dKIFkjn13oUabtokyyH_40.072485_-74.172545@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461289640,
     "wof:geomhash":"ec9e7d045eab80466f69b0bec18482d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527315,
+            "venue_id":639200359
+        }
+    ],
     "wof:id":639200359,
-    "wof:lastmodified":1466688581,
+    "wof:lastmodified":1492070196,
     "wof:name":"Spar Tex",
     "wof:parent_id":420527315,
     "wof:placetype":"venue",

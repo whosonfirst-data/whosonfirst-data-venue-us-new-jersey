@@ -2,9 +2,14 @@
   "id": 639343999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3371 State Rte 27 Franklin Park NJ 08823",
+    "addr:housenumber":"3371",
+    "addr:postcode":"08823",
+    "addr:street":"State Rte 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.556577,40.42959,-74.556577,40.42959",
     "geom:latitude":40.42959,
     "geom:longitude":-74.556577,
@@ -29,7 +34,14 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477923,
+        85633793,
+        85976121,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A4He9z8x4dlV5psCwJbkL_40.429590_-74.556577@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461292893,
     "wof:geomhash":"71b86823cb34957a2046631cbad995e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477923,
+            "locality_id":85976121,
+            "region_id":85688607,
+            "venue_id":639343999
+        }
+    ],
     "wof:id":639343999,
-    "wof:lastmodified":1466692567,
+    "wof:lastmodified":1492049585,
     "wof:name":"Franklin Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

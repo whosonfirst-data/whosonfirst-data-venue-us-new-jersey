@@ -2,9 +2,14 @@
   "id": 655392445,
   "type": "Feature",
   "properties": {
+    "addr:full":"671 River Rd Rahway NJ 07065",
+    "addr:housenumber":"671",
+    "addr:postcode":"07065",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.28075,40.619626,-74.28075,40.619626",
     "geom:latitude":40.619626,
     "geom:longitude":-74.28075,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478511,
+        85633793,
+        85975835,
+        102085995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MEqPmBRHODlGoSfvopBSr_40.619626_-74.280750@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461304316,
     "wof:geomhash":"63d72e04b811e0574b722fc85ae7dbe0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478511,
+            "locality_id":85975835,
+            "region_id":85688607,
+            "venue_id":655392445
+        }
+    ],
     "wof:id":655392445,
-    "wof:lastmodified":1466675307,
+    "wof:lastmodified":1492061292,
     "wof:name":"Navarro Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

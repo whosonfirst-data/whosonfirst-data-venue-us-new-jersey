@@ -2,9 +2,14 @@
   "id": 655689143,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Union Ave Cresskill NJ 07626",
+    "addr:housenumber":"25",
+    "addr:postcode":"07626",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.961861,40.942046,-73.961861,40.942046",
     "geom:latitude":40.942046,
     "geom:longitude":-73.961861,
@@ -29,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477653,
+        85633793,
+        85975915,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72rENX5yW8fDFrJM07oVz6_40.942046_-73.961861@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461316827,
     "wof:geomhash":"df02405e960fbacec0f0fa87ba19b7c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477653,
+            "locality_id":85975915,
+            "region_id":85688607,
+            "venue_id":655689143
+        }
+    ],
     "wof:id":655689143,
-    "wof:lastmodified":1466683936,
+    "wof:lastmodified":1492044594,
     "wof:name":"Uncle Cios Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639532409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Ashwood Ct Trenton NJ 08648",
+    "addr:housenumber":"2",
+    "addr:postcode":"08648",
+    "addr:street":"Ashwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.724407,40.309911,-74.724407,40.309911",
     "geom:latitude":40.309911,
     "geom:longitude":-74.724407,
@@ -25,13 +30,14 @@
     "sg:province":"NJ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        85633793,
+        85845955,
+        102081129,
         85830389,
         102191575,
         404478255,
-        85633793,
-        85976401,
-        102081129,
-        85688607
+        85976401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +47,13 @@
     "wof:created":1461298938,
     "wof:geomhash":"93f2281234c30f2f90c7bb802223b798",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85845955,
+            "region_id":85688607,
+            "venue_id":639532409
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":639532409,
-    "wof:lastmodified":1466695454,
+    "wof:lastmodified":1492047669,
     "wof:name":"Woodfield Estates",
-    "wof:parent_id":85830389,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

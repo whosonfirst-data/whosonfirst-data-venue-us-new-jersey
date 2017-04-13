@@ -2,9 +2,14 @@
   "id": 655580437,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 Russell Ave Wyckoff NJ 07481",
+    "addr:housenumber":"585",
+    "addr:postcode":"07481",
+    "addr:street":"Russell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.182295,40.990858,-74.182295,40.990858",
     "geom:latitude":40.990858,
     "geom:longitude":-74.182295,
@@ -37,7 +42,13 @@
     ],
     "sg:website":"www.bethrishon.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477753,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00NI5sCVubmXXVuR4afOXQ_40.990858_-74.182295@1294171694"
@@ -45,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461312180,
     "wof:geomhash":"830436241152d6394f4322a9ccac1c26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477753,
+            "region_id":85688607,
+            "venue_id":655580437
+        }
+    ],
     "wof:id":655580437,
-    "wof:lastmodified":1466680335,
+    "wof:lastmodified":1492028013,
     "wof:name":"Beth Rashon Nursery School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

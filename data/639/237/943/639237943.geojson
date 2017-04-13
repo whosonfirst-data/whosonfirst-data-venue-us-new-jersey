@@ -2,9 +2,14 @@
   "id": 639237943,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Valley Rd Manalapan NJ 07726",
+    "addr:housenumber":"19",
+    "addr:postcode":"07726",
+    "addr:street":"Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.363991,40.240912,-74.363991,40.240912",
     "geom:latitude":40.240912,
     "geom:longitude":-74.363991,
@@ -29,7 +34,10 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T9Jcmd5o9nbP1Pj0GiiW9_40.240912_-74.363991@1294171694"
@@ -37,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461290558,
     "wof:geomhash":"3621b2319aa08d552aef0d10f609b579",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527293,
+            "venue_id":639237943
+        }
+    ],
     "wof:id":639237943,
-    "wof:lastmodified":1466690133,
+    "wof:lastmodified":1492052315,
     "wof:name":"J & G Arellanos",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

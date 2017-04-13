@@ -2,9 +2,14 @@
   "id": 655595097,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Church St Mahwah NJ 07430",
+    "addr:housenumber":"118",
+    "addr:postcode":"07430",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.153077,41.098521,-74.153077,41.098521",
     "geom:latitude":41.098521,
     "geom:longitude":-74.153077,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477687,
+        85633793,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xTg5s1PchumLJE5rTUuJ1_41.098521_-74.153077@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461312792,
     "wof:geomhash":"ec90e6ed239d88d971b0344d96fb1b3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477687,
+            "region_id":85688607,
+            "venue_id":655595097
+        }
+    ],
     "wof:id":655595097,
-    "wof:lastmodified":1466680737,
+    "wof:lastmodified":1492051748,
     "wof:name":"A To Z Plumbing Heating & Airc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

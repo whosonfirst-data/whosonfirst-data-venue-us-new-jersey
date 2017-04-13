@@ -2,9 +2,14 @@
   "id": 639101057,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Woodbine Rd Florham Park NJ 07932",
+    "addr:housenumber":"24",
+    "addr:postcode":"07932",
+    "addr:street":"Woodbine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.394264,40.762319,-74.394264,40.762319",
     "geom:latitude":40.762319,
     "geom:longitude":-74.394264,
@@ -27,7 +32,14 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478311,
+        85633793,
+        85975555,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KXpW2SqIdLZY68w8N1oGw_40.762319_-74.394264@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287366,
     "wof:geomhash":"1f0e2df1caedc37b54797cf494a924a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404478311,
+            "locality_id":85975555,
+            "region_id":85688607,
+            "venue_id":639101057
+        }
+    ],
     "wof:id":639101057,
-    "wof:lastmodified":1466674413,
+    "wof:lastmodified":1492051313,
     "wof:name":"Telmarc Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

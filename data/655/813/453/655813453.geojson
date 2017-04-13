@@ -2,9 +2,14 @@
   "id": 655813453,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 Route 130 Willingboro NJ 08046",
+    "addr:housenumber":"4340",
+    "addr:postcode":"08046",
+    "addr:street":"Route 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.898272,40.049742,-74.898272,40.049742",
     "geom:latitude":40.049742,
     "geom:longitude":-74.898272,
@@ -32,7 +37,10 @@
         "veggie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QHUNWqEQdc0CuBPEBomJo_40.049742_-74.898272@1303262276"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461321964,
     "wof:geomhash":"b0d5f9f92894084880d88e4ed545d137",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526653,
+            "venue_id":655813453
+        }
+    ],
     "wof:id":655813453,
-    "wof:lastmodified":1466687234,
+    "wof:lastmodified":1492049202,
     "wof:name":"Grande Market Produce",
     "wof:parent_id":420526653,
     "wof:placetype":"venue",

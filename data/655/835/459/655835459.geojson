@@ -2,9 +2,14 @@
   "id": 655835459,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Faraday Ave Ste 1 Lakewood NJ 08701",
+    "addr:housenumber":"400",
+    "addr:postcode":"08701",
+    "addr:street":"Faraday Ave Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.248204,40.070795,-74.248204,40.070795",
     "geom:latitude":40.070795,
     "geom:longitude":-74.248204,
@@ -24,7 +29,13 @@
     "sg:postcode":"08701",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477773,
+        85633793,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SfLY3Bm4tNpDBbt9w0WGc_40.070795_-74.248204@1303262282"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461322884,
     "wof:geomhash":"0a8706755084c6a88eb74a2682e978d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477773,
+            "region_id":85688607,
+            "venue_id":655835459
+        }
+    ],
     "wof:id":655835459,
-    "wof:lastmodified":1466687909,
+    "wof:lastmodified":1492027534,
     "wof:name":"Exclusive Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

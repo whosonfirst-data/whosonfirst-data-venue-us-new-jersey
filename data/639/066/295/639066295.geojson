@@ -2,9 +2,14 @@
   "id": 639066295,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Vliettown Rd Oldwick NJ 08858",
+    "addr:housenumber":"56",
+    "addr:postcode":"08858",
+    "addr:street":"Vliettown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73566,40.676826,-74.73566,40.676826",
     "geom:latitude":40.676826,
     "geom:longitude":-74.73566,
@@ -27,7 +32,10 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oDWhirbeGfdLM9uZOy31E_40.676826_-74.735660@1294171694"
@@ -35,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461286614,
     "wof:geomhash":"401cabb978ee9db55938c7a602f5e6d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527617,
+            "venue_id":639066295
+        }
+    ],
     "wof:id":639066295,
-    "wof:lastmodified":1466688195,
+    "wof:lastmodified":1492076958,
     "wof:name":"Cedar Lane Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

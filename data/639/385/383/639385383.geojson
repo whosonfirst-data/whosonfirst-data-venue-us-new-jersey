@@ -2,9 +2,14 @@
   "id": 639385383,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Richardson Ave Atco NJ 08004",
+    "addr:housenumber":"220",
+    "addr:postcode":"08004",
+    "addr:street":"Richardson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889505,39.748017,-74.889505,39.748017",
     "geom:latitude":39.748017,
     "geom:longitude":-74.889505,
@@ -24,7 +29,13 @@
     "sg:postcode":"08004",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477939,
+        85633793,
+        102081131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OZrLpIThLJBR819onsro4_39.748017_-74.889505@1294171694"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461293751,
     "wof:geomhash":"8e0aec51299ce6325e4bd1669a574844",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081131,
+            "localadmin_id":404477939,
+            "region_id":85688607,
+            "venue_id":639385383
+        }
+    ],
     "wof:id":639385383,
-    "wof:lastmodified":1466692890,
+    "wof:lastmodified":1492040547,
     "wof:name":"Automatic Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

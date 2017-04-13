@@ -2,9 +2,14 @@
   "id": 655594441,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Bennett Ave Randolph NJ 07869",
+    "addr:housenumber":"33",
+    "addr:postcode":"07869",
+    "addr:street":"Bennett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.53721,40.877685,-74.53721,40.877685",
     "geom:latitude":40.877685,
     "geom:longitude":-74.53721,
@@ -29,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cZ5BgVYMFIWnfsAo9e3QW_40.877685_-74.537210@1294171694"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461312767,
     "wof:geomhash":"d8af02810a53e16eaf0c4b88ad1f21e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527323,
+            "venue_id":655594441
+        }
+    ],
     "wof:id":655594441,
-    "wof:lastmodified":1466680791,
+    "wof:lastmodified":1492048418,
     "wof:name":"Green Valley Contractors",
     "wof:parent_id":420527323,
     "wof:placetype":"venue",

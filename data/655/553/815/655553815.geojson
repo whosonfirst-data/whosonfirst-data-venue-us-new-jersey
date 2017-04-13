@@ -2,9 +2,14 @@
   "id": 655553815,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Spring Valley Rd Blairstown NJ 07825",
+    "addr:housenumber":"41",
+    "addr:postcode":"07825",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.936619,41.007249,-74.936619,41.007249",
     "geom:latitude":41.007249,
     "geom:longitude":-74.936619,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DDdPPXPx6myFf2viRX3DV_41.007249_-74.936619@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461310972,
     "wof:geomhash":"642ce5cb3d199a92be2e52b8f5a68315",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527769,
+            "venue_id":655553815
+        }
+    ],
     "wof:id":655553815,
-    "wof:lastmodified":1466679626,
+    "wof:lastmodified":1492048075,
     "wof:name":"O'Brien Plumbing & Heating",
     "wof:parent_id":420527769,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655760443,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Main St Ste A Bloomingdale NJ 07403",
+    "addr:housenumber":"36",
+    "addr:postcode":"07403",
+    "addr:street":"Main St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.325401,41.001999,-74.325401,41.001999",
     "geom:latitude":41.001999,
     "geom:longitude":-74.325401,
@@ -33,7 +38,14 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477807,
+        85633793,
+        85975491,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79GPt7b7V5phROBCiffL4R_41.001999_-74.325401@1303262263"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461319667,
     "wof:geomhash":"9790f9156e069e995dfa9e79ec44a68f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477807,
+            "locality_id":85975491,
+            "region_id":85688607,
+            "venue_id":655760443
+        }
+    ],
     "wof:id":655760443,
-    "wof:lastmodified":1466685850,
+    "wof:lastmodified":1492068143,
     "wof:name":"Medicine Shoppe Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

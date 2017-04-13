@@ -2,9 +2,14 @@
   "id": 638762937,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Wyoming Dr Jackson NJ 08527",
+    "addr:housenumber":"16",
+    "addr:postcode":"08527",
+    "addr:street":"Wyoming Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.253855,40.140758,-74.253855,40.140758",
     "geom:latitude":40.140758,
     "geom:longitude":-74.253855,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_718bbWebZuNb2ODg3npTqm_40.140758_-74.253855@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461279374,
     "wof:geomhash":"9032b1bdc7c3a512cec6579593a07ffe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527417,
+            "venue_id":638762937
+        }
+    ],
     "wof:id":638762937,
-    "wof:lastmodified":1466679849,
+    "wof:lastmodified":1492040982,
     "wof:name":"STAT Electric",
     "wof:parent_id":420527417,
     "wof:placetype":"venue",

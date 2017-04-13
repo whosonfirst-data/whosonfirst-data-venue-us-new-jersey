@@ -2,9 +2,14 @@
   "id": 655835501,
   "type": "Feature",
   "properties": {
+    "addr:full":"289 Drum Point Rd Brick NJ 08723",
+    "addr:housenumber":"289",
+    "addr:postcode":"08723",
+    "addr:street":"Drum Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115768,40.042991,-74.115768,40.042991",
     "geom:latitude":40.042991,
     "geom:longitude":-74.115768,
@@ -45,7 +50,10 @@
         "racing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vyvrVFIjgoLeWZGQR25kL_40.042991_-74.115768@1303262282"
@@ -53,9 +61,15 @@
     "wof:country":"US",
     "wof:created":1461322885,
     "wof:geomhash":"447a7a5e0ac136b025d56fdee2c630ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527381,
+            "venue_id":655835501
+        }
+    ],
     "wof:id":655835501,
-    "wof:lastmodified":1466687919,
+    "wof:lastmodified":1492053283,
     "wof:name":"AMP Automotive",
     "wof:parent_id":420527381,
     "wof:placetype":"venue",

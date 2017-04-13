@@ -2,9 +2,14 @@
   "id": 655616161,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Jessica Dr Howell NJ 07731",
+    "addr:housenumber":"24",
+    "addr:postcode":"07731",
+    "addr:street":"Jessica Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.141994,40.122872,-74.141994,40.122872",
     "geom:latitude":40.122872,
     "geom:longitude":-74.141994,
@@ -29,7 +34,14 @@
         "networking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478349,
+        85633793,
+        85976041,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aOTOCM1aD2B4vPsqRcYoS_40.122872_-74.141994@1294171694"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461313705,
     "wof:geomhash":"c2775ef2cf18ccd5f5999c48cb9c6dec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478349,
+            "locality_id":85976041,
+            "region_id":85688607,
+            "venue_id":655616161
+        }
+    ],
     "wof:id":655616161,
-    "wof:lastmodified":1466681526,
+    "wof:lastmodified":1492051980,
     "wof:name":"Brasco Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

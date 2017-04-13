@@ -2,9 +2,14 @@
   "id": 639520203,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 New Jersey Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"621",
+    "addr:postcode":"08742",
+    "addr:street":"New Jersey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.051594,40.086998,-74.051594,40.086998",
     "geom:latitude":40.086998,
     "geom:longitude":-74.051594,
@@ -24,7 +29,14 @@
     "sg:postcode":"08742",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477791,
+        85633793,
+        85975795,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ImpiWJd4uroUAJDUYrlae_40.086998_-74.051594@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298313,
     "wof:geomhash":"6f72fa6c0f87131978ccf1774db0fc7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477791,
+            "locality_id":85975795,
+            "region_id":85688607,
+            "venue_id":639520203
+        }
+    ],
     "wof:id":639520203,
-    "wof:lastmodified":1466695144,
+    "wof:lastmodified":1492052305,
     "wof:name":"Kashiko Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

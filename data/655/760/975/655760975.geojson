@@ -2,9 +2,14 @@
   "id": 655760975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1538 Rt 23 N Butler NJ 07405",
+    "addr:housenumber":"1538",
+    "addr:postcode":"07405",
+    "addr:street":"Rt 23 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.358531,41.005939,-74.358531,41.005939",
     "geom:latitude":41.005939,
     "geom:longitude":-74.358531,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.outback.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cHgD1nJf0dpqP2QNRXpra_41.005939_-74.358531@1303262263"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461319685,
     "wof:geomhash":"cadb9258d37f3375c12d8b4d9b14dff0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655760975
+        }
+    ],
     "wof:id":655760975,
-    "wof:lastmodified":1466685993,
+    "wof:lastmodified":1492042914,
     "wof:name":"Outback Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655812851,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Brooklawn Dr Willingboro NJ 08046",
+    "addr:housenumber":"56",
+    "addr:postcode":"08046",
+    "addr:street":"Brooklawn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.888129,40.042035,-74.888129,40.042035",
     "geom:latitude":40.042035,
     "geom:longitude":-74.888129,
@@ -29,7 +34,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ylm9JQC383e6dY1YMEgF1_40.042035_-74.888129@1303262276"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461321932,
     "wof:geomhash":"c78fcef1552c673741e2a789d4d54989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526571,
+            "venue_id":655812851
+        }
+    ],
     "wof:id":655812851,
-    "wof:lastmodified":1466687287,
+    "wof:lastmodified":1492027529,
     "wof:name":"Willingboro Township School District",
     "wof:parent_id":420526571,
     "wof:placetype":"venue",

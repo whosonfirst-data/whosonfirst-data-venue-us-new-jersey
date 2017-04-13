@@ -2,9 +2,14 @@
   "id": 639125419,
   "type": "Feature",
   "properties": {
+    "addr:full":"780 Frenchtown Rd Milford NJ 08848",
+    "addr:housenumber":"780",
+    "addr:postcode":"08848",
+    "addr:street":"Frenchtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.070777,40.550033,-75.070777,40.550033",
     "geom:latitude":40.550033,
     "geom:longitude":-75.070777,
@@ -27,7 +32,13 @@
         "battery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478151,
+        85633793,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gaC1c0K02vOTJZ9sv1bIr_40.550033_-75.070777@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461287975,
     "wof:geomhash":"9790c2fdbaea0738c989b8a194566513",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478151,
+            "region_id":85688607,
+            "venue_id":639125419
+        }
+    ],
     "wof:id":639125419,
-    "wof:lastmodified":1466677736,
+    "wof:lastmodified":1492055922,
     "wof:name":"Wellington Battery Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639508693,
   "type": "Feature",
   "properties": {
+    "addr:full":"704 Co Rd 625 Hampton NJ 08827",
+    "addr:housenumber":"704;625",
+    "addr:postcode":"08827",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987797,40.610537,-74.987797,40.610537",
     "geom:latitude":40.610537,
     "geom:longitude":-74.987797,
@@ -27,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85840889,
+        102085997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uePXK9h767ZCuKDrCdrN7_40.610537_-74.987797@1294171694"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461297789,
     "wof:geomhash":"9d546083a05c74bdeb1ed581577bdfec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85840889,
+            "region_id":85688607,
+            "venue_id":639508693
+        }
+    ],
     "wof:id":639508693,
-    "wof:lastmodified":1466694923,
+    "wof:lastmodified":1492053536,
     "wof:name":"Atlantic Sports Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

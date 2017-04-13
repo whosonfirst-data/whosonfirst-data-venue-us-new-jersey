@@ -2,9 +2,14 @@
   "id": 655690665,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 N Park Dr Newton NJ 07860",
+    "addr:housenumber":"6",
+    "addr:postcode":"07860",
+    "addr:street":"N Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.750273,41.068511,-74.750273,41.068511",
     "geom:latitude":41.068511,
     "geom:longitude":-74.750273,
@@ -31,7 +36,10 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZEkMcISwPcsN6X0V2fEAO_41.068511_-74.750273@1299784598"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461316888,
     "wof:geomhash":"c0dec4303cb4fbe305897d8b0617b3de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655690665
+        }
+    ],
     "wof:id":655690665,
-    "wof:lastmodified":1466684083,
+    "wof:lastmodified":1492068282,
     "wof:name":"Applebee's",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

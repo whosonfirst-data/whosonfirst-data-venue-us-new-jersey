@@ -2,9 +2,14 @@
   "id": 655690657,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Hampton House Rd Newton NJ 07860",
+    "addr:housenumber":"38",
+    "addr:postcode":"07860",
+    "addr:street":"Hampton House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.73886,41.074242,-74.73886,41.074242",
     "geom:latitude":41.074242,
     "geom:longitude":-74.73886,
@@ -29,7 +34,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sejO6UO47xnSyLWsaS2vZ_41.074242_-74.738860@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461316887,
     "wof:geomhash":"999ee5210d91f91d98447cd134cdbe6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527661,
+            "venue_id":655690657
+        }
+    ],
     "wof:id":655690657,
-    "wof:lastmodified":1466684080,
+    "wof:lastmodified":1492058465,
     "wof:name":"Burger King",
     "wof:parent_id":420527661,
     "wof:placetype":"venue",

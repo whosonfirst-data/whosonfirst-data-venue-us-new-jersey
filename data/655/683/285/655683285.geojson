@@ -2,9 +2,14 @@
   "id": 655683285,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Adams St Belvidere NJ 07823",
+    "addr:housenumber":"3",
+    "addr:postcode":"07823",
+    "addr:street":"Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072788,40.830465,-75.072788,40.830465",
     "geom:latitude":40.830465,
     "geom:longitude":-75.072788,
@@ -22,7 +27,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478413,
+        85633793,
+        85975859,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xCYK6P8Vc50HyGjZHvFFu_40.830465_-75.072788@1294171694"
@@ -30,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461316555,
     "wof:geomhash":"9b0c1a6e8965e2f54c6b6f9d56f415b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478413,
+            "locality_id":85975859,
+            "region_id":85688607,
+            "venue_id":655683285
+        }
+    ],
     "wof:id":655683285,
-    "wof:lastmodified":1466683785,
+    "wof:lastmodified":1492025611,
     "wof:name":"CNA Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

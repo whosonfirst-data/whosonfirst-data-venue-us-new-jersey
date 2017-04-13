@@ -2,9 +2,14 @@
   "id": 639138229,
   "type": "Feature",
   "properties": {
+    "addr:full":"839 State Rte 33 Monroe Twp NJ 08831",
+    "addr:housenumber":"839",
+    "addr:postcode":"08831",
+    "addr:street":"State Rte 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.443579,40.262658,-74.443579,40.262658",
     "geom:latitude":40.262658,
     "geom:longitude":-74.443579,
@@ -27,7 +32,13 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478287,
+        85633793,
+        102087417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BShnFRfENEMY2WLpxOdNn_40.262658_-74.443579@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461288248,
     "wof:geomhash":"9da389a4a9e116293a3487df1dab059f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478287,
+            "region_id":85688607,
+            "venue_id":639138229
+        }
+    ],
     "wof:id":639138229,
-    "wof:lastmodified":1466679490,
+    "wof:lastmodified":1492051966,
     "wof:name":"Corbin Steel & Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

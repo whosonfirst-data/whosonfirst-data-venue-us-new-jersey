@@ -2,9 +2,14 @@
   "id": 655686965,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 Kingsland Rd Clifton NJ 07014",
+    "addr:housenumber":"98",
+    "addr:postcode":"07014",
+    "addr:street":"Kingsland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.138397,40.825007,-74.138397,40.825007",
     "geom:latitude":40.825007,
     "geom:longitude":-74.138397,
@@ -28,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477809,
+        85633793,
+        85975493,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JIldC64FV2VkgJmcjVbem_40.825007_-74.138397@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461316729,
     "wof:geomhash":"fa40c71a1aab554279daf7e5dd439e08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477809,
+            "locality_id":85975493,
+            "region_id":85688607,
+            "venue_id":655686965
+        }
+    ],
     "wof:id":655686965,
-    "wof:lastmodified":1466684137,
+    "wof:lastmodified":1492025443,
     "wof:name":"Shannon Rose Irish Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

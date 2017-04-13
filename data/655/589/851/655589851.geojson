@@ -2,9 +2,14 @@
   "id": 655589851,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Sweetmans Ln Manalapan NJ 07726",
+    "addr:housenumber":"17",
+    "addr:postcode":"07726",
+    "addr:street":"Sweetmans Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.345735,40.24744,-74.345735,40.24744",
     "geom:latitude":40.24744,
     "geom:longitude":-74.345735,
@@ -28,7 +33,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478363,
+        85633793,
+        102085049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_101KtKHWSCFCyrYECPljn4_40.247440_-74.345735@1294171694"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461312581,
     "wof:geomhash":"35c610c8d21fe03f4ba54f6f87bd78e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478363,
+            "region_id":85688607,
+            "venue_id":655589851
+        }
+    ],
     "wof:id":655589851,
-    "wof:lastmodified":1466680830,
+    "wof:lastmodified":1492023453,
     "wof:name":"Junkitz LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

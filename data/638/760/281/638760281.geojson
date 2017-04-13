@@ -2,9 +2,14 @@
   "id": 638760281,
   "type": "Feature",
   "properties": {
+    "addr:full":"577 US Hwy 46 Kenvil NJ 07847",
+    "addr:housenumber":"577",
+    "addr:postcode":"07847",
+    "addr:street":"Us Hwy 46",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.624386,40.879523,-74.624386,40.879523",
     "geom:latitude":40.879523,
     "geom:longitude":-74.624386,
@@ -31,7 +36,10 @@
         85633793,
         85976189,
         102087413,
-        85688607
+        85688607,
+        85829143,
+        404477327,
+        85975571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":420527343,
             "region_id":85688607,
             "venue_id":638760281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477327,
+            "locality_id":85975571,
+            "neighbourhood_id":85829143,
+            "region_id":85688607,
+            "venue_id":638760281
         }
     ],
     "wof:id":638760281,
-    "wof:lastmodified":1466679514,
+    "wof:lastmodified":1492068731,
     "wof:name":"Cuts By Kevin",
-    "wof:parent_id":420527343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

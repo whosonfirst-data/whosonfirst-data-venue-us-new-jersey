@@ -2,9 +2,14 @@
   "id": 639474437,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Hillcrest Rd Holmdel NJ 07733",
+    "addr:housenumber":"12",
+    "addr:postcode":"07733",
+    "addr:street":"Hillcrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.195765,40.401727,-74.195765,40.401727",
     "geom:latitude":40.401727,
     "geom:longitude":-74.195765,
@@ -28,7 +33,8 @@
         85688607,
         85633793,
         85812779,
-        102085049
+        102085049,
+        85835301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +50,19 @@
             "neighbourhood_id":85812779,
             "region_id":85688607,
             "venue_id":639474437
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085049,
+            "neighbourhood_id":85835301,
+            "region_id":85688607,
+            "venue_id":639474437
         }
     ],
     "wof:id":639474437,
-    "wof:lastmodified":1466694266,
+    "wof:lastmodified":1492042256,
     "wof:name":"Kinder College",
-    "wof:parent_id":85812779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

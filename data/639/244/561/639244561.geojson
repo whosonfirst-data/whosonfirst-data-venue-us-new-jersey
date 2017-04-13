@@ -2,9 +2,14 @@
   "id": 639244561,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 US Hwy 130 Bordentown NJ 08505",
+    "addr:housenumber":"305",
+    "addr:postcode":"08505",
+    "addr:street":"Us Hwy 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.712039,40.136755,-74.712039,40.136755",
     "geom:latitude":40.136755,
     "geom:longitude":-74.712039,
@@ -28,7 +33,10 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Vhr4V7dwluCywCubpMbx_40.136755_-74.712039@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461290711,
     "wof:geomhash":"fb2594054f4975728f4a611e83188184",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526703,
+            "venue_id":639244561
+        }
+    ],
     "wof:id":639244561,
-    "wof:lastmodified":1466690285,
+    "wof:lastmodified":1492030966,
     "wof:name":"Dry Cleaners",
     "wof:parent_id":420526703,
     "wof:placetype":"venue",

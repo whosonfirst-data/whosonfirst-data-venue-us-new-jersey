@@ -2,9 +2,14 @@
   "id": 655468329,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Kiel Ave Butler NJ 07405",
+    "addr:housenumber":"17",
+    "addr:postcode":"07405",
+    "addr:street":"Kiel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34138,41.001479,-74.34138,41.001479",
     "geom:latitude":41.001479,
     "geom:longitude":-74.34138,
@@ -28,7 +33,14 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477515,
+        85633793,
+        85975561,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HMdgkhlvXFAkEEKGBe3Lj_41.001479_-74.341380@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461307516,
     "wof:geomhash":"64bde0b1d4d202cea6f28fb5b52afbd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477515,
+            "locality_id":85975561,
+            "region_id":85688607,
+            "venue_id":655468329
+        }
+    ],
     "wof:id":655468329,
-    "wof:lastmodified":1466677334,
+    "wof:lastmodified":1492055365,
     "wof:name":"Franco Industrial Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

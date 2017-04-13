@@ -2,9 +2,14 @@
   "id": 639626295,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 S Orange Ave South Orange NJ 07079",
+    "addr:housenumber":"23",
+    "addr:postcode":"07079",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.259972,40.746465,-74.259972,40.746465",
     "geom:latitude":40.746465,
     "geom:longitude":-74.259972,
@@ -30,7 +35,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QRBjPP3rL6txiMlFMH3S1_40.746465_-74.259972@1294171694"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461302746,
     "wof:geomhash":"fb116bbb0664079d65a9e5cd5626a1b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526941,
+            "venue_id":639626295
+        }
+    ],
     "wof:id":639626295,
-    "wof:lastmodified":1466697461,
+    "wof:lastmodified":1492050509,
     "wof:name":"Prescription Counter The",
     "wof:parent_id":420526941,
     "wof:placetype":"venue",

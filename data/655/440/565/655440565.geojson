@@ -2,9 +2,14 @@
   "id": 655440565,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Possum Trl Saddle River NJ 07458",
+    "addr:housenumber":"31",
+    "addr:postcode":"07458",
+    "addr:street":"Possum Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.113088,41.061992,-74.113088,41.061992",
     "geom:latitude":41.061992,
     "geom:longitude":-74.113088,
@@ -27,7 +32,14 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477741,
+        85633793,
+        85975899,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KPd9epLLnpWhYWHDUKmmc_41.061992_-74.113088@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461306305,
     "wof:geomhash":"b478f8f588cc51f4148e664e8db5f193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477741,
+            "locality_id":85975899,
+            "region_id":85688607,
+            "venue_id":655440565
+        }
+    ],
     "wof:id":655440565,
-    "wof:lastmodified":1466676640,
+    "wof:lastmodified":1492053717,
     "wof:name":"Silver Lining Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

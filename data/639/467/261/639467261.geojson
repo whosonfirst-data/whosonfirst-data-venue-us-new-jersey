@@ -2,9 +2,14 @@
   "id": 639467261,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Marshall St Phillipsburg NJ 08865",
+    "addr:housenumber":"445",
+    "addr:postcode":"08865",
+    "addr:street":"Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182885,40.694877,-75.182885,40.694877",
     "geom:latitude":40.694877,
     "geom:longitude":-75.182885,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54P5WNoohERM0FC3Z6RGPn_40.694877_-75.182885@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461296082,
     "wof:geomhash":"c5583ee9d55f5ca10f30f76e60df0ff5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639467261
+        }
+    ],
     "wof:id":639467261,
-    "wof:lastmodified":1466693925,
+    "wof:lastmodified":1492047108,
     "wof:name":"ZPF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

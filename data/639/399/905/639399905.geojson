@@ -2,9 +2,14 @@
   "id": 639399905,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Boulton Ave Point Pleasant Beach NJ 08742",
+    "addr:housenumber":"607",
+    "addr:postcode":"08742",
+    "addr:street":"Boulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.078974,40.082691,-74.078974,40.082691",
     "geom:latitude":40.082691,
     "geom:longitude":-74.078974,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477789,
+        85633793,
+        85975769,
+        102081485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ec3DkKpgw6QaBhK7zUK7d_40.082691_-74.078974@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461294190,
     "wof:geomhash":"c66ca6c67a835c95629d02eac9f06f5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477789,
+            "locality_id":85975769,
+            "region_id":85688607,
+            "venue_id":639399905
+        }
+    ],
     "wof:id":639399905,
-    "wof:lastmodified":1466693070,
+    "wof:lastmodified":1492069617,
     "wof:name":"ER Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

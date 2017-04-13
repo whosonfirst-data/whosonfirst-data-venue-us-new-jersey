@@ -2,9 +2,14 @@
   "id": 639618025,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Washington Ave Dumont NJ 07628",
+    "addr:housenumber":"103",
+    "addr:postcode":"07628",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.994122,40.938692,-73.994122,40.938692",
     "geom:latitude":40.938692,
     "geom:longitude":-73.994122,
@@ -28,7 +33,14 @@
         "manicuring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477655,
+        85633793,
+        85975903,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uJ12tm81yz5MED4ErAvNF_40.938692_-73.994122@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461302431,
     "wof:geomhash":"2aa669b7ef1ce10813d51b407801c2cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477655,
+            "locality_id":85975903,
+            "region_id":85688607,
+            "venue_id":639618025
+        }
+    ],
     "wof:id":639618025,
-    "wof:lastmodified":1466697382,
+    "wof:lastmodified":1492029566,
     "wof:name":"D K Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

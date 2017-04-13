@@ -2,9 +2,14 @@
   "id": 638836565,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Hardenburgh Ave Demarest NJ 07627",
+    "addr:housenumber":"101",
+    "addr:postcode":"07627",
+    "addr:street":"Hardenburgh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.966859,40.957264,-73.966859,40.957264",
     "geom:latitude":40.957264,
     "geom:longitude":-73.966859,
@@ -32,7 +37,14 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477283,
+        85633793,
+        85975905,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_505LgnQKs3dBThfp9kZ1eW_40.957264_-73.966859@1294171694"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461281152,
     "wof:geomhash":"db13ae8c870d78e077f22d21828e873b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477283,
+            "locality_id":85975905,
+            "region_id":85688607,
+            "venue_id":638836565
+        }
+    ],
     "wof:id":638836565,
-    "wof:lastmodified":1466689033,
+    "wof:lastmodified":1492024287,
     "wof:name":"Acme Orna Ir Mower & Elc Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

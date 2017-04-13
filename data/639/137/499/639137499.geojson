@@ -2,9 +2,14 @@
   "id": 639137499,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 E Washington Ave Atlantic Hghlnds NJ 07716",
+    "addr:housenumber":"37",
+    "addr:postcode":"07716",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.036181,40.411124,-74.036181,40.411124",
     "geom:latitude":40.411124,
     "geom:longitude":-74.036181,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DxysElH27K007aN1IRUVr_40.411124_-74.036181@1294171694"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461288234,
     "wof:geomhash":"ef480bf3dca4db571965233ee20292db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527273,
+            "venue_id":639137499
+        }
+    ],
     "wof:id":639137499,
-    "wof:lastmodified":1466679393,
+    "wof:lastmodified":1492051865,
     "wof:name":"Monmouth Medical Group",
     "wof:parent_id":420527273,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655643519,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Park Pl Irvington NJ 07111",
+    "addr:housenumber":"57",
+    "addr:postcode":"07111",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.236132,40.723159,-74.236132,40.723159",
     "geom:latitude":40.723159,
     "geom:longitude":-74.236132,
@@ -27,7 +32,13 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478113,
+        85633793,
+        102085043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EnDgFAiT5lOr9YiDX38PA_40.723159_-74.236132@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461314912,
     "wof:geomhash":"0dcc837c8942b910142884c4ea1b5798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478113,
+            "region_id":85688607,
+            "venue_id":655643519
+        }
+    ],
     "wof:id":655643519,
-    "wof:lastmodified":1466682578,
+    "wof:lastmodified":1492023752,
     "wof:name":"Captain Cleaning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

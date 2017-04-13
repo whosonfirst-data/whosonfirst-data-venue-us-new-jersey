@@ -2,9 +2,14 @@
   "id": 639611663,
   "type": "Feature",
   "properties": {
+    "addr:full":"663 Ramsey Ave Hillside NJ 07205",
+    "addr:housenumber":"663",
+    "addr:postcode":"07205",
+    "addr:street":"Ramsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.234766,40.708575,-74.234766,40.708575",
     "geom:latitude":40.708575,
     "geom:longitude":-74.234766,
@@ -35,7 +40,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rPdzg6tCIaPvB2Voppb7c_40.708575_-74.234766@1294171694"
@@ -43,11 +51,17 @@
     "wof:country":"US",
     "wof:created":1461302187,
     "wof:geomhash":"55525ff8e689d072b1e230a8a203f392",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526925,
+            "venue_id":639611663
+        }
+    ],
     "wof:id":639611663,
-    "wof:lastmodified":1466697266,
+    "wof:lastmodified":1492051353,
     "wof:name":"J R Engineering & Machine Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

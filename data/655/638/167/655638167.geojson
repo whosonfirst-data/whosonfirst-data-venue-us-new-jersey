@@ -2,9 +2,14 @@
   "id": 655638167,
   "type": "Feature",
   "properties": {
+    "addr:full":"543 Closter Dock Rd Closter NJ 07624",
+    "addr:housenumber":"543",
+    "addr:postcode":"07624",
+    "addr:street":"Closter Dock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.952955,40.964291,-73.952955,40.964291",
     "geom:latitude":40.964291,
     "geom:longitude":-73.952955,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477651,
+        85633793,
+        85975917,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zyCLKYHqvQlOTQVQnNTxO_40.964291_-73.952955@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461314693,
     "wof:geomhash":"8ef9f6d46b8255910035dd7bb3bd1132",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477651,
+            "locality_id":85975917,
+            "region_id":85688607,
+            "venue_id":655638167
+        }
+    ],
     "wof:id":655638167,
-    "wof:lastmodified":1466682351,
+    "wof:lastmodified":1492066266,
     "wof:name":"Fleet Refrigeration Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

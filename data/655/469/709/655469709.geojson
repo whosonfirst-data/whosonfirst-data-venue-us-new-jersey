@@ -2,9 +2,14 @@
   "id": 655469709,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 10th St Jersey City NJ 07302",
+    "addr:housenumber":"300",
+    "addr:postcode":"07302",
+    "addr:street":"10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.048233,40.729391,-74.048233,40.729391",
     "geom:latitude":40.729391,
     "geom:longitude":-74.048233,
@@ -30,13 +35,14 @@
     "sg:website":"www.haygroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878419,
+        85878433,
         102191575,
         404478139,
         85633793,
         85975295,
         102080719,
-        85688607
+        85688607,
+        85878419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102080719,
             "localadmin_id":404478139,
             "locality_id":85975295,
+            "neighbourhood_id":85878433,
+            "region_id":85688607,
+            "venue_id":655469709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
             "neighbourhood_id":85878419,
             "region_id":85688607,
             "venue_id":655469709
         }
     ],
     "wof:id":655469709,
-    "wof:lastmodified":1466677477,
+    "wof:lastmodified":1492024193,
     "wof:name":"Hay Management Consultants",
-    "wof:parent_id":85878419,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

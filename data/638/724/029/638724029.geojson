@@ -2,9 +2,14 @@
   "id": 638724029,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Chestnut St Norwood NJ 07648",
+    "addr:housenumber":"355",
+    "addr:postcode":"07648",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.954129,40.993421,-73.954129,40.993421",
     "geom:latitude":40.993421,
     "geom:longitude":-73.954129,
@@ -27,7 +32,14 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477699,
+        85633793,
+        85975961,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rvcoXMO4UyjWACOImTBur_40.993421_-73.954129@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278312,
     "wof:geomhash":"3eb7ac0a7bd96fc069fa66766c330e0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477699,
+            "locality_id":85975961,
+            "region_id":85688607,
+            "venue_id":638724029
+        }
+    ],
     "wof:id":638724029,
-    "wof:lastmodified":1466674541,
+    "wof:lastmodified":1492062338,
     "wof:name":"General Cigar Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

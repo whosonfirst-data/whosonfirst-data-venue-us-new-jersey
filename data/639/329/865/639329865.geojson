@@ -2,9 +2,14 @@
   "id": 639329865,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 John St Princeton NJ 08542",
+    "addr:housenumber":"120",
+    "addr:postcode":"08542",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.662857,40.351657,-74.662857,40.351657",
     "geom:latitude":40.351657,
     "geom:longitude":-74.662857,
@@ -28,7 +33,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478257,
+        85633793,
+        85975813,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Avs4uswOIl5dBX7H8Y6tX_40.351657_-74.662857@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461292602,
     "wof:geomhash":"3efdb330a3708d4396d0c7a2ef4ff967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478257,
+            "locality_id":85975813,
+            "region_id":85688607,
+            "venue_id":639329865
+        }
+    ],
     "wof:id":639329865,
-    "wof:lastmodified":1466692108,
+    "wof:lastmodified":1492042562,
     "wof:name":"Hands On Helpers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

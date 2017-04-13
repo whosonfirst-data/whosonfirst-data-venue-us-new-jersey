@@ -2,9 +2,14 @@
   "id": 639523829,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Maple Ave South Bound Brook NJ 08880",
+    "addr:housenumber":"120",
+    "addr:postcode":"08880",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.525151,40.553232,-74.525151,40.553232",
     "geom:latitude":40.553232,
     "geom:longitude":-74.525151,
@@ -24,7 +29,14 @@
     "sg:postcode":"08880",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477565,
+        85633793,
+        85975499,
+        102085045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hD7L571k9UFTTKF1QCxnO_40.553232_-74.525151@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461298497,
     "wof:geomhash":"235a32f6814541a39922500e7e2ea6f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477565,
+            "locality_id":85975499,
+            "region_id":85688607,
+            "venue_id":639523829
+        }
+    ],
     "wof:id":639523829,
-    "wof:lastmodified":1466695237,
+    "wof:lastmodified":1492042423,
     "wof:name":"Ra Frederickson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

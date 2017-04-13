@@ -2,9 +2,14 @@
   "id": 638731515,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Lincoln Ave Elmwood Park NJ 07407",
+    "addr:housenumber":"44",
+    "addr:postcode":"07407",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131206,40.910858,-74.131206,40.910858",
     "geom:latitude":40.910858,
     "geom:longitude":-74.131206,
@@ -27,7 +32,14 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477527,
+        85633793,
+        85975891,
+        102086773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XS6ov36OyEObYiZjf9uwl_40.910858_-74.131206@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461278521,
     "wof:geomhash":"29e0e0a0b99d8b3aaa7905ba348ae656",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "localadmin_id":404477527,
+            "locality_id":85975891,
+            "region_id":85688607,
+            "venue_id":638731515
+        }
+    ],
     "wof:id":638731515,
-    "wof:lastmodified":1466675629,
+    "wof:lastmodified":1492029447,
     "wof:name":"D Maguire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

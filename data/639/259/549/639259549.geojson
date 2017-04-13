@@ -2,9 +2,14 @@
   "id": 639259549,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 US Hwy 202 Ringoes NJ 08551",
+    "addr:housenumber":"176",
+    "addr:postcode":"08551",
+    "addr:street":"Us Hwy 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.8638,40.479692,-74.8638,40.479692",
     "geom:latitude":40.479692,
     "geom:longitude":-74.8638,
@@ -30,10 +35,14 @@
     "sg:website":"www.verduccis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85819609,
+        102191575,
+        404477453,
         85633793,
-        85812239,
-        102085997
+        85975697,
+        102085997,
+        85688607,
+        85812239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +53,16 @@
     "wof:geomhash":"6accd1b901e155fa3d9bf93384d55dc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404477453,
+            "locality_id":85975697,
+            "neighbourhood_id":85819609,
+            "region_id":85688607,
+            "venue_id":639259549
+        },
+        {
             "country_id":85633793,
             "county_id":102085997,
             "neighbourhood_id":85812239,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":639259549,
-    "wof:lastmodified":1466690412,
+    "wof:lastmodified":1492030601,
     "wof:name":"Verducci's Specialty Market",
-    "wof:parent_id":85812239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nj",
     "wof:superseded_by":[],

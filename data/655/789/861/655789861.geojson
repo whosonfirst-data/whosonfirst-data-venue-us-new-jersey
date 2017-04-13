@@ -2,9 +2,14 @@
   "id": 655789861,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 High St Newton NJ 07860",
+    "addr:housenumber":"61",
+    "addr:postcode":"07860",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.754925,41.057808,-74.754925,41.057808",
     "geom:latitude":41.057808,
     "geom:longitude":-74.754925,
@@ -27,7 +32,10 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sJHztCaC9QpgIBxacUfPp_41.057808_-74.754925@1303262270"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461320973,
     "wof:geomhash":"d89b5312cdf1c85ce42bd59eaada1212",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527631,
+            "venue_id":655789861
+        }
+    ],
     "wof:id":655789861,
-    "wof:lastmodified":1466686739,
+    "wof:lastmodified":1492070867,
     "wof:name":"Maryanne Ducey",
     "wof:parent_id":420527631,
     "wof:placetype":"venue",

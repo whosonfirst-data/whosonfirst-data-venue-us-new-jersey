@@ -2,9 +2,14 @@
   "id": 639401633,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Woodshire Ter Towaco NJ 07082",
+    "addr:housenumber":"24",
+    "addr:postcode":"07082",
+    "addr:street":"Woodshire Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.34729,40.906753,-74.34729,40.906753",
     "geom:latitude":40.906753,
     "geom:longitude":-74.34729,
@@ -27,7 +32,13 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477767,
+        85633793,
+        102087413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QUsvLmQIzpIAmARfFEOM7_40.906753_-74.347290@1294171694"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461294247,
     "wof:geomhash":"17e78d6d99387f4153caa7858e06dc6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087413,
+            "localadmin_id":404477767,
+            "region_id":85688607,
+            "venue_id":639401633
+        }
+    ],
     "wof:id":639401633,
-    "wof:lastmodified":1466693034,
+    "wof:lastmodified":1492076576,
     "wof:name":"Camp Danbee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

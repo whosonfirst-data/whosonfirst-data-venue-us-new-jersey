@@ -2,9 +2,14 @@
   "id": 655788433,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 County Road 517 Califon NJ 07830",
+    "addr:housenumber":"228",
+    "addr:postcode":"07830",
+    "addr:street":"County Road 517",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.775232,40.72508,-74.775232,40.72508",
     "geom:latitude":40.72508,
     "geom:longitude":-74.775232,
@@ -32,7 +37,10 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v8ssShjpVMsRII8ZI4Wky_40.725080_-74.775232@1303262270"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461320919,
     "wof:geomhash":"b512604da782f4570f1fd785b3edf9dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527075,
+            "venue_id":655788433
+        }
+    ],
     "wof:id":655788433,
-    "wof:lastmodified":1466686623,
+    "wof:lastmodified":1492030690,
     "wof:name":"Fairmount School Inc the",
     "wof:parent_id":420527075,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638637629,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Station Dr Princeton Junction NJ 08550",
+    "addr:housenumber":"37",
+    "addr:postcode":"08550",
+    "addr:street":"Station Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.623163,40.317516,-74.623163,40.317516",
     "geom:latitude":40.317516,
     "geom:longitude":-74.623163,
@@ -24,7 +29,14 @@
     "sg:postcode":"08550",
     "sg:province":"NJ",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478267,
+        85633793,
+        85976395,
+        102081129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dPTqNrUKIu9rMHsYtZOso_40.317516_-74.623163@1294171694"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461275450,
     "wof:geomhash":"7db75a281847f3b39009a434409609b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":85976395,
+            "region_id":85688607,
+            "venue_id":638637629
+        }
+    ],
     "wof:id":638637629,
-    "wof:lastmodified":1466673481,
+    "wof:lastmodified":1492069723,
     "wof:name":"Donald H Greenman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

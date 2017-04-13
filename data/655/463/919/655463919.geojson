@@ -2,9 +2,14 @@
   "id": 655463919,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 W Farms Rd Farmingdale NJ 07727",
+    "addr:housenumber":"275",
+    "addr:postcode":"07727",
+    "addr:street":"W Farms Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.205766,40.191246,-74.205766,40.191246",
     "geom:latitude":40.191246,
     "geom:longitude":-74.205766,
@@ -27,7 +32,10 @@
         "athletic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420527253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MuFyR4h7o6pWpsOt5r0Lc_40.191246_-74.205766@1294171694"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461307325,
     "wof:geomhash":"917af1f2fe5add22c46060bbb035ba3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420527253,
+            "venue_id":655463919
+        }
+    ],
     "wof:id":655463919,
-    "wof:lastmodified":1466677279,
+    "wof:lastmodified":1492053510,
     "wof:name":"Police Athletic League",
     "wof:parent_id":420527253,
     "wof:placetype":"venue",

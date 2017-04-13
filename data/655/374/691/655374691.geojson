@@ -2,9 +2,14 @@
   "id": 655374691,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Skyline Dr Ringwood NJ 07456",
+    "addr:housenumber":"52",
+    "addr:postcode":"07456",
+    "addr:street":"Skyline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.262926,41.086251,-74.262926,41.086251",
     "geom:latitude":41.086251,
     "geom:longitude":-74.262926,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404477873,
+        85633793,
+        85975473,
+        102081133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B2cIDntId5OE4EM76ufYq_41.086251_-74.262926@1294171694"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461303609,
     "wof:geomhash":"252aa98e4687a2a9037bb7315bf2b05f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477873,
+            "locality_id":85975473,
+            "region_id":85688607,
+            "venue_id":655374691
+        }
+    ],
     "wof:id":655374691,
-    "wof:lastmodified":1466674855,
+    "wof:lastmodified":1492057013,
     "wof:name":"CDR Fiber Optic Svc Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

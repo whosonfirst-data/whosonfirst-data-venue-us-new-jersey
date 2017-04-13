@@ -2,9 +2,14 @@
   "id": 639090275,
   "type": "Feature",
   "properties": {
+    "addr:full":"598 Memorial Pkwy Phillipsburg NJ 08865",
+    "addr:housenumber":"598",
+    "addr:postcode":"08865",
+    "addr:street":"Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.184024,40.696312,-75.184024,40.696312",
     "geom:latitude":40.696312,
     "geom:longitude":-75.184024,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478527,
+        85633793,
+        85975853,
+        102083873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CRZGCA0tYCSn5EJvD8Qry_40.696312_-75.184024@1294171694"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461287149,
     "wof:geomhash":"9b18cfb107977cce4fc23e822f27eee3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083873,
+            "localadmin_id":404478527,
+            "locality_id":85975853,
+            "region_id":85688607,
+            "venue_id":639090275
+        }
+    ],
     "wof:id":639090275,
-    "wof:lastmodified":1466673006,
+    "wof:lastmodified":1492076798,
     "wof:name":"Motiva Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
